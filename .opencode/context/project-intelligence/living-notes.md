@@ -57,9 +57,10 @@ compartilha 1.214, pendente 69.
 ## Próximo passo, em ordem
 
 1. **Crawl `.gov.br`** nos 1.218 municípios restantes: corrigido em D23
-   (robots, intervalo por host, UA real). Em teste em AL — 16 de 34 municípios,
-   10 símbolos achados, ~US$ 0,0008 e ~123 s por município. O que ele acha são
-   **símbolos**, quase nunca a lei (0 atos em 30 páginas).
+   (robots, intervalo por host, UA real) e medido em AL — **34 municípios,
+   24 min, US$ 0,0019, 18 símbolos em 66 páginas** (9 municípios com símbolo,
+   26%), **0 atos e 0 PDFs**. Extrapolação: ~645 símbolos e ~US$ 0,07.
+   O crawl acha símbolo, não lei (ver Armadilhas).
 2. **Portão de visão** nos 915 itens que precisam (`simbolos visao`, motor
    `decisao`), e nos achados do crawl oficial.
 3. **`/baixar`**: pacotes por estado e formato, `brasil-livre.zip` (só balde
@@ -138,6 +139,10 @@ compartilha 1.214, pendente 69.
   erra para um dos lados — e o lado errado é o que quebra a confiança.
 - **O UA precisa de contato que exista** (`contato@atelie.dev.br`). O anterior
   apontava para repositório e domínio inexistentes, o que justifica o bloqueio.
+- **Página de "símbolos" não cita a lei.** Em AL: 66 páginas, 18 com imagem e
+  **0 com ato** — o texto institucional tem ~500 caracteres e não menciona Lei
+  nem Decreto, e `achar_ato` devolve `tem_ato: false` corretamente. O crawl é
+  caçador de **símbolo**, não de lei; a cadeia lei → PDF → vetor não sai daqui.
 - **Fatiar a malha**: o item de cada célula é `[codigo, slug, aneis]`; o teste
   par-ímpar sobre todos os anéis resolve MultiPolygon e furo.
 
