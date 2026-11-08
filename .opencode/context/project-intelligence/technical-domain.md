@@ -130,7 +130,7 @@ binário.
 | Deploy | `wrangler pages deploy deploy --project-name coletivo --branch main` |
 | Domínios | `coletivo.dev.br` e `www.coletivo.dev.br` |
 | DNS | CNAME proxiado para `coletivo.pages.dev` — o Pages **não** criou o registro sozinho |
-| Headers | `portal/_headers` (é o único que vale: o Pages lê só o da raiz) |
+| Headers | `portal/_headers` (é o único que vale: o Pages lê só o da raiz). `Permissions-Policy` libera `geolocation=(self)` — o botão "onde estou" depende disso |
 
 **Criação do projeto (uma vez):** `wrangler pages project create coletivo --production-branch main --force`.
 O `--force` é necessário porque o wrangler 4.156 delega `pages` para Workers e a

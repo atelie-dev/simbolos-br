@@ -5,7 +5,8 @@
 /*
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
-  Permissions-Policy: geolocation=(), camera=(), microphone=()
+  # geolocalização liberada para a própria origem: é o botão "onde estou".
+  Permissions-Policy: geolocation=(self), camera=(), microphone=()
   Strict-Transport-Security: max-age=31536000
 
 # Assets do Astro têm hash no nome: podem ser imutáveis.
