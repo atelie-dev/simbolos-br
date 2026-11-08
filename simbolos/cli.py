@@ -545,7 +545,10 @@ def leis_cmd(
     modelo: Annotated[str | None, typer.Option(help="padrao do provedor")] = None,
     paginas: Annotated[int, typer.Option(help="paginas candidatas por site")] = 3,
     flex: Annotated[bool, typer.Option("--flex/--sem-flex", help="fila -30%")] = True,
-    paralelismo: Annotated[int, typer.Option(help="municipios simultaneos")] = 3,
+    paralelismo: Annotated[int, typer.Option(help="municipios simultaneos")] = 6,
+    paralelismo_llm: Annotated[
+        int, typer.Option(help="chamadas de LLM simultaneas (teto do provedor)")
+    ] = 24,
     pausa: Annotated[float, typer.Option(help="segundos entre municipios")] = 0.0,
 ) -> None:
     """Caca a lei que instituiu o simbolo nos municipios sem cobertura."""
@@ -568,6 +571,7 @@ def leis_cmd(
         limite_paginas=paginas,
         flex=flex,
         paralelismo=paralelismo,
+        paralelismo_llm=paralelismo_llm,
         pausa=pausa,
     )
     console.print(

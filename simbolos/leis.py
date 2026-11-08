@@ -3,8 +3,10 @@
 Rota: dominio por DNS -> home -> paginas de legislacao/simbolos -> texto ->
 LLM acha o ato (com citacao verificada) -> link de PDF -> checagem de vetor.
 
-Paralelismo: entre municipios (hosts diferentes, seguro) e entre as duas
-perguntas de cada pagina. Dentro de um host, as paginas sao sequenciais.
+Paralelismo: entre municípios (hosts diferentes, seguro), entre as páginas de um
+município e entre as duas perguntas de cada página — a rede de um município já
+terminou quando o LLM começa. Dentro de um host, as requisições são sequenciais e
+espaçadas. Um semáforo separado limita as chamadas ao provedor.
 """
 
 from __future__ import annotations
@@ -13,6 +15,7 @@ import json
 import re
 import socket
 import subprocess
+import threading
 import time
 from collections.abc import Iterable
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -258,6 +261,7 @@ def coletar_municipio(
     limite_paginas: int = 3,
     flex: bool = True,
     baixar_pdf: bool = True,
+    semaforo: threading.Semaphore | None = None,
 ) -> dict:
     inicio = time.time()
     registro: dict = {
@@ -295,6 +299,9 @@ def coletar_municipio(
         return registro
 
     alvos = montar_alvos(home.text, dominio, limite_paginas)
+
+    # 1) Rede: as páginas candidatas, uma por vez no mesmo host.
+    baixadas: list[tuple[str, str, str]] = []
     for url, rotulo in alvos:
         if not permite(url):
             registro["paginas"].append({"url": url, "rotulo": rotulo, "robots": "disallow"})
@@ -305,55 +312,69 @@ def coletar_municipio(
         except Exception as exc:  # noqa: BLE001
             registro["paginas"].append({"url": url, "rotulo": rotulo, "erro": str(exc)[:120]})
             continue
+        baixadas.append((url, rotulo, pagina.text))
 
-        texto = _texto(pagina.text)
-        enviado = fragmento(pagina.text)
-        # As duas perguntas são independentes: rodam juntas.
-        with ThreadPoolExecutor(max_workers=2) as ex:
-            f_ato = ex.submit(
-                maritaca.achar_ato,
-                _janelas(texto),
-                url,
-                provedor=provedor,
-                modelo=modelo,
-                flex=flex,
-            )
-            f_simbolo = ex.submit(
-                maritaca.extrair,
-                enviado,
-                url,
-                provedor=provedor,
-                modelo=modelo,
-                flex=flex,
-            )
-            ato = f_ato.result()
-            simbolo = f_simbolo.result()
+    # 2) LLM: todas as páginas de uma vez. É aqui que o tempo vai, e esperar o
+    #    flex página por página fazia cada município custar N rodadas em série.
+    #    O slot de rede já foi liberado antes desta fase começar.
+    if baixadas:
+        with ThreadPoolExecutor(max_workers=min(len(baixadas) * 2, 6)) as ex:
+            futuros = []
+            for url, rotulo, html in baixadas:
+                futuros.append(
+                    (
+                        url,
+                        rotulo,
+                        ex.submit(
+                            _com_semaforo,
+                            semaforo,
+                            maritaca.achar_ato,
+                            _janelas(_texto(html)),
+                            url,
+                            provedor=provedor,
+                            modelo=modelo,
+                            flex=flex,
+                        ),
+                        ex.submit(
+                            _com_semaforo,
+                            semaforo,
+                            maritaca.extrair,
+                            fragmento(html),
+                            url,
+                            provedor=provedor,
+                            modelo=modelo,
+                            flex=flex,
+                        ),
+                    )
+                )
 
-        for r in (ato, simbolo):
-            uso = r.get("uso") or {}
-            if uso.get("custo") is not None:
-                registro["custo"] += uso["custo"]
-                registro["moeda"] = uso.get("moeda")
+            for url, rotulo, f_ato, f_simbolo in futuros:
+                ato = f_ato.result()
+                simbolo = f_simbolo.result()
 
-        registro["paginas"].append(
-            {
-                "url": url,
-                "rotulo": rotulo,
-                "ato": ato.get("ato"),
-                "ato_aceito": ato.get("aceito"),
-                "trecho": ato.get("trecho"),
-                "url_pdf": ato.get("url_pdf"),
-                "simbolo": simbolo.get("url_ativo"),
-                "simbolo_aceito": simbolo.get("aceito"),
-            }
-        )
-        if ato.get("aceito") and registro["ato"] is None:
-            registro["ato"] = ato.get("ato")
-            registro["ato_aceito"] = True
-        if ato.get("url_pdf") and not registro["pdf"]:
-            registro["pdf"] = ato["url_pdf"]
-        if registro["ato_aceito"] and registro["pdf"]:
-            break
+                for r in (ato, simbolo):
+                    uso = r.get("uso") or {}
+                    if uso.get("custo") is not None:
+                        registro["custo"] += uso["custo"]
+                        registro["moeda"] = uso.get("moeda")
+
+                registro["paginas"].append(
+                    {
+                        "url": url,
+                        "rotulo": rotulo,
+                        "ato": ato.get("ato"),
+                        "ato_aceito": ato.get("aceito"),
+                        "trecho": ato.get("trecho"),
+                        "url_pdf": ato.get("url_pdf"),
+                        "simbolo": simbolo.get("url_ativo"),
+                        "simbolo_aceito": simbolo.get("aceito"),
+                    }
+                )
+                if ato.get("aceito") and registro["ato"] is None:
+                    registro["ato"] = ato.get("ato")
+                    registro["ato_aceito"] = True
+                if ato.get("url_pdf") and not registro["pdf"]:
+                    registro["pdf"] = ato["url_pdf"]
 
     if baixar_pdf and registro["pdf"]:
         # Evidencia de procedencia: o PDF do ato tem que sobreviver ao reboot.
@@ -375,6 +396,19 @@ def coletar_municipio(
     return registro
 
 
+def _com_semaforo(semaforo: threading.Semaphore | None, funcao, *args, **kwargs):
+    """Segura o teto global de chamadas ao provedor, e nada mais.
+
+    O semáforo é para o LLM, não para o site: quantas chamadas de modelo podem
+    estar em voo, independente de quantos municípios estão sendo lidos. A
+    polidez com o servidor municipal é outra coisa e vive em `rede`.
+    """
+    if semaforo is None:
+        return funcao(*args, **kwargs)
+    with semaforo:
+        return funcao(*args, **kwargs)
+
+
 def coletar_lote(
     municipios: Iterable[dict],
     saida: Path,
@@ -384,6 +418,7 @@ def coletar_lote(
     limite_paginas: int = 3,
     flex: bool = True,
     paralelismo: int = 6,
+    paralelismo_llm: int = 24,
     pausa: float = 0.0,
 ) -> dict:
     feitos: set[str] = set()
@@ -405,6 +440,9 @@ def coletar_lote(
     }
     saida.parent.mkdir(parents=True, exist_ok=True)
     inicio = time.time()
+    # Teto de chamadas ao provedor. Mais municípios em voo que chamadas de LLM:
+    # enquanto um espera o flex, outro está lendo página.
+    semaforo = threading.Semaphore(max(1, paralelismo_llm))
 
     with ThreadPoolExecutor(max_workers=max(1, paralelismo)) as ex, saida.open("a") as f:
         futuros = {
@@ -415,6 +453,7 @@ def coletar_lote(
                 modelo=modelo,
                 limite_paginas=limite_paginas,
                 flex=flex,
+                semaforo=semaforo,
             ): m
             for m in pendentes
         }
