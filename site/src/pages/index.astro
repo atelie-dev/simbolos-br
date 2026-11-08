@@ -50,6 +50,16 @@ const destaques = JSON.parse(
             por arquivo e uma URL estável para citar ou embutir em qualquer documento.
           </p>
           <Busca />
+          <p class="geo">
+            <button type="button" class="geo-botao" id="geo" data-base={base}>
+              Ver o brasão da cidade onde estou
+            </button>
+            <span class="geo-estado" id="geo-estado" role="status" aria-live="polite"></span>
+          </p>
+          <p class="geo-nota">
+            Usa a localização do seu navegador só para achar o município. Nada é
+            enviado para servidor nosso.
+          </p>
           <dl class="numeros">
             <div>
               <dt>municípios</dt>
@@ -371,6 +381,77 @@ const destaques = JSON.parse(
     atualizar();
   </script>
 
+  <script>
+    // "Onde estou": a posição nunca sai do navegador. O cruzamento é feito
+    // contra os pontos de sede em api/v1/centros.json, carregado no clique.
+    const botaoGeo = document.getElementById("geo") as HTMLButtonElement | null;
+    const estadoGeo = document.getElementById("geo-estado") as HTMLElement | null;
+    const baseGeo = botaoGeo?.dataset.base ?? "/";
+
+    type Ponto = [number, number, string, string];
+
+    const distanciaKm = (lat1: number, lon1: number, lat2: number, lon2: number): number => {
+      const raio = 6371;
+      const dLat = ((lat2 - lat1) * Math.PI) / 180;
+      const dLon = ((lon2 - lon1) * Math.PI) / 180;
+      const a =
+        Math.sin(dLat / 2) ** 2 +
+        Math.cos((lat1 * Math.PI) / 180) *
+          Math.cos((lat2 * Math.PI) / 180) *
+          Math.sin(dLon / 2) ** 2;
+      return 2 * raio * Math.asin(Math.sqrt(a));
+    };
+
+    const maisPerto = (lat: number, lon: number, pontos: Ponto[]): Ponto | null => {
+      let melhor: Ponto | null = null;
+      let menor = Infinity;
+      for (const ponto of pontos) {
+        const d = distanciaKm(lat, lon, ponto[0], ponto[1]);
+        if (d < menor) {
+          menor = d;
+          melhor = ponto;
+        }
+      }
+      return melhor;
+    };
+
+    botaoGeo?.addEventListener("click", () => {
+      if (!navigator.geolocation) {
+        if (estadoGeo) estadoGeo.textContent = "Seu navegador não permite localização.";
+        return;
+      }
+
+      botaoGeo.disabled = true;
+      if (estadoGeo) estadoGeo.textContent = "Localizando…";
+
+      navigator.geolocation.getCurrentPosition(
+        async (posicao) => {
+          try {
+            const resposta = await fetch(`${baseGeo}api/v1/centros.json`, { cache: "force-cache" });
+            const pontos = (await resposta.json()) as Ponto[];
+            const alvo = maisPerto(posicao.coords.latitude, posicao.coords.longitude, pontos);
+            if (!alvo) throw new Error("sem ponto");
+            if (estadoGeo) estadoGeo.textContent = "Abrindo…";
+            location.href = `${baseGeo}municipios/${alvo[2]}-${alvo[3]}`;
+          } catch {
+            if (estadoGeo) estadoGeo.textContent = "Não consegui identificar o município. Use a busca.";
+            botaoGeo.disabled = false;
+          }
+        },
+        (erro) => {
+          if (estadoGeo) {
+            estadoGeo.textContent =
+              erro.code === 1
+                ? "Permissão negada — use a busca acima."
+                : "Não consegui obter sua localização.";
+          }
+          botaoGeo.disabled = false;
+        },
+        { timeout: 10000, maximumAge: 600000 },
+      );
+    });
+  </script>
+
   <style>
     .hero {
       padding: clamp(2.5rem, 5vw, 4rem) 0 clamp(1.5rem, 3vw, 2.5rem);
@@ -446,6 +527,49 @@ const destaques = JSON.parse(
       }
     }
 
+    .geo {
+      margin: 1.25rem 0 0;
+      display: flex;
+      align-items: baseline;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+
+    .geo-botao {
+      font: inherit;
+      font-size: 0.9375rem;
+      font-weight: 600;
+      color: var(--accent);
+      background: transparent;
+      border: 0;
+      border-bottom: 1px solid transparent;
+      min-height: 44px;
+      padding: 0.5rem 0;
+      cursor: pointer;
+      transition: border-color var(--dur) var(--ease);
+    }
+
+    .geo-botao:hover {
+      border-bottom-color: var(--accent);
+    }
+
+    .geo-botao[disabled] {
+      opacity: 0.6;
+      cursor: progress;
+    }
+
+    .geo-estado {
+      font-size: 0.875rem;
+      color: var(--muted);
+    }
+
+    .geo-nota {
+      font-size: 0.8125rem;
+      color: var(--muted);
+      margin: 0.25rem 0 0;
+      max-width: 48ch;
+    }
+
     .hero h1 {
       max-width: 24ch;
       margin-bottom: 1rem;
@@ -460,8 +584,7 @@ const destaques = JSON.parse(
 
     .numeros {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(108px, 1fr));
-      gap: 1rem 1.25rem;
+      grid-template-columns: repeat(auto-fit, minmax(108px, 1fr));      gap: 1rem 1.25rem;
       margin: 2rem 0 0;
       padding-top: 1.25rem;
       border-top: 1px solid var(--border);

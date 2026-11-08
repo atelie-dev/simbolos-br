@@ -24,10 +24,33 @@ TIPOS = ("brasao", "bandeira")
 # em SVG. São reconhecíveis e dão variedade geográfica sem curadoria manual.
 CAPITAIS = frozenset(
     {
-        "1100205", "1200401", "1302603", "1400100", "1501402", "1600303", "1721000",
-        "2111300", "2211001", "2304400", "2408102", "2507507", "2611606", "2704302",
-        "2800308", "2927408", "3106200", "3205309", "3304557", "3550308", "4106902",
-        "4205407", "4314902", "5002704", "5103403", "5208707", "5300108",
+        "1100205",
+        "1200401",
+        "1302603",
+        "1400100",
+        "1501402",
+        "1600303",
+        "1721000",
+        "2111300",
+        "2211001",
+        "2304400",
+        "2408102",
+        "2507507",
+        "2611606",
+        "2704302",
+        "2800308",
+        "2927408",
+        "3106200",
+        "3205309",
+        "3304557",
+        "3550308",
+        "4106902",
+        "4205407",
+        "4314902",
+        "5002704",
+        "5103403",
+        "5208707",
+        "5300108",
     }
 )
 
@@ -58,7 +81,7 @@ def _arte(codigo: str, tipo: str) -> dict | None:
     try:
         with Image.open(arq) as imagem:
             caixa = imagem.convert("RGBA").getchannel("A").getbbox()
-    except (OSError, ValueError):
+    except OSError, ValueError:
         return None
     if not caixa:
         return {"l": 0, "a": 0}
@@ -100,10 +123,7 @@ def gerar(destino: Path = DESTINO) -> dict:
     regiao = {e["uf"]: e.get("regiao", "") for e in estados}
     itens = _publicados(catalogo)
 
-    artes = {
-        chave: _arte(chave[0], chave[1])
-        for chave in itens
-    }
+    artes = {chave: _arte(chave[0], chave[1]) for chave in itens}
     tiers = {
         codigo: max(_tier(itens.get((codigo, t)), artes.get((codigo, t))) for t in TIPOS)
         for codigo in {c for c, _ in itens}
@@ -181,6 +201,22 @@ def gerar(destino: Path = DESTINO) -> dict:
     destaques = _destaques(itens)
     (DESTINO_BUILD / "destaques.json").write_text(
         json.dumps(destaques, ensure_ascii=False, separators=(",", ":")) + "\n"
+    )
+
+    # Pontos de referência para o "onde estou": só o necessário para o cliente
+    # achar o município mais próximo e navegar. Carregado apenas no clique.
+    centros_brutos = {}
+    arquivo_centros = DATA / "centros.json"
+    if arquivo_centros.exists():
+        centros_brutos = json.loads(arquivo_centros.read_text())
+    slugs = {m["codigo"]: m["slug"] for m in municipios}
+    centros = [
+        [lat, lon, codigo, slugs[codigo]]
+        for codigo, (lat, lon) in sorted(centros_brutos.items())
+        if codigo in slugs
+    ]
+    (destino / "centros.json").write_text(
+        json.dumps(centros, ensure_ascii=False, separators=(",", ":")) + "\n"
     )
 
     return {

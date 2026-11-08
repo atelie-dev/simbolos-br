@@ -21,6 +21,7 @@ from . import (
     UFS,
     USER_AGENT,
     catalogo,
+    centros,
     commons,
     config,
     indice,
@@ -805,6 +806,21 @@ def acervo_cmd(
     t.add_row("falhas", str(len(res["falhas"])))
     t.add_row("tamanho", f"{res['bytes'] / 1024 / 1024:.1f} MB")
     console.print(t)
+
+
+@app.command("centros")
+def centros_cmd() -> None:
+    """Coleta no Wikidata a coordenada da sede de cada municipio."""
+    r = centros.coletar()
+    t = Table(title="coordenadas dos municipios")
+    t.add_column("medida")
+    t.add_column("valor", justify="right")
+    t.add_row("municipios", str(r["municipios"]))
+    t.add_row("linhas do SPARQL", str(r["linhas"]))
+    t.add_row("tamanho", f"{r['bytes'] / 1024:.0f} KB")
+    t.add_row("tempo", f"{r['segundos']}s")
+    console.print(t)
+    console.print("-> data/centros.json (rode `simbolos indice` depois)")
 
 
 @app.command("indice")
