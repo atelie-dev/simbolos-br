@@ -31,6 +31,8 @@ uv run python -m simbolos urls             # carimba URLs públicas no catálogo
 uv run python -m simbolos r2               # sobe embed/ + meta/ para simbolos-br-cdn
 uv run python -m simbolos acervo           # backup privado em simbolos-br-acervo
 uv run python -m simbolos indice           # índice de busca + resumo do site
+uv run python -m simbolos centros           # coordenada da sede de cada município (Wikidata)
+uv run python -m simbolos malha             # malha municipal do IBGE em células de 1°
 
 # site (Astro estático) e montagem do deploy
 cd site && npm install && npm run dev       # http://localhost:4321/simbolos/
@@ -76,6 +78,7 @@ site/                                Astro estático (base `/simbolos`)
   src/pages/estados/[uf].astro       27 páginas de UF
   src/data/itens.json                detalhe por item (build-only, 5,6 MB)
   public/api/v1/*.json               gerado por `simbolos indice` (antes do build)
+  public/api/v1/malha/{lat}_{lon}.json  malha do IBGE fatiada (836 células, ~10 KB cada)
   public/fonts/*.woff2               Bricolage Grotesque + Source Sans 3
 deploy/                              gerado por scripts/empacotar_site.py (gitignored)
 infra/r2-cdn-cors.json               CORS do bucket público (aplicado via wrangler)
