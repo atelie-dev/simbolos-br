@@ -32,9 +32,11 @@ uv run python -m simbolos r2               # sobe embed/ + meta/ para simbolos-b
 uv run python -m simbolos acervo           # backup privado em simbolos-br-acervo
 uv run python -m simbolos indice           # índice de busca + resumo do site
 
-# site (Astro estático)
+# site (Astro estático) e montagem do deploy
 cd site && npm install && npm run dev       # http://localhost:4321/simbolos/
-cd site && npm run build && npm run preview # build + preview do estático
+cd site && npm run build && cd ..
+uv run python scripts/empacotar_site.py     # deploy/ = portal na raiz + simbolos/
+wrangler pages deploy deploy --project-name coletivo --branch main
 uv run python -m simbolos leis --uf SP --limite 6   # crawl de sites oficiais
 uv run python -m simbolos visao --url …    # portão de visão (motor decisao|chat)
 
@@ -60,6 +62,7 @@ dist/                                publicação local (gitignored)
 data/evidencias/pdf/                 PDF do ato oficial (gitignored; backup no R2)
 data/fontes/v1/{brasao|bandeira}/{cod}.{ext}   original byte a byte (gitignored)
 PLAN.md                              design completo
+portal/                              portal do domínio (raiz): index.html + portal.css
 site/                                Astro estático (base `/simbolos`)
   DESIGN.md                          direção visual — lei para toda a UI
   src/styles/tokens.css              cor, raio, sombra, movimento
@@ -74,6 +77,7 @@ site/                                Astro estático (base `/simbolos`)
   src/data/itens.json                detalhe por item (build-only, 5,6 MB)
   public/api/v1/*.json               gerado por `simbolos indice` (antes do build)
   public/fonts/*.woff2               Bricolage Grotesque + Source Sans 3
+deploy/                              gerado por scripts/empacotar_site.py (gitignored)
 infra/r2-cdn-cors.json               CORS do bucket público (aplicado via wrangler)
 .opencode/context/project-intelligence/  este pacote
 ```

@@ -12,6 +12,7 @@ devenv.local.yaml
 # build / runtime
 node_modules/
 dist/
+deploy/
 .astro/
 .wrangler/
 .venv/
