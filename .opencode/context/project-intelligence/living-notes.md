@@ -35,7 +35,7 @@ bucket dele, sem Worker. Configurável por `SITE_BASE` / `CDN_BASE` /
 | Coleta Wikidata + Commons | pronta: 4.353 brasões, 4.037 bandeiras |
 | Triagem | pronta: `data/_catalogo/catalogo.json` (4.790 municípios com item) |
 | Publicação | **concluída**: 8.369 de 8.390 (11 falhas), 1,3 GB |
-| Sidecars no R2 | 8.379 com `urls` e cache de 1 h — **desatualizados**: ainda sem os campos de D21 |
+| Sidecars no R2 | 8.379 regravados em 2026-11-08 com os campos de D21 (12,7 MB, 0 falhas) |
 | Fontes originais | 7.209 rasters em `data/fontes` (1,3 GB), 0 divergências, backup no bucket privado |
 | Procedência | **conferida**: 8.379 de 8.379 iguais por `sha1` no Commons, em 3 min e 168 requisições, sem baixar arquivo (D21) |
 | Sidecars locais | em `data/meta/v1` (verdade versionável), com `sha1_origem`, `capturado_em`, `verificacao` e `guarda` |
@@ -118,6 +118,12 @@ compartilha 1.214, pendente 69.
 - **`capturado_em` da safra antiga vem do `mtime` do arquivo guardado** — é a
   hora real da gravação, não a da execução; `captura_fonte` distingue `mtime` de
   `relogio` para ninguém confundir as duas depois.
+- **`dist` é saída; a verdade mora em `data/`.** Sidecar em `data/meta/v1` é
+  versionado; `dist/meta` não existe mais.
+- **Purge do CDN é desnecessário no host do R2**: o custom domain responde
+  `cf-cache-status: DYNAMIC`, ou seja, o edge não cacheia. Quem guarda o
+  `max-age` de 1 h é o **browser** — trocar o contrato do `meta.json` pede
+  versão nova (`meta/v2`), não purge.
 - **Fatiar a malha**: o item de cada célula é `[codigo, slug, aneis]`; o teste
   par-ímpar sobre todos os anéis resolve MultiPolygon e furo.
 
