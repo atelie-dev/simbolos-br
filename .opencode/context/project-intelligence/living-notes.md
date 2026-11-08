@@ -39,7 +39,8 @@ com o bucket dele, sem Worker e sem mexer neste. Configurável por `SITE_BASE` /
 | Upload (`simbolos r2` / `acervo`) | implementado e verificado com 6 objetos |
 | Domínio `coletivo.dev.br` | **ativo** no Cloudflare; `simbolos.coletivo.dev.br` (CNAME proxiado para `public.r2.dev`) serve o bucket com CSP/nosniff |
 | Token Cloudflare | Pages, R2 custom domain, Zone settings, Zone Config e Cache Purge: todos liberados |
-| Site | **no ar (local)**: landing, `/consultar`, 5.571 páginas de município, 27 de estado; faltam `/cobertura`, `/baixar`, `/sobre` |
+| Site | **no ar (local)**: landing, `/consultar`, `/cobertura`, `/sobre`, 5.571 páginas de município, 27 de estado; falta `/baixar` |
+| Repositório | público em `github.com/atelie-dev/simbolos-br` (branch `main`), AGPL-3.0 + README; `.env` fora do índice |
 | Pacotes npm/PyPI/Composer | não começaram |
 
 Números do catálogo: brasão 4.353, bandeira 4.037, os dois 3.600, vetorial 577

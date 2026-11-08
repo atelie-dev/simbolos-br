@@ -105,6 +105,15 @@ GET https://simbolos.coletivo.dev.br/meta/v1/{brasao|bandeira}/3550308.json
 - Secrets nunca no repo: `.env` vem do 1Password (ambiente `simbolos-br`) e é
   carregado por `python-dotenv` em `simbolos/__init__.py`. Está no `.gitignore`.
 
+## Repositório
+
+Público em `git@github.com:atelie-dev/simbolos-br.git` (branch `main`), sob
+AGPL-3.0 (`LICENSE`). O `.env` é montado pelo 1Password e está fora do índice;
+`dist/`, `data/fontes/`, `data/_coleta/`, `site/dist/` e `node_modules/` também.
+O site depende de `site/public/api/v1/*.json` e `site/src/data/itens.json`, ambos
+gerados por `simbolos indice` e versionados para o build funcionar sem o acervo
+binário.
+
 ## Infra R2
 
 | Item | Valor |
