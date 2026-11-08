@@ -1,0 +1,142 @@
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 1.0 | Updated: 2026-11-08 -->
+
+# Technical Domain — Símbolos BR
+
+## Stack
+
+| Peça | Escolha |
+|---|---|
+| Linguagem | Python 3.15 (uv) |
+| CLI | Typer + Rich |
+| Ambiente | devenv (nixpkgs-unstable) |
+| Imagem | resvg (SVG→PNG) + Pillow (composição) |
+| LLM | Maritaca (S5) e Neuralwatt (deepseek-v4.1-flash, glm-5.3, clef-flash) |
+| Dados | HTTP APIs públicas (IBGE, Wikidata, Commons, sites `.gov.br`) |
+| Site (a fazer) | Astro estático + Cloudflare Pages |
+| Arquivos | Cloudflare R2: `simbolos-br-cdn` (público) e `simbolos-br-acervo` (privado) |
+
+## Comandos
+
+```bash
+devenv shell                  # resvg, poppler, python, node estão aqui dentro
+
+uv run python -m simbolos catalogo         # 5.571 municípios + 27 UFs
+uv run python -m simbolos wikidata         # P1585 -> P94/P41 + imageinfo
+uv run python -m simbolos commons          # categorias do Commons (todas as UFs)
+uv run python -m simbolos spike            # rendimento na amostra estratificada
+uv run python -m simbolos triar            # um candidato por município -> catálogo
+uv run python -m simbolos publicar         # baixa + renderiza + dist/embed/v1
+uv run python -m simbolos fontes           # rebaixa e arquiva o original em data/fontes
+uv run python -m simbolos urls             # carimba URLs públicas no catálogo
+uv run python -m simbolos r2               # sobe embed/ + meta/ para simbolos-br-cdn
+uv run python -m simbolos acervo           # backup privado em simbolos-br-acervo
+uv run python -m simbolos indice           # índice de busca + resumo do site
+
+# site (Astro estático)
+cd site && npm install && npm run dev       # http://localhost:4321/simbolos/
+cd site && npm run build && npm run preview # build + preview do estático
+uv run python -m simbolos leis --uf SP --limite 6   # crawl de sites oficiais
+uv run python -m simbolos visao --url …    # portão de visão (motor decisao|chat)
+
+uv run python -m simbolos maritaca saldo --provedor neuralwatt
+uv run python -m simbolos maritaca provedores
+uv run python -m simbolos maritaca extrair --url … [--flex]
+```
+
+## Layout
+
+```
+simbolos/          pacote (config, catalogo, nomes, modelos, commons, wikidata,
+                   triagem, publicacao, leis, visao, maritaca, provedores, cli)
+data/
+  estados.json, municipios.json      catálogo IBGE (versionado)
+  _coleta/                           JSONL bruto (gitignored, regenerável)
+  _catalogo/catalogo.json            um item por município/tipo
+  _spike/                            relatórios e conjuntos rotulados
+dist/                                publicação local (gitignored)
+  embed/v1/{brasao|bandeira}/{cod}.{svg,png,jpg}
+  meta/v1/{brasao|bandeira}/{cod}.json   sidecar por ativo: a verdade do item
+  catalogo.json                      agregado derivado dos sidecars
+data/evidencias/pdf/                 PDF do ato oficial (gitignored; backup no R2)
+data/fontes/v1/{brasao|bandeira}/{cod}.{ext}   original byte a byte (gitignored)
+PLAN.md                              design completo
+site/                                Astro estático (base `/simbolos`)
+  DESIGN.md                          direção visual — lei para toda a UI
+  src/styles/tokens.css              cor, raio, sombra, movimento
+  src/lib/urls.ts                    BASE/CDN e contrato de URL
+  src/lib/dados.ts                   índice, itens e cálculo de tier
+  src/components/Busca.astro         busca sem backend (índice sob demanda)
+  src/components/SimboloCard.astro   cartão de brasão/bandeira (ou estado vazio)
+  src/pages/index.astro              landing (§4.2)
+  src/pages/consultar.astro          busca (§4.3)
+  src/pages/municipios/[slug].astro  5.571 páginas (§4.4)
+  src/pages/estados/[uf].astro       27 páginas de UF
+  src/data/itens.json                detalhe por item (build-only, 5,6 MB)
+  public/api/v1/*.json               gerado por `simbolos indice` (antes do build)
+  public/fonts/*.woff2               Bricolage Grotesque + Source Sans 3
+infra/r2-cdn-cors.json               CORS do bucket público (aplicado via wrangler)
+.opencode/context/project-intelligence/  este pacote
+```
+
+## Pipeline
+
+```
+catálogo IBGE → coleta (Wikidata/Commons) → triagem → publicação → CDN
+                                    ↘ crawl .gov.br (lacunas + ato oficial)
+portão de visão (clef-flash) e checagens determinísticas em cada etapa
+```
+
+## Contrato público
+
+```
+GET https://simbolos.coletivo.dev.br/embed/v1/brasao/3550308.svg|png|jpg
+GET https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550308.svg|png|jpg
+GET https://simbolos.coletivo.dev.br/meta/v1/{brasao|bandeira}/3550308.json
+```
+
+- `cod_ibge` = 7 dígitos (município) ou 2 (estado).
+- Todos os três formatos existem para todo item publicado; formato ausente = 404.
+- Cabeçalhos pretendidos: `Cache-Control: public, max-age=604800,
+  stale-while-revalidate` + purge no publish; `ETag` = sha256 da rendition;
+  `Access-Control-Allow-Origin: *`; SVG de origem separada com CSP e `nosniff`.
+  Já aplicado no R2: `Cache-Control` e `Content-Type` por objeto, metadados
+  `sha256`/`licenca`/`cod-ibge`/`tipo`, e CORS (`infra/r2-cdn-cors.json`).
+  CSP e `nosniff` ainda dependem de Transform Rule no domínio (não registrado).
+- Secrets nunca no repo: `.env` vem do 1Password (ambiente `simbolos-br`) e é
+  carregado por `python-dotenv` em `simbolos/__init__.py`. Está no `.gitignore`.
+
+## Infra R2
+
+| Item | Valor |
+|---|---|
+| Conta Cloudflare | Coletivo.dev |
+| Bucket público | `simbolos-br-cdn` ← `embed/v1/…`, `meta/v1/…` |
+| Bucket privado | `simbolos-br-acervo` ← `fontes/v1/…`, `evidencias/pdf/…` |
+| Variáveis | `CLOUDFLARE_ACCOUNT_ID`, `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_R2_ENDPOINT`, `CLOUDFLARE_R2_ACCESS_KEY_ID`, `CLOUDFLARE_R2_SECRET_ACCESS_KEY` (`.env` do 1Password) |
+| Livro-razão | `data/_cache/r2-cdn.json` e `r2-acervo.json` — pula por `sha256` |
+| URL pública | `https://simbolos.coletivo.dev.br/embed/v1/…` (custom domain do bucket, ativo) |
+
+**Zona `coletivo.dev.br`:** ativa desde 2026-11-08 (NS `coby`/`elly` do
+Cloudflare). `simbolos.coletivo.dev.br` é CNAME proxiado para `public.r2.dev`,
+gerenciado pelo R2 — **um host por serviço**, porque o custom domain liga um host
+a um bucket e o bucket é por serviço. Transform Rule
+`http_response_headers_transform` aplica `nosniff` + `referrer-policy` em todo o
+host e CSP `sandbox` nos `.svg`. `cdn.coletivo.dev.br` foi removido, e a dev URL
+`r2.dev` está desligada.
+
+## Convenções de código
+
+- Português nos nomes de domínio (`brasao`, `bandeira`, `codigo_ibge`), inglês nas
+  bibliotecas. Docstrings em português, curtas.
+- Modelos Pydantic em `modelos.py`; nada de dicionário solto atravessando etapas.
+- Pipeline idempotente e retomável: cada etapa relê o que já existe e mescla.
+- Nada de constante de domínio no código: `config.py` + ambiente.
+- `ruff` limpo antes de cada commit; `ruff format` como formatador.
+
+## O que ainda não existe
+
+- Testes automatizados (maior dívida).
+- `meta.json` por ativo (hoje só o catálogo agregado).
+- Upload para R2, headers de CDN, purge.
+- Site, busca, páginas de município, downloads, pacotes.
+- Rendition 192 px para DANFSE.

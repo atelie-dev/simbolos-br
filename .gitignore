@@ -1,0 +1,44 @@
+# Devenv
+.devenv*
+devenv.local.nix
+devenv.local.yaml
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
+
+# build / runtime
+node_modules/
+dist/
+.astro/
+.wrangler/
+.venv/
+__pycache__/
+*.pyc
+.ruff_cache/
+
+# pipeline scratch
+data/_auditoria/tmp/
+data/_cache/
+
+# harvest state and raw evidence (regenerable; curated output lives in data/assets)
+data/_fila/
+data/_coleta/
+
+# evidência binária (PDF do ato oficial): o manifesto JSONL fica versionado;
+# o PDF vai para backup no R2, nunca para o git nem para /tmp
+data/evidencias/pdf/
+
+# fonte canônica (original baixado, byte a byte): ~1 GB, backup no R2
+data/fontes/
+
+# editor / OS
+.DS_Store
+*.log
+
+# segredos
+.env
+.env.*
+!.env.example

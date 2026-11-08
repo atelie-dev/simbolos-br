@@ -1,0 +1,348 @@
+---
+import { readFileSync } from "node:fs";
+import { resolve } from "node:path";
+import Base from "../layouts/Base.astro";
+import Topo from "../components/Topo.astro";
+import Rodape from "../components/Rodape.astro";
+import { BASE as base } from "../lib/urls";
+
+const resumo = JSON.parse(
+  readFileSync(resolve(process.cwd(), "public/api/v1/resumo.json"), "utf8"),
+) as {
+  versao: string;
+  gerado_em: string;
+  municipios: number;
+  publicados: number;
+  municipios_cobertos: number;
+  cobertura_pct: number;
+  municipios_com_brasao: number;
+  municipios_com_bandeira: number;
+  vetoriais: number;
+  por_uf: {
+    uf: string;
+    nome: string;
+    total: number;
+    brasao: number;
+    bandeira: number;
+    vetorial: number;
+    t1: number;
+    t2: number;
+    t3: number;
+    sem: number;
+  }[];
+};
+
+const num = (n: number) => n.toLocaleString("pt-BR");
+const pct = (parte: number, todo: number) => (todo ? Math.round((100 * parte) / todo) : 0);
+const sem = resumo.municipios - resumo.municipios_cobertos;
+const comVetor = resumo.por_uf.reduce((soma, u) => soma + u.t3, 0);
+const soRaster = resumo.por_uf.reduce((soma, u) => soma + u.t1, 0);
+const ufs = [...resumo.por_uf].sort((a, b) => a.uf.localeCompare(b.uf));
+---
+
+<Base
+  title="Cobertura · Símbolos · coletivo.dev.br"
+  description="Cobertura do acervo por estado, por tipo e por tier de qualidade — com numerador e denominador."
+>
+  <Topo />
+
+  <main id="conteudo" class="wrap">
+    <header class="cabeca">
+      <p class="eyebrow">Cobertura · {resumo.versao}</p>
+      <h1>O que já existe, medido.</h1>
+      <p class="linha-fina">
+        Duas medidas separadas: <strong>cobertura</strong> (tem algum símbolo?) e{" "}
+        <strong>qualidade</strong> (serve para imprimir?). Nenhuma esconde a outra.
+      </p>
+    </header>
+
+    <dl class="numeros">
+      <div>
+        <dt>municípios cobertos</dt>
+        <dd class="num">{num(resumo.municipios_cobertos)}<span class="de">/{num(resumo.municipios)}</span></dd>
+      </div>
+      <div>
+        <dt>cobertura</dt>
+        <dd class="num">{resumo.cobertura_pct.toLocaleString("pt-BR")}%</dd>
+      </div>
+      <div>
+        <dt>com vetor (T3)</dt>
+        <dd class="num">{num(comVetor)}</dd>
+      </div>
+      <div>
+        <dt>só raster</dt>
+        <dd class="num">{num(soRaster)}</dd>
+      </div>
+      <div>
+        <dt>sem símbolo</dt>
+        <dd class="num">{num(sem)}</dd>
+      </div>
+    </dl>
+
+    <section class="matriz">
+      <div class="matriz-topo">
+        <h2>Por estado</h2>
+        <p class="muted">
+          T1/T2 = raster (até 400 px / 400 px ou mais). T3 = vetorial. O tier olha o
+          tamanho da arte, não o canvas.
+        </p>
+      </div>
+
+      <div class="tabela-scroll">
+        <table>
+          <thead>
+            <tr>
+              <th scope="col">UF</th>
+              <th scope="col">Estado</th>
+              <th scope="col" class="dir">Municípios</th>
+              <th scope="col" class="dir">Brasão</th>
+              <th scope="col" class="dir">Bandeira</th>
+              <th scope="col" class="dir">Vetor</th>
+              <th scope="col" class="dir">Sem</th>
+              <th scope="col" class="barra-col">Cobertura</th>
+            </tr>
+          </thead>
+          <tbody>
+            {ufs.map((u) => {
+              const cobertura = pct(u.total - u.sem, u.total);
+              return (
+                <tr>
+                  <th scope="row" class="uf">{u.uf}</th>
+                  <td class="estado">{u.nome}</td>
+                  <td class="dir num">{num(u.total)}</td>
+                  <td class="dir num">{pct(u.brasao, u.total)}%</td>
+                  <td class="dir num">{pct(u.bandeira, u.total)}%</td>
+                  <td class="dir num">{pct(u.t3, u.total)}%</td>
+                  <td class="dir num sem">{num(u.sem)}</td>
+                  <td class="barra-col">
+                    <span class="barra" aria-hidden="true">
+                      <span style={`width:${cobertura}%`} />
+                    </span>
+                    <span class="num pct">{cobertura}%</span>
+                  </td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="notas">
+      <h2>Como ler estes números</h2>
+      <div class="duas">
+        <div>
+          <h3>Cobertura</h3>
+          <p>
+            Municípios com ao menos um símbolo publicado, sobre o total do IBGE.
+            É a resposta para "já serve para a maioria?".
+          </p>
+        </div>
+        <div>
+          <h3>Vetorial</h3>
+          <p>
+            Itens com SVG publicado. Vetor é o que serve para impressão em qualquer
+            tamanho; raster é útil na tela e limitado no papel.
+          </p>
+        </div>
+        <div>
+          <h3>Sem símbolo</h3>
+          <p>
+            Não é o mesmo que "não existe": muitos municípios publicam o brasão
+            apenas em PDF da Câmara, e ainda não entraram.{" "}
+            <a href={`${base}#contribuir`}>Ajudar a encontrar</a>.
+          </p>
+        </div>
+        <div>
+          <h3>Baixar os dados</h3>
+          <p>
+            Todo o índice está em{" "}
+            <a href={`${base}api/v1/municipios.json`}>JSON</a> e o resumo em{" "}
+            <a href={`${base}api/v1/resumo.json`}>resumo.json</a>. Metadados são CC0.
+          </p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Rodape />
+
+  <style>
+    .cabeca {
+      padding: clamp(2rem, 4vw, 3rem) 0 1.5rem;
+    }
+
+    .cabeca h1 {
+      margin-bottom: 0.75rem;
+    }
+
+    .linha-fina {
+      color: var(--muted);
+      font-size: 1.0625rem;
+      max-width: 60ch;
+      margin: 0;
+    }
+
+    .numeros {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 1rem 1.5rem;
+      margin: 0 0 2rem;
+      padding: 1.25rem 0;
+      border-block: 1px solid var(--border);
+    }
+
+    .numeros dt {
+      font-size: 11px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .numeros dd {
+      margin: 0.25rem 0 0;
+      font-family: var(--font-display);
+      font-size: 1.75rem;
+      font-weight: 600;
+    }
+
+    .de {
+      font-size: 1rem;
+      color: var(--muted);
+      font-weight: 400;
+    }
+
+    .matriz-topo {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 0.5rem 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .matriz-topo h2 {
+      font-size: 1.375rem;
+    }
+
+    .matriz-topo p {
+      margin: 0;
+      font-size: 0.875rem;
+      max-width: 52ch;
+    }
+
+    .tabela-scroll {
+      overflow-x: auto;
+      border: 1px solid var(--border);
+      border-radius: var(--r-card);
+      background: var(--surface);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9375rem;
+      min-width: 720px;
+    }
+
+    thead th {
+      position: sticky;
+      top: 0;
+      background: var(--surface);
+      font-size: 11px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--muted);
+      font-weight: 600;
+      text-align: left;
+      padding: 0.75rem 0.75rem;
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+    }
+
+    tbody th,
+    tbody td {
+      padding: 0.55rem 0.75rem;
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+    }
+
+    tbody tr:last-child th,
+    tbody tr:last-child td {
+      border-bottom: 0;
+    }
+
+    .dir {
+      text-align: right;
+    }
+
+    .uf {
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      color: var(--accent);
+      text-align: left;
+    }
+
+    .estado {
+      font-weight: 600;
+    }
+
+    .sem {
+      color: var(--muted);
+    }
+
+    .barra-col {
+      width: 160px;
+    }
+
+    .barra-col .barra {
+      display: inline-block;
+      width: 96px;
+      height: 6px;
+      border-radius: var(--r-pill);
+      background: var(--border);
+      overflow: hidden;
+      vertical-align: middle;
+      margin-right: 0.5rem;
+    }
+
+    .barra-col .barra span {
+      display: block;
+      height: 100%;
+      background: var(--accent);
+    }
+
+    .pct {
+      font-size: 0.8125rem;
+      color: var(--muted);
+    }
+
+    .notas {
+      padding: 2.5rem 0 3rem;
+    }
+
+    .notas h2 {
+      font-size: 1.375rem;
+      margin-bottom: 1rem;
+    }
+
+    .duas {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 1.5rem 2rem;
+    }
+
+    .duas h3 {
+      font-size: 1rem;
+      margin-bottom: 0.375rem;
+    }
+
+    .duas p {
+      margin: 0;
+      font-size: 0.9375rem;
+      color: var(--muted);
+    }
+
+
+  </style>
+</Base>

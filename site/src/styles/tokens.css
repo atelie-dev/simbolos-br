@@ -1,0 +1,54 @@
+/* Tokens do acervo. Fonte única de cor, forma e movimento — ver site/DESIGN.md. */
+
+:root {
+  color-scheme: light dark;
+
+  --bg: #fdf6ee;
+  --surface: #ffffff;
+  --ink: #241c17;
+  --muted: #7a6a5e;
+  --border: #eedfd1;
+  --accent: #b4552d;
+  --accent-soft: #f6e3d8;
+  --ok: #2f6b47;
+  --warn: #8a5a12;
+  --stop: #8c2f39;
+
+  --r-selo: 4px;
+  --r-input: 10px;
+  --r-card: 14px;
+  --r-pill: 999px;
+
+  --shadow-card: 0 1px 2px rgba(36, 28, 23, 0.05), 0 10px 30px rgba(36, 28, 23, 0.06);
+
+  --font-display: "Bricolage Grotesque", system-ui, sans-serif;
+  --font-text: "Source Sans 3", system-ui, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  --ease: cubic-bezier(0.2, 0.7, 0.3, 1);
+  --dur: 180ms;
+
+  --step-1: 0.75rem;
+  --step-2: 0.875rem;
+  --step-3: 1rem;
+  --step-4: 1.25rem;
+  --step-5: 1.75rem;
+  --step-6: 2.75rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #191512;
+    --surface: #221c18;
+    --ink: #f5ede6;
+    --muted: #a59486;
+    --border: #3a302a;
+    --accent: #d97757;
+    --accent-soft: #3a241c;
+    --ok: #7fbf94;
+    --warn: #d9a24a;
+    --stop: #e08b93;
+    /* No escuro a sombra perde função: quem separa é a borda. */
+    --shadow-card: none;
+  }
+}

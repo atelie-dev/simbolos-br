@@ -1,0 +1,391 @@
+---
+/**
+ * Busca sem backend: o índice só é baixado quando a pessoa interage.
+ * Regras de casamento e teclado conforme PLAN §4.3.
+ */
+import { BASE as base } from "../lib/urls";
+
+interface Props {
+  variante?: "hero" | "pagina";
+  valor?: string;
+  id?: string;
+}
+
+const { variante = "hero", valor = "", id = "q" } = Astro.props;
+const cdn = "https://simbolos.coletivo.dev.br";
+---
+
+<div class={`busca busca--${variante}`} data-busca data-base={base} data-cdn={cdn}>
+  <label class="sr-only" for={id}>Buscar município, UF ou código IBGE</label>
+  <div class="campo">
+    <svg class="lupa" aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
+    <input
+      id={id}
+      type="search"
+      name="q"
+      placeholder="Município, UF ou código IBGE"
+      autocomplete="off"
+      spellcheck="false"
+      value={valor}
+      aria-controls="resultados"
+      aria-expanded="false"
+      aria-autocomplete="list"
+    />
+    <span class="atalho" aria-hidden="true">/</span>
+  </div>
+  <div id="resultados" class="resultados" role="listbox" aria-label="Resultados" hidden></div>
+</div>
+
+<style>
+  .busca {
+    position: relative;
+    width: 100%;
+  }
+
+  .campo {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0 1rem;
+    min-height: 56px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--r-card);
+    box-shadow: var(--shadow-card);
+    transition: border-color var(--dur) var(--ease), box-shadow var(--dur) var(--ease);
+  }
+
+  .campo:focus-within {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-soft), var(--shadow-card);
+  }
+
+  .lupa {
+    color: var(--muted);
+    flex: none;
+  }
+
+  input {
+    flex: 1;
+    min-width: 0;
+    border: 0;
+    background: transparent;
+    color: var(--ink);
+    font: inherit;
+    font-size: 1.0625rem;
+    padding: 0.9rem 0;
+  }
+
+  input:focus {
+    outline: none;
+  }
+
+  input::placeholder {
+    color: var(--muted);
+  }
+
+  .atalho {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--muted);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 2px 6px;
+  }
+
+  .resultados {
+    position: absolute;
+    z-index: 20;
+    inset-inline: 0;
+    top: calc(100% + 8px);
+    max-height: 60vh;
+    overflow-y: auto;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--r-card);
+    box-shadow: var(--shadow-card);
+    padding: 6px;
+  }
+
+  .resultados[hidden] {
+    display: none;
+  }
+
+  :global(.res) {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    border-radius: var(--r-input);
+    padding: 2px;
+  }
+
+  :global(.res[aria-selected="true"]),
+  :global(.res:hover) {
+    background: var(--accent-soft);
+  }
+
+  :global(.res-link) {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    padding: 10px 10px;
+    color: var(--ink);
+    text-decoration: none;
+    font-size: 0.9375rem;
+  }
+
+  :global(.res-link strong) {
+    font-weight: 600;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  :global(.res-meta) {
+    color: var(--muted);
+    font-size: 0.8125rem;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+
+  :global(.res-selo) {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--ok);
+    border: 1px solid currentColor;
+    border-radius: 4px;
+    padding: 1px 5px;
+  }
+
+  :global(.res-copiar) {
+    flex: none;
+    border: 0;
+    background: transparent;
+    color: var(--accent);
+    font: inherit;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    padding: 10px 12px;
+    min-height: 44px;
+    border-radius: var(--r-input);
+    cursor: pointer;
+  }
+
+  :global(.res-copiar:hover) {
+    background: var(--surface);
+    box-shadow: inset 0 0 0 1px var(--border);
+  }
+
+  :global(.res-vazio) {
+    padding: 18px 14px;
+    color: var(--muted);
+    font-size: 0.9375rem;
+  }
+
+  :global(.res-vazio a) {
+    color: var(--accent);
+    font-weight: 600;
+  }
+
+  :global(.res-grupo) {
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding: 10px 12px 4px;
+  }
+</style>
+
+<script>
+  type Entrada = {
+    c: string;
+    n: string;
+    u: string;
+    e: string;
+    s: string;
+    b: number;
+    f: number;
+    t: number;
+  };
+
+  const norm = (texto: string): string =>
+    texto
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .toLowerCase()
+      .trim();
+
+  /** Levenshtein com teto: acima de `max`, para de calcular. */
+  function distancia(a: string, b: string, max = 1): number {
+    if (Math.abs(a.length - b.length) > max) return max + 1;
+    let anterior = Array.from({ length: b.length + 1 }, (_, i) => i);
+    for (let i = 1; i <= a.length; i++) {
+      const atual = [i];
+      let melhor = i;
+      for (let j = 1; j <= b.length; j++) {
+        const custo = a[i - 1] === b[j - 1] ? 0 : 1;
+        atual[j] = Math.min(anterior[j] + 1, atual[j - 1] + 1, anterior[j - 1] + custo);
+        melhor = Math.min(melhor, atual[j]);
+      }
+      if (melhor > max) return max + 1;
+      anterior = atual;
+    }
+    return anterior[b.length];
+  }
+
+  /** 0 = melhor. Menor prioridade vence. */
+  function pontuar(entrada: Entrada, consulta: string, nome: string, uf: string): number {
+    if (entrada.c.startsWith(consulta)) return entrada.c === consulta ? 0 : 1;
+    if (nome === consulta) return 2;
+    if (uf === consulta) return 2;
+    if (nome.startsWith(consulta)) return 3;
+    if (nome.split(/[\s-]+/).some((p) => p.startsWith(consulta))) return 4;
+    if (nome.includes(consulta)) return 5;
+    if (consulta.length >= 6 && distancia(nome, consulta) <= 1) return 6;
+    return 99;
+  }
+
+  function copiar(texto: string, botao: HTMLButtonElement) {
+    const original = botao.textContent;
+    const feito = () => {
+      botao.textContent = "copiado";
+      setTimeout(() => (botao.textContent = original), 1200);
+    };
+    if (navigator.clipboard?.writeText) {
+      navigator.clipboard.writeText(texto).then(feito).catch(() => {});
+    }
+  }
+
+  async function iniciar(raiz: HTMLElement) {
+    const base = raiz.dataset.base ?? "/";
+    const cdn = raiz.dataset.cdn ?? "https://simbolos.coletivo.dev.br";
+    const input = raiz.querySelector("input") as HTMLInputElement;
+    const lista = raiz.querySelector(".resultados") as HTMLDivElement;
+    let indice: Entrada[] | null = null;
+    let selecionado = -1;
+
+    const carregar = async (): Promise<Entrada[]> => {
+      if (!indice) {
+        const r = await fetch(`${base}api/v1/municipios.json`, { cache: "force-cache" });
+        indice = (await r.json()) as Entrada[];
+      }
+      return indice;
+    };
+
+    const desenhar = (consulta: string, dados: Entrada[]) => {
+      const q = norm(consulta);
+      selecionado = -1;
+      if (q.length < 2) {
+        lista.hidden = true;
+        input.setAttribute("aria-expanded", "false");
+        return;
+      }
+
+      const achados = dados
+        .map((e) => ({ e, p: pontuar(e, q, norm(e.n), norm(e.u)) }))
+        .filter((x) => x.p < 99)
+        .sort((a, b) => a.p - b.p || a.e.u.localeCompare(b.e.u) || a.e.n.localeCompare(b.e.n))
+        .slice(0, 24);
+
+      if (!achados.length) {
+        lista.innerHTML =
+          '<p class="res-vazio">Não encontramos esse município. ' +
+          '<a href="#contribuir">Peça este símbolo</a> — o formulário já vem com o código.</p>';
+        lista.hidden = false;
+        input.setAttribute("aria-expanded", "true");
+        return;
+      }
+
+      const estados = achados.filter((x) => x.e.c.length === 2);
+      const cidades = achados.filter((x) => x.e.c.length !== 2);
+      const partes: string[] = [];
+
+      const linha = (x: { e: Entrada }) => {
+        const embed = x.e.b
+          ? `${cdn}/embed/v1/brasao/${x.e.c}.svg`
+          : `${cdn}/embed/v1/bandeira/${x.e.c}.svg`;
+        const pagina =
+          x.e.c.length === 2
+            ? `${base}estados/${x.e.u.toLowerCase()}`
+            : `${base}municipios/${x.e.c}-${x.e.s}`;
+        return `<li class="res" role="option"><a class="res-link" href="${pagina}"><strong>${x.e.n}</strong><span class="res-meta">${x.e.u}${x.e.c.length === 2 ? "" : " · " + x.e.c}</span>${x.e.t === 3 ? '<span class="res-selo">vetor</span>' : ""}</a><button class="res-copiar" type="button" data-url="${embed}">copiar</button></li>`;
+      };
+
+      if (estados.length) {
+        partes.push('<p class="res-grupo">Estados</p>');
+        partes.push(estados.map(linha).join(""));
+      }
+      if (cidades.length) {
+        partes.push('<p class="res-grupo">Municípios</p>');
+        partes.push(cidades.map(linha).join(""));
+      }
+
+      lista.innerHTML = partes.join("");
+      lista.hidden = false;
+      input.setAttribute("aria-expanded", "true");
+    };
+
+    const navegar = (passo: number) => {
+      const opcoes = Array.from(lista.querySelectorAll<HTMLElement>(".res"));
+      if (!opcoes.length) return;
+      selecionado = (selecionado + passo + opcoes.length) % opcoes.length;
+      opcoes.forEach((o, i) => o.setAttribute("aria-selected", String(i === selecionado)));
+      opcoes[selecionado].scrollIntoView({ block: "nearest" });
+    };
+
+    input.addEventListener("focus", () => void carregar());
+    input.addEventListener("input", async () => {
+      const dados = await carregar();
+      desenhar(input.value, dados);
+      const url = new URL(location.href);
+      if (input.value) url.searchParams.set("q", input.value);
+      else url.searchParams.delete("q");
+      history.replaceState(null, "", url);
+    });
+
+    input.addEventListener("keydown", (evento) => {
+      if (evento.key === "ArrowDown") {
+        evento.preventDefault();
+        navegar(1);
+      } else if (evento.key === "ArrowUp") {
+        evento.preventDefault();
+        navegar(-1);
+      } else if (evento.key === "Enter") {
+        const opcoes = lista.querySelectorAll<HTMLElement>(".res-link");
+        if (selecionado >= 0 && opcoes[selecionado]) {
+          evento.preventDefault();
+          (opcoes[selecionado] as HTMLAnchorElement).click();
+        }
+      } else if (evento.key === "Escape") {
+        lista.hidden = true;
+      }
+    });
+
+    lista.addEventListener("click", (evento) => {
+      const botao = (evento.target as HTMLElement).closest<HTMLButtonElement>(".res-copiar");
+      if (botao?.dataset.url) copiar(botao.dataset.url, botao);
+    });
+
+    document.addEventListener("click", (evento) => {
+      if (!raiz.contains(evento.target as Node)) lista.hidden = true;
+    });
+
+    document.addEventListener("keydown", (evento) => {
+      if (evento.key === "/" && document.activeElement !== input) {
+        evento.preventDefault();
+        input.focus();
+      }
+    });
+
+    const inicial = new URL(location.href).searchParams.get("q");
+    if (inicial && input.value) {
+      const dados = await carregar();
+      desenhar(input.value, dados);
+    }
+  }
+
+  document.querySelectorAll<HTMLElement>("[data-busca]").forEach((el) => void iniciar(el));
+</script>

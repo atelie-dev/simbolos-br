@@ -1,0 +1,232 @@
+---
+import Base from "../../layouts/Base.astro";
+import Topo from "../../components/Topo.astro";
+import Rodape from "../../components/Rodape.astro";
+import SimboloCard from "../../components/SimboloCard.astro";
+import { BASE as base } from "../../lib/urls";
+import { estados, indice, itensPorCodigo, type Entrada, type Item } from "../../lib/dados";
+
+export function getStaticPaths() {
+  const porCodigo = itensPorCodigo();
+  const todos = indice();
+  return estados().map((e) => ({
+    params: { uf: e.u.toLowerCase() },
+    props: {
+      entrada: e,
+      simbolos: porCodigo.get(e.c) ?? [],
+      municipios: todos.filter((m) => m.u === e.u && m.c.length === 7),
+    },
+  }));
+}
+
+const { entrada, simbolos, municipios } = Astro.props as {
+  entrada: Entrada;
+  simbolos: Item[];
+  municipios: Entrada[];
+};
+
+const porTipo = new Map(simbolos.map((i) => [i.tipo, i]));
+const cobertos = municipios.filter((m) => m.b || m.f).length;
+const pct = municipios.length ? Math.round((100 * cobertos) / municipios.length) : 100;
+const ordenados = [...municipios].sort((a, b) => a.n.localeCompare(b.n, "pt-BR"));
+---
+
+<Base
+  title={`${entrada.n} · Símbolos`}
+  description={`Brasão e bandeira do estado de ${entrada.n} e os símbolos dos seus municípios.`}
+>
+  <Topo atual="consultar" />
+
+  <main id="conteudo" class="wrap">
+    <nav class="migalha" aria-label="Trilha">
+      <a href={`${base}consultar`}>Consultar</a>
+      <span aria-hidden="true">/</span>
+      <span>{entrada.n}</span>
+    </nav>
+
+    <header class="cabeca">
+      <h1>Símbolos de {entrada.n}</h1>
+      <p class="muted">
+        {entrada.e} · {entrada.u} · <span class="num">{municipios.length}</span> municípios ·
+        <strong class="num">{cobertos}</strong> com ao menos um símbolo ({pct}%)
+      </p>
+    </header>
+
+    {simbolos.length ? (
+      <div class="simbolos">
+        <SimboloCard entrada={entrada} tipo="brasao" item={porTipo.get("brasao")} />
+        <SimboloCard entrada={entrada} tipo="bandeira" item={porTipo.get("bandeira")} />
+      </div>
+    ) : (
+      <p class="aviso">
+        Os símbolos dos estados ainda não entraram no acervo — só os municipais.
+        Os {municipios.length} municípios de {entrada.n} estão abaixo, com{" "}
+        <strong class="num">{cobertos}</strong> já cobertos.
+      </p>
+    )}
+
+    <section class="lista">
+      <div class="lista-topo">
+        <h2>Municípios</h2>
+        <p class="muted">
+          <span aria-hidden="true">●</span> brasão · <span aria-hidden="true">◆</span> bandeira ·
+          <span aria-hidden="true">V</span> vetorial — em cinza, município ainda sem nenhum.
+        </p>
+      </div>
+      <ul class="municipios">
+        {ordenados.map((m) => (
+          <li>
+            <a class={m.b || m.f ? "" : "sem-simbolo"} href={`${base}municipios/${m.c}-${m.s}`}>
+              <span class="nome">{m.n}</span>
+              <span class="marcas" aria-hidden="true">
+                {m.b ? <span title="tem brasão">●</span> : null}
+                {m.f ? <span title="tem bandeira">◆</span> : null}
+                {m.t === 3 ? <span class="vetor" title="vetorial">V</span> : null}
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </main>
+
+  <Rodape />
+
+  <script>
+    document.querySelectorAll<HTMLButtonElement>("[data-copiar]").forEach((botao) => {
+      botao.addEventListener("click", () => {
+        const texto = botao.dataset.copiar ?? "";
+        const original = botao.textContent;
+        navigator.clipboard?.writeText(texto).then(() => {
+          botao.textContent = "copiado";
+          setTimeout(() => (botao.textContent = original), 1400);
+        });
+      });
+    });
+  </script>
+
+  <style>
+    .migalha {
+      display: flex;
+      gap: 0.5rem;
+      align-items: baseline;
+      font-size: 0.8125rem;
+      color: var(--muted);
+      padding: 1.5rem 0 0.75rem;
+    }
+
+    .migalha a {
+      color: var(--muted);
+    }
+
+    .cabeca {
+      padding-bottom: 1.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .cabeca h1 {
+      font-size: clamp(1.6rem, 3vw, 2.25rem);
+      margin-bottom: 0.5rem;
+    }
+
+    .cabeca p {
+      margin: 0;
+      font-size: 0.9375rem;
+    }
+
+    .simbolos {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 1.25rem;
+      margin: 2rem 0;
+    }
+
+    .aviso {
+      margin: 1.5rem 0 0;
+      padding: 1rem 1.25rem;
+      border: 1px dashed var(--border);
+      border-radius: var(--r-card);
+      font-size: 0.9375rem;
+      color: var(--muted);
+      max-width: 68ch;
+    }
+
+    .lista {
+      padding: 1.5rem 0 3rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .lista-topo {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 0.5rem 1rem;
+      margin-bottom: 1rem;
+    }
+
+    .lista-topo h2 {
+      font-size: 1.25rem;
+    }
+
+    .lista-topo p {
+      margin: 0;
+      font-size: 0.875rem;
+    }
+
+    .municipios {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 0 1.5rem;
+    }
+
+    .municipios a {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 0.5rem;
+      padding: 0.4rem 0;
+      border-bottom: 1px solid var(--border);
+      color: var(--ink);
+      text-decoration: none;
+      font-size: 0.9375rem;
+    }
+
+    .municipios a:hover .nome {
+      color: var(--accent);
+    }
+
+    .municipios a.sem-simbolo .nome {
+      color: var(--muted);
+    }
+
+    .nome {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .marcas {
+      display: inline-flex;
+      gap: 0.35rem;
+      align-items: center;
+      color: var(--ok);
+      font-size: 0.75rem;
+      flex: none;
+    }
+
+    .vetor {
+      font-family: var(--font-mono);
+      font-size: 9px;
+      color: var(--accent);
+      border: 1px solid currentColor;
+      border-radius: 3px;
+      padding: 0 3px;
+    }
+
+
+  </style>
+</Base>

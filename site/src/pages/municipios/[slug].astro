@@ -1,0 +1,142 @@
+---
+import Base from "../../layouts/Base.astro";
+import Topo from "../../components/Topo.astro";
+import Rodape from "../../components/Rodape.astro";
+import SimboloCard from "../../components/SimboloCard.astro";
+import { BASE as base, embedUrl } from "../../lib/urls";
+import { indice, itensPorCodigo, type Entrada, type Item } from "../../lib/dados";
+
+export function getStaticPaths() {
+  const porCodigo = itensPorCodigo();
+  return indice()
+    .filter((e) => e.c.length === 7)
+    .map((e) => ({
+      params: { slug: `${e.c}-${e.s}` },
+      props: { entrada: e, simbolos: porCodigo.get(e.c) ?? [] },
+    }));
+}
+
+const { entrada, simbolos } = Astro.props as { entrada: Entrada; simbolos: Item[] };
+const porTipo = new Map(simbolos.map((i) => [i.tipo, i]));
+const ibge = `https://cidades.ibge.gov.br/brasil/${entrada.u.toLowerCase()}/${entrada.s}`;
+const rotulo = { brasao: "Brasão", bandeira: "Bandeira" } as const;
+
+const jsonLd = simbolos.map((item) => ({
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  name: `${rotulo[item.tipo]} de ${entrada.n}`,
+  contentUrl: embedUrl(entrada.c, item.tipo, item.rendicoes.svg ? "svg" : "png"),
+  license: item.licenca,
+  creditText: item.autor ?? undefined,
+  isPartOf: { "@type": "Collection", name: "Acervo de símbolos municipais" },
+}));
+---
+
+<Base
+  title={`Brasão e bandeira de ${entrada.n} · Símbolos`}
+  description={`Brasão e bandeira de ${entrada.n} (${entrada.u}), com licença, procedência e URL estável para embutir em documentos.`}
+>
+  <Topo atual="consultar" />
+
+  <main id="conteudo" class="wrap">
+    <nav class="migalha" aria-label="Trilha">
+      <a href={`${base}consultar`}>Consultar</a>
+      <span aria-hidden="true">/</span>
+      <a href={`${base}estados/${entrada.u.toLowerCase()}`}>{entrada.u}</a>
+      <span aria-hidden="true">/</span>
+      <span>{entrada.n}</span>
+    </nav>
+
+    <header class="cabeca">
+      <h1>Brasão e bandeira de {entrada.n}</h1>
+      <p class="muted">
+        {entrada.e} · {entrada.u} · <span class="num">{entrada.c}</span> ·
+        <a href={ibge} rel="noopener">ver no IBGE</a>
+      </p>
+    </header>
+
+    <div class="simbolos">
+      <SimboloCard entrada={entrada} tipo="brasao" item={porTipo.get("brasao")} />
+      <SimboloCard entrada={entrada} tipo="bandeira" item={porTipo.get("bandeira")} />
+    </div>
+
+    <section class="origem">
+      <h2>De onde vêm estes arquivos</h2>
+      <p class="muted">
+        O acervo não desenha símbolo: guarda o arquivo que já existia, com a origem
+        declarada e o <code>sha256</code> do que foi capturado. Correção de
+        atribuição é bem-vinda — <a href={`${base}#contribuir`}>fale com o projeto</a>.
+      </p>
+    </section>
+  </main>
+
+  <Rodape />
+
+  {jsonLd.map((dados) => <script type="application/ld+json" set:html={JSON.stringify(dados)} />)}
+
+  <script>
+    document.querySelectorAll<HTMLButtonElement>("[data-copiar]").forEach((botao) => {
+      botao.addEventListener("click", () => {
+        const texto = botao.dataset.copiar ?? "";
+        const original = botao.textContent;
+        navigator.clipboard?.writeText(texto).then(() => {
+          botao.textContent = "copiado";
+          setTimeout(() => (botao.textContent = original), 1400);
+        });
+      });
+    });
+  </script>
+
+  <style>
+    .migalha {
+      display: flex;
+      gap: 0.5rem;
+      align-items: baseline;
+      font-size: 0.8125rem;
+      color: var(--muted);
+      padding: 1.5rem 0 0.75rem;
+    }
+
+    .migalha a {
+      color: var(--muted);
+    }
+
+    .cabeca {
+      padding-bottom: 1.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .cabeca h1 {
+      font-size: clamp(1.6rem, 3vw, 2.25rem);
+      margin-bottom: 0.5rem;
+    }
+
+    .cabeca p {
+      margin: 0;
+      font-size: 0.9375rem;
+    }
+
+    .simbolos {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 1.25rem;
+      margin: 2rem 0;
+    }
+
+    .origem {
+      padding: 1.5rem 0 3rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .origem h2 {
+      font-size: 1.125rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .origem p {
+      font-size: 0.9375rem;
+    }
+
+
+  </style>
+</Base>

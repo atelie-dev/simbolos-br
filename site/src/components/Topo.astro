@@ -1,0 +1,92 @@
+---
+import { BASE as base } from "../lib/urls";
+
+interface Props {
+  atual?: "consultar" | "inicio";
+}
+
+const { atual } = Astro.props;
+---
+
+<header class="topo">
+  <div class="wrap topo-in">
+    <a class="marca" href={base}>
+      <span class="dominio">coletivo.dev.<span class="br">br</span></span>
+      <span class="secao">símbolos</span>
+    </a>
+    <nav aria-label="Principal">
+      <a href={`${base}consultar`} aria-current={atual === "consultar" ? "page" : undefined}>
+        Consultar
+      </a>
+      <a href={`${base}cobertura`}>Cobertura</a>
+      <a href={`${base}#contribuir`}>Contribuir</a>
+      <a href={`${base}sobre`}>Sobre</a>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .topo {
+    position: sticky;
+    top: 0;
+    z-index: 30;
+    backdrop-filter: blur(8px);
+    background: color-mix(in srgb, var(--bg) 88%, transparent);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .topo-in {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    min-height: 64px;
+    flex-wrap: wrap;
+  }
+
+  .marca {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.4rem;
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: 1.125rem;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  /* O "br" nas cores da bandeira: verde no texto, amarelo no traço — sem
+     gradiente e sem amarelo puro, que não passa contraste sobre o creme. */
+  .br {
+    color: var(--ok);
+    border-bottom: 2px solid #d9a521;
+    padding-bottom: 1px;
+  }
+
+  .secao {
+    color: var(--accent);
+    font-weight: 600;
+  }
+
+  nav {
+    display: flex;
+    gap: 1.25rem;
+  }
+
+  nav a {
+    color: var(--ink);
+    text-decoration: none;
+    font-size: 0.9375rem;
+    padding: 0.5rem 0;
+  }
+
+  nav a:hover {
+    color: var(--accent);
+  }
+
+  nav a[aria-current="page"] {
+    color: var(--accent);
+    font-weight: 600;
+  }
+</style>

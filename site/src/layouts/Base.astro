@@ -1,0 +1,47 @@
+---
+import "../styles/tokens.css";
+import "../styles/global.css";
+import { BASE as base } from "../lib/urls";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const {
+  title,
+  description = "Acervo aberto dos brasões e bandeiras dos municípios e estados brasileiros, com procedência e licença por arquivo.",
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link
+      rel="preload"
+      href={`${base}fonts/bricolage-grotesque.woff2`}
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href={`${base}fonts/source-sans-3.woff2`}
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <link rel="alternate" type="application/json" href={`${base}api/v1/municipios.json`} />
+  </head>
+  <body>
+    <a class="sr-only" href="#conteudo">Pular para o conteúdo</a>
+    <slot />
+  </body>
+</html>

@@ -1,0 +1,67 @@
+---
+import Base from "../layouts/Base.astro";
+import Busca from "../components/Busca.astro";
+import Topo from "../components/Topo.astro";
+import { BASE as base } from "../lib/urls";
+
+const consulta = Astro.url.searchParams.get("q") ?? "";
+---
+
+<Base title="Consultar · Símbolos · coletivo.dev.br">
+  <Topo atual="consultar" />
+
+  <main id="conteudo" class="wrap">
+    <section class="consulta">
+      <p class="eyebrow">Consultar</p>
+      <h1>Qual município?</h1>
+      <p class="muted">
+        Busque por nome, sigla do estado ou código IBGE. O índice tem
+        {` 5.571 `}municípios e as 27 unidades da federação.
+      </p>
+      <Busca variante="pagina" valor={consulta} id="q-consulta" />
+      <ul class="dicas">
+        <li><code>sao paulo</code> encontra <strong>São Paulo</strong> sem acento.</li>
+        <li><code>3550308</code> abre pelo código IBGE.</li>
+        <li><code>SP</code> agrupa o estado e seus municípios.</li>
+        <li><kbd>/</kbd> foca a busca; <kbd>↑</kbd> <kbd>↓</kbd> navegam; <kbd>Enter</kbd> abre.</li>
+      </ul>
+    </section>
+  </main>
+
+  <style>
+    .consulta {
+      padding: clamp(2rem, 5vw, 3.5rem) 0 4rem;
+      max-width: 46rem;
+    }
+
+    .consulta h1 {
+      margin-bottom: 0.75rem;
+    }
+
+    .consulta p {
+      margin-bottom: 1.5rem;
+    }
+
+    .dicas {
+      margin: 2.5rem 0 0;
+      padding: 1.25rem 0 0;
+      border-top: 1px solid var(--border);
+      list-style: none;
+      display: grid;
+      gap: 0.5rem;
+      font-size: 0.9375rem;
+      color: var(--muted);
+    }
+
+    .dicas code,
+    .dicas kbd {
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 1px 6px;
+      color: var(--ink);
+    }
+  </style>
+</Base>

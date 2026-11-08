@@ -1,0 +1,74 @@
+{
+ "_medido_em": "2026-11-07",
+ "_amostra": "5 municipios SEM cobertura no Wikidata/Commons, escolhidos a mao",
+ "_objetivo": "medir rendimento do crawl .gov.br e o custo em Firecrawl",
+ "resultados": [
+  {
+   "municipio": "Camaragibe",
+   "uf": "PE",
+   "codigo": "2603454",
+   "dominio_oficial": "https://camaragibe.pe.gov.br/",
+   "encontrado_por": "firecrawl_search",
+   "pagina_de_simbolos": null,
+   "ativo_de_brasao": null,
+   "observacao": "home e WordPress; logo com slogan ('Logo-com-slogan.png'), sem pagina de simbolos e sem ativo com nome de brasao"
+  },
+  {
+   "municipio": "Agudos",
+   "uf": "SP",
+   "codigo": "3500709",
+   "dominio_oficial": "https://www.agudos.sp.gov.br/",
+   "encontrado_por": "firecrawl_search",
+   "pagina_de_simbolos": "https://agudos.sp.gov.br/cidade/simbolo",
+   "ativo_de_brasao": null,
+   "observacao": "pagina existe, mas o scrape so devolveu imagens de layout e widgets de acessibilidade; brasao provavelmente em CSS/PDF, precisa rawHtml"
+  },
+  {
+   "municipio": "Belmonte",
+   "uf": "BA",
+   "codigo": "2903409",
+   "dominio_oficial": "https://belmonte.ba.gov.br/",
+   "encontrado_por": "firecrawl_search",
+   "pagina_de_simbolos": "https://belmonte.ba.gov.br/simbolos",
+   "ativo_de_brasao": "https://belmonte.ba.gov.br/userfiles/image/brasao.jpg",
+   "ativo_de_bandeira": "https://belmonte.ba.gov.br/userfiles/image/bandeira.jpg",
+   "formato": "image/jpeg",
+   "observacao": "melhor caso possivel: pagina dedicada, rotulada 'Brasao' e 'Bandeira', porem em JPG. Nenhum vetor."
+  },
+  {
+   "municipio": "Almeirim",
+   "uf": "PA",
+   "codigo": "1500503",
+   "dominio_oficial": "https://almeirim.pa.gov.br/",
+   "encontrado_por": "firecrawl_search",
+   "pagina_de_simbolos": "https://almeirim.pa.gov.br/o-municipio/historia/",
+   "ativo_de_brasao": "https://almeirim.pa.gov.br/wp-content/uploads/2021/03/logo-pm-almeirim-2.png",
+   "formato": "image/png",
+   "observacao": "secao /o-municipio/ com historia; ativo encontrado e logotipo da prefeitura (pode ser o brasao com tratamento grafico)"
+  },
+  {
+   "municipio": "Sao Paulo das Missoes",
+   "uf": "RS",
+   "codigo": "4319307",
+   "dominio_oficial": "https://www.saopaulodasmissoes.rs.gov.br/",
+   "encontrado_por": "firecrawl_search",
+   "pagina_de_simbolos": null,
+   "ativo_de_brasao": null,
+   "observacao": "FALHA: scrape retornou ERR_TUNNEL_CONNECTION; site inacessivel pelo Firecrawl. Precisa de fetch direto ou retry."
+  }
+ ],
+ "agregado": {
+  "dominio_encontrado": "5/5",
+  "pagina_de_simbolos_ou_secao": "3/5",
+  "ativo_de_brasao_identificado": "2/5 (Belmonte JPG, Almeirim PNG)",
+  "vetor_svg": "0/5",
+  "pdf_com_vetor": "0/5 (nao procurado em profundidade)",
+  "falha_de_rede": "1/5"
+ },
+ "firecrawl": {
+  "creditos_no_inicio": 1334,
+  "creditos_no_fim": 1334,
+  "chamadas": "5 busca + 6 scrape",
+  "observacao": "o contador de creditos nao se moveu; nao foi possivel medir custo por chamada. Confirmar no painel antes de rodar em escala."
+ }
+}

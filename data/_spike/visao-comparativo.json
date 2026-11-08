@@ -1,0 +1,162 @@
+[
+ {
+  "caso": "Agudos/SP brasao",
+  "esperado": "brasao",
+  "modelo": "glm-5.3-flash",
+  "obtido": "brasao",
+  "acertou": true,
+  "confianca": 0.98,
+  "descricao": "Brasão com coroa mural, escudo azul com flores-de-lis e espada, campanha amarela dentada, suportes de ramos verdes e listel azul com '1897 AGUDOS 1898'.",
+  "uso": {
+   "provedor": "neuralwatt",
+   "modelo": "glm-5.3-flash",
+   "entrada": 457,
+   "saida": 195,
+   "reasoning": 104,
+   "custo": 2.9e-05,
+   "moeda": "USD",
+   "restante": 3.803131
+  },
+  "erro": null
+ },
+ {
+  "caso": "Agudos/SP brasao",
+  "esperado": "brasao",
+  "modelo": "deepseek-v4.1-flash",
+  "obtido": "brasao",
+  "acertou": true,
+  "confianca": 0.99,
+  "descricao": "Brasão municipal com escudo azul, espada e flores-de-lis prateadas, base amarela em pontas, coroa mural e ramos, sobre listel azul com \"AGUDOS 1897 1898\".",
+  "uso": {
+   "provedor": "neuralwatt",
+   "modelo": "deepseek-v4.1-flash",
+   "entrada": 422,
+   "saida": 208,
+   "reasoning": 117,
+   "custo": 2.7e-05,
+   "moeda": "USD",
+   "restante": 3.803131
+  },
+  "erro": null
+ },
+ {
+  "caso": "Belmonte/BA bandeira",
+  "esperado": "bandeira",
+  "modelo": "glm-5.3-flash",
+  "obtido": "bandeira",
+  "acertou": true,
+  "confianca": 0.92,
+  "descricao": "Bandeira de campo branco com fourões verdes nos ângulos e o brasão municipal ao centro, trazendo coroa mural e listel vermelho com 'BELMONTE' e '1891' (imagem com marca d'água 'Símbolos Municipais Brasileiros').",
+  "uso": {
+   "provedor": "neuralwatt",
+   "modelo": "glm-5.3-flash",
+   "entrada": 1138,
+   "saida": 353,
+   "reasoning": 243,
+   "custo": 2.7e-05,
+   "moeda": "USD",
+   "restante": 3.803131
+  },
+  "erro": null
+ },
+ {
+  "caso": "Belmonte/BA bandeira",
+  "esperado": "bandeira",
+  "modelo": "deepseek-v4.1-flash",
+  "obtido": "bandeira",
+  "acertou": true,
+  "confianca": 0.96,
+  "descricao": "Bandeira de Belmonte, campo branco com faixas verdes e brasão central com coroa mural e listel BELMONTE; há marca d'água SIMB. MUN. BRASILEIRA.",
+  "uso": {
+   "provedor": "neuralwatt",
+   "modelo": "deepseek-v4.1-flash",
+   "entrada": 677,
+   "saida": 390,
+   "reasoning": 303,
+   "custo": 8e-06,
+   "moeda": "USD",
+   "restante": 3.803131
+  },
+  "erro": null
+ },
+ {
+  "caso": "Belmonte/BA brasao",
+  "esperado": "brasao",
+  "modelo": "glm-5.3-flash",
+  "obtido": "brasao",
+  "acertou": true,
+  "confianca": 0.95,
+  "descricao": "Brasão de Belmonte com coroa mural dourada, campo azul com sol e montanhas, frutos de cacau e listel vermelho com o nome e datas 1891; imagem contém marca d'água sobreposta.",
+  "uso": {
+   "provedor": "neuralwatt",
+   "modelo": "glm-5.3-flash",
+   "entrada": 332,
+   "saida": 411,
+   "reasoning": 318,
+   "custo": 4.5e-05,
+   "moeda": "USD",
+   "restante": 3.803131
+  },
+  "erro": null
+ },
+ {
+  "caso": "Belmonte/BA brasao",
+  "esperado": "brasao",
+  "modelo": "deepseek-v4.1-flash",
+  "obtido": "brasao",
+  "acertou": true,
+  "confianca": 0.98,
+  "descricao": "Brasão municipal de Belmonte com coroa mural, escudo heráldico e listel vermelho com o nome e datas 1891.",
+  "uso": {
+   "provedor": "neuralwatt",
+   "modelo": "deepseek-v4.1-flash",
+   "entrada": 422,
+   "saida": 195,
+   "reasoning": 125,
+   "custo": 8e-06,
+   "moeda": "USD",
+   "restante": 3.803131
+  },
+  "erro": null
+ },
+ {
+  "caso": "Camaragibe/PE logo",
+  "esperado": "logo",
+  "modelo": "glm-5.3-flash",
+  "obtido": "logo",
+  "acertou": true,
+  "confianca": 0.98,
+  "descricao": "Marca institucional tipográfica de Camaragibe com setas/chevrons coloridos e slogan 'A cidade do trabalho'; não é brasão nem bandeira.",
+  "uso": {
+   "provedor": "neuralwatt",
+   "modelo": "glm-5.3-flash",
+   "entrada": 2314,
+   "saida": 221,
+   "reasoning": 145,
+   "custo": 4.2e-05,
+   "moeda": "USD",
+   "restante": 3.803131
+  },
+  "erro": null
+ },
+ {
+  "caso": "Camaragibe/PE logo",
+  "esperado": "logo",
+  "modelo": "deepseek-v4.1-flash",
+  "obtido": "logo",
+  "acertou": true,
+  "confianca": 0.98,
+  "descricao": "Peça gráfica com o nome CAMARAGIBE e o slogan A CIDADE DO TRABALHO sobre faixas coloridas em chevron, sem brasão.",
+  "uso": {
+   "provedor": "neuralwatt",
+   "modelo": "deepseek-v4.1-flash",
+   "entrada": 1206,
+   "saida": 206,
+   "reasoning": 132,
+   "custo": 1.5e-05,
+   "moeda": "USD",
+   "restante": 3.803131
+  },
+  "erro": null
+ }
+]

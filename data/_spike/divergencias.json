@@ -1,0 +1,102 @@
+[
+ {
+  "url": "https://colina.sp.gov.br/Arquitetura/Imagens/logo.png",
+  "quem": "Colina/SP",
+  "difs": [
+   "tipo: clef=brasao / chat=logo"
+  ],
+  "clef": {
+   "tipo": "brasao",
+   "agua": false,
+   "fundo_limpo": true,
+   "conf": 0.4896
+  },
+  "chat": {
+   "tipo": "logo",
+   "agua": false,
+   "fundo": "limpo",
+   "conf": 0.95
+  },
+  "local": "/tmp/opencode/rotulos/Colina-SP-0.png"
+ },
+ {
+  "url": "https://brejolandia.ba.gov.br/public/images/logo/brasaonovo.png",
+  "quem": "Brejolândia/BA",
+  "difs": [
+   "tipo: clef=logo / chat=outro"
+  ],
+  "clef": {
+   "tipo": "logo",
+   "agua": false,
+   "fundo_limpo": true,
+   "conf": 0.5053
+  },
+  "chat": {
+   "tipo": "outro",
+   "agua": false,
+   "fundo": "limpo",
+   "conf": 0.1
+  },
+  "local": "/tmp/opencode/rotulos/Brejolândia-BA-1.png"
+ },
+ {
+  "url": "http://camutanga.pe.gov.br/wp-content/uploads/2021/03/brasao.jpeg",
+  "quem": "Camutanga/PE",
+  "difs": [
+   "marca_dagua: clef=False / chat=True"
+  ],
+  "clef": {
+   "tipo": "brasao",
+   "agua": false,
+   "fundo_limpo": true,
+   "conf": 0.9423
+  },
+  "chat": {
+   "tipo": "brasao",
+   "agua": true,
+   "fundo": "limpo",
+   "conf": 0.9
+  },
+  "local": "/tmp/opencode/rotulos/Camutanga-PE-2.jpg"
+ },
+ {
+  "url": "https://cedro.pe.gov.br/link/link293.jpg",
+  "quem": "Cedro/PE",
+  "difs": [
+   "fundo_limpo: clef=True / chat=False"
+  ],
+  "clef": {
+   "tipo": "brasao",
+   "agua": false,
+   "fundo_limpo": true,
+   "conf": 0.9266
+  },
+  "chat": {
+   "tipo": "brasao",
+   "agua": false,
+   "fundo": "outro",
+   "conf": 0.98
+  },
+  "local": "/tmp/opencode/rotulos/Cedro-PE-3.jpg"
+ },
+ {
+  "url": "https://aratuba.ce.gov.br/link/link271.png",
+  "quem": "Aratuba/CE",
+  "difs": [
+   "fundo_limpo: clef=True / chat=False"
+  ],
+  "clef": {
+   "tipo": "brasao",
+   "agua": false,
+   "fundo_limpo": true,
+   "conf": 0.952
+  },
+  "chat": {
+   "tipo": "brasao",
+   "agua": false,
+   "fundo": "outro",
+   "conf": 0.98
+  },
+  "local": "/tmp/opencode/rotulos/Aratuba-CE-4.png"
+ }
+]

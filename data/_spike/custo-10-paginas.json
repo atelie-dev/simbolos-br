@@ -1,0 +1,162 @@
+{
+ "maritaca": {
+  "modelo": "S5",
+  "aceitos": 6,
+  "paginas": 10,
+  "custo_somado": 0.04185,
+  "custo_faturado": 0.04185,
+  "segundos": 52.1,
+  "linhas": [
+   {
+    "url": "https://bocadamata.al.gov.br/historia",
+    "aceito": false,
+    "custo": 0.00306275,
+    "saida": 853,
+    "tier": "flex"
+   },
+   {
+    "url": "https://campogrande.al.gov.br/a-cidade",
+    "aceito": false,
+    "custo": 0.0028987500000000003,
+    "saida": 296,
+    "tier": "flex"
+   },
+   {
+    "url": "https://anama.am.gov.br/cidade/simbolo",
+    "aceito": true,
+    "custo": 0.00612075,
+    "saida": 614,
+    "tier": "flex"
+   },
+   {
+    "url": "https://barreirinha.am.gov.br/cidade/simbolo",
+    "aceito": true,
+    "custo": 0.00941375,
+    "saida": 1779,
+    "tier": "flex"
+   },
+   {
+    "url": "https://ferreiragomes.ap.gov.br/simbolos",
+    "aceito": true,
+    "custo": 0.00466275,
+    "saida": 1762,
+    "tier": "flex"
+   },
+   {
+    "url": "https://portogrande.ap.gov.br/simbolos",
+    "aceito": true,
+    "custo": 0.00321925,
+    "saida": 352,
+    "tier": "flex"
+   },
+   {
+    "url": "https://angical.ba.gov.br/a-cidade",
+    "aceito": false,
+    "custo": 0.0029787499999999996,
+    "saida": 114,
+    "tier": "flex"
+   },
+   {
+    "url": "https://belmonte.ba.gov.br/simbolos",
+    "aceito": true,
+    "custo": 0.0011566,
+    "saida": 284,
+    "tier": "flex"
+   },
+   {
+    "url": "https://acopiara.ce.gov.br/simbolos",
+    "aceito": false,
+    "custo": 0.00323325,
+    "saida": 401,
+    "tier": "flex"
+   },
+   {
+    "url": "https://aiuaba.ce.gov.br/simbolos",
+    "aceito": true,
+    "custo": 0.005103,
+    "saida": 1846,
+    "tier": "flex"
+   }
+  ]
+ },
+ "neuralwatt": {
+  "modelo": "deepseek-v4.1-flash",
+  "aceitos": 7,
+  "paginas": 10,
+  "custo_somado": 0.000924,
+  "custo_faturado": null,
+  "segundos": 39.7,
+  "linhas": [
+   {
+    "url": "https://bocadamata.al.gov.br/historia",
+    "aceito": true,
+    "custo": 0.000177,
+    "saida": 534,
+    "tier": "flex"
+   },
+   {
+    "url": "https://campogrande.al.gov.br/a-cidade",
+    "aceito": false,
+    "custo": 4.6e-05,
+    "saida": 399,
+    "tier": "flex"
+   },
+   {
+    "url": "https://anama.am.gov.br/cidade/simbolo",
+    "aceito": true,
+    "custo": 0.000117,
+    "saida": 194,
+    "tier": "flex"
+   },
+   {
+    "url": "https://barreirinha.am.gov.br/cidade/simbolo",
+    "aceito": true,
+    "custo": 0.000133,
+    "saida": 369,
+    "tier": "flex"
+   },
+   {
+    "url": "https://ferreiragomes.ap.gov.br/simbolos",
+    "aceito": true,
+    "custo": 7.9e-05,
+    "saida": 504,
+    "tier": "flex"
+   },
+   {
+    "url": "https://portogrande.ap.gov.br/simbolos",
+    "aceito": true,
+    "custo": 8.9e-05,
+    "saida": 236,
+    "tier": "flex"
+   },
+   {
+    "url": "https://angical.ba.gov.br/a-cidade",
+    "aceito": false,
+    "custo": 1.7e-05,
+    "saida": 190,
+    "tier": "flex"
+   },
+   {
+    "url": "https://belmonte.ba.gov.br/simbolos",
+    "aceito": true,
+    "custo": 6.5e-05,
+    "saida": 465,
+    "tier": "flex"
+   },
+   {
+    "url": "https://acopiara.ce.gov.br/simbolos",
+    "aceito": false,
+    "custo": 0.000146,
+    "saida": 248,
+    "tier": "flex"
+   },
+   {
+    "url": "https://aiuaba.ce.gov.br/simbolos",
+    "aceito": true,
+    "custo": 5.5e-05,
+    "saida": 225,
+    "tier": "flex"
+   }
+  ]
+ }
+}

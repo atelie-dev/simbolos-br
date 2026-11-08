@@ -1,0 +1,225 @@
+---
+import Base from "../layouts/Base.astro";
+import Topo from "../components/Topo.astro";
+import Rodape from "../components/Rodape.astro";
+import { BASE as base } from "../lib/urls";
+---
+
+<Base
+  title="Sobre · Símbolos · coletivo.dev.br"
+  description="Quem mantém o acervo, por que ele é independente e como funcionam as licenças por arquivo."
+>
+  <Topo />
+
+  <main id="conteudo" class="wrap">
+    <header class="cabeca">
+      <p class="eyebrow">Sobre</p>
+      <h1>Um acervo público, feito com cuidado.</h1>
+      <p class="linha-fina">
+        O símbolo é do município. O que este projeto oferece é um lugar melhor
+        para encontrá-lo — com a origem declarada e a licença legível.
+      </p>
+    </header>
+
+    <section class="bloco">
+      <h2>Quem mantém</h2>
+      <p>
+        O acervo é mantido pelo <a href="https://atelie.dev.br" rel="noopener">Ateliê</a>,
+        um estúdio pequeno que escreve software de forma artesanal. O{" "}
+        <strong>coletivo.dev.br</strong> é a divisão de código e dados abertos do
+        Ateliê, e este é o seu primeiro acervo.
+      </p>
+      <p>
+        A frase que organiza as duas coisas: <em>o ateliê assina o cuidado; o coletivo
+        assina o aberto</em>. Nada aqui é anônimo por descuido — cada arquivo diz de
+        onde veio.
+      </p>
+    </section>
+
+    <section class="bloco">
+      <h2>Independência</h2>
+      <p>
+        O projeto não tem vínculo com governo, IBGE, prefeituras ou partidos. Não
+        representa nenhum deles e não fala em nome deles. Quando um símbolo é
+        publicado pela própria prefeitura, isso é registrado como{" "}
+        <strong>fonte oficial</strong> — o que não transforma o arquivo em domínio
+        público.
+      </p>
+    </section>
+
+    <section class="bloco">
+      <h2>Licenças, em três camadas</h2>
+      <p>
+        O acervo não tem uma licença só, porque não é uma obra só. Cada camada tem
+        a sua:
+      </p>
+      <dl class="camadas">
+        <div>
+          <dt>Código</dt>
+          <dd>AGPL-3.0. Quem melhora o serviço devolve a melhoria.</dd>
+        </div>
+        <div>
+          <dt>Metadados</dt>
+          <dd>CC0. Índice, cobertura e o texto de procedência podem ser reusados sem condição.</dd>
+        </div>
+        <div>
+          <dt>Imagens</dt>
+          <dd>
+            Cada arquivo carrega a licença da fonte, em SPDX, e um de três baldes:{" "}
+            <span class="selo selo--livre">livre</span> (CC0, domínio público, CC BY),{" "}
+            <span class="selo selo--compartilha">compartilha</span> (CC BY-SA, herda a
+            cláusula) e <span class="selo selo--oficial">oficial</span> (publicado
+            pela prefeitura, <strong>não</strong> é domínio público).
+          </dd>
+        </div>
+      </dl>
+      <p class="nota">
+        O balde não é detalhe burocrático: ele decide o que entra no pacote de uso
+        livre. Quem não pode lidar com ShareAlike precisa saber, antes de baixar, o
+        que está levando.
+      </p>
+    </section>
+
+    <section class="bloco">
+      <h2>Correção e contestação</h2>
+      <p>
+        Erro de atribuição, arquivo trocado, símbolo revogado pelo município: tudo
+        tem conserto. A correção não sobrescreve — ela substitui, e o registro
+        anterior fica no histórico, com hash e data. É o que permite provar o que
+        era antes e o que mudou.
+      </p>
+      <p class="nota">
+        A política completa e o canal de contato entram no ar junto com o fluxo de
+        contribuição, ainda em construção. Preferimos não publicar um endereço que
+        ninguém lê.
+      </p>
+    </section>
+
+    <section class="bloco">
+      <h2>Custos e apoio</h2>
+      <p>
+        O custo é domínio, armazenamento e tempo de curadoria. Não há anúncio, nem
+        patrocínio, nem venda de destaque ou de "verificação". O apoio paga
+        infraestrutura primeiro; depois, tempo.
+      </p>
+      <p class="nota">
+        O relatório mensal de custos será publicado quando existir o primeiro mês
+        fechado. Até lá, os botões de apoio ficam desligados: botão que não funciona
+        é pior que botão ausente.
+      </p>
+    </section>
+
+    <section class="bloco">
+      <h2>Tecnologia</h2>
+      <p>
+        Pipeline em Python, site estático em Astro, arquivos no Cloudflare R2. As
+        URLs de embed são o contrato permanente: <code>/embed/v1/…</code> não muda
+        de caminho — o conteúdo muda por purge, e formatos novos entram em{" "}
+        <code>/v2/</code>.
+      </p>
+      <p>
+        O índice está em <a href={`${base}api/v1/municipios.json`}>JSON</a>, a
+        cobertura em <a href={`${base}cobertura`}>página própria</a>, e o código
+        sob AGPL-3.0.
+      </p>
+    </section>
+  </main>
+
+  <Rodape />
+
+  <style>
+    .cabeca {
+      padding: clamp(2rem, 4vw, 3rem) 0 2rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .cabeca h1 {
+      margin-bottom: 0.75rem;
+    }
+
+    .linha-fina {
+      color: var(--muted);
+      font-size: 1.0625rem;
+      max-width: 60ch;
+      margin: 0;
+    }
+
+    .bloco {
+      padding: 2rem 0;
+      border-bottom: 1px solid var(--border);
+      max-width: 72ch;
+    }
+
+    .bloco h2 {
+      font-size: 1.375rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .bloco p {
+      margin-bottom: 0.75rem;
+    }
+
+    .nota {
+      color: var(--muted);
+      font-size: 0.9375rem;
+    }
+
+    .camadas {
+      display: grid;
+      gap: 0.75rem;
+      margin: 1rem 0;
+    }
+
+    .camadas > div {
+      display: grid;
+      grid-template-columns: 7rem 1fr;
+      gap: 0.75rem;
+      align-items: baseline;
+    }
+
+    .camadas dt {
+      font-size: 11px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .camadas dd {
+      margin: 0;
+    }
+
+    .selo {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      border-radius: var(--r-selo);
+      padding: 1px 5px;
+      border: 1px solid currentColor;
+    }
+
+    .selo--livre {
+      color: var(--ok);
+    }
+
+    .selo--compartilha {
+      color: var(--warn);
+    }
+
+    .selo--oficial {
+      color: var(--stop);
+    }
+
+    code {
+      font-family: var(--font-mono);
+      font-size: 0.875rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 1px 5px;
+    }
+
+
+  </style>
+</Base>

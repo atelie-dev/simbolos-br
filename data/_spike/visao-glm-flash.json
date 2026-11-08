@@ -1,0 +1,46 @@
+[
+ {
+  "caso": "Agudos/SP brasao",
+  "esperado": "brasao",
+  "obtido": "brasao",
+  "acertou": true,
+  "municipio": "AGUDOS",
+  "descricao": "Brasão de Agudos com coroa mural, escudo azul com flores-de-lis e espada, montes amarelos, ramos de sustentação e listel azul com o nome e datas 1897-1898.",
+  "confianca": 0.98,
+  "tokens": "457/188",
+  "kb": 47
+ },
+ {
+  "caso": "Belmonte/BA bandeira",
+  "esperado": "bandeira",
+  "obtido": "bandeira",
+  "acertou": true,
+  "municipio": "Belmonte",
+  "descricao": "Bandeira de campo branco com quatro faixas verdes em cruz de fourragère apontando ao centro, onde repousa o brasão com coroa mural e listel vermelho inscrita 'BELMONTE'; contém marca d'água sobreposta.",
+  "confianca": 0.95,
+  "tokens": "1138/273",
+  "kb": 60
+ },
+ {
+  "caso": "Belmonte/BA brasao",
+  "esperado": "brasao",
+  "obtido": "brasao",
+  "acertou": true,
+  "municipio": "Belmonte",
+  "descricao": "Brasão de Belmonte com coroa mural dourada, escudo azul com sol, montanhas e cacau, e listel vermelho com o nome e as datas de 1891; contém marca d'água 'Símbolos do Brasil/MBI'.",
+  "confianca": 0.95,
+  "tokens": "332/258",
+  "kb": 52
+ },
+ {
+  "caso": "Camaragibe/PE logo",
+  "esperado": "logo",
+  "obtido": "logo",
+  "acertou": true,
+  "municipio": "Camaragibe",
+  "descricao": "Logotipo institucional de Camaragibe (PE) em tipografia azul sobre retângulos, com chevrons coloridos e o slogan 'A cidade do trabalho'; não é brasão heráldico.",
+  "confianca": 0.97,
+  "tokens": "2314/268",
+  "kb": 121
+ }
+]

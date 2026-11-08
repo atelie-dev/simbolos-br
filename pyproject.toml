@@ -1,0 +1,20 @@
+[project]
+name = "simbolos-br"
+version = "0.1.0"
+description = "Acervo aberto dos brasoes e bandeiras dos municipios e estados do Brasil"
+requires-python = ">=3.15"
+dependencies = [
+  "boto3>=1.43.126",
+  "httpx>=0.28",
+  "pillow>=13.0.0",
+  "pydantic>=2.14",
+  "python-dotenv>=1.2.4",
+  "typer>=0.28.0",
+]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 100
+target-version = "py315"

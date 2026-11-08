@@ -1,0 +1,32 @@
+{
+ "colina": {
+  "campo": "tipo",
+  "valor": "brasao",
+  "nota": "brasao com texto 'PREFEITURA DE COLINA' ao lado; recortavel",
+  "quem_rotulou": "usuario"
+ },
+ "brejolandia": {
+  "campo": "tipo",
+  "valor": "invalida",
+  "nota": "imagem em branco (4000x2022, desvio 0.00)",
+  "quem_rotulou": "usuario"
+ },
+ "camutanga": {
+  "campo": "marca_dagua",
+  "valor": "limpa",
+  "nota": "sem marca d'agua",
+  "quem_rotulou": "usuario"
+ },
+ "cedro": {
+  "campo": "fundo",
+  "valor": "sujo",
+  "nota": "fundo preto; brasao integro",
+  "quem_rotulou": "agente (revisar)"
+ },
+ "aratuba": {
+  "campo": "fundo",
+  "valor": "limpo",
+  "nota": "fundo limpo",
+  "quem_rotulou": "usuario"
+ }
+}
