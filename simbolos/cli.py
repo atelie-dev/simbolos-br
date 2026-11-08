@@ -815,8 +815,15 @@ def pix_cmd(
     codigo: Annotated[
         str | None, typer.Option(help="BR Code; sem ele regenera do data/pix.json")
     ] = None,
+    sem_txid: Annotated[
+        bool, typer.Option("--sem-txid", help="remove o campo 62 (txid) do codigo")
+    ] = False,
 ) -> None:
     """Valida o BR Code do PIX e gera o QR que o site publica."""
+    if sem_txid:
+        base = codigo or json.loads(pix.ORIGEM.read_text())["codigo"]
+        codigo = pix.sem_txid(base)
+        console.print("txid removido (campo 62 omitido)")
     r = pix.registrar(codigo) if codigo else pix.gerar()
     t = Table(title="pix")
     t.add_column("medida")

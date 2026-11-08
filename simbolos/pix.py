@@ -62,6 +62,24 @@ def validar(codigo: str) -> dict:
     }
 
 
+def sem_txid(codigo: str) -> str:
+    """Recria o BR Code sem o campo 62 (Additional Data / txid).
+
+    O padrão trata o campo ausente como "não informado", que é o mesmo que
+    `***`: cada pagamento é independente, em vez de o banco tratar o segundo
+    como repetição do primeiro.
+    """
+    corpo = codigo.strip()[:-4]
+    partes = [
+        f"{ident}{len(valor):02d}{valor}"
+        for ident, valor in campos(corpo)
+        if ident not in ("62", "63")  # 62 = txid, 63 = o próprio CRC
+    ]
+    # O CRC cobre o payload inteiro, inclusive o cabeçalho "6304" do campo 63.
+    payload = "".join(partes) + "6304"
+    return payload + crc16(payload)
+
+
 def registrar(codigo: str) -> dict:
     """Valida e grava o código em data/pix.json (falha alto se o CRC não fecha)."""
     # Só quebra de linha e espaço nas pontas: espaço interno do nome e da cidade
@@ -81,7 +99,6 @@ def gerar() -> dict:
     codigo = dados["codigo"]
     if not validar(codigo)["ok"]:
         raise SystemExit("CRC de data/pix.json nao confere; regenere o codigo")
-
     QR.parent.mkdir(parents=True, exist_ok=True)
     segno.make(codigo, error="m").save(
         QR, kind="svg", scale=6, border=2, dark="#241c17", light="#ffffff"
