@@ -409,6 +409,21 @@ def _com_semaforo(semaforo: threading.Semaphore | None, funcao, *args, **kwargs)
         return funcao(*args, **kwargs)
 
 
+def _incompleto(registro: dict) -> bool:
+    """O LLM falhou neste município? Então ele não conta como feito.
+
+    `ato_aceito` nulo numa página baixada, sem erro de HTTP nem robots, é falha
+    do modelo (429 esgotado ou timeout) — não é página sem lei. Tratar os dois
+    igual faria a retomada pular justamente o que precisa ser refeito.
+    """
+    for pagina in registro.get("paginas") or []:
+        if pagina.get("erro") or pagina.get("robots"):
+            continue
+        if pagina.get("ato_aceito") is None:
+            return True
+    return False
+
+
 def coletar_lote(
     municipios: Iterable[dict],
     saida: Path,
@@ -418,16 +433,23 @@ def coletar_lote(
     limite_paginas: int = 3,
     flex: bool = True,
     paralelismo: int = 6,
-    paralelismo_llm: int = 24,
+    paralelismo_llm: int = 12,
     pausa: float = 0.0,
 ) -> dict:
-    feitos: set[str] = set()
+    # A retomada olha o último registro de cada município: quem teve falha de
+    # LLM volta para a fila, mesmo já estando no arquivo.
+    ultimo: dict[str, dict] = {}
     if saida.exists():
         for linha in saida.read_text().splitlines():
+            if not linha.strip():
+                continue
             try:
-                feitos.add(json.loads(linha)["codigo"])
-            except Exception:  # noqa: BLE001, S110
-                pass
+                registro = json.loads(linha)
+            except json.JSONDecodeError:
+                continue
+            ultimo[registro["codigo"]] = registro
+    feitos = {codigo for codigo, reg in ultimo.items() if not _incompleto(reg)}
+    incompletos = len(ultimo) - len(feitos)
 
     pendentes = [m for m in municipios if m["codigo"] not in feitos]
     resumo = {
@@ -435,9 +457,12 @@ def coletar_lote(
         "com_ato": 0,
         "com_pdf": 0,
         "com_pdf_vetorial": 0,
+        "incompletos": incompletos,
         "custos": {},
         "segundos": 0.0,
     }
+    if incompletos:
+        print(f"refazendo {incompletos} municipios com falha de LLM", flush=True)
     saida.parent.mkdir(parents=True, exist_ok=True)
     inicio = time.time()
     # Teto de chamadas ao provedor. Mais municípios em voo que chamadas de LLM:
