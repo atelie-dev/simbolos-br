@@ -129,6 +129,7 @@ binário.
 | Conteúdo | `deploy/` = portal na raiz + `simbolos/` (montado por `scripts/empacotar_site.py`) |
 | Deploy | `wrangler pages deploy deploy --project-name coletivo --branch main` |
 | Domínios | `coletivo.dev.br` e `www.coletivo.dev.br` |
+| URLs | `build.format: "file"`: `/simbolos/consultar`, sem barra e sem `.html`; a barra responde 308 para a limpa. Cada página tem `link rel="canonical"` |
 | DNS | CNAME proxiado para `coletivo.pages.dev` — o Pages **não** criou o registro sozinho |
 | Headers | `portal/_headers` (é o único que vale: o Pages lê só o da raiz). `Permissions-Policy` libera `geolocation=(self)` — o botão "onde estou" depende disso |
 

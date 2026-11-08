@@ -6,6 +6,8 @@ export default defineConfig({
   site: "https://coletivo.dev.br",
   base: "/simbolos",
   output: "static",
-  trailingSlash: "ignore",
-  build: { assets: "_astro" },
+  // `file` gera municipios/3550308-sao-paulo.html em vez de pasta/index.html.
+  // Com pasta, o Pages responde 308 para a versão com barra em toda URL.
+  trailingSlash: "never",
+  build: { format: "file", assets: "_astro" },
 });

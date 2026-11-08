@@ -12,6 +12,16 @@ const {
   title,
   description = "Acervo aberto dos brasões e bandeiras dos municípios e estados brasileiros, com procedência e licença por arquivo.",
 } = Astro.props;
+
+// URL canônica: sem barra final e sem `.html` (o build usa `format: "file"`).
+// A raiz do serviço é a exceção — ali `index.html` é o próprio diretório.
+const bruto = Astro.url.pathname;
+const caminho = bruto.endsWith("/index.html")
+  ? bruto.slice(0, -"index.html".length)
+  : bruto.endsWith(".html")
+    ? bruto.slice(0, -".html".length)
+    : bruto;
+const canonica = new URL(caminho, Astro.site).href;
 ---
 
 <!doctype html>
@@ -21,6 +31,7 @@ const {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonica} />
     <link
       rel="preload"
       href={`${base}fonts/bricolage-grotesque.woff2`}
