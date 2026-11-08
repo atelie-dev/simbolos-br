@@ -118,6 +118,22 @@ O site depende de `site/public/api/v1/*.json` e `site/src/data/itens.json`, ambo
 gerados por `simbolos indice` e versionados para o build funcionar sem o acervo
 binário.
 
+## Infra Pages
+
+| Item | Valor |
+|---|---|
+| Projeto | `coletivo` (produção na branch `main`) |
+| Conteúdo | `deploy/` = portal na raiz + `simbolos/` (montado por `scripts/empacotar_site.py`) |
+| Deploy | `wrangler pages deploy deploy --project-name coletivo --branch main` |
+| Domínios | `coletivo.dev.br` e `www.coletivo.dev.br` |
+| DNS | CNAME proxiado para `coletivo.pages.dev` — o Pages **não** criou o registro sozinho |
+| Headers | `portal/_headers` (é o único que vale: o Pages lê só o da raiz) |
+
+**Criação do projeto (uma vez):** `wrangler pages project create coletivo --production-branch main --force`.
+O `--force` é necessário porque o wrangler 4.156 delega `pages` para Workers e a
+delegação falha com "Missing entry-point to Worker script". Depois de o projeto
+existir, os comandos seguintes rodam direto no Pages — **não** repetir `--force`.
+
 ## Infra R2
 
 | Item | Valor |

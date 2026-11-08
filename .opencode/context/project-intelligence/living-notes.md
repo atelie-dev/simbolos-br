@@ -40,7 +40,7 @@ com o bucket dele, sem Worker e sem mexer neste. Configurável por `SITE_BASE` /
 | Domínio `coletivo.dev.br` | **ativo** no Cloudflare; `simbolos.coletivo.dev.br` (CNAME proxiado para `public.r2.dev`) serve o bucket com CSP/nosniff |
 | Token Cloudflare | Pages, R2 custom domain, Zone settings, Zone Config e Cache Purge: todos liberados |
 | Site | **local**: landing, `/consultar`, `/cobertura`, `/sobre`, 5.571 municípios, 27 estados; portal na raiz em `portal/` |
-| Deploy (Pages) | **não publicado** — `deploy/` montado (5.609 arquivos, 88,5 MB); falta criar o projeto e apontar o apex |
+| Deploy (Pages) | projeto `coletivo` publicado; `coletivo.dev.br` e `www` anexados, com CNAME proxiado criado à mão |
 | Repositório | público em `github.com/atelie-dev/simbolos-br` (branch `main`), AGPL-3.0 + README; `.env` fora do índice |
 | Pacotes npm/PyPI/Composer | não começaram |
 
