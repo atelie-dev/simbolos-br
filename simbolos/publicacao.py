@@ -20,16 +20,13 @@ import re
 import shutil
 import subprocess
 import tempfile
-import threading
 import time
 from datetime import UTC, datetime
 from pathlib import Path
-from urllib.parse import urlparse
 
-import httpx
 from PIL import Image
 
-from . import DATA, META, USER_AGENT, VETORES, guarda
+from . import DATA, META, VETORES, guarda, rede
 
 LADO = 512
 RESPIRO = 0.02
@@ -53,54 +50,15 @@ EXT_POR_MIME = {
     "image/vnd.microsoft.icon": "ico",
 }
 
-# Polidez por host: Wikimedia pede intervalo entre requisições de bot.
-INTERVALO = {"upload.wikimedia.org": 1.0, "commons.wikimedia.org": 0.5}
-INTERVALO_PADRAO = 0.2
-_ultimo: dict[str, float] = {}
-_trava = threading.Lock()
-
 _SVG_PROIBIDO = re.compile(
     r"<script|\son[a-z]+\s*=|<foreignObject|xlink:href\s*=\s*[\"']https?://|href\s*=\s*[\"']https?://",
     re.IGNORECASE,
 )
 
 
-def _esperar(host: str) -> None:
-    with _trava:
-        agora = time.time()
-        alvo = _ultimo.get(host, 0.0) + INTERVALO.get(host, INTERVALO_PADRAO)
-        espera = max(0.0, alvo - agora)
-        _ultimo[host] = max(agora, alvo)
-    if espera:
-        time.sleep(espera)
-
-
 def baixar(url: str, tentativas: int = 5) -> bytes:
-    """GET com polidez por host e backoff em 429/503.
-
-    A Wikimedia responde 429 quando o bot acelera; insistir sem esperar só
-    aumenta o bloqueio.
-    """
-    host = urlparse(url).hostname or ""
-    ultimo: Exception | None = None
-    for i in range(tentativas):
-        _esperar(host)
-        try:
-            r = httpx.get(
-                url, headers={"User-Agent": USER_AGENT}, timeout=TIMEOUT, follow_redirects=True
-            )
-        except Exception as exc:  # noqa: BLE001
-            ultimo = exc
-            time.sleep(min(2 ** (i + 1), 20))
-            continue
-        if r.status_code in (429, 503):
-            espera = r.headers.get("retry-after")
-            time.sleep(min(float(espera) if espera and espera.isdigit() else 2 ** (i + 1), 30))
-            ultimo = RuntimeError(f"HTTP {r.status_code}")
-            continue
-        r.raise_for_status()
-        return r.content
-    raise RuntimeError(f"download falhou apos {tentativas}: {ultimo}")
+    """GET com polidez por host e backoff em 429/503 — a política vive em `rede`."""
+    return rede.baixar(url, tentativas=tentativas)
 
 
 def validar_svg(conteudo: bytes) -> str | None:

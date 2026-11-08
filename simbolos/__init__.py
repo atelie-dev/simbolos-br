@@ -23,10 +23,11 @@ _env = RAIZ / ".env"
 if _env.exists():
     load_dotenv(_env)
 
-# Wikimedia exige UA descritivo com contato. Trocar o e-mail quando o dominio existir.
+# Wikimedia e site de prefeitura exigem UA descritivo com contato — e o contato
+# tem que existir, senão o bloqueio é justificado.
 USER_AGENT = (
-    "simbolos-br/0.1 (https://github.com/simbolos-br/simbolos-br; "
-    "acervo de simbolos municipais; contato@simbolos.br)"
+    f"simbolos-br/{__version__} (+https://coletivo.dev.br/simbolos; "
+    "acervo de simbolos municipais; contato@atelie.dev.br)"
 )
 
 # 27 UFs na ordem oficial do IBGE (2 digitos = codigo da UF).

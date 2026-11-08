@@ -26,10 +26,6 @@ PREMISSAS = (
     "quando ele ainda não está lá, o motivo vetor_versionavel registra a dívida",
 )
 
-# Estados de verificação em que o Commons segue valendo como espelho: renomeado
-# tem os mesmos bytes, só o título mudou.
-_ESPELHO_VALIDO = frozenset({"igual", "renomeado"})
-
 
 def titulo_commons(origem: str | None) -> str | None:
     """`File:Nome.ext` a partir da URL direta do upload.
@@ -79,7 +75,9 @@ def classificar(reg: dict, *, vetor_arquivado_em_git: bool | None = None) -> dic
     if estado in ("divergente", "sumiu"):
         espelhos = [e for e in espelhos if e != "commons"]
         motivos.append(f"fonte_{estado}")
-    elif estado not in _ESPELHO_VALIDO:
+    elif estado == "link_morto":
+        motivos.append("fonte_link_morto")
+    elif estado in (None, "sem_fonte"):
         motivos.append("nao_verificado")
 
     if reg.get("formato_origem") == "svg":

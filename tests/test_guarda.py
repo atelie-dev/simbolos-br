@@ -98,6 +98,26 @@ class ClassificarTest(unittest.TestCase):
         self.assertEqual(situacao["risco"], "alto")
         self.assertIn("origem_fora_do_commons", situacao["motivo"])
 
+    def test_link_morto_aparece_como_motivo(self):
+        situacao = guarda.classificar(
+            _registro(
+                origem="https://www.portovelho.ro.gov.br/brasao.png",
+                verificacao={"estado": "link_morto"},
+            )
+        )
+        self.assertEqual(situacao["risco"], "alto")
+        self.assertIn("fonte_link_morto", situacao["motivo"])
+
+    def test_link_vivo_nao_conta_como_nao_verificado(self):
+        situacao = guarda.classificar(
+            _registro(
+                origem="https://www.portovelho.ro.gov.br/brasao.png",
+                verificacao={"estado": "link_vivo"},
+            )
+        )
+        self.assertNotIn("nao_verificado", situacao["motivo"])
+        self.assertEqual(situacao["espelhos"], [])
+
     def test_nao_verificado_e_registrado(self):
         situacao = guarda.classificar(_registro())
         self.assertIn("nao_verificado", situacao["motivo"])

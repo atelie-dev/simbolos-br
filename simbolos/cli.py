@@ -799,12 +799,13 @@ def verificar_fonte_cmd(
     t.add_column("itens", justify="right")
     for estado in ("igual", "divergente", "renomeado", "sumiu"):
         t.add_row(estado, str(r[estado]))
+    for estado in ("link_vivo", "link_morto", "sem_fonte"):
+        t.add_row(estado, str(r[estado]))
     t.add_row("pulados (ja verificados)", str(r["pulados"]))
     t.add_row("sem sha1 (rode atestar)", str(r["sem_hash"]))
-    t.add_row("sem titulo no Commons", str(r["sem_titulo"]))
     console.print(t)
-    if r["divergente"] or r["sumiu"]:
-        console.print("atencao: itens sem espelho no Commons — rode `simbolos risco`")
+    if r["divergente"] or r["sumiu"] or r["link_morto"]:
+        console.print("atencao: itens sem espelho na origem — rode `simbolos risco`")
     console.print(f"{r['lotes']} lotes de 50 titulos")
 
 

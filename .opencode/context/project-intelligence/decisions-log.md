@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.2 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.3 | Updated: 2026-11-08 -->
 
 # Decisions Log — Símbolos BR
 
@@ -370,3 +370,32 @@ versionado, `publicar` funciona mesmo com `dist/` apagada.
 **Armadilha registrada:** `data/vetores` e `dist/embed` têm o mesmo conteúdo por
 construção. Se divergirem, quem manda é `data/vetores`; `simbolos vetores` recusa
 sobrescrever sem `--forcar` e manda o divergente para `data/vetores/conflito/`.
+
+## D23 — Crawl educado: robots, intervalo por host e link vivo (2026-11-08)
+
+**Decisão:** toda requisição HTTP passa por `simbolos/rede.py`, que aplica
+intervalo **por host** (1 req/s no padrão), recuo exponencial em 429/503 e
+respeito ao `Retry-After`. O `leis` lê `robots.txt` por host (cache de processo:
+5xx ou falha bloqueia tudo, 4xx libera) e sonda os caminhos **em série**. O
+User-Agent passa a `simbolos-br/0.1 (+https://coletivo.dev.br/simbolos;
+contato@atelie.dev.br)`. `verificar-fonte` ganha o ramo de link para origem fora
+do Commons.
+
+**Por quê:** `_sondar_caminhos` abria até **8 GETs simultâneos no mesmo servidor**
+e `coletar_lote` rodava 3 municípios em paralelo. Site municipal com WAF responde
+403, e um projeto que vai pedir dados às prefeituras não pode chegar bloqueado.
+O UA anterior apontava para `github.com/simbolos-br/simbolos-br` e
+`contato@simbolos.br` — nem repositório, nem domínio existem.
+
+**Rejeitado:** manter o paralelismo pelo tempo (o bloqueio custa mais que os
+segundos); ignorar `robots.txt` e culpar o WAF (má-fé); UA genérico ou anônimo
+(bloqueio justificado).
+
+**Consequência:** a política é por host, não global — seis prefeituras diferentes
+em paralelo não incomodam ninguém, seis no mesmo servidor sim. Sonda medida:
+1 município em 80 s e US$ 0,000042, com domínio resolvido por DNS, `robots.txt`
+lido e 1 página analisada.
+
+**Armadilha registrada:** `robots.txt` inacessível por **5xx** deve bloquear
+(RFC 9309); por **404**, liberar. Tratar os dois igual erra para um dos lados — e
+o lado errado é o que quebra a confiança.

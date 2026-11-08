@@ -18,10 +18,9 @@ from collections.abc import Iterable
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
+from urllib.robotparser import RobotFileParser
 
-import httpx
-
-from . import DATA, USER_AGENT, maritaca
+from . import DATA, USER_AGENT, maritaca, rede
 from .nomes import compacto
 
 PADROES_DOMINIO = ("{c}.{uf}.gov.br", "{s}.{uf}.gov.br", "www.{c}.{uf}.gov.br")
@@ -178,11 +177,55 @@ def paginas_do_pdf(pdf: Path) -> dict:
     return {"paginas": total, "vetoriais": [n for n in range(1, total + 1) if n not in com_raster]}
 
 
-def _sondar_caminhos(base: str, ja_temos: set[str], quantos: int) -> list[tuple[str, str]]:
-    """Testa os caminhos comuns em paralelo, com timeout curto.
+# robots.txt por host, lido uma vez por execução. O cache é de processo: a
+# coleta de um município inteiro acontece dentro de uma execução só.
+_ROBOTS: dict[str, RobotFileParser | None] = {}
 
-    Site que não responde em 6 s não vai responder melhor em 25 — e esperar em
-    série era o que fazia cada município custar mais de um minuto.
+
+def _bloqueia_tudo() -> RobotFileParser:
+    """robots.txt inacessível por erro de servidor: RFC 9309 manda não confiar."""
+    parser = RobotFileParser()
+    parser.parse(["User-agent: *", "Disallow: /"])
+    return parser
+
+
+def _ler_robots(base: str) -> RobotFileParser | None:
+    """None = sem restrição (inclusive 404). 5xx ou falha = bloqueia tudo."""
+    try:
+        resposta = rede.requisitar(f"{base}/robots.txt", tentativas=2, timeout=15.0)
+    except Exception:  # noqa: BLE001
+        return _bloqueia_tudo()
+    if resposta.status_code >= 500:
+        return _bloqueia_tudo()
+    if resposta.status_code >= 400:
+        return None
+    parser = RobotFileParser()
+    parser.parse(resposta.text.splitlines())
+    return parser
+
+
+def _robots(url: str) -> RobotFileParser | None:
+    partes = urlparse(url)
+    if not partes.scheme or not partes.netloc:
+        return None
+    base = f"{partes.scheme}://{partes.netloc}"
+    if base not in _ROBOTS:
+        _ROBOTS[base] = _ler_robots(base)
+    return _ROBOTS[base]
+
+
+def permite(url: str) -> bool:
+    """O robots.txt do host autoriza este caminho?"""
+    parser = _robots(url)
+    return parser is None or parser.can_fetch(USER_AGENT, url)
+
+
+def _sondar_caminhos(base: str, ja_temos: set[str], quantos: int) -> list[tuple[str, str]]:
+    """Testa os caminhos comuns **em série**, um por vez no mesmo host.
+
+    Sondar em paralelo era o que dava até oito requisições simultâneas num
+    servidor de prefeitura — e 403 nos que têm WAF. O ganho de tempo não paga o
+    bloqueio: seis municípios diferentes em paralelo já usam a banda.
     """
     if quantos <= 0:
         return []
@@ -192,24 +235,18 @@ def _sondar_caminhos(base: str, ja_temos: set[str], quantos: int) -> list[tuple[
         if url not in ja_temos:
             urls.append((url, f"(sondado) {caminho}"))
 
-    def testar(item: tuple[str, str]) -> tuple[str, str] | None:
-        url, rotulo = item
-        try:
-            r = httpx.get(
-                url,
-                headers={"User-Agent": USER_AGENT},
-                timeout=TIMEOUT_SONDAGEM,
-                follow_redirects=True,
-            )
-        except Exception:  # noqa: BLE001
-            return None
-        return (url, rotulo) if r.status_code == 200 and len(r.text) > 500 else None
-
     achados: list[tuple[str, str]] = []
-    with ThreadPoolExecutor(max_workers=len(urls) or 1) as ex:
-        for resultado in ex.map(testar, urls):
-            if resultado and len(achados) < quantos:
-                achados.append(resultado)
+    for url, rotulo in urls:
+        if not permite(url):
+            continue
+        try:
+            resposta = rede.requisitar(url, timeout=TIMEOUT_SONDAGEM, tentativas=2)
+        except Exception:  # noqa: BLE001, S112 - sondagem que falha e resultado, nao erro
+            continue
+        if resposta.status_code == 200 and len(resposta.text) > 500:
+            achados.append((url, rotulo))
+            if len(achados) >= quantos:
+                break
     return achados
 
 
@@ -244,13 +281,13 @@ def coletar_municipio(
         return registro
     registro["dominio"] = dominio
 
+    if not permite(dominio):
+        registro["erro"] = "robots_disallow"
+        registro["segundos"] = round(time.time() - inicio, 1)
+        return registro
+
     try:
-        home = httpx.get(
-            dominio,
-            headers={"User-Agent": USER_AGENT},
-            timeout=TIMEOUT_PAGINA,
-            follow_redirects=True,
-        )
+        home = rede.requisitar(dominio, timeout=TIMEOUT_PAGINA)
         home.raise_for_status()
     except Exception as exc:  # noqa: BLE001
         registro["erro"] = f"home: {exc}"[:160]
@@ -259,13 +296,11 @@ def coletar_municipio(
 
     alvos = montar_alvos(home.text, dominio, limite_paginas)
     for url, rotulo in alvos:
+        if not permite(url):
+            registro["paginas"].append({"url": url, "rotulo": rotulo, "robots": "disallow"})
+            continue
         try:
-            pagina = httpx.get(
-                url,
-                headers={"User-Agent": USER_AGENT},
-                timeout=TIMEOUT_PAGINA,
-                follow_redirects=True,
-            )
+            pagina = rede.requisitar(url, timeout=TIMEOUT_PAGINA)
             pagina.raise_for_status()
         except Exception as exc:  # noqa: BLE001
             registro["paginas"].append({"url": url, "rotulo": rotulo, "erro": str(exc)[:120]})
@@ -326,12 +361,9 @@ def coletar_municipio(
         destino = DATA / "evidencias" / "pdf" / f"{m['codigo']}.pdf"
         destino.parent.mkdir(parents=True, exist_ok=True)
         try:
-            r = httpx.get(
-                registro["pdf"],
-                headers={"User-Agent": USER_AGENT},
-                timeout=90.0,
-                follow_redirects=True,
-            )
+            if not permite(registro["pdf"]):
+                raise RuntimeError("robots: disallow")
+            r = rede.requisitar(registro["pdf"], timeout=90.0)
             r.raise_for_status()
             if "pdf" in (r.headers.get("content-type") or "").lower() or r.content[:4] == b"%PDF":
                 destino.write_bytes(r.content)

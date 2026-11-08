@@ -56,10 +56,10 @@ compartilha 1.214, pendente 69.
 
 ## Próximo passo, em ordem
 
-1. **Crawl `.gov.br`** nos 1.218 municípios restantes (~536 brasões por ~US$ 1) —
-   **só depois de três correções no `leis.py`**, que hoje faz até 36 requisições
-   simultâneas contra um servidor municipal: robots.txt, intervalo por host e
-   User-Agent verdadeiro (ver Armadilhas).
+1. **Crawl `.gov.br`** nos 1.218 municípios restantes: corrigido em D23
+   (robots, intervalo por host, UA real). Em teste em AL — 16 de 34 municípios,
+   10 símbolos achados, ~US$ 0,0008 e ~123 s por município. O que ele acha são
+   **símbolos**, quase nunca a lei (0 atos em 30 páginas).
 2. **Portão de visão** nos 915 itens que precisam (`simbolos visao`, motor
    `decisao`), e nos achados do crawl oficial.
 3. **`/baixar`**: pacotes por estado e formato, `brasil-livre.zip` (só balde
@@ -77,8 +77,7 @@ compartilha 1.214, pendente 69.
 
 | Item | Impacto | Prioridade |
 |---|---|---|
-| Teste só na política de guarda (14 casos) | pipeline ainda sem cobertura | alta |
-| `leis.py` sem robots.txt, sem intervalo por host e com UA falso | bloqueia o crawl `.gov.br` | alta |
+| Teste só na política de guarda (16 casos) | pipeline ainda sem cobertura | alta |
 | `publicar` sem paralelismo | ETA ditado por 1 req/s + render sequencial | média |
 | 69 itens `pendente` sem alternativa de licença | ficam fora dos downloads livres; 68 são risco alto | média |
 | Triagem não usa `dHash` | erro de brasão trocado só cai na visão | baixa |
@@ -103,7 +102,7 @@ compartilha 1.214, pendente 69.
 - **Rendition não é fonte**: o original fica em `data/fontes/v1/…`, com hash;
   `simbolos fontes` rebaixa a safra antiga e manda divergência para `conflito/`.
 - **`dist/catalogo.json` é derivado**: a verdade é o sidecar
-  `dist/meta/v1/{tipo}/{cod}.json`; retomada lê sidecar → catálogo → disco.
+  `data/meta/v1/{tipo}/{cod}.json`; retomada lê sidecar → catálogo → disco.
 - **`/tmp` é zram (RAM)**: PDF de ato oficial vai para `data/evidencias/pdf/`.
 - **PIX: o BR Code carrega a chave em texto claro.** Chave por e-mail vira e-mail
   público; usar UUID. Campo 62 = `txid`; omitir = "não informado". O CRC cobre
@@ -131,14 +130,14 @@ compartilha 1.214, pendente 69.
 - **`data/vetores` e `dist/embed` têm o mesmo conteúdo por construção.** Quem
   manda é `data/vetores`; `simbolos vetores` recusa sobrescrever sem `--forcar` e
   manda o divergente para `data/vetores/conflito/`.
-- **O crawl do `leis.py` não é educado.** `_sondar_caminhos` dispara todos os
-  caminhos de um município em paralelo e `coletar_lote` roda 6 municípios ao
-  mesmo tempo — até 36 requisições simultâneas no mesmo servidor —, sem
-  `robots.txt` e sem backoff em 429/503. Não rodar contra `.gov.br` antes de
-  corrigir.
-- **`USER_AGENT` aponta para repositório e e-mail que não existem**
-  (`simbolos-br/simbolos-br`, `contato@simbolos.br`). Para a Wikimedia passa;
-  para um site municipal é convite a bloqueio.
+- **Toda requisição HTTP passa por `rede.py`** — não use `httpx` direto. A
+  polidez é por host (1 req/s no padrão): seis prefeituras diferentes em
+  paralelo estão certas, seis no mesmo servidor dão 403. O `leis` sonda
+  caminhos em série justamente por isso.
+- **`robots.txt`: 5xx bloqueia, 404 libera** (RFC 9309). Tratar os dois igual
+  erra para um dos lados — e o lado errado é o que quebra a confiança.
+- **O UA precisa de contato que exista** (`contato@atelie.dev.br`). O anterior
+  apontava para repositório e domínio inexistentes, o que justifica o bloqueio.
 - **Fatiar a malha**: o item de cada célula é `[codigo, slug, aneis]`; o teste
   par-ímpar sobre todos os anéis resolve MultiPolygon e furo.
 

@@ -18,7 +18,7 @@ from collections import defaultdict
 from datetime import UTC, datetime
 from pathlib import Path
 
-from . import DIST, VETORES, commons, guarda, publicacao
+from . import DIST, VETORES, commons, guarda, publicacao, rede
 
 LOTE = 50  # limite da API do Commons por requisição
 
@@ -103,16 +103,54 @@ def atestar(*, raiz: Path = DIST, uf: str | None = None, limite: int = 0) -> dic
 
 
 def _anotar(
-    reg: dict, estado: str, *, sha1_commons: str | None = None, titulo_atual: str | None = None
+    reg: dict,
+    estado: str,
+    *,
+    sha1_commons: str | None = None,
+    titulo_atual: str | None = None,
+    http: int | None = None,
 ) -> None:
     verificacao = {"em": _agora(), "estado": estado}
     if sha1_commons:
         verificacao["sha1_commons"] = sha1_commons
     if titulo_atual:
         verificacao["titulo_atual"] = titulo_atual
+    if http is not None:
+        verificacao["http"] = http
     reg["verificacao"] = verificacao
     reg["guarda"] = guarda.classificar(reg)
     publicacao.gravar_meta(reg)
+
+
+LIMITE_COMPARACAO = 10 * 1024 * 1024
+
+
+def _verificar_link(reg: dict) -> None:
+    """Origem fora do Commons: o link responde e os bytes são os mesmos?
+
+    É o único teste possível para um item que veio de um site de prefeitura —
+    não existe hash publicado por terceiro para comparar.
+    """
+    url = reg.get("origem") or ""
+    if not url.startswith(("http://", "https://")):
+        _anotar(reg, "sem_fonte")
+        return
+    try:
+        resposta = rede.requisitar(url, tentativas=2, timeout=30.0)
+    except Exception:  # noqa: BLE001
+        _anotar(reg, "link_morto")
+        return
+    if resposta.status_code >= 400:
+        _anotar(reg, "link_morto", http=resposta.status_code)
+        return
+
+    esperado = reg.get("sha256_origem")
+    conteudo = resposta.content
+    if esperado and 0 < len(conteudo) <= LIMITE_COMPARACAO:
+        estado = "igual" if publicacao.sha256(conteudo) == esperado else "divergente"
+    else:
+        estado = "link_vivo"
+    _anotar(reg, estado, http=resposta.status_code)
 
 
 def verificar_fonte(*, uf: str | None = None, limite: int = 0, forcar: bool = False) -> dict:
@@ -133,24 +171,28 @@ def verificar_fonte(*, uf: str | None = None, limite: int = 0, forcar: bool = Fa
         "divergente": 0,
         "renomeado": 0,
         "sumiu": 0,
+        "link_vivo": 0,
+        "link_morto": 0,
+        "sem_fonte": 0,
         "sem_hash": 0,
-        "sem_titulo": 0,
         "pulados": 0,
         "lotes": 0,
     }
     por_titulo: dict[str, list[dict]] = defaultdict(list)
+    sem_commons: list[dict] = []
     for reg in regs:
         if not forcar and (reg.get("verificacao") or {}).get("em"):
             resumo["pulados"] += 1
             continue
+        titulo = reg.get("titulo_commons") or guarda.titulo_commons(reg.get("origem"))
+        if not titulo:
+            # Origem fora do Commons (.gov.br): não há sha1 publicado para
+            # comparar. A pergunta passa a ser se o link ainda responde.
+            sem_commons.append(reg)
+            continue
         if not reg.get("sha1_origem"):
             # Sem sha1 não há o que comparar: rode `simbolos atestar` antes.
             resumo["sem_hash"] += 1
-            resumo["itens"] += 1
-            continue
-        titulo = reg.get("titulo_commons") or guarda.titulo_commons(reg.get("origem"))
-        if not titulo:
-            resumo["sem_titulo"] += 1
             resumo["itens"] += 1
             continue
         por_titulo[titulo].append(reg)
@@ -192,6 +234,12 @@ def verificar_fonte(*, uf: str | None = None, limite: int = 0, forcar: bool = Fa
                 _anotar(reg, "sumiu")
                 resumo["sumiu"] += 1
             resumo["itens"] += 1
+
+    # Por último, quem não tem espelho no Commons: o link de origem responde?
+    for reg in sem_commons:
+        _verificar_link(reg)
+        resumo[reg["verificacao"]["estado"]] += 1
+        resumo["itens"] += 1
 
     return resumo
 
