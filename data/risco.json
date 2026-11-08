@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-08T16:08:45Z",
+ "gerado_em": "2026-11-08T20:12:07Z",
  "premissas": [
-  "vetor sempre baixo por decisão (D21)",
-  "o SVG publicado é a fonte, byte a byte, e vai para o git",
-  "enquanto não estiver no git, o motivo vetor_versionavel registra a dívida"
+  "vetor é sempre baixo por decisão (D21)",
+  "o SVG publicado é a fonte, byte a byte, e vai versionado em data/vetores",
+  "quando ele ainda não está lá, o motivo vetor_versionavel registra a dívida"
  ],
  "resumo": {
   "itens": 8379,
@@ -11,7 +11,7 @@
   "risco_baixo": 8311,
   "por_motivo": {
    "licenca_pendente": 69,
-   "vetor_versionavel": 1170
+   "vetor_versionado": 1170
   }
  },
  "risco_alto": [

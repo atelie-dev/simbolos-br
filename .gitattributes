@@ -1,0 +1,6 @@
+# O acervo é byte a byte: hash e procedência dependem disso.
+# Sem `-text`, o `core.autocrlf=input` desta máquina converte CRLF em LF no
+# índice, e o arquivo de um clone deixa de bater com o sha256 do sidecar.
+data/vetores/**   binary
+data/meta/**      -text
+data/ledger/**    -text
