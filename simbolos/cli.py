@@ -27,6 +27,7 @@ from . import (
     indice,
     leis,
     lotes,
+    malha,
     maritaca,
     provedores,
     publicacao,
@@ -806,6 +807,21 @@ def acervo_cmd(
     t.add_row("falhas", str(len(res["falhas"])))
     t.add_row("tamanho", f"{res['bytes'] / 1024 / 1024:.1f} MB")
     console.print(t)
+
+
+@app.command("malha")
+def malha_cmd() -> None:
+    """Fatiar a malha municipal do IBGE em celulas de 1 grau."""
+    r = malha.fatiar()
+    t = Table(title="malha municipal (IBGE)")
+    t.add_column("medida")
+    t.add_column("valor", justify="right")
+    t.add_row("celulas", str(r["celulas"]))
+    t.add_row("tamanho total", f"{r['bytes'] / 1024 / 1024:.1f} MB")
+    t.add_row("maior celula", f"{r['maior_kb']} KB")
+    t.add_row("media por celula", f"{r['media_kb']} KB")
+    console.print(t)
+    console.print("-> site/public/api/v1/malha/{lat}_{lon}.json")
 
 
 @app.command("centros")

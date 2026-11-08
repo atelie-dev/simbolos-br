@@ -57,8 +57,8 @@ const destaques = JSON.parse(
             <span class="geo-estado" id="geo-estado" role="status" aria-live="polite"></span>
           </p>
           <p class="geo-nota">
-            Usa a localização do seu navegador só para achar o município. Nada é
-            enviado para servidor nosso.
+            Cruza sua posição com a malha municipal do IBGE, dentro do navegador.
+            Nada é enviado para servidor nosso.
           </p>
           <dl class="numeros">
             <div>
@@ -382,13 +382,71 @@ const destaques = JSON.parse(
   </script>
 
   <script>
-    // "Onde estou": a posição nunca sai do navegador. O cruzamento é feito
-    // contra os pontos de sede em api/v1/centros.json, carregado no clique.
+    // "Onde estou": a posição nunca sai do navegador. O ponto é testado contra a
+    // malha municipal do IBGE, fatiada em células de 1° — só a célula do usuário
+    // (e as vizinhas, se preciso) é baixada.
     const botaoGeo = document.getElementById("geo") as HTMLButtonElement | null;
     const estadoGeo = document.getElementById("geo-estado") as HTMLElement | null;
     const baseGeo = botaoGeo?.dataset.base ?? "/";
 
     type Ponto = [number, number, string, string];
+    type Aneis = number[][][];
+    type Celula = { t: [string, string, Aneis][] };
+
+    const aviso = (texto: string) => {
+      if (estadoGeo) estadoGeo.textContent = texto;
+    };
+
+    /** Par-ímpar sobre todos os anéis: resolve MultiPolygon e furos. */
+    const dentro = (lon: number, lat: number, aneis: Aneis): boolean => {
+      let contido = false;
+      for (const anel of aneis) {
+        for (let k = 0, l = anel.length - 1; k < anel.length; l = k++) {
+          const [xk, yk] = anel[k];
+          const [xl, yl] = anel[l];
+          if (yk > lat !== yl > lat && lon < ((xl - xk) * (lat - yk)) / (yl - yk) + xk) {
+            contido = !contido;
+          }
+        }
+      }
+      return contido;
+    };
+
+    const buscarCelula = async (i: number, j: number): Promise<Celula | null> => {
+      try {
+        const resposta = await fetch(`${baseGeo}api/v1/malha/${i}_${j}.json`, {
+          cache: "force-cache",
+        });
+        return resposta.ok ? ((await resposta.json()) as Celula) : null;
+      } catch {
+        return null;
+      }
+    };
+
+    /** Célula do ponto e as oito vizinhas: divisa de célula não é divisa municipal. */
+    const naMalha = async (lat: number, lon: number) => {
+      const i = Math.floor(lat);
+      const j = Math.floor(lon);
+      const ordem = [
+        [i, j],
+        [i, j + 1],
+        [i, j - 1],
+        [i + 1, j],
+        [i - 1, j],
+        [i + 1, j + 1],
+        [i + 1, j - 1],
+        [i - 1, j + 1],
+        [i - 1, j - 1],
+      ];
+      for (const [ci, cj] of ordem) {
+        const celula = await buscarCelula(ci, cj);
+        if (!celula) continue;
+        for (const [codigo, slug, aneis] of celula.t) {
+          if (dentro(lon, lat, aneis)) return { codigo, slug };
+        }
+      }
+      return null;
+    };
 
     const distanciaKm = (lat1: number, lon1: number, lat2: number, lon2: number): number => {
       const raio = 6371;
@@ -402,49 +460,54 @@ const destaques = JSON.parse(
       return 2 * raio * Math.asin(Math.sqrt(a));
     };
 
-    const maisPerto = (lat: number, lon: number, pontos: Ponto[]): Ponto | null => {
-      let melhor: Ponto | null = null;
-      let menor = Infinity;
-      for (const ponto of pontos) {
-        const d = distanciaKm(lat, lon, ponto[0], ponto[1]);
-        if (d < menor) {
-          menor = d;
-          melhor = ponto;
+    /** Rede de segurança para mar, represa ou falha de simplificação. */
+    const maisPerto = async (lat: number, lon: number) => {
+      try {
+        const resposta = await fetch(`${baseGeo}api/v1/centros.json`, { cache: "force-cache" });
+        const pontos = (await resposta.json()) as Ponto[];
+        let melhor: Ponto | null = null;
+        let menor = Infinity;
+        for (const ponto of pontos) {
+          const d = distanciaKm(lat, lon, ponto[0], ponto[1]);
+          if (d < menor) {
+            menor = d;
+            melhor = ponto;
+          }
         }
+        return melhor ? { codigo: melhor[2], slug: melhor[3] } : null;
+      } catch {
+        return null;
       }
-      return melhor;
     };
 
     botaoGeo?.addEventListener("click", () => {
       if (!navigator.geolocation) {
-        if (estadoGeo) estadoGeo.textContent = "Seu navegador não permite localização.";
+        aviso("Seu navegador não permite localização.");
         return;
       }
 
       botaoGeo.disabled = true;
-      if (estadoGeo) estadoGeo.textContent = "Localizando…";
+      aviso("Localizando…");
 
       navigator.geolocation.getCurrentPosition(
         async (posicao) => {
-          try {
-            const resposta = await fetch(`${baseGeo}api/v1/centros.json`, { cache: "force-cache" });
-            const pontos = (await resposta.json()) as Ponto[];
-            const alvo = maisPerto(posicao.coords.latitude, posicao.coords.longitude, pontos);
-            if (!alvo) throw new Error("sem ponto");
-            if (estadoGeo) estadoGeo.textContent = "Abrindo…";
-            location.href = `${baseGeo}municipios/${alvo[2]}-${alvo[3]}`;
-          } catch {
-            if (estadoGeo) estadoGeo.textContent = "Não consegui identificar o município. Use a busca.";
+          const { latitude, longitude } = posicao.coords;
+          aviso("Procurando o município…");
+          const achado = (await naMalha(latitude, longitude)) ?? (await maisPerto(latitude, longitude));
+          if (!achado) {
+            aviso("Não consegui identificar o município. Use a busca.");
             botaoGeo.disabled = false;
+            return;
           }
+          aviso("Abrindo…");
+          location.href = `${baseGeo}municipios/${achado.codigo}-${achado.slug}`;
         },
         (erro) => {
-          if (estadoGeo) {
-            estadoGeo.textContent =
-              erro.code === 1
-                ? "Permissão negada — use a busca acima."
-                : "Não consegui obter sua localização.";
-          }
+          aviso(
+            erro.code === 1
+              ? "Permissão negada — use a busca acima."
+              : "Não consegui obter sua localização.",
+          );
           botaoGeo.disabled = false;
         },
         { timeout: 10000, maximumAge: 600000 },
