@@ -1,0 +1,21 @@
+# Cabeçalhos do site no Cloudflare Pages.
+# O arquivo fica na raiz do deployment; o portal/ é copiado para lá por
+# scripts/empacotar_site.py, então este é o único _headers que vale.
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), camera=(), microphone=()
+  Strict-Transport-Security: max-age=31536000
+
+# Assets do Astro têm hash no nome: podem ser imutáveis.
+/simbolos/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/simbolos/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Índice e resumo mudam a cada publicação; cache curto e leitura livre.
+/simbolos/api/v1/*
+  Cache-Control: public, max-age=300
+  Access-Control-Allow-Origin: *
