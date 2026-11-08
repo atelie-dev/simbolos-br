@@ -25,6 +25,8 @@ const resumo = JSON.parse(
     brasao: number;
     bandeira: number;
     vetorial: number;
+    brasao_vetorial: number;
+    bandeira_vetorial: number;
     t1: number;
     t2: number;
     t3: number;
@@ -35,8 +37,8 @@ const resumo = JSON.parse(
 const num = (n: number) => n.toLocaleString("pt-BR");
 const pct = (parte: number, todo: number) => (todo ? Math.round((100 * parte) / todo) : 0);
 const sem = resumo.municipios - resumo.municipios_cobertos;
-const comVetor = resumo.por_uf.reduce((soma, u) => soma + u.t3, 0);
-const soRaster = resumo.por_uf.reduce((soma, u) => soma + u.t1, 0);
+const brasaoVetorial = resumo.por_uf.reduce((soma, u) => soma + u.brasao_vetorial, 0);
+const bandeiraVetorial = resumo.por_uf.reduce((soma, u) => soma + u.bandeira_vetorial, 0);
 const ufs = [...resumo.por_uf].sort((a, b) => a.uf.localeCompare(b.uf));
 ---
 
@@ -66,12 +68,12 @@ const ufs = [...resumo.por_uf].sort((a, b) => a.uf.localeCompare(b.uf));
         <dd class="num">{resumo.cobertura_pct.toLocaleString("pt-BR")}%</dd>
       </div>
       <div>
-        <dt>com vetor (T3)</dt>
-        <dd class="num">{num(comVetor)}</dd>
+        <dt>brasão vetorial</dt>
+        <dd class="num">{num(brasaoVetorial)}</dd>
       </div>
       <div>
-        <dt>só raster</dt>
-        <dd class="num">{num(soRaster)}</dd>
+        <dt>bandeira vetorial</dt>
+        <dd class="num">{num(bandeiraVetorial)}</dd>
       </div>
       <div>
         <dt>sem símbolo</dt>
@@ -83,8 +85,9 @@ const ufs = [...resumo.por_uf].sort((a, b) => a.uf.localeCompare(b.uf));
       <div class="matriz-topo">
         <h2>Por estado</h2>
         <p class="muted">
-          T1/T2 = raster (até 400 px / 400 px ou mais). T3 = vetorial. O tier olha o
-          tamanho da arte, não o canvas.
+          Brasão e bandeira são avaliados separadamente: um município pode ter o
+          brasão em SVG e a bandeira só em raster. "Vet." conta os que têm SVG
+          publicado naquele tipo.
         </p>
       </div>
 
@@ -97,7 +100,8 @@ const ufs = [...resumo.por_uf].sort((a, b) => a.uf.localeCompare(b.uf));
               <th scope="col" class="dir">Municípios</th>
               <th scope="col" class="dir">Brasão</th>
               <th scope="col" class="dir">Bandeira</th>
-              <th scope="col" class="dir">Vetor</th>
+              <th scope="col" class="dir">Brasão vet.</th>
+              <th scope="col" class="dir">Bandeira vet.</th>
               <th scope="col" class="dir">Sem</th>
               <th scope="col" class="barra-col">Cobertura</th>
             </tr>
@@ -112,7 +116,8 @@ const ufs = [...resumo.por_uf].sort((a, b) => a.uf.localeCompare(b.uf));
                   <td class="dir num">{num(u.total)}</td>
                   <td class="dir num">{pct(u.brasao, u.total)}%</td>
                   <td class="dir num">{pct(u.bandeira, u.total)}%</td>
-                  <td class="dir num">{pct(u.t3, u.total)}%</td>
+                  <td class="dir num">{pct(u.brasao_vetorial, u.total)}%</td>
+                  <td class="dir num">{pct(u.bandeira_vetorial, u.total)}%</td>
                   <td class="dir num sem">{num(u.sem)}</td>
                   <td class="barra-col">
                     <span class="barra" aria-hidden="true">

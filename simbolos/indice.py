@@ -104,6 +104,11 @@ def _publicados(catalogo: list[dict]) -> dict[tuple[str, str], dict]:
 
 def _linha(entrada: dict, itens: dict, tiers: dict[str, int], regiao: dict[str, str]) -> dict:
     codigo = entrada["codigo"]
+
+    def vetorial(tipo: str) -> int:
+        item = itens.get((codigo, tipo))
+        return int(bool(item and "svg" in (item.get("rendicoes") or {})))
+
     return {
         "c": codigo,
         "n": entrada["nome"],
@@ -112,7 +117,8 @@ def _linha(entrada: dict, itens: dict, tiers: dict[str, int], regiao: dict[str, 
         "s": entrada["slug"],
         "b": int((codigo, "brasao") in itens),
         "f": int((codigo, "bandeira") in itens),
-        "t": tiers.get(codigo, 0),
+        "bv": vetorial("brasao"),
+        "fv": vetorial("bandeira"),
     }
 
 
@@ -146,6 +152,18 @@ def gerar(destino: Path = DESTINO) -> dict:
                 "total": len(municipios_uf),
                 "brasao": sum(1 for m in municipios_uf if (m["codigo"], "brasao") in itens),
                 "bandeira": sum(1 for m in municipios_uf if (m["codigo"], "bandeira") in itens),
+                "brasao_vetorial": sum(
+                    1
+                    for m in municipios_uf
+                    if "svg"
+                    in (((itens.get((m["codigo"], "brasao")) or {}).get("rendicoes")) or {})
+                ),
+                "bandeira_vetorial": sum(
+                    1
+                    for m in municipios_uf
+                    if "svg"
+                    in (((itens.get((m["codigo"], "bandeira")) or {}).get("rendicoes")) or {})
+                ),
                 "vetorial": contagem[3],
                 "t1": contagem[1] + contagem[2],
                 "t2": contagem[2],
@@ -167,6 +185,16 @@ def gerar(destino: Path = DESTINO) -> dict:
         "municipios_com_brasao": sum(1 for m in municipios if (m["codigo"], "brasao") in itens),
         "municipios_com_bandeira": sum(1 for m in municipios if (m["codigo"], "bandeira") in itens),
         "vetoriais": sum(1 for r in itens.values() if "svg" in (r.get("rendicoes") or {})),
+        "municipios_com_brasao_vetorial": sum(
+            1
+            for m in municipios
+            if "svg" in (((itens.get((m["codigo"], "brasao")) or {}).get("rendicoes")) or {})
+        ),
+        "municipios_com_bandeira_vetorial": sum(
+            1
+            for m in municipios
+            if "svg" in (((itens.get((m["codigo"], "bandeira")) or {}).get("rendicoes")) or {})
+        ),
         "por_uf": por_uf,
     }
 

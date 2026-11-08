@@ -70,7 +70,7 @@ const ordenados = [...municipios].sort((a, b) => a.n.localeCompare(b.n, "pt-BR")
         <h2>Municípios</h2>
         <p class="muted">
           <span aria-hidden="true">●</span> brasão · <span aria-hidden="true">◆</span> bandeira ·
-          <span aria-hidden="true">V</span> vetorial — em cinza, município ainda sem nenhum.
+          <span aria-hidden="true"><sup>v</sup></span> vetorial — em cinza, município ainda sem nenhum.
         </p>
       </div>
       <ul class="municipios">
@@ -79,9 +79,8 @@ const ordenados = [...municipios].sort((a, b) => a.n.localeCompare(b.n, "pt-BR")
             <a class={m.b || m.f ? "" : "sem-simbolo"} href={`${base}municipios/${m.c}-${m.s}`}>
               <span class="nome">{m.n}</span>
               <span class="marcas" aria-hidden="true">
-                {m.b ? <span title="tem brasão">●</span> : null}
-                {m.f ? <span title="tem bandeira">◆</span> : null}
-                {m.t === 3 ? <span class="vetor" title="vetorial">V</span> : null}
+                {m.b ? <span title={m.bv ? "brasão vetorial" : "brasão raster"}>●{m.bv ? <sup>v</sup> : null}</span> : null}
+                {m.f ? <span title={m.fv ? "bandeira vetorial" : "bandeira raster"}>◆{m.fv ? <sup>v</sup> : null}</span> : null}
               </span>
             </a>
           </li>
@@ -218,13 +217,11 @@ const ordenados = [...municipios].sort((a, b) => a.n.localeCompare(b.n, "pt-BR")
       flex: none;
     }
 
-    .vetor {
-      font-family: var(--font-mono);
-      font-size: 9px;
+    .marcas sup {
+      font-size: 8px;
       color: var(--accent);
-      border: 1px solid currentColor;
-      border-radius: 3px;
-      padding: 0 3px;
+      vertical-align: super;
+      margin-left: 1px;
     }
 
 

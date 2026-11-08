@@ -150,14 +150,32 @@ const cdn = "https://simbolos.coletivo.dev.br";
     font-variant-numeric: tabular-nums;
   }
 
-  :global(.res-selo) {
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
+  :global(.res-marcas) {
+    display: inline-flex;
+    gap: 4px;
     color: var(--ok);
-    border: 1px solid currentColor;
-    border-radius: 4px;
-    padding: 1px 5px;
+    font-size: 11px;
+    line-height: 1;
+    flex: none;
+  }
+
+  :global(.res-marca sup) {
+    font-size: 8px;
+    color: var(--accent);
+    margin-left: 1px;
+  }
+
+  :global(.res-legenda) {
+    margin: 8px 0 2px;
+    padding: 8px 12px 2px;
+    border-top: 1px solid var(--border);
+    font-size: 11px;
+    color: var(--muted);
+  }
+
+  :global(.res-legenda sup) {
+    color: var(--accent);
+    font-size: 8px;
   }
 
   :global(.res-copiar) {
@@ -208,7 +226,8 @@ const cdn = "https://simbolos.coletivo.dev.br";
     s: string;
     b: number;
     f: number;
-    t: number;
+    bv: number;
+    fv: number;
   };
 
   const norm = (texto: string): string =>
@@ -269,7 +288,7 @@ const cdn = "https://simbolos.coletivo.dev.br";
 
     const carregar = async (): Promise<Entrada[]> => {
       if (!indice) {
-        const r = await fetch(`${base}api/v1/municipios.json`, { cache: "force-cache" });
+        const r = await fetch(`${base}api/v1/municipios.json`);
         indice = (await r.json()) as Entrada[];
       }
       return indice;
@@ -303,6 +322,11 @@ const cdn = "https://simbolos.coletivo.dev.br";
       const cidades = achados.filter((x) => x.e.c.length !== 2);
       const partes: string[] = [];
 
+      const marca = (tem: number, vetorial: number, simbolo: string, nome: string) =>
+        tem
+          ? `<span class="res-marca" title="${nome} ${vetorial ? "vetorial" : "raster"}">${simbolo}${vetorial ? "<sup>v</sup>" : ""}</span>`
+          : "";
+
       const linha = (x: { e: Entrada }) => {
         const embed = x.e.b
           ? `${cdn}/embed/v1/brasao/${x.e.c}.svg`
@@ -311,7 +335,9 @@ const cdn = "https://simbolos.coletivo.dev.br";
           x.e.c.length === 2
             ? `${base}estados/${x.e.u.toLowerCase()}`
             : `${base}municipios/${x.e.c}-${x.e.s}`;
-        return `<li class="res" role="option"><a class="res-link" href="${pagina}"><strong>${x.e.n}</strong><span class="res-meta">${x.e.u}${x.e.c.length === 2 ? "" : " · " + x.e.c}</span>${x.e.t === 3 ? '<span class="res-selo">vetor</span>' : ""}</a><button class="res-copiar" type="button" data-url="${embed}">copiar</button></li>`;
+        const marcas =
+          marca(x.e.b, x.e.bv, "●", "brasão") + marca(x.e.f, x.e.fv, "◆", "bandeira");
+        return `<li class="res" role="option"><a class="res-link" href="${pagina}"><strong>${x.e.n}</strong><span class="res-meta">${x.e.u}${x.e.c.length === 2 ? "" : " · " + x.e.c}</span><span class="res-marcas">${marcas}</span></a><button class="res-copiar" type="button" data-url="${embed}">copiar</button></li>`;
       };
 
       if (estados.length) {
@@ -323,7 +349,7 @@ const cdn = "https://simbolos.coletivo.dev.br";
         partes.push(cidades.map(linha).join(""));
       }
 
-      lista.innerHTML = partes.join("");
+      lista.innerHTML = partes.join("") + '<p class="res-legenda">● brasão · ◆ bandeira · <sup>v</sup> vetorial</p>';
       lista.hidden = false;
       input.setAttribute("aria-expanded", "true");
     };
