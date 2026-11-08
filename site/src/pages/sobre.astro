@@ -2,7 +2,7 @@
 import Base from "../layouts/Base.astro";
 import Topo from "../components/Topo.astro";
 import Rodape from "../components/Rodape.astro";
-import { BASE as base } from "../lib/urls";
+import { BASE as base, GITHUB } from "../lib/urls";
 ---
 
 <Base
@@ -120,7 +120,7 @@ import { BASE as base } from "../lib/urls";
       <p>
         O índice está em <a href={`${base}api/v1/municipios.json`}>JSON</a>, a
         cobertura em <a href={`${base}cobertura`}>página própria</a>, e o código
-        sob AGPL-3.0.
+        sob AGPL-3.0 está no <a href={GITHUB} rel="noopener">GitHub</a>.
       </p>
     </section>
   </main>
