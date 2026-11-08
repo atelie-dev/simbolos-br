@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>coletivo.dev.br — código e dados abertos</title>
+    <title>coletivo.dev.br — programação a serviço do público</title>
     <meta
       name="description"
-      content="Divisão de código e dados abertos do Ateliê. Acervos públicos com procedência declarada e licença por arquivo."
+      content="Iniciativa do Ateliê DEV para contribuir com a sociedade através da programação: software pequeno, dados abertos e acervos com procedência declarada."
     />
     <link rel="stylesheet" href="/portal.css" />
     <link rel="preload" href="/simbolos/fonts/bricolage-grotesque.woff2" as="font" type="font/woff2" crossorigin />
@@ -20,58 +20,76 @@
         </a>
         <nav aria-label="Principal">
           <a href="/simbolos/">Símbolos</a>
-          <a href="https://github.com/atelie-dev/simbolos-br" rel="noopener">GitHub</a>
-          <a href="https://atelie.dev.br" rel="noopener">Ateliê</a>
+          <a href="https://app.ensinamos.com.br" rel="noopener">Ensinamos</a>
+          <a href="https://atelie.dev.br" rel="noopener">Ateliê DEV</a>
         </nav>
       </div>
     </header>
 
     <main id="conteudo">
       <section class="hero wrap">
-        <p class="eyebrow">Código e dados abertos</p>
-        <h1>Cada acervo é um lugar melhor para encontrar o que já é público.</h1>
+        <p class="eyebrow">Iniciativa do Ateliê DEV</p>
+        <h1>Programação para contribuir com o que é público.</h1>
         <p class="linha-fina">
-          O <strong>coletivo.dev.br</strong> reúne serviços pequenos e independentes,
-          mantidos pelo <a href="https://atelie.dev.br" rel="noopener">Ateliê</a>.
-          Procedência declarada, licença por arquivo e URL estável — em todos eles.
+          O <strong>coletivo.dev.br</strong> é a iniciativa do
+          <a href="https://atelie.dev.br" rel="noopener">Ateliê DEV</a> para
+          contribuir com a sociedade através da programação: software pequeno,
+          dados que deveriam ser fáceis de achar e nenhuma promessa que o código
+          não cumpra.
         </p>
       </section>
 
-      <section class="acervos wrap" aria-labelledby="titulo-acervos">
-        <h2 id="titulo-acervos">Acervos</h2>
+      <section class="iniciativas wrap" aria-labelledby="titulo-iniciativas">
+        <h2 id="titulo-iniciativas">Iniciativas</h2>
 
-        <a class="acervo" href="/simbolos/">
-          <div class="acervo-texto">
+        <div class="grade">
+          <a class="iniciativa" href="/simbolos/">
             <p class="selo-linha">
-              <span class="selo">no ar</span>
-              <span class="selo selo--versao" data-versao>—</span>
+              <span class="selo">acervo aberto</span>
+              <span class="selo selo--fraco" data-versao>—</span>
             </p>
             <h3>Símbolos</h3>
-            <p>
+            <p class="descricao">
               Brasões e bandeiras dos municípios e estados brasileiros, com a
-              licença de cada arquivo e uma URL que serve para citar ou embutir.
+              licença de cada arquivo e uma URL estável para citar ou embutir.
             </p>
-          </div>
-          <dl class="numeros">
-            <div>
-              <dt>itens publicados</dt>
-              <dd class="num" data-itens>—</dd>
-            </div>
-            <div>
-              <dt>municípios cobertos</dt>
-              <dd class="num" data-cobertos>—</dd>
-            </div>
-            <div>
-              <dt>em vetor</dt>
-              <dd class="num" data-vetoriais>—</dd>
-            </div>
-          </dl>
-          <span class="seta" aria-hidden="true">→</span>
-        </a>
+            <dl class="numeros">
+              <div>
+                <dt>itens publicados</dt>
+                <dd class="num" data-itens>—</dd>
+              </div>
+              <div>
+                <dt>municípios cobertos</dt>
+                <dd class="num" data-cobertos>—</dd>
+              </div>
+              <div>
+                <dt>em vetor</dt>
+                <dd class="num" data-vetoriais>—</dd>
+              </div>
+            </dl>
+            <span class="seta" aria-hidden="true">Abrir o acervo →</span>
+          </a>
+
+          <a class="iniciativa" href="https://app.ensinamos.com.br" rel="noopener">
+            <p class="selo-linha">
+              <span class="selo">aplicação</span>
+              <span class="selo selo--fraco">em produção</span>
+            </p>
+            <h3>Ensinamos</h3>
+            <p class="descricao">
+              Gestão escolar: a escola monta a grade numa planilha, o Ensinamos
+              transforma em horários e alocação de turmas, e publica a página de
+              cada turma. Feito para quem administra escola, não para quem vende
+              software.
+            </p>
+            <span class="seta" aria-hidden="true">app.ensinamos.com.br →</span>
+          </a>
+        </div>
 
         <p class="nota">
-          Este é o primeiro acervo. O próximo entra no mesmo lugar, com o próprio
-          host de ativos e o próprio conjunto de licenças.
+          Nem toda iniciativa é um acervo. Algumas resolvem uma operação que
+          ninguém quer fazer à mão; outras tornam público o que já deveria ser.
+          Todas são código nosso, com o mesmo cuidado.
         </p>
       </section>
     </main>
@@ -79,8 +97,8 @@
     <footer class="rodape">
       <div class="wrap rodape-in">
         <p>
-          <strong>coletivo.dev.br</strong> · divisão de código e dados abertos do
-          <a href="https://atelie.dev.br" rel="noopener">atelie.dev.br</a>
+          <strong>coletivo.dev.br</strong> · uma iniciativa do
+          <a href="https://atelie.dev.br" rel="noopener">Ateliê DEV</a>
         </p>
         <nav aria-label="Rodapé">
           <a href="/simbolos/cobertura">Cobertura</a>

@@ -8,8 +8,10 @@ qualquer documento.
 - Ativos: `https://simbolos.coletivo.dev.br/embed/v1/{brasao|bandeira}/{cod_ibge}.{svg,png,jpg}`
 - Metadados por item: `https://simbolos.coletivo.dev.br/meta/v1/{tipo}/{cod_ibge}.json`
 
-Este é o primeiro acervo do **coletivo.dev.br**, a divisão de código e dados
-abertos do [Ateliê](https://atelie.dev.br).
+Este é o primeiro acervo do **coletivo.dev.br**, a iniciativa do
+[Ateliê DEV](https://atelie.dev.br) para contribuir com a sociedade através da
+programação. A outra frente é o [Ensinamos](https://app.ensinamos.com.br), de
+gestão escolar.
 
 ## O que existe
 
