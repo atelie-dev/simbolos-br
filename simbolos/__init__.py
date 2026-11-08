@@ -13,6 +13,9 @@ SPIKE = DATA / "_spike"
 # Saída (descartável por convenção) e verdade (versionada, nunca regenerada).
 DIST = RAIZ / "dist"
 META = DATA / "meta" / "v1"
+# O SVG publicado é a fonte, byte a byte: guardá-lo aqui é o que permite
+# republicar sem rede. Raster fica em data/fontes; vetor fica aqui.
+VETORES = DATA / "vetores" / "v1"
 
 # .env montado pelo 1Password no diretorio do projeto (gitignored). Se nao
 # existir, as chaves vem do ambiente normalmente.

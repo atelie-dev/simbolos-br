@@ -64,10 +64,20 @@ class ClassificarTest(unittest.TestCase):
 
     def test_vetor_pendente_continua_baixo_por_decisao(self):
         situacao = guarda.classificar(
-            _registro(balde="pendente", formato_origem="svg", verificacao={"estado": "igual"})
+            _registro(balde="pendente", formato_origem="svg", verificacao={"estado": "igual"}),
+            vetor_arquivado_em_git=False,
         )
         self.assertEqual(situacao["risco"], "baixo")
         self.assertIn("vetor_versionavel", situacao["motivo"])
+
+    def test_vetor_versionado_conta_como_espelho(self):
+        situacao = guarda.classificar(
+            _registro(balde="pendente", formato_origem="svg", verificacao={"estado": "igual"}),
+            vetor_arquivado_em_git=True,
+        )
+        self.assertEqual(situacao["risco"], "baixo")
+        self.assertIn("git", situacao["espelhos"])
+        self.assertIn("vetor_versionado", situacao["motivo"])
 
     def test_divergencia_tira_o_espelho_do_commons(self):
         situacao = guarda.classificar(_registro(verificacao={"estado": "divergente"}))

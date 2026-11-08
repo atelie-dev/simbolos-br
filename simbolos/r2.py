@@ -43,8 +43,8 @@ BUCKETS = {
     "acervo": ("CLOUDFLARE_R2_BUCKET_ACERVO", "simbolos-br-acervo"),
 }
 
-LEDGER_CDN = DATA / "_cache" / "r2-cdn.json"
-LEDGER_ACERVO = DATA / "_cache" / "r2-acervo.json"
+LEDGER_CDN = DATA / "ledger" / "r2-cdn.json"
+LEDGER_ACERVO = DATA / "ledger" / "r2-acervo.json"
 
 EXTENSOES = ("svg", "png", "jpg")
 

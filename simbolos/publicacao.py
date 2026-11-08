@@ -29,7 +29,7 @@ from urllib.parse import urlparse
 import httpx
 from PIL import Image
 
-from . import DATA, META, USER_AGENT, guarda
+from . import DATA, META, USER_AGENT, VETORES, guarda
 
 LADO = 512
 RESPIRO = 0.02
@@ -212,8 +212,45 @@ def guardar_fonte(base: Path, codigo: str, tipo: str, mime: str, conteudo: bytes
     return destino
 
 
-def publicar_item(item: dict, tipo: str, raiz: Path, fontes: Path | None = None) -> dict:
-    """Baixa, valida e grava as renditions de um item. Devolve o registro."""
+def ler_fonte_local(
+    item: dict, tipo: str, base_fontes: Path | None = None
+) -> tuple[bytes, Path] | None:
+    """O arquivo já arquivado deste item, se existir em disco.
+
+    A publicação lê daqui **antes** da rede: é o que faz o acervo versionado ser
+    a fonte, e não só um backup. Sem isso, um clone do repositório não republica
+    nada sem rebaixar 1,6 GB do Commons.
+    """
+    codigo = item["codigo_ibge"]
+    dados = item[tipo]
+    if (dados.get("mime") or "").lower() == "image/svg+xml":
+        alvo = VETORES / tipo / f"{codigo}.svg"
+        return (alvo.read_bytes(), alvo) if alvo.exists() else None
+
+    pasta = (base_fontes or FONTES) / tipo
+    ext = EXT_POR_MIME.get((dados.get("mime") or "").lower())
+    candidatos = [pasta / f"{codigo}.{ext}"] if ext else []
+    candidatos += sorted(p for p in pasta.glob(f"{codigo}.*") if p.suffix != ".tmp")
+    for alvo in candidatos:
+        if alvo.exists() and alvo.suffix != ".svg":
+            return alvo.read_bytes(), alvo
+    return None
+
+
+def publicar_item(
+    item: dict,
+    tipo: str,
+    raiz: Path,
+    fontes: Path | None = None,
+    esperado: dict | None = None,
+) -> dict:
+    """Valida, renderiza e grava as renditions de um item. Devolve o registro.
+
+    Tenta o arquivo já arquivado antes de baixar: é o que permite a um clone do
+    repositório republicar sem rede. `esperado` é o registro anterior — se o
+    hash do arquivo local não bate com o que foi publicado, ele não serve, e a
+    rede decide.
+    """
     base_fontes = fontes or FONTES
     dados = item[tipo]
     registro = {
@@ -227,11 +264,21 @@ def publicar_item(item: dict, tipo: str, raiz: Path, fontes: Path | None = None)
         "autor": dados.get("autor"),
         "estado": "falhou",
     }
-    try:
-        conteudo = baixar(dados["url"])
-    except Exception as exc:  # noqa: BLE001
-        registro["erro"] = f"download: {exc}"[:160]
-        return registro
+
+    local = ler_fonte_local(item, tipo, base_fontes)
+    anterior = (esperado or {}).get("sha256_origem")
+    if local is not None and anterior and sha256(local[0]) != anterior:
+        local = None
+    if local is not None:
+        conteudo, arquivo_local = local
+        capturado, captura_fonte = mtime(arquivo_local), "arquivo"
+    else:
+        try:
+            conteudo = baixar(dados["url"])
+        except Exception as exc:  # noqa: BLE001
+            registro["erro"] = f"download: {exc}"[:160]
+            return registro
+        capturado, captura_fonte = agora(), "relogio"
 
     mime = dados.get("mime") or ""
     pasta = raiz / "embed" / "v1" / tipo
@@ -266,10 +313,10 @@ def publicar_item(item: dict, tipo: str, raiz: Path, fontes: Path | None = None)
             "sha256_origem": hash_origem,
             "sha1_origem": hash1_origem,
             "bytes_origem": len(conteudo),
-            # D7: a procedência é capturada, com data. `relogio` distingue este
-            # caminho do preenchimento retroativo, que só tem o mtime do arquivo.
-            "capturado_em": agora(),
-            "captura_fonte": "relogio",
+            # D7: a procedência é capturada, com data. `relogio` distingue o
+            # download do preenchimento a partir do arquivo já guardado.
+            "capturado_em": capturado,
+            "captura_fonte": captura_fonte,
             "rendicoes": {
                 "png": {"bytes": len(png), "sha256": sha256(png), "lado": LADO},
                 "jpg": {"bytes": len(jpg), "sha256": sha256(jpg), "lado": LADO},
@@ -466,7 +513,7 @@ def publicar(
                     resumo["reconstruidos"] += 1
 
             if reg is None:
-                reg = publicar_item(item, tipo, raiz)
+                reg = publicar_item(item, tipo, raiz, esperado=indice.get(chave))
                 if reg["estado"] == "publicado":
                     gravar_meta(reg)
                     resumo["publicados"] += 1

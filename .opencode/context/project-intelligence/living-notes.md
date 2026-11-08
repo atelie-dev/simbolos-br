@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.1 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.2 | Updated: 2026-11-08 -->
 
 # Living Notes — Símbolos BR
 
@@ -39,7 +39,8 @@ bucket dele, sem Worker. Configurável por `SITE_BASE` / `CDN_BASE` /
 | Fontes originais | 7.209 rasters em `data/fontes` (1,3 GB), 0 divergências, backup no bucket privado |
 | Procedência | **conferida**: 8.379 de 8.379 iguais por `sha1` no Commons, em 3 min e 168 requisições, sem baixar arquivo (D21) |
 | Sidecars locais | em `data/meta/v1` (verdade versionável), com `sha1_origem`, `capturado_em`, `verificacao` e `guarda` |
-| Guarda | 68 itens de risco alto (69 `pendente`, 1 vetorial), 8.311 baixos; `data/risco.json` |
+| Acervo versionado | 1.170 SVGs (287 MB) em `data/vetores` + livro-razão (3,3 MB) em `data/ledger` (D22) |
+| Guarda | 68 itens de risco alto (69 `pendente`, 1 vetorial), 8.311 baixos; vetor tem `espelhos: [commons, git]` |
 | R2 | `simbolos-br-cdn` 1,32 GB (público) + `simbolos-br-acervo` 1,30 GB (**sem domínio**) = 2,62 GB, 26% do free tier |
 | Site | **no ar**: landing, `/consultar`, `/cobertura`, `/sobre`, 5.571 municípios, 27 estados, portal na raiz |
 | URLs | limpas, sem barra (`build.format: "file"`) e com `link rel=canonical` |
@@ -55,31 +56,29 @@ compartilha 1.214, pendente 69.
 
 ## Próximo passo, em ordem
 
-1. **Git como armazém** (decisão do mantenedor, falta executar): versionar
-   `data/meta/` (34 MB), o livro-razão de upload e os 1.170 vetores; renditions
-   ficam fora porque são derivadas. É o que torna `vetor_versionavel` verdade.
+1. **Crawl `.gov.br`** nos 1.218 municípios restantes (~536 brasões por ~US$ 1) —
+   **só depois de três correções no `leis.py`**, que hoje faz até 36 requisições
+   simultâneas contra um servidor municipal: robots.txt, intervalo por host e
+   User-Agent verdadeiro (ver Armadilhas).
 2. **Portão de visão** nos 915 itens que precisam (`simbolos visao`, motor
    `decisao`), e nos achados do crawl oficial.
 3. **`/baixar`**: pacotes por estado e formato, `brasil-livre.zip` (só balde
    livre) e `danfse-192.zip`. É a última rota do plano que falta no site.
 4. **`/m/{cod}`** como redirect: `_redirects` do Pages aceita só 2.100 — precisa
    Bulk Redirects na zona ou Worker.
-5. **Crawl oficial** nos 1.218 municípios restantes (~536 brasões por ~US$ 1).
-   Todo item que ele trouxer nasce sem espelho — `verificar-fonte` já sabe dizer
-   isso pelo campo `origem`.
-6. **Símbolos dos estados**: os 27 nunca entraram na coleta; a página do estado
+5. **Símbolos dos estados**: os 27 nunca entraram na coleta; a página do estado
    diz isso explicitamente.
-7. **`/transparencia`**: já existe número — domínio, 2,62 GB de R2, egress zero,
+6. **`/transparencia`**: já existe número — domínio, 2,62 GB de R2, egress zero,
    e os 68 itens sem cópia independente.
-8. **CI**: ligar o Pages ao GitHub exige gerar o índice no build (depende do
+7. **CI**: ligar o Pages ao GitHub exige gerar o índice no build (depende do
    catálogo e dos PNGs) — decisão à parte.
 
 ## Dívidas conhecidas
 
 | Item | Impacto | Prioridade |
 |---|---|---|
-| Teste só na política de guarda (13 casos) | pipeline ainda sem cobertura | alta |
-| 1.170 vetores só em `dist/` e no R2 | `dist` é descartável; é o passo 1 acima | alta |
+| Teste só na política de guarda (14 casos) | pipeline ainda sem cobertura | alta |
+| `leis.py` sem robots.txt, sem intervalo por host e com UA falso | bloqueia o crawl `.gov.br` | alta |
 | `publicar` sem paralelismo | ETA ditado por 1 req/s + render sequencial | média |
 | 69 itens `pendente` sem alternativa de licença | ficam fora dos downloads livres; 68 são risco alto | média |
 | Triagem não usa `dHash` | erro de brasão trocado só cai na visão | baixa |
@@ -124,6 +123,17 @@ compartilha 1.214, pendente 69.
   `cf-cache-status: DYNAMIC`, ou seja, o edge não cacheia. Quem guarda o
   `max-age` de 1 h é o **browser** — trocar o contrato do `meta.json` pede
   versão nova (`meta/v2`), não purge.
+- **`data/vetores` e `dist/embed` têm o mesmo conteúdo por construção.** Quem
+  manda é `data/vetores`; `simbolos vetores` recusa sobrescrever sem `--forcar` e
+  manda o divergente para `data/vetores/conflito/`.
+- **O crawl do `leis.py` não é educado.** `_sondar_caminhos` dispara todos os
+  caminhos de um município em paralelo e `coletar_lote` roda 6 municípios ao
+  mesmo tempo — até 36 requisições simultâneas no mesmo servidor —, sem
+  `robots.txt` e sem backoff em 429/503. Não rodar contra `.gov.br` antes de
+  corrigir.
+- **`USER_AGENT` aponta para repositório e e-mail que não existem**
+  (`simbolos-br/simbolos-br`, `contato@simbolos.br`). Para a Wikimedia passa;
+  para um site municipal é convite a bloqueio.
 - **Fatiar a malha**: o item de cada célula é `[codigo, slug, aneis]`; o teste
   par-ímpar sobre todos os anéis resolve MultiPolygon e furo.
 

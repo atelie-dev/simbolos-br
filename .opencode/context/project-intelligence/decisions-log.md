@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.1 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.2 | Updated: 2026-11-08 -->
 
 # Decisions Log — Símbolos BR
 
@@ -341,3 +341,32 @@ git. Números da primeira rodada: 68 itens de risco alto (69 `pendente`, dos qua
 URL muda quando o arquivo é renomeado. Por isso título que não resolve **não** é
 sumiço — a conferência cai para `list=allimages&aisha1=`, que acha os mesmos
 bytes sob o nome novo.
+
+## D22 — O acervo versionado é a fonte, não um backup (2026-11-08)
+
+**Decisão:** `data/vetores/v1/{tipo}/{cod}.svg` (1.170 arquivos, 287 MB) e o
+livro-razão `data/ledger/r2-{cdn,acervo}.json` entram no git. A publicação passa
+a tentar o arquivo local **antes** da rede (`publicar_item` → `ler_fonte_local`),
+e `simbolos vetores --restaurar` devolve os SVGs para `dist`. Renditions
+continuam fora do git.
+
+**Por quê:** sem isso o repositório não republica nada — um clone precisaria
+rebaixar 1,6 GB do Commons, e os links de origem já morrem (3 de 19 no piloto).
+Com o acervo versionado, o fluxo de um fork é clonar → `simbolos vetores
+--restaurar` → `simbolos publicar` → `simbolos r2`, sem rede para os 8.379 já
+publicados. Verificado num diretório vazio: `publicar_item` devolve
+`captura_fonte: "arquivo"` tanto para raster quanto para SVG.
+
+**Rejeitado:** guardar também as renditions (1,1 GB derivados, e cada mudança de
+`LADO` acrescentaria 1,1 GB ao histórico para sempre); Git LFS (free tier de 1 GB,
+e só os raster têm 1,3 GB); um segundo repositório para os vetores (mais um lugar
+para sincronizar, sem ganho — são 287 MB ao lado de 12,7 MB de metadados).
+
+**Consequência:** o motivo `vetor_versionavel` virou `vetor_versionado` e o
+`guarda` do vetor passou a listar `git` entre os espelhos — o risco baixo agora
+repousa num fato, não numa decisão. Como `data/_catalogo/catalogo.json` já era
+versionado, `publicar` funciona mesmo com `dist/` apagada.
+
+**Armadilha registrada:** `data/vetores` e `dist/embed` têm o mesmo conteúdo por
+construção. Se divergirem, quem manda é `data/vetores`; `simbolos vetores` recusa
+sobrescrever sem `--forcar` e manda o divergente para `data/vetores/conflito/`.

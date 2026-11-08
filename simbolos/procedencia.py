@@ -18,7 +18,7 @@ from collections import defaultdict
 from datetime import UTC, datetime
 from pathlib import Path
 
-from . import DIST, commons, guarda, publicacao
+from . import DIST, VETORES, commons, guarda, publicacao
 
 LOTE = 50  # limite da API do Commons por requisição
 
@@ -40,8 +40,14 @@ def _hashes(arquivo: Path) -> tuple[str, str, int]:
 
 
 def arquivo_guardado(reg: dict, raiz: Path = DIST) -> Path | None:
-    """Onde está a fonte deste item: o SVG publicado ou o raster arquivado."""
+    """Onde está a fonte deste item: o SVG versionado ou o raster arquivado.
+
+    Prefere `data/vetores` a `dist`: o acervo é a verdade, a saída é cópia.
+    """
     if reg.get("formato_origem") == "svg":
+        versionado = VETORES / reg["tipo"] / f"{reg['codigo_ibge']}.svg"
+        if versionado.exists():
+            return versionado
         return raiz / "embed" / "v1" / reg["tipo"] / f"{reg['codigo_ibge']}.svg"
     return publicacao.caminho_fonte(reg.get("fonte"))
 
@@ -187,4 +193,94 @@ def verificar_fonte(*, uf: str | None = None, limite: int = 0, forcar: bool = Fa
                 resumo["sumiu"] += 1
             resumo["itens"] += 1
 
+    return resumo
+
+
+def _gravar_atomico(destino: Path, conteudo: bytes) -> None:
+    destino.parent.mkdir(parents=True, exist_ok=True)
+    tmp = destino.with_suffix(destino.suffix + ".tmp")
+    tmp.write_bytes(conteudo)
+    tmp.replace(destino)
+
+
+def _vetoriais(*, uf: str | None = None) -> list[dict]:
+    regs = [r for r in publicacao.indice_meta().values() if r.get("formato_origem") == "svg"]
+    regs = [r for r in regs if not uf or r.get("uf") == uf]
+    regs.sort(key=lambda r: (r["codigo_ibge"], r["tipo"]))
+    return regs
+
+
+def _atualizar_guarda(reg: dict) -> None:
+    """Recalcula a guarda com o fato atual e regrava o sidecar."""
+    reg["guarda"] = guarda.classificar(reg)
+    publicacao.gravar_meta(reg)
+
+
+def arquivar_vetores(*, raiz: Path = DIST, uf: str | None = None, forcar: bool = False) -> dict:
+    """Copia os SVGs publicados para `data/vetores`, conferindo o sha256 do sidecar.
+
+    O SVG publicado é a fonte, byte a byte. Versioná-lo é o que torna o acervo
+    reproduzível sem rede — e o que devolve a `dist/` o papel de saída.
+    """
+    resumo = {
+        "itens": 0,
+        "arquivados": 0,
+        "ja_tinha": 0,
+        "sem_svg": 0,
+        "divergentes": 0,
+        "bytes": 0,
+    }
+    conflito = VETORES.parent / "conflito"
+    for reg in _vetoriais(uf=uf):
+        resumo["itens"] += 1
+        origem = raiz / "embed" / "v1" / reg["tipo"] / f"{reg['codigo_ibge']}.svg"
+        if not origem.exists():
+            resumo["sem_svg"] += 1
+            continue
+        conteudo = origem.read_bytes()
+        obtido = publicacao.sha256(conteudo)
+        esperado = reg.get("sha256_origem")
+        if esperado and obtido != esperado:
+            _gravar_atomico(conflito / reg["tipo"] / f"{reg['codigo_ibge']}.svg", conteudo)
+            resumo["divergentes"] += 1
+            continue
+        destino = VETORES / reg["tipo"] / f"{reg['codigo_ibge']}.svg"
+        if destino.exists() and not forcar:
+            if publicacao.sha256(destino.read_bytes()) == obtido:
+                resumo["ja_tinha"] += 1
+                _atualizar_guarda(reg)
+                continue
+            # Já existe com outro conteúdo: não sobrescreve sem --forcar.
+            resumo["divergentes"] += 1
+            continue
+        _gravar_atomico(destino, conteudo)
+        resumo["arquivados"] += 1
+        resumo["bytes"] += len(conteudo)
+        _atualizar_guarda(reg)
+    return resumo
+
+
+def restaurar_vetores(*, raiz: Path = DIST, uf: str | None = None) -> dict:
+    """Devolve os SVGs versionados para `dist/embed`, conferindo o hash.
+
+    É o caminho de quem clonou o repositório: `dist/` é saída e não vem no git;
+    o que vem é a fonte, em `data/vetores`.
+    """
+    resumo = {"itens": 0, "restaurados": 0, "ja_tinha": 0, "sem_arquivo": 0, "bytes": 0}
+    for reg in _vetoriais(uf=uf):
+        resumo["itens"] += 1
+        fonte = VETORES / reg["tipo"] / f"{reg['codigo_ibge']}.svg"
+        if not fonte.exists():
+            resumo["sem_arquivo"] += 1
+            continue
+        conteudo = fonte.read_bytes()
+        destino = raiz / "embed" / "v1" / reg["tipo"] / f"{reg['codigo_ibge']}.svg"
+        if destino.exists() and publicacao.sha256(destino.read_bytes()) == publicacao.sha256(
+            conteudo
+        ):
+            resumo["ja_tinha"] += 1
+            continue
+        _gravar_atomico(destino, conteudo)
+        resumo["restaurados"] += 1
+        resumo["bytes"] += len(conteudo)
     return resumo

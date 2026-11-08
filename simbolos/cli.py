@@ -687,7 +687,7 @@ def publicar_cmd(
     limite: Annotated[int, typer.Option(help="0 = todos")] = 0,
     uf: Annotated[str | None, typer.Option(help="sigla da UF")] = None,
 ) -> None:
-    """Baixa, renderiza e grava /embed/v1 a partir do catalogo triado."""
+    """Renderiza /embed/v1 a partir do acervo local, baixando só o que falta."""
     fonte = DATA / "_catalogo" / "catalogo.json"
     if not fonte.exists():
         raise typer.BadParameter("rode antes: simbolos triar")
@@ -806,6 +806,53 @@ def verificar_fonte_cmd(
     if r["divergente"] or r["sumiu"]:
         console.print("atencao: itens sem espelho no Commons — rode `simbolos risco`")
     console.print(f"{r['lotes']} lotes de 50 titulos")
+
+
+@app.command("vetores")
+def vetores_cmd(
+    restaurar: Annotated[
+        bool, typer.Option("--restaurar", help="copia de data/vetores para dist/embed")
+    ] = False,
+    forcar: Annotated[
+        bool, typer.Option("--forcar/--incremental", help="regrava mesmo com hash igual")
+    ] = False,
+    uf: Annotated[str | None, typer.Option(help="sigla da UF")] = None,
+) -> None:
+    """Versiona os SVGs em `data/vetores` (ou devolve deles para `dist/embed`).
+
+    O SVG publicado é a fonte, byte a byte. Guardá-lo no repositório é o que
+    permite republicar sem rede e o que faz `vetor_versionavel` virar fato. Com
+    `--restaurar`, é o caminho de quem clonou o repositório.
+    """
+    if restaurar:
+        r = procedencia.restaurar_vetores(uf=uf)
+        t = Table(title="vetores restaurados")
+        t.add_column("medida")
+        t.add_column("valor", justify="right")
+        t.add_row("itens", str(r["itens"]))
+        t.add_row("restaurados", str(r["restaurados"]))
+        t.add_row("ja estavam", str(r["ja_tinha"]))
+        t.add_row("sem arquivo no acervo", str(r["sem_arquivo"]))
+        t.add_row("tamanho", f"{r['bytes'] / 1024 / 1024:.1f} MB")
+        console.print(t)
+        console.print("-> dist/embed/v1/{brasao|bandeira}/{cod}.svg")
+        return
+
+    with console.status("arquivando os SVGs publicados..."):
+        r = procedencia.arquivar_vetores(uf=uf, forcar=forcar)
+    t = Table(title="vetores versionados")
+    t.add_column("medida")
+    t.add_column("valor", justify="right")
+    t.add_row("itens", str(r["itens"]))
+    t.add_row("arquivados", str(r["arquivados"]))
+    t.add_row("ja estavam", str(r["ja_tinha"]))
+    t.add_row("sem svg em dist", str(r["sem_svg"]))
+    t.add_row("divergentes", str(r["divergentes"]))
+    t.add_row("tamanho", f"{r['bytes'] / 1024 / 1024:.1f} MB")
+    console.print(t)
+    if r["divergentes"]:
+        console.print("atencao: conteudo diferente — ver data/vetores/conflito/")
+    console.print("-> data/vetores/v1/{brasao|bandeira}/{cod}.svg")
 
 
 @app.command("risco")

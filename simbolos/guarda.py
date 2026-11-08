@@ -16,12 +16,14 @@ from collections import Counter
 from datetime import UTC, datetime
 from urllib.parse import unquote, urlparse
 
+from . import VETORES
+
 COMMONS = "upload.wikimedia.org"
 
 PREMISSAS = (
-    "vetor sempre baixo por decisão (D21)",
-    "o SVG publicado é a fonte, byte a byte, e vai para o git",
-    "enquanto não estiver no git, o motivo vetor_versionavel registra a dívida",
+    "vetor é sempre baixo por decisão (D21)",
+    "o SVG publicado é a fonte, byte a byte, e vai versionado em data/vetores",
+    "quando ele ainda não está lá, o motivo vetor_versionavel registra a dívida",
 )
 
 # Estados de verificação em que o Commons segue valendo como espelho: renomeado
@@ -46,8 +48,19 @@ def titulo_commons(origem: str | None) -> str | None:
     return f"File:{nome}" if nome else None
 
 
-def classificar(reg: dict) -> dict:
-    """Quem guarda este item além do R2, e o risco que sobra disso."""
+def vetor_arquivado(reg: dict) -> bool:
+    """Se o SVG deste item está versionado em `data/vetores`."""
+    if reg.get("formato_origem") != "svg":
+        return False
+    return (VETORES / reg["tipo"] / f"{reg['codigo_ibge']}.svg").exists()
+
+
+def classificar(reg: dict, *, vetor_arquivado_em_git: bool | None = None) -> dict:
+    """Quem guarda este item além do R2, e o risco que sobra disso.
+
+    `vetor_arquivado_em_git` permite ao chamador passar o fato já apurado; sem
+    ele, o fato é lido do disco — a classificação não afirma cópia que não viu.
+    """
     motivos: list[str] = []
     espelhos: list[str] = []
 
@@ -70,7 +83,14 @@ def classificar(reg: dict) -> dict:
         motivos.append("nao_verificado")
 
     if reg.get("formato_origem") == "svg":
-        motivos.append("vetor_versionavel")
+        versionado = (
+            vetor_arquivado(reg) if vetor_arquivado_em_git is None else vetor_arquivado_em_git
+        )
+        if versionado:
+            espelhos.append("git")
+            motivos.append("vetor_versionado")
+        else:
+            motivos.append("vetor_versionavel")
         return {"espelhos": sorted(set(espelhos)), "risco": "baixo", "motivo": motivos}
 
     return {
