@@ -13,7 +13,7 @@
 
 ## 1. TL;DR
 
-1. **O produto é a URL.** `https://cdn.simbolos.br/embed/v1/brasao/3550308.svg`
+1. **O produto é a URL.** `https://simbolos.coletivo.dev.br/embed/v1/brasao/3550308.svg`
    tem que funcionar para sempre. Site, downloads e API existem para dar
    contexto e confiança a essa URL.
 2. **Uma fonte canônica, renditions derivadas.** Ninguém contribui com três
@@ -337,7 +337,7 @@ público.
 ### 5.1 Embed
 
 ```
-https://cdn.simbolos.br/embed/v1/{brasao|bandeira}/{cod_ibge}.{svg|png|jpg}
+https://simbolos.coletivo.dev.br/embed/v1/{brasao|bandeira}/{cod_ibge}.{svg|png|jpg}
 ```
 
 - `cod_ibge` tem 7 dígitos para município e **2 dígitos para estado**
@@ -714,7 +714,7 @@ aplicação, sem custo ocioso.
 | Ambiente | **devenv** | reprodutível; versões travadas = hashes estáveis |
 
 > `r2.dev` público não serve para produção (sem cache e com rate limit). O
-> bucket precisa de domínio próprio (`cdn.simbolos.br`) atrás do Cloudflare.
+> bucket precisa de domínio próprio (`simbolos.coletivo.dev.br`) atrás do Cloudflare.
 
 ---
 
@@ -726,7 +726,7 @@ ataque real do projeto.
 | Vetor | Mitigação |
 |---|---|
 | SVG com `<script>` / `on*` / `<foreignObject>` | Rejeitado no `validar` + SVGO + allowlist de elementos no render |
-| SVG servido de origem confiável | `cdn.simbolos.br` separado do site; `Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox`; `nosniff` |
+| SVG servido de origem confiável | `simbolos.coletivo.dev.br` separado do site; `Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox`; `nosniff` |
 | Referência externa em SVG (tracking, SSRF) | Bloqueio de `http(s)://` e `url()` externo; nada de render server-side de URL |
 | Upload malicioso / spam | Turnstile, limite de tamanho, moderação humana, sem publicação automática |
 | Zip bomb / pixel flood | Limite de bytes e de dimensão antes de abrir com Pillow |

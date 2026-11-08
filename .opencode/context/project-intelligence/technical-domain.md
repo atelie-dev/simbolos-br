@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 1.0 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.0 | Updated: 2026-11-08 -->
 
 # Technical Domain — Símbolos BR
 
@@ -12,7 +12,8 @@
 | Imagem | resvg (SVG→PNG) + Pillow (composição) |
 | LLM | Maritaca (S5) e Neuralwatt (deepseek-v4.1-flash, glm-5.3, clef-flash) |
 | Dados | HTTP APIs públicas (IBGE, Wikidata, Commons, sites `.gov.br`) |
-| Site (a fazer) | Astro estático + Cloudflare Pages |
+| Site | Astro 7 estático, servido pelo Cloudflare Pages |
+| Geo | malha municipal do IBGE fatiada em células + `segno` para o QR do PIX |
 | Arquivos | Cloudflare R2: `simbolos-br-cdn` (público) e `simbolos-br-acervo` (privado) |
 
 ## Comandos
@@ -31,8 +32,10 @@ uv run python -m simbolos urls             # carimba URLs públicas no catálogo
 uv run python -m simbolos r2               # sobe embed/ + meta/ para simbolos-br-cdn
 uv run python -m simbolos acervo           # backup privado em simbolos-br-acervo
 uv run python -m simbolos indice           # índice de busca + resumo do site
-uv run python -m simbolos centros           # coordenada da sede de cada município (Wikidata)
-uv run python -m simbolos malha             # malha municipal do IBGE em células de 1°
+uv run python -m simbolos centros          # coordenada da sede de cada município (Wikidata)
+uv run python -m simbolos malha            # malha municipal do IBGE em células de 1°
+uv run python -m simbolos pix              # valida o BR Code e gera o QR do PIX
+uv run python -m simbolos pix --sem-txid   # recria o código sem o campo 62 (txid)
 
 # site (Astro estático) e montagem do deploy
 cd site && npm install && npm run dev       # http://localhost:4321/simbolos/
@@ -64,7 +67,7 @@ dist/                                publicação local (gitignored)
 data/evidencias/pdf/                 PDF do ato oficial (gitignored; backup no R2)
 data/fontes/v1/{brasao|bandeira}/{cod}.{ext}   original byte a byte (gitignored)
 PLAN.md                              design completo
-portal/                              portal do domínio (raiz): index.html + portal.css
+portal/                              portal do domínio (raiz): index.html, portal.css, _headers
 site/                                Astro estático (base `/simbolos`)
   DESIGN.md                          direção visual — lei para toda a UI
   src/styles/tokens.css              cor, raio, sombra, movimento
@@ -74,11 +77,16 @@ site/                                Astro estático (base `/simbolos`)
   src/components/SimboloCard.astro   cartão de brasão/bandeira (ou estado vazio)
   src/pages/index.astro              landing (§4.2)
   src/pages/consultar.astro          busca (§4.3)
+  src/pages/cobertura.astro          matriz UF × tipo × tier
+  src/pages/sobre.astro              quem mantém, licenças, custos
   src/pages/municipios/[slug].astro  5.571 páginas (§4.4)
   src/pages/estados/[uf].astro       27 páginas de UF
   src/data/itens.json                detalhe por item (build-only, 5,6 MB)
+  src/data/destaques.json            capitais sorteadas na landing (24)
+  src/data/pix.json                  BR Code validado (chave UUID, sem txid)
   public/api/v1/*.json               gerado por `simbolos indice` (antes do build)
   public/api/v1/malha/{lat}_{lon}.json  malha do IBGE fatiada (836 células, ~10 KB cada)
+  public/pix-qr.svg                  QR do PIX, gerado no build por `simbolos pix`
   public/fonts/*.woff2               Bricolage Grotesque + Source Sans 3
 deploy/                              gerado por scripts/empacotar_site.py (gitignored)
 infra/r2-cdn-cors.json               CORS do bucket público (aplicado via wrangler)
@@ -96,30 +104,33 @@ portão de visão (clef-flash) e checagens determinísticas em cada etapa
 ## Contrato público
 
 ```
-GET https://simbolos.coletivo.dev.br/embed/v1/brasao/3550308.svg|png|jpg
-GET https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550308.svg|png|jpg
-GET https://simbolos.coletivo.dev.br/meta/v1/{brasao|bandeira}/3550308.json
+GET https://simbolos.coletivo.dev.br/embed/v1/{brasao|bandeira}/{cod}.{svg|png|jpg}
+GET https://simbolos.coletivo.dev.br/meta/v1/{brasao|bandeira}/{cod}.json
+GET https://coletivo.dev.br/simbolos/api/v1/{municipios|resumo|centros}.json
+GET https://coletivo.dev.br/simbolos/api/v1/malha/{lat}_{lon}.json
 ```
 
 - `cod_ibge` = 7 dígitos (município) ou 2 (estado).
 - Todos os três formatos existem para todo item publicado; formato ausente = 404.
-- Cabeçalhos pretendidos: `Cache-Control: public, max-age=604800,
-  stale-while-revalidate` + purge no publish; `ETag` = sha256 da rendition;
-  `Access-Control-Allow-Origin: *`; SVG de origem separada com CSP e `nosniff`.
-  Já aplicado no R2: `Cache-Control` e `Content-Type` por objeto, metadados
+- `meta.json` é autossuficiente: traz `urls` e a procedência; cache de 1 h.
+- No R2: `Cache-Control` e `Content-Type` por objeto, metadados
   `sha256`/`licenca`/`cod-ibge`/`tipo`, e CORS (`infra/r2-cdn-cors.json`).
-  CSP e `nosniff` ainda dependem de Transform Rule no domínio (não registrado).
+  No host `simbolos.coletivo.dev.br`, Transform Rule aplica `nosniff`,
+  `referrer-policy` e CSP `sandbox` nos `.svg`.
+- No Pages: URLs sem barra (`format: "file"`), `canonical` em toda página,
+  `_headers` na raiz do deployment.
 - Secrets nunca no repo: `.env` vem do 1Password (ambiente `simbolos-br`) e é
   carregado por `python-dotenv` em `simbolos/__init__.py`. Está no `.gitignore`.
 
 ## Repositório
 
 Público em `git@github.com:atelie-dev/simbolos-br.git` (branch `main`), sob
-AGPL-3.0 (`LICENSE`). O `.env` é montado pelo 1Password e está fora do índice;
-`dist/`, `data/fontes/`, `data/_coleta/`, `site/dist/` e `node_modules/` também.
-O site depende de `site/public/api/v1/*.json` e `site/src/data/itens.json`, ambos
-gerados por `simbolos indice` e versionados para o build funcionar sem o acervo
-binário.
+AGPL-3.0 (`LICENSE`), com `.github/FUNDING.yml` apontando o GitHub Sponsors. O
+`.env` é montado pelo 1Password e está fora do índice; `dist/`, `data/fontes/`,
+`data/_coleta/`, `site/dist/`, `deploy/` e `node_modules/` também.
+O site depende de `site/public/api/v1/*.json`, `site/src/data/*.json` e
+`site/public/pix-qr.svg`, todos gerados e versionados para o build funcionar sem
+o acervo binário.
 
 ## Infra Pages
 
@@ -165,11 +176,14 @@ host e CSP `sandbox` nos `.svg`. `cdn.coletivo.dev.br` foi removido, e a dev URL
 - Pipeline idempotente e retomável: cada etapa relê o que já existe e mescla.
 - Nada de constante de domínio no código: `config.py` + ambiente.
 - `ruff` limpo antes de cada commit; `ruff format` como formatador.
+- **Em Astro, texto seguido de tag em outra linha perde o espaço**: usar `{" "}`
+  (senão sai "livreCC0-1.0" ou "doatelie.dev.br").
 
 ## O que ainda não existe
 
 - Testes automatizados (maior dívida).
-- `meta.json` por ativo (hoje só o catálogo agregado).
-- Upload para R2, headers de CDN, purge.
-- Site, busca, páginas de município, downloads, pacotes.
-- Rendition 192 px para DANFSE.
+- `/baixar` (pacotes por estado e formato) e `/transparencia`.
+- `/m/{cod}` como redirect (precisa Bulk Redirects ou Worker).
+- Purge automático no publish.
+- Símbolos dos 27 estados na coleta.
+- CI no Pages (depende de gerar o índice no build).

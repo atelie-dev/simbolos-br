@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 1.0 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.0 | Updated: 2026-11-08 -->
 
 # Decisions Log — Símbolos BR
 
@@ -164,6 +164,27 @@ foi capturado.
 **Custo medido:** 4.937 rasters (os 863 SVGs são pulados), ~950 MB e ~1 h 20 a
 1 req/s.
 
+## D13 — Dois buckets, nome por serviço (2026-11-08)
+
+**Decisão:** `simbolos-br-cdn` (público: `embed/`, `meta/`) e
+`simbolos-br-acervo` (privado: `fontes/`, `evidencias/`). O nome carrega o
+serviço, não a marca: `coletivo` é o guarda-chuva e vai receber outros acervos.
+
+**Por quê:** o domínio customizado de um bucket R2 expõe **tudo** o que está
+dentro. Guardar fonte original e PDF de lei no mesmo bucket do embed tornaria o
+arquivo privado um download público. Com zero objetos a separação é gratuita;
+depois de 1 GB, é migração. E o nome por serviço evita que o primeiro acervo dê
+nome ao guarda-chuva dos próximos.
+
+**Rejeitado:** `coletivo-cdn`/`coletivo-acervo` (amarra o bucket à marca e não
+diz o conteúdo), bucket único com prefixos "privados" (a proteção dependeria de
+Worker, não de ausência de rota).
+
+**Complemento:** o upload é idempotente por `sha256` num livro-razão local;
+`Cache-Control` de 7 dias com `stale-while-revalidate` nas imagens e 1 h nos
+sidecars. A dev URL `r2.dev` foi desligada quando o domínio próprio entrou — o
+contrato é o host do serviço (D14), não a URL de teste.
+
 ## D14 — Um host por serviço no CDN, não prefixo em host compartilhado (2026-11-08)
 
 **Decisão:** os ativos ficam em `https://simbolos.coletivo.dev.br/embed/v1/...`,
@@ -208,23 +229,79 @@ conteúdo antes da escolha.
 framework), fontes autohospedadas em `public/fonts` e busca client-side que só
 baixa o índice (5.598 entradas, 92 KB gzip) quando a pessoa interage.
 
-## D13 — Dois buckets, nome por serviço (2026-11-08)
+## D16 — Um deployment para portal e acervo (2026-11-08)
 
-**Decisão:** `simbolos-br-cdn` (público: `embed/`, `meta/`) e
-`simbolos-br-acervo` (privado: `fontes/`, `evidencias/`). O nome carrega o
-serviço, não a marca: `coletivo` é o guarda-chuva e vai receber outros acervos.
+**Decisão:** o projeto `coletivo` no Pages publica uma árvore só: `portal/` na
+raiz e `site/dist` em `simbolos/`. O `scripts/empacotar_site.py` monta isso e
+barra se passar de 20 mil arquivos (limite do Pages Free).
 
-**Por quê:** o domínio customizado de um bucket R2 expõe **tudo** o que está
-dentro. Guardar fonte original e PDF de lei no mesmo bucket do embed tornaria o
-arquivo privado um download público. Com zero objetos a separação é gratuita;
-depois de 1 GB, é migração. E o nome por serviço evita que o primeiro acervo dê
-nome ao guarda-chuva dos próximos.
+**Por quê:** o Pages publica na raiz do domínio; não existe "montar em
+subcaminho". Duas árvores separadas exigiriam um Worker roteando toda requisição
+— mais uma peça no caminho de cada imagem.
 
-**Rejeitado:** `coletivo-cdn`/`coletivo-acervo` (amarra o bucket à marca e não
-diz o conteúdo), bucket único com prefixos "privados" (a proteção dependeria de
-Worker, não de ausência de rota).
+**Rejeitado:** subdomínio por acervo (`simbolos.coletivo.dev.br` já é o host de
+ativos, e o site ficaria sem endereço próprio); dois projetos Pages + Worker.
 
-**Complemento:** o upload é idempotente por `sha256` num livro-razão local;
-`Cache-Control` de 7 dias com `stale-while-revalidate` nas imagens e 1 h nos
-sidecars. A dev URL `r2.dev` foi desligada quando o domínio próprio entrou — o
-contrato é o host do serviço (D14), não a URL de teste.
+**Consequência:** portal e acervo compartilham limite de arquivos. Hoje 6.447 de
+20 mil (32%); o próximo passo que mais consome arquivo é o `/m/{cod}` estático.
+
+## D17 — URL sem barra, com canonical (2026-11-08)
+
+**Decisão:** `build.format: "file"` e `trailingSlash: "never"`; cada página tem
+`link rel="canonical"`. A raiz do serviço (`/simbolos/`) é a única exceção — ali
+`index.html` é o diretório.
+
+**Por quê:** o Pages canonicaliza diretório com barra e responde 308 em toda URL
+sem ela. Com `pasta/index.html`, cada link interno pagava um redirect; com
+`arquivo.html`, `/simbolos/consultar` responde 200 e a barra é que redireciona.
+
+**Rejeitado:** aceitar a barra como canônica (obrigaria a reescrever todos os
+links e o CTA); `_redirects` (2.100 entradas, e o problema era o formato, não o
+destino).
+
+## D18 — Point-in-polygon com malha fatiada (2026-11-08)
+
+**Decisão:** o botão "onde estou" usa a malha municipal do IBGE (qualidade
+mínima) fatiada em **836 células de 1°**, cada uma com código, slug e anéis. O
+cliente baixa a célula do ponto (e as vizinhas) e faz teste par-ímpar.
+
+**Por quê:** o cruzamento por sede mais próxima erra em município pequeno cercado
+por outro (Águas de São Pedro dentro de Piracicaba). Baixar o GeoJSON inteiro
+(3,4 MB) para um clique é absurdo; a célula média tem 10,7 KB e a maior 23,4 KB.
+
+**Rejeitado:** geocodificação reversa em serviço de terceiro (manda a posição do
+usuário para fora e cria dependência); centroides como solução final (ficam como
+fallback para mar, represa e falha de simplificação).
+
+**Consequência:** 836 arquivos e 9,1 MB a mais no repositório; `simbolos malha`
+refaz em segundos quando o IBGE atualizar.
+
+## D19 — Vetorial é por tipo, não por município (2026-11-08)
+
+**Decisão:** o índice carrega `bv` e `fv` (brasão e bandeira vetoriais) em vez de
+um único `tier`; busca e lista de estados marcam `●ᵛ` / `◆ᵛ`; a cobertura tem
+colunas separadas e os números 573 (brasão) e 597 (bandeira).
+
+**Por quê:** o selo antigo acendia com **qualquer** um dos dois vetorial. Um
+município com brasão em SVG e bandeira em raster aparecia como "vetor", o que é
+meia-verdade — e a diferença é grande (AP: 19% brasão contra 56% bandeira).
+
+**Rejeitado:** manter "vetor" com tooltip explicando (tooltip não existe no
+celular); mostrar dois selos textuais por linha (ruído na lista).
+
+## D20 — PIX com chave UUID, sem txid, QR no build (2026-11-08)
+
+**Decisão:** a chave é um UUID; o BR Code é gerado/validado por `simbolos pix`,
+que confere o CRC16 antes de gravar; o QR é gerado no build com `segno` e servido
+como SVG estático; o `txid` (campo 62) é omitido.
+
+**Por quê:** o BR Code carrega a chave em texto claro — com e-mail, publicar o
+copia-e-cola entrega o e-mail a qualquer scraper. `txid` fixo faz alguns bancos
+tratarem o segundo pagamento como repetição; omitir o campo é o "não informado"
+do padrão. E o QR gerado localmente evita que a chave passe por terceiro.
+
+**Rejeitado:** chave por e-mail (privacidade); `txid` com `***` textual (omitir é
+equivalente e mais curto); serviço de QR de terceiro (a chave sairia do domínio).
+
+**Armadilha registrada:** o CRC cobre o payload inteiro, inclusive o cabeçalho
+`6304` do campo 63 — errar isso gera código que o banco recusa sem explicação.

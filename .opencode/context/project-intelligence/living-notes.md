@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 1.0 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.0 | Updated: 2026-11-08 -->
 
 # Living Notes — Símbolos BR
 
@@ -9,45 +9,45 @@
 
 Acervo aberto dos brasões e bandeiras dos municípios e estados brasileiros, com
 procedência e licença por arquivo, URLs de embed estáveis e pacotes para download.
-É o **primeiro acervo do `coletivo.dev.br`**, a divisão de código e dados abertos
-do `atelie.dev.br`.
+
+É o **primeiro acervo do `coletivo.dev.br`**, a iniciativa do **Ateliê DEV** para
+contribuir com a sociedade através da programação. A outra frente é o
+**Ensinamos** (`app.ensinamos.com.br`), de gestão escolar para escolas públicas.
 
 | Host | Papel |
 |---|---|
-| `coletivo.dev.br` | portal da divisão |
+| `coletivo.dev.br` | portal da iniciativa (Símbolos + Ensinamos) |
 | `coletivo.dev.br/simbolos` | este serviço |
 | `simbolos.coletivo.dev.br` | ativos: `/embed/v1/{brasao\|bandeira}/{cod}.{svg,png,jpg}` e `/meta/v1/...` |
-| `atelie.dev.br` | o ateliê; assina o projeto em `/sobre` |
+| `atelie.dev.br` | o ateliê |
 
-Um host **por serviço** para os ativos, e não um `cdn.` compartilhado com
-prefixo: o custom domain do R2 liga um host a um bucket, e o bucket é por
-serviço (`simbolos-br-cdn`). O próximo acervo entra em `saude.coletivo.dev.br`
-com o bucket dele, sem Worker e sem mexer neste. Configurável por `SITE_BASE` /
-`CDN_BASE` / `SERVICO_PATH` em `simbolos/config.py` e no `devenv.nix`.
+Um host **por serviço** para os ativos, e não um `cdn.` compartilhado com prefixo:
+o custom domain do R2 liga um host a um bucket, e o bucket é por serviço
+(`simbolos-br-cdn`). O próximo acervo entra em `saude.coletivo.dev.br` com o
+bucket dele, sem Worker. Configurável por `SITE_BASE` / `CDN_BASE` /
+`SERVICO_PATH` em `simbolos/config.py` e no `devenv.nix`.
 
 ## Estado em 2026-11-08
 
 | Etapa | Situação |
 |---|---|
 | Catálogo IBGE | pronto: 27 UFs, 5.571 municípios (`data/municipios.json`) |
-| Coleta Wikidata + Commons | pronta: 4.353 brasões (78,1%), 4.037 bandeiras (72,5%) |
+| Coleta Wikidata + Commons | pronta: 4.353 brasões, 4.037 bandeiras |
 | Triagem | pronta: `data/_catalogo/catalogo.json` (4.790 municípios com item) |
-| Crawl de sites oficiais | piloto em 39 municípios: 44% com símbolo, 3% com ato |
-| Publicação local | **concluída**: 8.369 de 8.390 (11 falhas: 3 `svg_inseguro`, 4 `render`, 4 `svg_sem_raiz`), 1,3 GB |
-| Sidecars + URLs | 8.379 sidecars com `urls` no R2 e cache de 1 h |
-| Fontes originais | 7.209 rasters em `data/fontes` (1,3 GB), com backup no bucket privado |
-| R2 | **no ar**: `simbolos-br-cdn` (1,32 GB, domínio público) e `simbolos-br-acervo` (1,30 GB, **sem domínio**) |
-| Upload (`simbolos r2` / `acervo`) | implementado e verificado com 6 objetos |
-| Domínio `coletivo.dev.br` | **ativo** no Cloudflare; `simbolos.coletivo.dev.br` (CNAME proxiado para `public.r2.dev`) serve o bucket com CSP/nosniff |
-| Token Cloudflare | Pages, R2 custom domain, Zone settings, Zone Config e Cache Purge: todos liberados |
-| Site | **local**: landing, `/consultar`, `/cobertura`, `/sobre`, 5.571 municípios, 27 estados; portal na raiz em `portal/` |
-| Deploy (Pages) | **no ar**: `coletivo.dev.br` (portal) e `/simbolos` (acervo), projeto `coletivo`, deploy manual |
-| Repositório | público em `github.com/atelie-dev/simbolos-br` (branch `main`), AGPL-3.0 + README; `.env` fora do índice |
+| Publicação | **concluída**: 8.369 de 8.390 (11 falhas), 1,3 GB |
+| Sidecars | 8.379 no R2 com `urls` e cache de 1 h |
+| Fontes originais | 7.209 rasters em `data/fontes` (1,3 GB), 0 divergências, backup no bucket privado |
+| R2 | `simbolos-br-cdn` 1,32 GB (público) + `simbolos-br-acervo` 1,30 GB (**sem domínio**) = 2,62 GB, 26% do free tier |
+| Site | **no ar**: landing, `/consultar`, `/cobertura`, `/sobre`, 5.571 municípios, 27 estados, portal na raiz |
+| URLs | limpas, sem barra (`build.format: "file"`) e com `link rel=canonical` |
+| Deploy | Pages projeto `coletivo`, `coletivo.dev.br` + `www`, deploy manual |
+| Repositório | público em `github.com/atelie-dev/simbolos-br`, AGPL-3.0, 6 commits + FUNDING |
+| Apoio | GitHub Sponsors ativo; PIX com chave UUID e sem `txid` |
 | Pacotes npm/PyPI/Composer | não começaram |
 
-Números do catálogo: brasão 4.353, bandeira 4.037, os dois 3.600, vetorial 577
-(13,3% dos brasões), 915 itens precisam de confirmação visual, 3.151 com mais de
-um candidato. Baldes: livre 7.101, compartilha 1.220, pendente 69.
+Números públicos: 8.379 itens, 4.788 municípios cobertos (85,9%), 1.170 itens
+vetoriais. Vetorial por tipo: 573 municípios com brasão em SVG, 597 com bandeira
+em SVG, 364 com os dois. Baldes: livre 7.101, compartilha 1.220, pendente 69.
 
 ## Próximo passo, em ordem
 
@@ -55,13 +55,14 @@ um candidato. Baldes: livre 7.101, compartilha 1.220, pendente 69.
    `decisao`), e nos achados do crawl oficial.
 2. **`/baixar`**: pacotes por estado e formato, `brasil-livre.zip` (só balde
    livre) e `danfse-192.zip`. É a última rota do plano que falta no site.
-3. **`/m/{cod}`** como redirect de verdade: `_redirects` do Pages só aceita
-   2.100 — precisa Bulk Redirects na zona ou Worker.
+3. **`/m/{cod}`** como redirect: `_redirects` do Pages aceita só 2.100 — precisa
+   Bulk Redirects na zona ou Worker.
 4. **Crawl oficial** nos 1.218 municípios restantes (~536 brasões por ~US$ 1).
-5. **Símbolos dos estados**: os 27 nunca entraram na coleta; hoje a página do
-   estado diz isso explicitamente.
-6. **CI**: ligar o projeto Pages ao GitHub exige gerar o índice no build, o que
-   depende do catálogo e dos PNGs — decisão à parte.
+5. **Símbolos dos estados**: os 27 nunca entraram na coleta; a página do estado
+   diz isso explicitamente.
+6. **`/transparencia`**: já existe número — domínio, 2,62 GB de R2, egress zero.
+7. **CI**: ligar o Pages ao GitHub exige gerar o índice no build (depende do
+   catálogo e dos PNGs) — decisão à parte.
 
 ## Dívidas conhecidas
 
@@ -71,61 +72,74 @@ um candidato. Baldes: livre 7.101, compartilha 1.220, pendente 69.
 | `publicar` sem paralelismo | ETA ditado por 1 req/s + render sequencial | média |
 | 69 itens `pendente` sem alternativa de licença | ficam fora dos downloads livres | baixa |
 | Triagem não usa `dHash` | erro de brasão trocado só cai na visão | baixa |
+| `itens.json` (5,6 MB) e `malha/` (9 MB) no git | repositório cresce; são derivados | baixa |
 
 ## Armadilhas (custaram tempo de verdade)
 
-- **`python3` não existe no PATH** desta máquina. Sempre `uv run python …`.
-- **`resvg` só existe dentro do `devenv shell`**. `publicar` tem preflight e falha
-  alto; rodar fora do devenv não publica SVG.
-- **Wikimedia responde 429** se baixar rápido. Intervalo de 1 req/s por host,
-  backoff exponencial e `Retry-After` — está em `publicacao.baixar`.
-- **HTML traz entidade** (`Bras&atilde;o`): regex em texto cru não acha "brasão".
-  Usar parser ou normalizar entidades antes.
-- **`incategory:` em `list=search` retorna 0** para arquivos sem `srnamespace=6`;
-  para listar categoria use `list=categorymembers&cmtype=file`.
-- **Wikidata `P41`/`P94` às vezes guarda URL** (`Special:FilePath/…`) em vez de
-  título; normalizar com `wikidata.titulo_normalizado`.
-- **`S5` gasta o orçamento de saída em raciocínio** e devolve `content: null` com
-  `finish_reason: length`. O cliente dobra o teto e repete; tratar `length` como
-  truncamento, nunca como resposta.
-- **Catálogo não é acervo**: 3 dos 19 links do piloto já estavam mortos. Só a
-  publicação (arquivo próprio) impede o acervo de apodrecer.
-- **Rendition não é fonte.** Até 2026-11-08 o `publicar` gravava só PNG/JPG de 512
-  e descartava os bytes originais — em 2.781 itens a fonte era maior que 460 px,
-  então o acervo guardava a versão menor e jogava a boa fora. Agora o original vai
-  para `data/fontes/v1/{tipo}/{cod}.{ext}` e o registro carrega `fonte.arquivo` +
-  hash; `simbolos fontes` rebaixa a safra antiga, confere o hash e manda divergência
-  para `fontes/conflito/` (nunca sobrescreve em silêncio).
-- **`dist/catalogo.json` é derivado, não fonte.** A verdade por ativo é o sidecar
-  `dist/meta/v1/{tipo}/{cod}.json`, escrito junto com as renditions. Antes, um
-  lote interrompido deixava milhares de arquivos sem registro e a retomada
-  rebaixava tudo (só existia o catálogo, escrito no fim). Agora a retomada lê
-  sidecar → catálogo → renditions em disco, e o catálogo é gravado a cada 200
-  itens por `tmp.replace()` (atômico).
-- **`/tmp` desta máquina é zram (RAM, 62 GB).** Nada que prove procedência pode
-  morar lá: o PDF do ato oficial vai para `data/evidencias/pdf/`.
+**Pipeline / dados**
+
+- **`python3` não existe no PATH.** Sempre `uv run python …`.
+- **`resvg` só existe dentro do `devenv shell`**; `publicar` tem preflight.
+- **Wikimedia responde 429** se baixar rápido: 1 req/s por host + backoff +
+  `Retry-After`, em `publicacao.baixar`.
+- **HTML traz entidade** (`Bras&atilde;o`): normalizar antes de procurar "brasão".
+- **`incategory:` em `list=search` retorna 0** sem `srnamespace=6`; para listar
+  categoria use `list=categorymembers&cmtype=file`.
+- **Wikidata `P41`/`P94` às vezes guarda URL**; normalizar com
+  `wikidata.titulo_normalizado`.
+- **`S5` gasta o orçamento em raciocínio** e devolve `content: null` com
+  `finish_reason: length`; tratar `length` como truncamento.
+- **Catálogo não é acervo**: 3 dos 19 links do piloto já estavam mortos.
+- **Rendition não é fonte**: o original fica em `data/fontes/v1/…`, com hash;
+  `simbolos fontes` rebaixa a safra antiga e manda divergência para `conflito/`.
+- **`dist/catalogo.json` é derivado**: a verdade é o sidecar
+  `dist/meta/v1/{tipo}/{cod}.json`; retomada lê sidecar → catálogo → disco.
+- **`/tmp` é zram (RAM)**: PDF de ato oficial vai para `data/evidencias/pdf/`.
+- **PIX: o BR Code carrega a chave em texto claro.** Chave por e-mail vira e-mail
+  público; usar UUID. Campo 62 = `txid`; omitir = "não informado". O CRC cobre
+  **todo** o payload, inclusive o cabeçalho `6304` do campo 63.
+- **Fatiar a malha**: o item de cada célula é `[codigo, slug, aneis]`; o teste
+  par-ímpar sobre todos os anéis resolve MultiPolygon e furo.
+
+**Site / deploy**
+
+- **`import.meta.env.BASE_URL` vem sem barra final** ("/simbolos"): concatenar
+  direto gera `/simbolosapi/...`. Use `BASE` de `src/lib/urls.ts`.
+- **Astro descarta o espaço entre texto e tag em linhas separadas**: "do\n<a>"
+  vira "do<a>". Usar `{" "}`. Sintoma: "livreCC0-1.0", "doatelie.dev.br".
+- **`build.format: "folder"` gera 308 para a barra no Pages**: use
+  `format: "file"` e `trailingSlash: "never"`; a raiz (`/simbolos/`) é exceção.
+- **`wrangler pages project create` precisa de `--force`** na primeira vez
+  (o wrangler 4.156 delega Pages→Workers e falha); depois, nunca mais.
+- **Pages não cria o registro DNS do domínio**: anexar deixa `pending` para
+  sempre, sem erro. Criar CNAME proxiado para `<projeto>.pages.dev`.
+- **`Permissions-Policy: geolocation=()` bloqueia a própria página**: o botão
+  "onde estou" depende de `geolocation=(self)`.
+- **Resolver local guarda NXDOMAIN**: domínio novo parece morto por minutos.
+  Verificar com `curl --doh-url https://cloudflare-dns.com/dns-query`.
+- **`fetch(..., {cache: "force-cache"})` serve índice velho** até o `max-age`;
+  para dados que mudam a cada publicação, deixar revalidar.
+- **`_headers` só vale na raiz do deployment**; o `empacotar_site.py` copia
+  `portal/` para lá justamente por isso.
 
 ## Questões abertas
 
 | Questão | Status |
 |---|---|
-| Quem assina o PIX (PF, CNPJ, coletivo) | aberto |
 | Crédito de contribuidor: anônimo por padrão? | recomendado, não decidido |
 | Nomes dos pacotes (`@coletivo/…`) | aberto |
 | Continuar o crawl oficial nos 1.218 restantes | recomendado (~536 brasões por ~US$ 1) |
-| Registrar `coletivo.dev.br` e checar marca na classe de software | pendente |
+| Remover o CEP (campo 61) do BR Code | opcional; menos dado pessoal no QR |
+| Nome no BR Code é "FABIO DBATISTA"; trocar por nome comercial | depende do PSP |
 | Rendition 192 px para DANFSE | desenhada, não implementada |
 
 ## Registro de marcas/modelos (para não redescobrir)
 
 - **Maritaca**: `S5` (1M ctx), `sabia-4`, `sabiazinho-4`, `S5-br-sp`, `S5-nano`.
-  `service_tier: "flex"` = 50% de desconto, síncrono, pode dar 429.
-  Batch (`/api/batches` + `/api/files`) = 50%, mas um lote de 1 requisição ficou
-  >20 min em `in_progress`. Cache de prompt: automático, 75% (90% nos S5).
-- **Neuralwatt**: `glm-5.3`, `glm-5.3-flash`, `deepseek-v4.1-flash` (+ `-flex`
-  ~30%), `clef-flash` (modelo de decisão), `kimi-k3`, `qwen3.6`, `nw-*`.
-  Reporta `cost.request_cost_usd` e `allowance_remaining_usd` por requisição.
-  `clef-flash` só funciona em `POST /v1/systemone` (não em `/chat/completions`).
-- **DeepSeek direto**: descontinuado no projeto; a rota é via Neuralwatt.
-- **Custo medido**: 10 páginas saíram por US$ 0,0009 (Neuralwatt flex) contra
-  R$ 0,0419 (S5 flex). Portão de visão custa ~US$ 0,00008 por imagem.
+  `service_tier: "flex"` = 50%, síncrono, pode dar 429. Batch = 50%, mas um lote
+  de 1 requisição ficou >20 min em `in_progress`.
+- **Neuralwatt**: `glm-5.3`, `glm-5.3-flash`, `deepseek-v4.1-flash` (+`-flex`),
+  `clef-flash` (decisão, só em `POST /v1/systemone`), `kimi-k3`, `qwen3.6`.
+- **DeepSeek direto**: descontinuado no projeto.
+- **Custo medido**: 10 páginas US$ 0,0009 (Neuralwatt flex) vs R$ 0,0419 (S5
+  flex); visão ~US$ 0,00008/imagem.
