@@ -45,7 +45,7 @@ bucket dele, sem Worker. Configurável por `SITE_BASE` / `CDN_BASE` /
 | Site | **no ar**: landing, `/consultar`, `/cobertura`, `/sobre`, 5.571 municípios, 27 estados, portal na raiz |
 | URLs | limpas, sem barra (`build.format: "file"`) e com `link rel=canonical` |
 | Deploy | Pages projeto `coletivo`, `coletivo.dev.br` + `www`, deploy manual |
-| Repositório | público em `github.com/atelie-dev/simbolos-br`, AGPL-3.0, 6 commits + FUNDING |
+| Repositório | público em `github.com/atelie-dev/simbolos-br`, AGPL-3.0, `.git` de 96 MB (287 MB de SVG comprimem), FUNDING |
 | Apoio | GitHub Sponsors ativo; PIX com chave UUID e sem `txid` |
 | Pacotes npm/PyPI/Composer | não começaram |
 
@@ -123,6 +123,11 @@ compartilha 1.214, pendente 69.
   `cf-cache-status: DYNAMIC`, ou seja, o edge não cacheia. Quem guarda o
   `max-age` de 1 h é o **browser** — trocar o contrato do `meta.json` pede
   versão nova (`meta/v2`), não purge.
+- **Este repositório tem `core.autocrlf=input`.** Sem `.gitattributes`, git
+  converte CRLF em LF no índice e o arquivo de um clone **deixa de bater com o
+  `sha256` do sidecar** — o acervo diz "byte a byte" e não é. `data/vetores` está
+  como `binary`; `data/meta` e `data/ledger` como `-text`. Conferir com
+  `git cat-file blob :arquivo | sha256sum` contra `sha256sum arquivo`.
 - **`data/vetores` e `dist/embed` têm o mesmo conteúdo por construção.** Quem
   manda é `data/vetores`; `simbolos vetores` recusa sobrescrever sem `--forcar` e
   manda o divergente para `data/vetores/conflito/`.
