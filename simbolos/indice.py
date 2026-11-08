@@ -20,6 +20,33 @@ DESTINO_BUILD = DATA.parent / "site" / "src" / "data"
 
 TIPOS = ("brasao", "bandeira")
 
+# Capitais do IBGE: entram como destaques da landing quando têm brasão e bandeira
+# em SVG. São reconhecíveis e dão variedade geográfica sem curadoria manual.
+CAPITAIS = frozenset(
+    {
+        "1100205", "1200401", "1302603", "1400100", "1501402", "1600303", "1721000",
+        "2111300", "2211001", "2304400", "2408102", "2507507", "2611606", "2704302",
+        "2800308", "2927408", "3106200", "3205309", "3304557", "3550308", "4106902",
+        "4205407", "4314902", "5002704", "5103403", "5208707", "5300108",
+    }
+)
+
+
+def _destaques(itens: dict[tuple[str, str], dict]) -> list[dict]:
+    """Municípios que servem de amostra na landing: brasão e bandeira em SVG."""
+    amostra = []
+    for codigo in CAPITAIS:
+        brasao = itens.get((codigo, "brasao"))
+        bandeira = itens.get((codigo, "bandeira"))
+        if not (brasao and bandeira):
+            continue
+        if "svg" not in (brasao.get("rendicoes") or {}):
+            continue
+        if "svg" not in (bandeira.get("rendicoes") or {}):
+            continue
+        amostra.append({"c": codigo, "n": brasao["municipio"], "u": brasao["uf"]})
+    return sorted(amostra, key=lambda x: x["n"])
+
 
 def _arte(codigo: str, tipo: str) -> dict | None:
     """Tamanho real da arte dentro do canvas de 512, não o canvas.
@@ -149,6 +176,11 @@ def gerar(destino: Path = DESTINO) -> dict:
     DESTINO_BUILD.mkdir(parents=True, exist_ok=True)
     (DESTINO_BUILD / "itens.json").write_text(
         json.dumps(itens_build, ensure_ascii=False, separators=(",", ":")) + "\n"
+    )
+
+    destaques = _destaques(itens)
+    (DESTINO_BUILD / "destaques.json").write_text(
+        json.dumps(destaques, ensure_ascii=False, separators=(",", ":")) + "\n"
     )
 
     return {

@@ -30,6 +30,10 @@ const melhores = [...resumo.por_uf].sort((a, b) => taxa(b) - taxa(a)).slice(0, 5
 const exemplo = { codigo: "3550308", nome: "São Paulo", uf: "SP" };
 const num = (n: number) => n.toLocaleString("pt-BR");
 const pct = resumo.cobertura_pct.toLocaleString("pt-BR", { minimumFractionDigits: 1 });
+
+const destaques = JSON.parse(
+  readFileSync(resolve(process.cwd(), "src/data/destaques.json"), "utf8"),
+) as { c: string; n: string; u: string }[];
 ---
 
 <Base title="Símbolos · coletivo.dev.br">
@@ -68,13 +72,13 @@ const pct = resumo.cobertura_pct.toLocaleString("pt-BR", { minimumFractionDigits
 
         <div class="hero-arte" aria-hidden="true">
           <figure class="arte arte--1">
-            <img src={embedUrl("3550308", "brasao", "png")} alt="" width="190" height="190" />
+            <img data-arte src={embedUrl("3550308", "brasao", "png")} alt="" width="190" height="190" />
           </figure>
           <figure class="arte arte--2">
-            <img src={embedUrl("3304557", "bandeira", "png")} alt="" width="160" height="160" />
+            <img data-arte src={embedUrl("3304557", "bandeira", "png")} alt="" width="160" height="160" />
           </figure>
           <figure class="arte arte--3">
-            <img src={embedUrl("3106200", "brasao", "png")} alt="" width="150" height="150" />
+            <img data-arte src={embedUrl("3106200", "brasao", "png")} alt="" width="150" height="150" />
           </figure>
         </div>
       </div>
@@ -97,7 +101,8 @@ const pct = resumo.cobertura_pct.toLocaleString("pt-BR", { minimumFractionDigits
               />
             </div>
             <p class="amostra-legenda">
-              {exemplo.nome} · {exemplo.uf} · <span class="num">{exemplo.codigo}</span>
+              <span data-nome>{exemplo.nome}</span> · <span data-uf>{exemplo.uf}</span> ·{" "}
+              <span class="num" data-cod>{exemplo.codigo}</span>
             </p>
           </div>
 
@@ -287,10 +292,27 @@ const pct = resumo.cobertura_pct.toLocaleString("pt-BR", { minimumFractionDigits
 
   <Rodape />
 
+  <script type="application/json" id="destaques" set:html={JSON.stringify(destaques)} />
+
   <script>
     const cdn = "https://simbolos.coletivo.dev.br";
-    const codigo = "3550308";
-    const nome = "São Paulo";
+    const destaques: { c: string; n: string; u: string }[] = JSON.parse(
+      document.getElementById("destaques")?.textContent ?? "[]",
+    );
+    const sorteia = <T,>(lista: T[]): T => lista[Math.floor(Math.random() * lista.length)];
+
+    /** Fisher-Yates: três municípios distintos no hero, nunca repetidos. */
+    const embaralha = <T,>(lista: T[]): T[] => {
+      const copia = [...lista];
+      for (let i = copia.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [copia[i], copia[j]] = [copia[j], copia[i]];
+      }
+      return copia;
+    };
+    const padrao = { c: "3550308", n: "São Paulo", u: "SP" };
+
+    let municipio = destaques.length ? sorteia(destaques) : padrao;
     const estado = { ext: "svg", tipo: "brasao" };
 
     const snippet = document.getElementById("snippet") as HTMLElement | null;
@@ -298,14 +320,31 @@ const pct = resumo.cobertura_pct.toLocaleString("pt-BR", { minimumFractionDigits
     const dica = document.getElementById("dica") as HTMLElement | null;
 
     const atualizar = () => {
-      const url = `${cdn}/embed/v1/${estado.tipo}/${codigo}.${estado.ext}`;
-      const alt = `${estado.tipo === "brasao" ? "Brasão" : "Bandeira"} de ${nome}`;
+      const url = `${cdn}/embed/v1/${estado.tipo}/${municipio.c}.${estado.ext}`;
+      const alt = `${estado.tipo === "brasao" ? "Brasão" : "Bandeira"} de ${municipio.n}`;
       if (snippet) snippet.textContent = `<img src="${url}" alt="${alt}" width="192" height="192">`;
       if (previa) {
         previa.src = url;
         previa.alt = alt;
       }
     };
+
+    const legenda = () => {
+      const por = (sel: string) => document.querySelector(sel);
+      if (por("[data-nome]")) por("[data-nome]")!.textContent = municipio.n;
+      if (por("[data-uf]")) por("[data-uf]")!.textContent = municipio.u;
+      if (por("[data-cod]")) por("[data-cod]")!.textContent = municipio.c;
+    };
+
+    // Os três quadros do hero: dois brasões e uma bandeira, de municípios
+    // diferentes a cada carga. Puro enfeite, então sem alt e aria-hidden.
+    const trio = embaralha(destaques).slice(0, 3);
+    document.querySelectorAll<HTMLImageElement>("img[data-arte]").forEach((img, indice) => {
+      const escolhido = trio[indice] ?? trio[0];
+      if (!escolhido) return;
+      const tipo = indice === 1 ? "bandeira" : "brasao";
+      img.src = `${cdn}/embed/v1/${tipo}/${escolhido.c}.png`;
+    });
 
     document.querySelectorAll<HTMLButtonElement>(".opcao").forEach((botao) => {
       botao.addEventListener("click", () => {
@@ -328,6 +367,7 @@ const pct = resumo.cobertura_pct.toLocaleString("pt-BR", { minimumFractionDigits
       });
     });
 
+    legenda();
     atualizar();
   </script>
 
