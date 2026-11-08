@@ -10,6 +10,10 @@ RAIZ = Path(__file__).resolve().parent.parent
 DATA = RAIZ / "data"
 SPIKE = DATA / "_spike"
 
+# Saída (descartável por convenção) e verdade (versionada, nunca regenerada).
+DIST = RAIZ / "dist"
+META = DATA / "meta" / "v1"
+
 # .env montado pelo 1Password no diretorio do projeto (gitignored). Se nao
 # existir, as chaves vem do ambiente normalmente.
 _env = RAIZ / ".env"

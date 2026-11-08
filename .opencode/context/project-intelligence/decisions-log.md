@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.0 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.1 | Updated: 2026-11-08 -->
 
 # Decisions Log — Símbolos BR
 
@@ -305,3 +305,39 @@ equivalente e mais curto); serviço de QR de terceiro (a chave sairia do domíni
 
 **Armadilha registrada:** o CRC cobre o payload inteiro, inclusive o cabeçalho
 `6304` do campo 63 — errar isso gera código que o banco recusa sem explicação.
+
+## D21 — Procedência conferível sem rebaixar o acervo (2026-11-08)
+
+**Decisão:** o sidecar carrega `sha1_origem` (o hash que a API do Commons
+publica), `bytes_origem`, `capturado_em`/`captura_fonte` e `titulo_commons`, e o
+comando `simbolos verificar-fonte` compara cada item em lotes de 50 títulos,
+classificando em **igual**, **divergente**, **renomeado** e **sumiu**. O campo
+`guarda` diz quantas casas independentes têm o item, e `simbolos risco` publica
+o relatório em `data/risco.json`.
+
+**Por quê:** o `sha256` não serve para conferir com a origem — o Commons publica
+**sha1**, não sha256. Sem o sha1 no sidecar, a única forma de saber se os bytes
+mudaram era rebaixar 1,3 GB (o que o `fontes` fazia, a 1 req/s). Com ele, a
+conferência dos 8.379 itens custou **3 min 7 s e 168 requisições**, sem baixar um
+arquivo. Resultado da primeira rodada: 8.379 iguais, 0 divergentes, 0 sumidos.
+
+**Rejeitado:** rebaixar tudo para conferir (1,3 GB e ~2 h); guardar só o sha256
+(não comparável à origem); classificar risco por tamanho ou por licença em vez de
+por existência de cópia independente (licença não é cópia).
+
+**Regra de risco (escolha do mantenedor):** **vetor é sempre baixo** — o SVG
+publicado é a fonte, byte a byte, e vai para o git; **raster segue a regra
+estrita** e é alto quando fica sem espelho. `espelhos` continua factual (hoje só
+`commons`), e o motivo `vetor_versionavel` registra a dívida enquanto os vetores
+não estiverem de fato no git.
+
+**Consequência:** os sidecars saíram de `dist/meta/v1` para `data/meta/v1` —
+`dist` é saída e pode ser apagada, e a procedência não se regenera sem rebaixar.
+Isso alinha a implementação ao que o §6.6 do `PLAN.md` já mandava: `meta.json` no
+git. Números da primeira rodada: 68 itens de risco alto (69 `pendente`, dos quais
+1 é vetorial), 8.311 baixos; 1.170 vetores com o motivo `vetor_versionavel`.
+
+**Armadilha registrada:** o título do Commons é derivado da URL de upload, e a
+URL muda quando o arquivo é renomeado. Por isso título que não resolve **não** é
+sumiço — a conferência cai para `list=allimages&aisha1=`, que acha os mesmos
+bytes sob o nome novo.

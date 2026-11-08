@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.0 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.1 | Updated: 2026-11-08 -->
 
 # Living Notes — Símbolos BR
 
@@ -35,8 +35,11 @@ bucket dele, sem Worker. Configurável por `SITE_BASE` / `CDN_BASE` /
 | Coleta Wikidata + Commons | pronta: 4.353 brasões, 4.037 bandeiras |
 | Triagem | pronta: `data/_catalogo/catalogo.json` (4.790 municípios com item) |
 | Publicação | **concluída**: 8.369 de 8.390 (11 falhas), 1,3 GB |
-| Sidecars | 8.379 no R2 com `urls` e cache de 1 h |
+| Sidecars no R2 | 8.379 com `urls` e cache de 1 h — **desatualizados**: ainda sem os campos de D21 |
 | Fontes originais | 7.209 rasters em `data/fontes` (1,3 GB), 0 divergências, backup no bucket privado |
+| Procedência | **conferida**: 8.379 de 8.379 iguais por `sha1` no Commons, em 3 min e 168 requisições, sem baixar arquivo (D21) |
+| Sidecars locais | em `data/meta/v1` (verdade versionável), com `sha1_origem`, `capturado_em`, `verificacao` e `guarda` |
+| Guarda | 68 itens de risco alto (69 `pendente`, 1 vetorial), 8.311 baixos; `data/risco.json` |
 | R2 | `simbolos-br-cdn` 1,32 GB (público) + `simbolos-br-acervo` 1,30 GB (**sem domínio**) = 2,62 GB, 26% do free tier |
 | Site | **no ar**: landing, `/consultar`, `/cobertura`, `/sobre`, 5.571 municípios, 27 estados, portal na raiz |
 | URLs | limpas, sem barra (`build.format: "file"`) e com `link rel=canonical` |
@@ -47,30 +50,38 @@ bucket dele, sem Worker. Configurável por `SITE_BASE` / `CDN_BASE` /
 
 Números públicos: 8.379 itens, 4.788 municípios cobertos (85,9%), 1.170 itens
 vetoriais. Vetorial por tipo: 573 municípios com brasão em SVG, 597 com bandeira
-em SVG, 364 com os dois. Baldes: livre 7.101, compartilha 1.220, pendente 69.
+em SVG, 364 com os dois. Baldes (contados nos sidecars): livre 7.096,
+compartilha 1.214, pendente 69.
 
 ## Próximo passo, em ordem
 
-1. **Portão de visão** nos 915 itens que precisam (`simbolos visao`, motor
+1. **Git como armazém** (decisão do mantenedor, falta executar): versionar
+   `data/meta/` (34 MB), o livro-razão de upload e os 1.170 vetores; renditions
+   ficam fora porque são derivadas. É o que torna `vetor_versionavel` verdade.
+2. **Portão de visão** nos 915 itens que precisam (`simbolos visao`, motor
    `decisao`), e nos achados do crawl oficial.
-2. **`/baixar`**: pacotes por estado e formato, `brasil-livre.zip` (só balde
+3. **`/baixar`**: pacotes por estado e formato, `brasil-livre.zip` (só balde
    livre) e `danfse-192.zip`. É a última rota do plano que falta no site.
-3. **`/m/{cod}`** como redirect: `_redirects` do Pages aceita só 2.100 — precisa
+4. **`/m/{cod}`** como redirect: `_redirects` do Pages aceita só 2.100 — precisa
    Bulk Redirects na zona ou Worker.
-4. **Crawl oficial** nos 1.218 municípios restantes (~536 brasões por ~US$ 1).
-5. **Símbolos dos estados**: os 27 nunca entraram na coleta; a página do estado
+5. **Crawl oficial** nos 1.218 municípios restantes (~536 brasões por ~US$ 1).
+   Todo item que ele trouxer nasce sem espelho — `verificar-fonte` já sabe dizer
+   isso pelo campo `origem`.
+6. **Símbolos dos estados**: os 27 nunca entraram na coleta; a página do estado
    diz isso explicitamente.
-6. **`/transparencia`**: já existe número — domínio, 2,62 GB de R2, egress zero.
-7. **CI**: ligar o Pages ao GitHub exige gerar o índice no build (depende do
+7. **`/transparencia`**: já existe número — domínio, 2,62 GB de R2, egress zero,
+   e os 68 itens sem cópia independente.
+8. **CI**: ligar o Pages ao GitHub exige gerar o índice no build (depende do
    catálogo e dos PNGs) — decisão à parte.
 
 ## Dívidas conhecidas
 
 | Item | Impacto | Prioridade |
 |---|---|---|
-| Nenhum teste automatizado | regressão silenciosa no pipeline | alta |
+| Teste só na política de guarda (13 casos) | pipeline ainda sem cobertura | alta |
+| 1.170 vetores só em `dist/` e no R2 | `dist` é descartável; é o passo 1 acima | alta |
 | `publicar` sem paralelismo | ETA ditado por 1 req/s + render sequencial | média |
-| 69 itens `pendente` sem alternativa de licença | ficam fora dos downloads livres | baixa |
+| 69 itens `pendente` sem alternativa de licença | ficam fora dos downloads livres; 68 são risco alto | média |
 | Triagem não usa `dHash` | erro de brasão trocado só cai na visão | baixa |
 | `itens.json` (5,6 MB) e `malha/` (9 MB) no git | repositório cresce; são derivados | baixa |
 
@@ -98,6 +109,15 @@ em SVG, 364 com os dois. Baldes: livre 7.101, compartilha 1.220, pendente 69.
 - **PIX: o BR Code carrega a chave em texto claro.** Chave por e-mail vira e-mail
   público; usar UUID. Campo 62 = `txid`; omitir = "não informado". O CRC cobre
   **todo** o payload, inclusive o cabeçalho `6304` do campo 63.
+- **Commons publica `sha1`, não `sha256`** — e a API devolve hex. Conferir
+  procedência com sha256 obriga a rebaixar o arquivo; com sha1 custa uma
+  requisição por 50 títulos (`verificar-fonte`: 8.379 em 3 min).
+- **Título do Commons deriva da URL de upload, e a URL muda quando o arquivo é
+  renomeado.** Título que não resolve **não** é sumiço: cair para
+  `list=allimages&aisha1=<sha1>` antes de concluir.
+- **`capturado_em` da safra antiga vem do `mtime` do arquivo guardado** — é a
+  hora real da gravação, não a da execução; `captura_fonte` distingue `mtime` de
+  `relogio` para ninguém confundir as duas depois.
 - **Fatiar a malha**: o item de cada célula é `[codigo, slug, aneis]`; o teste
   par-ímpar sobre todos os anéis resolve MultiPolygon e furo.
 

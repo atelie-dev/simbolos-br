@@ -514,6 +514,27 @@ dist/                          # build, nunca versionado
 }
 ```
 
+**Estado da implementação (2026-11-08):** o sidecar que o pipeline grava hoje
+implementa um **subconjunto** deste schema — sem `submissao`, `revisao`,
+`historico`, `natureza` nem `ferramenta`. Os campos reais são:
+
+| Campo | O que é |
+|---|---|
+| `codigo_ibge`, `uf`, `municipio`, `tipo` | identidade |
+| `origem` | URL direta do upload no Commons |
+| `titulo_commons` | `File:…`, derivado da URL na captura; é a chave da conferência |
+| `licenca`, `balde`, `autor` | licença em camadas (§6.3) |
+| `estado`, `formato_origem` | `publicado` / mime, ou `svg` |
+| `sha256_origem`, `sha1_origem`, `bytes_origem` | identidade dos bytes capturados; o `sha1` é o que a API do Commons publica, então confere **sem baixar** |
+| `capturado_em`, `captura_fonte` | quando os bytes foram capturados (`relogio` agora, `mtime` no preenchimento retroativo) |
+| `fonte` | `{arquivo, bytes, sha256, sha1}` — só no raster; no SVG o publicado é a fonte, byte a byte |
+| `rendicoes` | `{png, jpg[, svg]}` com bytes e sha256 |
+| `urls` | as três URLs públicas |
+| `verificacao` | `{em, estado, sha1_commons[, titulo_atual]}` — a última conferência |
+| `guarda` | `{espelhos, risco, motivo}` — quantas casas independentes guardam o item |
+
+`data/meta/v1/…` é a verdade e é versionada; `dist/` é saída e pode ser apagada.
+
 ### 6.3 Semântica dos campos
 
 | Bloco | Campo | Papel |

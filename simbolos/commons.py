@@ -99,6 +99,52 @@ def imageinfo(titulos: list[str]) -> dict[str, dict]:
     return saida
 
 
+def sha1_por_titulo(titulos: list[str]) -> dict[str, dict]:
+    """imageinfo com sha1, em lotes de 50. Devolve {chave(titulo): info}.
+
+    Só o sha1 e o url: a conferência de procedência não precisa de extmetadata, e
+    pedir menos deixa o lote mais barato.
+    """
+    saida: dict[str, dict] = {}
+    validos = [t for t in titulos if "://" not in t and t.lower().startswith("file:")]
+    for i in range(0, len(validos), 50):
+        lote = validos[i : i + 50]
+        try:
+            dados = _api(
+                {
+                    "action": "query",
+                    "prop": "imageinfo",
+                    "titles": "|".join(lote),
+                    "iiprop": "sha1|url|size|timestamp",
+                }
+            )
+        except RuntimeError as exc:
+            print(f"    lote {i // 50} falhou: {exc}", flush=True)
+            continue
+        for pagina in dados.get("query", {}).get("pages", []):
+            if pagina.get("missing"):
+                continue
+            info = (pagina.get("imageinfo") or [{}])[0]
+            if not info:
+                continue
+            saida[_chave(pagina["title"])] = {**info, "title": pagina["title"]}
+        time.sleep(0.3)
+    return saida
+
+
+def titulo_do_sha1(sha1: str) -> str | None:
+    """Título atual de um arquivo pela SHA1, ou None se ele não existe mais.
+
+    Serve para separar renomeado de sumido: se o título derivado da URL não
+    resolve mas o sha1 está sob outro nome, os bytes continuam lá.
+    """
+    if not sha1:
+        return None
+    dados = _api({"action": "query", "list": "allimages", "aisha1": sha1.lower(), "ailimit": "1"})
+    achados = dados.get("query", {}).get("allimages") or []
+    return achados[0]["title"] if achados else None
+
+
 def _chave(titulo: str) -> str:
     return titulo.replace("_", " ").strip().lower()
 

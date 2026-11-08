@@ -1,9 +1,11 @@
 """Publicação local: baixar, validar, renderizar e montar a árvore de embed.
 
-Saída:
+Saída (descartável por convenção):
   dist/embed/v1/{brasao|bandeira}/{cod_ibge}.{svg,png,jpg}
-  dist/meta/v1/{brasao|bandeira}/{cod_ibge}.json   (sidecar do item)
   dist/catalogo.json                               (agregado, derivado)
+
+Fora da saída, porque é a verdade e não se regenera sem baixar de novo:
+  data/meta/v1/{brasao|bandeira}/{cod_ibge}.json   (sidecar do item)
 
 O SVG é servido como veio (sanitizado por validação), o PNG é 512×512 com fundo
 transparente e o JPG é 512×512 com fundo branco — nunca esticando a arte.
@@ -20,13 +22,14 @@ import subprocess
 import tempfile
 import threading
 import time
+from datetime import UTC, datetime
 from pathlib import Path
 from urllib.parse import urlparse
 
 import httpx
 from PIL import Image
 
-from . import DATA, USER_AGENT
+from . import DATA, META, USER_AGENT, guarda
 
 LADO = 512
 RESPIRO = 0.02
@@ -158,12 +161,36 @@ def sha256(conteudo: bytes) -> str:
     return hashlib.sha256(conteudo).hexdigest()
 
 
+def sha1(conteudo: bytes) -> str:
+    """SHA1 do arquivo de origem: é o formato que a API do Commons publica.
+
+    Sem ele, conferir procedência custa rebaixar 1,3 GB; com ele, custa uma
+    requisição por lote de 50 itens.
+    """
+    return hashlib.sha1(conteudo).hexdigest()
+
+
+def agora() -> str:
+    return datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def mtime(arquivo: Path) -> str:
+    """Data de captura lida do sistema de arquivos, em UTC.
+
+    É a hora em que o arquivo foi gravado, não a da execução. Para a safra
+    antiga é a única data de captura que existe — e inventar outra seria pior
+    que declarar a origem do dado em `captura_fonte`.
+    """
+    return datetime.fromtimestamp(arquivo.stat().st_mtime, UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
 def _relativo(arquivo: Path) -> str:
     """Caminho legivel no registro: relativo a `data/` quando possivel."""
     return str(arquivo.relative_to(DATA)) if arquivo.is_relative_to(DATA) else str(arquivo)
 
 
-def _caminho_fonte(fonte: dict | None) -> Path | None:
+def caminho_fonte(fonte: dict | None) -> Path | None:
+    """Onde o original foi arquivado, a partir do campo `fonte` do sidecar."""
     arq = (fonte or {}).get("arquivo")
     if not arq:
         return None
@@ -232,16 +259,26 @@ def publicar_item(item: dict, tipo: str, raiz: Path, fontes: Path | None = None)
     (pasta / f"{item['codigo_ibge']}.png").write_bytes(png)
     (pasta / f"{item['codigo_ibge']}.jpg").write_bytes(jpg)
     hash_origem = sha256(conteudo)
+    hash1_origem = sha1(conteudo)
     registro.update(
         {
             "estado": "publicado",
             "sha256_origem": hash_origem,
+            "sha1_origem": hash1_origem,
+            "bytes_origem": len(conteudo),
+            # D7: a procedência é capturada, com data. `relogio` distingue este
+            # caminho do preenchimento retroativo, que só tem o mtime do arquivo.
+            "capturado_em": agora(),
+            "captura_fonte": "relogio",
             "rendicoes": {
                 "png": {"bytes": len(png), "sha256": sha256(png), "lado": LADO},
                 "jpg": {"bytes": len(jpg), "sha256": sha256(jpg), "lado": LADO},
             },
         }
     )
+    titulo = guarda.titulo_commons(dados["url"])
+    if titulo:
+        registro["titulo_commons"] = titulo
     if (pasta / f"{item['codigo_ibge']}.svg").exists():
         # No SVG o arquivo publicado e a fonte, byte a byte: nao ha o que duplicar.
         registro["rendicoes"]["svg"] = {"bytes": len(conteudo), "sha256": hash_origem}
@@ -253,24 +290,29 @@ def publicar_item(item: dict, tipo: str, raiz: Path, fontes: Path | None = None)
             "arquivo": _relativo(arquivo),
             "bytes": len(conteudo),
             "sha256": hash_origem,
+            "sha1": hash1_origem,
         }
+    registro["guarda"] = guarda.classificar(registro)
     return registro
 
 
-def _pasta_meta(raiz: Path, tipo: str) -> Path:
-    return raiz / "meta" / "v1" / tipo
+def _pasta_meta(tipo: str) -> Path:
+    return META / tipo
 
 
-def gravar_meta(raiz: Path, registro: dict) -> None:
+def gravar_meta(registro: dict) -> None:
     """Sidecar por ativo: a verdade sobre um item, ao lado do catálogo agregado.
 
     O catálogo é derivado e escrito em lote; o sidecar é escrito assim que o
     item fica publicado. Se o processo morrer no meio, o próximo run reconstrói
     o agregado a partir dos sidecars sem baixar nada de novo.
+
+    Mora em `data/meta`, não em `dist`: `dist` é saída e pode ser apagada, e a
+    procedência não pode ser regenerada sem rebaixar o arquivo.
     """
     if registro.get("estado") != "publicado":
         return
-    pasta = _pasta_meta(raiz, registro["tipo"])
+    pasta = _pasta_meta(registro["tipo"])
     pasta.mkdir(parents=True, exist_ok=True)
     destino = pasta / f"{registro['codigo_ibge']}.json"
     tmp = destino.with_suffix(".json.tmp")
@@ -278,13 +320,12 @@ def gravar_meta(raiz: Path, registro: dict) -> None:
     tmp.replace(destino)
 
 
-def indice_meta(raiz: Path) -> dict[tuple[str, str], dict]:
+def indice_meta() -> dict[tuple[str, str], dict]:
     """Todos os itens publicados segundo os sidecars."""
     indice: dict[tuple[str, str], dict] = {}
-    base = raiz / "meta" / "v1"
-    if not base.exists():
+    if not META.exists():
         return indice
-    for arq in base.rglob("*.json"):
+    for arq in META.rglob("*.json"):
         try:
             reg = json.loads(arq.read_text())
         except OSError, ValueError:
@@ -311,10 +352,20 @@ def registro_do_disco(item: dict, tipo: str, raiz: Path) -> dict | None:
         conteudo = arq.read_bytes()
         rendicoes[ext] = {"bytes": len(conteudo), "sha256": sha256(conteudo), "lado": LADO}
     svg = pasta / f"{item['codigo_ibge']}.svg"
+    origem: dict = {}
     if svg.exists():
         conteudo = svg.read_bytes()
         rendicoes["svg"] = {"bytes": len(conteudo), "sha256": sha256(conteudo)}
-    return {
+        # No SVG o arquivo publicado é a fonte, byte a byte: dá para atestar o
+        # hash sem rebaixar nada. No raster não dá — a rendition não é o original.
+        origem = {
+            "sha256_origem": rendicoes["svg"]["sha256"],
+            "sha1_origem": sha1(conteudo),
+            "bytes_origem": len(conteudo),
+            "capturado_em": mtime(svg),
+            "captura_fonte": "mtime",
+        }
+    registro = {
         "codigo_ibge": item["codigo_ibge"],
         "uf": item["uf"],
         "municipio": item["municipio"],
@@ -328,7 +379,13 @@ def registro_do_disco(item: dict, tipo: str, raiz: Path) -> dict | None:
         "sha256_origem": None,
         "reconstruido": True,
         "rendicoes": rendicoes,
+        **origem,
     }
+    titulo = guarda.titulo_commons(registro["origem"])
+    if titulo:
+        registro["titulo_commons"] = titulo
+    registro["guarda"] = guarda.classificar(registro)
+    return registro
 
 
 def gravar_catalogo(destino: Path, final: dict[tuple[str, str], dict]) -> None:
@@ -374,7 +431,7 @@ def publicar(
     # Interromper a execucao nao custa nem download nem requisicao nova — e o
     # catalogo em disco pode estar atrasado em horas sem prejuizo.
     anterior = raiz / "catalogo.json"
-    indice = indice_meta(raiz)
+    indice = indice_meta()
     if anterior.exists():
         for reg in json.loads(anterior.read_text()):
             chave = (reg.get("codigo_ibge"), reg.get("tipo"))
@@ -386,7 +443,7 @@ def publicar(
             # assim que aparece um catalogo com a procedencia completa.
             if atual is None or (atual.get("sha256_origem") is None and reg.get("sha256_origem")):
                 indice[chave] = reg
-                gravar_meta(raiz, reg)
+                gravar_meta(reg)
 
     final: dict[tuple[str, str], dict] = dict(indice)
     for item in itens:
@@ -404,14 +461,14 @@ def publicar(
             else:
                 reg = registro_do_disco(item, tipo, raiz)
                 if reg is not None:
-                    gravar_meta(raiz, reg)
+                    gravar_meta(reg)
                     resumo["pulados"] += 1
                     resumo["reconstruidos"] += 1
 
             if reg is None:
                 reg = publicar_item(item, tipo, raiz)
                 if reg["estado"] == "publicado":
-                    gravar_meta(raiz, reg)
+                    gravar_meta(reg)
                     resumo["publicados"] += 1
                 else:
                     resumo["falhas"] += 1
@@ -481,7 +538,7 @@ def baixar_fontes(
         if reg.get("formato_origem") == "svg":
             resumo["puladas"] += 1
             continue
-        atual = _caminho_fonte(reg.get("fonte"))
+        atual = caminho_fonte(reg.get("fonte"))
         if atual is not None and atual.exists():
             resumo["puladas"] += 1
             continue
@@ -494,6 +551,7 @@ def baixar_fontes(
             continue
 
         obtido = sha256(conteudo)
+        obtido1 = sha1(conteudo)
         esperado = reg.get("sha256_origem")
         mime = reg.get("formato_origem") or ""
         if esperado and esperado != obtido:
@@ -512,16 +570,20 @@ def baixar_fontes(
                 "arquivo": _relativo(arquivo),
                 "bytes": len(conteudo),
                 "sha256": obtido,
+                "sha1": obtido1,
             }
+            reg["sha256_origem"] = obtido
+            reg["sha1_origem"] = obtido1
+            reg["bytes_origem"] = len(conteudo)
             if not esperado:
                 # Item reconstruido do disco: o hash so existe a partir de agora.
-                reg["sha256_origem"] = obtido
                 reg["origem_reverificada"] = True
             resumo["baixadas"] += 1
             resumo["bytes"] += len(conteudo)
 
+        reg["guarda"] = guarda.classificar(reg)
         if raiz is not None:
-            gravar_meta(raiz, reg)
+            gravar_meta(reg)
         if resumo["itens"] % 50 == 0:
             if destino_catalogo is not None:
                 gravar_catalogo(destino_catalogo, final)

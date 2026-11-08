@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.0 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.1 | Updated: 2026-11-08 -->
 
 # Technical Domain — Símbolos BR
 
@@ -28,6 +28,9 @@ uv run python -m simbolos spike            # rendimento na amostra estratificada
 uv run python -m simbolos triar            # um candidato por município -> catálogo
 uv run python -m simbolos publicar         # baixa + renderiza + dist/embed/v1
 uv run python -m simbolos fontes           # rebaixa e arquiva o original em data/fontes
+uv run python -m simbolos atestar          # sha1/bytes/data de captura nos sidecars (sem rede)
+uv run python -m simbolos verificar-fonte  # confere os 8.379 no Commons por sha1 (~3 min)
+uv run python -m simbolos risco            # data/risco.json: quem está só no R2
 uv run python -m simbolos urls             # carimba URLs públicas no catálogo
 uv run python -m simbolos r2               # sobe embed/ + meta/ para simbolos-br-cdn
 uv run python -m simbolos acervo           # backup privado em simbolos-br-acervo
@@ -54,15 +57,17 @@ uv run python -m simbolos maritaca extrair --url … [--flex]
 
 ```
 simbolos/          pacote (config, catalogo, nomes, modelos, commons, wikidata,
-                   triagem, publicacao, leis, visao, maritaca, provedores, cli)
+                   triagem, publicacao, procedencia, guarda, leis, visao,
+                   maritaca, provedores, cli)
 data/
   estados.json, municipios.json      catálogo IBGE (versionado)
   _coleta/                           JSONL bruto (gitignored, regenerável)
   _catalogo/catalogo.json            um item por município/tipo
   _spike/                            relatórios e conjuntos rotulados
-dist/                                publicação local (gitignored)
+  meta/v1/{brasao|bandeira}/{cod}.json   sidecar por ativo: a verdade (versionada)
+  risco.json                         quem não tem cópia independente (gerado)
+dist/                                publicação local (descartável)
   embed/v1/{brasao|bandeira}/{cod}.{svg,png,jpg}
-  meta/v1/{brasao|bandeira}/{cod}.json   sidecar por ativo: a verdade do item
   catalogo.json                      agregado derivado dos sidecars
 data/evidencias/pdf/                 PDF do ato oficial (gitignored; backup no R2)
 data/fontes/v1/{brasao|bandeira}/{cod}.{ext}   original byte a byte (gitignored)
@@ -113,6 +118,9 @@ GET https://coletivo.dev.br/simbolos/api/v1/malha/{lat}_{lon}.json
 - `cod_ibge` = 7 dígitos (município) ou 2 (estado).
 - Todos os três formatos existem para todo item publicado; formato ausente = 404.
 - `meta.json` é autossuficiente: traz `urls` e a procedência; cache de 1 h.
+  Desde D21 também traz `sha1_origem`, `bytes_origem`, `capturado_em`,
+  `titulo_commons`, `verificacao` e `guarda` — o consumidor confere o arquivo
+  contra a origem sem baixar nada.
 - No R2: `Cache-Control` e `Content-Type` por objeto, metadados
   `sha256`/`licenca`/`cod-ibge`/`tipo`, e CORS (`infra/r2-cdn-cors.json`).
   No host `simbolos.coletivo.dev.br`, Transform Rule aplica `nosniff`,

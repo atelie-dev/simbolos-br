@@ -22,7 +22,7 @@ from pathlib import Path
 import boto3
 from botocore.config import Config
 
-from . import DATA
+from . import DATA, META
 
 # Cache longo com revalidação: o caminho é o contrato, o conteúdo muda por purge.
 CACHE_IMAGEM = "public, max-age=604800, stale-while-revalidate=86400"
@@ -136,7 +136,7 @@ def objetos_cdn(raiz: Path, registros: list[dict]) -> list[tuple[Path, str, str,
                 continue
             sha = (rendicoes.get(ext) or {}).get("sha256") or sha256_arquivo(local)
             itens.append((local, f"embed/v1/{tipo}/{cod}.{ext}", sha, reg))
-        meta = raiz / "meta" / "v1" / tipo / f"{cod}.json"
+        meta = META / tipo / f"{cod}.json"
         if meta.exists():
             itens.append((meta, f"meta/v1/{tipo}/{cod}.json", sha256_arquivo(meta), reg))
     return itens

@@ -24,12 +24,14 @@ from . import (
     centros,
     commons,
     config,
+    guarda,
     indice,
     leis,
     lotes,
     malha,
     maritaca,
     pix,
+    procedencia,
     provedores,
     publicacao,
     r2,
@@ -747,6 +749,102 @@ def fontes_cmd(
     console.print(f"-> {publicacao.FONTES_REL}/{{brasao|bandeira}}/{{cod}}.{{ext}}")
 
 
+@app.command("atestar")
+def atestar_cmd(
+    limite: Annotated[int, typer.Option(help="0 = todos")] = 0,
+    uf: Annotated[str | None, typer.Option(help="sigla da UF")] = None,
+) -> None:
+    """Completa os sidecars com sha1, bytes e data de captura — sem rede.
+
+    Lê o arquivo já guardado (o raster em `data/fontes`, o SVG publicado) e
+    atesta o que está em disco. É o passo que torna a conferência barata: sem o
+    sha1 gravado, comparar com o Commons custaria rebaixar 1,3 GB.
+    """
+    with console.status("lendo os arquivos guardados..."):
+        r = procedencia.atestar(uf=uf, limite=limite)
+
+    t = Table(title="atestado")
+    t.add_column("medida")
+    t.add_column("valor", justify="right")
+    t.add_row("itens", str(r["itens"]))
+    t.add_row("atestados", str(r["atestados"]))
+    t.add_row("sem arquivo em disco", str(r["sem_arquivo"]))
+    t.add_row("conflito com o sha256", str(r["divergentes"]))
+    t.add_row("lido", f"{r['bytes'] / 1024 / 1024:.0f} MB")
+    console.print(t)
+    if r["divergentes"]:
+        console.print("atencao: o arquivo em disco nao e o capturado — campo conflito_local")
+    console.print("-> data/meta/v1/{brasao|bandeira}/{cod}.json")
+
+
+@app.command("verificar-fonte")
+def verificar_fonte_cmd(
+    limite: Annotated[int, typer.Option(help="0 = todos")] = 0,
+    uf: Annotated[str | None, typer.Option(help="sigla da UF")] = None,
+    forcar: Annotated[
+        bool, typer.Option("--forcar/--incremental", help="reconfere os ja verificados")
+    ] = False,
+) -> None:
+    """Confere cada item contra o Commons pelo sha1, sem baixar arquivo.
+
+    Separa o que continua igual do que o Commons re-enviou (divergente), do que
+    mudou de nome (renomeado) e do que nao existe mais (sumiu). Rode `atestar`
+    antes: sem sha1 no sidecar nao ha o que comparar.
+    """
+    with console.status("conferindo no Commons..."):
+        r = procedencia.verificar_fonte(uf=uf, limite=limite, forcar=forcar)
+
+    t = Table(title="procedencia conferida")
+    t.add_column("estado")
+    t.add_column("itens", justify="right")
+    for estado in ("igual", "divergente", "renomeado", "sumiu"):
+        t.add_row(estado, str(r[estado]))
+    t.add_row("pulados (ja verificados)", str(r["pulados"]))
+    t.add_row("sem sha1 (rode atestar)", str(r["sem_hash"]))
+    t.add_row("sem titulo no Commons", str(r["sem_titulo"]))
+    console.print(t)
+    if r["divergente"] or r["sumiu"]:
+        console.print("atencao: itens sem espelho no Commons — rode `simbolos risco`")
+    console.print(f"{r['lotes']} lotes de 50 titulos")
+
+
+@app.command("risco")
+def risco_cmd(
+    destino: Annotated[Path, typer.Option(help="relatorio de saida")] = DATA / "risco.json",
+) -> None:
+    """Lista o que esta guardado so no R2, sem outra copia independente."""
+    r = guarda.relatorio(list(publicacao.indice_meta().values()))
+    tmp = destino.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(r, ensure_ascii=False, indent=1) + "\n")
+    tmp.replace(destino)
+
+    resumo = r["resumo"]
+    t = Table(title="guarda do acervo")
+    t.add_column("medida")
+    t.add_column("valor", justify="right")
+    t.add_row("itens", str(resumo["itens"]))
+    t.add_row("risco alto", str(resumo["risco_alto"]))
+    t.add_row("risco baixo", str(resumo["risco_baixo"]))
+    console.print(t)
+
+    motivos = Table(title="por motivo")
+    motivos.add_column("motivo")
+    motivos.add_column("itens", justify="right")
+    for motivo, n in resumo["por_motivo"].items():
+        motivos.add_row(motivo, str(n))
+    console.print(motivos)
+
+    if resumo["risco_alto"]:
+        por_uf = Counter(x["uf"] for x in r["risco_alto"])
+        ufs = Table(title="risco alto por UF")
+        ufs.add_column("UF")
+        ufs.add_column("itens", justify="right")
+        for uf, n in sorted(por_uf.items()):
+            ufs.add_row(uf or "?", str(n))
+        console.print(ufs)
+    console.print(f"-> {destino}")
+
+
 @app.command("r2")
 def r2_cmd(
     arquivo: Annotated[Path, typer.Option(help="catalogo publicado")] = DATA.parent
@@ -907,7 +1005,7 @@ def urls_cmd(
             reg["urls"] = config.urls_do_item(reg)
             # O sidecar e a verdade do item: se ele nao tem a URL, o consumidor
             # precisa baixar o catalogo inteiro para descobrir onde o arquivo esta.
-            publicacao.gravar_meta(raiz, reg)
+            publicacao.gravar_meta(reg)
     arquivo.write_text(json.dumps(registros, ensure_ascii=False, indent=1) + "\n")
     console.print(f"{sum(1 for r in registros if r.get('urls'))} itens com URL")
     console.print(f"site: {config.SITE_BASE}")
