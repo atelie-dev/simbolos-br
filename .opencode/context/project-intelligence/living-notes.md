@@ -34,8 +34,9 @@ com o bucket dele, sem Worker e sem mexer neste. Configurável por `SITE_BASE` /
 | Triagem | pronta: `data/_catalogo/catalogo.json` (4.790 municípios com item) |
 | Crawl de sites oficiais | piloto em 39 municípios: 44% com símbolo, 3% com ato |
 | Publicação local | **concluída**: 8.369 de 8.390 (11 falhas: 3 `svg_inseguro`, 4 `render`, 4 `svg_sem_raiz`), 1,3 GB |
-| Sidecars + URLs | 8.379 sidecars em `dist/meta/v1`; 8.379 itens com URL |
-| R2 | **no ar**: `simbolos-br-cdn` (público) e `simbolos-br-acervo` (privado) |
+| Sidecars + URLs | 8.379 sidecars com `urls` no R2 e cache de 1 h |
+| Fontes originais | 7.209 rasters em `data/fontes` (1,3 GB), com backup no bucket privado |
+| R2 | **no ar**: `simbolos-br-cdn` (1,32 GB, domínio público) e `simbolos-br-acervo` (1,30 GB, **sem domínio**) |
 | Upload (`simbolos r2` / `acervo`) | implementado e verificado com 6 objetos |
 | Domínio `coletivo.dev.br` | **ativo** no Cloudflare; `simbolos.coletivo.dev.br` (CNAME proxiado para `public.r2.dev`) serve o bucket com CSP/nosniff |
 | Token Cloudflare | Pages, R2 custom domain, Zone settings, Zone Config e Cache Purge: todos liberados |
@@ -50,21 +51,17 @@ um candidato. Baldes: livre 7.101, compartilha 1.220, pendente 69.
 
 ## Próximo passo, em ordem
 
-1. **Terminar a publicação** (`simbolos publicar`) e rodar `simbolos urls` para
-   carimbar as URLs no catálogo final. A publicação é retomável e mescla o
-   catálogo, então pode ser interrompida à vontade. Depois do lote, nesta ordem:
-   `publicar` de novo (grava os sidecars de todos os itens a partir do catálogo,
-   com `sha256_origem` real), `simbolos fontes` (rebaixa os originais para
-   `data/fontes/`, confere o hash e marca divergência) e só então `simbolos urls`.
-2. **Portão de visão** nos 915 itens que precisam (`simbolos visao`, motor
+1. **Portão de visão** nos 915 itens que precisam (`simbolos visao`, motor
    `decisao`), e nos achados do crawl oficial.
-3. **Upload para o R2** (`simbolos r2` e `simbolos acervo`) depois de `urls`, e o
-   redirect `/m/{cod}`. CDN e cabeçalhos já no ar em
-   `simbolos.coletivo.dev.br`; falta só o `acervo` (backup) depois do `fontes`.
-4. **Site** (Astro, estático): landing, busca, páginas de município, cobertura,
-   downloads. O `/sobre` credita o Ateliê, informa AGPL no código e licença por
-   arquivo no acervo.
-5. **Pacotes** fino (índice + URL) e gordo (192 px para DANFSE).
+2. **`/baixar`**: pacotes por estado e formato, `brasil-livre.zip` (só balde
+   livre) e `danfse-192.zip`. É a última rota do plano que falta no site.
+3. **`/m/{cod}`** como redirect de verdade: `_redirects` do Pages só aceita
+   2.100 — precisa Bulk Redirects na zona ou Worker.
+4. **Crawl oficial** nos 1.218 municípios restantes (~536 brasões por ~US$ 1).
+5. **Símbolos dos estados**: os 27 nunca entraram na coleta; hoje a página do
+   estado diz isso explicitamente.
+6. **CI**: ligar o projeto Pages ao GitHub exige gerar o índice no build, o que
+   depende do catálogo e dos PNGs — decisão à parte.
 
 ## Dívidas conhecidas
 
