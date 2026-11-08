@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3535101",
+ "uf": "SP",
+ "municipio": "Palmares Paulista",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Palmares_Paulista.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Emerson Silva",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3de07997ea85e54a6c348911022f70c0928432838c7b1e9d9cbe1f8273268595",
+ "rendicoes": {
+  "png": {
+   "bytes": 183938,
+   "sha256": "4d6d3c03f828ffa5d51cd3155a18edbb2da601dd3f34549b29b21edd7bf79aa9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 75771,
+   "sha256": "8910d365c90c32a82c6a37fa306f94e815f27bb2f765ca52b7551531ec682b74",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3535101.png",
+  "bytes": 68793,
+  "sha256": "3de07997ea85e54a6c348911022f70c0928432838c7b1e9d9cbe1f8273268595"
+ },
+ "sha1_origem": "0b8b8c72d9a59f3dbc826bc5eb72336674e4d451",
+ "bytes_origem": 68793,
+ "capturado_em": "2026-11-08T06:33:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Palmares_Paulista.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:34Z",
+  "estado": "igual",
+  "sha1_commons": "0b8b8c72d9a59f3dbc826bc5eb72336674e4d451"
+ }
+}

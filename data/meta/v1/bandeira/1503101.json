@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1503101",
+ "uf": "PA",
+ "municipio": "Gurupá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bandeira_Gurup%C3%A1_-_PA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Gazilion",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "e2967dc82b6051dee9545cb7faa8c48df41f4be9d99a081aa478552b73b7cbb8",
+ "rendicoes": {
+  "png": {
+   "bytes": 5852,
+   "sha256": "eea2f6f0be24d2d4b52509e655b121f8683dea7b7c70ff747cff50051bd14131",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10485,
+   "sha256": "7e09e18e30b42cf4e3f83ba82370dd239cbe0594e655ec4a452e077b1bb938ba",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 7616,
+   "sha256": "e2967dc82b6051dee9545cb7faa8c48df41f4be9d99a081aa478552b73b7cbb8"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1503101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1503101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1503101.jpg"
+ },
+ "sha1_origem": "d367908f25aa25f804bd260d8328510d2264cdfe",
+ "bytes_origem": 7616,
+ "capturado_em": "2026-11-08T02:33:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Gurupá_-_PA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "d367908f25aa25f804bd260d8328510d2264cdfe"
+ }
+}

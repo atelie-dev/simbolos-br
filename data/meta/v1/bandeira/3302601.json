@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3302601",
+ "uf": "RJ",
+ "municipio": "Mangaratiba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bandeira_de_Mangaratiba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMM",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0e2933a78c1a0f81d887c8436f6849fefe66196307b9f1c559c7a0a611720220",
+ "rendicoes": {
+  "png": {
+   "bytes": 48151,
+   "sha256": "90262b5c083882afd7b399d9020aeac1449005dcee96dd2009f1de1d485e9214",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15923,
+   "sha256": "ca001a1ecac364bce65572308c03b72b3301e674502429ce4100b0e04d5825d9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3302601.jpg",
+  "bytes": 11182,
+  "sha256": "0e2933a78c1a0f81d887c8436f6849fefe66196307b9f1c559c7a0a611720220"
+ },
+ "sha1_origem": "54f94c743c802f0ae4821c50b82701cde1b2d519",
+ "bytes_origem": 11182,
+ "capturado_em": "2026-11-08T06:21:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Mangaratiba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "54f94c743c802f0ae4821c50b82701cde1b2d519"
+ }
+}

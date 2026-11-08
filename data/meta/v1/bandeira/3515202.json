@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3515202",
+ "uf": "SP",
+ "municipio": "Estrela d'Oeste",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_Estrela_d%27Oeste.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "dc0ee5582a2102867d04d4d12ba72b77f712de238d98eadc13c69f7e3ea66910",
+ "rendicoes": {
+  "png": {
+   "bytes": 17393,
+   "sha256": "a82c0e7bc6f6b98b25ae3ccd334692154c65a4159595214cbe33fb7b98ecf670",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9052,
+   "sha256": "47b51eee61f5b510f57fd59e1803e48a6a55e7479baa51976ea27a6c2d66b548",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3515202.png",
+  "bytes": 15236,
+  "sha256": "dc0ee5582a2102867d04d4d12ba72b77f712de238d98eadc13c69f7e3ea66910"
+ },
+ "sha1_origem": "6e3506ac0877283a919d5a4ba72fb11f81cfc03d",
+ "bytes_origem": 15236,
+ "capturado_em": "2026-11-08T06:27:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Estrela_d'Oeste.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "6e3506ac0877283a919d5a4ba72fb11f81cfc03d"
+ }
+}

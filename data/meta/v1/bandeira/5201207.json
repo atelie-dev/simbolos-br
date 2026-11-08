@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5201207",
+ "uf": "GO",
+ "municipio": "Anhanguera",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bandeira_de_Anhanguera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Anhanguera",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "db59282de700784e7f298b5190af60693e41b5934460c6e678b9965bbca813fe",
+ "rendicoes": {
+  "png": {
+   "bytes": 27976,
+   "sha256": "0828c785c4a4e4ab18e9563d0dca269cf13d57156ea6c19371e2705cf5cd5e2e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11475,
+   "sha256": "c30b3f9415de4ddd984b6a674c10060d881b30a5f3866d7e982aefbb629e8184",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5201207.jpg",
+  "bytes": 10655,
+  "sha256": "db59282de700784e7f298b5190af60693e41b5934460c6e678b9965bbca813fe"
+ },
+ "sha1_origem": "e8e79c4506fd8a4313b6b601424af0cb40bca974",
+ "bytes_origem": 10655,
+ "capturado_em": "2026-11-08T07:16:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Anhanguera.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "e8e79c4506fd8a4313b6b601424af0cb40bca974"
+ }
+}

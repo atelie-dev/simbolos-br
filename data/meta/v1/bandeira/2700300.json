@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2700300",
+ "uf": "AL",
+ "municipio": "Arapiraca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bandeira_de_Arapiraca_-_AL.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3ff8cf0b348d077c75bb10e9fbb58d70b2acc58243dad2540cdedcd7b00582ac",
+ "rendicoes": {
+  "png": {
+   "bytes": 36018,
+   "sha256": "74052dbbe9f942938f16de8a34aed9e13fd1825cc68a48bdee70b30d8806924e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14679,
+   "sha256": "8c4d273e509be14a35f23d3ff47a0bed307aa7ff696163f095ba9e5461877551",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 417223,
+   "sha256": "3ff8cf0b348d077c75bb10e9fbb58d70b2acc58243dad2540cdedcd7b00582ac"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2700300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2700300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2700300.jpg"
+ },
+ "sha1_origem": "822c899a9705200a474473924e544b654fbb1132",
+ "bytes_origem": 417223,
+ "capturado_em": "2026-11-08T03:09:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Arapiraca_-_AL.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "822c899a9705200a474473924e544b654fbb1132"
+ }
+}

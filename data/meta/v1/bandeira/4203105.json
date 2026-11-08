@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4203105",
+ "uf": "SC",
+ "municipio": "Caibi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bandeira_caibi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Lucas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "855fd6dd4fd30ea9a929e65c06a9bd28ef4dc0ec86618902e4503ec3968a1e0c",
+ "rendicoes": {
+  "png": {
+   "bytes": 35650,
+   "sha256": "78aba355ae3fc33e970969d627a7a51e1828337dc6cde64b31161e5198dcb46f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8975,
+   "sha256": "0f523b726545b3007681a4337e11266ffc878bfb14641afe56157ee5c7a3ce25",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203105.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4203105.jpg",
+  "bytes": 7292,
+  "sha256": "855fd6dd4fd30ea9a929e65c06a9bd28ef4dc0ec86618902e4503ec3968a1e0c"
+ },
+ "sha1_origem": "854d8e39bb44453a4dad350dfa3620ac557a552b",
+ "bytes_origem": 7292,
+ "capturado_em": "2026-11-08T06:52:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_caibi.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "854d8e39bb44453a4dad350dfa3620ac557a552b"
+ }
+}

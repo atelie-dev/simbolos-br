@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3112406",
+ "uf": "MG",
+ "municipio": "Capetinga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Capetingamgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Capetinga",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3ea06978080b9d9b1a673e85da115c644474dc7c4527ee31ba4c1315c0dabee3",
+ "rendicoes": {
+  "png": {
+   "bytes": 76120,
+   "sha256": "3d799dfd7e423a01768a321fb7519422103d2b5b70c674b4eca3700635ffa700",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17207,
+   "sha256": "1ebd5507f3ba5191b3f84fe00d796eb76355e120c5438e0958fdf394afafb22b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3112406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3112406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3112406.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3112406.jpg",
+  "bytes": 12862,
+  "sha256": "3ea06978080b9d9b1a673e85da115c644474dc7c4527ee31ba4c1315c0dabee3"
+ },
+ "sha1_origem": "895c539870c41d36d13a3d108553fb6c4408602f",
+ "bytes_origem": 12862,
+ "capturado_em": "2026-11-08T06:02:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Capetingamgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "895c539870c41d36d13a3d108553fb6c4408602f"
+ }
+}

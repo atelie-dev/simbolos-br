@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2210607",
+ "uf": "PI",
+ "municipio": "São Raimundo Nonato",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandeira-sao-raimundo-nonato.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "81d17f5d534b8a13f9815d75a01cfd3dd181245f7b1cab38c0e4e0a770a11c23",
+ "rendicoes": {
+  "png": {
+   "bytes": 59991,
+   "sha256": "fd97e0c080ce71527e97589087379ddc0b4b061883b4fe429d7d95e446fa777a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25718,
+   "sha256": "94bccc0b4db53de4da9967e2464d02afda84c55ae1b4bc8812c555682618bfc9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1320046,
+   "sha256": "81d17f5d534b8a13f9815d75a01cfd3dd181245f7b1cab38c0e4e0a770a11c23"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210607.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210607.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210607.jpg"
+ },
+ "sha1_origem": "6c831de2fc0a830a7bf2befbb1f2402cb70c3203",
+ "bytes_origem": 1320046,
+ "capturado_em": "2026-11-08T02:43:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-sao-raimundo-nonato.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "6c831de2fc0a830a7bf2befbb1f2402cb70c3203"
+ }
+}

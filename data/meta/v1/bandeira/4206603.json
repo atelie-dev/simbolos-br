@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4206603",
+ "uf": "SC",
+ "municipio": "Guarujá do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bandeira_GuarujadoSul_SantaCatarina_Brasil2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Guarujá do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b176055c232270691913b6930004ab16e5c62b8fb4b3d2ff9c2ca454312ecbbe",
+ "rendicoes": {
+  "png": {
+   "bytes": 36980,
+   "sha256": "e52d3549ab781d796d8562d8fbd49c3216651781c9d139d8eed9ab07d5417ebc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11810,
+   "sha256": "28619796f94bd977a48ede27ac2a1c8cedefc5c22db281cd26f4d329920b0c63",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4206603.jpg",
+  "bytes": 7168,
+  "sha256": "b176055c232270691913b6930004ab16e5c62b8fb4b3d2ff9c2ca454312ecbbe"
+ },
+ "sha1_origem": "d9b1d506a3424c97b99b5b94515657e134646647",
+ "bytes_origem": 7168,
+ "capturado_em": "2026-11-08T06:53:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_GuarujadoSul_SantaCatarina_Brasil2.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "d9b1d506a3424c97b99b5b94515657e134646647"
+ }
+}

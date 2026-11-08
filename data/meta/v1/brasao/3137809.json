@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3137809",
+ "uf": "MG",
+ "municipio": "Lambari",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Brasao_lambari_mg100.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "165073ef5a9c5620e1cf5722f20e137ac93bc285344c3f619c2995bcfb32bf5d",
+ "rendicoes": {
+  "png": {
+   "bytes": 35691,
+   "sha256": "90e69ab6fa431bc900258f2a2f448bb54e1f814abdab0f22ae9d8b5021595d87",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9048,
+   "sha256": "fc656243d9f2e6948391e813d64bbb97aae1b715e6495d0a1b6c7d8fc29bcbd1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3137809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3137809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3137809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3137809.jpg",
+  "bytes": 8943,
+  "sha256": "165073ef5a9c5620e1cf5722f20e137ac93bc285344c3f619c2995bcfb32bf5d"
+ },
+ "sha1_origem": "f275e9794a0920bfee18c49daddd5064c35dbfeb",
+ "bytes_origem": 8943,
+ "capturado_em": "2026-11-08T06:10:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_lambari_mg100.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "f275e9794a0920bfee18c49daddd5064c35dbfeb"
+ }
+}

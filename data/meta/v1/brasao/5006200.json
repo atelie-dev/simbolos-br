@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5006200",
+ "uf": "MS",
+ "municipio": "Nova Andradina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bras%C3%A3o_Nova_Andradina%2C_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "prefeitura de Nova Andradina",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b84de9a14216455995394fb27fd7d2ef85899d0e5d82ccc5d827cdfa7ae38626",
+ "rendicoes": {
+  "png": {
+   "bytes": 15484,
+   "sha256": "bc483388ceeded88c9be0be26ad3c275ed3ca417dcda1f45435bc8fe30b7b691",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4739,
+   "sha256": "a04124552412812d0eca02cf846bff2aaec2792c30e5c5b8505157f04a35e3b0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5006200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5006200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5006200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5006200.jpg",
+  "bytes": 3581,
+  "sha256": "b84de9a14216455995394fb27fd7d2ef85899d0e5d82ccc5d827cdfa7ae38626"
+ },
+ "sha1_origem": "596b8f5bc2d40cefd0501cda6578c8a616fb1e78",
+ "bytes_origem": 3581,
+ "capturado_em": "2026-11-08T07:13:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Nova_Andradina,_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "596b8f5bc2d40cefd0501cda6578c8a616fb1e78"
+ }
+}

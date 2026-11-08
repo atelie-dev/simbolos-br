@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3145109",
+ "uf": "MG",
+ "municipio": "Nova Resende",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bandeira_nova_resende.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nova Resende",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0b65b5ea43581019c703205678f2c3a4060e08d42fa3210242cc458429c6285e",
+ "rendicoes": {
+  "png": {
+   "bytes": 52788,
+   "sha256": "bacef0a90cf13cf7a5c6b8d1510152e8bfb986424f5a7c4cd751a747b39c68cb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20049,
+   "sha256": "bace5a3631f29f301dc72b68f29727fd99b93f0d4bef9a2c76899a312db00a81",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3145109.jpg",
+  "bytes": 45841,
+  "sha256": "0b65b5ea43581019c703205678f2c3a4060e08d42fa3210242cc458429c6285e"
+ },
+ "sha1_origem": "d96f18390b33ef88ef3032b928041c3920dfee0f",
+ "bytes_origem": 45841,
+ "capturado_em": "2026-11-08T06:12:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_nova_resende.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:22Z",
+  "estado": "igual",
+  "sha1_commons": "d96f18390b33ef88ef3032b928041c3920dfee0f"
+ }
+}

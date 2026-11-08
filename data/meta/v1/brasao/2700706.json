@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2700706",
+ "uf": "AL",
+ "municipio": "Batalha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bras%C3%A3o_Batalha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5b1f233153249fa87b1b69bef0700450a35a39c7c75df1562b2ec5b30f8d654a",
+ "rendicoes": {
+  "png": {
+   "bytes": 26179,
+   "sha256": "53bb8a6e2b4083a3923d2ef38f9dfedad775a9d1500f7ab4a46cd1dbe9ef4c11",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8154,
+   "sha256": "57873e50b383395d7b34da14c749a246d37a36c887db6f06efe9666f7537c985",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2700706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2700706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2700706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2700706.jpg",
+  "bytes": 43139,
+  "sha256": "5b1f233153249fa87b1b69bef0700450a35a39c7c75df1562b2ec5b30f8d654a"
+ },
+ "sha1_origem": "3d7b4cfa0eb2baadb6b1cb7b66b97da08e6487e3",
+ "bytes_origem": 43139,
+ "capturado_em": "2026-11-08T05:47:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Batalha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "3d7b4cfa0eb2baadb6b1cb7b66b97da08e6487e3"
+ }
+}

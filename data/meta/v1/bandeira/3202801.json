@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3202801",
+ "uf": "ES",
+ "municipio": "Itapemirim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bandeira_Itapemirim.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Acweller",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3c5f25c8e2580beb81d2af947cff345d2b46c2ddae884b5da4e9855a4e875fe2",
+ "rendicoes": {
+  "png": {
+   "bytes": 57152,
+   "sha256": "331487724bdb0760abbf8a4622d90b3ad5f5b1fa0a4bdea9edd99066bca35151",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19537,
+   "sha256": "1f747bea199ed3479214714e7ac994ba5b9e855fe3dc4580c0b997fd8ed2450d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3202801.png",
+  "bytes": 17742,
+  "sha256": "3c5f25c8e2580beb81d2af947cff345d2b46c2ddae884b5da4e9855a4e875fe2"
+ },
+ "sha1_origem": "631c2c1801aa4776ba32e732c6aab77ce1bcd7db",
+ "bytes_origem": 17742,
+ "capturado_em": "2026-11-08T06:19:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itapemirim.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "631c2c1801aa4776ba32e732c6aab77ce1bcd7db"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4300901",
+ "uf": "RS",
+ "municipio": "Aratiba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bandeira_Aratiba.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Aratiba.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b6be1bb9133413d8422d733557e35147c6e28b305b913e18f2f477ecf8ad86a1",
+ "rendicoes": {
+  "png": {
+   "bytes": 28966,
+   "sha256": "90e3d4d3a90b13bc2b7b7c9c0b362cfa02daa0ba0e47cd2ee8585ba0de7ded11",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7257,
+   "sha256": "09db81fafce6d691475adf9ca1c9235da2c92f108148c9c52baac4e57e4d0dd7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4300901.png",
+  "bytes": 13886,
+  "sha256": "b6be1bb9133413d8422d733557e35147c6e28b305b913e18f2f477ecf8ad86a1"
+ },
+ "sha1_origem": "1afc261128992f4ef5943d499f7a70cae671fc79",
+ "bytes_origem": 13886,
+ "capturado_em": "2026-11-08T06:58:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Aratiba.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "1afc261128992f4ef5943d499f7a70cae671fc79"
+ }
+}

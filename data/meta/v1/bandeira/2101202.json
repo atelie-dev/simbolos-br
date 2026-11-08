@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2101202",
+ "uf": "MA",
+ "municipio": "Bacabal",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bandeira_de_Bacabal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Stramith",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e656662165248a4d74d5627bfb18d71433ed840255a1f424bd986958d9d85a3c",
+ "rendicoes": {
+  "png": {
+   "bytes": 27977,
+   "sha256": "9b55f1e99e61a9eedf67f241829cc00727d58616f10cc3e48668a1a645547010",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11770,
+   "sha256": "7f73efa9a563dd9289dff746175636d9e41edc01c3999035fc49113d9c31d48f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2101202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2101202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2101202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2101202.jpg",
+  "bytes": 7685,
+  "sha256": "e656662165248a4d74d5627bfb18d71433ed840255a1f424bd986958d9d85a3c"
+ },
+ "sha1_origem": "7bca114601c6dd36a65a55b78c213f59eef2c86e",
+ "bytes_origem": 7685,
+ "capturado_em": "2026-11-08T05:27:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bacabal.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "7bca114601c6dd36a65a55b78c213f59eef2c86e"
+ }
+}

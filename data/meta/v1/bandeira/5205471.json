@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5205471",
+ "uf": "GO",
+ "municipio": "Chapadão do Céu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bandeira_de_Chapad%C3%A3o_do_C%C3%A9u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Chapadão do Céu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f247ce1ffd75a93ba6004279776687c5833a365448d331a663c0b7f6ab9de384",
+ "rendicoes": {
+  "png": {
+   "bytes": 149953,
+   "sha256": "4e14ff234411b09098679ed60c11085be46a08906b4f9bc1a1cefd9827163ea1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31589,
+   "sha256": "fcdf00d94beb210247b05c4733cb55aed4ef6f62df83b5fb323d94cf845aa64f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205471.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205471.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205471.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5205471.jpg",
+  "bytes": 115175,
+  "sha256": "f247ce1ffd75a93ba6004279776687c5833a365448d331a663c0b7f6ab9de384"
+ },
+ "sha1_origem": "9d9d40e4623e02246f906bc3e0385b3ad56d87e1",
+ "bytes_origem": 115175,
+ "capturado_em": "2026-11-08T07:17:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Chapadão_do_Céu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "9d9d40e4623e02246f906bc3e0385b3ad56d87e1"
+ }
+}

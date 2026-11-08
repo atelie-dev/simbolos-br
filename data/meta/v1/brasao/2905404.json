@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2905404",
+ "uf": "BA",
+ "municipio": "Cairu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bras%C3%A3o_de_Cairu_BA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cairu",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a87384345fa59befb3d8b99d7ca9a7dbcda69a27350439d7107a5b59f21d0550",
+ "rendicoes": {
+  "png": {
+   "bytes": 275284,
+   "sha256": "aa5c568db12611b611299afb78edbc25f95cfcd165be7d8f67db98811e4800fe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 88677,
+   "sha256": "4925fa473abfc871279f31210bd15c8d433c3fe8aa869b228df0fa37fec5e3b5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2905404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2905404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2905404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2905404.png",
+  "bytes": 680342,
+  "sha256": "a87384345fa59befb3d8b99d7ca9a7dbcda69a27350439d7107a5b59f21d0550"
+ },
+ "sha1_origem": "a1ab4f78b1dfd096e011699b667daa5cd3000a28",
+ "bytes_origem": 680342,
+ "capturado_em": "2026-11-08T05:51:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cairu_BA.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "a1ab4f78b1dfd096e011699b667daa5cd3000a28"
+ }
+}

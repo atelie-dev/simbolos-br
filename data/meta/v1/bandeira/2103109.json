@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2103109",
+ "uf": "MA",
+ "municipio": "Cedral",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_de_cedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Fabio Lindoso",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1db86c744baa1d837379df9ff8a60fe25da4f7f6045068ba952c356ceb2c9c61",
+ "rendicoes": {
+  "png": {
+   "bytes": 67828,
+   "sha256": "c58c766f8ee6999775b10690472b427a4c107101f0953727d076743eb09cd959",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22196,
+   "sha256": "2d04fd51b795fff9fdbcefdc107dba9b08cd7c7a110f0ec786d57d1fd275b01f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2103109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2103109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2103109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2103109.jpg",
+  "bytes": 116522,
+  "sha256": "1db86c744baa1d837379df9ff8a60fe25da4f7f6045068ba952c356ceb2c9c61"
+ },
+ "sha1_origem": "048eeb3b012da6052f23141f8e50af9c748c9622",
+ "bytes_origem": 116522,
+ "capturado_em": "2026-11-08T05:27:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_cedral.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "048eeb3b012da6052f23141f8e50af9c748c9622"
+ }
+}

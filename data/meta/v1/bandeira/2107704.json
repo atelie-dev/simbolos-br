@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2107704",
+ "uf": "MA",
+ "municipio": "Paraibano",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bandeira_de_Paraibano_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Paraibano",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7c53f83a609ad6fd03b28e361e2a345e63cf3df6c443a2ed07db07d7bd59f2a1",
+ "rendicoes": {
+  "png": {
+   "bytes": 62526,
+   "sha256": "8e3ec5597bccf37892494f1278b2bd66bb8ae5e98b47ac4aefad450bc5334ec7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15928,
+   "sha256": "48579db477e02eeb4264536270a1938ffcab10bbd33b66353f6a3b74e4b0bef0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2107704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2107704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2107704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2107704.jpg",
+  "bytes": 21129,
+  "sha256": "7c53f83a609ad6fd03b28e361e2a345e63cf3df6c443a2ed07db07d7bd59f2a1"
+ },
+ "sha1_origem": "1e5b070e11486a34a4e80932ef9599cdb705465f",
+ "bytes_origem": 21129,
+ "capturado_em": "2026-11-08T05:28:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Paraibano_MA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "1e5b070e11486a34a4e80932ef9599cdb705465f"
+ }
+}

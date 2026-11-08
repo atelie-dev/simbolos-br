@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3106408",
+ "uf": "MG",
+ "municipio": "Belo Vale",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bras%C3%A3o_de_Belo_vale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Belo Vale",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4e751629db7679ff60a3def9f51d2b66b903abc1987d6f273e5fcb396ef029de",
+ "rendicoes": {
+  "png": {
+   "bytes": 213910,
+   "sha256": "076e5211d82bde5b9a42752885d67a67f74cf7972f1d44afc9a541436bb662dc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48737,
+   "sha256": "f16525a3ef06e0a6ac192b8ff878645dbdde164a9976bde347e1ba0c5f769f5a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3106408.jpg",
+  "bytes": 96014,
+  "sha256": "4e751629db7679ff60a3def9f51d2b66b903abc1987d6f273e5fcb396ef029de"
+ },
+ "sha1_origem": "f847bddb61700e21707c7f3d368c51e7110e9f9d",
+ "bytes_origem": 96014,
+ "capturado_em": "2026-11-08T06:00:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Belo_vale.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "f847bddb61700e21707c7f3d368c51e7110e9f9d"
+ }
+}

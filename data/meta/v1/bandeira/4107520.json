@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4107520",
+ "uf": "PR",
+ "municipio": "Esperança Nova",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bandeira_Esperan%C3%A7a_Nova.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7a46186d3c6f9ac24a2dfc07036b1d4fe714638c2a1f36647a16ae1096dae84c",
+ "rendicoes": {
+  "png": {
+   "bytes": 64082,
+   "sha256": "a917094c67fe4745362789e09c18d251ffc1d381421c188a4c2d059466e85fb7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24783,
+   "sha256": "79f53b079d5993ff9a9f52deec976c6df507e0e52d2c90c3d819e84adf6e961f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107520.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107520.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107520.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4107520.jpg",
+  "bytes": 94206,
+  "sha256": "7a46186d3c6f9ac24a2dfc07036b1d4fe714638c2a1f36647a16ae1096dae84c"
+ },
+ "sha1_origem": "131cc18622ae79079b3ad9d4b0e1e7f22ba6494f",
+ "bytes_origem": 94206,
+ "capturado_em": "2026-11-08T06:43:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Esperança_Nova.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "131cc18622ae79079b3ad9d4b0e1e7f22ba6494f"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4106902",
+ "uf": "PR",
+ "municipio": "Curitiba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bandeira_de_Curitiba.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ViniciusBR11; Prefeitura de Curitiba",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1e29c201e9bc5f671aabb99195cd413f5ceab68cedbb6db659548a16d85bf01b",
+ "rendicoes": {
+  "png": {
+   "bytes": 65099,
+   "sha256": "6162f1ff93490e5965e310e73a4b0236638e57b6960a615a7c19208e413090e8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33068,
+   "sha256": "b7369e2348087a0b80740c23269e6bbcd5bce0b60004af8736507ae11900f491",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 835842,
+   "sha256": "1e29c201e9bc5f671aabb99195cd413f5ceab68cedbb6db659548a16d85bf01b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4106902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4106902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4106902.jpg"
+ },
+ "sha1_origem": "adf1dabd27fb1e48275367466cc8206d1068e034",
+ "bytes_origem": 835842,
+ "capturado_em": "2026-11-08T04:23:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Curitiba.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "adf1dabd27fb1e48275367466cc8206d1068e034"
+ }
+}

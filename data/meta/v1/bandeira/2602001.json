@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2602001",
+ "uf": "PE",
+ "municipio": "Bodocó",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bandeira_de_Bodoc%C3%B3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a2f4f8ebfb24c7420578a47ee544403e51435f5b623d511ba340a4d4be3c6d78",
+ "rendicoes": {
+  "png": {
+   "bytes": 21432,
+   "sha256": "6524afffb305bf86e51083221f31e1db34443e08b6d13143abf610c893326bdc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11655,
+   "sha256": "a805f4809e25f1d7c1db3a0b9f1250fd23ff074ac9a6a1b63ff7e6eebed4a40d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 11216,
+   "sha256": "a2f4f8ebfb24c7420578a47ee544403e51435f5b623d511ba340a4d4be3c6d78"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602001.jpg"
+ },
+ "sha1_origem": "c567a6439cfa4f36767c405da9521b239054745f",
+ "bytes_origem": 11216,
+ "capturado_em": "2026-11-08T03:04:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bodocó.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "c567a6439cfa4f36767c405da9521b239054745f"
+ }
+}

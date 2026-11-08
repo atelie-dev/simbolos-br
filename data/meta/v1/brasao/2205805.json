@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2205805",
+ "uf": "PI",
+ "municipio": "Luzilândia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bras%C3%A3o_de_Luzil%C3%A2ndia_-_PI.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "84af0367bf25370c0030d5e0dd2894ea754c199ed04416ef384fc10ea8f0f54f",
+ "rendicoes": {
+  "png": {
+   "bytes": 135498,
+   "sha256": "f423c043562f5d0296583351f0c688dc778fddda20cb25f9d120a869ab881dae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 46549,
+   "sha256": "3ff79bffd5c3afb75a9e05a361b5bb8c4f7c2e6e50db1246ad8fcd8b581b87e0",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 128996,
+   "sha256": "84af0367bf25370c0030d5e0dd2894ea754c199ed04416ef384fc10ea8f0f54f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2205805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2205805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2205805.jpg"
+ },
+ "sha1_origem": "9abcaa625257a435997fa6360da7275dfd12765c",
+ "bytes_origem": 128996,
+ "capturado_em": "2026-11-08T02:42:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Luzilândia_-_PI.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:06Z",
+  "estado": "igual",
+  "sha1_commons": "9abcaa625257a435997fa6360da7275dfd12765c"
+ }
+}

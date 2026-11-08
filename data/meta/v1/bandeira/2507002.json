@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2507002",
+ "uf": "PB",
+ "municipio": "Itaporanga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bandeira_de_Itaporanga_%28Para%C3%ADba%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "City of Itaporanga",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "953fe3e72ad19f652d15846bd2e5c8c0746ab3d7a6327628d0876b5cea1a202d",
+ "rendicoes": {
+  "png": {
+   "bytes": 61620,
+   "sha256": "e1524f2cb3629a80d14ae18a0573bc5ad323c0216a8066155724557710e12705",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22069,
+   "sha256": "41abddceae3055e75d1b18d5a53366a82529d22a8075c6664cb5e03570b79891",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 131606,
+   "sha256": "953fe3e72ad19f652d15846bd2e5c8c0746ab3d7a6327628d0876b5cea1a202d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2507002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2507002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2507002.jpg"
+ },
+ "sha1_origem": "c6b8ea4ddee10f48b85472ecb263b623287040f8",
+ "bytes_origem": 131606,
+ "capturado_em": "2026-11-08T02:58:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itaporanga_(Paraíba).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "c6b8ea4ddee10f48b85472ecb263b623287040f8"
+ }
+}

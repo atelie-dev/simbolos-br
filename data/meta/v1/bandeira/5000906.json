@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5000906",
+ "uf": "MS",
+ "municipio": "Antônio João",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Band_Antonio_Joao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Temp1980",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cd840b511b5471ce581532b7bad07954e8fc00c780c2599c1b071e5d8a5ed625",
+ "rendicoes": {
+  "png": {
+   "bytes": 37311,
+   "sha256": "f6dfc17acefbc08540ca6254c3154208f50881cecd5bca86e63f69fc9acf2c4d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16476,
+   "sha256": "58c02d6ff4cddd6185e8e06d9a248611e31fcd947c1484c2fff92ce69bf187a0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5000906.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5000906.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5000906.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5000906.png",
+  "bytes": 31336,
+  "sha256": "cd840b511b5471ce581532b7bad07954e8fc00c780c2599c1b071e5d8a5ed625"
+ },
+ "sha1_origem": "2dd1dce1c30be09e783eb8e9fd988db31147845b",
+ "bytes_origem": 31336,
+ "capturado_em": "2026-11-08T07:12:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_Antonio_Joao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "2dd1dce1c30be09e783eb8e9fd988db31147845b"
+ }
+}

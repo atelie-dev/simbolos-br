@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2605707",
+ "uf": "PE",
+ "municipio": "Floresta",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Bandeira_de_Floresta%2C_PE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Floresta City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9588933c74974014510bdf5164734d7982e3467a0addfabc8e4b7f0d58b1ed42",
+ "rendicoes": {
+  "png": {
+   "bytes": 5780,
+   "sha256": "10b8cbd3fd7b5fa098491616b386d8f72accd24ce6d69a88d1ce489b26e4d3dc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8770,
+   "sha256": "1173f838b38bb46651d06066a64c2712b8f6bf84a6b4af6b6a71cdd6a03544e5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2605707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2605707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2605707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2605707.png",
+  "bytes": 3932,
+  "sha256": "9588933c74974014510bdf5164734d7982e3467a0addfabc8e4b7f0d58b1ed42"
+ },
+ "sha1_origem": "daadf7dc19d01821e341d2144eff0f43912093a3",
+ "bytes_origem": 3932,
+ "capturado_em": "2026-11-08T05:45:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Floresta,_PE.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "daadf7dc19d01821e341d2144eff0f43912093a3"
+ }
+}

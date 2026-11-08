@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314704",
+ "uf": "RS",
+ "municipio": "Planalto",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bras%C3%A3o_de_Planalto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Planalto",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1bac04a6553edd30183c8722bc64cccd6ca86acc3275a87074ed4f10da33c9c8",
+ "rendicoes": {
+  "png": {
+   "bytes": 311921,
+   "sha256": "b9e9db35e7b2c3bc17172d636e910a8193c0641747b9d26de9cfbbe1734020e2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 51290,
+   "sha256": "85ad341858739d7819483f34a140ba0a565182fe05feb76b5423c2761302a7bc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4314704.jpg",
+  "bytes": 51639,
+  "sha256": "1bac04a6553edd30183c8722bc64cccd6ca86acc3275a87074ed4f10da33c9c8"
+ },
+ "sha1_origem": "8903be014db78f20aaff809d0ed662e41aa01028",
+ "bytes_origem": 51639,
+ "capturado_em": "2026-11-08T07:07:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Planalto.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:09Z",
+  "estado": "igual",
+  "sha1_commons": "8903be014db78f20aaff809d0ed662e41aa01028"
+ }
+}

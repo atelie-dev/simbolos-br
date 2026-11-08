@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2107308",
+ "uf": "MA",
+ "municipio": "Nova Iorque",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bras%C3%A3o_de_Nova_Iorque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura do Município de Nova Iorque",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5121f4e3c3ff5e4637ca666e5ab9eddda12052f189fa26174c2f0e9864a63a74",
+ "rendicoes": {
+  "png": {
+   "bytes": 113468,
+   "sha256": "dd76b0811bc5e3ad50b2d7214877b6e05eefba8825049216b1cbe063d15ca989",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21003,
+   "sha256": "4d20785ce6745838ed110984073247716f3f1bc58a66bea3eb4c8c391d239d8a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2107308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2107308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2107308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2107308.jpg",
+  "bytes": 50023,
+  "sha256": "5121f4e3c3ff5e4637ca666e5ab9eddda12052f189fa26174c2f0e9864a63a74"
+ },
+ "sha1_origem": "cecc178fb39d99f1554e5adf481defcbe15cd96e",
+ "bytes_origem": 50023,
+ "capturado_em": "2026-11-08T05:28:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Nova_Iorque.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "cecc178fb39d99f1554e5adf481defcbe15cd96e"
+ }
+}

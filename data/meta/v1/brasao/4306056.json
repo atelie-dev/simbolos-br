@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4306056",
+ "uf": "RS",
+ "municipio": "Cristal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Cristalbrasonbr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cristal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "379a80591e2f8d56db18038f1187a42ed093303b46f99a442d2cdb656e00039a",
+ "rendicoes": {
+  "png": {
+   "bytes": 82257,
+   "sha256": "233023103427b2ea18ae41314bfdcf9668b5f8c666fbe95509282fca7bfd82e8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19981,
+   "sha256": "70ba0c90a4a6bbfe37375fb2fd3a9b382faaf1da1b979625fc9d3f2cc6b15f83",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4306056.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4306056.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4306056.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4306056.jpg",
+  "bytes": 26658,
+  "sha256": "379a80591e2f8d56db18038f1187a42ed093303b46f99a442d2cdb656e00039a"
+ },
+ "sha1_origem": "a70ea0085cf1941c09cd0845726096da6ade2ed2",
+ "bytes_origem": 26658,
+ "capturado_em": "2026-11-08T07:01:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cristalbrasonbr.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "a70ea0085cf1941c09cd0845726096da6ade2ed2"
+ }
+}

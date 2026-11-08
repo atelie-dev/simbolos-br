@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3158300",
+ "uf": "MG",
+ "municipio": "Santana da Vargem",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bras%C3%A3o_Santana_da_Vargem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Site da prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "de6e9e4a52af01493b2218aeecf92bbf52fe6e86fb2cbfd8b66b0be44c89173c",
+ "rendicoes": {
+  "png": {
+   "bytes": 31684,
+   "sha256": "7ef4e71082da1ccd96166b22bccd6a9ee61883f02184eda28dc0d394d9625803",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7753,
+   "sha256": "df1fee01df7d375bc078ace9839b0fc78867cdbe10846cb12156036c627d8fdc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3158300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3158300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3158300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3158300.jpg",
+  "bytes": 4099,
+  "sha256": "de6e9e4a52af01493b2218aeecf92bbf52fe6e86fb2cbfd8b66b0be44c89173c"
+ },
+ "sha1_origem": "593fcd7a654ca722a6a5ffe4ec880661d5255a6f",
+ "bytes_origem": 4099,
+ "capturado_em": "2026-11-08T06:15:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Santana_da_Vargem.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "593fcd7a654ca722a6a5ffe4ec880661d5255a6f"
+ }
+}

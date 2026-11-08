@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3147006",
+ "uf": "MG",
+ "municipio": "Paracatu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bandeira_de_Paracatu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Paracatu, MG",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "83a9a25a835cc01d0d6fc86204d5d7bf77254a17aa756428770f500f8da25ba4",
+ "rendicoes": {
+  "png": {
+   "bytes": 130429,
+   "sha256": "545c22b283028ed060f04cdab9606c4b26f36f870b74066b57536de217e6fc48",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29458,
+   "sha256": "ac6e362730b6d80750e188bd1c690b304a4faff3fc52350670b20a1995f98860",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3147006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3147006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3147006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3147006.jpg",
+  "bytes": 42124,
+  "sha256": "83a9a25a835cc01d0d6fc86204d5d7bf77254a17aa756428770f500f8da25ba4"
+ },
+ "sha1_origem": "de1c6a29a5409b9e02c83b378b6160bce64d3be8",
+ "bytes_origem": 42124,
+ "capturado_em": "2026-11-08T06:12:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Paracatu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "de1c6a29a5409b9e02c83b378b6160bce64d3be8"
+ }
+}

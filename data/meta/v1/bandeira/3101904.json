@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3101904",
+ "uf": "MG",
+ "municipio": "Alpinópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bandeira_de_Alpin%C3%B3polis%2C_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Kairo.ribeiro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "310d3f952202c12fb20752cbd25ddce72edaf50dcc14744049f83452399c1963",
+ "rendicoes": {
+  "png": {
+   "bytes": 76228,
+   "sha256": "32c72e171bf3a7d2626cf8888b2f4aacbbb8a5e112c822cec6a1b57d97bd2452",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20384,
+   "sha256": "96d98263dfd972a74a39665dfa01421a74be973912c3e8ced74366aa3018966a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3101904.jpg",
+  "bytes": 28146,
+  "sha256": "310d3f952202c12fb20752cbd25ddce72edaf50dcc14744049f83452399c1963"
+ },
+ "sha1_origem": "1538260dc90abf2f643c9a478859495bfa8bead4",
+ "bytes_origem": 28146,
+ "capturado_em": "2026-11-08T05:58:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Alpinópolis,_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "1538260dc90abf2f643c9a478859495bfa8bead4"
+ }
+}

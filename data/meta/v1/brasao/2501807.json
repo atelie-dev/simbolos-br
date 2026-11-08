@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2501807",
+ "uf": "PB",
+ "municipio": "Bayeux",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/92/Brasao_bayeux.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Bayeux",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5cd97768e78caea726e9e1a02ae9a20c577ecc30bae67f0e9adaa35100c315fd",
+ "rendicoes": {
+  "png": {
+   "bytes": 108842,
+   "sha256": "539580024e3b954f9303e39fe2ca7acf423ec6fd4d94bf5f9b1b9738771065c9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28050,
+   "sha256": "e0ee86e06f7a395f95258c87deee82286466cb38af627379102e1f010bee8fac",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501807.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2501807.png",
+  "bytes": 90601,
+  "sha256": "5cd97768e78caea726e9e1a02ae9a20c577ecc30bae67f0e9adaa35100c315fd"
+ },
+ "sha1_origem": "87e85c281e83b456edd10b784ebdadcf42000657",
+ "bytes_origem": 90601,
+ "capturado_em": "2026-11-08T05:40:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_bayeux.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:36Z",
+  "estado": "igual",
+  "sha1_commons": "87e85c281e83b456edd10b784ebdadcf42000657"
+ }
+}

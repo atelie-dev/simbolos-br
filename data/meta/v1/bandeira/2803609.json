@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2803609",
+ "uf": "SE",
+ "municipio": "Laranjeiras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bandeira_laranjeiras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Riba28-maps",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "eb6e9f9f9cc0a605dac67a6a03a53032dab5dba5d36a7be99306dce7112ef8ec",
+ "rendicoes": {
+  "png": {
+   "bytes": 62453,
+   "sha256": "ac6c6515382268d8b89d3fbc5932587c4adf14586591b2dbdc897ca33cae0530",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26557,
+   "sha256": "69f7abe3ded8452a63ac5a0243c6494a167f25b1b1c815b70e422d05f9799d6a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2803609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2803609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2803609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2803609.jpg",
+  "bytes": 234273,
+  "sha256": "eb6e9f9f9cc0a605dac67a6a03a53032dab5dba5d36a7be99306dce7112ef8ec"
+ },
+ "sha1_origem": "1f3e73db21989b0c35c8d7bee053dd2872e87492",
+ "bytes_origem": 234273,
+ "capturado_em": "2026-11-08T05:49:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_laranjeiras.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "1f3e73db21989b0c35c8d7bee053dd2872e87492"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3100807",
+ "uf": "MG",
+ "municipio": "Aguanil",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Aguanil_Bras%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "16b38bddaf3dd53a3374ed97f0134e5acd677f843bb10fa44bba2cfb8482dd12",
+ "rendicoes": {
+  "png": {
+   "bytes": 54340,
+   "sha256": "779628c0729d2c64426695aef9f7b977291b24a7a48a5f754818ddfaae058af2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12398,
+   "sha256": "30935fd45b8330a677698ad5efe5e339b5dbc2b61e4590ba670b428cfeb19de7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100807.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3100807.jpg",
+  "bytes": 10432,
+  "sha256": "16b38bddaf3dd53a3374ed97f0134e5acd677f843bb10fa44bba2cfb8482dd12"
+ },
+ "sha1_origem": "c66f1d0eb6d8b860f28a0bf6610786937deea98c",
+ "bytes_origem": 10432,
+ "capturado_em": "2026-11-08T05:58:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Aguanil_Brasão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "c66f1d0eb6d8b860f28a0bf6610786937deea98c"
+ }
+}

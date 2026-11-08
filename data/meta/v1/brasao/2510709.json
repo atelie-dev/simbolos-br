@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2510709",
+ "uf": "PB",
+ "municipio": "Passagem",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bras%C3%A3o_Passagem_%28PB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Passagem",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dc5c86bdad3f20af178c1df139439b224bf879327b16969e1c291235e5e62ae0",
+ "rendicoes": {
+  "png": {
+   "bytes": 257222,
+   "sha256": "170568d8282fb267abbc2469b6d253de2023a9820009b8088e3370450cf02187",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 74244,
+   "sha256": "a3ef1b9b3f9b85db6ee2088288e557dfeb6934c2572e937049a3333df6854b94",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2510709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2510709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2510709.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2510709.jpg",
+  "bytes": 238057,
+  "sha256": "dc5c86bdad3f20af178c1df139439b224bf879327b16969e1c291235e5e62ae0"
+ },
+ "sha1_origem": "8b0fcaffcebef05174432c3223015ae524b6f127",
+ "bytes_origem": 238057,
+ "capturado_em": "2026-11-08T05:42:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Passagem_(PB).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "8b0fcaffcebef05174432c3223015ae524b6f127"
+ }
+}

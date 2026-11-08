@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3553906",
+ "uf": "SP",
+ "municipio": "Tarabai",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bandeira_de_Tarabai.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Tarabai",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "52b3201f1b92c109b5f285bf6cd1b749b335f30c2b3fc319114dd8f7eac1e4fe",
+ "rendicoes": {
+  "png": {
+   "bytes": 33205,
+   "sha256": "79958292c2e004868af033dad662e020e66fbfd835d42f4fdbce1b49f7acdeea",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18128,
+   "sha256": "ce07b1c04e9006b5123cb871bd52de9ad5e33e5cd5925889488c18f1d16b4289",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553906.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553906.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553906.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3553906.png",
+  "bytes": 28724,
+  "sha256": "52b3201f1b92c109b5f285bf6cd1b749b335f30c2b3fc319114dd8f7eac1e4fe"
+ },
+ "sha1_origem": "5d8f5552e0f14fc9d2e6849d212c00a02ebfd0d3",
+ "bytes_origem": 28724,
+ "capturado_em": "2026-11-08T06:39:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Tarabai.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "5d8f5552e0f14fc9d2e6849d212c00a02ebfd0d3"
+ }
+}

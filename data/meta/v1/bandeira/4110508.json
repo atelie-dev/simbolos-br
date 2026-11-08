@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4110508",
+ "uf": "PR",
+ "municipio": "Ipiranga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bandeira_de_Ipiranga%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Camara Municipal de Ipiranga",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "146c3c4b0cb6868671e936a336ca17a508a95f8e3b84b4aa01a20cc54d081570",
+ "rendicoes": {
+  "png": {
+   "bytes": 53191,
+   "sha256": "2ba84ff66331ab192188e39dea8c58694ea2b4708839ea86bf4249a31ac07747",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16736,
+   "sha256": "f2b88af05990eff7d84244941132523c0e81281d4438a3a248be7aff03baae61",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4110508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4110508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4110508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4110508.jpg",
+  "bytes": 15956,
+  "sha256": "146c3c4b0cb6868671e936a336ca17a508a95f8e3b84b4aa01a20cc54d081570"
+ },
+ "sha1_origem": "d6661a4edd35f090f534dbbf8b88de86019af2ac",
+ "bytes_origem": 15956,
+ "capturado_em": "2026-11-08T06:44:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ipiranga,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "d6661a4edd35f090f534dbbf8b88de86019af2ac"
+ }
+}

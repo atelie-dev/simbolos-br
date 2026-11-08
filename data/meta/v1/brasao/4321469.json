@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321469",
+ "uf": "RS",
+ "municipio": "Tio Hugo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tio_Hugorsbrasoes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Tio Hugo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "230280712333339c7d66ef0c1c295fb560a1199769ae9c24b861f8b26d73e985",
+ "rendicoes": {
+  "png": {
+   "bytes": 46950,
+   "sha256": "8fb08a20faf6d6205e21863248bb047c547e72049e4a97e8aa7130364a187aec",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10780,
+   "sha256": "af170017b1d0c66b9f1472956952bc82f56aaad6e51a088cc243b8dae0ff40c1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321469.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321469.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321469.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4321469.jpg",
+  "bytes": 12844,
+  "sha256": "230280712333339c7d66ef0c1c295fb560a1199769ae9c24b861f8b26d73e985"
+ },
+ "sha1_origem": "01389313e0933c3f22332988d51d7aab76a738a8",
+ "bytes_origem": 12844,
+ "capturado_em": "2026-11-08T07:10:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Tio_Hugorsbrasoes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:38Z",
+  "estado": "igual",
+  "sha1_commons": "01389313e0933c3f22332988d51d7aab76a738a8"
+ }
+}

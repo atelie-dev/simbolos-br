@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2506905",
+ "uf": "PB",
+ "municipio": "Itabaiana",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bras%C3%A3o_Itabaiana-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Itabaiana",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cb143da9bb80f5da42b396b6a0ce4a7b3960ac23a4930f6299215fbb3dd46081",
+ "rendicoes": {
+  "png": {
+   "bytes": 326408,
+   "sha256": "48e0f27db2c46928881bf4eddfe3913796a6b8e8c26ed51c84c0f1715710e269",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 68275,
+   "sha256": "3726fdc5de6ca9424c80aadbe6babaaa33e34ace8579f65866f3ca7d8046d350",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2506905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2506905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2506905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2506905.jpg",
+  "bytes": 103506,
+  "sha256": "cb143da9bb80f5da42b396b6a0ce4a7b3960ac23a4930f6299215fbb3dd46081"
+ },
+ "sha1_origem": "c1ea7b44c578939751abc164ffda04e51f7496c0",
+ "bytes_origem": 103506,
+ "capturado_em": "2026-11-08T05:41:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Itabaiana-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "c1ea7b44c578939751abc164ffda04e51f7496c0"
+ }
+}

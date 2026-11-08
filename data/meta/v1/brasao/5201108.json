@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5201108",
+ "uf": "GO",
+ "municipio": "Anápolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bras%C3%A3o_de_An%C3%A1polis_-_GO.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1f4a54ee4f4149de5659a674d97096452b8dda3aceab4571e9942dc6442659c4",
+ "rendicoes": {
+  "png": {
+   "bytes": 188516,
+   "sha256": "218d5ff218501f8cfd32960bb7d611d09ed94c7a968227c8daa4fdf0ec14baf7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62083,
+   "sha256": "6baff39a341408c7cf947fe364748ba176cebd6fdc18136e4b63548b313854f3",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 306873,
+   "sha256": "1f4a54ee4f4149de5659a674d97096452b8dda3aceab4571e9942dc6442659c4"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201108.jpg"
+ },
+ "sha1_origem": "56b1ca8c038c76477354e40d2273eeb5a3cd65a7",
+ "bytes_origem": 306873,
+ "capturado_em": "2026-11-08T05:08:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Anápolis_-_GO.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "56b1ca8c038c76477354e40d2273eeb5a3cd65a7"
+ }
+}

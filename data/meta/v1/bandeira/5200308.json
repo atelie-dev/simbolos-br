@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5200308",
+ "uf": "GO",
+ "municipio": "Alexânia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Go-alexania-bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Alexânia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "980157a84f9752c551f9fd3fd1c0986597b8ee39ebd3010c61443a28192a772a",
+ "rendicoes": {
+  "png": {
+   "bytes": 15969,
+   "sha256": "020f9a7b1be5263bf2d3adc57c1063f8117c3f9dbebde152977e395bc6567c06",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7676,
+   "sha256": "f6ab35b630b59ac9e01664189d059840387254495865ae19ea09a5733645996e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5200308.jpg",
+  "bytes": 5308,
+  "sha256": "980157a84f9752c551f9fd3fd1c0986597b8ee39ebd3010c61443a28192a772a"
+ },
+ "sha1_origem": "356aa1cd8146662f315b0b45fb87e9cd601acb38",
+ "bytes_origem": 5308,
+ "capturado_em": "2026-11-08T07:16:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Go-alexania-bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "356aa1cd8146662f315b0b45fb87e9cd601acb38"
+ }
+}

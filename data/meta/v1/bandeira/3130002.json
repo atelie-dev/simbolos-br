@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3130002",
+ "uf": "MG",
+ "municipio": "Ibituruna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ibiturunamgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ibituruna",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0c15e276437c9ac6c12841345659da9bfa2f783af05aad8d9ca348116e0d97bb",
+ "rendicoes": {
+  "png": {
+   "bytes": 29877,
+   "sha256": "5ab2498260b76832c897a240efbf7406721f9197ac82d8ce5c8952a3edb5ad90",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11753,
+   "sha256": "514e7f607787719e88b88696753b159f49da7b18dd58858b874a73c4a8d38ecd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3130002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3130002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3130002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3130002.png",
+  "bytes": 24978,
+  "sha256": "0c15e276437c9ac6c12841345659da9bfa2f783af05aad8d9ca348116e0d97bb"
+ },
+ "sha1_origem": "0f54e1996e8b305dff44c786fdb2ebf416982307",
+ "bytes_origem": 24978,
+ "capturado_em": "2026-11-08T06:08:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ibiturunamgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "0f54e1996e8b305dff44c786fdb2ebf416982307"
+ }
+}

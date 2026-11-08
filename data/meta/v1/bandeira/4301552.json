@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4301552",
+ "uf": "RS",
+ "municipio": "Áurea",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira_de_%C3%81urea.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "8ee72dbc71652c6965c2d142f670ed3041533bbb6139af7d7b5e73d36bfdfd05",
+ "rendicoes": {
+  "png": {
+   "bytes": 20101,
+   "sha256": "0591a4c209d2ac741c20629445fcddd240468cd438c639d43fec8296b92bab16",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14003,
+   "sha256": "497242a7c534faf0b61f3c1b3117615e59a140e64158860a8d54bf7ce13e3a0c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2469,
+   "sha256": "8ee72dbc71652c6965c2d142f670ed3041533bbb6139af7d7b5e73d36bfdfd05"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301552.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301552.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301552.jpg"
+ },
+ "sha1_origem": "e9f1fe2bc15810381324e9ef49b9b02b9a4007b4",
+ "bytes_origem": 2469,
+ "capturado_em": "2026-11-08T04:47:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Áurea.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "e9f1fe2bc15810381324e9ef49b9b02b9a4007b4"
+ }
+}

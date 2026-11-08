@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5215256",
+ "uf": "GO",
+ "municipio": "Novo Planalto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bandeira_de_novo_planalto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Vilson Ferreira da Silva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d063fe5136d1a6389f0dc4f9229bb808c723d45287660bd68a58feec64f6e5f0",
+ "rendicoes": {
+  "png": {
+   "bytes": 13099,
+   "sha256": "355ffb8183168beb269ac12f2e2baa3c6bf206b81079acd65c95b1c45e62ee3f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7282,
+   "sha256": "df3c90bcbf4cfcb0940834b31402cf3db41c31cceea02ee3fd3ca7110a8c8f94",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5215256.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5215256.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5215256.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5215256.jpg",
+  "bytes": 8170,
+  "sha256": "d063fe5136d1a6389f0dc4f9229bb808c723d45287660bd68a58feec64f6e5f0"
+ },
+ "sha1_origem": "47f38e5a7354127aa941009e7c91bc2a92a8c127",
+ "bytes_origem": 8170,
+ "capturado_em": "2026-11-08T07:19:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_novo_planalto.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "47f38e5a7354127aa941009e7c91bc2a92a8c127"
+ }
+}

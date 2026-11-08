@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1300300",
+ "uf": "AM",
+ "municipio": "Autazes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bandeira_de_Autazes%2C_AM.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Autazes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bfc1e69b9a31464518097d25d533e90432304772f91b6a9b40dbce9bed8e84a6",
+ "rendicoes": {
+  "png": {
+   "bytes": 8202,
+   "sha256": "8d46db197d27b23ef235352d96940f0d2cc459dd45caf30fa879bfdf90d59e62",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12006,
+   "sha256": "87229550d067d38af80b1228793989ce69561472071c49b7e63d81d9e0ea0ed0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1300300.png",
+  "bytes": 5370,
+  "sha256": "bfc1e69b9a31464518097d25d533e90432304772f91b6a9b40dbce9bed8e84a6"
+ },
+ "sha1_origem": "f92258a723753d5259d9c799333dc7f30b1be3fb",
+ "bytes_origem": 5370,
+ "capturado_em": "2026-11-08T05:22:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Autazes,_AM.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "f92258a723753d5259d9c799333dc7f30b1be3fb"
+ }
+}

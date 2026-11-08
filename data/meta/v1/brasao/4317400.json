@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4317400",
+ "uf": "RS",
+ "municipio": "Santiago",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Brasao_de_santiago.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f1bb7bc5fa7eed14c6b815d2af27dc167a5a25f7cffa4d529e24a6a4ae32fa0a",
+ "rendicoes": {
+  "png": {
+   "bytes": 61934,
+   "sha256": "4ecd515fa3caaf26ebb8cc662c47d7492de1c9be87f7bfb0ba1822d16f9c60b1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13229,
+   "sha256": "ddfd26e5e3fa68e3784ad7d51d1e90191edaa5cf387b825373027cee70939ca2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4317400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4317400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4317400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4317400.jpg",
+  "bytes": 12797,
+  "sha256": "f1bb7bc5fa7eed14c6b815d2af27dc167a5a25f7cffa4d529e24a6a4ae32fa0a"
+ },
+ "sha1_origem": "49a9c4fba0c0bfa338041326b6a6faed055f0eee",
+ "bytes_origem": 12797,
+ "capturado_em": "2026-11-08T07:08:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_de_santiago.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "49a9c4fba0c0bfa338041326b6a6faed055f0eee"
+ }
+}

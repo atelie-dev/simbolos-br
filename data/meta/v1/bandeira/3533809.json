@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3533809",
+ "uf": "SP",
+ "municipio": "Óleo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bandeira_%C3%93leo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "722bda6884e642d6798069df35fc8b7f2e3d68e57ea5d80eee6b9a9fffd23bbd",
+ "rendicoes": {
+  "png": {
+   "bytes": 23892,
+   "sha256": "cdc007202b83a895b2e9e7aaaeb49659cee6da9531f81a71ca832a7f89d17d76",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11704,
+   "sha256": "58a00b63cbd138026b309dc7bdd2d145c3a14921d712a5181470fc2536d5543c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3533809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3533809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3533809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3533809.png",
+  "bytes": 24256,
+  "sha256": "722bda6884e642d6798069df35fc8b7f2e3d68e57ea5d80eee6b9a9fffd23bbd"
+ },
+ "sha1_origem": "7471874b4aa795ac031cee5638db054ba8780745",
+ "bytes_origem": 24256,
+ "capturado_em": "2026-11-08T06:33:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Óleo.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "7471874b4aa795ac031cee5638db054ba8780745"
+ }
+}

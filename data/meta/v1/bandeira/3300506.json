@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3300506",
+ "uf": "RJ",
+ "municipio": "Bom Jardim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Googd_garden-RJ-flag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Júlio Salusse",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0bd96eaa4f86ea3c4b91d54761f5b9f2fc172b36a1c4cefc989b034d6b730e65",
+ "rendicoes": {
+  "png": {
+   "bytes": 43313,
+   "sha256": "a39d79f4979bee5e2fda550bc512bead6d4e47ea9a2f70ddcbe346a500957815",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9853,
+   "sha256": "fb04c3e2ffd8a35ce8a50f3c56722b0c8fc85c6d68054f1d12c361a62100a9ef",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3300506.jpg",
+  "bytes": 9928,
+  "sha256": "0bd96eaa4f86ea3c4b91d54761f5b9f2fc172b36a1c4cefc989b034d6b730e65"
+ },
+ "sha1_origem": "f2a57f7888bc29a996480cf44715a275444f013b",
+ "bytes_origem": 9928,
+ "capturado_em": "2026-11-08T06:20:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Googd_garden-RJ-flag.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "f2a57f7888bc29a996480cf44715a275444f013b"
+ }
+}

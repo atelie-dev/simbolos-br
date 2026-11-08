@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4206405",
+ "uf": "SC",
+ "municipio": "Guaraciaba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bandeira_guaraciaba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Guabiruba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4b81006350de99a831fab0b91a0d4147b67241220292a77a7ff75c9ed250508c",
+ "rendicoes": {
+  "png": {
+   "bytes": 21639,
+   "sha256": "8c23e23e32ec6ef825f02759638945985b405c0621bf674526fadd0bc18da048",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8235,
+   "sha256": "3b4b3fabe2b355842fbbde37c2807cf92be060ed2a59bb1eed7f39e0ee796ae2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4206405.jpg",
+  "bytes": 4788,
+  "sha256": "4b81006350de99a831fab0b91a0d4147b67241220292a77a7ff75c9ed250508c"
+ },
+ "sha1_origem": "546015fa2b940363a5fc63b0d3e5a8e03e1930d6",
+ "bytes_origem": 4788,
+ "capturado_em": "2026-11-08T06:53:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_guaraciaba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "546015fa2b940363a5fc63b0d3e5a8e03e1930d6"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3528304",
+ "uf": "SP",
+ "municipio": "Magda",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Magda.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "615a99b447fa08aff0405cf29e45a26ae711495d1093c563aada6cf0ddb89bd5",
+ "rendicoes": {
+  "png": {
+   "bytes": 424879,
+   "sha256": "02cbc242a357b191f1914747377798aa934d51a0a2cf88d22c4533ca353486cf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 76195,
+   "sha256": "962f3929b4653b2e55c95f93493da57f2bbed85cac2c53df38b6b57e60f4e9f4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528304.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3528304.png",
+  "bytes": 393325,
+  "sha256": "615a99b447fa08aff0405cf29e45a26ae711495d1093c563aada6cf0ddb89bd5"
+ },
+ "sha1_origem": "613ad2bd49e1482dd518ea4baf95b735dde8c778",
+ "bytes_origem": 393325,
+ "capturado_em": "2026-11-08T06:31:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Magda.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "613ad2bd49e1482dd518ea4baf95b735dde8c778"
+ }
+}

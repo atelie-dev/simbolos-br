@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5007406",
+ "uf": "MS",
+ "municipio": "Rio Verde de Mato Grosso",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Band_Rio_Verde_de_Mato_Grosso.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Temp1980",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "be1de373db0c5966b82207ce96464419e6964fb707b7a676bbb7d96b585f244b",
+ "rendicoes": {
+  "png": {
+   "bytes": 11130,
+   "sha256": "e47ab4104cd16914c8f21a81a205650c144e7d8485a8e30a11614f5b5575d06e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13673,
+   "sha256": "48bc78ef5d7db251dd78ea0672270dc4945880534e956a91ca082968c1c88129",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5007406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5007406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5007406.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5007406.png",
+  "bytes": 5970,
+  "sha256": "be1de373db0c5966b82207ce96464419e6964fb707b7a676bbb7d96b585f244b"
+ },
+ "sha1_origem": "be6212dbe8069571b4e551fca906db3190812513",
+ "bytes_origem": 5970,
+ "capturado_em": "2026-11-08T07:13:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_Rio_Verde_de_Mato_Grosso.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "be6212dbe8069571b4e551fca906db3190812513"
+ }
+}

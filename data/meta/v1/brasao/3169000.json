@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3169000",
+ "uf": "MG",
+ "municipio": "Tocantins",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Brasaotocantinsmg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Tocantins",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e34449f3aea4c62e27beb9d78d9793c96a7e8e166a94684d77234da9a733d878",
+ "rendicoes": {
+  "png": {
+   "bytes": 18198,
+   "sha256": "3245fee448015c6a7d55d632314e286fd7d4a62fe16d34bd42f5c77dfc04515a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5077,
+   "sha256": "c30f09d86abb73622fd9d7f2f276e9130ed34e5e78a82c52bcb29652e2a7be81",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3169000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3169000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3169000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3169000.jpg",
+  "bytes": 4784,
+  "sha256": "e34449f3aea4c62e27beb9d78d9793c96a7e8e166a94684d77234da9a733d878"
+ },
+ "sha1_origem": "ef63e418a9533921983628768b624e0bfc285d01",
+ "bytes_origem": 4784,
+ "capturado_em": "2026-11-08T06:17:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaotocantinsmg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "ef63e418a9533921983628768b624e0bfc285d01"
+ }
+}

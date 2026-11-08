@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3536901",
+ "uf": "SP",
+ "municipio": "Pedranópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bandeira_Pedran%C3%B3polis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a0efaa2bce85e405952f6776f99125cfa7e9636ff60c5d38513c46fdc2096315",
+ "rendicoes": {
+  "png": {
+   "bytes": 22510,
+   "sha256": "629e114c0b020997da8351d5d7d03e68d0b1a1448f401635a4528dab44b62894",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13141,
+   "sha256": "183ebdd6a108a9e415f2c89475bd6ecdba2f21986e416a4e58e5307ac77ae2b1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3536901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3536901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3536901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3536901.png",
+  "bytes": 20196,
+  "sha256": "a0efaa2bce85e405952f6776f99125cfa7e9636ff60c5d38513c46fdc2096315"
+ },
+ "sha1_origem": "cbd9c2f4253f0bb30ba7f323376659bc903f750f",
+ "bytes_origem": 20196,
+ "capturado_em": "2026-11-08T06:34:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Pedranópolis.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "cbd9c2f4253f0bb30ba7f323376659bc903f750f"
+ }
+}

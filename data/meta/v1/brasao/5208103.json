@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5208103",
+ "uf": "GO",
+ "municipio": "Formoso",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bras%C3%A3o_de_Formoso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Formoso",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6d29d4388791c9ec68b9ea70eb9f6417996a0ba0fb4788ff68b633b5e8b09a83",
+ "rendicoes": {
+  "png": {
+   "bytes": 60428,
+   "sha256": "2ca2dc73ca4198bc6f5fc9e27d3bbf7f7b26db4c9ab9c4a2fca47e8932d50bc2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12989,
+   "sha256": "c6bec10c2cb0edbb69121b73519e60bbb59fe87e7c1689e283db1cf4b54180ce",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5208103.jpg",
+  "bytes": 15210,
+  "sha256": "6d29d4388791c9ec68b9ea70eb9f6417996a0ba0fb4788ff68b633b5e8b09a83"
+ },
+ "sha1_origem": "2181762ab7935a63566b1b52aac0cc30e7c24524",
+ "bytes_origem": 15210,
+ "capturado_em": "2026-11-08T07:17:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Formoso.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:02Z",
+  "estado": "igual",
+  "sha1_commons": "2181762ab7935a63566b1b52aac0cc30e7c24524"
+ }
+}

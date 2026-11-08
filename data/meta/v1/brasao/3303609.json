@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3303609",
+ "uf": "RJ",
+ "municipio": "Paracambi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Paracambi_brasao.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "LonelySpooky",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ce2fbb453fc4adad9560114dc6dd78156ed6d99ce3a94f001d26311a75021b92",
+ "rendicoes": {
+  "png": {
+   "bytes": 163176,
+   "sha256": "d95f5acc5cddd62a5557b575af4ce7e36dd326ba3661e98cc13d5a6b1f7ad292",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59851,
+   "sha256": "eb56a94a27e9ae4bda6d282c07e370a69a443b656ad432f28ace131a929724ef",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 140502,
+   "sha256": "ce2fbb453fc4adad9560114dc6dd78156ed6d99ce3a94f001d26311a75021b92"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303609.jpg"
+ },
+ "sha1_origem": "3690799b2e090fa023713e133a25ffd72899cbc6",
+ "bytes_origem": 140502,
+ "capturado_em": "2026-11-08T03:55:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Paracambi_brasao.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "3690799b2e090fa023713e133a25ffd72899cbc6"
+ }
+}

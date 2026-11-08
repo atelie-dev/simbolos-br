@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312153",
+ "uf": "RS",
+ "municipio": "Mato Leitão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bras%C3%A3o_Mato_Leit%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Mato Leitão",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "375dd0b14ab150e67832119529067dce65f2737aac33f435b55e525ac6a981ca",
+ "rendicoes": {
+  "png": {
+   "bytes": 412474,
+   "sha256": "f9acdbc3df40a056ff8b37ca858d3125cd184404b9d44e24972a65072d264919",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63735,
+   "sha256": "ee3858a6aa7a76d109c9322b567dafbac9734708ff5b0a81e9f2850302d3cf42",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312153.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312153.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312153.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4312153.jpg",
+  "bytes": 988354,
+  "sha256": "375dd0b14ab150e67832119529067dce65f2737aac33f435b55e525ac6a981ca"
+ },
+ "sha1_origem": "3ed21804d661dd9444daff4b1386c4cf86f703a1",
+ "bytes_origem": 988354,
+ "capturado_em": "2026-11-08T07:05:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Mato_Leitão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "3ed21804d661dd9444daff4b1386c4cf86f703a1"
+ }
+}

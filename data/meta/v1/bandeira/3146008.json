@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3146008",
+ "uf": "MG",
+ "municipio": "Ouro Fino",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bandeiraourofino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ouro Fino",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "23b861c25874d7a1f7a29978380f4b5ef875da2b6020d9f4710020f9eb0a2611",
+ "rendicoes": {
+  "png": {
+   "bytes": 31025,
+   "sha256": "d9839d2ce3d9ff2b38dea9601e8d0df2d240251709cdc1d68729d0c7e0ed907d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6957,
+   "sha256": "7e52c0aecc3884734f2b3cf1655984211dc200086b37e834285458e653653c71",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3146008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3146008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3146008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3146008.jpg",
+  "bytes": 6317,
+  "sha256": "23b861c25874d7a1f7a29978380f4b5ef875da2b6020d9f4710020f9eb0a2611"
+ },
+ "sha1_origem": "7d1f22080ee076f020fe00e08cb55f08ea94b100",
+ "bytes_origem": 6317,
+ "capturado_em": "2026-11-08T06:12:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraourofino.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "7d1f22080ee076f020fe00e08cb55f08ea94b100"
+ }
+}

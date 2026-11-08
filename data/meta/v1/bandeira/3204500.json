@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3204500",
+ "uf": "ES",
+ "municipio": "Santa Leopoldina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bandeira_do_munic%C3%ADpio_de_Santa_Leopoldina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ismael Silva Oliveira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5668b1be32b3556e5724b484fd0a3acfa1618d991191ae42b13408b074d47a1d",
+ "rendicoes": {
+  "png": {
+   "bytes": 52208,
+   "sha256": "1a533949b4e1515faa0bc047d01d250e3794f43f3d205488985bf9da825d555c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19344,
+   "sha256": "20d3d5deafaca03892b38980197d703b4b364f5ab0f40ce2415c0786c5f66ce8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3204500.jpg",
+  "bytes": 217042,
+  "sha256": "5668b1be32b3556e5724b484fd0a3acfa1618d991191ae42b13408b074d47a1d"
+ },
+ "sha1_origem": "58526994d6181e21d17fa80a208fdc427f300832",
+ "bytes_origem": 217042,
+ "capturado_em": "2026-11-08T06:20:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Santa_Leopoldina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "58526994d6181e21d17fa80a208fdc427f300832"
+ }
+}

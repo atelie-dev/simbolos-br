@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312708",
+ "uf": "RS",
+ "municipio": "Nonoai",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bandeira_Nonoai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nonoai",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f80aec61c2d765686445102fe82043a25d786799abf60a248e5587cb5ccf1029",
+ "rendicoes": {
+  "png": {
+   "bytes": 159229,
+   "sha256": "a03fc46f7d9f1a8ffc2558b33f9abf063136c29f8f8a281907a068d853f66869",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41962,
+   "sha256": "ee43c52f03c18020288f89db4f4cda126531023dbddcaf618f5e2d8210bc8833",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4312708.jpg",
+  "bytes": 109431,
+  "sha256": "f80aec61c2d765686445102fe82043a25d786799abf60a248e5587cb5ccf1029"
+ },
+ "sha1_origem": "5ce6ca60aa692b31e2d760f6f51593432f0bf800",
+ "bytes_origem": 109431,
+ "capturado_em": "2026-11-08T07:06:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Nonoai.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "5ce6ca60aa692b31e2d760f6f51593432f0bf800"
+ }
+}

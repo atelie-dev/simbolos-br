@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2514909",
+ "uf": "PB",
+ "municipio": "São Mamede",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bandeira_S%C3%A3o_Mamede.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Mamede",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "91fd9e45fbbad1a7ebceab30b3ac9a144d59418a0ab7741a83f96846c5740bd4",
+ "rendicoes": {
+  "png": {
+   "bytes": 53506,
+   "sha256": "9e6487a3bc06d9055c4baf39cbc0e7d13ef3d29e714fd3a497806030abc4c881",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18566,
+   "sha256": "65d9c865bdbe68f1124d6f74599d732d0ca8a08ce16aa679ad448714d7822bdc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2514909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2514909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2514909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2514909.jpg",
+  "bytes": 89250,
+  "sha256": "91fd9e45fbbad1a7ebceab30b3ac9a144d59418a0ab7741a83f96846c5740bd4"
+ },
+ "sha1_origem": "16bcc86a60097a27ee3baac2f0d3b5888151a99e",
+ "bytes_origem": 89250,
+ "capturado_em": "2026-11-08T05:43:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_São_Mamede.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "16bcc86a60097a27ee3baac2f0d3b5888151a99e"
+ }
+}

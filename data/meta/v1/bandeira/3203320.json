@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3203320",
+ "uf": "ES",
+ "municipio": "Marataízes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bandeira-marataizes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Mataraízes City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bcdaff46742b7402467d781fb8e40ad405b8154e74ba3b3cb6f5ac4252289ad7",
+ "rendicoes": {
+  "png": {
+   "bytes": 45584,
+   "sha256": "a3f7597d2db5e08e70af891a1391518e188f29dce6a47f6d7686a057e31852f4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14183,
+   "sha256": "4b9671b418edfd67e2a38767d8b5153eb13fb384ca9dd9ce73eac1d8cbeb420d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203320.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203320.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203320.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3203320.jpg",
+  "bytes": 14161,
+  "sha256": "bcdaff46742b7402467d781fb8e40ad405b8154e74ba3b3cb6f5ac4252289ad7"
+ },
+ "sha1_origem": "33301b706927b9ac37fbef2f02265ff397efa179",
+ "bytes_origem": 14161,
+ "capturado_em": "2026-11-08T06:19:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-marataizes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "33301b706927b9ac37fbef2f02265ff397efa179"
+ }
+}

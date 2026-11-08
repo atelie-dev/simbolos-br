@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2925006",
+ "uf": "BA",
+ "municipio": "Planalto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/05/BANDEIRA_OFICIAL_PLANALTO_BAHIA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Planalto - Bahia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6b1233533ecab7a3e9533f895fbaa7c5b5062d9ef1667a069181e832d6cfb4b8",
+ "rendicoes": {
+  "png": {
+   "bytes": 72903,
+   "sha256": "f4d3ae5f699316a964ab1a8ce099d02fc646a1846081a3506ea2df7785e61398",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25203,
+   "sha256": "8655af95923f53a02c8cca7d0e6bd1c7c1f901bd503f03d661408f65f497b597",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2925006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2925006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2925006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2925006.jpg",
+  "bytes": 137267,
+  "sha256": "6b1233533ecab7a3e9533f895fbaa7c5b5062d9ef1667a069181e832d6cfb4b8"
+ },
+ "sha1_origem": "0f99d42e8637464af670efe474cbaadd779916e6",
+ "bytes_origem": 137267,
+ "capturado_em": "2026-11-08T05:56:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BANDEIRA_OFICIAL_PLANALTO_BAHIA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:36Z",
+  "estado": "igual",
+  "sha1_commons": "0f99d42e8637464af670efe474cbaadd779916e6"
+ }
+}

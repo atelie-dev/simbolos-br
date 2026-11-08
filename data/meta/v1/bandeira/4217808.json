@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4217808",
+ "uf": "SC",
+ "municipio": "Taió",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bandeira_do_munic%C3%ADpio_de_Tai%C3%B3_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Taió (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "fe85776c5a14bc0ac8a0fa07095b9398c694a361a32da328a824dcebe1d11960",
+ "rendicoes": {
+  "png": {
+   "bytes": 72901,
+   "sha256": "f5230d295655e79d4af3ebdad1310f197aacb62729fc3a05a625194957f2a916",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26604,
+   "sha256": "cb07dcc26faa0ff1d7a1f5cbb63b999f96ede7691545ce8e01711128a06ca651",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 120039,
+   "sha256": "fe85776c5a14bc0ac8a0fa07095b9398c694a361a32da328a824dcebe1d11960"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217808.jpg"
+ },
+ "sha1_origem": "6ec885a3a18bcccf27ab2a10a47dce3694380d90",
+ "bytes_origem": 120039,
+ "capturado_em": "2026-11-08T04:45:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Taió_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "6ec885a3a18bcccf27ab2a10a47dce3694380d90"
+ }
+}

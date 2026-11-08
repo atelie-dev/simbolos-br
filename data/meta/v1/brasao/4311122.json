@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4311122",
+ "uf": "RS",
+ "municipio": "Jaquirana",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bras%C3%A3o_Jaquirana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Jaquirana",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d5cf0a2b50ec74626a937648bb051a0b1db43859534c01e0455f080a1296df39",
+ "rendicoes": {
+  "png": {
+   "bytes": 84705,
+   "sha256": "80050e68f39d49c52104d1d2985a51cf7850fcda8e37cd273e3a3a3cbac40756",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17809,
+   "sha256": "77c3f66a64781a5949ae0687c7e4f3f370a600efab5390108bf95558d222d757",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311122.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311122.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311122.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4311122.jpg",
+  "bytes": 13432,
+  "sha256": "d5cf0a2b50ec74626a937648bb051a0b1db43859534c01e0455f080a1296df39"
+ },
+ "sha1_origem": "722193ee2bdda065ba907c559438dcf03d2be275",
+ "bytes_origem": 13432,
+ "capturado_em": "2026-11-08T07:04:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Jaquirana.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "722193ee2bdda065ba907c559438dcf03d2be275"
+ }
+}

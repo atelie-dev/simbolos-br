@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4108650",
+ "uf": "PR",
+ "municipio": "Goioxim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bandeira_Goioxim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d13cdb20f0de39461f19d128c6a5aabe9b1f03c924734b484a5a8809d1ea59f7",
+ "rendicoes": {
+  "png": {
+   "bytes": 86038,
+   "sha256": "6eee508c43ee84cc2abd7d0d9dd4dfeaec12b62468a86a6b025166b82e6538b7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21714,
+   "sha256": "4511e464e58dfd168d79fa052eb38e7536482ca4a2bfbefd0650fb74c0b6a068",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4108650.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4108650.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4108650.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4108650.jpg",
+  "bytes": 36101,
+  "sha256": "d13cdb20f0de39461f19d128c6a5aabe9b1f03c924734b484a5a8809d1ea59f7"
+ },
+ "sha1_origem": "fa9daee42dd5f9af7c96d10f5d481ddf638b3fc7",
+ "bytes_origem": 36101,
+ "capturado_em": "2026-11-08T06:44:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Goioxim.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "fa9daee42dd5f9af7c96d10f5d481ddf638b3fc7"
+ }
+}

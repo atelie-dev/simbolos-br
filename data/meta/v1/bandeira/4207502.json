@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4207502",
+ "uf": "SC",
+ "municipio": "Indaial",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bandeira_do_munic%C3%ADpio_de_Indaial_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Indaial (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c22106691866fe44f06ed48c6212418bd2e5dd8d775b1db97dc45c79e032b14d",
+ "rendicoes": {
+  "png": {
+   "bytes": 42110,
+   "sha256": "bdcdda92c82a3499eaa046bf25fed1a7996dbc53f72d0a12e7649c4a8d3164ae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21450,
+   "sha256": "22548a1f1447c65eeb8552a06b07f75e4592c1cfaa8e29e32b4ee80c609851ad",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 16976,
+   "sha256": "c22106691866fe44f06ed48c6212418bd2e5dd8d775b1db97dc45c79e032b14d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4207502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4207502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4207502.jpg"
+ },
+ "sha1_origem": "3da47e67a830d66af44c71efe9ea04f439fc1597",
+ "bytes_origem": 16976,
+ "capturado_em": "2026-11-08T04:39:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Indaial_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:19Z",
+  "estado": "igual",
+  "sha1_commons": "3da47e67a830d66af44c71efe9ea04f439fc1597"
+ }
+}

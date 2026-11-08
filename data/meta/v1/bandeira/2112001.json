@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2112001",
+ "uf": "MA",
+ "municipio": "Tasso Fragoso",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bandeira_do_Munic%C3%ADpio_de_Tasso_Fragoso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Tassofragosoma",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f7c630edfa851ab8fc0b6f84b0e78f93b27c441aeca3e9d415ea7162c1e03873",
+ "rendicoes": {
+  "png": {
+   "bytes": 29363,
+   "sha256": "1fdc131ce42d838d9caca72d44f6890c4b231f8d79b14892735de53211436146",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18838,
+   "sha256": "c495cf12c44b872402fec180806f05296e5ec66ca98b71d5d6504314c3e36ee5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2112001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2112001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2112001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2112001.jpg",
+  "bytes": 64252,
+  "sha256": "f7c630edfa851ab8fc0b6f84b0e78f93b27c441aeca3e9d415ea7162c1e03873"
+ },
+ "sha1_origem": "860cb558c1d65d376d0db49e2edcee7a8b87dd8c",
+ "bytes_origem": 64252,
+ "capturado_em": "2026-11-08T05:29:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_Município_de_Tasso_Fragoso.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "860cb558c1d65d376d0db49e2edcee7a8b87dd8c"
+ }
+}

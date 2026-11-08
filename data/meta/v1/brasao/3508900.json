@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3508900",
+ "uf": "SP",
+ "municipio": "Caiabu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bras%C3%A3o_de_Caiabu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "01f6da737ebbe0973483e4f80ba74b2c937e7572797c2ce8fdd6d7b19ebf6822",
+ "rendicoes": {
+  "png": {
+   "bytes": 171899,
+   "sha256": "00e6d6cc97be123ac883f8ebe48f173417bd51d86ba2be44efb42dcb41aebccb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31635,
+   "sha256": "84639926bc942b5c056cfb1f8724e7bb4105d5134ef598b93eadf3fa9208d6e1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3508900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3508900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3508900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3508900.jpg",
+  "bytes": 31420,
+  "sha256": "01f6da737ebbe0973483e4f80ba74b2c937e7572797c2ce8fdd6d7b19ebf6822"
+ },
+ "sha1_origem": "86beb2d2307f3dd62f695056a6179ffd229decc3",
+ "bytes_origem": 31420,
+ "capturado_em": "2026-11-08T06:25:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Caiabu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "86beb2d2307f3dd62f695056a6179ffd229decc3"
+ }
+}

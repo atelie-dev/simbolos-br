@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3537305",
+ "uf": "SP",
+ "municipio": "Penápolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Brasao_pliss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "90a23a1b94f55cc8d15066d7bc95196dbc9f540ca55c0f1de971a1c7b874aa42",
+ "rendicoes": {
+  "png": {
+   "bytes": 228921,
+   "sha256": "b3d01d20ec8594bd253b423c01fe1ffb6df13d591d30e2b94fd3a6f1023cb149",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32525,
+   "sha256": "d9abf448ab04e47c097b99a970d8c20da7dfb3a8b41cae1d900e2d3c3781a619",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3537305.jpg",
+  "bytes": 38001,
+  "sha256": "90a23a1b94f55cc8d15066d7bc95196dbc9f540ca55c0f1de971a1c7b874aa42"
+ },
+ "sha1_origem": "56b181703bd9572809540fcddf4d26c619455adf",
+ "bytes_origem": 38001,
+ "capturado_em": "2026-11-08T06:34:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_pliss.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "56b181703bd9572809540fcddf4d26c619455adf"
+ }
+}

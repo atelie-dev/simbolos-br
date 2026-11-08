@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4205803",
+ "uf": "SC",
+ "municipio": "Garuva",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bandeira_Garuva_SantaCatarina_Brasil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Garuva",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1306584b7a19c49b0046e3e62fa80506a5210be3b87cb2a9a7d4cbba2947379b",
+ "rendicoes": {
+  "png": {
+   "bytes": 30558,
+   "sha256": "f5789f9ce8e87385b060f4666afcd746b7a353417afdf116cd01509edb5dc914",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13970,
+   "sha256": "843e17192f27e7ee84595a346cd1bf6696b2f9cc4971f939ed499542182c58cb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4205803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4205803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4205803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4205803.png",
+  "bytes": 28661,
+  "sha256": "1306584b7a19c49b0046e3e62fa80506a5210be3b87cb2a9a7d4cbba2947379b"
+ },
+ "sha1_origem": "37187a7a32ff8fa96c9cc1343b627fa68b818887",
+ "bytes_origem": 28661,
+ "capturado_em": "2026-11-08T06:53:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Garuva_SantaCatarina_Brasil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "37187a7a32ff8fa96c9cc1343b627fa68b818887"
+ }
+}

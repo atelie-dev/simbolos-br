@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3201407",
+ "uf": "ES",
+ "municipio": "Castelo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bandeira_de_Castelo_%28Esp%C3%ADrito_Santo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "65864340faf543f61d025edf701f1d4c65091b81d73e697b275741fe5bd059a7",
+ "rendicoes": {
+  "png": {
+   "bytes": 33597,
+   "sha256": "e1b43f737968a2d7d021dac7cc8cc866356a5513b44cf3ce23c1eb382abf5e0c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12205,
+   "sha256": "0226e90810b632f308debfbfe3565872ab7cf031feeca93bb7c698819567d9bc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3201407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3201407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3201407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3201407.jpg",
+  "bytes": 7464,
+  "sha256": "65864340faf543f61d025edf701f1d4c65091b81d73e697b275741fe5bd059a7"
+ },
+ "sha1_origem": "3a785ac9932e59f16cfa8f565357aefb0f6876b2",
+ "bytes_origem": 7464,
+ "capturado_em": "2026-11-08T06:19:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Castelo_(Espírito_Santo).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "3a785ac9932e59f16cfa8f565357aefb0f6876b2"
+ }
+}

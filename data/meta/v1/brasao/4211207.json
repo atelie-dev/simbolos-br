@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211207",
+ "uf": "SC",
+ "municipio": "Morro da Fumaça",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Brasaomorrodafumaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8acb8903653b4f3b6120e31cc7dff0329e6cad42cb8a4cb5a15c16857b905b66",
+ "rendicoes": {
+  "png": {
+   "bytes": 189483,
+   "sha256": "851b11327012fecf14fe8456a4a6a068177a6bbd9b6ae19f38392b4209bafea3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41000,
+   "sha256": "b679a33e8cda2a797b3c16651c9df21356c4db1865016cc76a8a3fc0f56a88d8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4211207.jpg",
+  "bytes": 51353,
+  "sha256": "8acb8903653b4f3b6120e31cc7dff0329e6cad42cb8a4cb5a15c16857b905b66"
+ },
+ "sha1_origem": "83bc411ce7c0f45b02bf885667e95836db96b54b",
+ "bytes_origem": 51353,
+ "capturado_em": "2026-11-08T06:55:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaomorrodafumaca.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "83bc411ce7c0f45b02bf885667e95836db96b54b"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321204",
+ "uf": "RS",
+ "municipio": "Taquara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Brasao_taquara.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Taquara.",
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "c075c153975d3c67aae6e4a7a731c966c3d52d138911fdc9d4f69465d8ef35d5",
+ "rendicoes": {
+  "png": {
+   "bytes": 83468,
+   "sha256": "469a1c94846225c4be7e0ca5db1640dd73f0be63510ec8ab9469caa459c72340",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25913,
+   "sha256": "e6614ae24ff106972b9d1898cbfd39bcb170b05156efc02c436ac5cc3bc300d7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4321204.gif",
+  "bytes": 34245,
+  "sha256": "c075c153975d3c67aae6e4a7a731c966c3d52d138911fdc9d4f69465d8ef35d5"
+ },
+ "sha1_origem": "112fc48ef3b3d0996b70367b9b46666128b66179",
+ "bytes_origem": 34245,
+ "capturado_em": "2026-11-08T07:10:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_taquara.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "112fc48ef3b3d0996b70367b9b46666128b66179"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3531001",
+ "uf": "SP",
+ "municipio": "Monções",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bandeira_do_Munic%C3%ADpio_de_Mon%C3%A7%C3%B5es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Monções",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "04b321f266d55740257499bed8476a711d93f04ed5b2450ba568fb34336e9310",
+ "rendicoes": {
+  "png": {
+   "bytes": 56283,
+   "sha256": "c668c0e0e45d423361396312c0be2fe857186c8391eaf95f4fd3d1986050a36f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19370,
+   "sha256": "9f13ebde43cd8f0bc2cc58aa9b9ecb02e8b8edf2cdb10ba339abf723b15184d0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3531001.png",
+  "bytes": 425543,
+  "sha256": "04b321f266d55740257499bed8476a711d93f04ed5b2450ba568fb34336e9310"
+ },
+ "sha1_origem": "d222e17b1064022572e5ae8ccbd550c81663369e",
+ "bytes_origem": 425543,
+ "capturado_em": "2026-11-08T06:32:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_Município_de_Monções.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "d222e17b1064022572e5ae8ccbd550c81663369e"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5200803",
+ "uf": "GO",
+ "municipio": "Alvorada do Norte",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bras%C3%A3o_de_Alvorada_do_Norte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Alvorada do Norte",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "757acf48697385dc19bb8b1c40240ad84a47fabf5cb2c59585571fc872d4191b",
+ "rendicoes": {
+  "png": {
+   "bytes": 38477,
+   "sha256": "6cd73f4439b3a854aaef4b8830e38c29af5562b728f5940f507649b6ce293087",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10068,
+   "sha256": "178ee27fdf718a75bebc344f7933194a2ec64a2de50dcfa7b97b91d49b2dc54e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5200803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5200803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5200803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5200803.jpg",
+  "bytes": 7418,
+  "sha256": "757acf48697385dc19bb8b1c40240ad84a47fabf5cb2c59585571fc872d4191b"
+ },
+ "sha1_origem": "c476ffb49d4aad3302c9c462ee4e2e4cae273133",
+ "bytes_origem": 7418,
+ "capturado_em": "2026-11-08T07:16:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Alvorada_do_Norte.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "c476ffb49d4aad3302c9c462ee4e2e4cae273133"
+ }
+}

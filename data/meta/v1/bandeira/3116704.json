@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3116704",
+ "uf": "MG",
+ "municipio": "Coimbra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bandeira-coimbra-minas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Coimbra City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d72bd80e31c965dad69f711217f685deb728eb78ac4ee0363822f8fb7ba1b2cf",
+ "rendicoes": {
+  "png": {
+   "bytes": 6100,
+   "sha256": "05fd4aaab4042c4b45f456abaac0f54f231637f3698a7cd65b7c90badbe3612b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12907,
+   "sha256": "0ded334eb2bde1168a53b903cd9118fee0f3240e7e212baa02b24b33d0caa093",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3116704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3116704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3116704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3116704.png",
+  "bytes": 4084,
+  "sha256": "d72bd80e31c965dad69f711217f685deb728eb78ac4ee0363822f8fb7ba1b2cf"
+ },
+ "sha1_origem": "edce90b9af961c1474671c1e9b56be690f65dc4f",
+ "bytes_origem": 4084,
+ "capturado_em": "2026-11-08T06:03:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-coimbra-minas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "edce90b9af961c1474671c1e9b56be690f65dc4f"
+ }
+}

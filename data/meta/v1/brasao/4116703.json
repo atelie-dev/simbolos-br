@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4116703",
+ "uf": "PR",
+ "municipio": "Nova Aurora",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Brasao-novaaurora.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Nova Aurora City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "eed22eef605cc28fd2c0a2baebaddcc729499acd0516c0032b86d07e3800b559",
+ "rendicoes": {
+  "png": {
+   "bytes": 176879,
+   "sha256": "6d85ff439a5eab14356894b1ca4e950a87ed517da73d8b94f750cdea3c41a1af",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37081,
+   "sha256": "04311d0fa2d8fe16dd43bd406d16117b724ad810d210c0433b497d68987288bf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4116703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4116703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4116703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4116703.jpg",
+  "bytes": 28503,
+  "sha256": "eed22eef605cc28fd2c0a2baebaddcc729499acd0516c0032b86d07e3800b559"
+ },
+ "sha1_origem": "0254b781c02e99b427bd53115b3d9c62649196dd",
+ "bytes_origem": 28503,
+ "capturado_em": "2026-11-08T06:46:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-novaaurora.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "0254b781c02e99b427bd53115b3d9c62649196dd"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3101409",
+ "uf": "MG",
+ "municipio": "Albertina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Albertinamgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Albertina",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9bcc6e4636dd070526f02ab29fa8cda1e23b90efee84c11c07dde18bf56f20e4",
+ "rendicoes": {
+  "png": {
+   "bytes": 16523,
+   "sha256": "85d288cc361d996681cd98d844c1ba4c52d3e73b2edf0c92de6950a0c3c71310",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5196,
+   "sha256": "ea5f5cbdf29997291907c0d323c96b148106b3911fd9303c8ee67e30d409dfbe",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101409.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3101409.jpg",
+  "bytes": 2233,
+  "sha256": "9bcc6e4636dd070526f02ab29fa8cda1e23b90efee84c11c07dde18bf56f20e4"
+ },
+ "sha1_origem": "925b1639eb5a205665e06c119c16ec317b408566",
+ "bytes_origem": 2233,
+ "capturado_em": "2026-11-08T05:58:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Albertinamgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "925b1639eb5a205665e06c119c16ec317b408566"
+ }
+}

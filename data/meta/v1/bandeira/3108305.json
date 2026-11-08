@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3108305",
+ "uf": "MG",
+ "municipio": "Borda da Mata",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bandeira-bordadamata.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Borda da Mata City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c413f8c21efb24d1669081224962ed05a179d98567ccb30efbfbebbcd7d016ce",
+ "rendicoes": {
+  "png": {
+   "bytes": 6703,
+   "sha256": "6dc1e45859542d86bbf9f9e9f47920ba10badae4daf0348744a1be73905196f6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10811,
+   "sha256": "ba3105e47c1d216f2c1128f5c77e2e31800e11d2617285a9d5cb5ea0c0b13af6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3108305.png",
+  "bytes": 3540,
+  "sha256": "c413f8c21efb24d1669081224962ed05a179d98567ccb30efbfbebbcd7d016ce"
+ },
+ "sha1_origem": "ffe669fbfc97ec2341787312ba427b0f01866e97",
+ "bytes_origem": 3540,
+ "capturado_em": "2026-11-08T06:01:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-bordadamata.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "ffe669fbfc97ec2341787312ba427b0f01866e97"
+ }
+}

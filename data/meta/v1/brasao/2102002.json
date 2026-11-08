@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2102002",
+ "uf": "MA",
+ "municipio": "Bom Jardim",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bom-jardim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Bom Jardim",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4b2892c33861106c8d582fce858de9c2fba518bb6c02f50ff9d0ec6618285b43",
+ "rendicoes": {
+  "png": {
+   "bytes": 51957,
+   "sha256": "8650742dd113a2397cd7f735ff1110d81b4f9562adcdaadd8a09aaa880bdafa0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12736,
+   "sha256": "2aee4d48487acaa49c5650647156dbc8abb0257de4cb65e83330a3b4e9d28286",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2102002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2102002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2102002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2102002.jpg",
+  "bytes": 13632,
+  "sha256": "4b2892c33861106c8d582fce858de9c2fba518bb6c02f50ff9d0ec6618285b43"
+ },
+ "sha1_origem": "d5b297b845225b1d6f72ba134aa7ec7b998b9508",
+ "bytes_origem": 13632,
+ "capturado_em": "2026-11-08T05:27:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bom-jardim.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:27Z",
+  "estado": "igual",
+  "sha1_commons": "d5b297b845225b1d6f72ba134aa7ec7b998b9508"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2312304",
+ "uf": "CE",
+ "municipio": "São Benedito",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Brasaosbene.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Felipe Nepomuceno",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f493146b7a05b8739f5ba8cd7876b436c3d80c5dcdf0c8d811467cfbfa537ef3",
+ "rendicoes": {
+  "png": {
+   "bytes": 10592,
+   "sha256": "4ada47b59ac0c949f39ae0d61b284043fcd15e3ffa3a55226979a0f2aa487aa2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4740,
+   "sha256": "926630f5952f31b232d7082341adf9ae3aa79c33454cde0718ac36eb7e45c1a6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2312304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2312304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2312304.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2312304.png",
+  "bytes": 4201,
+  "sha256": "f493146b7a05b8739f5ba8cd7876b436c3d80c5dcdf0c8d811467cfbfa537ef3"
+ },
+ "sha1_origem": "f29a57ac4852a92cf77ae08cdae014844f5d5648",
+ "bytes_origem": 4201,
+ "capturado_em": "2026-11-08T05:35:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaosbene.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "f29a57ac4852a92cf77ae08cdae014844f5d5648"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3165537",
+ "uf": "MG",
+ "municipio": "Sarzedo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bras%C3%A3o_Sarzedo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8936371b3861331b096c4b738d19146eba5e54728a10ab145a07c4d0cae5f988",
+ "rendicoes": {
+  "png": {
+   "bytes": 42564,
+   "sha256": "e9bac0d2ebae03652144d11625ce86922416ff41fe729a52169082d51ee34520",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9850,
+   "sha256": "c757280e0ae094218b38e0161d0ca45a5d14642197f09f9468b20477a78b75ff",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3165537.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3165537.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3165537.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3165537.png",
+  "bytes": 41744,
+  "sha256": "8936371b3861331b096c4b738d19146eba5e54728a10ab145a07c4d0cae5f988"
+ },
+ "sha1_origem": "4140dd7a417af82a1c94552b12e66cc76f103eb6",
+ "bytes_origem": 41744,
+ "capturado_em": "2026-11-08T06:16:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Sarzedo.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "4140dd7a417af82a1c94552b12e66cc76f103eb6"
+ }
+}

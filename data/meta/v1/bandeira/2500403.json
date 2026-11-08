@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2500403",
+ "uf": "PB",
+ "municipio": "Alagoa Nova",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_de_Alagoa_Nova-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "4092e70d4056f8163a8e9454dd76968979f7d2ae1282fe84094e1161e0e857e0",
+ "rendicoes": {
+  "png": {
+   "bytes": 32910,
+   "sha256": "60129927c022f3c345c875d7bdd3955852f6649a26e8acb946313405088d1975",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20371,
+   "sha256": "90de807a3d39015e9da11a230cd422a76d572bb3861de4c0c7a91aefd124a80f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 7380,
+   "sha256": "4092e70d4056f8163a8e9454dd76968979f7d2ae1282fe84094e1161e0e857e0"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500403.jpg"
+ },
+ "sha1_origem": "9e35a5b3e3561e5e8aa16befe239f542fcdd8e5d",
+ "bytes_origem": 7380,
+ "capturado_em": "2026-11-08T02:54:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Alagoa_Nova-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "9e35a5b3e3561e5e8aa16befe239f542fcdd8e5d"
+ }
+}

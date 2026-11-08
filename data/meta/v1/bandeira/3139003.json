@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3139003",
+ "uf": "MG",
+ "municipio": "Machado",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bandeira_de_Machado_-_MG.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "41e8cbf27f55fa7d8d0b669a7ef749d056421953636a4894f39bf90830f73527",
+ "rendicoes": {
+  "png": {
+   "bytes": 43102,
+   "sha256": "12b07c1a5b3aab266c5e14fd63f504d4f7fae6b11e4cd880ebd9d0d9c4b69300",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18773,
+   "sha256": "24bfcbac85d27112534b2df2e926779946381bac28c89adcc45f4fd62bd82762",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 300278,
+   "sha256": "41e8cbf27f55fa7d8d0b669a7ef749d056421953636a4894f39bf90830f73527"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3139003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3139003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3139003.jpg"
+ },
+ "sha1_origem": "cc59038ddaf2edc689ae189f3732c51d5c409b57",
+ "bytes_origem": 300278,
+ "capturado_em": "2026-11-08T03:41:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Machado_-_MG.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "cc59038ddaf2edc689ae189f3732c51d5c409b57"
+ }
+}

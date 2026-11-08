@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3520905",
+ "uf": "SP",
+ "municipio": "Ipaussu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bras%C3%A3o_Ipaussu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "39e84cdb0ef3d64baa6cccfa9ce8c3caf56075b6666ab8309d0351a75d669734",
+ "rendicoes": {
+  "png": {
+   "bytes": 72171,
+   "sha256": "b65bcc25a12f8effd545c09ba629cbdc790dfe0fac63abd2aa3afa634b258b34",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15414,
+   "sha256": "a7cfb1cdcfa80462d56af67dc63b36025c3fd8b502414171a6fc921ea1770061",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3520905.jpg",
+  "bytes": 41152,
+  "sha256": "39e84cdb0ef3d64baa6cccfa9ce8c3caf56075b6666ab8309d0351a75d669734"
+ },
+ "sha1_origem": "9853db943ad6abc10abf40936c0b722aa8de00f1",
+ "bytes_origem": 41152,
+ "capturado_em": "2026-11-08T06:29:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Ipaussu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "9853db943ad6abc10abf40936c0b722aa8de00f1"
+ }
+}

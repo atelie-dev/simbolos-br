@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4128658",
+ "uf": "PR",
+ "municipio": "Virmond",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bras%C3%A3o_de_Virmond.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Virmond",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e16e7824bad989f890edb2217ddbaddad92da246d6a4c568e6e32978b0a64a83",
+ "rendicoes": {
+  "png": {
+   "bytes": 335239,
+   "sha256": "c5318efe370db87200edbe2734c61916be2606f2a023d5f0b164c39093eef7cb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56099,
+   "sha256": "72c92de1f36da9b397596e4ef4aacce5894534cd7e480b2a8e9e767664355a5f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4128658.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4128658.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4128658.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4128658.png",
+  "bytes": 707874,
+  "sha256": "e16e7824bad989f890edb2217ddbaddad92da246d6a4c568e6e32978b0a64a83"
+ },
+ "sha1_origem": "2d53523d3aa98b32a3cf4abdbff5b98401454876",
+ "bytes_origem": 707874,
+ "capturado_em": "2026-11-08T06:51:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Virmond.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "2d53523d3aa98b32a3cf4abdbff5b98401454876"
+ }
+}

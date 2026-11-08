@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3516705",
+ "uf": "SP",
+ "municipio": "Garça",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bandeira_Gar%C3%A7a.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2769b9007430abde2d9a0904e9fcb9ff06910f10988a87931463d3587d379b18",
+ "rendicoes": {
+  "png": {
+   "bytes": 19284,
+   "sha256": "bf0b95e5a36c98cccf3d651349cb3105e82c212ceff4bb984974d8b4a6b8906d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5185,
+   "sha256": "25584604b1aa5d91f0bd7a63c49d5cd10e45fb55637ff473684d02d6b4d7cc16",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3516705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3516705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3516705.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3516705.png",
+  "bytes": 20200,
+  "sha256": "2769b9007430abde2d9a0904e9fcb9ff06910f10988a87931463d3587d379b18"
+ },
+ "sha1_origem": "c7edc5d66d25cfaec30c731e191530cac8a8f64a",
+ "bytes_origem": 20200,
+ "capturado_em": "2026-11-08T06:28:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Garça.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "c7edc5d66d25cfaec30c731e191530cac8a8f64a"
+ }
+}

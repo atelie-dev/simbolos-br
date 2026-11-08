@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1400209",
+ "uf": "RR",
+ "municipio": "Caracaraí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bandeira_Caracarai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Caracaraí.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "80f7e3a369dd564c8b07bb254024555fb3f8c12d6a6b1a118f0798195dbead77",
+ "rendicoes": {
+  "png": {
+   "bytes": 6290,
+   "sha256": "d2d6fc491c13b140bf02e0db7d343c9329d0d3811e792f0a185f22c1e43c544e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4834,
+   "sha256": "42872388f04794783edd0189f2086311b098a667bd34b9672ceb083aec828792",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1400209.jpg",
+  "bytes": 24105,
+  "sha256": "80f7e3a369dd564c8b07bb254024555fb3f8c12d6a6b1a118f0798195dbead77"
+ },
+ "sha1_origem": "9beefdff4f76943a3c63904a9235c67aa3ee9460",
+ "bytes_origem": 24105,
+ "capturado_em": "2026-11-08T05:23:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Caracarai.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "9beefdff4f76943a3c63904a9235c67aa3ee9460"
+ }
+}

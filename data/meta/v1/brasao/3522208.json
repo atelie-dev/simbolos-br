@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3522208",
+ "uf": "SP",
+ "municipio": "Itapecerica da Serra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bras%C3%A3o_de_Itapecerica_da_Serra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "489b0e3e219c1654c34632ee6cdf9e1177ee7a0a287824eafb69378381aa9e99",
+ "rendicoes": {
+  "png": {
+   "bytes": 226170,
+   "sha256": "2d46bb16e662665a50a88a6a88ff551837da90f91f729fe607d89f60b29b4e26",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38637,
+   "sha256": "7275e26f2b552b9e2a9eec2f1ae3a71ca918ae17d0f1c9cd72689bf23eed4703",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3522208.jpg",
+  "bytes": 119494,
+  "sha256": "489b0e3e219c1654c34632ee6cdf9e1177ee7a0a287824eafb69378381aa9e99"
+ },
+ "sha1_origem": "cb2577c5a67d31c6967061301b943b94f2d5b67c",
+ "bytes_origem": 119494,
+ "capturado_em": "2026-11-08T06:29:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Itapecerica_da_Serra.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "cb2577c5a67d31c6967061301b943b94f2d5b67c"
+ }
+}

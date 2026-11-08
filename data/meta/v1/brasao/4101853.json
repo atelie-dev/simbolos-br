@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4101853",
+ "uf": "PR",
+ "municipio": "Ariranha do Ivaí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bras%C3%A3o_Ariranha_do_Iva%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "029650c49b28d415d8a72c04f0d6df12e412cbaae6145341fa3cd5a45a1ba3f4",
+ "rendicoes": {
+  "png": {
+   "bytes": 43082,
+   "sha256": "30f2970c8aaad9670f8e53ff40a7a6270d8bf4d06090aef1694ce70ee8acc8b0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10569,
+   "sha256": "aaa4be12016055c589bc55e782d26a5c9e73e236e5705b561c621fe27021801b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101853.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101853.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101853.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4101853.jpg",
+  "bytes": 10531,
+  "sha256": "029650c49b28d415d8a72c04f0d6df12e412cbaae6145341fa3cd5a45a1ba3f4"
+ },
+ "sha1_origem": "a93caa2762e243833971b5a7240e7c71fb62660d",
+ "bytes_origem": 10531,
+ "capturado_em": "2026-11-08T06:41:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Ariranha_do_Ivaí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "a93caa2762e243833971b5a7240e7c71fb62660d"
+ }
+}

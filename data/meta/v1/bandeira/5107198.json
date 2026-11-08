@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5107198",
+ "uf": "MT",
+ "municipio": "Ribeirãozinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bandeira_de_Ribeir%C3%A3ozinho.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camervan",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ccd86cd12fb02d8ded44578c7c6403caf12c9433ec144a420fee178e34961c4d",
+ "rendicoes": {
+  "png": {
+   "bytes": 15014,
+   "sha256": "11e463eec7739c0d131a726d118ab3857321afcdb012696707de1c3912f900ac",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9031,
+   "sha256": "2582ebcce0b2b2e5aceac4c4b9744916a2a96399c256c14327572fba7301a2e7",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 3267,
+   "sha256": "ccd86cd12fb02d8ded44578c7c6403caf12c9433ec144a420fee178e34961c4d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107198.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107198.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107198.jpg"
+ },
+ "sha1_origem": "2e6b85f02416ce3779f9702bc24ccd913917b237",
+ "bytes_origem": 3267,
+ "capturado_em": "2026-11-08T05:07:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ribeirãozinho.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "2e6b85f02416ce3779f9702bc24ccd913917b237"
+ }
+}

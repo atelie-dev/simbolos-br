@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2510501",
+ "uf": "PB",
+ "municipio": "Olivedos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bandeira_Olivedos.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Olivedos",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "487c9ca211e25433b37475682fc66955200d82b92aaee5244b553377309303d8",
+ "rendicoes": {
+  "png": {
+   "bytes": 40900,
+   "sha256": "e6e184ccff4c38a7ff3bbe8a1d789bb6b3a571a2ff5d2847e04df755e86db3a5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19699,
+   "sha256": "8d803996d2407c77232b33bc72684f7e4fb319271ff588f9c211da1054a06057",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2510501.png",
+  "bytes": 62256,
+  "sha256": "487c9ca211e25433b37475682fc66955200d82b92aaee5244b553377309303d8"
+ },
+ "sha1_origem": "f69542b44ae34643e6e1be46debfdda643e50e94",
+ "bytes_origem": 62256,
+ "capturado_em": "2026-11-08T05:42:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Olivedos.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "f69542b44ae34643e6e1be46debfdda643e50e94"
+ }
+}

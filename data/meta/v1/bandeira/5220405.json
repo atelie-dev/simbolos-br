@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5220405",
+ "uf": "GO",
+ "municipio": "São Simão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bandeirasaosimao-go.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Simão",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fc2bf3d283809673641a7aded0decbf867789c3840f4fc62b893b5d465f8700f",
+ "rendicoes": {
+  "png": {
+   "bytes": 97411,
+   "sha256": "9190d0b10882ff9d9f6742d8d6a2e113a42f197c12103de2504ae5f3202629de",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24951,
+   "sha256": "96c899758305e7e110156ed37ffdbf9dd2eff704c4eca90e73e871d11efe0ad5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5220405.png",
+  "bytes": 96635,
+  "sha256": "fc2bf3d283809673641a7aded0decbf867789c3840f4fc62b893b5d465f8700f"
+ },
+ "sha1_origem": "d0f67224180595971c00ba5a3a67ac78bf7ffabf",
+ "bytes_origem": 96635,
+ "capturado_em": "2026-11-08T07:20:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeirasaosimao-go.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "d0f67224180595971c00ba5a3a67ac78bf7ffabf"
+ }
+}

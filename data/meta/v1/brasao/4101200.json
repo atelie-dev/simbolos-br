@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4101200",
+ "uf": "PR",
+ "municipio": "Antonina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Antonina-brasao-oficial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Antonina",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8704723628f50274cd6d0b6ea2f7724fce8fefb6ad1d17824b2095566419235f",
+ "rendicoes": {
+  "png": {
+   "bytes": 151255,
+   "sha256": "1115f4c15de6828ac12ea67c1df9cecbb2db1d35347234b288a209acc47b1bd4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27725,
+   "sha256": "283763d42de6d6121e8c92b55271ed0c5f58180cf873c2a2f9d6dbea72ccd4df",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4101200.jpg",
+  "bytes": 23159,
+  "sha256": "8704723628f50274cd6d0b6ea2f7724fce8fefb6ad1d17824b2095566419235f"
+ },
+ "sha1_origem": "524d5db2c29ba8be2f7f77674f4720bcd2892743",
+ "bytes_origem": 23159,
+ "capturado_em": "2026-11-08T06:41:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Antonina-brasao-oficial.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "524d5db2c29ba8be2f7f77674f4720bcd2892743"
+ }
+}

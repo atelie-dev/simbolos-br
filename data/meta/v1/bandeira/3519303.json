@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3519303",
+ "uf": "SP",
+ "municipio": "Ibaté",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Ibat%C3%A9_-_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "562a14545942afd6ceeb72bdbe295fb568618e07a350855d9c04e35e12bcb395",
+ "rendicoes": {
+  "png": {
+   "bytes": 58174,
+   "sha256": "9e5a3dcba478694b929b0e3a5a4ca616bb11c7fc37f195dcc615c29b462ced40",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19026,
+   "sha256": "f63e05a8fb20a3781c98342e517769e3ff9bcdc57aa722ee23e154913784fc15",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3519303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3519303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3519303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3519303.png",
+  "bytes": 66516,
+  "sha256": "562a14545942afd6ceeb72bdbe295fb568618e07a350855d9c04e35e12bcb395"
+ },
+ "sha1_origem": "25e3289fd773a8f0834951f90d323f208c79a670",
+ "bytes_origem": 66516,
+ "capturado_em": "2026-11-08T06:28:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Ibaté_-_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "25e3289fd773a8f0834951f90d323f208c79a670"
+ }
+}

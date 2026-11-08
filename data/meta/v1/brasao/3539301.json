@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3539301",
+ "uf": "SP",
+ "municipio": "Pirassununga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Pirassununga_Brasao.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "e070c3255a5b1a16a0bf0a5de7bd40b0ee4a6eed4e2f7d7dec73f6ce533b7774",
+ "rendicoes": {
+  "png": {
+   "bytes": 46143,
+   "sha256": "b8131bf8746406b6f64111c03fbebc6efa2e7f27c48c5a0bf21b786202e66c59",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14102,
+   "sha256": "2e19e923abd37b0b36b36b00b6efb23bd80b925b6051e7a31caf13a33191fca7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3539301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3539301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3539301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3539301.gif",
+  "bytes": 19236,
+  "sha256": "e070c3255a5b1a16a0bf0a5de7bd40b0ee4a6eed4e2f7d7dec73f6ce533b7774"
+ },
+ "sha1_origem": "812e1791d6d3504d98f998708fa8aefa54a32f62",
+ "bytes_origem": 19236,
+ "capturado_em": "2026-11-08T06:35:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Pirassununga_Brasao.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "812e1791d6d3504d98f998708fa8aefa54a32f62"
+ }
+}

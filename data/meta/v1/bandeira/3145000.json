@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3145000",
+ "uf": "MG",
+ "municipio": "Nova Ponte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bandeira_de_Nova_Ponte-MG.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nova Ponte Minas Gerais",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "43bd1f605930b2e97a267b9eecaed108210e6e37c3622cccafc301cad2557666",
+ "rendicoes": {
+  "png": {
+   "bytes": 36059,
+   "sha256": "34e77d851bd1452a049b07db6ff452266ca01e219ab5caccd6481023ae39a5b7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11830,
+   "sha256": "90c59b819960b3a210bbc9c651b2b8c09ce5557a49cd4a74cedb240c52d51ed9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3145000.jpg",
+  "bytes": 10239,
+  "sha256": "43bd1f605930b2e97a267b9eecaed108210e6e37c3622cccafc301cad2557666"
+ },
+ "sha1_origem": "6e33cabbaa9a6f3157944938711dfde0a0fb1a98",
+ "bytes_origem": 10239,
+ "capturado_em": "2026-11-08T06:12:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nova_Ponte-MG.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "6e33cabbaa9a6f3157944938711dfde0a0fb1a98"
+ }
+}

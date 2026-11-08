@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3536000",
+ "uf": "SP",
+ "municipio": "Parapuã",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bras%C3%A3o_Parapu%C3%A3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1edf53a16035116ab6599e7ad1bc55dc463a39d713516697a2a1e8565245126e",
+ "rendicoes": {
+  "png": {
+   "bytes": 77645,
+   "sha256": "fa1b9a332d43b0008720b258e7590a3fa07292361dfd3e847b2328b3d6135405",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16886,
+   "sha256": "e5384d05d5784623c2c8899c127f646a6f6746c8abc036cc0a0454612d28ab41",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3536000.jpg",
+  "bytes": 43976,
+  "sha256": "1edf53a16035116ab6599e7ad1bc55dc463a39d713516697a2a1e8565245126e"
+ },
+ "sha1_origem": "77441c00e231b25847a57ee1aa752004d6585bea",
+ "bytes_origem": 43976,
+ "capturado_em": "2026-11-08T06:34:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Parapuã.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "77441c00e231b25847a57ee1aa752004d6585bea"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3107901",
+ "uf": "MG",
+ "municipio": "Bom Repouso",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bom_Repousomgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Bom Repouso",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "178c5c05d51a1534fd06ae0b87728f23321647b6ce893f3c1384d8150af827ca",
+ "rendicoes": {
+  "png": {
+   "bytes": 67703,
+   "sha256": "366f72ab11ad1058c9c74b9e1a814b6f78e4839ea73bc62489137f360deb0cdb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21216,
+   "sha256": "6798de8c3ef6e830fd3f350383bfa9ca84e012b43fca9c6b9496d229cb17612d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3107901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3107901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3107901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3107901.jpg",
+  "bytes": 14534,
+  "sha256": "178c5c05d51a1534fd06ae0b87728f23321647b6ce893f3c1384d8150af827ca"
+ },
+ "sha1_origem": "0b2a7fe2d34ba8b81eb7b3a36a65e615c12a878c",
+ "bytes_origem": 14534,
+ "capturado_em": "2026-11-08T06:00:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bom_Repousomgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:27Z",
+  "estado": "igual",
+  "sha1_commons": "0b2a7fe2d34ba8b81eb7b3a36a65e615c12a878c"
+ }
+}

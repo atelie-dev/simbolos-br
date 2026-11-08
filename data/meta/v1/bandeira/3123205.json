@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3123205",
+ "uf": "MG",
+ "municipio": "Dores do Indaiá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bandeiradoresdoindaia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Maria de Fátima Oliveira Caetano",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e0bf42c3c9a0a3dbf2ab4d30fe10b1ad3eeefb12803f65eba4bbcb956ca2d4d7",
+ "rendicoes": {
+  "png": {
+   "bytes": 96694,
+   "sha256": "a305fd218dbd0a1305fdf2f6178f6aa882f2db137a486f6d359a712508a28fb7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28754,
+   "sha256": "6a1f4ae7526b242c9220f6c647e4dee72e8c3641dc4fe0cc7765fa3389960951",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123205.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3123205.jpg",
+  "bytes": 66736,
+  "sha256": "e0bf42c3c9a0a3dbf2ab4d30fe10b1ad3eeefb12803f65eba4bbcb956ca2d4d7"
+ },
+ "sha1_origem": "fc3c6035cd48b30456b482800789b5eced982892",
+ "bytes_origem": 66736,
+ "capturado_em": "2026-11-08T06:06:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiradoresdoindaia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "fc3c6035cd48b30456b482800789b5eced982892"
+ }
+}

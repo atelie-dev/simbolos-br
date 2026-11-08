@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4103701",
+ "uf": "PR",
+ "municipio": "Cambé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bandeira_Cambe_Parana_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a87d70814a556386882ea645f9b7491abb0987f9205102c216cd5fb4c41a8637",
+ "rendicoes": {
+  "png": {
+   "bytes": 7335,
+   "sha256": "ed56dc4738d98fa399c8ccfc3fb7ea109b705a73c2ea598d3f8e0e7af7f7d23e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10547,
+   "sha256": "f7b1627acf08bf3d282bb6dc58fec912f084bffe3e7edb31dd9108c279bf1700",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 406,
+   "sha256": "a87d70814a556386882ea645f9b7491abb0987f9205102c216cd5fb4c41a8637"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103701.jpg"
+ },
+ "sha1_origem": "cfef0da73387ca8b92ce820c8b6605da2aca6b9b",
+ "bytes_origem": 406,
+ "capturado_em": "2026-11-08T04:22:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Cambe_Parana_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "cfef0da73387ca8b92ce820c8b6605da2aca6b9b"
+ }
+}

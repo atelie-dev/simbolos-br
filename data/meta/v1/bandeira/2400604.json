@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2400604",
+ "uf": "RN",
+ "municipio": "Almino Afonso",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bandeira_Almino_Afonso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Fábio Roberto Nunes Araújo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bab1a83532ed2beba517387e639aa7282049ca05102441b928bc3005b8dfd66c",
+ "rendicoes": {
+  "png": {
+   "bytes": 354392,
+   "sha256": "014def2397378a4534a76cb7ff7926d753b1a6b1110c79feb6e585b7a9930f24",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 50841,
+   "sha256": "282100dde6090ace115761c0447ccebe7c99f3a072781f5bd362da192169d90f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2400604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2400604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2400604.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2400604.jpg",
+  "bytes": 1291299,
+  "sha256": "bab1a83532ed2beba517387e639aa7282049ca05102441b928bc3005b8dfd66c"
+ },
+ "sha1_origem": "d83809cdd007d9504be28a092a048b876df51a60",
+ "bytes_origem": 1291299,
+ "capturado_em": "2026-11-08T05:35:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Almino_Afonso.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "d83809cdd007d9504be28a092a048b876df51a60"
+ }
+}

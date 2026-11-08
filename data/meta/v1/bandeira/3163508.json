@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3163508",
+ "uf": "MG",
+ "municipio": "São José do Jacuri",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Bandeira_de_S%C3%A3o_Jos%C3%A9_do_Jacuri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "marcelo augusto",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4d3aae3f8d4740335990c4ba037cfb49e60a8d7154284ef6904f4d007b3a8643",
+ "rendicoes": {
+  "png": {
+   "bytes": 56578,
+   "sha256": "8d78cade58d92a0d3b74bdc74c511123d933a50d6111bf3a8006a781eb60ae5a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20987,
+   "sha256": "ebf822a5fe7dbb51e39647fc6d0cfe116fa1e526b2e18cc1b17929844191cbbb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3163508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3163508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3163508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3163508.jpg",
+  "bytes": 156039,
+  "sha256": "4d3aae3f8d4740335990c4ba037cfb49e60a8d7154284ef6904f4d007b3a8643"
+ },
+ "sha1_origem": "644809540570f508c5526538c6da1f6a950fab62",
+ "bytes_origem": 156039,
+ "capturado_em": "2026-11-08T06:16:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_José_do_Jacuri.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "644809540570f508c5526538c6da1f6a950fab62"
+ }
+}

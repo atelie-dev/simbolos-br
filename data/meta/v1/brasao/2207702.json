@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2207702",
+ "uf": "PI",
+ "municipio": "Parnaíba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Brasaophb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Parnaíba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "47960bfbda9e41bda9f27e6b491aca04ea22de9f83d5fa6698e0ab3e28fe0eab",
+ "rendicoes": {
+  "png": {
+   "bytes": 138589,
+   "sha256": "e9fe0096fb310a9155e8f1692b3436f6a830fc8ccabd32a135358c28554a1f0a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32585,
+   "sha256": "ee18c0bbfe959c95bb8c2b875c17125b85cd6aa4dd82425ff7289d022402d44e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2207702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2207702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2207702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2207702.jpg",
+  "bytes": 38333,
+  "sha256": "47960bfbda9e41bda9f27e6b491aca04ea22de9f83d5fa6698e0ab3e28fe0eab"
+ },
+ "sha1_origem": "6c2e733dc34e699ad681ef522931f0bf0b9ddd0b",
+ "bytes_origem": 38333,
+ "capturado_em": "2026-11-08T05:31:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaophb.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "6c2e733dc34e699ad681ef522931f0bf0b9ddd0b"
+ }
+}

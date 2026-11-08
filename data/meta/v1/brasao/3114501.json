@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3114501",
+ "uf": "MG",
+ "municipio": "Carmópolis de Minas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bras%C3%A3oCarmopolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Carmópolis de Minas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f8a78e5e27cd054fd6f924e89f1cec48aed28fd55f9a601aeca6bc93feb47ddb",
+ "rendicoes": {
+  "png": {
+   "bytes": 291439,
+   "sha256": "bbd6442a17cce31d0baafad4b10928954f4cae46d5958927bda4f2b6ece40b71",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 85107,
+   "sha256": "3a74d670a4b74a4157f4784a57035bca82c50336ddcbb22855e621b616ef9cb9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3114501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3114501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3114501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3114501.jpg",
+  "bytes": 144750,
+  "sha256": "f8a78e5e27cd054fd6f924e89f1cec48aed28fd55f9a601aeca6bc93feb47ddb"
+ },
+ "sha1_origem": "768d76a3fa3a7e7e6a0d252182b815d6029a1dd1",
+ "bytes_origem": 144750,
+ "capturado_em": "2026-11-08T06:03:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasãoCarmopolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "768d76a3fa3a7e7e6a0d252182b815d6029a1dd1"
+ }
+}

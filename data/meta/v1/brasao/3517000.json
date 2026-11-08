@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3517000",
+ "uf": "SP",
+ "municipio": "Getulina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bras%C3%A3o_de_Getulina_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5cbd9ef45f323fe340d42156fd90d80d93be2c1b92a79e882dc5319f4f926b8a",
+ "rendicoes": {
+  "png": {
+   "bytes": 191486,
+   "sha256": "7491fc61c5041f0f8d9af54ccd3bc401be50af580ce366ee858055f57a8a17e3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60877,
+   "sha256": "903fc69535baf672e818587c6db9a15c98ec0fdc9a7e90c46ecd2a0fad9bf463",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 408626,
+   "sha256": "5cbd9ef45f323fe340d42156fd90d80d93be2c1b92a79e882dc5319f4f926b8a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3517000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3517000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3517000.jpg"
+ },
+ "sha1_origem": "30fa609e6c3e02aeca56a725b245a0b9e8b4da5d",
+ "bytes_origem": 408626,
+ "capturado_em": "2026-11-08T04:03:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Getulina_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:02Z",
+  "estado": "igual",
+  "sha1_commons": "30fa609e6c3e02aeca56a725b245a0b9e8b4da5d"
+ }
+}

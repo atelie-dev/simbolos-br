@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2414902",
+ "uf": "RN",
+ "municipio": "Viçosa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bras%C3%A3o_de_Vi%C3%A7osa_%28RN%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Viçosa/RN",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ef6efb3a1bbf340ca3a074396eb70f878d2f32fed7996179fc470f833f50d3b2",
+ "rendicoes": {
+  "png": {
+   "bytes": 33552,
+   "sha256": "5310185b2a34085917fc0b6ce95b383cb0cf90d225be4bf413529130a78f197d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9090,
+   "sha256": "b16f329df277abaf61dc2b6a30dc6aa415f64db132a3fea7adf2072ba138a568",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2414902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2414902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2414902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2414902.png",
+  "bytes": 33595,
+  "sha256": "ef6efb3a1bbf340ca3a074396eb70f878d2f32fed7996179fc470f833f50d3b2"
+ },
+ "sha1_origem": "72ddb2db2c698ffaa2a5264e046ab7c665c45519",
+ "bytes_origem": 33595,
+ "capturado_em": "2026-11-08T05:39:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Viçosa_(RN).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "72ddb2db2c698ffaa2a5264e046ab7c665c45519"
+ }
+}

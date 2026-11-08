@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2515971",
+ "uf": "PB",
+ "municipio": "Sobrado",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bras%C3%A3o_Sobrado-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Sobrado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3c40a71d267e7a45198b77539d3d57acb4ddaebbd1057944fbd010bb6ba80bae",
+ "rendicoes": {
+  "png": {
+   "bytes": 56850,
+   "sha256": "d6a45391cf9bfbe052cd9b49aa10915ec0cf4c65faafd1c3b12a7f3298a3aad2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13048,
+   "sha256": "30973d352e4ee211d7e680785f90dd313099fa382cf175d3a26e96dcf3d6cc8b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2515971.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2515971.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2515971.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2515971.jpg",
+  "bytes": 17215,
+  "sha256": "3c40a71d267e7a45198b77539d3d57acb4ddaebbd1057944fbd010bb6ba80bae"
+ },
+ "sha1_origem": "5be5f92cfeef435ce24f68a621ac0f76b86be00a",
+ "bytes_origem": 17215,
+ "capturado_em": "2026-11-08T05:44:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Sobrado-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "5be5f92cfeef435ce24f68a621ac0f76b86be00a"
+ }
+}

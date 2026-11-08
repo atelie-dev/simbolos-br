@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3550605",
+ "uf": "SP",
+ "municipio": "São Roque",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bandeirasroquesp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Não Informado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2d541e751f8d0774a3d5f1aebca2bd56025f8c49f4210fd7769fac3cbc52ebb0",
+ "rendicoes": {
+  "png": {
+   "bytes": 92693,
+   "sha256": "b09bfb3d92cc29debef01f0f5bf0ae0e283f3575b57983891fa1de144ceebb48",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21173,
+   "sha256": "a19a9fc37daff115cc08471155a8665f50061a076d46729cb4dfae0a84e71fa0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3550605.jpg",
+  "bytes": 23114,
+  "sha256": "2d541e751f8d0774a3d5f1aebca2bd56025f8c49f4210fd7769fac3cbc52ebb0"
+ },
+ "sha1_origem": "d2448bf83d8bb2ebbc3f71e8b2cfd0538f266913",
+ "bytes_origem": 23114,
+ "capturado_em": "2026-11-08T06:38:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeirasroquesp.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "d2448bf83d8bb2ebbc3f71e8b2cfd0538f266913"
+ }
+}

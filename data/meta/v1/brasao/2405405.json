@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2405405",
+ "uf": "RN",
+ "municipio": "Japi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bras%C3%A3o_Japi_RN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://japi.rn.gov.br/",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bf5f3f139908cbad6f0bec9717bb3e88d50099cfe6bfe0a88974a80468cb6906",
+ "rendicoes": {
+  "png": {
+   "bytes": 220880,
+   "sha256": "e215f048493880a0f236754c0e855a3077a5802f3b100a05fc168f3f36ca8c3e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34708,
+   "sha256": "bd692c7a8a7b6fe502389b9585d3fcf99c44bc2ad6af93b068c79058768b9cb5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2405405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2405405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2405405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2405405.jpg",
+  "bytes": 34244,
+  "sha256": "bf5f3f139908cbad6f0bec9717bb3e88d50099cfe6bfe0a88974a80468cb6906"
+ },
+ "sha1_origem": "484d761ba233cbd453a8a23c29e03fa2e44bd447",
+ "bytes_origem": 34244,
+ "capturado_em": "2026-11-08T05:37:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Japi_RN.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "484d761ba233cbd453a8a23c29e03fa2e44bd447"
+ }
+}

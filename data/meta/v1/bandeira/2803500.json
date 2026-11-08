@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2803500",
+ "uf": "SE",
+ "municipio": "Lagarto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bandeira-de-lagarto-se.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Lagarto-SE",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d91101ce682d2fe3b056c3a432ce8020cef1651cd6b05b7dc2ef8794bea01618",
+ "rendicoes": {
+  "png": {
+   "bytes": 71178,
+   "sha256": "abda44d277f22bcbd88a562ef48686be43ed936a6fef1c0718bd617b4d1b7c0d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20390,
+   "sha256": "40eb1d15078f364e90cb19e6dfc4a453d7b4ccb175b7a960a55841a3f6373234",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2803500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2803500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2803500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2803500.jpg",
+  "bytes": 27421,
+  "sha256": "d91101ce682d2fe3b056c3a432ce8020cef1651cd6b05b7dc2ef8794bea01618"
+ },
+ "sha1_origem": "4303c8bc172122f1f56ec70832cdbf3914c3187d",
+ "bytes_origem": 27421,
+ "capturado_em": "2026-11-08T05:49:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-de-lagarto-se.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "4303c8bc172122f1f56ec70832cdbf3914c3187d"
+ }
+}

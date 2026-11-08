@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3143302",
+ "uf": "MG",
+ "municipio": "Montes Claros",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bandeira_MontesClaros_MinasGerais_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5bb09d3e433bf8cd58a388cfceca6294ebf64cf854b758dffc56c1577b2ef933",
+ "rendicoes": {
+  "png": {
+   "bytes": 11172,
+   "sha256": "3e73cb0c34652b3a4f192195616d0870ea3ac28837b3ea1c1275d8e70c72560d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9599,
+   "sha256": "7b176bfaf48e3d35908f19f8d30429b7e8fe8684f4c064a834f91f4608061111",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 562,
+   "sha256": "5bb09d3e433bf8cd58a388cfceca6294ebf64cf854b758dffc56c1577b2ef933"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3143302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3143302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3143302.jpg"
+ },
+ "sha1_origem": "d0afc59a5148b241b2c3ef87eb5df61d30de6167",
+ "bytes_origem": 562,
+ "capturado_em": "2026-11-08T03:42:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_MontesClaros_MinasGerais_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "d0afc59a5148b241b2c3ef87eb5df61d30de6167"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3156106",
+ "uf": "MG",
+ "municipio": "Ritápolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Brasaoritapolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ritápolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "93b40f120d9af0aa263a9ad4d00c8170c5ecf51e4ec27771ecb00552e6b94f6d",
+ "rendicoes": {
+  "png": {
+   "bytes": 277605,
+   "sha256": "984aa740d27dc9b385545d65f552126f9e05a27ec72e10fb524a5fffe8fb273f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56591,
+   "sha256": "9aa9a6d841b78dcd422eab8430138d4093ed9eb0fbea72407202cb7f3122c790",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3156106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3156106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3156106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3156106.jpg",
+  "bytes": 53418,
+  "sha256": "93b40f120d9af0aa263a9ad4d00c8170c5ecf51e4ec27771ecb00552e6b94f6d"
+ },
+ "sha1_origem": "bb9fbfe3f88328996a010b3c1ebf7e54bb56d07e",
+ "bytes_origem": 53418,
+ "capturado_em": "2026-11-08T06:14:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoritapolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "bb9fbfe3f88328996a010b3c1ebf7e54bb56d07e"
+ }
+}

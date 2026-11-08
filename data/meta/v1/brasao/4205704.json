@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4205704",
+ "uf": "SC",
+ "municipio": "Garopaba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brasao_Garopaba_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Garopaba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "eb81d296413d42a5be6888365cdb89eda51be0eb893b30130820f97ab904492a",
+ "rendicoes": {
+  "png": {
+   "bytes": 171351,
+   "sha256": "4c8cf43786ffb179645069ebaf9cce6d089eda65986827e673bebe541cee701b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 51253,
+   "sha256": "0c9674ac5eea9a620fa78c6058c554b3a7ad46b7360738f68dcf790a6852d492",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4205704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4205704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4205704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4205704.jpg",
+  "bytes": 5018408,
+  "sha256": "eb81d296413d42a5be6888365cdb89eda51be0eb893b30130820f97ab904492a"
+ },
+ "sha1_origem": "5ef8f3e46aac1ce3efea19e33620cb1a54d9e312",
+ "bytes_origem": 5018408,
+ "capturado_em": "2026-11-08T06:53:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Garopaba_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:32Z",
+  "estado": "igual",
+  "sha1_commons": "5ef8f3e46aac1ce3efea19e33620cb1a54d9e312"
+ }
+}

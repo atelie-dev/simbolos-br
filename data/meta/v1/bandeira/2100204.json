@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2100204",
+ "uf": "MA",
+ "municipio": "Alcântara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bandeira_Alcantara_Maranhao_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "SLRTDM",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "32ca143c33a46e40517b3c9c71b9366bc2681ddbc530fba977e8281380b7455e",
+ "rendicoes": {
+  "png": {
+   "bytes": 68400,
+   "sha256": "7f1978fe9e1a091882bf5b37b3b9fea2cc875e2d3064514d72cdf155d617a620",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16927,
+   "sha256": "d5cbdbb8e42c2846f6b8652404e12af7aa9f7f621ec4cdecdba4ab9273621798",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2100204.jpg",
+  "bytes": 21352,
+  "sha256": "32ca143c33a46e40517b3c9c71b9366bc2681ddbc530fba977e8281380b7455e"
+ },
+ "sha1_origem": "c82cf88916ba10249711a9b55421fba14a824df9",
+ "bytes_origem": 21352,
+ "capturado_em": "2026-11-08T05:27:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Alcantara_Maranhao_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "c82cf88916ba10249711a9b55421fba14a824df9"
+ }
+}

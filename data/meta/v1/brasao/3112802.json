@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3112802",
+ "uf": "MG",
+ "municipio": "Capitólio",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Capit%C3%B3liomgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Capitólio",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5d42f70453adfbcd59b7a713d5599db028aa4a71b6eb5b2839bca8303a8228e3",
+ "rendicoes": {
+  "png": {
+   "bytes": 109799,
+   "sha256": "8aab5e4a88a31acf168531f8787be051279825dcb3917b09bb8e2687f40c9972",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19343,
+   "sha256": "5a61833f133f82fcb2948d415e93549f1a76427394344f4491d30bbf183bef7e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3112802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3112802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3112802.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3112802.jpg",
+  "bytes": 15221,
+  "sha256": "5d42f70453adfbcd59b7a713d5599db028aa4a71b6eb5b2839bca8303a8228e3"
+ },
+ "sha1_origem": "9f4629d46df412761912e0038b55c765e7075bc8",
+ "bytes_origem": 15221,
+ "capturado_em": "2026-11-08T06:02:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Capitóliomgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:21Z",
+  "estado": "igual",
+  "sha1_commons": "9f4629d46df412761912e0038b55c765e7075bc8"
+ }
+}

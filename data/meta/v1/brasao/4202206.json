@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4202206",
+ "uf": "SC",
+ "municipio": "Benedito Novo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brasao_BeneditoNovo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Linan",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5037bdab0051be4d972d784460e0e9d8a5dbae38b1b401543bf78c07c1ddbe6b",
+ "rendicoes": {
+  "png": {
+   "bytes": 117547,
+   "sha256": "85a67b98f08a47d68e9208369015c9ebecb563d62228f390f91866acbbe48d0e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28554,
+   "sha256": "cfe9fa684c4a937c1044bdebdcda89a6d895b4abd2ec7fd9281257795dbdcd58",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202206.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4202206.jpg",
+  "bytes": 16228,
+  "sha256": "5037bdab0051be4d972d784460e0e9d8a5dbae38b1b401543bf78c07c1ddbe6b"
+ },
+ "sha1_origem": "8dec2e0cec9a65912cc5a71f4f613dc055c51b5b",
+ "bytes_origem": 16228,
+ "capturado_em": "2026-11-08T06:52:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_BeneditoNovo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "8dec2e0cec9a65912cc5a71f4f613dc055c51b5b"
+ }
+}

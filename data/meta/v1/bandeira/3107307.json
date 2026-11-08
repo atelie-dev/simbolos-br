@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3107307",
+ "uf": "MG",
+ "municipio": "Bocaiúva",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/BandeiraBocaiuvaMG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Jair Bastos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5b5404e4f329a23e9af41afb4f796d1d12494b2ac23f9cb484b88c85c0e2f096",
+ "rendicoes": {
+  "png": {
+   "bytes": 67902,
+   "sha256": "e2a267ed4f42c7dc6d0f920d066d4c5fdaf97283c6bdc8ff8d3516bd9a81a883",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19899,
+   "sha256": "7aaf62bf2ff5cf4e9359e8c77fe6374d621e96f368bcc89bdbcfa9d6809a6b49",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3107307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3107307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3107307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3107307.jpg",
+  "bytes": 23386,
+  "sha256": "5b5404e4f329a23e9af41afb4f796d1d12494b2ac23f9cb484b88c85c0e2f096"
+ },
+ "sha1_origem": "7983a63b33c8836b2e8824eed1d36c577d373d4b",
+ "bytes_origem": 23386,
+ "capturado_em": "2026-11-08T06:00:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraBocaiuvaMG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "7983a63b33c8836b2e8824eed1d36c577d373d4b"
+ }
+}

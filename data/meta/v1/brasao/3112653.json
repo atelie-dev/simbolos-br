@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3112653",
+ "uf": "MG",
+ "municipio": "Capitão Andrade",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Capandrade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Capitão Andrade",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "70d3426fc8ce120d10ecbdf14812dcaf876593213c395c557d6d53021b565ca0",
+ "rendicoes": {
+  "png": {
+   "bytes": 107490,
+   "sha256": "f3ba0dcf0d909cc69d072e72cec9df0a5a16f6113de9991722ae50785aa78668",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21090,
+   "sha256": "bc046707b5ffd35d7fbe22a5670570f396e6a3671ee0f1ed867c67f24e434028",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3112653.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3112653.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3112653.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3112653.jpg",
+  "bytes": 54116,
+  "sha256": "70d3426fc8ce120d10ecbdf14812dcaf876593213c395c557d6d53021b565ca0"
+ },
+ "sha1_origem": "b7621940814a6abcc171ad12ccb386f362b55160",
+ "bytes_origem": 54116,
+ "capturado_em": "2026-11-08T06:02:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Capandrade.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "b7621940814a6abcc171ad12ccb386f362b55160"
+ }
+}

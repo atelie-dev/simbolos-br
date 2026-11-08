@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3528809",
+ "uf": "SP",
+ "municipio": "Maracaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bandeira_Maraca%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "766d5a9c44b4f571cdecdaf89a25538cc426821551e9c696badcba2a5c7070c8",
+ "rendicoes": {
+  "png": {
+   "bytes": 81487,
+   "sha256": "e43a52eac33f071ab5d533aabb594bc38faeb0f0f5e79de4d8b42a0fe44f3112",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20587,
+   "sha256": "acd51f549df11ce3f41c40fff7de9f3ead2fb123108f5100c2165dfdcd6a6f09",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3528809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3528809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3528809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3528809.jpg",
+  "bytes": 95126,
+  "sha256": "766d5a9c44b4f571cdecdaf89a25538cc426821551e9c696badcba2a5c7070c8"
+ },
+ "sha1_origem": "be79ff7c4ed558b4fbd0c4731fcb37f58714f09e",
+ "bytes_origem": 95126,
+ "capturado_em": "2026-11-08T06:31:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Maracaí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "be79ff7c4ed558b4fbd0c4731fcb37f58714f09e"
+ }
+}

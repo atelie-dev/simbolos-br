@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1400027",
+ "uf": "RR",
+ "municipio": "Amajari",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bandeira_Amajari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Amajari.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1ed3e0351555d61cb9aad8db6e88fb230fea4a76e97093b91282b22da72375f0",
+ "rendicoes": {
+  "png": {
+   "bytes": 19901,
+   "sha256": "110acafbf4d0750ffe70317eddcf89b32e3f23853ba1bf41cd13c324b4d249c3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7105,
+   "sha256": "8ba70f5bdec442ffb4eb17ac725b10fe08db33e34f31ffe4371d636a92151983",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400027.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400027.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400027.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1400027.jpg",
+  "bytes": 32571,
+  "sha256": "1ed3e0351555d61cb9aad8db6e88fb230fea4a76e97093b91282b22da72375f0"
+ },
+ "sha1_origem": "e0c19ef3e6a42b5faaf846a0c93a63a415bb06e8",
+ "bytes_origem": 32571,
+ "capturado_em": "2026-11-08T05:23:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Amajari.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "e0c19ef3e6a42b5faaf846a0c93a63a415bb06e8"
+ }
+}

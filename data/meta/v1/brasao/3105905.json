@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3105905",
+ "uf": "MG",
+ "municipio": "Barroso",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bras%C3%A3o_Barroso_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Barroso_MG",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "834370ce54c5075f19905781ff4cc3cd0664ea1817515c2f9a208a6a1811d0d1",
+ "rendicoes": {
+  "png": {
+   "bytes": 27514,
+   "sha256": "e378da04e68cda49825fc4d2ff56ebede75aadb37efee2638058cdb3aba87763",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9539,
+   "sha256": "7c91f8c6d05626b7b51c7ae0b29f3618ad4986b99986087e3a5b0ec50bf54c6f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3105905.png",
+  "bytes": 10115,
+  "sha256": "834370ce54c5075f19905781ff4cc3cd0664ea1817515c2f9a208a6a1811d0d1"
+ },
+ "sha1_origem": "9fa470ed914b36578450ee32d6182856e889e248",
+ "bytes_origem": 10115,
+ "capturado_em": "2026-11-08T06:00:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Barroso_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "9fa470ed914b36578450ee32d6182856e889e248"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3550407",
+ "uf": "SP",
+ "municipio": "São Pedro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Brasao-saopedrosp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "São Pedro City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0deeeca5781d70a8c3a34242476c808d634da576e9e102c411324028cef06dad",
+ "rendicoes": {
+  "png": {
+   "bytes": 90662,
+   "sha256": "58bef0f97db11a816c8ef8a76104167735dcd3a5bb24b73b3d4e2f5feb50aed2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24851,
+   "sha256": "6c0fc61c57b550ec1bc8f263ecb31d40c974b51991503a8a1f88e54b0ccfd2c6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3550407.png",
+  "bytes": 36256,
+  "sha256": "0deeeca5781d70a8c3a34242476c808d634da576e9e102c411324028cef06dad"
+ },
+ "sha1_origem": "153b4148eaa7600db64eec47891b277ddebc7679",
+ "bytes_origem": 36256,
+ "capturado_em": "2026-11-08T06:38:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-saopedrosp.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "153b4148eaa7600db64eec47891b277ddebc7679"
+ }
+}

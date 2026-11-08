@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1503002",
+ "uf": "PA",
+ "municipio": "Faro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bras%C3%A3o_de_Faro_-_PA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3c4ee282759f0945bc844770dcfeb5bc2a1aa468a1749b4bb1471ab991fdfe74",
+ "rendicoes": {
+  "png": {
+   "bytes": 105228,
+   "sha256": "229bd8aab90127bb4ed4549bcadc5283f47dedb2f1c65dd0d77939c61ff9424c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41872,
+   "sha256": "eb286e0c19c4078368e9057db906060ae88b658fce3dd4fd00a6b895e2dc5174",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 128304,
+   "sha256": "3c4ee282759f0945bc844770dcfeb5bc2a1aa468a1749b4bb1471ab991fdfe74"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1503002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1503002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1503002.jpg"
+ },
+ "sha1_origem": "ecbca273a1f85660f80f4eeeb9b1f403894a257c",
+ "bytes_origem": 128304,
+ "capturado_em": "2026-11-08T02:33:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Faro_-_PA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:02Z",
+  "estado": "igual",
+  "sha1_commons": "ecbca273a1f85660f80f4eeeb9b1f403894a257c"
+ }
+}

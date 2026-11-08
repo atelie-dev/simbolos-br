@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5217401",
+ "uf": "GO",
+ "municipio": "Pires do Rio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bandeira_de_Pires_do_Rio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Pires do Rio",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4925858319b00538d2e918a654ee2e428345f062caadcd1ff49134786190eb94",
+ "rendicoes": {
+  "png": {
+   "bytes": 51552,
+   "sha256": "e691cb346fb661b067d6ec1e8b93a4bba52bc4abe6718751fc62806a6eec810c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16644,
+   "sha256": "76c5d611c6af2fdd59664e1973bfeef49bfe779f25c4f64ef1ba7ab6bc6d2501",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5217401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5217401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5217401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5217401.jpg",
+  "bytes": 76431,
+  "sha256": "4925858319b00538d2e918a654ee2e428345f062caadcd1ff49134786190eb94"
+ },
+ "sha1_origem": "2199655530cec9f24849619170a08c3ebbc6eacd",
+ "bytes_origem": 76431,
+ "capturado_em": "2026-11-08T07:19:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pires_do_Rio.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "2199655530cec9f24849619170a08c3ebbc6eacd"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2515609",
+ "uf": "PB",
+ "municipio": "Serra da Raiz",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bandeira_de_Serra_da_Raiz-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "bbe4ac3d509875146cb5b6d50536c97dc495e66c945569bcb34abd02e812e9f5",
+ "rendicoes": {
+  "png": {
+   "bytes": 24670,
+   "sha256": "3c74652d49de0ff30c87b20ee3f4e88435828f00b03157a4265bf02cea7e377e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19199,
+   "sha256": "40bb7dcd8614e6745c853360056c2dada0e3f03e36e3ecabe055c15e03e80d78",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 3014,
+   "sha256": "bbe4ac3d509875146cb5b6d50536c97dc495e66c945569bcb34abd02e812e9f5"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2515609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2515609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2515609.jpg"
+ },
+ "sha1_origem": "06ee118230ece806c6d70f0b2ec19c447b0330e2",
+ "bytes_origem": 3014,
+ "capturado_em": "2026-11-08T03:02:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Serra_da_Raiz-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "06ee118230ece806c6d70f0b2ec19c447b0330e2"
+ }
+}

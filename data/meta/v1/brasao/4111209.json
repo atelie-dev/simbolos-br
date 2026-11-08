@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4111209",
+ "uf": "PR",
+ "municipio": "Itapejara d'Oeste",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bras%C3%A3o_de_Itapejara_d%27Oeste.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f9fdaa29b68c468196c2bbc1016942e7ae1449b828f87652633f8b46508c9d04",
+ "rendicoes": {
+  "png": {
+   "bytes": 30534,
+   "sha256": "bced33920f5001dbfa9fd74c1e38ce48cf4e6f8efb9556432b188b234a75bc3a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9522,
+   "sha256": "6f0881acc7a9a6f76cb01bfe49be0e15c4c0d9f248b75e8e7c356de7b44f5340",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4111209.png",
+  "bytes": 13218,
+  "sha256": "f9fdaa29b68c468196c2bbc1016942e7ae1449b828f87652633f8b46508c9d04"
+ },
+ "sha1_origem": "0b288dc693a3618e9acda56695667e62610b362b",
+ "bytes_origem": 13218,
+ "capturado_em": "2026-11-08T06:45:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Itapejara_d'Oeste.png",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "0b288dc693a3618e9acda56695667e62610b362b"
+ }
+}

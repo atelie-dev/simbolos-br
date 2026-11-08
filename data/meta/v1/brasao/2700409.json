@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2700409",
+ "uf": "AL",
+ "municipio": "Atalaia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bras%C3%A3o_de_Atalaia_AL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Prefeitura de Atalaia.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "20b8a9d32ebaef3618924ed5c836c2f1ad84ab3e52ec24104079f4dfcad3587f",
+ "rendicoes": {
+  "png": {
+   "bytes": 71388,
+   "sha256": "a2cac50939ddcfee4c72098f3c969c2c294a332fbb94f83e677b0bf49a54f686",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17311,
+   "sha256": "89a4397b8ad6e5a3a1b366517f67b76b68a64fe1c4284ddf94ff499b9fa82a3b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2700409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2700409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2700409.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2700409.jpg",
+  "bytes": 23632,
+  "sha256": "20b8a9d32ebaef3618924ed5c836c2f1ad84ab3e52ec24104079f4dfcad3587f"
+ },
+ "sha1_origem": "d2a8f03332581e9afd37925197e5acb3c6196ff8",
+ "bytes_origem": 23632,
+ "capturado_em": "2026-11-08T05:47:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Atalaia_AL.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "d2a8f03332581e9afd37925197e5acb3c6196ff8"
+ }
+}

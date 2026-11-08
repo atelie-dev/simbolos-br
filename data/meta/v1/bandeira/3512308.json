@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3512308",
+ "uf": "SP",
+ "municipio": "Conchas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bandeira_Conchas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f7bc6fcf1ffc6b51776721f003714eb75c4948dcc01431ffffbcbc52141ceaac",
+ "rendicoes": {
+  "png": {
+   "bytes": 79740,
+   "sha256": "7d7cce66c5afb765db82cf9afc8c25456a1523e3e727126afefb1565a24811ce",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23870,
+   "sha256": "1e9933cf2e8cc3fe21e7f80ef263158927e69d4c3401848d97e7121bbb16075f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3512308.png",
+  "bytes": 2146255,
+  "sha256": "f7bc6fcf1ffc6b51776721f003714eb75c4948dcc01431ffffbcbc52141ceaac"
+ },
+ "sha1_origem": "e24a6eec0801458277ebd4c1de289472059d33aa",
+ "bytes_origem": 2146255,
+ "capturado_em": "2026-11-08T06:26:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Conchas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "e24a6eec0801458277ebd4c1de289472059d33aa"
+ }
+}

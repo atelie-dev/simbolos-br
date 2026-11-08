@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3513405",
+ "uf": "SP",
+ "municipio": "Cruzeiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bandeira_de_Cruzeiro_%28SP%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "FORTES",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d87946c6b08494b475a3e1346aca90d9220cd52fa2d2f1d5f16e96d098958e50",
+ "rendicoes": {
+  "png": {
+   "bytes": 15447,
+   "sha256": "78fb5c128d72eacd0e1d7f1aca04b57dd05aa3bda2cc94e1fd5dc862e821fd7d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23469,
+   "sha256": "d7368a8f200913bcba93408dd0218ebad6a56d942f26da7afad11e9b78e9b9e2",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 49297,
+   "sha256": "d87946c6b08494b475a3e1346aca90d9220cd52fa2d2f1d5f16e96d098958e50"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3513405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3513405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3513405.jpg"
+ },
+ "sha1_origem": "a448f5df3daad025fc670543a74835ef06621ef8",
+ "bytes_origem": 49297,
+ "capturado_em": "2026-11-08T04:01:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cruzeiro_(SP).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "a448f5df3daad025fc670543a74835ef06621ef8"
+ }
+}

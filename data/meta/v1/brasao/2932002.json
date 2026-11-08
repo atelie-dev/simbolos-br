@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2932002",
+ "uf": "BA",
+ "municipio": "Uauá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bras%C3%A3o_de_Uau%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Uauá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "97dcdf687ac43fd9fdd391d749a5bc8c5fabb630a4c473726226a56ad8d75735",
+ "rendicoes": {
+  "png": {
+   "bytes": 176735,
+   "sha256": "3bdd1cbbbe01dedb2d05c83606c1e73ad82d71bfe24ea9c83381244954a94a70",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30834,
+   "sha256": "76105b8e02b7ac1c2dcf15279320bc6dd03a3904134d7eff25b890b03a5d0ead",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2932002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2932002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2932002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2932002.jpg",
+  "bytes": 124582,
+  "sha256": "97dcdf687ac43fd9fdd391d749a5bc8c5fabb630a4c473726226a56ad8d75735"
+ },
+ "sha1_origem": "50c80b02ee46aa445a79108b4da486608fdb734b",
+ "bytes_origem": 124582,
+ "capturado_em": "2026-11-08T05:57:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Uauá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "50c80b02ee46aa445a79108b4da486608fdb734b"
+ }
+}

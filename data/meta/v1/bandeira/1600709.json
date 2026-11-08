@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1600709",
+ "uf": "AP",
+ "municipio": "Tartarugalzinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bandeira_de_Tartarugalzinho_AP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camervan",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "f1f8168c8e0f84a59ce81539a598ae94fe47d705cfb86d97ee5fa1f79ca6ef80",
+ "rendicoes": {
+  "png": {
+   "bytes": 19601,
+   "sha256": "108820dd103e8a03f33e6f61b2e0f079f79001e46165617ab5567f4995e5fa06",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13597,
+   "sha256": "a000c6b6e10765a0877328c01fa70c32c04533732213f6ab872494d56ee8c0e7",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 8550,
+   "sha256": "f1f8168c8e0f84a59ce81539a598ae94fe47d705cfb86d97ee5fa1f79ca6ef80"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600709.jpg"
+ },
+ "sha1_origem": "4776c52ce2974d92ff2ef6e802a731945585bbec",
+ "bytes_origem": 8550,
+ "capturado_em": "2026-11-08T02:35:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Tartarugalzinho_AP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "4776c52ce2974d92ff2ef6e802a731945585bbec"
+ }
+}

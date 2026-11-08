@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4113007",
+ "uf": "PR",
+ "municipio": "Jussara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bandeira_do_munic%C3%ADpio_de_Jussara_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipio de jussara",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7e3039dc13b7dde9f76d0b7346972c0f6b623e4557c0c1d8bcb297626fd0650e",
+ "rendicoes": {
+  "png": {
+   "bytes": 62752,
+   "sha256": "331c51dea2e35b3a89bd9cfe22e85c70aec21c0bdc281e3026fa07f895da46cc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11033,
+   "sha256": "10f66e5dac0d525c3cc9589397be8e1b9a08c7d6338a179cd2fc1a884c082521",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4113007.jpg",
+  "bytes": 34991,
+  "sha256": "7e3039dc13b7dde9f76d0b7346972c0f6b623e4557c0c1d8bcb297626fd0650e"
+ },
+ "sha1_origem": "67d18bd375d7fbc85384b243cda7b097063e976b",
+ "bytes_origem": 34991,
+ "capturado_em": "2026-11-08T06:45:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Jussara_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:19Z",
+  "estado": "igual",
+  "sha1_commons": "67d18bd375d7fbc85384b243cda7b097063e976b"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5101209",
+ "uf": "MT",
+ "municipio": "Araguainha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bras%C3%A3o_Araguainha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Luucasmoreira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a9fc7395668ff0e297f1286f3d1bb6a731d9d185714d14dbad79065b40f3af29",
+ "rendicoes": {
+  "png": {
+   "bytes": 53072,
+   "sha256": "6e90b0cd866ae0764a16b9c6d4c2d18e39d45e3d096d8d48b7341ed99cb5eb35",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13788,
+   "sha256": "45be55040138703818c723ff58002fd1fe3c68f160f5e308face9ef2f54f4f69",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5101209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5101209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5101209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5101209.jpg",
+  "bytes": 65619,
+  "sha256": "a9fc7395668ff0e297f1286f3d1bb6a731d9d185714d14dbad79065b40f3af29"
+ },
+ "sha1_origem": "c82a203ab60f815ce0461318c234ff78c3a2e069",
+ "bytes_origem": 65619,
+ "capturado_em": "2026-11-08T07:14:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Araguainha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "c82a203ab60f815ce0461318c234ff78c3a2e069"
+ }
+}

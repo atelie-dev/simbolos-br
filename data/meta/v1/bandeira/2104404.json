@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2104404",
+ "uf": "MA",
+ "municipio": "Gonçalves Dias",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bandeira-gon%C3%A7alvesdias.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Gonçalves Dias City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ff162ce29f65d3fc971b033577a38cd1d46d7b2b025104a0f1285e85c0ed0ae3",
+ "rendicoes": {
+  "png": {
+   "bytes": 201305,
+   "sha256": "8ce2ca6fbc93d80e9da7d6443431f7b014181cff580d03f77d47bd6d645b96bd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33039,
+   "sha256": "027af03ca4020ff7f8603acc62b7a4390b95eb52527e7e38bd07c9d75c26418c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2104404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2104404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2104404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2104404.jpg",
+  "bytes": 25573,
+  "sha256": "ff162ce29f65d3fc971b033577a38cd1d46d7b2b025104a0f1285e85c0ed0ae3"
+ },
+ "sha1_origem": "e5bbbb279d3bac19dae7c9e8ba349cfe0379b6da",
+ "bytes_origem": 25573,
+ "capturado_em": "2026-11-08T05:28:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-gonçalvesdias.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "e5bbbb279d3bac19dae7c9e8ba349cfe0379b6da"
+ }
+}

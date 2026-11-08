@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5220264",
+ "uf": "GO",
+ "municipio": "São Miguel do Passa Quatro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Bandeira_de_S%C3%A3o_Miguel_do_Passa-Quatro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de São Miguel do Passa-Quatro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "aea5bbbbc584451f9f2bca63bf48f010419637febac7df40996d322e568f8f7c",
+ "rendicoes": {
+  "png": {
+   "bytes": 38080,
+   "sha256": "25aec1e33ec5438f48c4cc70e026b9365a4eff005f911206372752e702aef962",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10249,
+   "sha256": "0088d1059b948d59ae8ef34119b822c7a8c4e11e3ded6efb0248c4ccca42820a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220264.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220264.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220264.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5220264.jpg",
+  "bytes": 7872,
+  "sha256": "aea5bbbbc584451f9f2bca63bf48f010419637febac7df40996d322e568f8f7c"
+ },
+ "sha1_origem": "4c95012100fd7c13f7b4440f12a4b466297fc7c1",
+ "bytes_origem": 7872,
+ "capturado_em": "2026-11-08T07:20:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Miguel_do_Passa-Quatro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "4c95012100fd7c13f7b4440f12a4b466297fc7c1"
+ }
+}

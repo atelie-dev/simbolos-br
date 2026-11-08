@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3522802",
+ "uf": "SP",
+ "municipio": "Itaporanga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bandeira_Itaporanga.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Site Oficial da Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "852a1dd3b8b87a2033e13c7c727ab614f1529484bedc0a36ba7c1a87677152bc",
+ "rendicoes": {
+  "png": {
+   "bytes": 73047,
+   "sha256": "a84a237e4d9413810a797b12139d933a0a8ed8689adfb88f4f1fc4958c8ff45a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19519,
+   "sha256": "0893be9fe98787e302fa35db9337d28faf9bf1997cf80a4a22c1dec7f83cacf7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522802.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3522802.png",
+  "bytes": 99640,
+  "sha256": "852a1dd3b8b87a2033e13c7c727ab614f1529484bedc0a36ba7c1a87677152bc"
+ },
+ "sha1_origem": "fa223e0eb1291053c617c73f9066681a160c743f",
+ "bytes_origem": 99640,
+ "capturado_em": "2026-11-08T06:30:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itaporanga.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "fa223e0eb1291053c617c73f9066681a160c743f"
+ }
+}

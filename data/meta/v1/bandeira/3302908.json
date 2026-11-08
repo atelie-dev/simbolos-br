@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3302908",
+ "uf": "RJ",
+ "municipio": "Miguel Pereira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bandeira_de_Miguel_Pereira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0235645cba2c8fe71c97109652cb481db49dbb065463ca668e87770dd136820b",
+ "rendicoes": {
+  "png": {
+   "bytes": 33350,
+   "sha256": "ce0bd78e071bb72d4649a5ddcb6bd759998f4c6b28dc5a20e3d6199b2a510077",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9826,
+   "sha256": "c914999f27f9f0ef096b5b00d167bcaefeba3fb6220dbb6e453cdb0ebb2d80dd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3302908.jpg",
+  "bytes": 6739,
+  "sha256": "0235645cba2c8fe71c97109652cb481db49dbb065463ca668e87770dd136820b"
+ },
+ "sha1_origem": "e8a4984fd09cac614afa961ce99e525e5974d65e",
+ "bytes_origem": 6739,
+ "capturado_em": "2026-11-08T06:21:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Miguel_Pereira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "e8a4984fd09cac614afa961ce99e525e5974d65e"
+ }
+}

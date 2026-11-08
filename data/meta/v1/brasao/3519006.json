@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3519006",
+ "uf": "SP",
+ "municipio": "Herculândia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bras%C3%A3o_Hercul%C3%A2ndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "db3d9481b8d909652e47ba745633febac9aec16736cee570b37fe634ca133c35",
+ "rendicoes": {
+  "png": {
+   "bytes": 22383,
+   "sha256": "d40291d4b26d18272e901ce4c69f1ac3ea68555ea42a788c9917efe9555307e3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6105,
+   "sha256": "8f8b1b88fc8ce45fad8089e3047aa47f040cf16c2502ecea32813bb03f8cda81",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3519006.jpg",
+  "bytes": 3607,
+  "sha256": "db3d9481b8d909652e47ba745633febac9aec16736cee570b37fe634ca133c35"
+ },
+ "sha1_origem": "615b45cb30d497618a1bfbf7020e5867d93028fd",
+ "bytes_origem": 3607,
+ "capturado_em": "2026-11-08T06:28:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Herculândia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "615b45cb30d497618a1bfbf7020e5867d93028fd"
+ }
+}

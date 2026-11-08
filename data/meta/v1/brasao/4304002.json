@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4304002",
+ "uf": "RS",
+ "municipio": "Campo Novo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bras%C3%A3o_Campo_Novo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b41347f8a4da796b9808e90932a681a1f521ca43a41d29c98134b0dd140a7db6",
+ "rendicoes": {
+  "png": {
+   "bytes": 227073,
+   "sha256": "22c70423f6b1ab1d88c2f8f6a2aed2aced4cc7650961258371f60c8ff66c3b1a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58542,
+   "sha256": "a7b56d10b0fe4c51cf21983bae2ded79aef4cff56caea2785e007c20fa98a212",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4304002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4304002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4304002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4304002.png",
+  "bytes": 1018560,
+  "sha256": "b41347f8a4da796b9808e90932a681a1f521ca43a41d29c98134b0dd140a7db6"
+ },
+ "sha1_origem": "d4d63c8bbf108367c124c5ab82fc10b9306d66fe",
+ "bytes_origem": 1018560,
+ "capturado_em": "2026-11-08T07:00:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Campo_Novo.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:47Z",
+  "estado": "igual",
+  "sha1_commons": "d4d63c8bbf108367c124c5ab82fc10b9306d66fe"
+ }
+}

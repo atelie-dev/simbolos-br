@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1503093",
+ "uf": "PA",
+ "municipio": "Goianésia do Pará",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bandeira_de_Goian%C3%A9sia_do_Par%C3%A1_-_PA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "98a83cfe14225141a504ac415b57092df4e3999053a320dc459ac3081cead60e",
+ "rendicoes": {
+  "png": {
+   "bytes": 96753,
+   "sha256": "37d86948ed33f58323edb1739c2a2560b35ad36a1c4c0125274896da69221486",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29966,
+   "sha256": "08d8debd9728e5810e9fad802f691a0b7a77886b1bb42b4baf9e372e37c0bd3e",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 563251,
+   "sha256": "98a83cfe14225141a504ac415b57092df4e3999053a320dc459ac3081cead60e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1503093.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1503093.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1503093.jpg"
+ },
+ "sha1_origem": "9cc83def2cdc8a551ea300e9316d7f2530d536ea",
+ "bytes_origem": 563251,
+ "capturado_em": "2026-11-08T02:33:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Goianésia_do_Pará_-_PA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "9cc83def2cdc8a551ea300e9316d7f2530d536ea"
+ }
+}

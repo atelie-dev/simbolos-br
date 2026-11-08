@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4315503",
+ "uf": "RS",
+ "municipio": "Restinga Sêca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bandeira_do_munic%C3%ADpio_de_Restinga_Seca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "MBI",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6dc8351444f76fed34babec3217420480d974a795af513c4ebe69e3e494d0f79",
+ "rendicoes": {
+  "png": {
+   "bytes": 49838,
+   "sha256": "789e298d277ccd37a4fd1479162d5bcb874f8f11561c1551a45906832b672d85",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11780,
+   "sha256": "109af2673ccfbd2267ddb81c0b657ba9aee73e25126df32bc0497aa06aa49152",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4315503.jpg",
+  "bytes": 10462,
+  "sha256": "6dc8351444f76fed34babec3217420480d974a795af513c4ebe69e3e494d0f79"
+ },
+ "sha1_origem": "f9a4812edc7263db04a92090ec30fbc6d39182c4",
+ "bytes_origem": 10462,
+ "capturado_em": "2026-11-08T07:07:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Restinga_Seca.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "f9a4812edc7263db04a92090ec30fbc6d39182c4"
+ }
+}

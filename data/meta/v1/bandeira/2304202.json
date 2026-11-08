@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2304202",
+ "uf": "CE",
+ "municipio": "Crato",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bandeira_Crato.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Gilberto Bruno",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "62a3a8c6ed4cbba17d15ce294892066c8a3ebc457ecda4c8c4c7534664a17a60",
+ "rendicoes": {
+  "png": {
+   "bytes": 84999,
+   "sha256": "0d50d07f81b4925427fdf565fdd965aca8594a8bd7cefb9dc123146569a61939",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27251,
+   "sha256": "58739cca0c6cc62f330b453ae9d8e76ee1546a6648d326c36e7c2b052ab550f3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2304202.jpg",
+  "bytes": 69446,
+  "sha256": "62a3a8c6ed4cbba17d15ce294892066c8a3ebc457ecda4c8c4c7534664a17a60"
+ },
+ "sha1_origem": "bd644e2b8d17a85f4dd29bfd8431dac15a086486",
+ "bytes_origem": 69446,
+ "capturado_em": "2026-11-08T05:32:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Crato.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "bd644e2b8d17a85f4dd29bfd8431dac15a086486"
+ }
+}

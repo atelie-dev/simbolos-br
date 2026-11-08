@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4210902",
+ "uf": "SC",
+ "municipio": "Modelo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bras%C3%A3o_do_munic%C3%ADpio_de_Modelo_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Modelo (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "339f0f5a6f555d78c569f660af67fdf0c88bddac628d35d5dc75ff365f8eee80",
+ "rendicoes": {
+  "png": {
+   "bytes": 203966,
+   "sha256": "dc28b8791cea71e92c07bb53c5901bd06d1e0d455b1c7ac8c49f0b72e4ab81ab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 65784,
+   "sha256": "24a5751169e229c2bd283cb20e3555343a43a31b43f0a83cef8d985c46ddb93d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 112797,
+   "sha256": "339f0f5a6f555d78c569f660af67fdf0c88bddac628d35d5dc75ff365f8eee80"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210902.jpg"
+ },
+ "sha1_origem": "1dc6195a8c65cdfba84180fd5a5314ff2026c034",
+ "bytes_origem": 112797,
+ "capturado_em": "2026-11-08T04:41:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Modelo_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "1dc6195a8c65cdfba84180fd5a5314ff2026c034"
+ }
+}

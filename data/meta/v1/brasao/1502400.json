@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1502400",
+ "uf": "PA",
+ "municipio": "Castanhal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ico_brasaocas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "87f7fbd0be700c93c24f6d41743c3512a8a5cbb9564e278c5307809d392d3060",
+ "rendicoes": {
+  "png": {
+   "bytes": 29577,
+   "sha256": "0a3e439e5c137623a535e057ccf9abd49e4385882f45e8a9d0420df48fae5a52",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7608,
+   "sha256": "d7bf20d2cb3f7e5b5bd44685a2799e8680d0dc8849c78881fe3d740e6f98d9f3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1502400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1502400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1502400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1502400.jpg",
+  "bytes": 6184,
+  "sha256": "87f7fbd0be700c93c24f6d41743c3512a8a5cbb9564e278c5307809d392d3060"
+ },
+ "sha1_origem": "3a39b88bbf6fe60fdcf3c5e8096755d8bff462fc",
+ "bytes_origem": 6184,
+ "capturado_em": "2026-11-08T05:24:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ico_brasaocas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "3a39b88bbf6fe60fdcf3c5e8096755d8bff462fc"
+ }
+}

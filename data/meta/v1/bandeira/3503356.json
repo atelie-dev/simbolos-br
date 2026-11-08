@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3503356",
+ "uf": "SP",
+ "municipio": "Arco-Íris",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bandeira_Arco-%C3%8Dris.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "60f0dca8cc55804fe99e1423cb7acdb4c0017f76fb1f86f475470498b828a567",
+ "rendicoes": {
+  "png": {
+   "bytes": 43253,
+   "sha256": "522176bf549eb28dd81cb6d7c7c08bb313a2aa83fcd7115844509dc0e89fa073",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18321,
+   "sha256": "c224839f68c4c6afaaa8d3dccfc421d15a8e6974efa74405daa0bbbf8746a41b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3503356.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3503356.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3503356.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3503356.png",
+  "bytes": 40288,
+  "sha256": "60f0dca8cc55804fe99e1423cb7acdb4c0017f76fb1f86f475470498b828a567"
+ },
+ "sha1_origem": "a2ef196171755c4593f4778fa7876a873926c528",
+ "bytes_origem": 40288,
+ "capturado_em": "2026-11-08T06:23:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Arco-Íris.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "a2ef196171755c4593f4778fa7876a873926c528"
+ }
+}

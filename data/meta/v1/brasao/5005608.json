@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5005608",
+ "uf": "MS",
+ "municipio": "Miranda",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Brasao_miranda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Brunozandonaide",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "971bc506245f988a475c33fa4d44c103cfa20f19f84e59658764bcb43c1bc4de",
+ "rendicoes": {
+  "png": {
+   "bytes": 107095,
+   "sha256": "940338df55558952236b40147c653753dd820dee3c6f4f116f1da4fa8ee2c9ea",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23671,
+   "sha256": "078b9d827c136597f9b09245d06d081a1fcbb124589a82877b8fe0ffa45c5345",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5005608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5005608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5005608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5005608.jpg",
+  "bytes": 15462,
+  "sha256": "971bc506245f988a475c33fa4d44c103cfa20f19f84e59658764bcb43c1bc4de"
+ },
+ "sha1_origem": "9fea19526b6983af255d834d08d35fc9e3007eb6",
+ "bytes_origem": 15462,
+ "capturado_em": "2026-11-08T07:13:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_miranda.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "9fea19526b6983af255d834d08d35fc9e3007eb6"
+ }
+}

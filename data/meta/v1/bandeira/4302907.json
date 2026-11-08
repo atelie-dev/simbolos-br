@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4302907",
+ "uf": "RS",
+ "municipio": "Cacequi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bandeira_de_Cacequi_-_RS.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5dcdcaded707221e55fafbb96a18e3d416403919eb571140328e8342c001af32",
+ "rendicoes": {
+  "png": {
+   "bytes": 52699,
+   "sha256": "eb73f6e586c50ea2b5e47173efb39646f5b8dee412e2dcef75a7b24bdf159339",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21073,
+   "sha256": "9f1c8172ac8c50035095aadf8152b7bcadf23df749758f58d26f179ca95cb248",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 312126,
+   "sha256": "5dcdcaded707221e55fafbb96a18e3d416403919eb571140328e8342c001af32"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302907.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302907.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302907.jpg"
+ },
+ "sha1_origem": "e26d45c2a735e4bd0ec666e352758b854875a757",
+ "bytes_origem": 312126,
+ "capturado_em": "2026-11-08T04:48:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cacequi_-_RS.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "e26d45c2a735e4bd0ec666e352758b854875a757"
+ }
+}

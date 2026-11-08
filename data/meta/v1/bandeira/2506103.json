@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2506103",
+ "uf": "PB",
+ "municipio": "Fagundes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bandeira_fagundes.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Fagundes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8225166d245558132e625a06ba2e8f6d146b27fb53e2cb5ad76e295f3733201c",
+ "rendicoes": {
+  "png": {
+   "bytes": 12681,
+   "sha256": "4d8faba9043aae5607c284a0b1249bc2b59d251d1a38a6081a195cedf47fc914",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4484,
+   "sha256": "1a19c0a96f180157c6004cc71f6b4e8d6949d9fd173de2d7568982a10147b3c4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2506103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2506103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2506103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2506103.png",
+  "bytes": 10689,
+  "sha256": "8225166d245558132e625a06ba2e8f6d146b27fb53e2cb5ad76e295f3733201c"
+ },
+ "sha1_origem": "c049c2376ce9fbf75ee8692be07a475187c9c363",
+ "bytes_origem": 10689,
+ "capturado_em": "2026-11-08T05:41:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_fagundes.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "c049c2376ce9fbf75ee8692be07a475187c9c363"
+ }
+}

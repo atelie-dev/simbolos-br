@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2110401",
+ "uf": "MA",
+ "municipio": "São Benedito do Rio Preto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bandeira_de_SBRP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Camarão do Mar",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8e19821542c685874ad5a15c60fc7fe439ef38825a8350d0297dc1ae67adf306",
+ "rendicoes": {
+  "png": {
+   "bytes": 21682,
+   "sha256": "9c6aaff218fc6592ecf40c3b1cf94c84047c6441dab46a0da434ccf2ae40b944",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10693,
+   "sha256": "d85a7bafcd3ad7ef5bc654d77c3ca5f495eea9ec0fc14faacaa23bb62aae0784",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2110401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2110401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2110401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2110401.jpg",
+  "bytes": 24825,
+  "sha256": "8e19821542c685874ad5a15c60fc7fe439ef38825a8350d0297dc1ae67adf306"
+ },
+ "sha1_origem": "f0adb13aff726ed61220ba9cc7ec3fbaff71a843",
+ "bytes_origem": 24825,
+ "capturado_em": "2026-11-08T05:28:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_SBRP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "f0adb13aff726ed61220ba9cc7ec3fbaff71a843"
+ }
+}

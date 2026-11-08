@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3131208",
+ "uf": "MG",
+ "municipio": "Ipanema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Ipanema_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "601cd4de487ee065033c958d842a54738d6ed227c2cceae254fc40e113e1d790",
+ "rendicoes": {
+  "png": {
+   "bytes": 46310,
+   "sha256": "83ae6aea4bec8f58fa9d6033caceda47fcf082ae9ebd5658c0438bffd8284220",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15522,
+   "sha256": "2c47f94d9caedeaf611ea57d398f56076e508d0791e23607c5484d87a9849e87",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3131208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3131208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3131208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3131208.png",
+  "bytes": 81140,
+  "sha256": "601cd4de487ee065033c958d842a54738d6ed227c2cceae254fc40e113e1d790"
+ },
+ "sha1_origem": "6d470b748526ee812d289d8b4d90b2302f289269",
+ "bytes_origem": 81140,
+ "capturado_em": "2026-11-08T06:09:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Ipanema_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "6d470b748526ee812d289d8b4d90b2302f289269"
+ }
+}

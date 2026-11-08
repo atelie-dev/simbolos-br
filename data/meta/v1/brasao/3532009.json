@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532009",
+ "uf": "SP",
+ "municipio": "Morungaba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/BrasaoMorungaba.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d189d2dd05cd4e4e190e1b1c1775c1c859199544ce68eb5689cefb59d57b6108",
+ "rendicoes": {
+  "png": {
+   "bytes": 55665,
+   "sha256": "8d3b8394658e20c35252c711d596583b17fe3cb554d893dc28b66d0e92e4d3f1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45045,
+   "sha256": "f368a5f4d9e6f57b7dd4d6ca451a5415af7dedc00d6878e516d698bfc9366482",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3532009.png",
+  "bytes": 26366,
+  "sha256": "d189d2dd05cd4e4e190e1b1c1775c1c859199544ce68eb5689cefb59d57b6108"
+ },
+ "sha1_origem": "9495bd9f48be456415ae246ea3f02225d3656214",
+ "bytes_origem": 26366,
+ "capturado_em": "2026-11-08T06:32:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoMorungaba.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "9495bd9f48be456415ae246ea3f02225d3656214"
+ }
+}

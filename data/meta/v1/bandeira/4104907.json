@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4104907",
+ "uf": "PR",
+ "municipio": "Castro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bandeira_Castro_Parana_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal prefecture of Castro",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a3136f24950a358c59b5f556454b764ae71d5838d18dee481269e63ff9b1fffc",
+ "rendicoes": {
+  "png": {
+   "bytes": 51621,
+   "sha256": "c9930967f2ec8866eaa1b4977535b3f3014969d3515519f984543edf13265a02",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21614,
+   "sha256": "e632e708a043536ce15836d93053154ba833bfef0cf2cd070495c4ae6dd24ff0",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2422999,
+   "sha256": "a3136f24950a358c59b5f556454b764ae71d5838d18dee481269e63ff9b1fffc"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4104907.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4104907.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4104907.jpg"
+ },
+ "sha1_origem": "ddc3ce30d3fcd1f3348f34892e45ae8d34a9af50",
+ "bytes_origem": 2422999,
+ "capturado_em": "2026-11-08T04:22:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Castro_Parana_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "ddc3ce30d3fcd1f3348f34892e45ae8d34a9af50"
+ }
+}

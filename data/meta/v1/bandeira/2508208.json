@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2508208",
+ "uf": "PB",
+ "municipio": "Lagoa de Dentro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bandeira_lagoa_de_dentro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Lagoa de Dentro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "eb618bc9bcdbdc70d2c0d1ce2173b74274d0bb24fff7c0f1966667d79672a1bc",
+ "rendicoes": {
+  "png": {
+   "bytes": 13424,
+   "sha256": "8820bc583e9a5fd4a6b78c64e0b1fa2e5179b61a8047fdfd6b13402aa14753dc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5613,
+   "sha256": "8f2ff18ea1a5815f39ecaf9b49049752a4c677c43cb85fe349a071e7bfbafad0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2508208.jpg",
+  "bytes": 23824,
+  "sha256": "eb618bc9bcdbdc70d2c0d1ce2173b74274d0bb24fff7c0f1966667d79672a1bc"
+ },
+ "sha1_origem": "8c63209b9ca014784828c87d6aad0805f8fdfe5b",
+ "bytes_origem": 23824,
+ "capturado_em": "2026-11-08T05:41:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_lagoa_de_dentro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "8c63209b9ca014784828c87d6aad0805f8fdfe5b"
+ }
+}

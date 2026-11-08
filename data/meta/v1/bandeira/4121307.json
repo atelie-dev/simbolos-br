@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4121307",
+ "uf": "PR",
+ "municipio": "Rancho Alegre",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Band_Rancho_Alegre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "10379fd89bd7346b8f43582d419a929db0ef2d5633208e75182c61a2dc7400e1",
+ "rendicoes": {
+  "png": {
+   "bytes": 290492,
+   "sha256": "87e50cf944d2201dcd119631dd1f74eb03400554da458eae55ec0a01f2f30d41",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30093,
+   "sha256": "1c88a690e5c864dbe6128b1a48b844f4534abe93eb8ab2aa362016054c564aa8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4121307.jpg",
+  "bytes": 3689024,
+  "sha256": "10379fd89bd7346b8f43582d419a929db0ef2d5633208e75182c61a2dc7400e1"
+ },
+ "sha1_origem": "16796c8783ecd86ce46ad054810b636b998a485a",
+ "bytes_origem": 3689024,
+ "capturado_em": "2026-11-08T06:48:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_Rancho_Alegre.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "16796c8783ecd86ce46ad054810b636b998a485a"
+ }
+}

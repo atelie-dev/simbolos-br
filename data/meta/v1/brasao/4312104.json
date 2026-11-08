@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312104",
+ "uf": "RS",
+ "municipio": "Mata",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Mata_brasao_site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Mata",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b3d4da4ec6717ace660864979d75f4ba01f120bbebb366744dfe46d10211f179",
+ "rendicoes": {
+  "png": {
+   "bytes": 27444,
+   "sha256": "ff594461fe6f3d0e913a0ad76e6051c95e0a44f9a2fedd639ba7695db8dfd4df",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8653,
+   "sha256": "a91f942c18c84d71563814a43a6cb094d0f310dede87e585b7d0fc011487503e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4312104.jpg",
+  "bytes": 45191,
+  "sha256": "b3d4da4ec6717ace660864979d75f4ba01f120bbebb366744dfe46d10211f179"
+ },
+ "sha1_origem": "d8c33617dcdbb74591eb0476c110efdc582ce56b",
+ "bytes_origem": 45191,
+ "capturado_em": "2026-11-08T07:05:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Mata_brasao_site.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "d8c33617dcdbb74591eb0476c110efdc582ce56b"
+ }
+}

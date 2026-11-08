@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3155207",
+ "uf": "MG",
+ "municipio": "Rio Espera",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira-rioespera.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Rio Espera City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "50e445d9370c10171da6b1a264e8fdb04871d95cad8388f1dea2ffbed0df787d",
+ "rendicoes": {
+  "png": {
+   "bytes": 4942,
+   "sha256": "1daf5a6c820e66352bc707ba358b931d5b38b478ff6d0448748c93946b651630",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13828,
+   "sha256": "c73610e83b6cb6c4852bb5642d2c21dcb4c7dd970ce978f5bc17e88c20bf347c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3155207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3155207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3155207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3155207.png",
+  "bytes": 3664,
+  "sha256": "50e445d9370c10171da6b1a264e8fdb04871d95cad8388f1dea2ffbed0df787d"
+ },
+ "sha1_origem": "e04b26cc62462b010cdd327702c207f939b6d419",
+ "bytes_origem": 3664,
+ "capturado_em": "2026-11-08T06:14:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-rioespera.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "e04b26cc62462b010cdd327702c207f939b6d419"
+ }
+}

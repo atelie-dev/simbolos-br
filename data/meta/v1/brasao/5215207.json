@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5215207",
+ "uf": "GO",
+ "municipio": "Novo Brasil",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bras%C3%A3o_de_Novo_Brasil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Novo Brasil",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "056e729562703ca4af33be4db2a8fe468cd3c19203cadfa68c2f16bfc39868fe",
+ "rendicoes": {
+  "png": {
+   "bytes": 122418,
+   "sha256": "43fb2f1160fe3293e69146c0d981919e438d43d606dd35bd9648a6201be3bb91",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34635,
+   "sha256": "e91e7783f0902b7361b66514852215e67adb4c3f91e9c9430454ec826f0fe74b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5215207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5215207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5215207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5215207.png",
+  "bytes": 157519,
+  "sha256": "056e729562703ca4af33be4db2a8fe468cd3c19203cadfa68c2f16bfc39868fe"
+ },
+ "sha1_origem": "b717f7d96db58577099db5aa45c35a23726117da",
+ "bytes_origem": 157519,
+ "capturado_em": "2026-11-08T07:19:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Novo_Brasil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "b717f7d96db58577099db5aa45c35a23726117da"
+ }
+}

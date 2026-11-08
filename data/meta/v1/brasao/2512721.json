@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2512721",
+ "uf": "PB",
+ "municipio": "Pedro Régis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bras%C3%A3o_Pedro_R%C3%A9gis-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pedro Régis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "96da91e9b9d2ebab00fe56ec1fbc0a1833268277c4cbe791d4a0ce52a2e5cd54",
+ "rendicoes": {
+  "png": {
+   "bytes": 81584,
+   "sha256": "c77134bf2eb9aaea18df02dfacb51b236fd3402ec274ed54d803dc168dabf99e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12920,
+   "sha256": "82e0a52b8a7a9388909870a75a41350dbff123fc644eb5742cb3e0a71682ece7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2512721.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2512721.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2512721.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2512721.jpg",
+  "bytes": 17029,
+  "sha256": "96da91e9b9d2ebab00fe56ec1fbc0a1833268277c4cbe791d4a0ce52a2e5cd54"
+ },
+ "sha1_origem": "3fdc80dbfaef37cf001be158c8cf6e17fb32ff47",
+ "bytes_origem": 17029,
+ "capturado_em": "2026-11-08T05:42:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Pedro_Régis-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "3fdc80dbfaef37cf001be158c8cf6e17fb32ff47"
+ }
+}

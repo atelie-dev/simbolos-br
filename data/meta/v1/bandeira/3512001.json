@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3512001",
+ "uf": "SP",
+ "municipio": "Colina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bandeiracolina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "39f047fe9a81fb62da4b485df7b0c8f44178bcba24559730d1e6e25468c5997d",
+ "rendicoes": {
+  "png": {
+   "bytes": 20879,
+   "sha256": "343c13e16b2b1d01de1be49149da97c31c429c3eed2e296d15a20eebf480540d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6581,
+   "sha256": "c535513be2955d385ae91c794a4bc019bb209f08ac5bada0082525991ce9a637",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3512001.jpg",
+  "bytes": 5184,
+  "sha256": "39f047fe9a81fb62da4b485df7b0c8f44178bcba24559730d1e6e25468c5997d"
+ },
+ "sha1_origem": "a46213445c54fae43038eb327b5abc6c561450c7",
+ "bytes_origem": 5184,
+ "capturado_em": "2026-11-08T06:26:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiracolina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "a46213445c54fae43038eb327b5abc6c561450c7"
+ }
+}

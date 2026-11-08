@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5222203",
+ "uf": "GO",
+ "municipio": "Vila Boa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bandeira_VilaBoa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Eneide Rufino",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "50e3dfd351bb0e8bfd66f18d198f1a88f142e6905ee07db14385953c22aa1e48",
+ "rendicoes": {
+  "png": {
+   "bytes": 100660,
+   "sha256": "aaa659d484d9c36e441e3cb6763b271a7c914cd9448ab5955e3508b80b32663a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18957,
+   "sha256": "8b7f33d93f8ff13714123b9f344ba9a23740df052f38c9c493ffa5b9b833da4b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5222203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5222203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5222203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5222203.jpg",
+  "bytes": 8855,
+  "sha256": "50e3dfd351bb0e8bfd66f18d198f1a88f142e6905ee07db14385953c22aa1e48"
+ },
+ "sha1_origem": "e6b254f05bd0e813b1ddd68facc81559302678c0",
+ "bytes_origem": 8855,
+ "capturado_em": "2026-11-08T07:21:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_VilaBoa.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "e6b254f05bd0e813b1ddd68facc81559302678c0"
+ }
+}

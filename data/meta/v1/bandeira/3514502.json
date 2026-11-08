@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3514502",
+ "uf": "SP",
+ "municipio": "Duartina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bandeira_de_Duartina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Duartina - SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "101a32d4fa885b525c517cf18fec3ca93de994cb340a4e55566ce95ca3003904",
+ "rendicoes": {
+  "png": {
+   "bytes": 128115,
+   "sha256": "15d61626952950a12bc8e5460fc993d2c0b8b1c4997f9bcb414f49d0fdbf42a1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37047,
+   "sha256": "ec52678b1786c56cdbf60fd458e4a6c1619d24f9f3a7bd8f45f7b3cb5fbde4a6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3514502.jpg",
+  "bytes": 215638,
+  "sha256": "101a32d4fa885b525c517cf18fec3ca93de994cb340a4e55566ce95ca3003904"
+ },
+ "sha1_origem": "d7f6cc7d773d25e70aa5903f73ce672d7638811c",
+ "bytes_origem": 215638,
+ "capturado_em": "2026-11-08T06:27:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Duartina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "d7f6cc7d773d25e70aa5903f73ce672d7638811c"
+ }
+}

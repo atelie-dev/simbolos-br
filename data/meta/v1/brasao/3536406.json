@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3536406",
+ "uf": "SP",
+ "municipio": "Paulicéia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/BrasaoPauliceia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fbc27c6964eb936f6b57e9b7e519ba1f4b6175bdc6bc721dee42a0fac8c46607",
+ "rendicoes": {
+  "png": {
+   "bytes": 356939,
+   "sha256": "9bc1200980d08123bfcceed40fa00323cf2e597ac4491b07bdcdb334dfdb2e17",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62131,
+   "sha256": "c30f4ecd5c5a27cb3f249f94044835253b673dc1b61f0604f08313dbfdb57ef0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536406.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3536406.jpg",
+  "bytes": 50656,
+  "sha256": "fbc27c6964eb936f6b57e9b7e519ba1f4b6175bdc6bc721dee42a0fac8c46607"
+ },
+ "sha1_origem": "4f4cb91b63b988923c0652907fa6b7cebc09fbb3",
+ "bytes_origem": 50656,
+ "capturado_em": "2026-11-08T06:34:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoPauliceia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "4f4cb91b63b988923c0652907fa6b7cebc09fbb3"
+ }
+}

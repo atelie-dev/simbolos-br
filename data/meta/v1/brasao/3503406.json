@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3503406",
+ "uf": "SP",
+ "municipio": "Arealva",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Brasao_Arealva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f64120d1129652b4f4cd0e7abaa4a3ac6db29f50856375e398cbedb2405661c6",
+ "rendicoes": {
+  "png": {
+   "bytes": 53330,
+   "sha256": "94a53aa155a24c3724c3c90e7e45a6c61d3a41c72e497b83ad89756e81086a78",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13157,
+   "sha256": "82a1867c0c988ccc6d5fad917e58cb1febeee312bd8b6b68cfd87ea4287f0eb5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503406.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3503406.jpg",
+  "bytes": 15526,
+  "sha256": "f64120d1129652b4f4cd0e7abaa4a3ac6db29f50856375e398cbedb2405661c6"
+ },
+ "sha1_origem": "60c050c940b2ab0c5049a5c9d70818abcc85ff45",
+ "bytes_origem": 15526,
+ "capturado_em": "2026-11-08T06:23:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Arealva.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "60c050c940b2ab0c5049a5c9d70818abcc85ff45"
+ }
+}

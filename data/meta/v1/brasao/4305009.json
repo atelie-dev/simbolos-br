@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305009",
+ "uf": "RS",
+ "municipio": "Catuípe",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Brasaocatuipe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Catuípe",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "337ce6aba26a8cda0a3e0378ca4efff75bc52a700763972526cad321641c7356",
+ "rendicoes": {
+  "png": {
+   "bytes": 136115,
+   "sha256": "a361fc2b7186e38ca9cb45e11a67dac6a6e287bf8ed54da0b967fbbd4388735b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41410,
+   "sha256": "b12b420afbff0301a0f373de84d4dbed3d6ff8f55282eace0862df50d42c1a3c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4305009.jpg",
+  "bytes": 146282,
+  "sha256": "337ce6aba26a8cda0a3e0378ca4efff75bc52a700763972526cad321641c7356"
+ },
+ "sha1_origem": "0d7da500268a2947b7d7ac0b2decaae973723416",
+ "bytes_origem": 146282,
+ "capturado_em": "2026-11-08T07:01:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaocatuipe.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "0d7da500268a2947b7d7ac0b2decaae973723416"
+ }
+}

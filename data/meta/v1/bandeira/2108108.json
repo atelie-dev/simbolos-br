@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2108108",
+ "uf": "MA",
+ "municipio": "Paulo Ramos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bandeira_de_Paulo_Ramos_-_MA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "cb5aa5043230d6240e16067f7ec48375ad60410912714bbb26d8b34c7f306a55",
+ "rendicoes": {
+  "png": {
+   "bytes": 45914,
+   "sha256": "02313c4b9f1b1c8ef2cf2c9ec9ddbec0e994d4c868177a25f3a44536a0a2a0a3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19136,
+   "sha256": "2ed05f1e86c4385e19414fb5b054278f2bce7311c04fdb997c2e3255939b82ad",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 376534,
+   "sha256": "cb5aa5043230d6240e16067f7ec48375ad60410912714bbb26d8b34c7f306a55"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2108108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2108108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2108108.jpg"
+ },
+ "sha1_origem": "8820ea0bf44d292563cbdcc19ce41dbebdc2462b",
+ "bytes_origem": 376534,
+ "capturado_em": "2026-11-08T02:39:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Paulo_Ramos_-_MA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "8820ea0bf44d292563cbdcc19ce41dbebdc2462b"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5002605",
+ "uf": "MS",
+ "municipio": "Camapuã",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Brasaodecamapua.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Gabrielsilvagarcia",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3291fc2b23d1058976878c08932cbfec07072b4c457d706bfd9e63d8c7538e83",
+ "rendicoes": {
+  "png": {
+   "bytes": 31638,
+   "sha256": "52867ed70f15efa54460176c45afcab4a1c1f32861c67b24b28ec5f858fa033d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11738,
+   "sha256": "83a61bfdeaa245b65b0b4f495154d874ac8e9c65551e3fcc41a5d28c86258831",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5002605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5002605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5002605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5002605.png",
+  "bytes": 29269,
+  "sha256": "3291fc2b23d1058976878c08932cbfec07072b4c457d706bfd9e63d8c7538e83"
+ },
+ "sha1_origem": "54c7591e5212f707e0d5768369594df3a2f4199c",
+ "bytes_origem": 29269,
+ "capturado_em": "2026-11-08T07:12:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaodecamapua.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "54c7591e5212f707e0d5768369594df3a2f4199c"
+ }
+}

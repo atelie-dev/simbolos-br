@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2112407",
+ "uf": "MA",
+ "municipio": "Turiaçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bandeira_de_Turia%C3%A7u_-_MA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "36c5117ff269a9acc0ad0ba3ac25b142f832eadcf6ea569ab3d883195b3fdd0c",
+ "rendicoes": {
+  "png": {
+   "bytes": 20340,
+   "sha256": "28be29f20c3ad8e90a85f83e76ec3d0591f364e548c9eb19d5bcfd2da43d769c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18238,
+   "sha256": "891cf7a4a2866002bc82fb405f3fedb7cf6046b8b61656fa882bad2ec106b987",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 130076,
+   "sha256": "36c5117ff269a9acc0ad0ba3ac25b142f832eadcf6ea569ab3d883195b3fdd0c"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2112407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2112407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2112407.jpg"
+ },
+ "sha1_origem": "3ba99c64a5f2af1b948b5535543a754ce98f97b0",
+ "bytes_origem": 130076,
+ "capturado_em": "2026-11-08T02:40:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Turiaçu_-_MA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "3ba99c64a5f2af1b948b5535543a754ce98f97b0"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4101507",
+ "uf": "PR",
+ "municipio": "Arapongas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bras%C3%A3o_de_Arapongas_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "dfd50e17d5cb1de859fd817e426d545508f438a0c57023ded1eeac99e7b828fe",
+ "rendicoes": {
+  "png": {
+   "bytes": 199269,
+   "sha256": "57127c631540fc6c28aff50b342cee5ab38fa03428292d621a8a704343aca814",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63171,
+   "sha256": "dcaefd2a57579e7c6d1e3978fccfa12d70bfe5885903adac64072345ebeefc28",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 656355,
+   "sha256": "dfd50e17d5cb1de859fd817e426d545508f438a0c57023ded1eeac99e7b828fe"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101507.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101507.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101507.jpg"
+ },
+ "sha1_origem": "8b3e1ecfe034709b0678e361872aa6393a258c47",
+ "bytes_origem": 656355,
+ "capturado_em": "2026-11-08T04:20:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Arapongas_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "8b3e1ecfe034709b0678e361872aa6393a258c47"
+ }
+}

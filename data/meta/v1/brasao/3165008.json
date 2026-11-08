@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3165008",
+ "uf": "MG",
+ "municipio": "São Tiago",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Brasao_sao_tiago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Douglas Caputo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2ba16fd4177671120f68413be9dc66919ccea882c5ccbd802eb6173ee508a754",
+ "rendicoes": {
+  "png": {
+   "bytes": 69373,
+   "sha256": "594a4370bde23846b459105e44228d4faef2d2d5068da8319cfa9b7bbc550fa2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17980,
+   "sha256": "6a2299e23e98ee0b274c643c64100b5fb4001aa53ac625c58312fd7d7022ca55",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3165008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3165008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3165008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3165008.jpg",
+  "bytes": 19178,
+  "sha256": "2ba16fd4177671120f68413be9dc66919ccea882c5ccbd802eb6173ee508a754"
+ },
+ "sha1_origem": "8937851be5ed675e537b650dc524d360547f0161",
+ "bytes_origem": 19178,
+ "capturado_em": "2026-11-08T06:16:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_sao_tiago.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "8937851be5ed675e537b650dc524d360547f0161"
+ }
+}

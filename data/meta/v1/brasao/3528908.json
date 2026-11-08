@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3528908",
+ "uf": "SP",
+ "municipio": "Mariápolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bras%C3%A3o_Mari%C3%A1polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "914a3e0f366269e2b491b84d375c8f6049e186958b5198f9cd0d0bc97e5131bd",
+ "rendicoes": {
+  "png": {
+   "bytes": 110984,
+   "sha256": "c7671fe5a58ed4bfffa219d330c0dd3718c38a5f9ed05e68063e5052c74333fe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21237,
+   "sha256": "cf12338bba978368f63f2d46a2ee1e43dcc6f9c97c7ad07227c2fc3859cb4fe8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3528908.jpg",
+  "bytes": 12530,
+  "sha256": "914a3e0f366269e2b491b84d375c8f6049e186958b5198f9cd0d0bc97e5131bd"
+ },
+ "sha1_origem": "748d536793af2e54bef76b38079f2821dec94c57",
+ "bytes_origem": 12530,
+ "capturado_em": "2026-11-08T06:31:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Mariápolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "748d536793af2e54bef76b38079f2821dec94c57"
+ }
+}

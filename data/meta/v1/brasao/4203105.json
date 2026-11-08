@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4203105",
+ "uf": "SC",
+ "municipio": "Caibi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bras%C3%A3o_Caibi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "faab2cd09487b70d55a8705ff728f06d57b1c12869ce26b7ad08285203b05738",
+ "rendicoes": {
+  "png": {
+   "bytes": 20879,
+   "sha256": "4a029b386e7b8a0770cbcf3ebbc13c6d59fec46b06f463ce7d0f8e69fcc8bc74",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5928,
+   "sha256": "8b7f5d51300cae406f60effcbb55fb37d065ce51abfa3c9130a121706436abd9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4203105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4203105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4203105.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4203105.jpg",
+  "bytes": 5348,
+  "sha256": "faab2cd09487b70d55a8705ff728f06d57b1c12869ce26b7ad08285203b05738"
+ },
+ "sha1_origem": "f993d55bc92b3276a4d553154ea776d28d7b8384",
+ "bytes_origem": 5348,
+ "capturado_em": "2026-11-08T06:52:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Caibi.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:47Z",
+  "estado": "igual",
+  "sha1_commons": "f993d55bc92b3276a4d553154ea776d28d7b8384"
+ }
+}

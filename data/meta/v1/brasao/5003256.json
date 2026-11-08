@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5003256",
+ "uf": "MS",
+ "municipio": "Costa Rica",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bras%C3%A3o_de_Costa_Rica_-_MS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a00d69e46c5c5405fdc82e55fb1f62b2af3c4f6adf92cad2a1b13a0946303236",
+ "rendicoes": {
+  "png": {
+   "bytes": 23424,
+   "sha256": "5b44751b0a8dc0d3b94416a8e0d3c53c9a511daf541a5565f1f61289727ac68f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6957,
+   "sha256": "ddeb05d2e8e79370099b2fbd69c59c2d13fc6ab3f9a3213bd5b4da4d81dbb4f9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5003256.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5003256.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5003256.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5003256.jpg",
+  "bytes": 7788,
+  "sha256": "a00d69e46c5c5405fdc82e55fb1f62b2af3c4f6adf92cad2a1b13a0946303236"
+ },
+ "sha1_origem": "65793a91bd9b5ef011ed7f024d239b30e340a664",
+ "bytes_origem": 7788,
+ "capturado_em": "2026-11-08T07:12:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Costa_Rica_-_MS.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "65793a91bd9b5ef011ed7f024d239b30e340a664"
+ }
+}

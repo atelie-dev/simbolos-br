@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3523503",
+ "uf": "SP",
+ "municipio": "Itatinga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bra_Itatinga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "005d282906bd6bf727446fd4133a87794b913a734869b924080bfaf0a08ecbb6",
+ "rendicoes": {
+  "png": {
+   "bytes": 230192,
+   "sha256": "5fda6ff56c60f500084b1432d228c61fd377c57eb5ec5d5745869e2c6cbba483",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 46575,
+   "sha256": "f8ff6c19f00314895339d87b66d5ccbc6866077efe501281907f62e4eb1180a0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3523503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3523503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3523503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3523503.jpg",
+  "bytes": 355324,
+  "sha256": "005d282906bd6bf727446fd4133a87794b913a734869b924080bfaf0a08ecbb6"
+ },
+ "sha1_origem": "21f010c971e54c784f4813cfeae35a054413fcb2",
+ "bytes_origem": 355324,
+ "capturado_em": "2026-11-08T06:30:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bra_Itatinga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:27Z",
+  "estado": "igual",
+  "sha1_commons": "21f010c971e54c784f4813cfeae35a054413fcb2"
+ }
+}

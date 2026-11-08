@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3107109",
+ "uf": "MG",
+ "municipio": "Boa Esperança",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bandeira_de_Boa_Esperan%C3%A7a_-_MG.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "4db868fa2ce5ee73a9b7f25ea0df71f8871d3feda4bbd5f450b0bca476606966",
+ "rendicoes": {
+  "png": {
+   "bytes": 53048,
+   "sha256": "79dcf723d52cf8403ec01898181630fe59bf3f25ec01e82631d0c6f7849bcd3f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19626,
+   "sha256": "327f2cc93291f6a84ccf211f742ded940a4cbbcb9e80589ad3fb48ccda1b436c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 407773,
+   "sha256": "4db868fa2ce5ee73a9b7f25ea0df71f8871d3feda4bbd5f450b0bca476606966"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3107109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3107109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3107109.jpg"
+ },
+ "sha1_origem": "7046ef3207e10eaa3bb6cccb49fafe48185371fc",
+ "bytes_origem": 407773,
+ "capturado_em": "2026-11-08T03:27:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Boa_Esperança_-_MG.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "7046ef3207e10eaa3bb6cccb49fafe48185371fc"
+ }
+}

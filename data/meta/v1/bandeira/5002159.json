@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5002159",
+ "uf": "MS",
+ "municipio": "Bodoquena",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bandeira_Bodoquena-MS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Bodoquena, Mato Grosso do Sul.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dc05bf36a0cffa33a2c0df42804309bc962d8a407b6d46c76fde6cf123d0bcfd",
+ "rendicoes": {
+  "png": {
+   "bytes": 60362,
+   "sha256": "53451554d77a852470dba36dcb46826ee5f22891a41fbaf3b4d163302c7ed820",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13427,
+   "sha256": "999905f500c08cc76d54c11489bd5c5ab344fde0974c9bf8ee42d78b370738e8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5002159.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5002159.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5002159.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5002159.jpg",
+  "bytes": 6166,
+  "sha256": "dc05bf36a0cffa33a2c0df42804309bc962d8a407b6d46c76fde6cf123d0bcfd"
+ },
+ "sha1_origem": "889daacd3b90575cd54bbacd273ea5f6809dc18f",
+ "bytes_origem": 6166,
+ "capturado_em": "2026-11-08T07:12:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Bodoquena-MS.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "889daacd3b90575cd54bbacd273ea5f6809dc18f"
+ }
+}

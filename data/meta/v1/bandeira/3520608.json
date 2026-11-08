@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3520608",
+ "uf": "SP",
+ "municipio": "Indiana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandeira_de_Indiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1f4fc08de1235261b10a4b268df0d5009f39bf89f9f619288c145fe23d606922",
+ "rendicoes": {
+  "png": {
+   "bytes": 28010,
+   "sha256": "c7fee5d385afbd6c0d9edeff3fef6d97caf698191c8edcea24d940cb1a1fb725",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5300,
+   "sha256": "a66b8b4a6c26b446e502defa4bf5671a42d12f34a1b66a8e1b2fda91d9ba967d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3520608.jpg",
+  "bytes": 9734,
+  "sha256": "1f4fc08de1235261b10a4b268df0d5009f39bf89f9f619288c145fe23d606922"
+ },
+ "sha1_origem": "c109f7487b6fe12ee1ea0bc327308edd4e0e147c",
+ "bytes_origem": 9734,
+ "capturado_em": "2026-11-08T06:29:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Indiana.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "c109f7487b6fe12ee1ea0bc327308edd4e0e147c"
+ }
+}

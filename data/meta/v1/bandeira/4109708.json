@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4109708",
+ "uf": "PR",
+ "municipio": "Ibaiti",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bandeiraibaiti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "(Upload): Bragiul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b99f534b94d480a2f0149d5091e00bb10e55520acbcb478abfb4fba538670be2",
+ "rendicoes": {
+  "png": {
+   "bytes": 39755,
+   "sha256": "29c7109139477e5ece63215d0276ab69dfb10ee8faf2383eb7dd348032d46b6c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15790,
+   "sha256": "594db1b6585b3bddc46aeeacff7eb7d330497b79d5f351dab424a16d3ffbf0b0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4109708.jpg",
+  "bytes": 152205,
+  "sha256": "b99f534b94d480a2f0149d5091e00bb10e55520acbcb478abfb4fba538670be2"
+ },
+ "sha1_origem": "bd75776df2387b7d03e2254571bb660bd56baccf",
+ "bytes_origem": 152205,
+ "capturado_em": "2026-11-08T06:44:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraibaiti.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "bd75776df2387b7d03e2254571bb660bd56baccf"
+ }
+}

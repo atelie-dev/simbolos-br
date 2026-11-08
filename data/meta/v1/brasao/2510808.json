@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2510808",
+ "uf": "PB",
+ "municipio": "Patos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bras%C3%A3o_de_Patos_-_PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "35dc71221621937e5cb3fa91bf1edfb57ceb665a11f17a134c7ff078923254d1",
+ "rendicoes": {
+  "png": {
+   "bytes": 211133,
+   "sha256": "0a51a209c220841f416e8d50c744c6874f18bc333406edeea7d2da45dae62b5f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67676,
+   "sha256": "5b79e9d978ca2cb04087ebc4b797640f5d5d096f73a5e79495d672e393e60313",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 270999,
+   "sha256": "35dc71221621937e5cb3fa91bf1edfb57ceb665a11f17a134c7ff078923254d1"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2510808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2510808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2510808.jpg"
+ },
+ "sha1_origem": "2075cf398815accc25891acaf9d0cd81d1da25cf",
+ "bytes_origem": 270999,
+ "capturado_em": "2026-11-08T03:00:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Patos_-_PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "2075cf398815accc25891acaf9d0cd81d1da25cf"
+ }
+}

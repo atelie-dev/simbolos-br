@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2513000",
+ "uf": "PB",
+ "municipio": "Salgadinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bras%C3%A3o_Salgadinho-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Salgadinho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "79fd5d6046fe55673b15289e0b6115f7e9496783c76c7a17b889981f1ee56e7c",
+ "rendicoes": {
+  "png": {
+   "bytes": 87946,
+   "sha256": "bf7170acad191f4e12dca475eac7d9870a2c721d58cd12dcfd4ada37bbe5b169",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17540,
+   "sha256": "cb4081f98686c8189cb021e9917b86c6750e698a54142b52daeecefe27691223",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2513000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2513000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2513000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2513000.jpg",
+  "bytes": 24065,
+  "sha256": "79fd5d6046fe55673b15289e0b6115f7e9496783c76c7a17b889981f1ee56e7c"
+ },
+ "sha1_origem": "cd23995ef11370ea0e12b32cf3dfdad80b657e1b",
+ "bytes_origem": 24065,
+ "capturado_em": "2026-11-08T05:43:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Salgadinho-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "cd23995ef11370ea0e12b32cf3dfdad80b657e1b"
+ }
+}

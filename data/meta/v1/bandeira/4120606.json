@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4120606",
+ "uf": "PR",
+ "municipio": "Prudentópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bandeira_de_Prudent%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal prefecture of Prudentópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "275e32544f968af2962f76f97507f77127c2a843466c4221280b835408982fdb",
+ "rendicoes": {
+  "png": {
+   "bytes": 8686,
+   "sha256": "3191cb40bb48fc0460386a3b2f9dbe43ccfea2d5a527728b8f2d27c6e74650a8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6414,
+   "sha256": "8c44a07d071c0c57d3f52fa7fcd53ec0e7a438e32450cd1d972596ff247edd6f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4120606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4120606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4120606.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4120606.jpg",
+  "bytes": 12609,
+  "sha256": "275e32544f968af2962f76f97507f77127c2a843466c4221280b835408982fdb"
+ },
+ "sha1_origem": "5b9db820fb08f5314786dd468a0662dff745f4a2",
+ "bytes_origem": 12609,
+ "capturado_em": "2026-11-08T06:48:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Prudentópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "5b9db820fb08f5314786dd468a0662dff745f4a2"
+ }
+}

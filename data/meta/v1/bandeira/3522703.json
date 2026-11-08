@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3522703",
+ "uf": "SP",
+ "municipio": "Itápolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Bandeira_de_It%C3%A1polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5bdba9b4cdc73365638351663fe39e76b275d9ca3a271489c87219809be5586a",
+ "rendicoes": {
+  "png": {
+   "bytes": 87798,
+   "sha256": "5df13f3790fd8f3bf20bec091848eb344de971ccc2891ecc95d3bd6e34887c96",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16414,
+   "sha256": "34ecbaaceaf5f3c0aaaa20b7bb4eb8a00bd15f71e4b13f6c80ff0df577f8bd3e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3522703.jpg",
+  "bytes": 60938,
+  "sha256": "5bdba9b4cdc73365638351663fe39e76b275d9ca3a271489c87219809be5586a"
+ },
+ "sha1_origem": "ca58a043637c17e4c778a822259fd7e7ad25a7dd",
+ "bytes_origem": 60938,
+ "capturado_em": "2026-11-08T06:30:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itápolis.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "ca58a043637c17e4c778a822259fd7e7ad25a7dd"
+ }
+}

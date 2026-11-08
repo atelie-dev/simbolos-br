@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5200209",
+ "uf": "GO",
+ "municipio": "Água Limpa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bandeira_de_%C3%81gua_Limpa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Água Limpa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "303f0a53626a465271850a669852275bca964f2da6ac31938d385a210438237d",
+ "rendicoes": {
+  "png": {
+   "bytes": 29009,
+   "sha256": "eaa6253756c493cac3cecbee045f9af70de3d642e1f9cfd5691d41d0757ce35b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11678,
+   "sha256": "4bb796fd15f60baa7e03ff8b52ad3c02d799415e3021f5597b2e1140fd95bc87",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5200209.jpg",
+  "bytes": 10547,
+  "sha256": "303f0a53626a465271850a669852275bca964f2da6ac31938d385a210438237d"
+ },
+ "sha1_origem": "0ee71e972057393e293c8710ca1e8c4f8da3e80b",
+ "bytes_origem": 10547,
+ "capturado_em": "2026-11-08T07:16:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Água_Limpa.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "0ee71e972057393e293c8710ca1e8c4f8da3e80b"
+ }
+}

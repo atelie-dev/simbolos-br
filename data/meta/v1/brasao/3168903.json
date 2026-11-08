@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3168903",
+ "uf": "MG",
+ "municipio": "Tiros",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Brasaotiros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Tiros",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "00cb32f01adcb4cbef4b8091c71d540043e2ddf2ab71984c468400c52d87ec8a",
+ "rendicoes": {
+  "png": {
+   "bytes": 46174,
+   "sha256": "c21adef475381fa5322f02ddee4d96d085def72295ddbf2e18e2d7bc0331ad08",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10786,
+   "sha256": "4476f23d60f2fa0c94d74d09740ae9a55d028a0c752b56002dfc365a5f55a576",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3168903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3168903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3168903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3168903.jpg",
+  "bytes": 8298,
+  "sha256": "00cb32f01adcb4cbef4b8091c71d540043e2ddf2ab71984c468400c52d87ec8a"
+ },
+ "sha1_origem": "417f67dc2ed2066ff9801435808a16b647f3c8e4",
+ "bytes_origem": 8298,
+ "capturado_em": "2026-11-08T06:17:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaotiros.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "417f67dc2ed2066ff9801435808a16b647f3c8e4"
+ }
+}

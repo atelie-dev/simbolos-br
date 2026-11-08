@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4104808",
+ "uf": "PR",
+ "municipio": "Cascavel",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Flag_of_Cascavel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cascavel",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1d4200441010cabd0a9406a2ed626728667422f30c2f947f56defd7d98c452d1",
+ "rendicoes": {
+  "png": {
+   "bytes": 40546,
+   "sha256": "771eec6a9a9e1e7fddb149e98eae6fa6446fe4e2a9ebe04ef4cda32d08e3ca20",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9472,
+   "sha256": "1b4ea5f7dd1b004482a5c0dcd3b9a7903916a6be5dec0bd187fd038b6dc68f3a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4104808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4104808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4104808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4104808.jpg",
+  "bytes": 60555,
+  "sha256": "1d4200441010cabd0a9406a2ed626728667422f30c2f947f56defd7d98c452d1"
+ },
+ "sha1_origem": "90c05d77b761c1c698d5ceecf3c53fb33799cb62",
+ "bytes_origem": 60555,
+ "capturado_em": "2026-11-08T06:42:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Cascavel.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "90c05d77b761c1c698d5ceecf3c53fb33799cb62"
+ }
+}

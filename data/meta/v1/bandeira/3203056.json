@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3203056",
+ "uf": "ES",
+ "municipio": "Jaguaré",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bandeira_de_Jaguar%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Thiagonegris",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ddbca901ecece40ec7764834b6989379ae27d6047381115e535f243e9d3a3546",
+ "rendicoes": {
+  "png": {
+   "bytes": 131559,
+   "sha256": "0b9988d43d2e93986247ce328dde95eb24edf9ec85ccd325a2f2992e082b61e4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37652,
+   "sha256": "b5214ab3bb120133244da90098ac4c781961046731f7afbccd40d9159d7bf630",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203056.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203056.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203056.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3203056.jpg",
+  "bytes": 133426,
+  "sha256": "ddbca901ecece40ec7764834b6989379ae27d6047381115e535f243e9d3a3546"
+ },
+ "sha1_origem": "921615e970d7f906731cdb9f2408f968e80eec9c",
+ "bytes_origem": 133426,
+ "capturado_em": "2026-11-08T06:19:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Jaguaré.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "921615e970d7f906731cdb9f2408f968e80eec9c"
+ }
+}

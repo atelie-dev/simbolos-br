@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4215208",
+ "uf": "SC",
+ "municipio": "Romelândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bandeira_romelandia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f669a5c9991e8a3b490c92862c718f1a873ab734d7bc034cf6ba09e52196acdb",
+ "rendicoes": {
+  "png": {
+   "bytes": 122418,
+   "sha256": "84e2b3e409c76fb1220cefc59a9359c4dcb7328c7af2ced69560324ba7cf3283",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21262,
+   "sha256": "983e4deefec5bbcf05a4b017a22a23a0d1499c9c66c4059d910c3bad2f96412d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4215208.jpg",
+  "bytes": 70893,
+  "sha256": "f669a5c9991e8a3b490c92862c718f1a873ab734d7bc034cf6ba09e52196acdb"
+ },
+ "sha1_origem": "6015a5aa91fc30e99d53b8712cdac689bc0967eb",
+ "bytes_origem": 70893,
+ "capturado_em": "2026-11-08T06:56:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_romelandia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "6015a5aa91fc30e99d53b8712cdac689bc0967eb"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3141801",
+ "uf": "MG",
+ "municipio": "Minas Novas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bandeira_da_cidade_de_Minas_Novas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Casc12",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d98f43c1537fbf12538e12eba3fb0fb96e00e3f6793cdbf7b66d960634ef7227",
+ "rendicoes": {
+  "png": {
+   "bytes": 72068,
+   "sha256": "fdb2558dbe831b5b9567ddbcb289adb338c17190d5c0395ca50cfc7473921b7f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18839,
+   "sha256": "e144f1aebb041fb73e7d7a2e78f21e07808fe139096d708e9fc60c2cf88a7ef6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3141801.jpg",
+  "bytes": 514992,
+  "sha256": "d98f43c1537fbf12538e12eba3fb0fb96e00e3f6793cdbf7b66d960634ef7227"
+ },
+ "sha1_origem": "a06521eba4a0d14c97f77aa6fa09a4a8d1cd1018",
+ "bytes_origem": 514992,
+ "capturado_em": "2026-11-08T06:11:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_da_cidade_de_Minas_Novas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "a06521eba4a0d14c97f77aa6fa09a4a8d1cd1018"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3552502",
+ "uf": "SP",
+ "municipio": "Suzano",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ce/BrasaoSuzano.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Suzano; ViniciusBR11",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0de6bc1109160c4a0f759b50c092ebccb51b85fd75885d08b974263770c13fbb",
+ "rendicoes": {
+  "png": {
+   "bytes": 141120,
+   "sha256": "9bba25bdd4b327d9af6d2aafbcb1a7907dc0c7d4ede351804e1c0d6c4df4b660",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55699,
+   "sha256": "c39f40cc1880e1b4733992b5b80c5a92e891238ca8b1a7cf8a036f51065de3b0",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 48370,
+   "sha256": "0de6bc1109160c4a0f759b50c092ebccb51b85fd75885d08b974263770c13fbb"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3552502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3552502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3552502.jpg"
+ },
+ "sha1_origem": "6c3d28788ef7c63a22e424f6974b0b5fe6d78be7",
+ "bytes_origem": 48370,
+ "capturado_em": "2026-11-08T04:17:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoSuzano.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "6c3d28788ef7c63a22e424f6974b0b5fe6d78be7"
+ }
+}

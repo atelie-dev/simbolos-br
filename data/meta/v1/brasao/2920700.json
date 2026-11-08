@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2920700",
+ "uf": "BA",
+ "municipio": "Maraú",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bras%C3%A3oMara%C3%BA.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Guti rangel",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a3b0068f086bbcd703dc541013e8d80d6e6eee87923ede0505885983f0d1c707",
+ "rendicoes": {
+  "png": {
+   "bytes": 35226,
+   "sha256": "080da4217430ecb1ba469f93da67eb610e3089d05a3cadc28ce9c7dceaab90f3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11304,
+   "sha256": "0bad7ec73d0cf361afedf4d05f4648f2601f1aa55c26ddf7b6dbb05070db69d6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2920700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2920700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2920700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2920700.jpg",
+  "bytes": 68735,
+  "sha256": "a3b0068f086bbcd703dc541013e8d80d6e6eee87923ede0505885983f0d1c707"
+ },
+ "sha1_origem": "36fa5aa1826aac845b4f3f2f61a2b5597988b071",
+ "bytes_origem": 68735,
+ "capturado_em": "2026-11-08T05:55:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasãoMaraú.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "36fa5aa1826aac845b4f3f2f61a2b5597988b071"
+ }
+}

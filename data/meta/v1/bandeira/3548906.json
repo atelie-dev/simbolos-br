@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3548906",
+ "uf": "SP",
+ "municipio": "São Carlos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bandeira_de_S%C3%A3o_Carlos.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7fabef195a908c9cb539eb778e010ea337d5193ae89343d42ebfad9bc1fadfb3",
+ "rendicoes": {
+  "png": {
+   "bytes": 24744,
+   "sha256": "a29bbee03b975db884628842f3aea01f50dfbf869e65f83b662be76944947524",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15669,
+   "sha256": "a72047ee2a3bfcf3d0ef372601ae0b2e3cfc6f4791ee3dcba3cd635c125ef568",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 3122,
+   "sha256": "7fabef195a908c9cb539eb778e010ea337d5193ae89343d42ebfad9bc1fadfb3"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3548906.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3548906.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3548906.jpg"
+ },
+ "sha1_origem": "0918ea4584f9b2509c9ac27d655092656b7592d3",
+ "bytes_origem": 3122,
+ "capturado_em": "2026-11-08T04:16:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Carlos.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "0918ea4584f9b2509c9ac27d655092656b7592d3"
+ }
+}

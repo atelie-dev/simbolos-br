@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4323507",
+ "uf": "RS",
+ "municipio": "Vista Alegre",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bandeira-Vista-Alegre_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Vista Alegre",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9c3b36ddf58ffc548ae0858b7fc3bf8a3711b0af81ef92461c92d2bc8a5881be",
+ "rendicoes": {
+  "png": {
+   "bytes": 245800,
+   "sha256": "d35966a6d41015e56e354ce0e095c6c934a27f78d50350b80d3cc0925672638c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31039,
+   "sha256": "ff800795de883a68fb004c1e16b2378c3f524dd4a645ebb5a336cc93bad50d4a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323507.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323507.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323507.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4323507.jpg",
+  "bytes": 308627,
+  "sha256": "9c3b36ddf58ffc548ae0858b7fc3bf8a3711b0af81ef92461c92d2bc8a5881be"
+ },
+ "sha1_origem": "31c76aa908e669bfacf811a3837d52e8cfca3ee5",
+ "bytes_origem": 308627,
+ "capturado_em": "2026-11-08T07:12:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-Vista-Alegre_(1).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "31c76aa908e669bfacf811a3837d52e8cfca3ee5"
+ }
+}

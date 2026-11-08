@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3501301",
+ "uf": "SP",
+ "municipio": "Álvares Machado",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/%C3%81lvares_Machado.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ec8ae90a927200551da9e4fa44180c2be3da1a586326a5323611fdb93fa24c6f",
+ "rendicoes": {
+  "png": {
+   "bytes": 192598,
+   "sha256": "d817ae40a2d427ff3404c1c0933cfbcf9a92c31a4cc2198978a6d7cfc365375f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35533,
+   "sha256": "b5e90208027ee818a9270fc6090219ce79c62efa7296989d6b23a94f0be1a61d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3501301.png",
+  "bytes": 214887,
+  "sha256": "ec8ae90a927200551da9e4fa44180c2be3da1a586326a5323611fdb93fa24c6f"
+ },
+ "sha1_origem": "2a7ead91477c0d4cb8a70c58d91e75618148cac5",
+ "bytes_origem": 214887,
+ "capturado_em": "2026-11-08T06:23:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Álvares_Machado.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "2a7ead91477c0d4cb8a70c58d91e75618148cac5"
+ }
+}

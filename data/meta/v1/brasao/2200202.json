@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2200202",
+ "uf": "PI",
+ "municipio": "Água Branca",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Blazono_de_%C3%81gua_Branca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "municipa retejo / site da prefeitura (municipal prefecture)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "24ce36ed45ac9ba5026f2dce6565994015a624e6236c320b2a67df5ee801e28b",
+ "rendicoes": {
+  "png": {
+   "bytes": 181200,
+   "sha256": "02e0106bc73668543b7328d3a75c76d5c5180424b519cda65123332f9a32360d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31468,
+   "sha256": "25b9546035c11c151faac6ca89a11c9fb5e98c4d7d999eff00797990fcf0ff09",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2200202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2200202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2200202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2200202.jpg",
+  "bytes": 45538,
+  "sha256": "24ce36ed45ac9ba5026f2dce6565994015a624e6236c320b2a67df5ee801e28b"
+ },
+ "sha1_origem": "0cdbbd8abba64ee07b39bdd3197b363fe50b3c0e",
+ "bytes_origem": 45538,
+ "capturado_em": "2026-11-08T05:29:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Blazono_de_Água_Branca.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:27Z",
+  "estado": "igual",
+  "sha1_commons": "0cdbbd8abba64ee07b39bdd3197b363fe50b3c0e"
+ }
+}

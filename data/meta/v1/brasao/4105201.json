@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4105201",
+ "uf": "PR",
+ "municipio": "Cerro Azul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bras%C3%A3o_de_Cerro_Azul.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cerro Azul.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "50e1aaa4ce052297cece6d2b1e21443eb23fc0830c33e7d1f915205672728ab9",
+ "rendicoes": {
+  "png": {
+   "bytes": 166675,
+   "sha256": "dab8fb3c86efcbf5960c64cbda6e254065c94d91be2099d4c34563d0515ebd36",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39139,
+   "sha256": "4c15563bf9544325cd4382de0f84de102d7c52880df364d59e70ebbe4c2dd992",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4105201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4105201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4105201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4105201.png",
+  "bytes": 180647,
+  "sha256": "50e1aaa4ce052297cece6d2b1e21443eb23fc0830c33e7d1f915205672728ab9"
+ },
+ "sha1_origem": "4eccec5806bbcd871fac68f2ea95dfb86125d237",
+ "bytes_origem": 180647,
+ "capturado_em": "2026-11-08T06:42:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cerro_Azul.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "4eccec5806bbcd871fac68f2ea95dfb86125d237"
+ }
+}

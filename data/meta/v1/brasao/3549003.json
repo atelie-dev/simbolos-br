@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3549003",
+ "uf": "SP",
+ "municipio": "São Francisco",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Brasao-sao-francisco-sp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Luiz Buzzo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c597a4a93bffd47b3d202686ffe7edbcdb2d84ea47e0854fbc063e27400c845d",
+ "rendicoes": {
+  "png": {
+   "bytes": 106409,
+   "sha256": "359d9c58f1f210039c5bb11c4dc33db0a8732b75dd1149e08a915cf648a79739",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21747,
+   "sha256": "cfce4ae449c7b70b80ca24a07a3b4685c9118469200d44af7cc6c9a4d0f32a47",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3549003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3549003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3549003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3549003.jpg",
+  "bytes": 13426,
+  "sha256": "c597a4a93bffd47b3d202686ffe7edbcdb2d84ea47e0854fbc063e27400c845d"
+ },
+ "sha1_origem": "45ba1a13c6cc70cd75da42a172674ad64c45b25b",
+ "bytes_origem": 13426,
+ "capturado_em": "2026-11-08T06:38:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-sao-francisco-sp.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "45ba1a13c6cc70cd75da42a172674ad64c45b25b"
+ }
+}

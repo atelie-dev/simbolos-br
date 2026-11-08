@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4200705",
+ "uf": "SC",
+ "municipio": "Alfredo Wagner",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Brasao_alfredo_wagner.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0e58c420eaf5c0d8280a22bdcea7d06aada42ef687f7534dc1b88d37073ca3b1",
+ "rendicoes": {
+  "png": {
+   "bytes": 228585,
+   "sha256": "723f238b879bb688a4891e185c7b4d43cecbd84907d4f328924d1bf417c70d16",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43764,
+   "sha256": "3bb21bfedf3856c01a5cbe054897e3bd08bd6a09b388c576005b11e60d8ddca4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4200705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4200705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4200705.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4200705.png",
+  "bytes": 99020,
+  "sha256": "0e58c420eaf5c0d8280a22bdcea7d06aada42ef687f7534dc1b88d37073ca3b1"
+ },
+ "sha1_origem": "97abd504510840a0513d034560147117259018f5",
+ "bytes_origem": 99020,
+ "capturado_em": "2026-11-08T06:51:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_alfredo_wagner.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "97abd504510840a0513d034560147117259018f5"
+ }
+}

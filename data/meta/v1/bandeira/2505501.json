@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2505501",
+ "uf": "PB",
+ "municipio": "Vista Serrana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bandeira_de_Vista_Serrana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Domínio Público",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "789eb822eab329c497f84266f3f76f8db0b09d31f98aab9feac2ef65cea76b53",
+ "rendicoes": {
+  "png": {
+   "bytes": 42171,
+   "sha256": "5c2febdc0bfe9b413049776759c40daa46a71935504a6fec6ff6f351b7c6db45",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14639,
+   "sha256": "5119e00d0c238e0494052783e7f7900fcf5d15ba0ac4d2a7b2d0c3e4a5671928",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2505501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2505501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2505501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2505501.jpg",
+  "bytes": 51269,
+  "sha256": "789eb822eab329c497f84266f3f76f8db0b09d31f98aab9feac2ef65cea76b53"
+ },
+ "sha1_origem": "8ff15f749e343cf51ae63225b0c6c104a2f02620",
+ "bytes_origem": 51269,
+ "capturado_em": "2026-11-08T05:41:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Vista_Serrana.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "8ff15f749e343cf51ae63225b0c6c104a2f02620"
+ }
+}

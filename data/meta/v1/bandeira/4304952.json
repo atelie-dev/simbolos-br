@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4304952",
+ "uf": "RS",
+ "municipio": "Caseiros",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira_Caseiros.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "818bbbb372f662985c84bf80de04e409d2061616d17afbeed69df4b522e54604",
+ "rendicoes": {
+  "png": {
+   "bytes": 7354,
+   "sha256": "73baa0669258fa3a080ccc1140c6444a4e85c037272d3de477c9e7f8936f7b19",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5329,
+   "sha256": "9772a7e5ebecdea092962a2f44e3fc1a121f9543b8c3cba70fc1460bace611ed",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304952.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304952.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304952.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4304952.png",
+  "bytes": 3199,
+  "sha256": "818bbbb372f662985c84bf80de04e409d2061616d17afbeed69df4b522e54604"
+ },
+ "sha1_origem": "892547c815b93813effb193556439e0efb6f2240",
+ "bytes_origem": 3199,
+ "capturado_em": "2026-11-08T07:01:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Caseiros.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "892547c815b93813effb193556439e0efb6f2240"
+ }
+}

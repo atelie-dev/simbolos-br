@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2108603",
+ "uf": "MA",
+ "municipio": "Pinheiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bandeira_de_Pinheiro_-_MA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0714b9abf2aa6c2ceea63d6d95812e7cdecc96fcfebdd3496a2c4839385f7327",
+ "rendicoes": {
+  "png": {
+   "bytes": 45704,
+   "sha256": "523a1bf2c17f3eb5afe2a59409c19284d8a8e69052863ca65c9b5f94aa1c1128",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19275,
+   "sha256": "8e91cc1df3cec0cc3576f8918822309922ecfe20a500520a980524c425093a1e",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 205811,
+   "sha256": "0714b9abf2aa6c2ceea63d6d95812e7cdecc96fcfebdd3496a2c4839385f7327"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2108603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2108603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2108603.jpg"
+ },
+ "sha1_origem": "318341d661b8009109f21240a5cc3915f7f9ae38",
+ "bytes_origem": 205811,
+ "capturado_em": "2026-11-08T02:39:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pinheiro_-_MA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "318341d661b8009109f21240a5cc3915f7f9ae38"
+ }
+}

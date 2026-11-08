@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4123402",
+ "uf": "PR",
+ "municipio": "Santa Fé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Bandeirasantafepr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santa Fé",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1f1a462016b017cbef55368b101d8bb8861eede47549d15e6ab08aabbdbaaa32",
+ "rendicoes": {
+  "png": {
+   "bytes": 92776,
+   "sha256": "5c4ddf33e6b68a2af6ea28c38b2a6f42cf302a09b3c055384b029268d415d346",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26338,
+   "sha256": "76279c5cbfcf287a526aff929566c298a27fef8cd5d7d7af4d6e652f07fb9131",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4123402.jpg",
+  "bytes": 75268,
+  "sha256": "1f1a462016b017cbef55368b101d8bb8861eede47549d15e6ab08aabbdbaaa32"
+ },
+ "sha1_origem": "31cbafeb999cde75d6725c4b764776863691fc21",
+ "bytes_origem": 75268,
+ "capturado_em": "2026-11-08T06:49:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeirasantafepr.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "31cbafeb999cde75d6725c4b764776863691fc21"
+ }
+}

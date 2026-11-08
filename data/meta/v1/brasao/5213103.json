@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5213103",
+ "uf": "GO",
+ "municipio": "Mineiros",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Brasaomineiros.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Mineiros",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cf90d0e30b14c2a3d3b5f107f9c137a9c2bba46859ebc659eb4dd47e4275582e",
+ "rendicoes": {
+  "png": {
+   "bytes": 36544,
+   "sha256": "3c0377a069d14d20e63dd4a0bfff908370e589aa199844886428a1d3d07e6917",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9049,
+   "sha256": "5ef42d67b64094805a74da5fc1eebc1b6d904468f26557ca74d165b4237a0677",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5213103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5213103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5213103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5213103.jpg",
+  "bytes": 8297,
+  "sha256": "cf90d0e30b14c2a3d3b5f107f9c137a9c2bba46859ebc659eb4dd47e4275582e"
+ },
+ "sha1_origem": "02a86de183ed6c6ed9ebbdfcb02941106b27c367",
+ "bytes_origem": 8297,
+ "capturado_em": "2026-11-08T07:19:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaomineiros.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "02a86de183ed6c6ed9ebbdfcb02941106b27c367"
+ }
+}

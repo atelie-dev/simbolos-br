@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3535804",
+ "uf": "SP",
+ "municipio": "Paranapanema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bandeira_Paranapanema.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Paranapanema",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d4436e41d407d31a9b3a1aee64d3f408986ce548440cc076c3dd97f8a0374c04",
+ "rendicoes": {
+  "png": {
+   "bytes": 15409,
+   "sha256": "6ae16a810fe59fc8aad682ccb05a68e44889d2defa8787de080f84bdf56263f1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9862,
+   "sha256": "1affd88ca5d9312b80be13e8935aa74e544b93e7fb325fd556a6f2145a8df988",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3535804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3535804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3535804.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3535804.png",
+  "bytes": 13761,
+  "sha256": "d4436e41d407d31a9b3a1aee64d3f408986ce548440cc076c3dd97f8a0374c04"
+ },
+ "sha1_origem": "31166070fa7e461c8165942436e6d9613f8badd2",
+ "bytes_origem": 13761,
+ "capturado_em": "2026-11-08T06:33:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Paranapanema.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "31166070fa7e461c8165942436e6d9613f8badd2"
+ }
+}

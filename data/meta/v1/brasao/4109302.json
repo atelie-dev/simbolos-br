@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4109302",
+ "uf": "PR",
+ "municipio": "Guaraniaçu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bras%C3%A3o_Guarania%C3%A7u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7f69a5382f24e22aa18932812922e4df18abf2327763512bb36ed88860310e32",
+ "rendicoes": {
+  "png": {
+   "bytes": 358820,
+   "sha256": "a95cbdb7fdf67191c5a9c772e883d6c61464afa5c31631c59922801244ac5eae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55839,
+   "sha256": "48a871ff2b563197e62e273e9cc2eb1b25b2207f9825874aba2c4dac87b279fd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4109302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4109302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4109302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4109302.jpg",
+  "bytes": 43160,
+  "sha256": "7f69a5382f24e22aa18932812922e4df18abf2327763512bb36ed88860310e32"
+ },
+ "sha1_origem": "e3e0dcd79a27637b23bd899a8a53f091e4ea63e5",
+ "bytes_origem": 43160,
+ "capturado_em": "2026-11-08T06:44:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Guaraniaçu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "e3e0dcd79a27637b23bd899a8a53f091e4ea63e5"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3303807",
+ "uf": "RJ",
+ "municipio": "Paraty",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Br-rj-pt-brasao.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "88e8fba73a274a085c6ad23dfb0df11f370961280af08f354be99b54717baba5",
+ "rendicoes": {
+  "png": {
+   "bytes": 89086,
+   "sha256": "5fadb26d460fbf647c310cc0b14c6b602525f507f9b63e6639c401c19fb1aafd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55787,
+   "sha256": "f8a6b00cdae41e80d219f02f3d9b4365de641c84e8177b5279a57f7b0d7840e0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303807.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3303807.gif",
+  "bytes": 40635,
+  "sha256": "88e8fba73a274a085c6ad23dfb0df11f370961280af08f354be99b54717baba5"
+ },
+ "sha1_origem": "a63e86ca87878a3e779569b483392307133f57d1",
+ "bytes_origem": 40635,
+ "capturado_em": "2026-11-08T06:21:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Br-rj-pt-brasao.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:27Z",
+  "estado": "igual",
+  "sha1_commons": "a63e86ca87878a3e779569b483392307133f57d1"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3115474",
+ "uf": "MG",
+ "municipio": "Catuti",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Catutimgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Catuti",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d5da976ea3e04a299d98d69e39152c28cbc7c9d3d7a90f8d85ac81884cac605f",
+ "rendicoes": {
+  "png": {
+   "bytes": 33338,
+   "sha256": "8d814d46c9af79179b3e5d915dad911331f6f383bffe8b4427fb7bb66de946e2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7472,
+   "sha256": "1ac9d04a7a963b0c1b2234ba2ac34a5ac52371864837d664a7b1d99b01a17a41",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115474.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115474.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115474.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3115474.jpg",
+  "bytes": 8392,
+  "sha256": "d5da976ea3e04a299d98d69e39152c28cbc7c9d3d7a90f8d85ac81884cac605f"
+ },
+ "sha1_origem": "7904e835ff0a3dbb8f0d42dc1f5485544d7574ed",
+ "bytes_origem": 8392,
+ "capturado_em": "2026-11-08T06:03:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Catutimgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:21Z",
+  "estado": "igual",
+  "sha1_commons": "7904e835ff0a3dbb8f0d42dc1f5485544d7574ed"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3554201",
+ "uf": "SP",
+ "municipio": "Tejupá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bras%C3%A3o_Tejup%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7a75098c3a0f9af304d6bfae794ba297ece589eafc5b4509394441bad775d1c8",
+ "rendicoes": {
+  "png": {
+   "bytes": 40155,
+   "sha256": "f8ad49092cd799a11467d7a4440568c43bba08ea9b83b1a7d0e600754617d7de",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9723,
+   "sha256": "45e80024008cb6e9591b7ad123995e4cdc7dabdcbdef609197abf94421b54079",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3554201.jpg",
+  "bytes": 12321,
+  "sha256": "7a75098c3a0f9af304d6bfae794ba297ece589eafc5b4509394441bad775d1c8"
+ },
+ "sha1_origem": "1fd1531369adeb1f917d4141750205be33c4576d",
+ "bytes_origem": 12321,
+ "capturado_em": "2026-11-08T06:39:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Tejupá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "1fd1531369adeb1f917d4141750205be33c4576d"
+ }
+}

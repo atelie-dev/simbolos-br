@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3526001",
+ "uf": "SP",
+ "municipio": "Junqueirópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bandeira_Junqueiropolis_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Junqueirópolis",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "cf4ab5cee0b374e746b12a6ed0ec83bbd87b5a46de04e828ab78530a7e4b2d95",
+ "rendicoes": {
+  "png": {
+   "bytes": 22459,
+   "sha256": "011a1b7301ea9692de24c3bd0961642f449b11934d3ed82bbe6f124f79de8532",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11515,
+   "sha256": "5d31522a2bda229315a138c524a1c55084810b8b8ff6b9efcb469bb805817348",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 3186907,
+   "sha256": "cf4ab5cee0b374e746b12a6ed0ec83bbd87b5a46de04e828ab78530a7e4b2d95"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3526001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3526001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3526001.jpg"
+ },
+ "sha1_origem": "6c2c0146e660b0668901057037cb074dc1c4249a",
+ "bytes_origem": 3186907,
+ "capturado_em": "2026-11-08T04:07:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Junqueiropolis_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "6c2c0146e660b0668901057037cb074dc1c4249a"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3301702",
+ "uf": "RJ",
+ "municipio": "Duque de Caxias",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Flag_of_Duque_de_Caxias%2C_Rio_de_Janeiro.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "3abb3f1b345db78cb2ae42acea66936417d74deb2e4115520703a28854d6ddda",
+ "rendicoes": {
+  "png": {
+   "bytes": 12745,
+   "sha256": "2da94b8578adcde6ed057a80789f26814f1fe6bdf8bfecea60a588038f984e18",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18894,
+   "sha256": "5eb6836e6ece564fab0e460950dba6c0c6b14961ecfb7d97b723578d49c8bbbf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3301702.gif",
+  "bytes": 5878,
+  "sha256": "3abb3f1b345db78cb2ae42acea66936417d74deb2e4115520703a28854d6ddda"
+ },
+ "sha1_origem": "8a216017e2e641262335fcdaaef7b6ffd039c1bc",
+ "bytes_origem": 5878,
+ "capturado_em": "2026-11-08T06:21:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Duque_de_Caxias,_Rio_de_Janeiro.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "8a216017e2e641262335fcdaaef7b6ffd039c1bc"
+ }
+}

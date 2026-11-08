@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2604908",
+ "uf": "PE",
+ "municipio": "Cumaru",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bandeira_Cumaru-PE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Lucas Vinícius G. Ferreira",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3986ea54154f22a6d8d93fe4f939d612c95f259cb8919ded44142b896356b966",
+ "rendicoes": {
+  "png": {
+   "bytes": 21441,
+   "sha256": "b6680bf6834f9b86b2c4a41095147f9f652f33ef96ba1496b352ad6830876bfc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13059,
+   "sha256": "5e4d8e107a5419c1c4fa008dd05664807bf40d4ab8d159da00edfbad5719269c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 11025,
+   "sha256": "3986ea54154f22a6d8d93fe4f939d612c95f259cb8919ded44142b896356b966"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2604908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2604908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2604908.jpg"
+ },
+ "sha1_origem": "62895b6798c722dc889b8eab5817ddc7965800d1",
+ "bytes_origem": 11025,
+ "capturado_em": "2026-11-08T03:05:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Cumaru-PE.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "62895b6798c722dc889b8eab5817ddc7965800d1"
+ }
+}

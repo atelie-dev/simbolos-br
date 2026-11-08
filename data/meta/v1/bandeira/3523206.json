@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3523206",
+ "uf": "SP",
+ "municipio": "Itararé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bandeira_Itarar%C3%A9.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Site Oficial da Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "093d70be16a89a96ee5773fa0fda095073d297bacfe1da7f913a6cc2477ca066",
+ "rendicoes": {
+  "png": {
+   "bytes": 46647,
+   "sha256": "de74c6eb4508c47bfa7e86a6cd2c542d19fbbdddb50d49062df56ea6fa63c194",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15428,
+   "sha256": "3ebaa349ed262e2e951f775054ee6daae55ccbcf85497c08f668789a485edaa8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3523206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3523206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3523206.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3523206.png",
+  "bytes": 60680,
+  "sha256": "093d70be16a89a96ee5773fa0fda095073d297bacfe1da7f913a6cc2477ca066"
+ },
+ "sha1_origem": "b17779fc564df717949f04f0ab3916e6653acf2e",
+ "bytes_origem": 60680,
+ "capturado_em": "2026-11-08T06:30:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itararé.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "b17779fc564df717949f04f0ab3916e6653acf2e"
+ }
+}

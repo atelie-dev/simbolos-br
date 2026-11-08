@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4121901",
+ "uf": "PR",
+ "municipio": "Ribeirão do Pinhal",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bandeira_de_Ribeir%C3%A3o_do_Pinhal_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "8ddc4b1b76ea64efc0a7663e155dd8621963ef818cc3e0df8660e9cc4c1aa7a0",
+ "rendicoes": {
+  "png": {
+   "bytes": 42215,
+   "sha256": "e14722ab2858d2e7e549fa8e6881327895ff2b8d6335bed77bf5cd97731a0de3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17013,
+   "sha256": "201ef2e229ecb0b9b8da30f646c6ede22e033b82737b87c9f0063c4a687c1239",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1086031,
+   "sha256": "8ddc4b1b76ea64efc0a7663e155dd8621963ef818cc3e0df8660e9cc4c1aa7a0"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121901.jpg"
+ },
+ "sha1_origem": "6a80f870a9c6fadc5d86496e0a835c2c1d75bf08",
+ "bytes_origem": 1086031,
+ "capturado_em": "2026-11-08T04:31:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ribeirão_do_Pinhal_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "6a80f870a9c6fadc5d86496e0a835c2c1d75bf08"
+ }
+}

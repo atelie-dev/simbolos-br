@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4315321",
+ "uf": "RS",
+ "municipio": "Quevedos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bandeira_de_Quevedos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Quevedos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "aeac2fcd08aabc55a7a4ef9d5c582a979eabac22bb9f68c227afe97d7c72af84",
+ "rendicoes": {
+  "png": {
+   "bytes": 49910,
+   "sha256": "a4db654e2543f9c06666892360708ab73db30c0e2859eb77b1d90d0bbcc1bd11",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11665,
+   "sha256": "ebc6ee0cf691becbb7920adae50782a86462416e927648327ec102e71d406be6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315321.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315321.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315321.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4315321.jpg",
+  "bytes": 13948,
+  "sha256": "aeac2fcd08aabc55a7a4ef9d5c582a979eabac22bb9f68c227afe97d7c72af84"
+ },
+ "sha1_origem": "f293025c98c566d9db70c4997f4b2dc497573cb2",
+ "bytes_origem": 13948,
+ "capturado_em": "2026-11-08T07:07:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Quevedos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "f293025c98c566d9db70c4997f4b2dc497573cb2"
+ }
+}

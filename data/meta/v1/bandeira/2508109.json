@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2508109",
+ "uf": "PB",
+ "municipio": "Lagoa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira_de_Lagoa-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d4c686b3687aaea37e9cfb08e7ac78172d7b48e5a64f2584051feaba7c0886cf",
+ "rendicoes": {
+  "png": {
+   "bytes": 34109,
+   "sha256": "c2a4f5fc3d4d446af7270688ed213970d4e5322881950682e7028bd360011cca",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20382,
+   "sha256": "c219e678b666a308ddcf5ea712e3b19a4146324e0465d6821db7c4fff8267252",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 14890,
+   "sha256": "d4c686b3687aaea37e9cfb08e7ac78172d7b48e5a64f2584051feaba7c0886cf"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508109.jpg"
+ },
+ "sha1_origem": "30d4daa2313ad05122b4f788bd6db9dffad5030e",
+ "bytes_origem": 14890,
+ "capturado_em": "2026-11-08T02:59:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Lagoa-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "30d4daa2313ad05122b4f788bd6db9dffad5030e"
+ }
+}

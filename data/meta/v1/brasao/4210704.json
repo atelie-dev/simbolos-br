@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4210704",
+ "uf": "SC",
+ "municipio": "Matos Costa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bras%C3%A3o_do_munic%C3%ADpio_de_Matos_Costa_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Matos Costa (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4b43b447b0f5b4298f862251438d59fb10d6d96942dd20f2023abd2814795f37",
+ "rendicoes": {
+  "png": {
+   "bytes": 178011,
+   "sha256": "c88b0b927dbc48407d358bbd34b989a290e6ef08346293a715c629d5c91d371c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49936,
+   "sha256": "ed4189e3235446bac03bd1a39d6e53c472d42bef911538d4310fc2876678ab30",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4210704.png",
+  "bytes": 1757301,
+  "sha256": "4b43b447b0f5b4298f862251438d59fb10d6d96942dd20f2023abd2814795f37"
+ },
+ "sha1_origem": "fe547f7b13f4e17d53e9d276bcd2978968178be0",
+ "bytes_origem": 1757301,
+ "capturado_em": "2026-11-08T06:54:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Matos_Costa_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "fe547f7b13f4e17d53e9d276bcd2978968178be0"
+ }
+}

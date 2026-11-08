@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3120003",
+ "uf": "MG",
+ "municipio": "Córrego Novo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/16/C%C3%B3rrego_Novomgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Córrego Novo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5bcc366fd564c966c18565a70eaacaf3151ddbe10c23e5c34935df5641d147c1",
+ "rendicoes": {
+  "png": {
+   "bytes": 25264,
+   "sha256": "a914706de116b3681b1870f62e5f3b5fb6a45be2b94d999937353ee855381a5b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11916,
+   "sha256": "c0217864f306a46aac88a6a91c83042a2039be2abd12ab53ba245a0e5f2a80fe",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3120003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3120003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3120003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3120003.png",
+  "bytes": 21204,
+  "sha256": "5bcc366fd564c966c18565a70eaacaf3151ddbe10c23e5c34935df5641d147c1"
+ },
+ "sha1_origem": "6011755893435528efb785e5e46b9da5cd9f8f95",
+ "bytes_origem": 21204,
+ "capturado_em": "2026-11-08T06:05:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Córrego_Novomgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "6011755893435528efb785e5e46b9da5cd9f8f95"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2805109",
+ "uf": "SE",
+ "municipio": "Pedrinhas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bandeira_Pedrinhas.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Prefeitura de Pedrinhas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0718372420d188cac14aafb0072ecb2d9aee0cfa2cac2171ed77c985030cace6",
+ "rendicoes": {
+  "png": {
+   "bytes": 71754,
+   "sha256": "b208904229e2a37d60965e842b942422f059dc8b09c3427044d7b681c8ecc510",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23170,
+   "sha256": "58d821a8127cad880333b7961e5b107dbadb18370ee9f4a18c95cdc08ad68f60",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2805109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2805109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2805109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2805109.png",
+  "bytes": 87092,
+  "sha256": "0718372420d188cac14aafb0072ecb2d9aee0cfa2cac2171ed77c985030cace6"
+ },
+ "sha1_origem": "25e4f78c473969fa0a1eb496b8e63453048b3034",
+ "bytes_origem": 87092,
+ "capturado_em": "2026-11-08T05:49:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Pedrinhas.PNG",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "25e4f78c473969fa0a1eb496b8e63453048b3034"
+ }
+}

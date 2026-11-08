@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3520509",
+ "uf": "SP",
+ "municipio": "Indaiatuba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Indaiatuba_brasao.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Rbalieiro",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d4e53dc050f1fa0d77b0778542ae5f47864e204e8dc4e91c282b3c51496d38a2",
+ "rendicoes": {
+  "png": {
+   "bytes": 230536,
+   "sha256": "5cc71b15055ccacf1e57c243f47854b81d9cec71e3741584be21968479052a5e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 74555,
+   "sha256": "6c23915767006a13d18aa6511f987941d612bef362df224e6d4b89b119a1c21e",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 383735,
+   "sha256": "d4e53dc050f1fa0d77b0778542ae5f47864e204e8dc4e91c282b3c51496d38a2"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520509.jpg"
+ },
+ "sha1_origem": "5e0b066c80e0d43e3e84eefeb20c2ce5a6f180ab",
+ "bytes_origem": 383735,
+ "capturado_em": "2026-11-08T04:05:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Indaiatuba_brasao.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "5e0b066c80e0d43e3e84eefeb20c2ce5a6f180ab"
+ }
+}

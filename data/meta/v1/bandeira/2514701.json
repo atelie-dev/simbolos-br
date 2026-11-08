@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2514701",
+ "uf": "PB",
+ "municipio": "São José do Sabugi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bandeira_sao_jose_do_sabugi.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de São José do Sabugi",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "648609a0ba3ec9c48b1224caf6613fffbd7c6bd00b9826225eb2f2b60617d67b",
+ "rendicoes": {
+  "png": {
+   "bytes": 24956,
+   "sha256": "1d969139781865d98148e28d291e3bb04e1ff6e03d3b9f0b4cd9477ebd2679be",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10867,
+   "sha256": "06d05ad1b853767b21adb7418bc19878d52f9c393555be25406598791f6214d6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2514701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2514701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2514701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2514701.png",
+  "bytes": 23022,
+  "sha256": "648609a0ba3ec9c48b1224caf6613fffbd7c6bd00b9826225eb2f2b60617d67b"
+ },
+ "sha1_origem": "9c827b4838e74948206a4ae8c5833d27210a5676",
+ "bytes_origem": 23022,
+ "capturado_em": "2026-11-08T05:43:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_sao_jose_do_sabugi.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "9c827b4838e74948206a4ae8c5833d27210a5676"
+ }
+}

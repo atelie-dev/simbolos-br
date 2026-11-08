@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4102406",
+ "uf": "PR",
+ "municipio": "Bandeirantes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bandeira_Bandeirantes_-_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Luiz Henrique Jacobucci",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e935ff48a14156262b1dcd802993e85e49c85dda9d88a13652208ddc44b7a97d",
+ "rendicoes": {
+  "png": {
+   "bytes": 168525,
+   "sha256": "5c82e12bbfcc84823dc0e365749905eb5c9854baa49c4725782e7f72ceccde78",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40246,
+   "sha256": "e6cd6c7507d4684c96863ab6f4416470d4427fce626fd5d1b662287fc8395e0b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4102406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4102406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4102406.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4102406.jpg",
+  "bytes": 36355,
+  "sha256": "e935ff48a14156262b1dcd802993e85e49c85dda9d88a13652208ddc44b7a97d"
+ },
+ "sha1_origem": "2ec1eb273b87b3cd00e2557577ecd8306ce6a61b",
+ "bytes_origem": 36355,
+ "capturado_em": "2026-11-08T06:41:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Bandeirantes_-_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "2ec1eb273b87b3cd00e2557577ecd8306ce6a61b"
+ }
+}

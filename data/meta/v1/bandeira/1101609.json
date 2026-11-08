@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1101609",
+ "uf": "RO",
+ "municipio": "Theobroma",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bandeira_Theobroma.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Vectorization: Anzee",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "249dd47eb32dfe06c12d2ca5fbb69cf92d1b28e8fa37f5c34a67315d6673f31f",
+ "rendicoes": {
+  "png": {
+   "bytes": 20116,
+   "sha256": "16afbd82316fce92f5cd43f295563566570e19fa8af555570dafab22e355b055",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14239,
+   "sha256": "e3bb6255f49c56dc8f03451ca9241148e8d075d59a56679a6b66bf0b56582562",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 858,
+   "sha256": "249dd47eb32dfe06c12d2ca5fbb69cf92d1b28e8fa37f5c34a67315d6673f31f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101609.jpg"
+ },
+ "sha1_origem": "b80335c87a1697017f9c089c856bec38f0c88fc2",
+ "bytes_origem": 858,
+ "capturado_em": "2026-11-08T02:30:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Theobroma.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "b80335c87a1697017f9c089c856bec38f0c88fc2"
+ }
+}

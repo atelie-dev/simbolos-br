@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1303700",
+ "uf": "AM",
+ "municipio": "Santo Antônio do Içá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bandeira_de_Santo_Ant%C3%B4nio_do_I%C3%A7%C3%A1%2C_Amazonas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santo Antônio do Içá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "02613eb8967c3d4b62dd24eeb939e30079ace9d142b2fc39b61ea9e81b61292c",
+ "rendicoes": {
+  "png": {
+   "bytes": 31721,
+   "sha256": "8364fbe023b3204048fc698cbcf5ade8c5f410597a4b9c35c58e678e8f749873",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13657,
+   "sha256": "e19f92d886f2b9a92f914edacd167926720118ce0bee9dd9967287a149cc2937",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1303700.jpg",
+  "bytes": 28207,
+  "sha256": "02613eb8967c3d4b62dd24eeb939e30079ace9d142b2fc39b61ea9e81b61292c"
+ },
+ "sha1_origem": "9dbd046a446bb00ae0b6d2fe5728591101ac60f7",
+ "bytes_origem": 28207,
+ "capturado_em": "2026-11-08T05:23:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santo_Antônio_do_Içá,_Amazonas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "9dbd046a446bb00ae0b6d2fe5728591101ac60f7"
+ }
+}

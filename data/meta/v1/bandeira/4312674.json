@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312674",
+ "uf": "RS",
+ "municipio": "Nicolau Vergueiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bandeira_Nicolau_Vergueiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nicolau Vergueiro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5c76d87c40624fc6dcb05de26084fcb51068d9fb2ff0a25510deb9df5a52aab3",
+ "rendicoes": {
+  "png": {
+   "bytes": 109647,
+   "sha256": "9a7b51ed473b16cf340ecad6e139af5a94d68cee020f5543b530b420ec174b9e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20051,
+   "sha256": "ea441b0b04ba37e15269f5ccbc015972df53d2786ed4f2483cf128676755b145",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312674.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312674.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312674.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4312674.jpg",
+  "bytes": 19845,
+  "sha256": "5c76d87c40624fc6dcb05de26084fcb51068d9fb2ff0a25510deb9df5a52aab3"
+ },
+ "sha1_origem": "8e65cb3cc8c5480fa015154a5345ef5b9862fd32",
+ "bytes_origem": 19845,
+ "capturado_em": "2026-11-08T07:05:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Nicolau_Vergueiro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "8e65cb3cc8c5480fa015154a5345ef5b9862fd32"
+ }
+}

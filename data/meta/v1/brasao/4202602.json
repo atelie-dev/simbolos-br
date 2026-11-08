@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4202602",
+ "uf": "SC",
+ "municipio": "Bom Retiro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Brasao_BomRetiro_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Bom Retiro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bc6549569a5225d606813df0da4eda281dca38695ae6230ec4f8d4f31f3a2273",
+ "rendicoes": {
+  "png": {
+   "bytes": 44769,
+   "sha256": "2fdd156d8f84039ed5af28b19731c8f0fea0869ad109ac63dd0f5726ea848fb6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10664,
+   "sha256": "3a6bcf87826428ac992a900f69099bc083c0fc27e0ab5275a54d092f650d4d5e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4202602.jpg",
+  "bytes": 7210,
+  "sha256": "bc6549569a5225d606813df0da4eda281dca38695ae6230ec4f8d4f31f3a2273"
+ },
+ "sha1_origem": "b43759d79fbaca39e63a44870f1eedfe7243cb61",
+ "bytes_origem": 7210,
+ "capturado_em": "2026-11-08T06:52:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_BomRetiro_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "b43759d79fbaca39e63a44870f1eedfe7243cb61"
+ }
+}

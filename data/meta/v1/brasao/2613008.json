@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2613008",
+ "uf": "PE",
+ "municipio": "São Bento do Una",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Brasao_SBU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Josenildosbu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "70edc04de5ab6ebf03c1ff66e7a35f62a0a2b5e04f2b21936742d05bd3fa521c",
+ "rendicoes": {
+  "png": {
+   "bytes": 149086,
+   "sha256": "d0c765df3844da538be2fd624e7a9729001364aa07c031e820d4968ca2bebfbd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45397,
+   "sha256": "b48ec160ae4a288b6d186d7c290363f16e37acda0c130b3f38734185b8606a61",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2613008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2613008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2613008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2613008.jpg",
+  "bytes": 337907,
+  "sha256": "70edc04de5ab6ebf03c1ff66e7a35f62a0a2b5e04f2b21936742d05bd3fa521c"
+ },
+ "sha1_origem": "d4684885f24d12db69329fd0c3e4ce1cd3005430",
+ "bytes_origem": 337907,
+ "capturado_em": "2026-11-08T05:46:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_SBU.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "d4684885f24d12db69329fd0c3e4ce1cd3005430"
+ }
+}

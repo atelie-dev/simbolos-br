@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312500",
+ "uf": "RS",
+ "municipio": "Mostardas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mostardasbandeirars.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Mostardas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7bac6d9b687e7b266bed2bbfa585c2c7caf807fa5bde4721603c6aaff03dd398",
+ "rendicoes": {
+  "png": {
+   "bytes": 10544,
+   "sha256": "020084fd93fbe1f77ed32b360584c3946f0c848bbdb9aa7ffc2cd5e9a17348c9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7185,
+   "sha256": "bbdbed4a63f847cf4bd2ace57bf86b024bdaaef1c5f88416dda707a54a4182fd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4312500.png",
+  "bytes": 8203,
+  "sha256": "7bac6d9b687e7b266bed2bbfa585c2c7caf807fa5bde4721603c6aaff03dd398"
+ },
+ "sha1_origem": "3423efe159da79b674ce830fd10caa78c5e96969",
+ "bytes_origem": 8203,
+ "capturado_em": "2026-11-08T07:05:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Mostardasbandeirars.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:34Z",
+  "estado": "igual",
+  "sha1_commons": "3423efe159da79b674ce830fd10caa78c5e96969"
+ }
+}

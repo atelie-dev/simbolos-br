@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3100708",
+ "uf": "MG",
+ "municipio": "Água Comprida",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bandeira_de_%C3%81gua_Comprida%2C_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Água Comprida",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2b39ded844a9edc057aa77283b090e1b636cec858e68617bd8957ae4d14d503e",
+ "rendicoes": {
+  "png": {
+   "bytes": 22955,
+   "sha256": "b1317e5862431d7d6f7abad8d9e8342e2d636ad4f7b9bda193e87165962fe451",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5912,
+   "sha256": "9903e5b7ebf9f13f5589548197584a9c4b1656795d27c4b87712482794b38768",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3100708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3100708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3100708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3100708.jpg",
+  "bytes": 3329,
+  "sha256": "2b39ded844a9edc057aa77283b090e1b636cec858e68617bd8957ae4d14d503e"
+ },
+ "sha1_origem": "326d2fd379b6ae6210a954b1fb4bb1d536cf5851",
+ "bytes_origem": 3329,
+ "capturado_em": "2026-11-08T05:58:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Água_Comprida,_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "326d2fd379b6ae6210a954b1fb4bb1d536cf5851"
+ }
+}

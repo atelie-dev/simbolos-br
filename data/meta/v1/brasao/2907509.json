@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2907509",
+ "uf": "BA",
+ "municipio": "Catu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bras%C3%A3o_de_Catu_-_BA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "bab12faa5f7cc77dd9c213debaf0dcf85767eb90edebfdf25d9a0ca0db4569dd",
+ "rendicoes": {
+  "png": {
+   "bytes": 127484,
+   "sha256": "84e192a118bb6dc7c02996360298150c86c21e084adadf15358be30591cc00b8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42955,
+   "sha256": "7078e28239d85149434475ada4112c714af4f9f8cb7d9967045dafac9841b5cb",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 209106,
+   "sha256": "bab12faa5f7cc77dd9c213debaf0dcf85767eb90edebfdf25d9a0ca0db4569dd"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2907509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2907509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2907509.jpg"
+ },
+ "sha1_origem": "814d9cc62c48f5c2d4879b82b96926ba88464f5f",
+ "bytes_origem": 209106,
+ "capturado_em": "2026-11-08T03:16:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Catu_-_BA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "814d9cc62c48f5c2d4879b82b96926ba88464f5f"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5214507",
+ "uf": "GO",
+ "municipio": "Nerópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Bandeira_de_Ner%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Nerópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "527a3520e9ed50f74e93a8b89443ecd52423d56b97c055964c7b69b628f33cc5",
+ "rendicoes": {
+  "png": {
+   "bytes": 59787,
+   "sha256": "ca9f41f638e86a55b2c802965e245bd06172035c978a2db246ab71beeb59ae24",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13878,
+   "sha256": "e1baf7c028b26b47353c20794b84d26f9e14c7da714e24d4928774b454b3fc06",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5214507.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5214507.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5214507.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5214507.jpg",
+  "bytes": 13341,
+  "sha256": "527a3520e9ed50f74e93a8b89443ecd52423d56b97c055964c7b69b628f33cc5"
+ },
+ "sha1_origem": "996004e0b573ea678d59f4181db3ca76b12d8ea9",
+ "bytes_origem": 13341,
+ "capturado_em": "2026-11-08T07:19:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nerópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "996004e0b573ea678d59f4181db3ca76b12d8ea9"
+ }
+}

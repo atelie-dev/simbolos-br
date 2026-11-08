@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3125705",
+ "uf": "MG",
+ "municipio": "Felixlândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/51/Felixl%C3%A2ndia-MG_%28Bandeira%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Prefeitura Municipal de Felixlândia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "21cbded00d2a2de366874c2b8516caf7ff1654de1fe9b86b70d8a7a5942d54c8",
+ "rendicoes": {
+  "png": {
+   "bytes": 73920,
+   "sha256": "460b8248ec1f753cfc935393e8f619521c079447b0c216ea317dff667b9a05f0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21946,
+   "sha256": "b60c6846fc0714a3fd687a665605fe236643d797bf35c23dd94731a849a27db9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3125705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3125705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3125705.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3125705.jpg",
+  "bytes": 129295,
+  "sha256": "21cbded00d2a2de366874c2b8516caf7ff1654de1fe9b86b70d8a7a5942d54c8"
+ },
+ "sha1_origem": "fff203f5af532998a502be6ffa6d0cb75df78e3a",
+ "bytes_origem": 129295,
+ "capturado_em": "2026-11-08T06:07:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Felixlândia-MG_(Bandeira).jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "fff203f5af532998a502be6ffa6d0cb75df78e3a"
+ }
+}

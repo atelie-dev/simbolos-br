@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5218805",
+ "uf": "GO",
+ "municipio": "Rio Verde",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Brasao_RioVerde%28Goi%C3%A1s%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7806e80eb815513a1c0439e32098a8120f0cc7b37a71ee0f921d85ead579f75e",
+ "rendicoes": {
+  "png": {
+   "bytes": 72452,
+   "sha256": "039f4d4fae734de90478094e11e719b8e1cbef90e42fc80da5279f0e4cc237f7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16812,
+   "sha256": "886443287d83449393b5813391e83be53364b0a9c19db983a4dea83b969926ce",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5218805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5218805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5218805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5218805.jpg",
+  "bytes": 17036,
+  "sha256": "7806e80eb815513a1c0439e32098a8120f0cc7b37a71ee0f921d85ead579f75e"
+ },
+ "sha1_origem": "bb6ea69f1e44863bc58941b95ab1d2885c606a0b",
+ "bytes_origem": 17036,
+ "capturado_em": "2026-11-08T07:20:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_RioVerde(Goiás).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "bb6ea69f1e44863bc58941b95ab1d2885c606a0b"
+ }
+}

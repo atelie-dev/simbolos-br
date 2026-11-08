@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1200138",
+ "uf": "AC",
+ "municipio": "Bujari",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Bras%C3%A3o_BujariAC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "prefeitura de Bujari",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8b03ad3ae6130060057e945f80e5aca5b90a84333cd554c2d94f74c43ec1e51a",
+ "rendicoes": {
+  "png": {
+   "bytes": 86566,
+   "sha256": "2fb0cd17b1ab3d8ca967794416abf7571818340d5ba84cfb33d42aebea7e0025",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23129,
+   "sha256": "b57e98140d3a265aacf4072ae7d1728fd6418b336616f6405df59f953cbac2c4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200138.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200138.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200138.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1200138.jpg",
+  "bytes": 16843,
+  "sha256": "8b03ad3ae6130060057e945f80e5aca5b90a84333cd554c2d94f74c43ec1e51a"
+ },
+ "sha1_origem": "9bba12231f5fa0c4d0f015da5535b7319c37cdea",
+ "bytes_origem": 16843,
+ "capturado_em": "2026-11-08T05:22:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_BujariAC.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:47Z",
+  "estado": "igual",
+  "sha1_commons": "9bba12231f5fa0c4d0f015da5535b7319c37cdea"
+ }
+}

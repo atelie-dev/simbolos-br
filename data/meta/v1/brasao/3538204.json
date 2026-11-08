@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3538204",
+ "uf": "SP",
+ "municipio": "Pinhalzinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bras%C3%A3o_Pinhalzinho_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7570aaeef577b2b5d1e0a255acc36e5a2c3a4af9ba060ba986b7fb4b0dbc8faf",
+ "rendicoes": {
+  "png": {
+   "bytes": 20130,
+   "sha256": "4768141faa16a05fa1ec723b26737b1a7e5de6a1da17e232dee8c1d33ac8441f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8733,
+   "sha256": "6d3db18f4b51b55aef9a5b725eb73c56cb20b5f821f1e66f97ddce305baf8351",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3538204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3538204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3538204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3538204.png",
+  "bytes": 8343,
+  "sha256": "7570aaeef577b2b5d1e0a255acc36e5a2c3a4af9ba060ba986b7fb4b0dbc8faf"
+ },
+ "sha1_origem": "8af9e4781ff463bee7f45241754fe7e4222dfcc3",
+ "bytes_origem": 8343,
+ "capturado_em": "2026-11-08T06:34:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Pinhalzinho_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "8af9e4781ff463bee7f45241754fe7e4222dfcc3"
+ }
+}

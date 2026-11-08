@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5215801",
+ "uf": "GO",
+ "municipio": "Palmelo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bandeira_de_Palmelo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Palmelo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "98dbfa1b4d7508d5b4a5404ebd5b31b1311ff4669da2e57a7448b57931d3ed5c",
+ "rendicoes": {
+  "png": {
+   "bytes": 11234,
+   "sha256": "8ff3a3258ecb54af3ab4643182c000d6a97cd3012b2f067ef23de019578e20b4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6276,
+   "sha256": "8e033634e1cdbfcfce99e58d00d5ea908e05156e0c378a6550cf6d2712537361",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5215801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5215801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5215801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5215801.jpg",
+  "bytes": 6233,
+  "sha256": "98dbfa1b4d7508d5b4a5404ebd5b31b1311ff4669da2e57a7448b57931d3ed5c"
+ },
+ "sha1_origem": "6e11597d5148a853593078268a10136a336bc8ad",
+ "bytes_origem": 6233,
+ "capturado_em": "2026-11-08T07:19:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Palmelo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "6e11597d5148a853593078268a10136a336bc8ad"
+ }
+}

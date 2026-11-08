@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3103900",
+ "uf": "MG",
+ "municipio": "Araújos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bandeira-ara%C3%BAjos.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Araújos City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ad3bcafa990a0798feec6d3ea33d28ba8efd2ab1621d57463077ba8de4633742",
+ "rendicoes": {
+  "png": {
+   "bytes": 13666,
+   "sha256": "6dd7ad1e2a079fa7fb5553388c7b3f65ce475ab36c476dfe9f6cb0e50bcaccb5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16768,
+   "sha256": "615bcd1b4400fe4668fc1a5e0c3bb45e8880ea194a880dd22ca52529a7e15493",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3103900.png",
+  "bytes": 8939,
+  "sha256": "ad3bcafa990a0798feec6d3ea33d28ba8efd2ab1621d57463077ba8de4633742"
+ },
+ "sha1_origem": "7ed8b9a16d74e5bec6e3e87c0ec90816a23387ad",
+ "bytes_origem": 8939,
+ "capturado_em": "2026-11-08T05:59:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-araújos.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "7ed8b9a16d74e5bec6e3e87c0ec90816a23387ad"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3158102",
+ "uf": "MG",
+ "municipio": "Santa Maria do Salto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bandeira_Santa_Maria_do_Salto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f17f69fa834b7c681796e9a989ef0b7fe04f6a285d5b867a1d4cd679ca3877d0",
+ "rendicoes": {
+  "png": {
+   "bytes": 19951,
+   "sha256": "d287a6ffb1755e0096bec6ee023ca45a3bf7ca3963dea173d2f3076934b0efce",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7008,
+   "sha256": "a18e46104f8cf2407a2c2868d83245eb28d013173e8a0c5aa3e26678d41c36e7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3158102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3158102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3158102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3158102.jpg",
+  "bytes": 34643,
+  "sha256": "f17f69fa834b7c681796e9a989ef0b7fe04f6a285d5b867a1d4cd679ca3877d0"
+ },
+ "sha1_origem": "d26c27679f0eb8165e932b674b7dc9bdc38deda4",
+ "bytes_origem": 34643,
+ "capturado_em": "2026-11-08T06:15:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Santa_Maria_do_Salto.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "d26c27679f0eb8165e932b674b7dc9bdc38deda4"
+ }
+}

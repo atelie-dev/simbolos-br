@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3146008",
+ "uf": "MG",
+ "municipio": "Ouro Fino",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brasaoourofino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ouro Fino",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0c65411d18a5b17b9636e6e508ab755e63cb7ffbe19da054f86868940c4c19f4",
+ "rendicoes": {
+  "png": {
+   "bytes": 251626,
+   "sha256": "f9dfb00e8df500112e825a0d2e2912504d2d0e7201c2c945a230586db97489a3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40227,
+   "sha256": "a5df3ae3e680f5cb52668f531657df22dbce38c1b79e0805fa8fad1ed0672b87",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3146008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3146008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3146008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3146008.jpg",
+  "bytes": 45987,
+  "sha256": "0c65411d18a5b17b9636e6e508ab755e63cb7ffbe19da054f86868940c4c19f4"
+ },
+ "sha1_origem": "545b957fdfad8a4932bf9457af9e7df8d9194a69",
+ "bytes_origem": 45987,
+ "capturado_em": "2026-11-08T06:12:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoourofino.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "545b957fdfad8a4932bf9457af9e7df8d9194a69"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3502507",
+ "uf": "SP",
+ "municipio": "Aparecida",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bandeira_do_Municipio_de_Aparecida-SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Aparecida",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b420aa3f705af12687b99ba0f879a75eb55750c4c7169696a3acfe99793779ea",
+ "rendicoes": {
+  "png": {
+   "bytes": 22557,
+   "sha256": "fe4fb263a529a5f7346902f7b9ab109713fc892ddfdea14770658eca54c0ff62",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12799,
+   "sha256": "5f006c29dd59aead81763719ebd32a8153176be25612f7f0330947ee830e8af8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3502507.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3502507.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3502507.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3502507.png",
+  "bytes": 8722,
+  "sha256": "b420aa3f705af12687b99ba0f879a75eb55750c4c7169696a3acfe99793779ea"
+ },
+ "sha1_origem": "54126cdaf5f7d10d4fd8b68b00f728cd6bedd3f4",
+ "bytes_origem": 8722,
+ "capturado_em": "2026-11-08T06:23:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_Municipio_de_Aparecida-SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "54126cdaf5f7d10d4fd8b68b00f728cd6bedd3f4"
+ }
+}

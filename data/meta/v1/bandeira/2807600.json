@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2807600",
+ "uf": "SE",
+ "municipio": "Umbaúba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Band_umbauba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal Umbaúba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "29e27df4e573137a33837c971e3f6f4b2ab449f0d3fe68e8f40d9ac61dca96f8",
+ "rendicoes": {
+  "png": {
+   "bytes": 21828,
+   "sha256": "baa9d40802efae0bb0ad6a4f3725b659bb2649ba03522ca7a4b8e766533b93c4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7832,
+   "sha256": "258f99986d30e39939c5140d590c418a631d8d2ac4a7c8303b0b33d845e7e260",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2807600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2807600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2807600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2807600.jpg",
+  "bytes": 9189,
+  "sha256": "29e27df4e573137a33837c971e3f6f4b2ab449f0d3fe68e8f40d9ac61dca96f8"
+ },
+ "sha1_origem": "c885cc6ac1996915755fb2aae110812488b549e2",
+ "bytes_origem": 9189,
+ "capturado_em": "2026-11-08T05:50:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_umbauba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "c885cc6ac1996915755fb2aae110812488b549e2"
+ }
+}

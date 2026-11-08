@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2408102",
+ "uf": "RN",
+ "municipio": "Natal",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bandeira_de_Natal.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ViniciusBR11, Prefeitura de Natal",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "f049ccc6b501cfe47e05498c0de348539dc2893f1e17780d0a58ad403fbae15b",
+ "rendicoes": {
+  "png": {
+   "bytes": 42199,
+   "sha256": "78bc39103546bd8aeb6db280efdceda7f4306e41788685f6a1bde21091bb9d09",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19889,
+   "sha256": "e03fadf99e0142b48534d7880e198bb68c73189c214372342af0a2cc54fa1e02",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 10961,
+   "sha256": "f049ccc6b501cfe47e05498c0de348539dc2893f1e17780d0a58ad403fbae15b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2408102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2408102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2408102.jpg"
+ },
+ "sha1_origem": "ae56444273d4e8ab513d3c7b782b9956bd0189f4",
+ "bytes_origem": 10961,
+ "capturado_em": "2026-11-08T02:52:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Natal.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "ae56444273d4e8ab513d3c7b782b9956bd0189f4"
+ }
+}

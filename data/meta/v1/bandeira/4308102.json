@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4308102",
+ "uf": "RS",
+ "municipio": "Feliz",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira_de_Feliz_%28Rio_Grande_do_Sul%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Feliz.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4a043d939975362caa0adf4b88c33a7de69a2be66394bf475bf7651b26899ef0",
+ "rendicoes": {
+  "png": {
+   "bytes": 33253,
+   "sha256": "b05fe7579d6903b8850157e34bfacc288d3caa53ae88c9ce2b1d8b415406684a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14838,
+   "sha256": "bfaa741e61966cb0e89c9ebb12ea0d41a1cce0895c1d609b5dc2244193d104cf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4308102.jpg",
+  "bytes": 168645,
+  "sha256": "4a043d939975362caa0adf4b88c33a7de69a2be66394bf475bf7651b26899ef0"
+ },
+ "sha1_origem": "42bb55568b1dfe8b7e7d107bfca862b8bf5bd114",
+ "bytes_origem": 168645,
+ "capturado_em": "2026-11-08T07:03:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Feliz_(Rio_Grande_do_Sul).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "42bb55568b1dfe8b7e7d107bfca862b8bf5bd114"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3546405",
+ "uf": "SP",
+ "municipio": "Santa Cruz do Rio Pardo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Brasao_santa_cruz_do_rio_pardo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7ed83fcdc0824c91e1f4db1d5b00d546197a89bf2eb8b34d0d431a5cc2961520",
+ "rendicoes": {
+  "png": {
+   "bytes": 201901,
+   "sha256": "b58ad54051198d4a80673bb4e5249878f19400c065b5cc9d3d4f2f37472f1509",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34119,
+   "sha256": "a74f429bdbb53c22600f3c3ec571d442fe1fd978eb4201d38334cabe4a9da7de",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3546405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3546405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3546405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3546405.jpg",
+  "bytes": 30395,
+  "sha256": "7ed83fcdc0824c91e1f4db1d5b00d546197a89bf2eb8b34d0d431a5cc2961520"
+ },
+ "sha1_origem": "490d7652a0bcadd23241c43ebb11c978998a1fb9",
+ "bytes_origem": 30395,
+ "capturado_em": "2026-11-08T06:37:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_santa_cruz_do_rio_pardo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "490d7652a0bcadd23241c43ebb11c978998a1fb9"
+ }
+}

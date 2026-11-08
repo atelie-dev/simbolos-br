@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3166907",
+ "uf": "MG",
+ "municipio": "Serrania",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Brasaoserrania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Serrania",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "25d985916fc94189d5dcb7ee8e1e618ce5b9b61a99e6ad8c939e9052e900941c",
+ "rendicoes": {
+  "png": {
+   "bytes": 14472,
+   "sha256": "5936084b47132bf5ef621a3098a30bad32ae6a5eeb75d2c8c965d692b8deb82b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4241,
+   "sha256": "237c08d7cb9eb6be4946c6e01f1205501a3378caf84b989c757706d6cc1d55c6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3166907.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3166907.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3166907.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3166907.jpg",
+  "bytes": 2962,
+  "sha256": "25d985916fc94189d5dcb7ee8e1e618ce5b9b61a99e6ad8c939e9052e900941c"
+ },
+ "sha1_origem": "7a68731eb589a126321f7b0645a80f22de91611e",
+ "bytes_origem": 2962,
+ "capturado_em": "2026-11-08T06:17:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoserrania.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "7a68731eb589a126321f7b0645a80f22de91611e"
+ }
+}

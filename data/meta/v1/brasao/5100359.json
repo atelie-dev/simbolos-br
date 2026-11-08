@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5100359",
+ "uf": "MT",
+ "municipio": "Alto Boa Vista",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bras%C3%A3o-Municipio-de-Alto-Boa-Vista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Alto Boa Vista",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6fd97deebe66393bb3a7257f753365ae939bedffa459ba89d0f8122a138a6b61",
+ "rendicoes": {
+  "png": {
+   "bytes": 232150,
+   "sha256": "3632498ea7c0cb59acb0f4cca6d32bed9933b612bfd28b2e608fd581daaa23f0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 64722,
+   "sha256": "9b34d23267eff7e32bf701a1509d1ebcac41a0ae1ed20e58b439f4bdcc83b996",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5100359.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5100359.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5100359.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5100359.jpg",
+  "bytes": 300488,
+  "sha256": "6fd97deebe66393bb3a7257f753365ae939bedffa459ba89d0f8122a138a6b61"
+ },
+ "sha1_origem": "8f50f1fd73cd39ba35fc77b293580c40087b049f",
+ "bytes_origem": 300488,
+ "capturado_em": "2026-11-08T07:14:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão-Municipio-de-Alto-Boa-Vista.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "8f50f1fd73cd39ba35fc77b293580c40087b049f"
+ }
+}

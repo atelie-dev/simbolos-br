@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3546009",
+ "uf": "SP",
+ "municipio": "Santa Branca",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bras%C3%A3o_do_Municipio_de_Santa_Branca-SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santa Branca",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f4d6863d46eb874d040d431ea0fe8be1f679166a4c6e3bd0ed5cf82bb61308ee",
+ "rendicoes": {
+  "png": {
+   "bytes": 30912,
+   "sha256": "b4956936021b1206cfa9f1a6efcb7545a04c8d929aae462230d706c2aac5a4e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14562,
+   "sha256": "d7ba0c633b53bfbe282a16f4f730bb57af3e39b2f4220e3c12ddeb5cf911b7d4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3546009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3546009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3546009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3546009.png",
+  "bytes": 12603,
+  "sha256": "f4d6863d46eb874d040d431ea0fe8be1f679166a4c6e3bd0ed5cf82bb61308ee"
+ },
+ "sha1_origem": "a4344e4bcd3eacf5f9f44b1f13c889560e9cb1be",
+ "bytes_origem": 12603,
+ "capturado_em": "2026-11-08T06:37:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_Municipio_de_Santa_Branca-SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:15Z",
+  "estado": "igual",
+  "sha1_commons": "a4344e4bcd3eacf5f9f44b1f13c889560e9cb1be"
+ }
+}

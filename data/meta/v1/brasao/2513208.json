@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2513208",
+ "uf": "PB",
+ "municipio": "Santa Cruz",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bras%C3%A3o_Santa_Cruz-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santa Cruz",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e579ff43899a993ab1e7c944bc3a16069e0413a2c172b02dc9fa8b263b0d9bd0",
+ "rendicoes": {
+  "png": {
+   "bytes": 111390,
+   "sha256": "f364da00759f3231a955ba8798d416d802d2634c321f0346a0a096d28838888b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20273,
+   "sha256": "75635abbdede2db6bfe44eff902fab60ae2d0dea8f793ee924d36fadd09b6883",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2513208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2513208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2513208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2513208.jpg",
+  "bytes": 15776,
+  "sha256": "e579ff43899a993ab1e7c944bc3a16069e0413a2c172b02dc9fa8b263b0d9bd0"
+ },
+ "sha1_origem": "b2dc1f8a8379acef4bcc46b473f54a6486daa074",
+ "bytes_origem": 15776,
+ "capturado_em": "2026-11-08T05:43:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Santa_Cruz-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "b2dc1f8a8379acef4bcc46b473f54a6486daa074"
+ }
+}

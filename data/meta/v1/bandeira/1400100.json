@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1400100",
+ "uf": "RR",
+ "municipio": "Boa Vista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bandeira_de_Boa_Vista.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ca4fb8fa796473f23ea1b501dfc2eba300e3130a4fd014b811aa3cad1a41b4c0",
+ "rendicoes": {
+  "png": {
+   "bytes": 7179,
+   "sha256": "7922a79b2c68efff149fd4af989d94202c832447b281686d613133f53a4f1f8e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11508,
+   "sha256": "fda1426e31292ad0e14d9ce638201d42ec6e5fc38dafa2b34d43f43f218f8a5f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2480,
+   "sha256": "ca4fb8fa796473f23ea1b501dfc2eba300e3130a4fd014b811aa3cad1a41b4c0"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400100.jpg"
+ },
+ "sha1_origem": "476c0abea2af5d0161bbc8b393f45783bda84dd1",
+ "bytes_origem": 2480,
+ "capturado_em": "2026-11-08T02:32:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Boa_Vista.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "476c0abea2af5d0161bbc8b393f45783bda84dd1"
+ }
+}

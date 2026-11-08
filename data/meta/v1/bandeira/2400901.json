@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2400901",
+ "uf": "RN",
+ "municipio": "Antônio Martins",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bandeira_de_Ant%C3%B4nio_Martins%2C_RN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Danthas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0cbb0a12679eb2e7a2f462f26646c47964913c25363b28c9f25b4cfa8c096cad",
+ "rendicoes": {
+  "png": {
+   "bytes": 94904,
+   "sha256": "d443ab5d8e434b4b7d79ad656cf125fafb8864f9ac63cbb4a2ba36524661e1ed",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34439,
+   "sha256": "eba060cfd7ca87a07096956cef330ddafc5ec514c627096a0a86b4a2f46c532e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2400901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2400901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2400901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2400901.jpg",
+  "bytes": 720618,
+  "sha256": "0cbb0a12679eb2e7a2f462f26646c47964913c25363b28c9f25b4cfa8c096cad"
+ },
+ "sha1_origem": "b6aa12637b3746784239e95c92078a57b1e32428",
+ "bytes_origem": 720618,
+ "capturado_em": "2026-11-08T05:35:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Antônio_Martins,_RN.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "b6aa12637b3746784239e95c92078a57b1e32428"
+ }
+}

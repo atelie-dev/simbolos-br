@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3528601",
+ "uf": "SP",
+ "municipio": "Manduri",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Brasao_Manduri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3b3ff5c2af74260e1537a7b84fe69e5c2b9068895f289c64e79192fdd68de7a9",
+ "rendicoes": {
+  "png": {
+   "bytes": 219728,
+   "sha256": "9746373d44c1c439e4af218aae4a7d292f5e54d61d756867bd095de2b6a1f719",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59924,
+   "sha256": "f7e4ce28169493a83fd553ac571da534404af3bf22fc88d281077b88b975a48c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3528601.jpg",
+  "bytes": 340891,
+  "sha256": "3b3ff5c2af74260e1537a7b84fe69e5c2b9068895f289c64e79192fdd68de7a9"
+ },
+ "sha1_origem": "55be192d5b4650b9b4a14155b41f10330908cfa1",
+ "bytes_origem": 340891,
+ "capturado_em": "2026-11-08T06:31:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Manduri.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:33Z",
+  "estado": "igual",
+  "sha1_commons": "55be192d5b4650b9b4a14155b41f10330908cfa1"
+ }
+}

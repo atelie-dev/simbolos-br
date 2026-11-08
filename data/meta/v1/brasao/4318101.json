@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4318101",
+ "uf": "RS",
+ "municipio": "São Francisco de Assis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Braso_Sao_Francisco_de_Assis_RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of São Francisco de Assis.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a48a4aff1894f07568127ebca4314a608245495b25304773927b48597ba5f23a",
+ "rendicoes": {
+  "png": {
+   "bytes": 53825,
+   "sha256": "29a8c74f69026125db5e8d163d9dc043b49f154b870143e59980458e7f5ccc0a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13275,
+   "sha256": "e7ec8fc86a449a6dcc66f630fd62cf0139f1726f7d1733ce0e3ce81d2227f07b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4318101.jpg",
+  "bytes": 69275,
+  "sha256": "a48a4aff1894f07568127ebca4314a608245495b25304773927b48597ba5f23a"
+ },
+ "sha1_origem": "9cee8f193ee28bb1f92db8185449e80b01db4f97",
+ "bytes_origem": 69275,
+ "capturado_em": "2026-11-08T07:09:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Braso_Sao_Francisco_de_Assis_RS.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "9cee8f193ee28bb1f92db8185449e80b01db4f97"
+ }
+}

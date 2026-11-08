@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3139003",
+ "uf": "MG",
+ "municipio": "Machado",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bras%C3%A3o_de_Machado_-_MG.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "912158bd4063e7b1ca559805b4f8d8ce20180b693c38ae9342c8b6d4d15ceefa",
+ "rendicoes": {
+  "png": {
+   "bytes": 159705,
+   "sha256": "6a3ad92e7d99f51673436a232e86ddaf58f0a06d77f63ccc64a24c62f7da29f9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 52407,
+   "sha256": "923ad4652606fb2637da49704726e8bfa2e61329589674fff86d946bef83e923",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 290562,
+   "sha256": "912158bd4063e7b1ca559805b4f8d8ce20180b693c38ae9342c8b6d4d15ceefa"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3139003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3139003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3139003.jpg"
+ },
+ "sha1_origem": "c80e96ab72c288bc120072b991ac13c0e90d8a03",
+ "bytes_origem": 290562,
+ "capturado_em": "2026-11-08T03:41:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Machado_-_MG.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:06Z",
+  "estado": "igual",
+  "sha1_commons": "c80e96ab72c288bc120072b991ac13c0e90d8a03"
+ }
+}

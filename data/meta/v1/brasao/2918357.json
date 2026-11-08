@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2918357",
+ "uf": "BA",
+ "municipio": "João Dourado",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bras%C3%A3o_de_Jo%C3%A3o_Dourado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de João Dourado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0f800a0108e60dd09f26db5917fa1eac7e0e82c57090b6ae2c070ffc104e30a9",
+ "rendicoes": {
+  "png": {
+   "bytes": 192422,
+   "sha256": "63f78228ab8805efd46dbcaae6d92d7d23dc1034c8c78ba6a043f7ef9b0f1f6b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31684,
+   "sha256": "1a17e29dcdc54e00a6ede18cec1821325788b6f2edbc6f89e2d3d407fe3fa511",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2918357.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2918357.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2918357.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2918357.jpg",
+  "bytes": 40260,
+  "sha256": "0f800a0108e60dd09f26db5917fa1eac7e0e82c57090b6ae2c070ffc104e30a9"
+ },
+ "sha1_origem": "0b86c8e99b197b876e9b26ae048c86c63c9b5a12",
+ "bytes_origem": 40260,
+ "capturado_em": "2026-11-08T05:54:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_João_Dourado.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:05Z",
+  "estado": "igual",
+  "sha1_commons": "0b86c8e99b197b876e9b26ae048c86c63c9b5a12"
+ }
+}

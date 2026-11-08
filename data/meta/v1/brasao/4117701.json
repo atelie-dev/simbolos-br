@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4117701",
+ "uf": "PR",
+ "municipio": "Palmeira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Palmeira_Bras%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Original uploader was 330 at pt.wikipedia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "599c633b85043f4165e20c15b771a778f31c795ffd9f99b671849e308d9bf439",
+ "rendicoes": {
+  "png": {
+   "bytes": 281252,
+   "sha256": "9c13119aff694c74064b4bd317a8e348fa156736bb2bde0990af6055e60b216d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 52474,
+   "sha256": "a32ade0277adf2f8e13c22544361f0cb390b4486ab05aaf50c764da83093dfa6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4117701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4117701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4117701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4117701.jpg",
+  "bytes": 125616,
+  "sha256": "599c633b85043f4165e20c15b771a778f31c795ffd9f99b671849e308d9bf439"
+ },
+ "sha1_origem": "ce5e2b000dbbb405da8d163748140ae17a5081bd",
+ "bytes_origem": 125616,
+ "capturado_em": "2026-11-08T06:47:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Palmeira_Brasão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:34Z",
+  "estado": "igual",
+  "sha1_commons": "ce5e2b000dbbb405da8d163748140ae17a5081bd"
+ }
+}

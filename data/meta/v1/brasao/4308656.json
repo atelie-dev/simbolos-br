@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4308656",
+ "uf": "RS",
+ "municipio": "Garruchos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bras%C3%A3o_Garruchos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Garruchos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a396d69ba1da5d163a2e8fd710245a93783274be4637d156582de1ab9580bab3",
+ "rendicoes": {
+  "png": {
+   "bytes": 405765,
+   "sha256": "a6a79119a3b1bc18d9c63b75b6c29edf2030ea89624916912ce8d5314ec8db49",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60846,
+   "sha256": "622a9c8514ed5bd19a3259643e854725fba713aa9ce0d2430ae1be200e7ff867",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308656.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308656.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308656.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4308656.jpg",
+  "bytes": 61266,
+  "sha256": "a396d69ba1da5d163a2e8fd710245a93783274be4637d156582de1ab9580bab3"
+ },
+ "sha1_origem": "96eeb317f941c6f1ff50727242541963cda1c01b",
+ "bytes_origem": 61266,
+ "capturado_em": "2026-11-08T07:03:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Garruchos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "96eeb317f941c6f1ff50727242541963cda1c01b"
+ }
+}

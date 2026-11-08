@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3110608",
+ "uf": "MG",
+ "municipio": "Cambuí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Cambu%C3%ADmgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cambuí",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0363a975ef8d334f6634c923f4e8e87e8b9cb03aa62ef57fb72e674a1fa26e1c",
+ "rendicoes": {
+  "png": {
+   "bytes": 104362,
+   "sha256": "e5b5b8b1f11e6b3b49d4fd2a30b29ef58b1499bd17048f92a8d007e1965d97df",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21999,
+   "sha256": "5f5e42658c4834a0a8d14bd04e888c4580805f3936a5fd2e608f99f3a6dace4b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3110608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3110608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3110608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3110608.jpg",
+  "bytes": 13660,
+  "sha256": "0363a975ef8d334f6634c923f4e8e87e8b9cb03aa62ef57fb72e674a1fa26e1c"
+ },
+ "sha1_origem": "8839516621e2091e77f09565ee5e20418ec4b8cf",
+ "bytes_origem": 13660,
+ "capturado_em": "2026-11-08T06:01:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cambuímgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "8839516621e2091e77f09565ee5e20418ec4b8cf"
+ }
+}

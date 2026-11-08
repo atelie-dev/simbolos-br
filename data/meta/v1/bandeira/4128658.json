@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4128658",
+ "uf": "PR",
+ "municipio": "Virmond",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bandeira_Virmond.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Virmond.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7de2247db7c210c3a9bcf96349d7acec8229ebeb3f57bd3a972ca27ef04f60ed",
+ "rendicoes": {
+  "png": {
+   "bytes": 170842,
+   "sha256": "e2237aceb4f51ba43f21b0675961e2889fba93f269d3edd3aeab2402cf4ce01d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28468,
+   "sha256": "c911eb6c0132bc97a17a5934b689e2dc6bbe0d4644b0871a06b003f63cfcfe84",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4128658.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4128658.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4128658.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4128658.jpg",
+  "bytes": 39616,
+  "sha256": "7de2247db7c210c3a9bcf96349d7acec8229ebeb3f57bd3a972ca27ef04f60ed"
+ },
+ "sha1_origem": "30eac5e5a77bd28972c717f242c80dcf4f1b7516",
+ "bytes_origem": 39616,
+ "capturado_em": "2026-11-08T06:51:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Virmond.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "30eac5e5a77bd28972c717f242c80dcf4f1b7516"
+ }
+}

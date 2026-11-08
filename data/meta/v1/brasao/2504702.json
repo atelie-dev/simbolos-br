@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2504702",
+ "uf": "PB",
+ "municipio": "Congo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bras%C3%A3o_Congo-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Congo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8b3beadd5a991eef9488b22096c5617913769e85acaae3efd34fad8740c15642",
+ "rendicoes": {
+  "png": {
+   "bytes": 120528,
+   "sha256": "48dbb9c1bf54f01e0e962682b24be35751495808a79170f5029c11dcc1fc319c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33730,
+   "sha256": "2570302c5b5a62baa6a96796a255a08f9b1d3a67434782ea812991dd29981542",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2504702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2504702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2504702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2504702.jpg",
+  "bytes": 203200,
+  "sha256": "8b3beadd5a991eef9488b22096c5617913769e85acaae3efd34fad8740c15642"
+ },
+ "sha1_origem": "b136dd4222a11407e5ce42d8ec993086a6638d51",
+ "bytes_origem": 203200,
+ "capturado_em": "2026-11-08T05:40:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Congo-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:48Z",
+  "estado": "igual",
+  "sha1_commons": "b136dd4222a11407e5ce42d8ec993086a6638d51"
+ }
+}

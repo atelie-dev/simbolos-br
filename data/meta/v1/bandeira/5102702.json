@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5102702",
+ "uf": "MT",
+ "municipio": "Canarana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bandeira_Canarana_MT.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Canarana_MT",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8e8ea38b4e2bdcee8c111c77dfe08d6697601d2f83d73f3984e48b8b39c4b131",
+ "rendicoes": {
+  "png": {
+   "bytes": 4190,
+   "sha256": "e645cacae5df1353dab150625b83c7da7ad15f79c147f8dd096a351c6b33d7b0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4884,
+   "sha256": "380bc6c448f33bf102d585dcc777d7746af2adbfcc874e1503c2a61cad1899c7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5102702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5102702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5102702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5102702.png",
+  "bytes": 2453,
+  "sha256": "8e8ea38b4e2bdcee8c111c77dfe08d6697601d2f83d73f3984e48b8b39c4b131"
+ },
+ "sha1_origem": "5e4d72a547843b732aadd53230a9c59fc9610c4b",
+ "bytes_origem": 2453,
+ "capturado_em": "2026-11-08T07:14:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Canarana_MT.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "5e4d72a547843b732aadd53230a9c59fc9610c4b"
+ }
+}

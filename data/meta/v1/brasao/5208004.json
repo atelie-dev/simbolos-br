@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5208004",
+ "uf": "GO",
+ "municipio": "Formosa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bras%C3%A3o_de_Formosa_-_GO.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Formosa, GO",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7210e9082ea3661679402255eed9ca7819accb85eef163fbf279ec0f42f2c3b4",
+ "rendicoes": {
+  "png": {
+   "bytes": 139960,
+   "sha256": "d1e7c2dd5295bb6612c13ee9ae0de0cbfbb3e341022dc17279ab061b35b7479a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 50317,
+   "sha256": "9efef989c2be0f517f518f13e80dfa888fc8c3a83add48b2aef8cfe0d946b5f4",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1546075,
+   "sha256": "7210e9082ea3661679402255eed9ca7819accb85eef163fbf279ec0f42f2c3b4"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208004.jpg"
+ },
+ "sha1_origem": "456b262f027aae465e616127ab04cff2b75f67b8",
+ "bytes_origem": 1546075,
+ "capturado_em": "2026-11-08T05:10:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Formosa_-_GO.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:02Z",
+  "estado": "igual",
+  "sha1_commons": "456b262f027aae465e616127ab04cff2b75f67b8"
+ }
+}

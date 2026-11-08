@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4115200",
+ "uf": "PR",
+ "municipio": "Maringá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bras%C3%A3o_de_Maring%C3%A1_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0727773c9f0782d5acb67a00c337b9f24b37f3ee81a1bf67e0555ac282a0889f",
+ "rendicoes": {
+  "png": {
+   "bytes": 165768,
+   "sha256": "eaec286c72e650e68151260b99a7a15747922e21c79ece57727cf6131575f2b9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 52555,
+   "sha256": "0f6e018684dcb7eee38e9f84666ff7ccd43dd143dc2855948f5e3d33c2f0a176",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 288690,
+   "sha256": "0727773c9f0782d5acb67a00c337b9f24b37f3ee81a1bf67e0555ac282a0889f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4115200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4115200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4115200.jpg"
+ },
+ "sha1_origem": "c8141e625e0a524318ef3466a43d2b40866d3a7f",
+ "bytes_origem": 288690,
+ "capturado_em": "2026-11-08T04:28:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Maringá_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:06Z",
+  "estado": "igual",
+  "sha1_commons": "c8141e625e0a524318ef3466a43d2b40866d3a7f"
+ }
+}

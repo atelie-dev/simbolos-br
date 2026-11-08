@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3503505",
+ "uf": "SP",
+ "municipio": "Areias",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Areias_bandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f9bacbcce3144a6da7461c468dc380ff3c401804775fc8c2d13d4426e22ab07a",
+ "rendicoes": {
+  "png": {
+   "bytes": 7669,
+   "sha256": "92d65bbe1ded36ded065d2e524552f583c38727d0a37d117b850a13505cd6adb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7454,
+   "sha256": "94eddbae7f86fb266970121fc18190ac857c2a330a560a34304c60d48ecb9b7c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3503505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3503505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3503505.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3503505.png",
+  "bytes": 3711,
+  "sha256": "f9bacbcce3144a6da7461c468dc380ff3c401804775fc8c2d13d4426e22ab07a"
+ },
+ "sha1_origem": "b25ae573c09cb6b5223500422053ff9cfc51d5e8",
+ "bytes_origem": 3711,
+ "capturado_em": "2026-11-08T06:23:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Areias_bandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "b25ae573c09cb6b5223500422053ff9cfc51d5e8"
+ }
+}

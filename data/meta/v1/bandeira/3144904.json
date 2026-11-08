@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3144904",
+ "uf": "MG",
+ "municipio": "Nova Módica",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Nova_M%C3%B3dica_MG_BANDEIRA.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "MUNICÍPIO DE NOVA MÓDICA",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0d1fa9b06df121c7a60bcaf8be81e9f70bee804b0e000fe95459064c6e2fdee4",
+ "rendicoes": {
+  "png": {
+   "bytes": 10967,
+   "sha256": "17679d0d63517476a998d3d1e729070f5d13aae612b4fa19059eb9333d2e35d2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6880,
+   "sha256": "1c42d6c920f98cf2ecba0476038af0f421aa75b546845fd5a2df049bff547a16",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3144904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3144904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3144904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3144904.png",
+  "bytes": 8469,
+  "sha256": "0d1fa9b06df121c7a60bcaf8be81e9f70bee804b0e000fe95459064c6e2fdee4"
+ },
+ "sha1_origem": "2c5ff6a02f1c126a607908af449dec9398b74bb5",
+ "bytes_origem": 8469,
+ "capturado_em": "2026-11-08T06:12:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Nova_Módica_MG_BANDEIRA.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:34Z",
+  "estado": "igual",
+  "sha1_commons": "2c5ff6a02f1c126a607908af449dec9398b74bb5"
+ }
+}

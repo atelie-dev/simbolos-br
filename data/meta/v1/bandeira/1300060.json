@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1300060",
+ "uf": "AM",
+ "municipio": "Amaturá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Amatura_-_bandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Amaturá",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "18799927ae1e0c8075562dae379367f562bcac8670fc30faf27a8e0a8936b8fa",
+ "rendicoes": {
+  "png": {
+   "bytes": 13290,
+   "sha256": "2df18f6f5ea2e65a69f4336886705a581243c6360d8dbcc79bf950a1c7328dd5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5482,
+   "sha256": "400ae0d6ee2535a91e2ed60861a7a8de14d0911dd7334b96e75df71cd5477c84",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300060.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300060.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300060.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1300060.png",
+  "bytes": 15154,
+  "sha256": "18799927ae1e0c8075562dae379367f562bcac8670fc30faf27a8e0a8936b8fa"
+ },
+ "sha1_origem": "e577213f63a10dd1d409135cb835d6713aa74ee0",
+ "bytes_origem": 15154,
+ "capturado_em": "2026-11-08T05:22:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Amatura_-_bandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "e577213f63a10dd1d409135cb835d6713aa74ee0"
+ }
+}

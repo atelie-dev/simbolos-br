@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3170602",
+ "uf": "MG",
+ "municipio": "Vargem Bonita",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bandeira_de_Vargem_Bonita.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ght sulista",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4c8ba03d8f94c5001e63f3b2143a2d90ce3eaabde91dc8544770663a5b8e1bb5",
+ "rendicoes": {
+  "png": {
+   "bytes": 47684,
+   "sha256": "6a3006cb80dc5aea2a3dbddafba2ae19df6d98ae6836f759525ada824c0933df",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16755,
+   "sha256": "598b0fb60c1f90612d1b5b49dee5701f213bf308538ed3a90a2b85cf3934f664",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3170602.png",
+  "bytes": 388351,
+  "sha256": "4c8ba03d8f94c5001e63f3b2143a2d90ce3eaabde91dc8544770663a5b8e1bb5"
+ },
+ "sha1_origem": "31990b3656e819495b4a0430bc1d4de47faba16c",
+ "bytes_origem": 388351,
+ "capturado_em": "2026-11-08T06:18:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Vargem_Bonita.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "31990b3656e819495b4a0430bc1d4de47faba16c"
+ }
+}

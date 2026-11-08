@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3116803",
+ "uf": "MG",
+ "municipio": "Coluna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Coluna_mg_bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Bruno Henrique Santos Sousa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "85f6019a8acf30683987f159dd649a814dda8bc1b0b023c5396cf2ef20ed0ac9",
+ "rendicoes": {
+  "png": {
+   "bytes": 139251,
+   "sha256": "dcb1c4e91858c136fd75721d1c7882617dd5d78f99791a3d98373a8aedb3ca31",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33321,
+   "sha256": "ee1bd581389287c4b1b1d227943072d0b21e78337e53dc49c78d14e7f86cbd75",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3116803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3116803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3116803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3116803.jpg",
+  "bytes": 73501,
+  "sha256": "85f6019a8acf30683987f159dd649a814dda8bc1b0b023c5396cf2ef20ed0ac9"
+ },
+ "sha1_origem": "32413bb79488927d96d309804b021271af48c9e8",
+ "bytes_origem": 73501,
+ "capturado_em": "2026-11-08T06:04:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Coluna_mg_bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:24Z",
+  "estado": "igual",
+  "sha1_commons": "32413bb79488927d96d309804b021271af48c9e8"
+ }
+}

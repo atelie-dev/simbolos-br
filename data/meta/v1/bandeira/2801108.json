@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2801108",
+ "uf": "SE",
+ "municipio": "Canhoba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Band_canhoba_se.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Canhoba-SE",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b939f48887e073cf2580c1b5c3c067b6e3d8bf84fbe4873e5e188b7a91ded070",
+ "rendicoes": {
+  "png": {
+   "bytes": 326629,
+   "sha256": "21b5684894fd07a0b7685b8fae7e579f962e72c1715af10cc44d197de0ad7118",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40423,
+   "sha256": "2b70854ff2d5a4078c4811449cc0233b1aae6af9b4d9e8c246443cff034db4a2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2801108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2801108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2801108.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2801108.jpg",
+  "bytes": 38785,
+  "sha256": "b939f48887e073cf2580c1b5c3c067b6e3d8bf84fbe4873e5e188b7a91ded070"
+ },
+ "sha1_origem": "5246831119a459df14a78604f7877e55e415e860",
+ "bytes_origem": 38785,
+ "capturado_em": "2026-11-08T05:49:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_canhoba_se.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "5246831119a459df14a78604f7877e55e415e860"
+ }
+}

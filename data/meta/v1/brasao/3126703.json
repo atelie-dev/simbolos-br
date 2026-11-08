@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3126703",
+ "uf": "MG",
+ "municipio": "Francisco Sá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Francisco_S%C3%A1mgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Francisco Sá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0a2d22c0d34f470be7637648ecf2bd4087746966fd2566cc7fca61615003cb09",
+ "rendicoes": {
+  "png": {
+   "bytes": 41326,
+   "sha256": "b0ef9b2705cbbeed8fb4738f033db854c27523a76d2e9650e22494ae0629bce5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8115,
+   "sha256": "3a762b95d31b9cb427682786b9b92a1cc772848cc2dd848b87e3df67eae4af84",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3126703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3126703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3126703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3126703.jpg",
+  "bytes": 3977,
+  "sha256": "0a2d22c0d34f470be7637648ecf2bd4087746966fd2566cc7fca61615003cb09"
+ },
+ "sha1_origem": "3b6398f0755897f1ff4779829237dde99c4cdfa9",
+ "bytes_origem": 3977,
+ "capturado_em": "2026-11-08T06:07:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Francisco_Sámgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:30Z",
+  "estado": "igual",
+  "sha1_commons": "3b6398f0755897f1ff4779829237dde99c4cdfa9"
+ }
+}

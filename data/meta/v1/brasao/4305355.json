@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305355",
+ "uf": "RS",
+ "municipio": "Charqueadas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bras%C3%A3o_de_Charqueadas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura de Charqueadas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a9bf8b4efbfb9f710d2e2d117654d0c92b622465348bd6a59e59215a426ab548",
+ "rendicoes": {
+  "png": {
+   "bytes": 120006,
+   "sha256": "ae8bdbbc36103a000fa44742a6eba00f41401d27631d9b1ba5bd014dbccb32bb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30392,
+   "sha256": "8ca4e136f27b26d23f38d6350712e439db912666f62b99ccad40f855df8db663",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305355.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305355.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305355.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4305355.jpg",
+  "bytes": 43519,
+  "sha256": "a9bf8b4efbfb9f710d2e2d117654d0c92b622465348bd6a59e59215a426ab548"
+ },
+ "sha1_origem": "6412ee03a7525149b8506aa4c1b7c3c22ed3ba60",
+ "bytes_origem": 43519,
+ "capturado_em": "2026-11-08T07:01:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Charqueadas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "6412ee03a7525149b8506aa4c1b7c3c22ed3ba60"
+ }
+}

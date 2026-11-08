@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321709",
+ "uf": "RS",
+ "municipio": "Três Coroas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bandeira_Tres_Coroas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Três Coroas.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "39c7f711efa75514a92d2083caaff62431cf1b5095fd7327879820f54073dc3d",
+ "rendicoes": {
+  "png": {
+   "bytes": 6307,
+   "sha256": "ae7ffd8a740b94fd8a6c027aec4a4a28497b39ce1c15e6f103ea73f16a1f18a0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7758,
+   "sha256": "8baafbc9e6c91e461954e66e678af585d2c5723a3f9bed646ab2dab87adac0ff",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321709.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4321709.png",
+  "bytes": 3092,
+  "sha256": "39c7f711efa75514a92d2083caaff62431cf1b5095fd7327879820f54073dc3d"
+ },
+ "sha1_origem": "061d43cdb078d6a78f8caec1bbf8ed0138024663",
+ "bytes_origem": 3092,
+ "capturado_em": "2026-11-08T07:11:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Tres_Coroas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "061d43cdb078d6a78f8caec1bbf8ed0138024663"
+ }
+}

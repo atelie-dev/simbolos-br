@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4202503",
+ "uf": "SC",
+ "municipio": "Bom Jardim da Serra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Brasao_BomJardimdaSerra_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Bom Jardim da Serra",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4f214d3a0a9d5665c1f6fd4486b7dc46d9f25f9adc1295a7e8c777668c7087d4",
+ "rendicoes": {
+  "png": {
+   "bytes": 31310,
+   "sha256": "1c1fea06d3a9b63628989b18078103cff9f614417fc168193c5a57b75f282fd4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8349,
+   "sha256": "8c53b44507b87d7f8722750b120d498d83c0466acef233370729850d97787473",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4202503.jpg",
+  "bytes": 5634,
+  "sha256": "4f214d3a0a9d5665c1f6fd4486b7dc46d9f25f9adc1295a7e8c777668c7087d4"
+ },
+ "sha1_origem": "eb0212f6397ba9adf80668f0836b872857bfdbab",
+ "bytes_origem": 5634,
+ "capturado_em": "2026-11-08T06:52:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_BomJardimdaSerra_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "eb0212f6397ba9adf80668f0836b872857bfdbab"
+ }
+}

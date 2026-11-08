@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4119509",
+ "uf": "PR",
+ "municipio": "Piraquara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandeira_de_Piraquara.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5f3c3b7f0c1e786cbd40e02640793f98d68c9bcd8f86068e32a0e53631f12f4b",
+ "rendicoes": {
+  "png": {
+   "bytes": 39818,
+   "sha256": "dad5fe39a3a3d02bcf285df62ddc4f2b8ca933dd7b019d660822e6192de511ba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14624,
+   "sha256": "6877fb512f045be1a7af98f996ce1c34ca7f3ca8e793d190a28ec767935bdab1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4119509.png",
+  "bytes": 59541,
+  "sha256": "5f3c3b7f0c1e786cbd40e02640793f98d68c9bcd8f86068e32a0e53631f12f4b"
+ },
+ "sha1_origem": "7470068800fdd06fbcdd2c2c2d2ab929de7e169e",
+ "bytes_origem": 59541,
+ "capturado_em": "2026-11-08T06:47:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Piraquara.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "7470068800fdd06fbcdd2c2c2d2ab929de7e169e"
+ }
+}

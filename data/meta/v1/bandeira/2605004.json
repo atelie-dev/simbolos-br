@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2605004",
+ "uf": "PE",
+ "municipio": "Cupira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bandeira_cupira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6b715a715284b1db09971de2371af4f15d50f0c2f7567cedc993f7aeeec0c3d3",
+ "rendicoes": {
+  "png": {
+   "bytes": 185942,
+   "sha256": "c20ba9be3f842a2a4473039c06b99a6ad5884a78ed76df375bd54fa8cc73a4c1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42047,
+   "sha256": "69aedebedb00cf7db15c14d730185000ba6d6cb633ee519527514b5a668e0a47",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2605004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2605004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2605004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2605004.jpg",
+  "bytes": 68619,
+  "sha256": "6b715a715284b1db09971de2371af4f15d50f0c2f7567cedc993f7aeeec0c3d3"
+ },
+ "sha1_origem": "5826603e0b35a4d48c0bfc727ed6442a066ace1d",
+ "bytes_origem": 68619,
+ "capturado_em": "2026-11-08T05:45:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_cupira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "5826603e0b35a4d48c0bfc727ed6442a066ace1d"
+ }
+}

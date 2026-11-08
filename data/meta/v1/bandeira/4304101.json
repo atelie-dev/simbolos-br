@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4304101",
+ "uf": "RS",
+ "municipio": "Campos Borges",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Campos_Borgesbanders.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Campos Borges",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b649ad3b6461a567fde72cd3ce172216f7d01d973b38f0c3ac58396e5ecbe3c2",
+ "rendicoes": {
+  "png": {
+   "bytes": 14178,
+   "sha256": "8254013e856290e1a131b45598ba1c250b15916025fc917fb2f925dcc29c1116",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9238,
+   "sha256": "b9fc6e0bb2bc69b932c3b5829383af3c35b1cbd4571f9a6e7bc4f358ecfab55e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4304101.png",
+  "bytes": 11334,
+  "sha256": "b649ad3b6461a567fde72cd3ce172216f7d01d973b38f0c3ac58396e5ecbe3c2"
+ },
+ "sha1_origem": "a5112a39b441d71debe5cb12a6d135d9db8faa3b",
+ "bytes_origem": 11334,
+ "capturado_em": "2026-11-08T07:00:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Campos_Borgesbanders.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "a5112a39b441d71debe5cb12a6d135d9db8faa3b"
+ }
+}

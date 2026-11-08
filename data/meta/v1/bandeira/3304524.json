@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3304524",
+ "uf": "RJ",
+ "municipio": "Rio das Ostras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bandeira_Oficial_de_Rio_das_Ostras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura de Rio das Ostras",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f7a48bb085fab0fb90e2614926fcab5ad8116787efaf0362d802bfa555894b04",
+ "rendicoes": {
+  "png": {
+   "bytes": 127721,
+   "sha256": "9d455891c99c5e0bd211d0079d1980f853602aff5ab7838bf5250f69af6d626b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33597,
+   "sha256": "36d4c29eca66514b691344d20bd3ae58f7a41551ea5e8b628402ba6eb56aad4e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304524.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304524.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304524.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3304524.jpg",
+  "bytes": 342785,
+  "sha256": "f7a48bb085fab0fb90e2614926fcab5ad8116787efaf0362d802bfa555894b04"
+ },
+ "sha1_origem": "1a22a8a4e2ab78f35f09b941f87b1b77a62cced6",
+ "bytes_origem": 342785,
+ "capturado_em": "2026-11-08T06:22:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Oficial_de_Rio_das_Ostras.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "1a22a8a4e2ab78f35f09b941f87b1b77a62cced6"
+ }
+}

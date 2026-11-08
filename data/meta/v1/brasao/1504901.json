@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1504901",
+ "uf": "PA",
+ "municipio": "Muaná",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/BrasaoMuana.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Muaná",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "568a8796459ac59ae5b3b1276532f14d0daa3bd87d569fd078738f35ec2b63f3",
+ "rendicoes": {
+  "png": {
+   "bytes": 186029,
+   "sha256": "f5e8c8562bcad61f0742ec6b270ae8364546a3d1c7c386f4a1f4f31a4f08574b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47153,
+   "sha256": "3f4cf31b8b5a205a6b24af7697c9ec21219b1c227f055aa2a41a91b051bccebf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1504901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1504901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1504901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1504901.jpg",
+  "bytes": 345725,
+  "sha256": "568a8796459ac59ae5b3b1276532f14d0daa3bd87d569fd078738f35ec2b63f3"
+ },
+ "sha1_origem": "d50959825192c8ad62c02949c3f3ac82cccc5089",
+ "bytes_origem": 345725,
+ "capturado_em": "2026-11-08T05:24:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoMuana.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "d50959825192c8ad62c02949c3f3ac82cccc5089"
+ }
+}

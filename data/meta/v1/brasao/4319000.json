@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4319000",
+ "uf": "RS",
+ "municipio": "São Marcos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Brasao_sao_marcos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "público",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4fa653b762176014e2dff6074f398ef1dfe69510c4b482850e8911c9ddd12ca0",
+ "rendicoes": {
+  "png": {
+   "bytes": 41453,
+   "sha256": "5dc166c301fca269418a321a5f4e68bf66112aa2c837a53f7ed7eeb0f351e2e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7914,
+   "sha256": "4b6c2d8c6cd68c75a3d1db4ef5a5930c34eafa56d84ecfb9faf32eaba5174274",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4319000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4319000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4319000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4319000.jpg",
+  "bytes": 5687,
+  "sha256": "4fa653b762176014e2dff6074f398ef1dfe69510c4b482850e8911c9ddd12ca0"
+ },
+ "sha1_origem": "06610d32b890bb86a866b1beeed44a3d9c40f6e4",
+ "bytes_origem": 5687,
+ "capturado_em": "2026-11-08T07:09:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_sao_marcos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "06610d32b890bb86a866b1beeed44a3d9c40f6e4"
+ }
+}

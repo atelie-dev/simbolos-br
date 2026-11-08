@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4323200",
+ "uf": "RS",
+ "municipio": "Victor Graeff",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bandeira_Victor_Graeff%2B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "FrancoBras",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2bcc26f8c7fff94e8f76ebfa26eed17b33124141d4beed3691342192d1612e07",
+ "rendicoes": {
+  "png": {
+   "bytes": 45878,
+   "sha256": "667222851eeaa639dcdc3192e30766d1a794cbfb6126ba2ca045b6bb8eade00d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9436,
+   "sha256": "2c639e8ec8d9aad2cd86bdfba6eab8f102361d49c61561eb169fecca8073e229",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4323200.jpg",
+  "bytes": 48365,
+  "sha256": "2bcc26f8c7fff94e8f76ebfa26eed17b33124141d4beed3691342192d1612e07"
+ },
+ "sha1_origem": "10e64b949effeca52cabd3c39459f90e71a58b19",
+ "bytes_origem": 48365,
+ "capturado_em": "2026-11-08T07:11:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Victor_Graeff+.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "10e64b949effeca52cabd3c39459f90e71a58b19"
+ }
+}

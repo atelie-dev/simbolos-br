@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3518206",
+ "uf": "SP",
+ "municipio": "Guararapes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bandeira_de_Guararapes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Guararapes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e645915b4cb78c09203dc6b19e60216524e30b5f899cfe0fbde05ded2fcdb3a6",
+ "rendicoes": {
+  "png": {
+   "bytes": 68556,
+   "sha256": "746ba70c02ee52a1349600d4624a72e61b19a8b8118e1e9374aeaa60a0ccc62a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26026,
+   "sha256": "383769c724f77bc1b8868353e4b88837c0b789accddf67af75bf90966c0242f9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3518206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3518206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3518206.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3518206.png",
+  "bytes": 172435,
+  "sha256": "e645915b4cb78c09203dc6b19e60216524e30b5f899cfe0fbde05ded2fcdb3a6"
+ },
+ "sha1_origem": "cfaee08ce646f6a541519415735696a72687c859",
+ "bytes_origem": 172435,
+ "capturado_em": "2026-11-08T06:28:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Guararapes.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "cfaee08ce646f6a541519415735696a72687c859"
+ }
+}

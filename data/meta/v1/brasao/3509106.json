@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3509106",
+ "uf": "SP",
+ "municipio": "Caiuá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bras%C3%A3o_de_Caiu%C3%A1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Caiuá",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "86b447915d7f7126521840bc993331d0e47260491f45778a8416818d8a852fb0",
+ "rendicoes": {
+  "png": {
+   "bytes": 16299,
+   "sha256": "6b15b66f1c50373d877efd4e0806f01c2aad2364a7ec56d58500faa464228312",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11083,
+   "sha256": "f876ed3da61b22ff5d01c1c81a863123aa3df64bdfbb07d40c656bed867fee62",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3509106.png",
+  "bytes": 7324,
+  "sha256": "86b447915d7f7126521840bc993331d0e47260491f45778a8416818d8a852fb0"
+ },
+ "sha1_origem": "b437423da4f758dcfd881ccdfdd42681a3ac1fe5",
+ "bytes_origem": 7324,
+ "capturado_em": "2026-11-08T06:25:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Caiuá.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "b437423da4f758dcfd881ccdfdd42681a3ac1fe5"
+ }
+}

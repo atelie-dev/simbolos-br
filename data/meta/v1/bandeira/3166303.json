@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3166303",
+ "uf": "MG",
+ "municipio": "Sericita",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bandeira_de_Sericita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Timonena",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "710a39ff4f537326dbc76adc920db8a95ef8f1b170be1ba91cec2640ae3afac0",
+ "rendicoes": {
+  "png": {
+   "bytes": 361240,
+   "sha256": "187de3a9ef1bf1b4be63e5f5b9cea7346a68c923db3759e50e36031477543386",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 46397,
+   "sha256": "30f2eaa5ef9008787a140ef29dba8600b9b016c4bff73c7a0ee114b0b4e84f6d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3166303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3166303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3166303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3166303.jpg",
+  "bytes": 1199786,
+  "sha256": "710a39ff4f537326dbc76adc920db8a95ef8f1b170be1ba91cec2640ae3afac0"
+ },
+ "sha1_origem": "f5a2975edf51e24a6cbfa9e710306b643de79caf",
+ "bytes_origem": 1199786,
+ "capturado_em": "2026-11-08T06:17:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Sericita.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "f5a2975edf51e24a6cbfa9e710306b643de79caf"
+ }
+}

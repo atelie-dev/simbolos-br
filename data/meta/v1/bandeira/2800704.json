@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2800704",
+ "uf": "SE",
+ "municipio": "Brejo Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Brasao_brejogrande.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Brejo Grande -SE",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5d2431b70501f9d0475c6e5edc9c9b08a535172ae9a928cc3964d584074dff41",
+ "rendicoes": {
+  "png": {
+   "bytes": 124703,
+   "sha256": "0471850ed6edf2d4e5f4189bb85be43210e266d7313755d1ad25ec04ad632f91",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54495,
+   "sha256": "98ab769b3f3682b367c368d3cb1429bed83edaadb25a78877ff8cb248db157d1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 130041,
+   "sha256": "5d2431b70501f9d0475c6e5edc9c9b08a535172ae9a928cc3964d584074dff41"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2800704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2800704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2800704.jpg"
+ },
+ "sha1_origem": "484c2e7ad7a6df4f78ad0616996b5ff6253f2951",
+ "bytes_origem": 130041,
+ "capturado_em": "2026-11-08T03:11:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_brejogrande.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:36Z",
+  "estado": "igual",
+  "sha1_commons": "484c2e7ad7a6df4f78ad0616996b5ff6253f2951"
+ }
+}

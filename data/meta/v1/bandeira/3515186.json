@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3515186",
+ "uf": "SP",
+ "municipio": "Espírito Santo do Pinhal",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bandeira_Espirito_Santo_do_Pinhal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dd751ab7fee7ff71ef395dc3aa1458b4ea1f1ad494a261cdd8731509a1d62ee0",
+ "rendicoes": {
+  "png": {
+   "bytes": 138314,
+   "sha256": "44c645e32a62b89bf15efb2c929711c5494ad58d0845024ed8464b3ded7cf5fb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30630,
+   "sha256": "3033d5c083e3a39531bb0115c0ec647f5b5aef2a104ab00b661a8528400c4263",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515186.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515186.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515186.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3515186.jpg",
+  "bytes": 68680,
+  "sha256": "dd751ab7fee7ff71ef395dc3aa1458b4ea1f1ad494a261cdd8731509a1d62ee0"
+ },
+ "sha1_origem": "d7fe4b21942ae7487f1f0151b4e46d909b30d190",
+ "bytes_origem": 68680,
+ "capturado_em": "2026-11-08T06:27:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Espirito_Santo_do_Pinhal.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "d7fe4b21942ae7487f1f0151b4e46d909b30d190"
+ }
+}

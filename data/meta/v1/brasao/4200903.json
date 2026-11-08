@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4200903",
+ "uf": "SC",
+ "municipio": "Angelina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bras%C3%A3o_do_munic%C3%ADpio_de_Angelina_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Angelina",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9c3d4ff97906145878e6c27775b7ec243d99171930d1ca347b225bed5a48e009",
+ "rendicoes": {
+  "png": {
+   "bytes": 257045,
+   "sha256": "3204ccaa5cb37dd73915db597c9eca6303cd636cca5c46bcf8df0adafecfad7c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59010,
+   "sha256": "16b1e68eae74a72129b53a7038ad55cbbe781f6b15cfcf02d07624fbe1fec671",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4200903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4200903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4200903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4200903.png",
+  "bytes": 307367,
+  "sha256": "9c3d4ff97906145878e6c27775b7ec243d99171930d1ca347b225bed5a48e009"
+ },
+ "sha1_origem": "fa312f5068a543978a68137ab730c7b66f0e8ac4",
+ "bytes_origem": 307367,
+ "capturado_em": "2026-11-08T06:51:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Angelina_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:16Z",
+  "estado": "igual",
+  "sha1_commons": "fa312f5068a543978a68137ab730c7b66f0e8ac4"
+ }
+}

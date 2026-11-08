@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4205704",
+ "uf": "SC",
+ "municipio": "Garopaba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bandeira-garopaba.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Garopaba City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "be0e6e5f27fc71084e2f1d142e8f4cf56151dbca7f4b93230986c5acc52eb775",
+ "rendicoes": {
+  "png": {
+   "bytes": 5998,
+   "sha256": "37ddcd142436198c198eb6a09fd5dd0a30160c19b45899a51fed4d1e0209d20e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10131,
+   "sha256": "ab61f2b29e0c951a5fae788acf0de0021fd87c12ec93aab4fc5744415d168000",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4205704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4205704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4205704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4205704.png",
+  "bytes": 3718,
+  "sha256": "be0e6e5f27fc71084e2f1d142e8f4cf56151dbca7f4b93230986c5acc52eb775"
+ },
+ "sha1_origem": "eac4d7ef5308ecebb5c72a0143494d13bc026052",
+ "bytes_origem": 3718,
+ "capturado_em": "2026-11-08T06:53:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-garopaba.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "eac4d7ef5308ecebb5c72a0143494d13bc026052"
+ }
+}

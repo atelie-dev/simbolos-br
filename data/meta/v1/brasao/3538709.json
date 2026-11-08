@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3538709",
+ "uf": "SP",
+ "municipio": "Piracicaba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bras%C3%A3o_de_Piracicaba_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d8853dd3584572dc8f8612cd119bad16d0fe330e7e42f437fb0af3f0c9021885",
+ "rendicoes": {
+  "png": {
+   "bytes": 191186,
+   "sha256": "ced9e79c4df52ba72d6f19b0145d8f28b9d1b5ac003f3d938cccabcc6a24890d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60533,
+   "sha256": "fe40218099a1adfe8035c9c58fc3bf9707bc71336c0664e52aa0ddfe311f285a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 411595,
+   "sha256": "d8853dd3584572dc8f8612cd119bad16d0fe330e7e42f437fb0af3f0c9021885"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3538709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3538709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3538709.jpg"
+ },
+ "sha1_origem": "97f7fdf59d3fde9d79063d834c13d0ba0dbce3c7",
+ "bytes_origem": 411595,
+ "capturado_em": "2026-11-08T04:12:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Piracicaba_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:09Z",
+  "estado": "igual",
+  "sha1_commons": "97f7fdf59d3fde9d79063d834c13d0ba0dbce3c7"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3133808",
+ "uf": "MG",
+ "municipio": "Itaúna",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bras%C3%A3o_de_Ita%C3%BAna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Itaúna",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "697bea711baa9f01c799d5abf7e60b2d97a4ac790b9ff61714bda5cb97029798",
+ "rendicoes": {
+  "png": {
+   "bytes": 208000,
+   "sha256": "54c06cd0666891506adcbb4126cc9bb0837fcfaac451bed2f88973191d274cd2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53401,
+   "sha256": "07a6fd2b3acd2ac706a485b2ce1dd5a48938796073567b2dbfd6cdb5bb8b6e72",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3133808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3133808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3133808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3133808.jpg",
+  "bytes": 540569,
+  "sha256": "697bea711baa9f01c799d5abf7e60b2d97a4ac790b9ff61714bda5cb97029798"
+ },
+ "sha1_origem": "3afd3262d59f75edfb68612b9d8506a6c1dc596d",
+ "bytes_origem": 540569,
+ "capturado_em": "2026-11-08T06:09:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Itaúna.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "3afd3262d59f75edfb68612b9d8506a6c1dc596d"
+ }
+}

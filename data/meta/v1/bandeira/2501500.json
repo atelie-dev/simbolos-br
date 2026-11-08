@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2501500",
+ "uf": "PB",
+ "municipio": "Bananeiras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bandeirabananeiras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Bananeiras",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d77abc076e2395490ca12155de5a775763ff856fe6e8104d473c52f0e2224561",
+ "rendicoes": {
+  "png": {
+   "bytes": 27013,
+   "sha256": "45fbed78a5b0b226ee9ed3e354a45cd1721fab1c4c71eeae5e60a6618826dc82",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15889,
+   "sha256": "3eb7cfec405267205ad8fe763f7d4dc86f521423dd80be569eb044f14136831a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2501500.png",
+  "bytes": 375381,
+  "sha256": "d77abc076e2395490ca12155de5a775763ff856fe6e8104d473c52f0e2224561"
+ },
+ "sha1_origem": "b3409e7708872283aa10b88205ecc481536dd2e1",
+ "bytes_origem": 375381,
+ "capturado_em": "2026-11-08T05:39:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeirabananeiras.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "b3409e7708872283aa10b88205ecc481536dd2e1"
+ }
+}

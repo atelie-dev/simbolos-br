@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3150307",
+ "uf": "MG",
+ "municipio": "Piedade do Rio Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bandeira_de_Piedade_do_Rio_Grande.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Piedade do Rio Grande",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "40e8357d0d9c9be45b646a5d8fd0aeb2cd8e6098371269e6308f735a9463f9af",
+ "rendicoes": {
+  "png": {
+   "bytes": 79779,
+   "sha256": "4ce2cb4608b50c683167efe79070853cf4886b03c08f1964b11ba6b55a3845fe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30550,
+   "sha256": "c03ce758f8190770bd400dea2498b02ddce109635ea61248bd0f15426db445f5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3150307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3150307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3150307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3150307.png",
+  "bytes": 176948,
+  "sha256": "40e8357d0d9c9be45b646a5d8fd0aeb2cd8e6098371269e6308f735a9463f9af"
+ },
+ "sha1_origem": "4d4381c6c3c0dd21e9e7acb7ce305434f4678389",
+ "bytes_origem": 176948,
+ "capturado_em": "2026-11-08T06:13:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Piedade_do_Rio_Grande.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "4d4381c6c3c0dd21e9e7acb7ce305434f4678389"
+ }
+}

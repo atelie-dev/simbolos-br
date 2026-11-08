@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5104807",
+ "uf": "MT",
+ "municipio": "Jaciara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bandeira_de_Jaciara.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Jaciara",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "48762bbeed1c48c9955a2ff21cef77910631f72055048f076dcbe1823d8c4e8a",
+ "rendicoes": {
+  "png": {
+   "bytes": 9265,
+   "sha256": "2e1a4df24d2841fcdd23561cc7d3443cc8b81674c0111f5c3a705f58ee831942",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9772,
+   "sha256": "fdc7a5d7f2a82202a48e07b88de82838cd0ac3c20b690f0eb22a13ca06cb6e8e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5104807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5104807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5104807.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5104807.png",
+  "bytes": 3363,
+  "sha256": "48762bbeed1c48c9955a2ff21cef77910631f72055048f076dcbe1823d8c4e8a"
+ },
+ "sha1_origem": "44f84a1d47494083dd76a6cd7289a7ebea49403f",
+ "bytes_origem": 3363,
+ "capturado_em": "2026-11-08T07:14:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Jaciara.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "44f84a1d47494083dd76a6cd7289a7ebea49403f"
+ }
+}

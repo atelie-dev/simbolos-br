@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5213004",
+ "uf": "GO",
+ "municipio": "Maurilândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Mauril%C3%A2ndia_Flag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Buenonet",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1271a01b93ea3f196750af53083d4ee1f682ab50b1118b576cffd29433873d00",
+ "rendicoes": {
+  "png": {
+   "bytes": 34789,
+   "sha256": "55b0a56c72887d7b5b55145acbc5890df8b73a9f1feebf9dc5f54accb9afe686",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14059,
+   "sha256": "d795e923cf5f93955a78619c8f9b95efa9f30e8eae50176c7a0c9a0c1a2d20a4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5213004.jpg",
+  "bytes": 13730,
+  "sha256": "1271a01b93ea3f196750af53083d4ee1f682ab50b1118b576cffd29433873d00"
+ },
+ "sha1_origem": "27e688d91589f796318c0009a737ca431b005483",
+ "bytes_origem": 13730,
+ "capturado_em": "2026-11-08T07:19:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Maurilândia_Flag.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "27e688d91589f796318c0009a737ca431b005483"
+ }
+}

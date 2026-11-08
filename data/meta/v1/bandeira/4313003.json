@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4313003",
+ "uf": "RS",
+ "municipio": "Nova Bréscia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bandeira_de_Nova_Br%C3%A9scia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Dukabarbieri",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0e0c3faf14fe72854b5674991dc122803ba2806c8b206c9158b8226365840fb0",
+ "rendicoes": {
+  "png": {
+   "bytes": 69328,
+   "sha256": "1514c9aa8cc6db28fabe7653467b1771965b18a1b3cc699a4881745b7a734424",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21142,
+   "sha256": "b45fe5403ff20bf0da10c9c9cb26eb080926332d86fde2b38de6c691517d019f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4313003.jpg",
+  "bytes": 90511,
+  "sha256": "0e0c3faf14fe72854b5674991dc122803ba2806c8b206c9158b8226365840fb0"
+ },
+ "sha1_origem": "7b31ca21134cdad6b75537b89405f57e87d48754",
+ "bytes_origem": 90511,
+ "capturado_em": "2026-11-08T07:06:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nova_Bréscia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "7b31ca21134cdad6b75537b89405f57e87d48754"
+ }
+}

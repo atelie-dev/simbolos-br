@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4307609",
+ "uf": "RS",
+ "municipio": "Estância Velha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bras%C3%A3o_Estancia_Velha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Estãncia Velha.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c5dc96291f9bc9c18018769883bac4b61385e0fb9c77bc8cd07b5af4a90f4ce5",
+ "rendicoes": {
+  "png": {
+   "bytes": 92499,
+   "sha256": "30da31ef0eff11e2919c08afab5188fecd807c19bd934a2798e21413ef0aafd3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21083,
+   "sha256": "811626673b9cafa2c9fc789330670511b22252a6cd80bc26a4b381b71a5f068b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4307609.jpg",
+  "bytes": 13272,
+  "sha256": "c5dc96291f9bc9c18018769883bac4b61385e0fb9c77bc8cd07b5af4a90f4ce5"
+ },
+ "sha1_origem": "eeb02dee91ba9976b5d9fe248d8dff7de3d2decf",
+ "bytes_origem": 13272,
+ "capturado_em": "2026-11-08T07:02:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Estancia_Velha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "eeb02dee91ba9976b5d9fe248d8dff7de3d2decf"
+ }
+}

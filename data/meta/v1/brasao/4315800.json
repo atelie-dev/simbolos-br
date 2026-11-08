@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4315800",
+ "uf": "RS",
+ "municipio": "Roca Sales",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bras%C3%A3o_Roca_Sales.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Roca Sales",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a336b8390cbd5363e4d362a71af78e2cae14dc44255f72f572d3d195a2f0e026",
+ "rendicoes": {
+  "png": {
+   "bytes": 71183,
+   "sha256": "335cf701518a455c19124863d5ae4fb705870da969b847e5661a58df86f313ea",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16775,
+   "sha256": "8fe62bdd0ef4334d490f117f0e6382c9a1e3d14b0a86ea3c2f9ba4d6f5ab9a19",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4315800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4315800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4315800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4315800.jpg",
+  "bytes": 13768,
+  "sha256": "a336b8390cbd5363e4d362a71af78e2cae14dc44255f72f572d3d195a2f0e026"
+ },
+ "sha1_origem": "2c6b25548e77ba71b0eff1f6456e409693187f25",
+ "bytes_origem": 13768,
+ "capturado_em": "2026-11-08T07:08:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Roca_Sales.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:53Z",
+  "estado": "igual",
+  "sha1_commons": "2c6b25548e77ba71b0eff1f6456e409693187f25"
+ }
+}

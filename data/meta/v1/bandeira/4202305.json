@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4202305",
+ "uf": "SC",
+ "municipio": "Biguaçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bandeira_Biguacu_SantaCatarina_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Biguaçu",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c9bd44e1cda0fac24154c694d4d55daad79bf67e62df51158091dc107c9db308",
+ "rendicoes": {
+  "png": {
+   "bytes": 52387,
+   "sha256": "bf9f75204d4ed8eff5a3dab5e859e3a3c5db5a562ee2d4beea61fa5ca3209798",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22645,
+   "sha256": "acd5016d1e3d8c0bfc74ee757dcc64c69e3a4dc4cd6f6555f060bbaa55aee8ce",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 596098,
+   "sha256": "c9bd44e1cda0fac24154c694d4d55daad79bf67e62df51158091dc107c9db308"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202305.jpg"
+ },
+ "sha1_origem": "a14e8ff2fc6303843c13337aa495b1be6dfdc896",
+ "bytes_origem": 596098,
+ "capturado_em": "2026-11-08T04:36:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Biguacu_SantaCatarina_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "a14e8ff2fc6303843c13337aa495b1be6dfdc896"
+ }
+}

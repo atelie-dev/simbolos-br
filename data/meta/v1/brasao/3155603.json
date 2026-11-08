@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3155603",
+ "uf": "MG",
+ "municipio": "Rio Pardo de Minas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Brasao_rio_pardo_de_minas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Rio Pardo de Minas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d77d6fc497977934aeb6cb7c32ba533dd3739a60967c3231e7504176fbbe4200",
+ "rendicoes": {
+  "png": {
+   "bytes": 47790,
+   "sha256": "2745733c9125bfb274f66152cfddb98637da8051f4ad7ee12df4b34464f97df6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10196,
+   "sha256": "f30f899c0d3adf73d840230b9cdd09c7b18ca22ab4f5afd593351e253b754ae0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3155603.jpg",
+  "bytes": 10167,
+  "sha256": "d77d6fc497977934aeb6cb7c32ba533dd3739a60967c3231e7504176fbbe4200"
+ },
+ "sha1_origem": "49d91e611ad91d65979f0a9441953db96a6cf752",
+ "bytes_origem": 10167,
+ "capturado_em": "2026-11-08T06:14:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_rio_pardo_de_minas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "49d91e611ad91d65979f0a9441953db96a6cf752"
+ }
+}

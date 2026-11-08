@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1500602",
+ "uf": "PA",
+ "municipio": "Altamira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bras%C3%A3o_de_Altamira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8858357e47ed6dbfb903311afb6b2c97cf51ff3ed834a4a79ce4efca4462ebb0",
+ "rendicoes": {
+  "png": {
+   "bytes": 211035,
+   "sha256": "2865ce81778e58e6958c7bf0d4c32b4cc3f7b7c8ff49b1e6164bbd42a0be988e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32429,
+   "sha256": "558161852d94968e4d987a76cdb585fee1d5ce971af21195d622db2006a4e51e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1500602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1500602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1500602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1500602.jpg",
+  "bytes": 120745,
+  "sha256": "8858357e47ed6dbfb903311afb6b2c97cf51ff3ed834a4a79ce4efca4462ebb0"
+ },
+ "sha1_origem": "7e365c60a0d49e14dce09fd1cddcdd2aa2095630",
+ "bytes_origem": 120745,
+ "capturado_em": "2026-11-08T05:23:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Altamira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "7e365c60a0d49e14dce09fd1cddcdd2aa2095630"
+ }
+}

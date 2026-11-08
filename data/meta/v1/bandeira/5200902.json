@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5200902",
+ "uf": "GO",
+ "municipio": "Amorinópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bandeira_de_Amorin%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Amorinópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e945ee207ba2f8719af4d5b5d19cf053793c86dd7171a02224d760300c0a2aa1",
+ "rendicoes": {
+  "png": {
+   "bytes": 22898,
+   "sha256": "8d5e932ece5cfb23c7103317dfb443eb01fa799d4e6d1380fccec631c4cfca45",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7570,
+   "sha256": "93b9565b1f0ec37c815f14e081d10ecac734a9fde21160715d529516135f5c5b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5200902.jpg",
+  "bytes": 7607,
+  "sha256": "e945ee207ba2f8719af4d5b5d19cf053793c86dd7171a02224d760300c0a2aa1"
+ },
+ "sha1_origem": "e031ef0e21127e57bf70b17a7a80a43d66e30657",
+ "bytes_origem": 7607,
+ "capturado_em": "2026-11-08T07:16:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Amorinópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "e031ef0e21127e57bf70b17a7a80a43d66e30657"
+ }
+}

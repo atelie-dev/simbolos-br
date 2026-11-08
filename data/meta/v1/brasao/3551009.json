@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3551009",
+ "uf": "SP",
+ "municipio": "São Vicente",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bras%C3%A3o_do_munic%C3%ADpio_de_S%C3%A3o_Vicente.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "82b6ce11702fdf024760fbfd6acc54b26b968bd3685fd544c211ef202dfe839e",
+ "rendicoes": {
+  "png": {
+   "bytes": 259333,
+   "sha256": "d708463bd75f75060469837d0461d60757d77ac5fa78ca601431b41eade1fadd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 70304,
+   "sha256": "20b1ace753ceb9b601e14cfaffb75e818640cc3e2af08ca49cb90182747aabf3",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 403848,
+   "sha256": "82b6ce11702fdf024760fbfd6acc54b26b968bd3685fd544c211ef202dfe839e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3551009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3551009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3551009.jpg"
+ },
+ "sha1_origem": "6e24b55b5affcbfaf377b9ba14315f32d2041115",
+ "bytes_origem": 403848,
+ "capturado_em": "2026-11-08T04:17:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_São_Vicente.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:18Z",
+  "estado": "igual",
+  "sha1_commons": "6e24b55b5affcbfaf377b9ba14315f32d2041115"
+ }
+}

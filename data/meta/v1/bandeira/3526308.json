@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3526308",
+ "uf": "SP",
+ "municipio": "Lagoinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bandeira_Lagoinha_SaoPaulo_Brasil_2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "FORTES",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c05df6a431e8b682de25036604f512800b49d8d212eee7cf75b11f4e278294bc",
+ "rendicoes": {
+  "png": {
+   "bytes": 28934,
+   "sha256": "378d84d15146e24cb7a0e0c2ed6e4deefcc1b7066e9d8fae1e990fd93ce5f983",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18213,
+   "sha256": "f6b731c01512e5a72ed2ceab1ebf1b94662460317446df4109b61d90eda5b15d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 7656,
+   "sha256": "c05df6a431e8b682de25036604f512800b49d8d212eee7cf75b11f4e278294bc"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3526308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3526308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3526308.jpg"
+ },
+ "sha1_origem": "bad950526265458ec0d5252c03e2032ad926a0c4",
+ "bytes_origem": 7656,
+ "capturado_em": "2026-11-08T04:07:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Lagoinha_SaoPaulo_Brasil_2.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "bad950526265458ec0d5252c03e2032ad926a0c4"
+ }
+}

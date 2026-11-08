@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3305505",
+ "uf": "RJ",
+ "municipio": "Saquarema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bandeira-de-Saquarema.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Torimem",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "439e699603825863a123a10d2d1373256f66edff360a80aece7a293511f9b960",
+ "rendicoes": {
+  "png": {
+   "bytes": 63651,
+   "sha256": "3ab6c0f792a46b2716f34afa5c78d13ffe40da58428448041f4206621b349694",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25638,
+   "sha256": "530e98e999860cda3301f3a1b7ee19962e3c9474af452b46e0b25db77dc63698",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1162868,
+   "sha256": "439e699603825863a123a10d2d1373256f66edff360a80aece7a293511f9b960"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305505.jpg"
+ },
+ "sha1_origem": "e2b4f8bd9cc25bbc83b3c8961c0b8c4777fb2798",
+ "bytes_origem": 1162868,
+ "capturado_em": "2026-11-08T03:56:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-de-Saquarema.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "e2b4f8bd9cc25bbc83b3c8961c0b8c4777fb2798"
+ }
+}

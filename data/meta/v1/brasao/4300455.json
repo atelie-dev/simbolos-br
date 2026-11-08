@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4300455",
+ "uf": "RS",
+ "municipio": "Alegria",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bras%C3%A3o_Alegria_RS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b5a1c10e4e8ae8a11a4d7c4d7a148d22cf239711acbe76f42c741284edbff1c2",
+ "rendicoes": {
+  "png": {
+   "bytes": 30578,
+   "sha256": "3f92e1b0a9c213da363650b85c637f71998c9a5abbea67ae9383d445d47a7a0a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8708,
+   "sha256": "f73b00559875751262f9c7bb54982f2293990fe6d1a8174539b8f75f500194f6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300455.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300455.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300455.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4300455.png",
+  "bytes": 21865,
+  "sha256": "b5a1c10e4e8ae8a11a4d7c4d7a148d22cf239711acbe76f42c741284edbff1c2"
+ },
+ "sha1_origem": "4ae49559131603f0ace0260e819b3655e921d59f",
+ "bytes_origem": 21865,
+ "capturado_em": "2026-11-08T06:58:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Alegria_RS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "4ae49559131603f0ace0260e819b3655e921d59f"
+ }
+}

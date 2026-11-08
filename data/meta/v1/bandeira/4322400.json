@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4322400",
+ "uf": "RS",
+ "municipio": "Uruguaiana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/95/Uruguaiana-bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMU",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "79bb35043b88362a5a3a3384f14ff97011875250e9704ba2a4acfe034fe1a452",
+ "rendicoes": {
+  "png": {
+   "bytes": 57473,
+   "sha256": "80f46e9e1b20b517d0d10040dc07f65c6a18f19dbe133e383d4e8c840ecf2732",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24419,
+   "sha256": "6d096b9a7c6d68ea8349661b045045268529a024b1768d0204a997db0f767d76",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4322400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4322400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4322400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4322400.jpg",
+  "bytes": 2975753,
+  "sha256": "79bb35043b88362a5a3a3384f14ff97011875250e9704ba2a4acfe034fe1a452"
+ },
+ "sha1_origem": "2901e697b5731e68094a2456ad734490623df816",
+ "bytes_origem": 2975753,
+ "capturado_em": "2026-11-08T07:11:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Uruguaiana-bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "2901e697b5731e68094a2456ad734490623df816"
+ }
+}

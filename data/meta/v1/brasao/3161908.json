@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3161908",
+ "uf": "MG",
+ "municipio": "São Gonçalo do Rio Abaixo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Brasao-saogon%C3%A7alodorioabaixo-mg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMSGRA",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3ebfb6acf9e7c00b3141e476d46f4df39c081387aa5e55855ea477d6a21c5326",
+ "rendicoes": {
+  "png": {
+   "bytes": 306578,
+   "sha256": "eaebb650aca46fbb33d6d815a4805b597ee28b741dfa4a3040c5ee3c33218cbe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44488,
+   "sha256": "9d92f5fe23f947833bd228fabaa7d4ca7a59e6b38aee4aeb09e8bfa945abb6d3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3161908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3161908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3161908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3161908.jpg",
+  "bytes": 100088,
+  "sha256": "3ebfb6acf9e7c00b3141e476d46f4df39c081387aa5e55855ea477d6a21c5326"
+ },
+ "sha1_origem": "040ef5ac7ded3c56c44236cfc8d785ded6def9c8",
+ "bytes_origem": 100088,
+ "capturado_em": "2026-11-08T06:16:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-saogonçalodorioabaixo-mg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "040ef5ac7ded3c56c44236cfc8d785ded6def9c8"
+ }
+}

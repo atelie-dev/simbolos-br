@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3128501",
+ "uf": "MG",
+ "municipio": "Guarará",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bras%C3%A3o_da_Cidade_%28Munic%C3%ADpio%29_de_Guarar%C3%A1-MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "www.guarara.mg.gov.br/",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "51a704a15fa0e985a526a930c8d087d220925f574ebacbb1fa4f281ecafea65c",
+ "rendicoes": {
+  "png": {
+   "bytes": 242879,
+   "sha256": "4412a8c486d088cac0dc9c64ce81f1c67de54ab8bc2da4230b5e070b0cd2f5f6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 50413,
+   "sha256": "ee287e1ad3da0f11187e16cb2ff1b51a2c5da64e98b5380b223f78a200a437a2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3128501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3128501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3128501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3128501.jpg",
+  "bytes": 85890,
+  "sha256": "51a704a15fa0e985a526a930c8d087d220925f574ebacbb1fa4f281ecafea65c"
+ },
+ "sha1_origem": "b88ddccb792939bed9c3b745c32f23a9d4cb51a7",
+ "bytes_origem": 85890,
+ "capturado_em": "2026-11-08T06:08:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_da_Cidade_(Município)_de_Guarará-MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "b88ddccb792939bed9c3b745c32f23a9d4cb51a7"
+ }
+}

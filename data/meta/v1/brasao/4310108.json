@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4310108",
+ "uf": "RS",
+ "municipio": "Igrejinha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bras%C3%A3o_de_Igrejinha.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Igrejinha",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "70a7cc55f7d8b33605a655a50806d2d5fcff11773ab38d01dfb92f5ee689456c",
+ "rendicoes": {
+  "png": {
+   "bytes": 157630,
+   "sha256": "ae35c4417844634fbc16499ada7da511bee3bd2dc5d786daebecfbeaa22a86b8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 70734,
+   "sha256": "55a8169b0dcdceab9fe1ee814ae2a27fbe7fae6f89adb97944c14ade9589baad",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 215100,
+   "sha256": "70a7cc55f7d8b33605a655a50806d2d5fcff11773ab38d01dfb92f5ee689456c"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4310108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4310108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4310108.jpg"
+ },
+ "sha1_origem": "600cbaa3bb82e15e0318236455eaa01c12e6ffa3",
+ "bytes_origem": 215100,
+ "capturado_em": "2026-11-08T04:53:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Igrejinha.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "600cbaa3bb82e15e0318236455eaa01c12e6ffa3"
+ }
+}

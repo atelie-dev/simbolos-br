@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3139805",
+ "uf": "MG",
+ "municipio": "Mar de Espanha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bandeira_mar_de_espanha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Mar de Espanha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3a6ee9d676c9f3b9ab8fb9eada1d7d100b0785604d20ae00301d93e0e699a8d4",
+ "rendicoes": {
+  "png": {
+   "bytes": 12105,
+   "sha256": "94e0ce8070b55734d779da9ab797c7efbf17cb21ba9ba27efea0fe5c3e4bbb1c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5145,
+   "sha256": "d914c3ff2b11bebccb98ebbdc306deaf8529695a9a772914a6d386cc132a2fa7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3139805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3139805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3139805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3139805.jpg",
+  "bytes": 6631,
+  "sha256": "3a6ee9d676c9f3b9ab8fb9eada1d7d100b0785604d20ae00301d93e0e699a8d4"
+ },
+ "sha1_origem": "4ab2aba8467a49a135f4cbb44b35672c77e97ade",
+ "bytes_origem": 6631,
+ "capturado_em": "2026-11-08T06:10:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_mar_de_espanha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "4ab2aba8467a49a135f4cbb44b35672c77e97ade"
+ }
+}

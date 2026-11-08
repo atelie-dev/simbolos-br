@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3529005",
+ "uf": "SP",
+ "municipio": "Marília",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bras%C3%A3o_de_Mar%C3%ADlia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Marília",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7cc71f2a37e91478d1e4b1736a2cd5b5e8bdc87e3220986d89a9985aa86b8ac3",
+ "rendicoes": {
+  "png": {
+   "bytes": 168308,
+   "sha256": "6ce642298da78908464bae70b7acef185041005ab5f1eb5897eee645bb9385ab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54597,
+   "sha256": "2242376258fa101b958989066167afc058f659c17c8f4a9c0f81e38d3f1e4f99",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3529005.png",
+  "bytes": 1048714,
+  "sha256": "7cc71f2a37e91478d1e4b1736a2cd5b5e8bdc87e3220986d89a9985aa86b8ac3"
+ },
+ "sha1_origem": "001d9cd9329eaeb3a81dde4050b4306ba1ac9fb8",
+ "bytes_origem": 1048714,
+ "capturado_em": "2026-11-08T06:31:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Marília.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:06Z",
+  "estado": "igual",
+  "sha1_commons": "001d9cd9329eaeb3a81dde4050b4306ba1ac9fb8"
+ }
+}

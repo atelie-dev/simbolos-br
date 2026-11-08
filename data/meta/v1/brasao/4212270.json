@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4212270",
+ "uf": "SC",
+ "municipio": "Passos Maia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bras%C3%A3o_do_munic%C3%ADpio_de_Passos_Maia_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Passos Maia (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ad6fa57cf9506c199045f62a4ccf3abde464374528bf4d170a10eafd1d0e3086",
+ "rendicoes": {
+  "png": {
+   "bytes": 322841,
+   "sha256": "b15f68f9ec97c5d2e89ee307560369b636afb1aa8739ae788825e89187df2987",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 69771,
+   "sha256": "dafa9b29c99c60284a77b2f04185f73a533c3eed921a1a6153bd92469d25446e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4212270.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4212270.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4212270.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4212270.png",
+  "bytes": 939348,
+  "sha256": "ad6fa57cf9506c199045f62a4ccf3abde464374528bf4d170a10eafd1d0e3086"
+ },
+ "sha1_origem": "ac53b1147ed32c41d100933e55e32207a0c9bc56",
+ "bytes_origem": 939348,
+ "capturado_em": "2026-11-08T06:55:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Passos_Maia_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "ac53b1147ed32c41d100933e55e32207a0c9bc56"
+ }
+}

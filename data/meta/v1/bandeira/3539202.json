@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3539202",
+ "uf": "SP",
+ "municipio": "Pirapozinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bandeira_de_Pirapozinho%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de pirapozinho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f01a4ddc891cd7ffdc6ac218689d46acc602267215e96368c3116bcd97431e35",
+ "rendicoes": {
+  "png": {
+   "bytes": 62254,
+   "sha256": "95577cc8954b512a3721a6be7339ddff02c504ad73490f7a29f4841cae119e59",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26363,
+   "sha256": "3f21ad79a7860fac6c3304109660477b2cb20f20a9d71f19c53f099ca533de4d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3539202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3539202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3539202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3539202.jpg",
+  "bytes": 444907,
+  "sha256": "f01a4ddc891cd7ffdc6ac218689d46acc602267215e96368c3116bcd97431e35"
+ },
+ "sha1_origem": "eda69d55998052d22a77622c6ff65eacb3f75a68",
+ "bytes_origem": 444907,
+ "capturado_em": "2026-11-08T06:35:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pirapozinho,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "eda69d55998052d22a77622c6ff65eacb3f75a68"
+ }
+}

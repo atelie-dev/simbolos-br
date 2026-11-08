@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4201000",
+ "uf": "SC",
+ "municipio": "Anita Garibaldi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bras%C3%A3o_do_munic%C3%ADpio_de_Anita_Garibaldi_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Anita Garibaldi (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "52767430af13106f7f4369f525f557585a4e62ca20c6183a41c6748c6fee29f8",
+ "rendicoes": {
+  "png": {
+   "bytes": 185448,
+   "sha256": "deb3cba2bd1a86af18449d8baa48def5bd04ca4b347eaa323b69f6c43502d183",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 65178,
+   "sha256": "fa7cbce61aa2d09026c928fc9f71249db49802fc57ce0610ad4701e44ae96806",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4201000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4201000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4201000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4201000.png",
+  "bytes": 524665,
+  "sha256": "52767430af13106f7f4369f525f557585a4e62ca20c6183a41c6748c6fee29f8"
+ },
+ "sha1_origem": "33eddb966b04798250ed23f0c094c024e723e7ec",
+ "bytes_origem": 524665,
+ "capturado_em": "2026-11-08T06:51:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Anita_Garibaldi_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:16Z",
+  "estado": "igual",
+  "sha1_commons": "33eddb966b04798250ed23f0c094c024e723e7ec"
+ }
+}

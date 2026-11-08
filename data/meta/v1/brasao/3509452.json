@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3509452",
+ "uf": "SP",
+ "municipio": "Campina do Monte Alegre",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Campina_do_Monte_Alegre.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "399c319f7ab029dbc6391a1564517fd75bce829beec51a58f192c2aa0f1d0626",
+ "rendicoes": {
+  "png": {
+   "bytes": 371968,
+   "sha256": "0bab8a4ada42d65f0cc27241195d1cdb8a6eb9b9debeaeb6aeb01a21a5b21b0a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 82084,
+   "sha256": "e8c6d5f9be558a1c656c3d34d2ceb894324f75acd4936d634d65a806aa09f62f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509452.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509452.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509452.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3509452.png",
+  "bytes": 393018,
+  "sha256": "399c319f7ab029dbc6391a1564517fd75bce829beec51a58f192c2aa0f1d0626"
+ },
+ "sha1_origem": "61023cbf475d46582bb36a1a9e29e2ff072fa50e",
+ "bytes_origem": 393018,
+ "capturado_em": "2026-11-08T06:25:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Campina_do_Monte_Alegre.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "61023cbf475d46582bb36a1a9e29e2ff072fa50e"
+ }
+}

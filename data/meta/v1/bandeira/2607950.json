@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2607950",
+ "uf": "PE",
+ "municipio": "Jaqueira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bandeira_jaqueira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a0e9226a70958302bcea16298b0985c4ebcc6b0d05cdbabcb644657ae4ebaf0c",
+ "rendicoes": {
+  "png": {
+   "bytes": 5123,
+   "sha256": "22f7cc4b59e3639761d267f9a63ec3266291c84a0d88974c4448995488063ae4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4229,
+   "sha256": "5dbd88d84f4102a2e2348b2cbaad2e5bef4171b14ba39fae29220d83a682713f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2607950.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2607950.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2607950.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2607950.png",
+  "bytes": 2284,
+  "sha256": "a0e9226a70958302bcea16298b0985c4ebcc6b0d05cdbabcb644657ae4ebaf0c"
+ },
+ "sha1_origem": "ee8d83315573715f6ab13b3cb2954a5d1b7265ba",
+ "bytes_origem": 2284,
+ "capturado_em": "2026-11-08T05:45:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_jaqueira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "ee8d83315573715f6ab13b3cb2954a5d1b7265ba"
+ }
+}

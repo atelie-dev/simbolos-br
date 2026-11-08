@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3523305",
+ "uf": "SP",
+ "municipio": "Itariri",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bandeira_itariri.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fbff9586efb119054887c991d92642dede3bde1a4161edff2582bd913166d41f",
+ "rendicoes": {
+  "png": {
+   "bytes": 9676,
+   "sha256": "15c2c6b7627feb8f39e95856c0a329fe3e391bb7c782302a834eac4269689cab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6008,
+   "sha256": "d37a46accc371d5903c6814a714537b25f8abda5b1655f0c33b54d85e6aa8d21",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3523305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3523305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3523305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3523305.png",
+  "bytes": 3990,
+  "sha256": "fbff9586efb119054887c991d92642dede3bde1a4161edff2582bd913166d41f"
+ },
+ "sha1_origem": "f8dcac68fd176d3930544b07b045624efa0c003c",
+ "bytes_origem": 3990,
+ "capturado_em": "2026-11-08T06:30:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_itariri.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "f8dcac68fd176d3930544b07b045624efa0c003c"
+ }
+}

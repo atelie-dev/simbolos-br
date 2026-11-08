@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4307609",
+ "uf": "RS",
+ "municipio": "Estância Velha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bandeira_Est%C3%A2ncia_Velha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Estância Velha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cd5d95a35e522c71a7f8f8f1d77a1b33ec65adbd4532bd232129c5125a3f069c",
+ "rendicoes": {
+  "png": {
+   "bytes": 73502,
+   "sha256": "6b1d3be58e38b105ae82d129620213d959bbee69399d3af85bf4c7d11a02f71d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20018,
+   "sha256": "faab267ddc4bc9536b8e0c4f231ed0458a37bb3ae29f29cfe3657689f0733f01",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4307609.jpg",
+  "bytes": 37930,
+  "sha256": "cd5d95a35e522c71a7f8f8f1d77a1b33ec65adbd4532bd232129c5125a3f069c"
+ },
+ "sha1_origem": "c4ae0340bc806e01fa28e8497327d259ae1af9a0",
+ "bytes_origem": 37930,
+ "capturado_em": "2026-11-08T07:02:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Estância_Velha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "c4ae0340bc806e01fa28e8497327d259ae1af9a0"
+ }
+}

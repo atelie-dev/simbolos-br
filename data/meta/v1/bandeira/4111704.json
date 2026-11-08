@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4111704",
+ "uf": "PR",
+ "municipio": "Jaboti",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bandeira_Jaboti.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c962468e4f7fce2fbc1c031d9d11fa03150be083eeb5f79facbf73344aa79726",
+ "rendicoes": {
+  "png": {
+   "bytes": 65210,
+   "sha256": "7e99248fa53f7bc5c0510d14be7c7c2c1ee7553b6fd7ac29135de47664fc60ab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22597,
+   "sha256": "fea785c145f0363484607fb8eb1c62d6d87d2ffda71d869922afe7ea60850639",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4111704.png",
+  "bytes": 152568,
+  "sha256": "c962468e4f7fce2fbc1c031d9d11fa03150be083eeb5f79facbf73344aa79726"
+ },
+ "sha1_origem": "49cd77e93de3819441bb59e11bf65df0c5b0589d",
+ "bytes_origem": 152568,
+ "capturado_em": "2026-11-08T06:45:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Jaboti.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "49cd77e93de3819441bb59e11bf65df0c5b0589d"
+ }
+}

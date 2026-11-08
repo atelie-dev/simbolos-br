@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3123601",
+ "uf": "MG",
+ "municipio": "Elói Mendes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bandeira_de_El%C3%B3i_Mendes%2C_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Dr.Paulo Braga de Menezes & José Aguilera e Silva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "11ca1d9b0de7e0efebbf0f49a69a65cf236f2f3b17ef3ba3227bf976467ecf60",
+ "rendicoes": {
+  "png": {
+   "bytes": 22874,
+   "sha256": "3a32680461efbf6e82555ee16cad22d6db3d19e54d6504f45ea70c144c78570d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8885,
+   "sha256": "2131888269349d80b150b349aa04bc72c0fc35b7292ef866efe31171f35e6547",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3123601.jpg",
+  "bytes": 6807,
+  "sha256": "11ca1d9b0de7e0efebbf0f49a69a65cf236f2f3b17ef3ba3227bf976467ecf60"
+ },
+ "sha1_origem": "c2112374e3e7fc76944f8bbf3a62399f7c117d9a",
+ "bytes_origem": 6807,
+ "capturado_em": "2026-11-08T06:06:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Elói_Mendes,_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "c2112374e3e7fc76944f8bbf3a62399f7c117d9a"
+ }
+}

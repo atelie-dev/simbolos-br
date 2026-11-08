@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3105707",
+ "uf": "MG",
+ "municipio": "Barra Longa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_Barra_Longa_-_MG_-_Brazil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pcgomes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "749bff2196761b3ee39ba85f9231d6ef5cf45eae900a327604d4e9b958fc4134",
+ "rendicoes": {
+  "png": {
+   "bytes": 56707,
+   "sha256": "d68df7845859b68c7f3eec6628c3ea3461b44b9ea7a5aa5755a355860950d2bc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13488,
+   "sha256": "9a167d9805eaf9dbcca1de4beaef6fa95c40d53da4735c55fd2d5e67b1cc7566",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3105707.png",
+  "bytes": 92244,
+  "sha256": "749bff2196761b3ee39ba85f9231d6ef5cf45eae900a327604d4e9b958fc4134"
+ },
+ "sha1_origem": "756ac8cccd15a203c57510e8748f803246716aca",
+ "bytes_origem": 92244,
+ "capturado_em": "2026-11-08T06:00:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Barra_Longa_-_MG_-_Brazil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "756ac8cccd15a203c57510e8748f803246716aca"
+ }
+}

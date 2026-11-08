@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5106372",
+ "uf": "MT",
+ "municipio": "Pedra Preta",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bandeira_de_Pedra_Preta_-_MT.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d6c0240b4d18621d6b652647c25927ba443434421ee91f2d2da28321450b0b2b",
+ "rendicoes": {
+  "png": {
+   "bytes": 43084,
+   "sha256": "03754f7b994f041b28e8865b0d4c13ee1f280b36374502e9513e7aaef691e1b3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19486,
+   "sha256": "3f7c23cfa64c6f41bdb3992c706aa960d72a10c7af5fd833b4139ad1b523ec90",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 317254,
+   "sha256": "d6c0240b4d18621d6b652647c25927ba443434421ee91f2d2da28321450b0b2b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106372.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106372.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106372.jpg"
+ },
+ "sha1_origem": "3fe0625256b220a875dbee3485a214f87d9d1628",
+ "bytes_origem": 317254,
+ "capturado_em": "2026-11-08T05:06:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pedra_Preta_-_MT.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "3fe0625256b220a875dbee3485a214f87d9d1628"
+ }
+}

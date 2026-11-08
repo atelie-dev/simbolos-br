@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2405801",
+ "uf": "RN",
+ "municipio": "João Câmara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Jo%C3%A3o_C%C3%A2mara_-_RN_-_Brazil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pcgomes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "047b7578235cd66df67c51fa7f6daf49349e27e25b956f7366fc06f00af0b97c",
+ "rendicoes": {
+  "png": {
+   "bytes": 47788,
+   "sha256": "3227c805d63a591248b8f3c8d9d229fadaf235752063c5bcd509f90be0b501b0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15612,
+   "sha256": "4fb34de32525ba0764054190807ca495b92c8ac42e12b93ccf62d28fbc8ee36f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2405801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2405801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2405801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2405801.png",
+  "bytes": 46428,
+  "sha256": "047b7578235cd66df67c51fa7f6daf49349e27e25b956f7366fc06f00af0b97c"
+ },
+ "sha1_origem": "014e9c3a4f1c99ce6f6f82e3db024352f358dc1d",
+ "bytes_origem": 46428,
+ "capturado_em": "2026-11-08T05:37:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_João_Câmara_-_RN_-_Brazil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "014e9c3a4f1c99ce6f6f82e3db024352f358dc1d"
+ }
+}

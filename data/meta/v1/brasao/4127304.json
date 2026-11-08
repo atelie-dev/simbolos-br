@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4127304",
+ "uf": "PR",
+ "municipio": "Terra Rica",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bras%C3%A3o_Terra_Rica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Indefinido",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "339e092d0d640035a2b79c3fa44cdb17afe3380c466bfd7f041a52363f8df38b",
+ "rendicoes": {
+  "png": {
+   "bytes": 57087,
+   "sha256": "8cbaea19c76c25d4780365a0e7da484f0cef18aa0475af3c57a923b4eff9eb2c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11408,
+   "sha256": "0e96c1f7224f9eafb0794d8ab5a08abf3102e3f55168fda9bfcdf546da17c209",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4127304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4127304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4127304.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4127304.jpg",
+  "bytes": 15304,
+  "sha256": "339e092d0d640035a2b79c3fa44cdb17afe3380c466bfd7f041a52363f8df38b"
+ },
+ "sha1_origem": "35d017a0e9329e996a34e83d80c28d21a5a1b5a2",
+ "bytes_origem": 15304,
+ "capturado_em": "2026-11-08T06:50:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Terra_Rica.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "35d017a0e9329e996a34e83d80c28d21a5a1b5a2"
+ }
+}

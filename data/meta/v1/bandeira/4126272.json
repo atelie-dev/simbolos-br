@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4126272",
+ "uf": "PR",
+ "municipio": "Saudade do Iguaçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bandeira_Saudade_do_Igua%C3%A7u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "849edced709abbcecb27265cd5fcf6d6d06c5f3add3e8eb4fd366461bb8e6f46",
+ "rendicoes": {
+  "png": {
+   "bytes": 38568,
+   "sha256": "df760a4d6a807a40f73ac1d1ae8a20c3ec47997a299f7d122f5413a601c6d7b7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9874,
+   "sha256": "4b5546cc3ba529ae28f178bf18dc45f8650c2f43c7ef790635753b7d7bc6224d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126272.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126272.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126272.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4126272.jpg",
+  "bytes": 4443,
+  "sha256": "849edced709abbcecb27265cd5fcf6d6d06c5f3add3e8eb4fd366461bb8e6f46"
+ },
+ "sha1_origem": "f6d982cb82fd275bf6c9361b6b36752f9fa4c5f4",
+ "bytes_origem": 4443,
+ "capturado_em": "2026-11-08T06:50:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Saudade_do_Iguaçu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "f6d982cb82fd275bf6c9361b6b36752f9fa4c5f4"
+ }
+}

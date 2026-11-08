@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3305802",
+ "uf": "RJ",
+ "municipio": "Teresópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bandeira_de_Teresopolis.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Eugenio Hansen, OFS",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "f73798afeb03481bdd786f0ccd809fb0121e7297900165f9baf0661c9d5166f7",
+ "rendicoes": {
+  "png": {
+   "bytes": 34396,
+   "sha256": "6d13d142f1ddaf138f0006dd36ae1cb6b2973e025141dd2fc0abeb407dec82b8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17417,
+   "sha256": "c9014ab80e38f4d2252998adf90aa6504a86260c4691a30904db68eb9b347787",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 53437,
+   "sha256": "f73798afeb03481bdd786f0ccd809fb0121e7297900165f9baf0661c9d5166f7"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305802.jpg"
+ },
+ "sha1_origem": "3ef4a6382237099d67fa3473420c3acb19d17e2b",
+ "bytes_origem": 53437,
+ "capturado_em": "2026-11-08T03:56:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Teresopolis.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "3ef4a6382237099d67fa3473420c3acb19d17e2b"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3523602",
+ "uf": "SP",
+ "municipio": "Itirapina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bras%C3%A3o_Itirapina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "74f62f6346fba88b2b3d8f7beb66e995f1324018a6825a38332299a4c9325bff",
+ "rendicoes": {
+  "png": {
+   "bytes": 54822,
+   "sha256": "2939450c9298ffc86a291b47baadad585f3db16212bb6adc87a4bffd3526e7fe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10465,
+   "sha256": "62c21564a1a19d61fe61fe5fcf1d723db1112895e80baa0150483f65d9329f2f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3523602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3523602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3523602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3523602.jpg",
+  "bytes": 10507,
+  "sha256": "74f62f6346fba88b2b3d8f7beb66e995f1324018a6825a38332299a4c9325bff"
+ },
+ "sha1_origem": "2dd2a1646b5a7481d72f9bf1d51585111ca703c0",
+ "bytes_origem": 10507,
+ "capturado_em": "2026-11-08T06:30:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Itirapina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "2dd2a1646b5a7481d72f9bf1d51585111ca703c0"
+ }
+}

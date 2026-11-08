@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3546702",
+ "uf": "SP",
+ "municipio": "Santa Gertrudes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bras%C3%A3o_Santa_Gertrudes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "05564806cf4ee3b91c06f3d10e951aeb1f63109d13e536328249149354d39f1a",
+ "rendicoes": {
+  "png": {
+   "bytes": 16214,
+   "sha256": "3c7d1a2de73184d75a6898e4bc20bc1fd79867c4401efaaa6643153d2139e650",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5281,
+   "sha256": "c68bbfd5efc37658e405de66fa721552276b937536ff2a588035b34dbec2d1e7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3546702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3546702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3546702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3546702.jpg",
+  "bytes": 3777,
+  "sha256": "05564806cf4ee3b91c06f3d10e951aeb1f63109d13e536328249149354d39f1a"
+ },
+ "sha1_origem": "e4f225d79de787d4279819acd15a62e06a82fe06",
+ "bytes_origem": 3777,
+ "capturado_em": "2026-11-08T06:37:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Santa_Gertrudes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "e4f225d79de787d4279819acd15a62e06a82fe06"
+ }
+}

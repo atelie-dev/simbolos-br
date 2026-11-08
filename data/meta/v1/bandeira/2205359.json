@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2205359",
+ "uf": "PI",
+ "municipio": "João Costa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bandeira_de_Jo%C3%A3o_Costa%2C_PI.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "A21ns1g4ts",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "77c300ecb34837d4ef6a4ff16b0694fad9ee50b53a0d4ccda6c165c927252f03",
+ "rendicoes": {
+  "png": {
+   "bytes": 51452,
+   "sha256": "e776736754c807896480e48bdc45258e5208410f46f5047e0c04e381a8345161",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13544,
+   "sha256": "167188e43e7d6f0a7b9efc800c17aeda6d496e2f0511f58b3eba766bd3300fa8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2205359.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2205359.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2205359.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2205359.png",
+  "bytes": 366210,
+  "sha256": "77c300ecb34837d4ef6a4ff16b0694fad9ee50b53a0d4ccda6c165c927252f03"
+ },
+ "sha1_origem": "afb446b2379b368f5317d166cf5f0b6be70ce49a",
+ "bytes_origem": 366210,
+ "capturado_em": "2026-11-08T05:30:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_João_Costa,_PI.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "afb446b2379b368f5317d166cf5f0b6be70ce49a"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3516853",
+ "uf": "SP",
+ "municipio": "Gavião Peixoto",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Gavi%C3%A3o_Peixoto.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6b3aba03b3bc92a834460b446d07451979fa7259e15fcdc6ea69ebe93db4966b",
+ "rendicoes": {
+  "png": {
+   "bytes": 437877,
+   "sha256": "629a4150e72cfdc04207b14a0956c1fdfeb312f584a5ac927e86708f03de403f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 79805,
+   "sha256": "bfc068c0fde505e55b43b7d92686a0f2148d3bfbb60fd82805804d9d1141831d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516853.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516853.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516853.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3516853.png",
+  "bytes": 359458,
+  "sha256": "6b3aba03b3bc92a834460b446d07451979fa7259e15fcdc6ea69ebe93db4966b"
+ },
+ "sha1_origem": "1a2db67cd751e086de64516e7acb715356f97046",
+ "bytes_origem": 359458,
+ "capturado_em": "2026-11-08T06:28:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Gavião_Peixoto.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "1a2db67cd751e086de64516e7acb715356f97046"
+ }
+}

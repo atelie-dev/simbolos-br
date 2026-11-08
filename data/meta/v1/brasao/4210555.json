@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4210555",
+ "uf": "SC",
+ "municipio": "Marema",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/50/Bras%C3%A3o_do_munic%C3%ADpio_de_Marema_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Marema (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b546f72249bd74827c1a7dbfc95f1314e29044deff02119483edcf70216889ec",
+ "rendicoes": {
+  "png": {
+   "bytes": 234273,
+   "sha256": "c6d73780950bb12651814e7d0cde8e6dbaec15674aa43682ab9e815c4a0cebca",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 71914,
+   "sha256": "cf68e46cba09441736cb04f5f525209748543425e5149a41ef7eb5005b634799",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210555.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210555.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210555.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4210555.png",
+  "bytes": 1674013,
+  "sha256": "b546f72249bd74827c1a7dbfc95f1314e29044deff02119483edcf70216889ec"
+ },
+ "sha1_origem": "7aa0dd1526862b9cf54c81991f4276154b7136c5",
+ "bytes_origem": 1674013,
+ "capturado_em": "2026-11-08T06:54:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Marema_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "7aa0dd1526862b9cf54c81991f4276154b7136c5"
+ }
+}

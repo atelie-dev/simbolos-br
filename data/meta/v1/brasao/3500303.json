@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3500303",
+ "uf": "SP",
+ "municipio": "Aguaí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Aguai_brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Aguaí",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9e9d66cdc46e9c2fb68ed4df75b57de0c076989bbc3e04f69f7e1870d158b841",
+ "rendicoes": {
+  "png": {
+   "bytes": 89727,
+   "sha256": "9640e4094122c43a9ef5ae9ad4dfd4edfb73bfd60b4b914c7efe63446a973f11",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24405,
+   "sha256": "db53209952b99f9df860825c19151792639183b69b81bc6efc53096d527a6ccf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3500303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3500303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3500303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3500303.png",
+  "bytes": 92345,
+  "sha256": "9e9d66cdc46e9c2fb68ed4df75b57de0c076989bbc3e04f69f7e1870d158b841"
+ },
+ "sha1_origem": "02d797ce83212e209e6b41b8cec26382b4304fe0",
+ "bytes_origem": 92345,
+ "capturado_em": "2026-11-08T06:22:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Aguai_brasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "02d797ce83212e209e6b41b8cec26382b4304fe0"
+ }
+}

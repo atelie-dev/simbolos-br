@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2305001",
+ "uf": "CE",
+ "municipio": "Guaraciaba do Norte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bandeira_guaraciaba_do_norte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Guaraciaba do Norte",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "346b70044162464a76a0f4e4aa128b7d1e5efafa8bb19e179c1e827dac70c8cb",
+ "rendicoes": {
+  "png": {
+   "bytes": 27281,
+   "sha256": "ce714c02b12ba2ba48e18d41d3809342d8248e7330f907b28a60231dd1c9897f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14668,
+   "sha256": "dd2c99c46803ffc0c75f0741899d86a72180e6b31096122a16514ad4b82d30bd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2305001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2305001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2305001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2305001.jpg",
+  "bytes": 16285,
+  "sha256": "346b70044162464a76a0f4e4aa128b7d1e5efafa8bb19e179c1e827dac70c8cb"
+ },
+ "sha1_origem": "6144d121f2173f76b32e1fefffd03f5a2aabceb3",
+ "bytes_origem": 16285,
+ "capturado_em": "2026-11-08T05:33:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_guaraciaba_do_norte.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "6144d121f2173f76b32e1fefffd03f5a2aabceb3"
+ }
+}

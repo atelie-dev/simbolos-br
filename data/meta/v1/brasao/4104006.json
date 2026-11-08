@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4104006",
+ "uf": "PR",
+ "municipio": "Campina Grande do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bras%C3%A3o_de_Campina_Grande_do_Sul.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bf7545d58b3e6c81ff3249331eb70cd821f7594748b3cd5ed9a0b984d7fdf84c",
+ "rendicoes": {
+  "png": {
+   "bytes": 220053,
+   "sha256": "f208d7c1155dd6323ed63ad159f20af25f9cb492c609ad1cf08f4e2d81608044",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43384,
+   "sha256": "92168438c8a0eefb96ad4ed3bdfb21752cc012bd53f0aef5c44ce7c3b7daf607",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4104006.jpg",
+  "bytes": 31555,
+  "sha256": "bf7545d58b3e6c81ff3249331eb70cd821f7594748b3cd5ed9a0b984d7fdf84c"
+ },
+ "sha1_origem": "0550c46e9e8b4a290c83bc9d200333f018214ff8",
+ "bytes_origem": 31555,
+ "capturado_em": "2026-11-08T06:42:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Campina_Grande_do_Sul.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "0550c46e9e8b4a290c83bc9d200333f018214ff8"
+ }
+}

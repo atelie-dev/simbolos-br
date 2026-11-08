@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3123809",
+ "uf": "MG",
+ "municipio": "Engenheiro Navarro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mg-engenheiro-navarro-brasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "562c5e81f408ebbe41cf6357fdc5cf61c731491a247ee7bb4a46ea65427c1642",
+ "rendicoes": {
+  "png": {
+   "bytes": 50559,
+   "sha256": "2ee1163f29191e9be5a70d1ac4e9882abc4af8697c4f90acf9a752ad41cb3b7c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10231,
+   "sha256": "0d7c1a669a314980f860f02f8b13681c62317ee7b3627219abc57ac06fd018c3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3123809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3123809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3123809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3123809.jpg",
+  "bytes": 5656,
+  "sha256": "562c5e81f408ebbe41cf6357fdc5cf61c731491a247ee7bb4a46ea65427c1642"
+ },
+ "sha1_origem": "e4cc64454c145eb4c7b6c105c6e0b4ccf6bfb1d4",
+ "bytes_origem": 5656,
+ "capturado_em": "2026-11-08T06:06:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Mg-engenheiro-navarro-brasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "e4cc64454c145eb4c7b6c105c6e0b4ccf6bfb1d4"
+ }
+}

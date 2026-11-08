@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4217204",
+ "uf": "SC",
+ "municipio": "São Miguel do Oeste",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Brasao_smo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4d58d3ceccf8f7e1afcc9d23ab3c2ed4af0ce2f76d4298b71822ecfb6b41a231",
+ "rendicoes": {
+  "png": {
+   "bytes": 73023,
+   "sha256": "c8072193f5cba058a8fe71bf82ed8c20dd21e38aa96cce65efc7732d9b40f672",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16220,
+   "sha256": "cf30679968be5fb065b236576bd57c31dcfde8847d259305e4c0cbae251e914f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4217204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4217204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4217204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4217204.jpg",
+  "bytes": 18055,
+  "sha256": "4d58d3ceccf8f7e1afcc9d23ab3c2ed4af0ce2f76d4298b71822ecfb6b41a231"
+ },
+ "sha1_origem": "cb4d81cd09d305d0814b9ca051ae08eff3e7ddb7",
+ "bytes_origem": 18055,
+ "capturado_em": "2026-11-08T06:57:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_smo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "cb4d81cd09d305d0814b9ca051ae08eff3e7ddb7"
+ }
+}

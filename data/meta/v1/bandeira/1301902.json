@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1301902",
+ "uf": "AM",
+ "municipio": "Itacoatiara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bandeira_de_Itacoatiara_am.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municípal de Itacoatiara",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fce0381059650389ef6bdd3e36ee8bea6392570b1767e034f4776bb42bb76620",
+ "rendicoes": {
+  "png": {
+   "bytes": 33947,
+   "sha256": "e4433503768d49e1f9769840257981aa4eb89d76f19b91839cbc0f49dfb44211",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10055,
+   "sha256": "cff4b818d5cf89e2b08e6ca77a59635fb05015b13bb540d168dcbce75d2b29ea",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1301902.jpg",
+  "bytes": 9170,
+  "sha256": "fce0381059650389ef6bdd3e36ee8bea6392570b1767e034f4776bb42bb76620"
+ },
+ "sha1_origem": "217856fe59832eed33b20ff46412381a46e5f700",
+ "bytes_origem": 9170,
+ "capturado_em": "2026-11-08T05:22:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itacoatiara_am.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "217856fe59832eed33b20ff46412381a46e5f700"
+ }
+}

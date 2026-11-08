@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4101903",
+ "uf": "PR",
+ "municipio": "Assaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bandeiraassai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "68c878f9c59fd76e3e8f4f0c4d5e0848a16d29f2a1c4dec612bf3108ea371fe2",
+ "rendicoes": {
+  "png": {
+   "bytes": 108045,
+   "sha256": "24ed01287d5b10d58157a148cc4d7cbaff7b025941e0065719f11ab1ec029855",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26076,
+   "sha256": "ef9ecaee606f5308143c42bd3af55bc4a20242f48bbf13c9d3570d4dfa1238d3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4101903.jpg",
+  "bytes": 18450,
+  "sha256": "68c878f9c59fd76e3e8f4f0c4d5e0848a16d29f2a1c4dec612bf3108ea371fe2"
+ },
+ "sha1_origem": "e645dfb7077c4319b89163fb77e468bcabd57478",
+ "bytes_origem": 18450,
+ "capturado_em": "2026-11-08T06:41:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraassai.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "e645dfb7077c4319b89163fb77e468bcabd57478"
+ }
+}

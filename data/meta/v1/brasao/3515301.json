@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3515301",
+ "uf": "SP",
+ "municipio": "Estrela do Norte",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Estrela_do_Norte.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "16b1193a1eb1f031703bbcafb30b754652bb50f8c72b6e2914f73bae64af1fe7",
+ "rendicoes": {
+  "png": {
+   "bytes": 452257,
+   "sha256": "29a643fe428a5b9f04f0d39581ef8fc8e7ea7204633a7018ce28c6738161d4e8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 79235,
+   "sha256": "590bcff1d67e7c7df28a77c149208e10f1405fac24b1edbefdd87323f4915711",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3515301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3515301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3515301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3515301.png",
+  "bytes": 415397,
+  "sha256": "16b1193a1eb1f031703bbcafb30b754652bb50f8c72b6e2914f73bae64af1fe7"
+ },
+ "sha1_origem": "4aff2e4a717666d488eab50a5d5a62daf19a1b19",
+ "bytes_origem": 415397,
+ "capturado_em": "2026-11-08T06:27:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Estrela_do_Norte.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "4aff2e4a717666d488eab50a5d5a62daf19a1b19"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3170438",
+ "uf": "MG",
+ "municipio": "União de Minas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Brasao_uniao_de_minas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de União de Minas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "54b14ecd9f23f40d66e7040bb8ee1a334b2826235943d74e5d39c151b453e011",
+ "rendicoes": {
+  "png": {
+   "bytes": 35000,
+   "sha256": "ec0e18136c91c0d3e7760fb675a72858261ef6df5744b489151173afb760dd4b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10716,
+   "sha256": "70a5ed02e85c5a16c0639ca12ce4ce85eead014cc760ec48c37980c87f59d43e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3170438.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3170438.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3170438.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3170438.png",
+  "bytes": 13088,
+  "sha256": "54b14ecd9f23f40d66e7040bb8ee1a334b2826235943d74e5d39c151b453e011"
+ },
+ "sha1_origem": "669b4fc1fa7816142c965c3c0f13b699c6415cbe",
+ "bytes_origem": 13088,
+ "capturado_em": "2026-11-08T06:18:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_uniao_de_minas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "669b4fc1fa7816142c965c3c0f13b699c6415cbe"
+ }
+}

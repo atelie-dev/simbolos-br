@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5211800",
+ "uf": "GO",
+ "municipio": "Jaraguá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bras%C3%A3o_Jaragu%C3%A1-GO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Jaraguá, Goiás.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5e0bdae5ee18fdf3469f2b14cf0e230ba978e9be539ebf7e3ff069aa9472d4f3",
+ "rendicoes": {
+  "png": {
+   "bytes": 87314,
+   "sha256": "437f7781dd72d4cc2e9eb3c77e19c4d2dfaae1a7d0b0b7646442cbe6f73548ad",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23422,
+   "sha256": "68fb45142a1718473e6ccd0056638e7a8715a380c7c84f6934a318049c6b4474",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5211800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5211800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5211800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5211800.png",
+  "bytes": 85174,
+  "sha256": "5e0bdae5ee18fdf3469f2b14cf0e230ba978e9be539ebf7e3ff069aa9472d4f3"
+ },
+ "sha1_origem": "bae3734f561b202d2db8d68d1df389c0213c54d7",
+ "bytes_origem": 85174,
+ "capturado_em": "2026-11-08T07:18:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Jaraguá-GO.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "bae3734f561b202d2db8d68d1df389c0213c54d7"
+ }
+}

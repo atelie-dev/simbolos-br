@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1505502",
+ "uf": "PA",
+ "municipio": "Paragominas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Bras%C3%A3o_de_Paragominas_-_PA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "099a9b67fe0006abba0f1dcd4f0fb5cbefeff670cd5ced3b07babea61d6e7803",
+ "rendicoes": {
+  "png": {
+   "bytes": 149989,
+   "sha256": "1773c57b8f1a374294db62e2af676564749337997621d1310109372a4e92c6a5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48824,
+   "sha256": "0fc2a431b509b975fee45944d9428a74726cd17df7b1717570615cf2228d6261",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 395517,
+   "sha256": "099a9b67fe0006abba0f1dcd4f0fb5cbefeff670cd5ced3b07babea61d6e7803"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1505502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1505502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1505502.jpg"
+ },
+ "sha1_origem": "87392d866dab2b0f8439386149ef747160b23197",
+ "bytes_origem": 395517,
+ "capturado_em": "2026-11-08T02:34:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Paragominas_-_PA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "87392d866dab2b0f8439386149ef747160b23197"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4303608",
+ "uf": "RS",
+ "municipio": "Cambará do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira_Cambar%C3%A1_do_Sul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Cambará do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "468657a07ecf6979412091b286da7cf76e6c8fb7a5209b38d9780ba1479c4e87",
+ "rendicoes": {
+  "png": {
+   "bytes": 17277,
+   "sha256": "8dbc3c6f96dc66b50c013fce1f17db94f03d75b24e715e05a111cd157178479b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6611,
+   "sha256": "03d9e4f67794b01466fdff122ed4673692f8784b04865ab4ea7ec0e7e8d63d7b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4303608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4303608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4303608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4303608.jpg",
+  "bytes": 11708,
+  "sha256": "468657a07ecf6979412091b286da7cf76e6c8fb7a5209b38d9780ba1479c4e87"
+ },
+ "sha1_origem": "727b121d04360b1a513e20872553c51128818014",
+ "bytes_origem": 11708,
+ "capturado_em": "2026-11-08T07:00:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Cambará_do_Sul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "727b121d04360b1a513e20872553c51128818014"
+ }
+}

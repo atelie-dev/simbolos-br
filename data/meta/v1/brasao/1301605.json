@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1301605",
+ "uf": "AM",
+ "municipio": "Fonte Boa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fonte_Boa_-_brasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Fonte Boa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1529239a88ad4074c39bec675958a9486bcc383703edddaa8397e68dc2ecfe86",
+ "rendicoes": {
+  "png": {
+   "bytes": 60547,
+   "sha256": "df4ac5fc77aed4feadc93bf4abc3557b35ae74efc32345a599552fc4bc9cf156",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13156,
+   "sha256": "db4440b4bf5b90b263f9585c2d3e2183cc4f6dfd39941ea9ca7ede47f4081ee6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1301605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1301605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1301605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1301605.jpg",
+  "bytes": 8817,
+  "sha256": "1529239a88ad4074c39bec675958a9486bcc383703edddaa8397e68dc2ecfe86"
+ },
+ "sha1_origem": "7d528d329e400ce5eaf24499ada5b5ac3896e896",
+ "bytes_origem": 8817,
+ "capturado_em": "2026-11-08T05:22:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Fonte_Boa_-_brasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:30Z",
+  "estado": "igual",
+  "sha1_commons": "7d528d329e400ce5eaf24499ada5b5ac3896e896"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3557006",
+ "uf": "SP",
+ "municipio": "Votorantim",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Votorantim_Brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Votorantim",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "801f800db5e67f9232c189de359c9da2454d624a14b15e14a9d38a5b482a2929",
+ "rendicoes": {
+  "png": {
+   "bytes": 172902,
+   "sha256": "906addb458d3e35284852f0a8ebfa4575ec2e9c1cb383d74e41375a5cbeaf4f1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44783,
+   "sha256": "d9b25867d79220ba5a84226756ee92f1272aaa47afd24ebf4489b1178d706a10",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3557006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3557006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3557006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3557006.png",
+  "bytes": 36284,
+  "sha256": "801f800db5e67f9232c189de359c9da2454d624a14b15e14a9d38a5b482a2929"
+ },
+ "sha1_origem": "6e676a7dcf51f65b7cb647a47ec49cedc98413f8",
+ "bytes_origem": 36284,
+ "capturado_em": "2026-11-08T06:40:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Votorantim_Brasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "6e676a7dcf51f65b7cb647a47ec49cedc98413f8"
+ }
+}

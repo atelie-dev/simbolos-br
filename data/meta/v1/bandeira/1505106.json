@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1505106",
+ "uf": "PA",
+ "municipio": "Óbidos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bandeira_de_%C3%93bidos_%28Par%C3%A1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "47251449906b5adf7debcbf19ffcbbba7e747ab5176e714c92547899478d7f13",
+ "rendicoes": {
+  "png": {
+   "bytes": 12668,
+   "sha256": "f526dade3c27c480d9ebab965b89d0048c53233b08eecab664ea8f98c186cf7d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4808,
+   "sha256": "35958ef475c987be314e38109f68c95e6a09983fce532728fad67048ab4741e9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1505106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1505106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1505106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1505106.jpg",
+  "bytes": 7136,
+  "sha256": "47251449906b5adf7debcbf19ffcbbba7e747ab5176e714c92547899478d7f13"
+ },
+ "sha1_origem": "76706507fcf9d879372a15eb8005524366c1a9cd",
+ "bytes_origem": 7136,
+ "capturado_em": "2026-11-08T05:25:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Óbidos_(Pará).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "76706507fcf9d879372a15eb8005524366c1a9cd"
+ }
+}

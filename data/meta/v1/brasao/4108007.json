@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4108007",
+ "uf": "PR",
+ "municipio": "Florestópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bras%C3%A3o_de_Florest%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "own",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d8f3ba042a3214ae81bccb192d392aceb103c968de4ac276d1ca1ee864a2f5c6",
+ "rendicoes": {
+  "png": {
+   "bytes": 373072,
+   "sha256": "5874262187498e99ceb926726a83c480a51349f1352bb114f4528d813b7c3cfe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67212,
+   "sha256": "e94fe758bf4eb759223bcdb45e9c5681fa8a561560588431fcfa2c74fb80cd23",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4108007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4108007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4108007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4108007.jpg",
+  "bytes": 317154,
+  "sha256": "d8f3ba042a3214ae81bccb192d392aceb103c968de4ac276d1ca1ee864a2f5c6"
+ },
+ "sha1_origem": "7e5f54a88c7c249aaa7041b8d63e177aef2c0278",
+ "bytes_origem": 317154,
+ "capturado_em": "2026-11-08T06:43:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Florestópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:02Z",
+  "estado": "igual",
+  "sha1_commons": "7e5f54a88c7c249aaa7041b8d63e177aef2c0278"
+ }
+}

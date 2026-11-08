@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4212502",
+ "uf": "SC",
+ "municipio": "Penha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Penha_SC.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "493dab701edbbddc4973c52b30ac314f78ffb2b01d1796e14e35b9235cb298db",
+ "rendicoes": {
+  "png": {
+   "bytes": 27680,
+   "sha256": "ad009a663919ed40c118997ec809d90d13a74ac5c8ff0e25f7f491c8ebc0fdc9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14348,
+   "sha256": "dcc795caa15acdd69734128597caa8e429db967772b80b1380b7634f4f66eb22",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4212502.png",
+  "bytes": 330824,
+  "sha256": "493dab701edbbddc4973c52b30ac314f78ffb2b01d1796e14e35b9235cb298db"
+ },
+ "sha1_origem": "f7dfcb1ac31ec53eb5b606cc4e429ec7e89712cf",
+ "bytes_origem": 330824,
+ "capturado_em": "2026-11-08T06:55:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Penha_SC.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "f7dfcb1ac31ec53eb5b606cc4e429ec7e89712cf"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312252",
+ "uf": "RS",
+ "municipio": "Minas do Leão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bras%C3%A3o_Minas_do_Le%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Minas do Leão",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "be3858edf033ca4d78bb976a8e9852a964631cd279ea85ee4513c9cc1f132490",
+ "rendicoes": {
+  "png": {
+   "bytes": 271206,
+   "sha256": "b77ddddccb6f4ecaf553d0fc0f3ef04b4b350f506c289a8639fd081687afb2ce",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 46494,
+   "sha256": "63d5fa0b72c9b4b80c38fcb286760435a3a851546ae24f91749430a6e6d2c79f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312252.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312252.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312252.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4312252.jpg",
+  "bytes": 62399,
+  "sha256": "be3858edf033ca4d78bb976a8e9852a964631cd279ea85ee4513c9cc1f132490"
+ },
+ "sha1_origem": "4f6e5d252304b3cb9c4d5eb8dcdfe13257c70384",
+ "bytes_origem": 62399,
+ "capturado_em": "2026-11-08T07:05:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Minas_do_Leão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "4f6e5d252304b3cb9c4d5eb8dcdfe13257c70384"
+ }
+}

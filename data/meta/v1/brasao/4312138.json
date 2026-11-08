@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312138",
+ "uf": "RS",
+ "municipio": "Mato Castelhano",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Mato_Castelhanobrasonbr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Mato Castelhano",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c72cdce2526aa92878285563cc41a7abc874d7113309b25d56d8f18287181afe",
+ "rendicoes": {
+  "png": {
+   "bytes": 185602,
+   "sha256": "fda5a0ef0075f1af2929de53222d013875f72244f95d9e1fa8dcba329118c93e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 57652,
+   "sha256": "4a7137cdd3e48319669d3c7895e5e1650c3e0e0832370909892efe07bba373de",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312138.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312138.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312138.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4312138.jpg",
+  "bytes": 479927,
+  "sha256": "c72cdce2526aa92878285563cc41a7abc874d7113309b25d56d8f18287181afe"
+ },
+ "sha1_origem": "ae24bae1d6eea4c32b216abc1ec839bc8c8c2e2d",
+ "bytes_origem": 479927,
+ "capturado_em": "2026-11-08T07:05:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Mato_Castelhanobrasonbr.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "ae24bae1d6eea4c32b216abc1ec839bc8c8c2e2d"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4212056",
+ "uf": "SC",
+ "municipio": "Palmeira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bandeira_do_munic%C3%ADpio_de_Palmeira_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Palmeira (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8260fcd3603eebd76d501da38f109773f03a8f1ccc7bb322959e503d930224f6",
+ "rendicoes": {
+  "png": {
+   "bytes": 45750,
+   "sha256": "b3529d6131726b507ea733d2f17baa4baf768d75bb3924b0fd8289adc0fb81e0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18603,
+   "sha256": "f04c07dd5e870227fb88a4474400fcaa33a9b796f8e26e942ba0e1bc17f6c789",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212056.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212056.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212056.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4212056.png",
+  "bytes": 109255,
+  "sha256": "8260fcd3603eebd76d501da38f109773f03a8f1ccc7bb322959e503d930224f6"
+ },
+ "sha1_origem": "c54c66608892b50309113b1c89227ce7a781d09c",
+ "bytes_origem": 109255,
+ "capturado_em": "2026-11-08T06:55:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Palmeira_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "c54c66608892b50309113b1c89227ce7a781d09c"
+ }
+}

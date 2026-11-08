@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2501807",
+ "uf": "PB",
+ "municipio": "Bayeux",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandeira_bayeux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Bayeux",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ee3f73521fb25fcd83024face1f9b8f332c5e944213f037ffbb77f3224916865",
+ "rendicoes": {
+  "png": {
+   "bytes": 53200,
+   "sha256": "399e5fc199fae4cbdb45bdb611a43c9468276ce1dca82ca41dd85a1ffa989cbf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16078,
+   "sha256": "1a71b064450f136b13f0db1876108be118efa6033b304ae547a1f42a5176849a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501807.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2501807.jpg",
+  "bytes": 15368,
+  "sha256": "ee3f73521fb25fcd83024face1f9b8f332c5e944213f037ffbb77f3224916865"
+ },
+ "sha1_origem": "8c33cbac915206205a42c1ff5422ccfbe8228ee8",
+ "bytes_origem": 15368,
+ "capturado_em": "2026-11-08T05:39:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_bayeux.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "8c33cbac915206205a42c1ff5422ccfbe8228ee8"
+ }
+}

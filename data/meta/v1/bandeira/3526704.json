@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3526704",
+ "uf": "SP",
+ "municipio": "Leme",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bandeira_Leme_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Leme",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "efddf5274217ec5bbe018f4687d233919e638a93d44e5a40d24875ee83b9b947",
+ "rendicoes": {
+  "png": {
+   "bytes": 58115,
+   "sha256": "e1b7bf59376187deab402e7745a6df5b4c531890b489caeda5d92940e2be8147",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21175,
+   "sha256": "ca49781ec49de1b4447b516c74a551dfceae664eed1ba5801fb091fa662a4f2f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 357259,
+   "sha256": "efddf5274217ec5bbe018f4687d233919e638a93d44e5a40d24875ee83b9b947"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3526704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3526704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3526704.jpg"
+ },
+ "sha1_origem": "a89000319190461965e3509f1b9d7d314935524a",
+ "bytes_origem": 357259,
+ "capturado_em": "2026-11-08T04:07:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Leme_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "a89000319190461965e3509f1b9d7d314935524a"
+ }
+}

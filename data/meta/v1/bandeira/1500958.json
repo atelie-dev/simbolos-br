@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1500958",
+ "uf": "PA",
+ "municipio": "Aurora do Pará",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bandeira_Aurora_do_Para.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Aurora do Pará.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "78fd4358bcd38f0021dc2017ff064c490723310930bd76fdeb184b8680bdfbcc",
+ "rendicoes": {
+  "png": {
+   "bytes": 12134,
+   "sha256": "b2bdbcb1ef3a7561e45e472eeea245c4a1ac6910c096a22c956a7c82edb91266",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5967,
+   "sha256": "39feaa777ff422eb42568959aff5afc79c9f4f2e5538925c0bc8e46b23267a43",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1500958.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1500958.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1500958.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1500958.png",
+  "bytes": 4750,
+  "sha256": "78fd4358bcd38f0021dc2017ff064c490723310930bd76fdeb184b8680bdfbcc"
+ },
+ "sha1_origem": "f484269489a1a4ea7800cb10c630a196997bd145",
+ "bytes_origem": 4750,
+ "capturado_em": "2026-11-08T05:23:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Aurora_do_Para.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "f484269489a1a4ea7800cb10c630a196997bd145"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2510006",
+ "uf": "PB",
+ "municipio": "Nazarezinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bras%C3%A3o_Nazarezinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nazarezinho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a9a32147c04e891425e691d5db669e0cebb9de3dc2295309ebeda79bf7488726",
+ "rendicoes": {
+  "png": {
+   "bytes": 49252,
+   "sha256": "884d8eb95c2797858ee50ff2bc7bc279f22124bf1093b0b13d41b8c3fecf819d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10670,
+   "sha256": "7f52d11d0bfb11d8c99d5b4f1d52cdf28eff9c94ae96da3ef66635ccffe7854d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2510006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2510006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2510006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2510006.jpg",
+  "bytes": 7200,
+  "sha256": "a9a32147c04e891425e691d5db669e0cebb9de3dc2295309ebeda79bf7488726"
+ },
+ "sha1_origem": "f47f8aff770c430158006d5b5f643e34dc0b27cf",
+ "bytes_origem": 7200,
+ "capturado_em": "2026-11-08T05:42:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Nazarezinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "f47f8aff770c430158006d5b5f643e34dc0b27cf"
+ }
+}

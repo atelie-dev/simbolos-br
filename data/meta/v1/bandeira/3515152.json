@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3515152",
+ "uf": "SP",
+ "municipio": "Engenheiro Coelho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bandeira.engenheiro.coelho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Engenheiro Coelho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b809367744521f6ee6557f61d75eee89a1409a2c50bf3bcb57bbd6a5346bc525",
+ "rendicoes": {
+  "png": {
+   "bytes": 21235,
+   "sha256": "8307c210b03090e9b431b10347bb76079962af960a9ed9517ac85b8e955d7ff8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8248,
+   "sha256": "4c6bc455c0c01d89785c99568758f44fd61851a48461818ba7e71e13128c510f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515152.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515152.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515152.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3515152.jpg",
+  "bytes": 6096,
+  "sha256": "b809367744521f6ee6557f61d75eee89a1409a2c50bf3bcb57bbd6a5346bc525"
+ },
+ "sha1_origem": "dbe457cd805556849a12372ea9600c58015ba806",
+ "bytes_origem": 6096,
+ "capturado_em": "2026-11-08T06:27:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira.engenheiro.coelho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "dbe457cd805556849a12372ea9600c58015ba806"
+ }
+}

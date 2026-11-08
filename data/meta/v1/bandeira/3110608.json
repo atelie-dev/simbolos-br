@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3110608",
+ "uf": "MG",
+ "municipio": "Cambuí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bandeira-cambu%C3%AD.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cambuí City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9b7d755fce52c2486dac9fb2665bdbcc876c36c428402d8cb3050de01ea381ba",
+ "rendicoes": {
+  "png": {
+   "bytes": 45846,
+   "sha256": "3879128b262823ca04d7c3be32c35fdb9828c179e5c85400927fd306dae26db1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14868,
+   "sha256": "dcf8bd864967b42d85ddcf05c332f10f9d723ce08b54452466468248812abe9a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3110608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3110608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3110608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3110608.png",
+  "bytes": 42162,
+  "sha256": "9b7d755fce52c2486dac9fb2665bdbcc876c36c428402d8cb3050de01ea381ba"
+ },
+ "sha1_origem": "10bbb96f9bc12928f5bd7a9ddc13e643fa5861d5",
+ "bytes_origem": 42162,
+ "capturado_em": "2026-11-08T06:01:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-cambuí.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "10bbb96f9bc12928f5bd7a9ddc13e643fa5861d5"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3112505",
+ "uf": "MG",
+ "municipio": "Capim Branco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Capim_Branco%2C_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Campim Branco",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "091e1246c0b3628f672a5671a34f030c631d05c2bfc452a70afd58854a10ac9d",
+ "rendicoes": {
+  "png": {
+   "bytes": 88845,
+   "sha256": "1323119391cc24b16e7f31c13323711ec4cd294a8cd376c820a5f8f8ef87107d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30550,
+   "sha256": "937d175958a119b3dbfb65d4047d629442f248b4ee304de0c987dd45aea5d42e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3112505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3112505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3112505.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3112505.jpg",
+  "bytes": 1693802,
+  "sha256": "091e1246c0b3628f672a5671a34f030c631d05c2bfc452a70afd58854a10ac9d"
+ },
+ "sha1_origem": "846cebcbe4ce8f8ab72e23904429fb144374c936",
+ "bytes_origem": 1693802,
+ "capturado_em": "2026-11-08T06:02:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Capim_Branco,_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "846cebcbe4ce8f8ab72e23904429fb144374c936"
+ }
+}

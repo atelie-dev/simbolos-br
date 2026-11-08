@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4127403",
+ "uf": "PR",
+ "municipio": "Terra Roxa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bandeira-terraroxa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Terra Roxa City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "38a818cfa55f4fc301659862c9e95055380615b3fa341a24d38465ac51628440",
+ "rendicoes": {
+  "png": {
+   "bytes": 22690,
+   "sha256": "e7df7824850012d4dc3ddaf5db290548b1ad9dde01c4a4e7f8d5b87d3340531b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10884,
+   "sha256": "3d95bb113883af0b4f8d1641bbd841396641217790194221c7b5cafae8fd0956",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4127403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4127403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4127403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4127403.png",
+  "bytes": 6826,
+  "sha256": "38a818cfa55f4fc301659862c9e95055380615b3fa341a24d38465ac51628440"
+ },
+ "sha1_origem": "0eec9c0a885760c19989d06bf9343a61654c5120",
+ "bytes_origem": 6826,
+ "capturado_em": "2026-11-08T06:50:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-terraroxa.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "0eec9c0a885760c19989d06bf9343a61654c5120"
+ }
+}

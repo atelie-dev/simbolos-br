@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4113700",
+ "uf": "PR",
+ "municipio": "Londrina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bandeira_londrina.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Original design: Guilherme de Almeida SVG implementation: Slady, Giro720",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c034bca6c9d21f55f9a889e3b7bff163be156fd5fee471d752c2c22b9131f140",
+ "rendicoes": {
+  "png": {
+   "bytes": 11139,
+   "sha256": "2bd979cc3e31ee82ad6f1534430b7f0ec61eb6cfd6008384d98c5613f7c7bb3a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10546,
+   "sha256": "3b5e7467743b800b5c42559ed1ceb890fa4222747d2f15541c4cef6982d44d63",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 877,
+   "sha256": "c034bca6c9d21f55f9a889e3b7bff163be156fd5fee471d752c2c22b9131f140"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113700.jpg"
+ },
+ "sha1_origem": "b9c0397b3579c3fb5ecf0642fb3d3735ad3934b2",
+ "bytes_origem": 877,
+ "capturado_em": "2026-11-08T04:27:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_londrina.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "b9c0397b3579c3fb5ecf0642fb3d3735ad3934b2"
+ }
+}

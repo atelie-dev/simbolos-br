@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4323200",
+ "uf": "RS",
+ "municipio": "Victor Graeff",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Brasao_Victor_Graeff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Victor Graeff.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d8f542027d2a4f1638026543109bda459d8c32a9374f35f3011b7ad97f5a7cf3",
+ "rendicoes": {
+  "png": {
+   "bytes": 42670,
+   "sha256": "f7472a92e1134e902fea68c27948e5c35c1d466ba227197d45db254cfc8841ba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9968,
+   "sha256": "5a884350678f66429a8bf3b06ad181255433b7a4ffff8a187ace173fbc26866e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4323200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4323200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4323200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4323200.jpg",
+  "bytes": 10172,
+  "sha256": "d8f542027d2a4f1638026543109bda459d8c32a9374f35f3011b7ad97f5a7cf3"
+ },
+ "sha1_origem": "5e617245f6fbe777502dcfcc1fed2ff34c988993",
+ "bytes_origem": 10172,
+ "capturado_em": "2026-11-08T07:11:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Victor_Graeff.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "5e617245f6fbe777502dcfcc1fed2ff34c988993"
+ }
+}

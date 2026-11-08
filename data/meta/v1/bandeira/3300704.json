@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3300704",
+ "uf": "RJ",
+ "municipio": "Cabo Frio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bandeira_cabo_frio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Anderson Lopes (Djmangueira)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "454265296b74bf2a97be1dfdb9115342727f4a06f5a87c799192ede5f106008c",
+ "rendicoes": {
+  "png": {
+   "bytes": 34104,
+   "sha256": "2ad0ef54e047dfe47c04ab97517a4f0bcb83681e022a1906a66477e20cc4004e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13460,
+   "sha256": "e93c493987ea6a7534a3298950ab1e83359d198408b5100fde53110c463942f8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3300704.png",
+  "bytes": 31106,
+  "sha256": "454265296b74bf2a97be1dfdb9115342727f4a06f5a87c799192ede5f106008c"
+ },
+ "sha1_origem": "378c3c5af63270d7affc0562e16c6a0ec3f3409e",
+ "bytes_origem": 31106,
+ "capturado_em": "2026-11-08T06:20:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_cabo_frio.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "378c3c5af63270d7affc0562e16c6a0ec3f3409e"
+ }
+}

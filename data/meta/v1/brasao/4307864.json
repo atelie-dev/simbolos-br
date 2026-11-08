@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4307864",
+ "uf": "RS",
+ "municipio": "Fagundes Varela",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bras%C3%A3o_Fagundes_Varela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Fagundes Varela",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "173ca74dee1a8889c81cab4a5a21ac8e51fd385d4639aa8076f63494c8ee177c",
+ "rendicoes": {
+  "png": {
+   "bytes": 270502,
+   "sha256": "f11db1ffd2bdaea0803d880dd1d4b0af5ebea0e9e9025fc6a1f8cae4138b8d31",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55548,
+   "sha256": "e8cfce553102929a70b9388abd676dd29dfd98eea8651ee6b2eab7d560388906",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307864.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307864.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307864.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4307864.jpg",
+  "bytes": 52557,
+  "sha256": "173ca74dee1a8889c81cab4a5a21ac8e51fd385d4639aa8076f63494c8ee177c"
+ },
+ "sha1_origem": "0bb114e95afc0460ed1d08326b50f0981fc147d7",
+ "bytes_origem": 52557,
+ "capturado_em": "2026-11-08T07:03:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Fagundes_Varela.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "0bb114e95afc0460ed1d08326b50f0981fc147d7"
+ }
+}

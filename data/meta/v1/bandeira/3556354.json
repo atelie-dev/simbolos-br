@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3556354",
+ "uf": "SP",
+ "municipio": "Vargem",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Vargem_-_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "55a650e36293986d3360e480ec07ecb51b2cc8495448a3872749b4a14a341932",
+ "rendicoes": {
+  "png": {
+   "bytes": 87192,
+   "sha256": "932062a862ec1416275100eb8db47d7db2a9491ebc555a3eaca86b747e8c809e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29899,
+   "sha256": "78d9cc33b0502a479b7054c062082ee6b39d9fdb58c1bb6902a893a8b5ebc728",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556354.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556354.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556354.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3556354.png",
+  "bytes": 93767,
+  "sha256": "55a650e36293986d3360e480ec07ecb51b2cc8495448a3872749b4a14a341932"
+ },
+ "sha1_origem": "0aef9f51ea793fc8fc62d0cbe51219932a06871b",
+ "bytes_origem": 93767,
+ "capturado_em": "2026-11-08T06:40:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Vargem_-_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "0aef9f51ea793fc8fc62d0cbe51219932a06871b"
+ }
+}

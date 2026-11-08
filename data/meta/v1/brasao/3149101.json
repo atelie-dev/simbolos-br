@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3149101",
+ "uf": "MG",
+ "municipio": "Pedralva",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Brasao_pedralva_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pedralva City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3893b99220bb312de44900fa84c5fec053ba8c842c7d0b9d8f85966aada92ed2",
+ "rendicoes": {
+  "png": {
+   "bytes": 22497,
+   "sha256": "90443dd8430a19fe27843927c048522e57ad4baaa802a49d50d625d9e8a3287b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7487,
+   "sha256": "bf472ed0b45baae632e02451a692cf869a0403c5a71767813e88617db2266503",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3149101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3149101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3149101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3149101.jpg",
+  "bytes": 9736,
+  "sha256": "3893b99220bb312de44900fa84c5fec053ba8c842c7d0b9d8f85966aada92ed2"
+ },
+ "sha1_origem": "9b17e867fdaed08912f7f10e61782a264483455b",
+ "bytes_origem": 9736,
+ "capturado_em": "2026-11-08T06:13:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_pedralva_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "9b17e867fdaed08912f7f10e61782a264483455b"
+ }
+}

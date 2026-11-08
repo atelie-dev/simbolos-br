@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3106200",
+ "uf": "MG",
+ "municipio": "Belo Horizonte",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bras%C3%A3o-Belo-Horizonte.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "4d01e31b449201bd0b34d01279b01b5b736c9a3c25b8bfb883830d07ba42bc56",
+ "rendicoes": {
+  "png": {
+   "bytes": 150340,
+   "sha256": "b939e5728ef201207ead7ad26e79ad485b32814a378bf3f92003647240f8aeaf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55053,
+   "sha256": "293de9e7594618a06a49cabd081023b422afa3971fba41e346410fa8e674d266",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 138131,
+   "sha256": "4d01e31b449201bd0b34d01279b01b5b736c9a3c25b8bfb883830d07ba42bc56"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106200.jpg"
+ },
+ "sha1_origem": "9cf6bef5a3b7c38c1e25d1e3a00362b501ef7c07",
+ "bytes_origem": 138131,
+ "capturado_em": "2026-11-08T03:27:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão-Belo-Horizonte.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "9cf6bef5a3b7c38c1e25d1e3a00362b501ef7c07"
+ }
+}

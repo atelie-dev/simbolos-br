@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2803104",
+ "uf": "SE",
+ "municipio": "Itabi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Brasao_itabi.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal Itabi",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "75234f8cb58233731674c80c03519dd1e9b09e7dd6c05df77d6ed1524a99b7e3",
+ "rendicoes": {
+  "png": {
+   "bytes": 177105,
+   "sha256": "fc10b43b5e7ceb0b69fc1155a56526df6d7b9031aa61e1182dce8dc4196d7932",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 57375,
+   "sha256": "94cbfd6ed4e46b26abb4e3c8220faaebc5488c38a6cb2858384d993a82776b1a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 453002,
+   "sha256": "75234f8cb58233731674c80c03519dd1e9b09e7dd6c05df77d6ed1524a99b7e3"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2803104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2803104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2803104.jpg"
+ },
+ "sha1_origem": "ee1fa2ffbd17144cbc181c5f8f394f44999f5c0d",
+ "bytes_origem": 453002,
+ "capturado_em": "2026-11-08T03:12:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_itabi.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "ee1fa2ffbd17144cbc181c5f8f394f44999f5c0d"
+ }
+}

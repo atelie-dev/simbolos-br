@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5003751",
+ "uf": "MS",
+ "municipio": "Eldorado",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Band_Eldorado.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Temp1980",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f1a9e3e3208f53f01c8249171e81bf09744c74584b8181f11d3a2a0f5421e39f",
+ "rendicoes": {
+  "png": {
+   "bytes": 31631,
+   "sha256": "d1f3feb4ccaa304dc25da8bfde84d4f4231e25267f09f36ff2ce1806fed09958",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16246,
+   "sha256": "519a0085eec9a3fa3d81aab0b6ff71474289702b0f9dd5ac5ab1966801bef4cc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5003751.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5003751.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5003751.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5003751.png",
+  "bytes": 12640,
+  "sha256": "f1a9e3e3208f53f01c8249171e81bf09744c74584b8181f11d3a2a0f5421e39f"
+ },
+ "sha1_origem": "88c0a427d769b46e0914ffc9ae32354fae619cdc",
+ "bytes_origem": 12640,
+ "capturado_em": "2026-11-08T07:12:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_Eldorado.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "88c0a427d769b46e0914ffc9ae32354fae619cdc"
+ }
+}

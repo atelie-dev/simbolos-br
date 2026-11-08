@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314407",
+ "uf": "RS",
+ "municipio": "Pelotas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Bandeira_de_Pelotas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://www.pelotas.rs.gov.br/cidade_simbolos/pelotas_simbolos.htm",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0b0e8233158f3624ecc668e32c86666496881a59a1ed3ff672a80c1e43ff58f7",
+ "rendicoes": {
+  "png": {
+   "bytes": 25382,
+   "sha256": "c5628282fb99e56a5f596901571f6aef6d0c532da82c296aecaf8d9fe2389876",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10160,
+   "sha256": "357d030ed186ed436abacbbeba3490faaa253df93f34c22c8dc604e72ad7b927",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4314407.png",
+  "bytes": 21180,
+  "sha256": "0b0e8233158f3624ecc668e32c86666496881a59a1ed3ff672a80c1e43ff58f7"
+ },
+ "sha1_origem": "118505dc74f773eb489bf2965eaa73038b932637",
+ "bytes_origem": 21180,
+ "capturado_em": "2026-11-08T07:07:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pelotas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "118505dc74f773eb489bf2965eaa73038b932637"
+ }
+}

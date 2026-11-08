@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5220108",
+ "uf": "GO",
+ "municipio": "São Luís de Montes Belos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/21/SLMB.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Alan Claudio",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "94cc6f3f561e371b92fa7f7d0901ca3a28742e6e76e290708e4a3ad2b5982386",
+ "rendicoes": {
+  "png": {
+   "bytes": 5430,
+   "sha256": "87fa8b8b19cb82dc2539ee9743108153fd91e1605595f8e40ed0667055a3a6fa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5326,
+   "sha256": "b9e413fa466ee6026609a58e93f8d7641edcd544f5d92692ac964803e8b58e4b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220108.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5220108.png",
+  "bytes": 4122,
+  "sha256": "94cc6f3f561e371b92fa7f7d0901ca3a28742e6e76e290708e4a3ad2b5982386"
+ },
+ "sha1_origem": "1044bb545cc426984651b68cfda445e6f314d77a",
+ "bytes_origem": 4122,
+ "capturado_em": "2026-11-08T07:20:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:SLMB.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:36Z",
+  "estado": "igual",
+  "sha1_commons": "1044bb545cc426984651b68cfda445e6f314d77a"
+ }
+}

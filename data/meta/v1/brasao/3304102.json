@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3304102",
+ "uf": "RJ",
+ "municipio": "Porciúncula",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Brasao-porciuncula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9bf9722105dcb81bd32f501018a87e277b64dd1f733e1acbc010808ca6063054",
+ "rendicoes": {
+  "png": {
+   "bytes": 164609,
+   "sha256": "1b399efe3b625721e460ae6e226eba292486e2c7c0c6fc222d4c26980c7a302c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33553,
+   "sha256": "77d677ec10d63b42fc5a9e8c39096fe8947792c96159f70b15bf5b9456b4411e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3304102.jpg",
+  "bytes": 26553,
+  "sha256": "9bf9722105dcb81bd32f501018a87e277b64dd1f733e1acbc010808ca6063054"
+ },
+ "sha1_origem": "c03f8d88e79a76bfa253131291320630dbd45c5a",
+ "bytes_origem": 26553,
+ "capturado_em": "2026-11-08T06:21:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-porciuncula.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "c03f8d88e79a76bfa253131291320630dbd45c5a"
+ }
+}

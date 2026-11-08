@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3502002",
+ "uf": "SP",
+ "municipio": "Analândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bandeiraanalandia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Manoel V. Lisboa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "569bb67c96e2522660d4d93c8ffe0e2ddbf7cd303bcd0d3b2ec3d4c93b64f07e",
+ "rendicoes": {
+  "png": {
+   "bytes": 56875,
+   "sha256": "a52283f6830122e6986bfc7e4f15b453a31bef88204b30204344dabe3571c73c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21870,
+   "sha256": "67c50a2c860bf0104a47c7de98499c55823fe0f2fce50cab3f668abd59c0fe85",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3502002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3502002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3502002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3502002.jpg",
+  "bytes": 268709,
+  "sha256": "569bb67c96e2522660d4d93c8ffe0e2ddbf7cd303bcd0d3b2ec3d4c93b64f07e"
+ },
+ "sha1_origem": "6a2e30076c1b0b6e434e6afb3d77a7b172464fdd",
+ "bytes_origem": 268709,
+ "capturado_em": "2026-11-08T06:23:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraanalandia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "6a2e30076c1b0b6e434e6afb3d77a7b172464fdd"
+ }
+}

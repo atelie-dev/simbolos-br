@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4303004",
+ "uf": "RS",
+ "municipio": "Cachoeira do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bras%C3%A3o_de_Cachoeira_do_Sul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cachoeira do Sul (adaptado por mim)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ec0237e409e3391ce8a1e8c707552f7435af2359a3e2b040143cdf03dfae94c1",
+ "rendicoes": {
+  "png": {
+   "bytes": 67554,
+   "sha256": "6830fd762aa62d02b92715c87e28cf1c52a9f6b41186bfb9b7ab43f856a61fbd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15410,
+   "sha256": "759c2ccb0a87f2250698160c462cea0ca46835651bf75d5e70b7e009c9fc54a7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4303004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4303004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4303004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4303004.jpg",
+  "bytes": 16049,
+  "sha256": "ec0237e409e3391ce8a1e8c707552f7435af2359a3e2b040143cdf03dfae94c1"
+ },
+ "sha1_origem": "550865cccc807a43e4920885e8d4b34991f4ee37",
+ "bytes_origem": 16049,
+ "capturado_em": "2026-11-08T07:00:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cachoeira_do_Sul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "550865cccc807a43e4920885e8d4b34991f4ee37"
+ }
+}

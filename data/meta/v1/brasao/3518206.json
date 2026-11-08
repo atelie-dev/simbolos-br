@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3518206",
+ "uf": "SP",
+ "municipio": "Guararapes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Guararapes.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "91cb757bf7b3bde701eb6abb34613f5c62e78ac23c6c6613312a7ef54bd9c843",
+ "rendicoes": {
+  "png": {
+   "bytes": 354099,
+   "sha256": "3c7c54576fc6b77db5969ef9e33e667e6277110675414b794157596838b4f80d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58818,
+   "sha256": "f6e0325c88647b81519ebdd5de71239e43e293672d8d598e859f4435a5da476c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518206.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3518206.png",
+  "bytes": 370026,
+  "sha256": "91cb757bf7b3bde701eb6abb34613f5c62e78ac23c6c6613312a7ef54bd9c843"
+ },
+ "sha1_origem": "0e46697159c4d1144e4854ed1ff9d8eb00b15dfe",
+ "bytes_origem": 370026,
+ "capturado_em": "2026-11-08T06:28:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Guararapes.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "0e46697159c4d1144e4854ed1ff9d8eb00b15dfe"
+ }
+}

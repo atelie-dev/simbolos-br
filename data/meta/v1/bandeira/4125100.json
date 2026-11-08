@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4125100",
+ "uf": "PR",
+ "municipio": "São João do Triunfo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bandeira_S%C3%A3o_Jo%C3%A3o_do_Triunfo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de São João do Triunfo.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f66719709e208b930753c05a9c81c1251ba767d3ecd0ae44627b56e49a9069d4",
+ "rendicoes": {
+  "png": {
+   "bytes": 32387,
+   "sha256": "e4c5e630280b6cbd04801d559195a9853a7ad2bcb1b33690828fd32c48bc77a3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11457,
+   "sha256": "54c82ffc007c00252fc9c7735a24f7994f9da4dd30c36241c3357800b913246d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4125100.jpg",
+  "bytes": 7641,
+  "sha256": "f66719709e208b930753c05a9c81c1251ba767d3ecd0ae44627b56e49a9069d4"
+ },
+ "sha1_origem": "a32e1d6507436f15d2b33606f68d030ddd8effcc",
+ "bytes_origem": 7641,
+ "capturado_em": "2026-11-08T06:49:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_São_João_do_Triunfo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "a32e1d6507436f15d2b33606f68d030ddd8effcc"
+ }
+}

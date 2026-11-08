@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4124400",
+ "uf": "PR",
+ "municipio": "Santo Antônio do Sudoeste",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Brasao_santo_antonio_do_sudoeste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Governament Brazilians",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "201b1e71af69c6aa926a5de2b8d3fd917cb7278fa1b5357ba2fa6f7e0ee77b8c",
+ "rendicoes": {
+  "png": {
+   "bytes": 77339,
+   "sha256": "bdff9603163bf34ea3359e48da2139e04cd12e7c443f1cae932dc725d0595e79",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19823,
+   "sha256": "aba45494d55c90cd6ba7ce9b0aab66920747e74f81d3ce41c8b8b2729d0ec459",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4124400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4124400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4124400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4124400.jpg",
+  "bytes": 17595,
+  "sha256": "201b1e71af69c6aa926a5de2b8d3fd917cb7278fa1b5357ba2fa6f7e0ee77b8c"
+ },
+ "sha1_origem": "88f73d356778f06ff25c6f6e88573649ad1cfc7e",
+ "bytes_origem": 17595,
+ "capturado_em": "2026-11-08T06:49:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_santo_antonio_do_sudoeste.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "88f73d356778f06ff25c6f6e88573649ad1cfc7e"
+ }
+}

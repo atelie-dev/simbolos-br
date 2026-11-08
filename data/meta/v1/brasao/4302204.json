@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4302204",
+ "uf": "RS",
+ "municipio": "Boa Vista do Buricá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Bras%C3%A3oB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c54591e9d87ebda0d51fdc1b38e32230a173283c638e4cb6eab29e9f1142c6ea",
+ "rendicoes": {
+  "png": {
+   "bytes": 84401,
+   "sha256": "09e19c85c8b25681ea0a0f94a251c5aaa4853cb2d4589d88de830a69c284b9e2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16450,
+   "sha256": "d64796ca273b63af125f9537fc02efe7c2c67f510526d0f4176054151781b34b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4302204.jpg",
+  "bytes": 10974,
+  "sha256": "c54591e9d87ebda0d51fdc1b38e32230a173283c638e4cb6eab29e9f1142c6ea"
+ },
+ "sha1_origem": "a6d418b33b77381bb937e54a37b37aae8ef13bf6",
+ "bytes_origem": 10974,
+ "capturado_em": "2026-11-08T06:59:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasãoB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "a6d418b33b77381bb937e54a37b37aae8ef13bf6"
+ }
+}

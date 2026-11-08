@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5204904",
+ "uf": "GO",
+ "municipio": "Campos Belos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Brasaocamposbelos.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Campos Belos",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fbe32c12605df63f23034e5a6238805dbfc51c989aff6884ae14617c8d6f2ca6",
+ "rendicoes": {
+  "png": {
+   "bytes": 157727,
+   "sha256": "9c3736bb549a6782a215208d4b394898b6868767314b69fa97d6ea052ffaaf6d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47289,
+   "sha256": "d31485545ec24a0f405f9169b10da83906e3db078178fc6924d612daeb569dad",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5204904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5204904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5204904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5204904.png",
+  "bytes": 174844,
+  "sha256": "fbe32c12605df63f23034e5a6238805dbfc51c989aff6884ae14617c8d6f2ca6"
+ },
+ "sha1_origem": "6a7bf2968a8ff2ab862c2905e0b8f8fb3729336d",
+ "bytes_origem": 174844,
+ "capturado_em": "2026-11-08T07:17:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaocamposbelos.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "6a7bf2968a8ff2ab862c2905e0b8f8fb3729336d"
+ }
+}

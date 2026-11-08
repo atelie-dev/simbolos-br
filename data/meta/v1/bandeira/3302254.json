@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3302254",
+ "uf": "RJ",
+ "municipio": "Itatiaia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bandeira-itatiaia2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Itaiaia",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f0853619edbe9d3c987190d062d68ed2e9cc26b3feaaebf525fe290fb039b3a1",
+ "rendicoes": {
+  "png": {
+   "bytes": 31926,
+   "sha256": "76551da051a40b8ad60c889b1f0b02ca8121cb6758c649e565aadb38be373457",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21120,
+   "sha256": "46df34d0d650659d110cb105909960aad6c73fd4aa60353f4aaef1bff8786c9c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302254.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302254.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302254.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3302254.png",
+  "bytes": 27820,
+  "sha256": "f0853619edbe9d3c987190d062d68ed2e9cc26b3feaaebf525fe290fb039b3a1"
+ },
+ "sha1_origem": "4a90ff34c8740a68917440c15e8608044416bd45",
+ "bytes_origem": 27820,
+ "capturado_em": "2026-11-08T06:21:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-itatiaia2.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "4a90ff34c8740a68917440c15e8608044416bd45"
+ }
+}

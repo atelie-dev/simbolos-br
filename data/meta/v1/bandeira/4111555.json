@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4111555",
+ "uf": "PR",
+ "municipio": "Ivaté",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Bandeira_Ivat%C3%A9.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/webp",
+ "sha256_origem": "a472f47816aee3f95409305ed161f59cfe1bd84b2d003170f21afd7e6257dab3",
+ "rendicoes": {
+  "png": {
+   "bytes": 50964,
+   "sha256": "15e7ba0b90534adbaefcff3757fb2091e7a1c6f4cacb19da65c9d86a9c4473e2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21796,
+   "sha256": "51865e0a88ab51445960325e4ab1cde8c759f4234980a34ecb48ed73cfd50faf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111555.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111555.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111555.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4111555.webp",
+  "bytes": 47550,
+  "sha256": "a472f47816aee3f95409305ed161f59cfe1bd84b2d003170f21afd7e6257dab3"
+ },
+ "sha1_origem": "45c87752e3e4c06599302488b3a1bd785baf0827",
+ "bytes_origem": 47550,
+ "capturado_em": "2026-11-08T06:45:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Ivaté.webp",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "45c87752e3e4c06599302488b3a1bd785baf0827"
+ }
+}

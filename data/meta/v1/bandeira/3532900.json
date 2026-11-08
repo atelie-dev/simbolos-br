@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532900",
+ "uf": "SP",
+ "municipio": "Nova Europa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bandeira_Nova_Europa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b3920936bd2740e38f7643abe164621c927562932b6e1886e5d4f69d91256ae0",
+ "rendicoes": {
+  "png": {
+   "bytes": 26437,
+   "sha256": "80a209775c5bd398e23a21dfaef96f88f80a1a6b40aed0920614406a63ee12da",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19308,
+   "sha256": "ad9189ea80406d182fed4fdf1c1be16c39d204e4d71204e0a6c70155daab5067",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3532900.png",
+  "bytes": 19107,
+  "sha256": "b3920936bd2740e38f7643abe164621c927562932b6e1886e5d4f69d91256ae0"
+ },
+ "sha1_origem": "f73525544f790211aa8b534a1e6129f186415801",
+ "bytes_origem": 19107,
+ "capturado_em": "2026-11-08T06:33:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Nova_Europa.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "f73525544f790211aa8b534a1e6129f186415801"
+ }
+}

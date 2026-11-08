@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3169356",
+ "uf": "MG",
+ "municipio": "Três Marias",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/17/Brasaotresmariasmg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Três Marias",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e2c2fcfff364c7e7459d339e79095d857756338499addd19749cb6c961a1c71c",
+ "rendicoes": {
+  "png": {
+   "bytes": 196888,
+   "sha256": "c75a8e8039aa791635ae001ec326bce588e0cdf0c1e515912702ea03d5b06f55",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44905,
+   "sha256": "071571182a494c336388b2e3c3ffea6ef5829dedaee489a751ffcfc179ba75b6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3169356.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3169356.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3169356.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3169356.jpg",
+  "bytes": 32884,
+  "sha256": "e2c2fcfff364c7e7459d339e79095d857756338499addd19749cb6c961a1c71c"
+ },
+ "sha1_origem": "01db466dae6c8f16806bf87d425572bce5c8defb",
+ "bytes_origem": 32884,
+ "capturado_em": "2026-11-08T06:17:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaotresmariasmg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "01db466dae6c8f16806bf87d425572bce5c8defb"
+ }
+}

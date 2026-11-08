@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3103801",
+ "uf": "MG",
+ "municipio": "Arapuá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Arapuab.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e53b83f03463d4011f459030d9330936beb6b376419a1c7c6d02792f6ab75069",
+ "rendicoes": {
+  "png": {
+   "bytes": 131007,
+   "sha256": "fa2547b67d611e308b2a22367d84556ddd41d6bb92867b5f350d37d1d9ad30c7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43597,
+   "sha256": "d9801cf1f0080625377e951c88a86a3dea2340ee56c8d145859fa7cb41d1e432",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3103801.jpg",
+  "bytes": 117677,
+  "sha256": "e53b83f03463d4011f459030d9330936beb6b376419a1c7c6d02792f6ab75069"
+ },
+ "sha1_origem": "2f446f5a381032632051dfadf68f0346d65604bb",
+ "bytes_origem": 117677,
+ "capturado_em": "2026-11-08T05:59:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Arapuab.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "2f446f5a381032632051dfadf68f0346d65604bb"
+ }
+}

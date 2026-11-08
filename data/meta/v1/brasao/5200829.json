@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5200829",
+ "uf": "GO",
+ "municipio": "Amaralina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bras%C3%A3o_de_Amaralina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Amaralina",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1933130d4ecd286b29097694f7fc22882cde3d64de541c91ccf44944033314c5",
+ "rendicoes": {
+  "png": {
+   "bytes": 42369,
+   "sha256": "0ed29929258f193db0fe1057d390c09d64a7c2c537efce1776de675cabc74f00",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11354,
+   "sha256": "a2091f7d031c974821d19072a87928298b77b75b78a4992f41b5c41faf701f5d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5200829.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5200829.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5200829.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5200829.jpg",
+  "bytes": 33893,
+  "sha256": "1933130d4ecd286b29097694f7fc22882cde3d64de541c91ccf44944033314c5"
+ },
+ "sha1_origem": "d4ba231d41d75cabb064d1972c4eb6b278ab0a72",
+ "bytes_origem": 33893,
+ "capturado_em": "2026-11-08T07:16:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Amaralina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "d4ba231d41d75cabb064d1972c4eb6b278ab0a72"
+ }
+}

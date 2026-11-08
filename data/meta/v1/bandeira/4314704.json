@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314704",
+ "uf": "RS",
+ "municipio": "Planalto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bandeira_Planalto-RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Diogo Pivatto",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ae9200644ad47b9a88f27348ea5a529e15152d86d73779f7a386d6388befaced",
+ "rendicoes": {
+  "png": {
+   "bytes": 58541,
+   "sha256": "19836d3ec8d553b12d4629b3483b1296def1bcf383eeda0cb925b1043de5022e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18581,
+   "sha256": "4cda6aea62ac9e917e31f232b9df730ed2990fe19f9cd1cfdf1d86c8a7e6eea5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4314704.jpg",
+  "bytes": 76301,
+  "sha256": "ae9200644ad47b9a88f27348ea5a529e15152d86d73779f7a386d6388befaced"
+ },
+ "sha1_origem": "b1d833107bbf58a34e85796c57c0842e23de37f5",
+ "bytes_origem": 76301,
+ "capturado_em": "2026-11-08T07:07:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Planalto-RS.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "b1d833107bbf58a34e85796c57c0842e23de37f5"
+ }
+}

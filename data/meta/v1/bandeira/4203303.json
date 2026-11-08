@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4203303",
+ "uf": "SC",
+ "municipio": "Campo Alegre",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bandeira_campoalegre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Campo Alegre",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0c99d4e5d2284e871f2b8e2785e096eecb20c92c22218b6ef938b4c32465c93b",
+ "rendicoes": {
+  "png": {
+   "bytes": 60870,
+   "sha256": "b750ed0f524cbfa00896d005363644b3396754c69e77b3b862d42cd45d5b9548",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18354,
+   "sha256": "64480c050168a4aeffa85f618253f857595d13133ca35aa5d5372b792eaff1a3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4203303.jpg",
+  "bytes": 28823,
+  "sha256": "0c99d4e5d2284e871f2b8e2785e096eecb20c92c22218b6ef938b4c32465c93b"
+ },
+ "sha1_origem": "0f51bdd52b0fc7c6958f79cf9f9bcb5d7725bd7e",
+ "bytes_origem": 28823,
+ "capturado_em": "2026-11-08T06:52:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_campoalegre.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "0f51bdd52b0fc7c6958f79cf9f9bcb5d7725bd7e"
+ }
+}

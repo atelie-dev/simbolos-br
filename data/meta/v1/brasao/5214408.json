@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5214408",
+ "uf": "GO",
+ "municipio": "Nazário",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bras%C3%A3o_Naz%C3%A1rio-GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Nazário, Goiás.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "91e61ecea50c98f3f443ca09f3de67eab9175341ed7c1ce19990472b35b9f5d3",
+ "rendicoes": {
+  "png": {
+   "bytes": 153757,
+   "sha256": "fab934b660ce7e8dc0df91988125d1dd45b7d0e1c14563ea63a64b0e9c8caf3f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28961,
+   "sha256": "02615c97f36d9832ad30aa1f889a46862ed537928255f8a550fc28188412f44d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5214408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5214408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5214408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5214408.jpg",
+  "bytes": 24995,
+  "sha256": "91e61ecea50c98f3f443ca09f3de67eab9175341ed7c1ce19990472b35b9f5d3"
+ },
+ "sha1_origem": "f027247ba69b2e47f6d60f806d7149448f5f85e7",
+ "bytes_origem": 24995,
+ "capturado_em": "2026-11-08T07:19:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Nazário-GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "f027247ba69b2e47f6d60f806d7149448f5f85e7"
+ }
+}

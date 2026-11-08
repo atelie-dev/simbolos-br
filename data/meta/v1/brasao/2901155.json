@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2901155",
+ "uf": "BA",
+ "municipio": "América Dourada",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bras%C3%A3o_Am%C3%A9rica_Dourada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de América Dourada",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2dc28b023b8339a502f5677fff894de0e0cd4bee3c84bcbd617e86c7f0eee3f7",
+ "rendicoes": {
+  "png": {
+   "bytes": 207861,
+   "sha256": "9bfbf692972ff3f7473190243e40e55b7ee76d151474eadcf93cc77308107abb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36517,
+   "sha256": "973bc6f138a347add888443dd028de639b6bb4d3de71063715af8ea8ae694606",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2901155.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2901155.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2901155.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2901155.jpg",
+  "bytes": 48683,
+  "sha256": "2dc28b023b8339a502f5677fff894de0e0cd4bee3c84bcbd617e86c7f0eee3f7"
+ },
+ "sha1_origem": "2f208e74bc50709689577e1ebe8af06a916f9748",
+ "bytes_origem": 48683,
+ "capturado_em": "2026-11-08T05:50:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_América_Dourada.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "2f208e74bc50709689577e1ebe8af06a916f9748"
+ }
+}

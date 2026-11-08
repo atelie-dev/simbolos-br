@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2612000",
+ "uf": "PE",
+ "municipio": "Sairé",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bras%C3%A3o_Sair%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura Municipal de Sairé",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c97f72934771da26fd3a8b952d7b4c2adae5f044056768806ca0a64bf3e63a3a",
+ "rendicoes": {
+  "png": {
+   "bytes": 131419,
+   "sha256": "4da31ad59ce6603c6b374e545daf57c42ac468558f50ccd99acc4a1addc152b8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33242,
+   "sha256": "0c0655e493cccacbd1632aa12b05c625a5ea437f8c99e1183ec949346e55e4db",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2612000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2612000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2612000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2612000.jpg",
+  "bytes": 100404,
+  "sha256": "c97f72934771da26fd3a8b952d7b4c2adae5f044056768806ca0a64bf3e63a3a"
+ },
+ "sha1_origem": "45ce5ab83097ec347009e9f1bdae268954d523a9",
+ "bytes_origem": 100404,
+ "capturado_em": "2026-11-08T05:46:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Sairé.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "45ce5ab83097ec347009e9f1bdae268954d523a9"
+ }
+}

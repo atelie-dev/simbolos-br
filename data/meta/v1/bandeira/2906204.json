@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2906204",
+ "uf": "BA",
+ "municipio": "Canarana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bandeira_canarana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Canarana",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9743d6586bbf0cb3bf18334fcd9379db6a469514c2cc5bdb69a7e8610f3cfdd7",
+ "rendicoes": {
+  "png": {
+   "bytes": 37220,
+   "sha256": "2770f7dead972a923e35ca58de07612f73fd3c4a851db685b4b85e8c35dfce22",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9934,
+   "sha256": "852fceda91a58f81c2d3341df1fb6e5ba3d25b773c93e042fd2507c07eca22b0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2906204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2906204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2906204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2906204.jpg",
+  "bytes": 9255,
+  "sha256": "9743d6586bbf0cb3bf18334fcd9379db6a469514c2cc5bdb69a7e8610f3cfdd7"
+ },
+ "sha1_origem": "d9abcbba9ef8f85c33ea6abfe9a6cf8438c44fb9",
+ "bytes_origem": 9255,
+ "capturado_em": "2026-11-08T05:52:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_canarana.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "d9abcbba9ef8f85c33ea6abfe9a6cf8438c44fb9"
+ }
+}

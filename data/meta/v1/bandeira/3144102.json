@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3144102",
+ "uf": "MG",
+ "municipio": "Muzambinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Flag_of_Muzambinho_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "06519d95179ae55632816204a8d4b1ec3ea14a9e5b5a2a8ecf2ddc1183ce5f55",
+ "rendicoes": {
+  "png": {
+   "bytes": 87530,
+   "sha256": "bcf917c51f3b58844b38f1ee549b276690a249f81f4f752fe416c75238144b03",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22157,
+   "sha256": "82c01fd158587b1cc3ec51236f4a05b040e5d644ebc61974ad7649a148827403",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3144102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3144102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3144102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3144102.png",
+  "bytes": 344720,
+  "sha256": "06519d95179ae55632816204a8d4b1ec3ea14a9e5b5a2a8ecf2ddc1183ce5f55"
+ },
+ "sha1_origem": "38cb95aa62ff13dc5597fa359e28852dcff2c251",
+ "bytes_origem": 344720,
+ "capturado_em": "2026-11-08T06:12:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Muzambinho_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "38cb95aa62ff13dc5597fa359e28852dcff2c251"
+ }
+}

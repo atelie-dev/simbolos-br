@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3200805",
+ "uf": "ES",
+ "municipio": "Baixo Guandu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Flag_of_Baixo_Guandu_ES.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HVL",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f05990aae6bbebf9088555f15e3f4310b12d70da7a3ee0d797f023ebde55c9c7",
+ "rendicoes": {
+  "png": {
+   "bytes": 125874,
+   "sha256": "bea513be3c53d8784ae623a0e4627f77195688ee1f554b2859a1bb26f29fed85",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30068,
+   "sha256": "58a0fee179119239e10c89b96a90ee9778dad76428809a6ac022cb4e13b74d0b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3200805.png",
+  "bytes": 159827,
+  "sha256": "f05990aae6bbebf9088555f15e3f4310b12d70da7a3ee0d797f023ebde55c9c7"
+ },
+ "sha1_origem": "9dcfe8bf945ab5de2b1c3c60829c1382c248fdec",
+ "bytes_origem": 159827,
+ "capturado_em": "2026-11-08T06:18:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Baixo_Guandu_ES.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "9dcfe8bf945ab5de2b1c3c60829c1382c248fdec"
+ }
+}

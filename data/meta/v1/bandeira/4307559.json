@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4307559",
+ "uf": "RS",
+ "municipio": "Estação",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Esta%C3%A7%C3%A3obanders.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Estação",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "01e1fe3cce5c2e879f20367a87fc797d01bfbfe2baf7196d78eed4ff30823a04",
+ "rendicoes": {
+  "png": {
+   "bytes": 13528,
+   "sha256": "1a4e1ba734f5edce2837ff9986c1b992fa7d296b220c51dbf91f65ca78f2e0bc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8351,
+   "sha256": "1b5737636269ca4182bbca4f13b782c4bb0882a3b4c9301f7ac40024fb72f526",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307559.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307559.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307559.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4307559.png",
+  "bytes": 10806,
+  "sha256": "01e1fe3cce5c2e879f20367a87fc797d01bfbfe2baf7196d78eed4ff30823a04"
+ },
+ "sha1_origem": "d8d34a16e1ab2bf5b9e1b2ae911cfc239a1fdf81",
+ "bytes_origem": 10806,
+ "capturado_em": "2026-11-08T07:02:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Estaçãobanders.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "d8d34a16e1ab2bf5b9e1b2ae911cfc239a1fdf81"
+ }
+}

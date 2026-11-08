@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5107008",
+ "uf": "MT",
+ "municipio": "Poxoréu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bandeira_de_Poxor%C3%A9u_%28Mato_Grosso%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Adilson Bioys",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0abe8a369e429fce88851428a48e6dfd0a5d653e77d65ec974be807e66957b3e",
+ "rendicoes": {
+  "png": {
+   "bytes": 25558,
+   "sha256": "f801538a113d092b9d8b960ca4e81389c5b2cc5183994d839c2cbcc83b8a86aa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9983,
+   "sha256": "8fc53ee315105786b829ba13d8861374f26be252a9d7823fc8acc838f8f64f95",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5107008.jpg",
+  "bytes": 7331,
+  "sha256": "0abe8a369e429fce88851428a48e6dfd0a5d653e77d65ec974be807e66957b3e"
+ },
+ "sha1_origem": "61ad8d51f65923e5bd351c238007cd54b860f9c5",
+ "bytes_origem": 7331,
+ "capturado_em": "2026-11-08T07:15:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Poxoréu_(Mato_Grosso).jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "61ad8d51f65923e5bd351c238007cd54b860f9c5"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2706000",
+ "uf": "AL",
+ "municipio": "Olivença",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bras%C3%A3o_de_Oliven%C3%A7a_ALAGOAS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Olivença",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4b93af7090fd08a84e3451bf9bd48c6a3c874b97c856d180ce452efe81933f43",
+ "rendicoes": {
+  "png": {
+   "bytes": 233904,
+   "sha256": "a3386257726b0e42279cf1ad588ed60829aeaf3bff4926728f90809e5d1189e8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37462,
+   "sha256": "58f577fcdf073694e2e44a76ecec15230c81c740a32512b791c46f122163591a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2706000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2706000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2706000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2706000.png",
+  "bytes": 786796,
+  "sha256": "4b93af7090fd08a84e3451bf9bd48c6a3c874b97c856d180ce452efe81933f43"
+ },
+ "sha1_origem": "f61492867987da7753813c2b8f25ce9ae59806c0",
+ "bytes_origem": 786796,
+ "capturado_em": "2026-11-08T05:48:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Olivença_ALAGOAS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "f61492867987da7753813c2b8f25ce9ae59806c0"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4122305",
+ "uf": "PR",
+ "municipio": "Rio Negro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Brasaorionegro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f5f032447b761f1da3f3e9ca7e115e707cf94ce65ce4933da930a8e869ac9c7e",
+ "rendicoes": {
+  "png": {
+   "bytes": 31171,
+   "sha256": "bd80935469b5899797309bb4e614f6ff689c2d6a1440c6453e5db432a71d8331",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8028,
+   "sha256": "d0024a6af8d9c49bebda09e4350d2d8bed29139566e424a2eb1a004bf676f321",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4122305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4122305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4122305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4122305.png",
+  "bytes": 28037,
+  "sha256": "f5f032447b761f1da3f3e9ca7e115e707cf94ce65ce4933da930a8e869ac9c7e"
+ },
+ "sha1_origem": "f6aba6d83a45e49dfb139f863d4e47206246df4f",
+ "bytes_origem": 28037,
+ "capturado_em": "2026-11-08T06:49:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaorionegro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "f6aba6d83a45e49dfb139f863d4e47206246df4f"
+ }
+}

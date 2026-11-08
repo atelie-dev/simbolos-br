@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4204178",
+ "uf": "SC",
+ "municipio": "Cerro Negro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bandeira_do_munic%C3%ADpio_de_Cerro_Negro_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cerro Negro (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b008afbe2846f444d9654252f39167f033f8a3815a554a44142bbd531e9da8c8",
+ "rendicoes": {
+  "png": {
+   "bytes": 80926,
+   "sha256": "8e86773ff21157559af55a919f146f3b780b7f961301001ef569f888a3fafa1f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31950,
+   "sha256": "fdea1920a49a2995955f6857d5e2eed9199052a0401a16cc563c90be812f25b2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204178.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204178.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204178.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4204178.png",
+  "bytes": 739513,
+  "sha256": "b008afbe2846f444d9654252f39167f033f8a3815a554a44142bbd531e9da8c8"
+ },
+ "sha1_origem": "11045e332a66a10d117734bd11b1c2c4c3db9d3b",
+ "bytes_origem": 739513,
+ "capturado_em": "2026-11-08T06:52:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Cerro_Negro_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "11045e332a66a10d117734bd11b1c2c4c3db9d3b"
+ }
+}

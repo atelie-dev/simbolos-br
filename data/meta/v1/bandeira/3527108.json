@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3527108",
+ "uf": "SP",
+ "municipio": "Lins",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bandeira_de_Lins_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "104079b5cc7274915b3c61b703062f15b5095ee60ac1bef2053280b84ac0e51f",
+ "rendicoes": {
+  "png": {
+   "bytes": 81629,
+   "sha256": "13e418798c4f3e35e3e3ccb47c874be5cc84459d26a3865fb101177c60df4ea6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26637,
+   "sha256": "2e45f12d3b26135da40f88fbb393ceda62e640cf2241cff19fdbdf26426c5982",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 387494,
+   "sha256": "104079b5cc7274915b3c61b703062f15b5095ee60ac1bef2053280b84ac0e51f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527108.jpg"
+ },
+ "sha1_origem": "1624dffda8ca692eafdea746312adaf11a0bbb2c",
+ "bytes_origem": 387494,
+ "capturado_em": "2026-11-08T04:07:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Lins_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "1624dffda8ca692eafdea746312adaf11a0bbb2c"
+ }
+}

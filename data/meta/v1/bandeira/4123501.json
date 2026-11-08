@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4123501",
+ "uf": "PR",
+ "municipio": "Santa Helena",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Santa_helena_bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cleverson Cândido da Roza",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3407bd639be06d38f2e909189d2bb11a62789d5926a087ba4ce57867349910d2",
+ "rendicoes": {
+  "png": {
+   "bytes": 19014,
+   "sha256": "f25a17e2a3ec5c7bd8886d2b7d3b32630cccbe15b3af3416538be83287e6bc59",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9978,
+   "sha256": "159fb629d4a63166e70eb580b86caf4e5269c848b62c22ecfb9bc38bcb606ea3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4123501.jpg",
+  "bytes": 10823,
+  "sha256": "3407bd639be06d38f2e909189d2bb11a62789d5926a087ba4ce57867349910d2"
+ },
+ "sha1_origem": "d862b5701d43a94989436fd6acd629912b6b5d67",
+ "bytes_origem": 10823,
+ "capturado_em": "2026-11-08T06:49:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Santa_helena_bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:36Z",
+  "estado": "igual",
+  "sha1_commons": "d862b5701d43a94989436fd6acd629912b6b5d67"
+ }
+}

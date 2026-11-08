@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2307601",
+ "uf": "CE",
+ "municipio": "Limoeiro do Norte",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brasao_limoeiro_do_norte_ce.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Alex Chaves Monteiro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3fca5e82a7693c9332aa3f33bb8570d7fdfdf3f3964b5662caa5784568b876b8",
+ "rendicoes": {
+  "png": {
+   "bytes": 80147,
+   "sha256": "01129934280ce15545cf0a23b1ce8299414397151e7372b2a94782fdaca10943",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14102,
+   "sha256": "07f48e1cf6a0ac0abfa71e1a2dcdfbcd1eb91282d0529f1ba2c86a17af0bf812",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2307601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2307601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2307601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2307601.jpg",
+  "bytes": 9659,
+  "sha256": "3fca5e82a7693c9332aa3f33bb8570d7fdfdf3f3964b5662caa5784568b876b8"
+ },
+ "sha1_origem": "c8a3a83744808a6df386bbd5b2e8b76869f4d22e",
+ "bytes_origem": 9659,
+ "capturado_em": "2026-11-08T05:33:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_limoeiro_do_norte_ce.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "c8a3a83744808a6df386bbd5b2e8b76869f4d22e"
+ }
+}

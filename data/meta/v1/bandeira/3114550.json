@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3114550",
+ "uf": "MG",
+ "municipio": "Carneirinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bandeiracarneirinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Carneirinho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a4d8951e888695de907439d1099a6383d8e243bc8dd4d3359629286d7011ae0b",
+ "rendicoes": {
+  "png": {
+   "bytes": 32942,
+   "sha256": "1d70da06983c34e69dd70eb78d83f1d297570dc39e000f9a03d584e6c1f2de14",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10866,
+   "sha256": "026acefd60eecacbca590fabfc7d38b3f97969addd12ba6010e590b4670bcd56",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3114550.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3114550.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3114550.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3114550.jpg",
+  "bytes": 8709,
+  "sha256": "a4d8951e888695de907439d1099a6383d8e243bc8dd4d3359629286d7011ae0b"
+ },
+ "sha1_origem": "c8e7ca5edd1d26e4c662283e7d4be25609c2830b",
+ "bytes_origem": 8709,
+ "capturado_em": "2026-11-08T06:03:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiracarneirinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "c8e7ca5edd1d26e4c662283e7d4be25609c2830b"
+ }
+}

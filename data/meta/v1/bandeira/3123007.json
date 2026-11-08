@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3123007",
+ "uf": "MG",
+ "municipio": "Dores de Campos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bandeira_de_Dores_de_Campos_-_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Rengaw",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6f05b1f4de21d5d604f40b138289ea1d7d075d0327ae7dd1f700c7fe64d19310",
+ "rendicoes": {
+  "png": {
+   "bytes": 14700,
+   "sha256": "d9dd07c79ff83b1eb4bc072663b8e9b4d967bca3c8d07a963a29bcee82d56343",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7363,
+   "sha256": "a7bf260a374949abd407e6fc32534c196a33e04d720f8de8c8a41df869ceea45",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3123007.jpg",
+  "bytes": 4127,
+  "sha256": "6f05b1f4de21d5d604f40b138289ea1d7d075d0327ae7dd1f700c7fe64d19310"
+ },
+ "sha1_origem": "de894b1d61848131b4806cc2dbd445c98b567560",
+ "bytes_origem": 4127,
+ "capturado_em": "2026-11-08T06:06:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Dores_de_Campos_-_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "de894b1d61848131b4806cc2dbd445c98b567560"
+ }
+}

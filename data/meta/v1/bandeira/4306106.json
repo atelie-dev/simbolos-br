@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4306106",
+ "uf": "RS",
+ "municipio": "Cruz Alta",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Bandeira_de_Cruz_Alta-RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "JSM-JSM",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7d28482df9d633954c50ae8303f73576765b174c3992da235ecb2d6f8e25be35",
+ "rendicoes": {
+  "png": {
+   "bytes": 46949,
+   "sha256": "bc9f716ffc88bab21674085d5fa9ca0114814d17f430d7e0595b21eee5274804",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12944,
+   "sha256": "24e21e482426b30258f5aff55f1013e3100ce803c8e68b68de7803fd89800156",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4306106.jpg",
+  "bytes": 56300,
+  "sha256": "7d28482df9d633954c50ae8303f73576765b174c3992da235ecb2d6f8e25be35"
+ },
+ "sha1_origem": "d0d12340583f32829c31d37d76f970371f42c751",
+ "bytes_origem": 56300,
+ "capturado_em": "2026-11-08T07:01:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cruz_Alta-RS.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "d0d12340583f32829c31d37d76f970371f42c751"
+ }
+}

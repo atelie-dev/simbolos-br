@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2307601",
+ "uf": "CE",
+ "municipio": "Limoeiro do Norte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bandeira_limoeiro_do_norte_ce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Alex Chaves Monteiro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "871a389b328bfc61e2861aa1e9bba4ce95dfc3c8a503fd00390853de54fd52c6",
+ "rendicoes": {
+  "png": {
+   "bytes": 37902,
+   "sha256": "e16f5f1c7d89335efe60f4ee1d0bf2df5d7822e6c2a37fc974aa1b258a6c02c6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11631,
+   "sha256": "29b1d432655fa1840369d2024a90bdf2a54fc45a9ca29ef0e6e1ad84bde7019c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2307601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2307601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2307601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2307601.jpg",
+  "bytes": 8108,
+  "sha256": "871a389b328bfc61e2861aa1e9bba4ce95dfc3c8a503fd00390853de54fd52c6"
+ },
+ "sha1_origem": "7e56dbc0fe3dcb8f275862978375770d83fe6611",
+ "bytes_origem": 8108,
+ "capturado_em": "2026-11-08T05:33:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_limoeiro_do_norte_ce.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "7e56dbc0fe3dcb8f275862978375770d83fe6611"
+ }
+}

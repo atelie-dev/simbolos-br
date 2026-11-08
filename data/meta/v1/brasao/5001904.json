@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5001904",
+ "uf": "MS",
+ "municipio": "Bataguassu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Brasao_Bataguassu_MatoGrossodoSul_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1364c5df2890d005d1760641ddee95501be82614b1069a24bd50cec9a7290801",
+ "rendicoes": {
+  "png": {
+   "bytes": 130629,
+   "sha256": "81155071543cd10592c2f3be157f3d6f72b111ce3f11019a6049e93d51831dc2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48851,
+   "sha256": "b551cdab32625f95781c97e7df9d6652491689cc08478a8eb9f1eaa862a8d133",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 270278,
+   "sha256": "1364c5df2890d005d1760641ddee95501be82614b1069a24bd50cec9a7290801"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5001904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5001904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5001904.jpg"
+ },
+ "sha1_origem": "84259fc81a12a377bff65b2a62f6dd25f9a7efb1",
+ "bytes_origem": 270278,
+ "capturado_em": "2026-11-08T05:03:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Bataguassu_MatoGrossodoSul_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "84259fc81a12a377bff65b2a62f6dd25f9a7efb1"
+ }
+}

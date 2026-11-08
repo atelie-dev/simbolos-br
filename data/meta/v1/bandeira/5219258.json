@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5219258",
+ "uf": "GO",
+ "municipio": "Santa Fé de Goiás",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bandeira_Santa_F%C3%A9_de_Goi%C3%A1s-GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Santa Fé de Goiás.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "eea9a9393330a96dd60ff9465da3cf04e8708026c7010a80239655b90dd2c9f9",
+ "rendicoes": {
+  "png": {
+   "bytes": 45465,
+   "sha256": "57802d8f0ffb922c10185ddb838b225e472ccb0352e65156b82b120aab917f1b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14547,
+   "sha256": "855add6c392bf1db074e7a3de087ed2fda3305da9466bf45cebafd7609b6e960",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5219258.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5219258.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5219258.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5219258.jpg",
+  "bytes": 45361,
+  "sha256": "eea9a9393330a96dd60ff9465da3cf04e8708026c7010a80239655b90dd2c9f9"
+ },
+ "sha1_origem": "76067af39558f318d3db1d291384cca6aa473296",
+ "bytes_origem": 45361,
+ "capturado_em": "2026-11-08T07:20:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Santa_Fé_de_Goiás-GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "76067af39558f318d3db1d291384cca6aa473296"
+ }
+}

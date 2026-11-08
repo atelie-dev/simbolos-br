@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5214903",
+ "uf": "GO",
+ "municipio": "Nova Roma",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bras%C3%A3o_de_Nova_Roma.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Nova Roma",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b1d7d098e79131006fd6e9a6296f3bca6af17f43baf36e6f86f5459aaf320f58",
+ "rendicoes": {
+  "png": {
+   "bytes": 259665,
+   "sha256": "2be5a073a4c91bad9e735607741cfe808c6d2d3957c8bd369c74b9b49dee7701",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37604,
+   "sha256": "b750f0e30dfd225a8bfec854acc4b012420edc37fb9866e113a44cd4080e7104",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5214903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5214903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5214903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5214903.png",
+  "bytes": 733112,
+  "sha256": "b1d7d098e79131006fd6e9a6296f3bca6af17f43baf36e6f86f5459aaf320f58"
+ },
+ "sha1_origem": "b2c398049de381f749b1e3ba43e915bb363a70f7",
+ "bytes_origem": 733112,
+ "capturado_em": "2026-11-08T07:19:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Nova_Roma.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "b2c398049de381f749b1e3ba43e915bb363a70f7"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5102504",
+ "uf": "MT",
+ "municipio": "Cáceres",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bandeira-caceres.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cáceres City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "09a855702ccf8333649c7d6e484f0ff1f2289ed893cca389a39afcdded8cca98",
+ "rendicoes": {
+  "png": {
+   "bytes": 66502,
+   "sha256": "1828961f0823e11581fb28267eae8e4acbcb58ede9527ce94d65b7f5b1620848",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21530,
+   "sha256": "5dd7a3739ff74c60b294f4df56c4ba056c25f9ffe57ee9caeadb779363c4172a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5102504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5102504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5102504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5102504.jpg",
+  "bytes": 21280,
+  "sha256": "09a855702ccf8333649c7d6e484f0ff1f2289ed893cca389a39afcdded8cca98"
+ },
+ "sha1_origem": "f28dd9b0973a704a3e544819eee80fe6388dcdc4",
+ "bytes_origem": 21280,
+ "capturado_em": "2026-11-08T07:14:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-caceres.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "f28dd9b0973a704a3e544819eee80fe6388dcdc4"
+ }
+}

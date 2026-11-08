@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312252",
+ "uf": "RS",
+ "municipio": "Minas do Leão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Bandeira_Minas_do_Le%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Minas do Leão",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "281092eea1480fefcdfd2ac6248768c334fc983ae7ca14714ba740ffe6dace71",
+ "rendicoes": {
+  "png": {
+   "bytes": 189288,
+   "sha256": "3ff4c562e46ac3def8829c85ef7d663040907e0715e17fdb08e12d18170f2e9b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33393,
+   "sha256": "3e0ddc3b7a3d22b3daf031c809265ddda95bc6b155da28bf2c80808f5ff1dc07",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312252.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312252.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312252.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4312252.jpg",
+  "bytes": 53991,
+  "sha256": "281092eea1480fefcdfd2ac6248768c334fc983ae7ca14714ba740ffe6dace71"
+ },
+ "sha1_origem": "b337aaf6865722ecbb4de8518a7cb3f08e88b80a",
+ "bytes_origem": 53991,
+ "capturado_em": "2026-11-08T07:05:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Minas_do_Leão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "b337aaf6865722ecbb4de8518a7cb3f08e88b80a"
+ }
+}

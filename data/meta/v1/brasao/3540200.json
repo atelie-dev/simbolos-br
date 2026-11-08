@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3540200",
+ "uf": "SP",
+ "municipio": "Pontal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Pontal.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b76fa535acb000e9ea0fb004068a929885a173155300b534ad94a58ee7aaab01",
+ "rendicoes": {
+  "png": {
+   "bytes": 365707,
+   "sha256": "1717fe54f41d0f91d94ac6442d14f6028a311ace8ffabeba8be729e87f6eea38",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61167,
+   "sha256": "61219fa24b37731dc3b34e54ce0145f3884e333911b66ec3dbd8a18089cca79e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3540200.png",
+  "bytes": 1825556,
+  "sha256": "b76fa535acb000e9ea0fb004068a929885a173155300b534ad94a58ee7aaab01"
+ },
+ "sha1_origem": "40903dbe656f32f06e58880c27f12382087bd6cb",
+ "bytes_origem": 1825556,
+ "capturado_em": "2026-11-08T06:35:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Pontal.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "40903dbe656f32f06e58880c27f12382087bd6cb"
+ }
+}

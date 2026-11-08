@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2505006",
+ "uf": "PB",
+ "municipio": "Cubati",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bandeira_de_Cubati-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "8ae8b8fb8295f123c127ef7fd9c44d30d427305430aa905545744efa67131beb",
+ "rendicoes": {
+  "png": {
+   "bytes": 29614,
+   "sha256": "889f259d9c668c8b6eb18c64500c46a4a81162cdec9279d307b507c8d333f7ff",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14392,
+   "sha256": "99843b2ba6523ff715c7d75403fc92c8c090d3a1d9560ea25a5b9893f83a0816",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 17826,
+   "sha256": "8ae8b8fb8295f123c127ef7fd9c44d30d427305430aa905545744efa67131beb"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2505006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2505006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2505006.jpg"
+ },
+ "sha1_origem": "3dda5f69345b4c0fe997bacd2b5692ffba610425",
+ "bytes_origem": 17826,
+ "capturado_em": "2026-11-08T02:57:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cubati-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "3dda5f69345b4c0fe997bacd2b5692ffba610425"
+ }
+}

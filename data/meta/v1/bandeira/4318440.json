@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4318440",
+ "uf": "RS",
+ "municipio": "São Jorge",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Bandeira_de_S%C3%A3o_Jorge_RS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Yaanub",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "961b0fd3243fd3a538eb7597ed0df91e2173c6d4a8c2e36da0fb6eb19e7fdfff",
+ "rendicoes": {
+  "png": {
+   "bytes": 22024,
+   "sha256": "87679815364cbfc617ff03d7e0dff160c9bd8f9be193b3cb0646766a112a2954",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12611,
+   "sha256": "ecd371c9ee83f32673b2cfe8cd39b90a1f6b41f4f38fcd62079f06f30a82ae5d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318440.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318440.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318440.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4318440.png",
+  "bytes": 1542963,
+  "sha256": "961b0fd3243fd3a538eb7597ed0df91e2173c6d4a8c2e36da0fb6eb19e7fdfff"
+ },
+ "sha1_origem": "b47ac4a45ad52a61c2d9ed0be2c4612d7498f5fb",
+ "bytes_origem": 1542963,
+ "capturado_em": "2026-11-08T07:09:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Jorge_RS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "b47ac4a45ad52a61c2d9ed0be2c4612d7498f5fb"
+ }
+}

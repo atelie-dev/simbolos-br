@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4301073",
+ "uf": "RS",
+ "municipio": "Arroio do Padre",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bandeira_Arroio_do_Padre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Arroio do Padre",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "431e40aaf358d07202fe9e6a3a135e4170d9c916507991d604ced7d495c6c803",
+ "rendicoes": {
+  "png": {
+   "bytes": 40554,
+   "sha256": "dd178feaa050264a01f823318eac8540768cd8324909368709272b4ed2e5446a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13211,
+   "sha256": "821d52e31e74ffc59f72f9fa8fcf45c9fc2f3281fd8a06c48336ee0cc526fd77",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301073.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301073.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301073.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4301073.jpg",
+  "bytes": 12425,
+  "sha256": "431e40aaf358d07202fe9e6a3a135e4170d9c916507991d604ced7d495c6c803"
+ },
+ "sha1_origem": "f5e5589a4579c1de2e9aefac875041fd1c3e5a86",
+ "bytes_origem": 12425,
+ "capturado_em": "2026-11-08T06:58:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Arroio_do_Padre.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "f5e5589a4579c1de2e9aefac875041fd1c3e5a86"
+ }
+}

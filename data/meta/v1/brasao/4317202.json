@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4317202",
+ "uf": "RS",
+ "municipio": "Santa Rosa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bras%C3%A3o_de_Santa_Rosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santa Rosa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1b56d3d0a8beafc586b2e7d3a9419729821a2c09d61fc681b02f00e9ae9ddad1",
+ "rendicoes": {
+  "png": {
+   "bytes": 213545,
+   "sha256": "b4be722bedb52906bef4a699e1465e15c0c0f69ded4bcb4c5b59ba4242880da0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41916,
+   "sha256": "453743d32e6a6d406d1e887c0cf8ce08d8caa1769f923345e29c99cc00ae4305",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4317202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4317202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4317202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4317202.jpg",
+  "bytes": 89729,
+  "sha256": "1b56d3d0a8beafc586b2e7d3a9419729821a2c09d61fc681b02f00e9ae9ddad1"
+ },
+ "sha1_origem": "ba9dd1d1b3954ff99e29a47420fe09947b73075c",
+ "bytes_origem": 89729,
+ "capturado_em": "2026-11-08T07:08:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Santa_Rosa.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "ba9dd1d1b3954ff99e29a47420fe09947b73075c"
+ }
+}

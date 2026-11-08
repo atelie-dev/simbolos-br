@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1505700",
+ "uf": "PA",
+ "municipio": "Ponta de Pedras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Bandeira_ponta_de_pedras.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Ponta de Pedras.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bd6ac839d2da7cf52f244f3faa634aef048029ad0d943490fd5d6c3f8f2f734b",
+ "rendicoes": {
+  "png": {
+   "bytes": 15339,
+   "sha256": "e0110ac643591cb30eb84323cb2a771ad6a9ee5eaf9f4b5f24305b1d8d466010",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4764,
+   "sha256": "3a2fe8e44b9b3f17851d9ee2301c40c5bfdf9bac5a4f4aa30c233bbb435ccf0b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1505700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1505700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1505700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1505700.jpg",
+  "bytes": 2534,
+  "sha256": "bd6ac839d2da7cf52f244f3faa634aef048029ad0d943490fd5d6c3f8f2f734b"
+ },
+ "sha1_origem": "a3b4c3be19fa771f67206d749c4f67c90352b66b",
+ "bytes_origem": 2534,
+ "capturado_em": "2026-11-08T05:25:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_ponta_de_pedras.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "a3b4c3be19fa771f67206d749c4f67c90352b66b"
+ }
+}

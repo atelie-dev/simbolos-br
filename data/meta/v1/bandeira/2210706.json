@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2210706",
+ "uf": "PI",
+ "municipio": "Simões",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flago_de_Sim%C3%B5es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "municipo / prefeitura Simões (municipal prefecture)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0cd1b2b86a5ecfeed1b86d931d2cc852714a45bbbf1baa29bbbcadfc83a79955",
+ "rendicoes": {
+  "png": {
+   "bytes": 59909,
+   "sha256": "2d70bb5b58393fcda2896176e2733c2aaf7ad29b2e12306b710116a8762c0000",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16575,
+   "sha256": "28ce18ea65d8b1979055aa4848271e5f35a949336963719e69fe991eb8a2e55c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2210706.png",
+  "bytes": 387897,
+  "sha256": "0cd1b2b86a5ecfeed1b86d931d2cc852714a45bbbf1baa29bbbcadfc83a79955"
+ },
+ "sha1_origem": "bc194ef2620723452aa12f6517aa26b53e590059",
+ "bytes_origem": 387897,
+ "capturado_em": "2026-11-08T05:31:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flago_de_Simões.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:30Z",
+  "estado": "igual",
+  "sha1_commons": "bc194ef2620723452aa12f6517aa26b53e590059"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2304301",
+ "uf": "CE",
+ "municipio": "Farias Brito",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bras%C3%A3o_de_Farias_Brito.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Farias Brito",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "dbe5c4ba3de091403850abd435239a730ab746f73f6ea94e8c77af32b687ed7f",
+ "rendicoes": {
+  "png": {
+   "bytes": 104784,
+   "sha256": "a05f68db71978487722ff6affc279ab9cfabdaa1bd56e56181dbccf4672e5c79",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27111,
+   "sha256": "78aad9c0b23bb343af583aca825b5209c598e81071e391ffb4a970e5a7c64f67",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2304301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2304301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2304301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2304301.png",
+  "bytes": 719569,
+  "sha256": "dbe5c4ba3de091403850abd435239a730ab746f73f6ea94e8c77af32b687ed7f"
+ },
+ "sha1_origem": "98e89d55673ceab238c63bee1504fa6703f58880",
+ "bytes_origem": 719569,
+ "capturado_em": "2026-11-08T05:32:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Farias_Brito.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:02Z",
+  "estado": "igual",
+  "sha1_commons": "98e89d55673ceab238c63bee1504fa6703f58880"
+ }
+}

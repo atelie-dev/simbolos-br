@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3165560",
+ "uf": "MG",
+ "municipio": "Sem-Peixe",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Brasaosempeixe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Sem-Peixe",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "03696b82a81bc9ef964d052376976df1b5ad3b061cc6c4cc891d8d2bfa89e6ce",
+ "rendicoes": {
+  "png": {
+   "bytes": 141778,
+   "sha256": "8e1a60d8ed72221c2260b8491c99112f4badadb04efd6738930438e1eb807844",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27200,
+   "sha256": "e32941564efd4463bb372e52d8e8de9d0d691fac7024ba895158392eafc25691",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3165560.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3165560.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3165560.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3165560.jpg",
+  "bytes": 98475,
+  "sha256": "03696b82a81bc9ef964d052376976df1b5ad3b061cc6c4cc891d8d2bfa89e6ce"
+ },
+ "sha1_origem": "05e94c803ccf103649444ad675876a1ea46892f2",
+ "bytes_origem": 98475,
+ "capturado_em": "2026-11-08T06:16:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaosempeixe.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "05e94c803ccf103649444ad675876a1ea46892f2"
+ }
+}

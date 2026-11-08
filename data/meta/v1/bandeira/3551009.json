@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3551009",
+ "uf": "SP",
+ "municipio": "São Vicente",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Flag_of_S%C3%A3o_Vicente%2C_S%C3%A3o_Paulo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ChrisDHDR",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9875bfd3010001da681f726812c7781e800824efbe6b275b8d4a342c231660e0",
+ "rendicoes": {
+  "png": {
+   "bytes": 36324,
+   "sha256": "1b34be1f181b002c1250b650bd70577cb61a7e6497e098136e14b9a5fb845bbb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29889,
+   "sha256": "dcdcb320a0c837378b25f20f5fa58f8c97f3f1f08680b72c927e9ca549ca247a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 16455,
+   "sha256": "9875bfd3010001da681f726812c7781e800824efbe6b275b8d4a342c231660e0"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3551009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3551009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3551009.jpg"
+ },
+ "sha1_origem": "7ee98ddef2bd6972946afb231669c4b5cef8ab5b",
+ "bytes_origem": 16455,
+ "capturado_em": "2026-11-08T04:17:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_São_Vicente,_São_Paulo.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "7ee98ddef2bd6972946afb231669c4b5cef8ab5b"
+ }
+}

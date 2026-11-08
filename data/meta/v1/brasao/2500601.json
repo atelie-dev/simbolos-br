@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2500601",
+ "uf": "PB",
+ "municipio": "Alhandra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Alhandra_-_Bras%C3%A3o_de_Armas.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Alhandra",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c23a863d94b19823dfc48c428f75d3b5253b6444e7c22294771ce15a15f04232",
+ "rendicoes": {
+  "png": {
+   "bytes": 129957,
+   "sha256": "cfb458242f50b7c59bbbacaa07955c43be9cfa12c4ef6f84230e6329889e5ed7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38780,
+   "sha256": "489ee89188a15477ffbe0233f82624cac36a39b5af4ee6c7f04e0c31114939ab",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 26119,
+   "sha256": "c23a863d94b19823dfc48c428f75d3b5253b6444e7c22294771ce15a15f04232"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500601.jpg"
+ },
+ "sha1_origem": "bb5073519bebe3a65cd297dbeedbed6d61431a18",
+ "bytes_origem": 26119,
+ "capturado_em": "2026-11-08T02:55:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Alhandra_-_Brasão_de_Armas.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "bb5073519bebe3a65cd297dbeedbed6d61431a18"
+ }
+}

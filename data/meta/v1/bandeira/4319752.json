@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4319752",
+ "uf": "RS",
+ "municipio": "São Vendelino",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bandeira_de_S%C3%A3o_Vendelino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Vendelino",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8948f70260f7176714bf2dce6594cd37ba4e856c43f711bcdcfb07867e1a00d7",
+ "rendicoes": {
+  "png": {
+   "bytes": 127892,
+   "sha256": "9704ebf35f3da2c33fccceece631a562c12c2f18155fc08bfe38b186e31ecf27",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26133,
+   "sha256": "0b6958810cdb0ef4226cf48aa9b0cc341368dd2b224fccf35ec602aa44c01d27",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319752.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319752.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319752.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4319752.jpg",
+  "bytes": 29858,
+  "sha256": "8948f70260f7176714bf2dce6594cd37ba4e856c43f711bcdcfb07867e1a00d7"
+ },
+ "sha1_origem": "167e5c37bda289777754e0b6ca941892dce0c09d",
+ "bytes_origem": 29858,
+ "capturado_em": "2026-11-08T07:09:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Vendelino.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "167e5c37bda289777754e0b6ca941892dce0c09d"
+ }
+}

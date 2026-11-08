@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3204559",
+ "uf": "ES",
+ "municipio": "Santa Maria de Jetibá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bandeira-stamariadejetiba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Santa Maria de Jetibá City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9d6a00ec8ebcb10b3b074fdb4b6d93c74bea7c5114bd8aa7b25924d870409a93",
+ "rendicoes": {
+  "png": {
+   "bytes": 63607,
+   "sha256": "6391f820c02a62fea0a0a221667e54dbe5d12413bb493027dbf8e9381b3f7e0e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14382,
+   "sha256": "5bca8b7bdf364e283b5ed877a41d15a93bf590f3771ad5440b79184ba385317f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204559.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204559.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204559.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3204559.jpg",
+  "bytes": 9995,
+  "sha256": "9d6a00ec8ebcb10b3b074fdb4b6d93c74bea7c5114bd8aa7b25924d870409a93"
+ },
+ "sha1_origem": "6183e388a5c84126e8b3800709c8c62ea2eb5f7d",
+ "bytes_origem": 9995,
+ "capturado_em": "2026-11-08T06:20:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-stamariadejetiba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "6183e388a5c84126e8b3800709c8c62ea2eb5f7d"
+ }
+}

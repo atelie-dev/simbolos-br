@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3501608",
+ "uf": "SP",
+ "municipio": "Americana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bandeira_de_Americana_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "6479da4af690c9a19c911109b9026ce874f6ef7d288f572b476961c169d0152f",
+ "rendicoes": {
+  "png": {
+   "bytes": 57839,
+   "sha256": "f81e93205d2402fe978768797afd7511e214e730c00d524b1256ce8383c4515e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25545,
+   "sha256": "dd3bbe05bd6b09e908e9f6c6d23c7bc468b667d7c5151c90acf82e2eeda3fc17",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 222341,
+   "sha256": "6479da4af690c9a19c911109b9026ce874f6ef7d288f572b476961c169d0152f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501608.jpg"
+ },
+ "sha1_origem": "38da35f45f15453d83cb3030f05d5bfbba05d6ee",
+ "bytes_origem": 222341,
+ "capturado_em": "2026-11-08T03:57:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Americana_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "38da35f45f15453d83cb3030f05d5bfbba05d6ee"
+ }
+}

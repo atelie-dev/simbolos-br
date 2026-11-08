@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5200134",
+ "uf": "GO",
+ "municipio": "Acreúna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bandeira_de_Acre%C3%BAna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Acreúna",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "093f10084cfbc07afaa3cb1a181c78ec6332eecaa3a2ee802a0f74569a4bee09",
+ "rendicoes": {
+  "png": {
+   "bytes": 27802,
+   "sha256": "ecc0d136eb4f1142beb6aeffd381b8f5cff77fba378ebe3275acb5bedf8aea1d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11909,
+   "sha256": "8f8332e1daa013e5659a118b16c54a01b365446e13cbfdb94a3a2bc775a22e66",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200134.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200134.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200134.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5200134.jpg",
+  "bytes": 11166,
+  "sha256": "093f10084cfbc07afaa3cb1a181c78ec6332eecaa3a2ee802a0f74569a4bee09"
+ },
+ "sha1_origem": "432c9a90f2973eb3343396eafd81327bb6e23ec0",
+ "bytes_origem": 11166,
+ "capturado_em": "2026-11-08T07:16:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Acreúna.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "432c9a90f2973eb3343396eafd81327bb6e23ec0"
+ }
+}

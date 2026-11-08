@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532157",
+ "uf": "SP",
+ "municipio": "Nantes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Nantes.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0087866ae0298231a01fe25bd61d29091d60f41b84d3d1ac5b5453c94922dc43",
+ "rendicoes": {
+  "png": {
+   "bytes": 451016,
+   "sha256": "3b49fdca2beeff8d4dc7d3bf7f10de1b4ea0bb0b3bf8043a008c9f54e4e9c38f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 85470,
+   "sha256": "a3bacd4aba82d1a41b8a621c9fa5172e2aadc1c637eb9d6bf937532c24efb3e1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532157.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532157.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532157.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3532157.png",
+  "bytes": 436235,
+  "sha256": "0087866ae0298231a01fe25bd61d29091d60f41b84d3d1ac5b5453c94922dc43"
+ },
+ "sha1_origem": "a0246b07a7e80cd5f8ed2ff0650eb3d3ed95f460",
+ "bytes_origem": 436235,
+ "capturado_em": "2026-11-08T06:32:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Nantes.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:34Z",
+  "estado": "igual",
+  "sha1_commons": "a0246b07a7e80cd5f8ed2ff0650eb3d3ed95f460"
+ }
+}

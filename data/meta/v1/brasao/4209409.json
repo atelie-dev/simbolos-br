@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4209409",
+ "uf": "SC",
+ "municipio": "Laguna",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bras%C3%A3o_Municipal_da_Laguna.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Afonso d'Escragnolle Taunay [original since 1932]",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "81c61c744f8b28dc04f08ef346b4f3acd46eb488abad239f1b80e327bcabc0bd",
+ "rendicoes": {
+  "png": {
+   "bytes": 279174,
+   "sha256": "f5f44a4ef4b0ab4190b9cea1b5e20d26ae3f174e4ea5849d38dedb478af4380e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67375,
+   "sha256": "fe9afe6759e6bb62f5c9cecf927efcc3ebeebb57f429a5315da41883af03e9ed",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4209409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4209409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4209409.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4209409.png",
+  "bytes": 1330428,
+  "sha256": "81c61c744f8b28dc04f08ef346b4f3acd46eb488abad239f1b80e327bcabc0bd"
+ },
+ "sha1_origem": "f96537d7ea5394b6010e05e47b1cafa191a8ea92",
+ "bytes_origem": 1330428,
+ "capturado_em": "2026-11-08T06:54:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Municipal_da_Laguna.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "f96537d7ea5394b6010e05e47b1cafa191a8ea92"
+ }
+}

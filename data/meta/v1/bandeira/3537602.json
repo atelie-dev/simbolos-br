@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3537602",
+ "uf": "SP",
+ "municipio": "Peruíbe",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bandeira_Peruibe_SaoPaulo_Brasil2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Srfortes",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "94aec65a3c8360dbe89c111438e71fdff162fb6100d329fed5a1c241592f5edf",
+ "rendicoes": {
+  "png": {
+   "bytes": 33998,
+   "sha256": "dc25c0b63cfba32023f14006cad3de6148b9d9a9914e3a85d03ea93b3366af27",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19604,
+   "sha256": "e0306d69c00ed0a5d2ed6ae903aa3c6ff996c2a4e54ca367799ed146fe13b945",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 391278,
+   "sha256": "94aec65a3c8360dbe89c111438e71fdff162fb6100d329fed5a1c241592f5edf"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3537602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3537602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3537602.jpg"
+ },
+ "sha1_origem": "9950d79d9e2778c5be77efdd24118cd684ee8dc2",
+ "bytes_origem": 391278,
+ "capturado_em": "2026-11-08T04:12:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Peruibe_SaoPaulo_Brasil2.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "9950d79d9e2778c5be77efdd24118cd684ee8dc2"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2911808",
+ "uf": "BA",
+ "municipio": "Guaratinga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Brasao_guaratinga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Andrevruas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3c591ad9247e7f7b1d0858fb66900e02a6ab64be68c4a6d2b967ce924a026466",
+ "rendicoes": {
+  "png": {
+   "bytes": 22378,
+   "sha256": "0a40a4199061bd2405c16e3024bc1de43b8cab68a5dc07e3bb1f8f8639555f99",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7664,
+   "sha256": "b7da2d54bc523b421817060d0a5fd1c82a9d867084087235874a9d8db48e27c3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2911808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2911808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2911808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2911808.jpg",
+  "bytes": 32863,
+  "sha256": "3c591ad9247e7f7b1d0858fb66900e02a6ab64be68c4a6d2b967ce924a026466"
+ },
+ "sha1_origem": "6ce28697fc76a10025246317f1e03517a1e79083",
+ "bytes_origem": 32863,
+ "capturado_em": "2026-11-08T05:53:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_guaratinga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "6ce28697fc76a10025246317f1e03517a1e79083"
+ }
+}

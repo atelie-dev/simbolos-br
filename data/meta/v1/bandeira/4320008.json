@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4320008",
+ "uf": "RS",
+ "municipio": "Sapucaia do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bandeira_de_Sapucaia_do_Sul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Sapucaia do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f757b0fc766e3074236d6890a5da820ef047f5745128e66605ad422239b789ff",
+ "rendicoes": {
+  "png": {
+   "bytes": 100774,
+   "sha256": "04a3d2c59696c47e1cb1b4398c6a088bb40c487940310e11187463899ffac9c0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26386,
+   "sha256": "9409c2ee551a64749bd64dedb79fa0f164859376535da8d2a1abe3f1f705ca43",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4320008.jpg",
+  "bytes": 39305,
+  "sha256": "f757b0fc766e3074236d6890a5da820ef047f5745128e66605ad422239b789ff"
+ },
+ "sha1_origem": "a9e67ec6654161608d9a1c9fa8ebe9c4c1849246",
+ "bytes_origem": 39305,
+ "capturado_em": "2026-11-08T07:10:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Sapucaia_do_Sul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "a9e67ec6654161608d9a1c9fa8ebe9c4c1849246"
+ }
+}

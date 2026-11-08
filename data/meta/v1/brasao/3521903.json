@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3521903",
+ "uf": "SP",
+ "municipio": "Itajobi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bras%C3%A3o_de_Itajobi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Reynaldo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5717efc34fb86cb330400c18e30427fa07710e5048c0ac178f2410b83a014b85",
+ "rendicoes": {
+  "png": {
+   "bytes": 312206,
+   "sha256": "e537182f05ae433e7dfc2c3d47a650d0eb261ba3ee5470b3a23da654d11cf7e9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53258,
+   "sha256": "87c188af9e88ca4b29cc95b88da1330834aae99f7218df19fb4b5a343d02fae5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3521903.jpg",
+  "bytes": 43158,
+  "sha256": "5717efc34fb86cb330400c18e30427fa07710e5048c0ac178f2410b83a014b85"
+ },
+ "sha1_origem": "bab837fc171fb3d13673f1b0db71f2c011757379",
+ "bytes_origem": 43158,
+ "capturado_em": "2026-11-08T06:29:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Itajobi.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "bab837fc171fb3d13673f1b0db71f2c011757379"
+ }
+}

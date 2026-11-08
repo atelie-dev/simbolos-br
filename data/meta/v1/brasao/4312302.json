@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312302",
+ "uf": "RS",
+ "municipio": "Miraguaí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bras%C3%A3o_Miragua%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Miraguaí",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d36364e995135f7bf9bdfeecb9aef131b140bc9ca8e47847dd6e20d3f12b310f",
+ "rendicoes": {
+  "png": {
+   "bytes": 60950,
+   "sha256": "7b80519e6e062b45c128cedd731ee17acca1f414d688c95fc34ef9fb348a2de2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13396,
+   "sha256": "2da481231bc7c76b49cf9157425642c71ea0240e010e1d2ed69d1076f2d79694",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4312302.jpg",
+  "bytes": 11861,
+  "sha256": "d36364e995135f7bf9bdfeecb9aef131b140bc9ca8e47847dd6e20d3f12b310f"
+ },
+ "sha1_origem": "98d8dd7ff53f3723065846643611a53b2b35a018",
+ "bytes_origem": 11861,
+ "capturado_em": "2026-11-08T07:05:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Miraguaí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "98d8dd7ff53f3723065846643611a53b2b35a018"
+ }
+}

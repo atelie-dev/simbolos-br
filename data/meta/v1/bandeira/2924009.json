@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2924009",
+ "uf": "BA",
+ "municipio": "Paulo Afonso",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bandeira_de_Paulo_Afonso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3ebf5f828f6a6db05bd82bae046149308be38a20f5f2160b26800f1a2fa3e3a6",
+ "rendicoes": {
+  "png": {
+   "bytes": 22161,
+   "sha256": "44c8318968b9f6bf266c23798d8e0e0b0b92bb977bb19b45376026f4930b2b12",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11756,
+   "sha256": "b1ad7dffb2cbecc07212070501f5658ed55d2bfdf1094299973d860009c878c3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2924009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2924009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2924009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2924009.jpg",
+  "bytes": 15626,
+  "sha256": "3ebf5f828f6a6db05bd82bae046149308be38a20f5f2160b26800f1a2fa3e3a6"
+ },
+ "sha1_origem": "0a4edf3f23c10962292b88412d0c2cd0a253bde4",
+ "bytes_origem": 15626,
+ "capturado_em": "2026-11-08T05:56:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Paulo_Afonso.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "0a4edf3f23c10962292b88412d0c2cd0a253bde4"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3534401",
+ "uf": "SP",
+ "municipio": "Osasco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bandeira_de_Osasco.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Osasco",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7719d97c83712fdda4376dd3d737835061df7c6bb56e35a6db805d4e8f4b45ce",
+ "rendicoes": {
+  "png": {
+   "bytes": 36179,
+   "sha256": "d1ee85099e148c31daf2dc531f26a1c279caad4c4d002cc430ba1d4e624c2146",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19097,
+   "sha256": "c4a0267e655cfe369caf5e3fb50df31442d7bb21756126a1a018cc17aaa240d2",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 154078,
+   "sha256": "7719d97c83712fdda4376dd3d737835061df7c6bb56e35a6db805d4e8f4b45ce"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534401.jpg"
+ },
+ "sha1_origem": "1e9c770b0421cb05b1e89ecd6ad31785ce835c94",
+ "bytes_origem": 154078,
+ "capturado_em": "2026-11-08T04:10:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Osasco.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "1e9c770b0421cb05b1e89ecd6ad31785ce835c94"
+ }
+}

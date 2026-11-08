@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1200427",
+ "uf": "AC",
+ "municipio": "Rodrigues Alves",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bras%C3%A3o_Rodrigues_Alves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0e238468b36cddd1a30aeb99abfd44e2e3a687024275ae152b80c212ebce3e7f",
+ "rendicoes": {
+  "png": {
+   "bytes": 216904,
+   "sha256": "53034a50d3d9a7bc83bbcff7fbbb9016ced17b99ee27780116bcc390e2692448",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47376,
+   "sha256": "6a03ceb9a970e8bdc6a8cbb55886d8766bfca2e1f8c64de04340f498f510a200",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200427.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200427.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200427.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1200427.jpg",
+  "bytes": 96538,
+  "sha256": "0e238468b36cddd1a30aeb99abfd44e2e3a687024275ae152b80c212ebce3e7f"
+ },
+ "sha1_origem": "aaf7477c42af8ec8506343a2e3e23c9011e0ca92",
+ "bytes_origem": 96538,
+ "capturado_em": "2026-11-08T05:22:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Rodrigues_Alves.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:53Z",
+  "estado": "igual",
+  "sha1_commons": "aaf7477c42af8ec8506343a2e3e23c9011e0ca92"
+ }
+}

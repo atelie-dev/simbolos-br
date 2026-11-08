@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3171071",
+ "uf": "MG",
+ "municipio": "Veredinha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Brasaoveredinha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Veredinha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cf7fd38b50b90ad279831358349b994dd1e651b3af8bca2abf102a610f3716af",
+ "rendicoes": {
+  "png": {
+   "bytes": 20343,
+   "sha256": "6574573905d8bada870f18cdba2c7406d753ff81835659ce1051ee7113c3ac66",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5920,
+   "sha256": "c060e3a3d56f0ae04d8220f60aa9f47159fa55e9574e364a6f5b39315555948d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3171071.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3171071.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3171071.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3171071.jpg",
+  "bytes": 2817,
+  "sha256": "cf7fd38b50b90ad279831358349b994dd1e651b3af8bca2abf102a610f3716af"
+ },
+ "sha1_origem": "dcd5db111fd7fbd6b656bb62af038e7164ce2cd9",
+ "bytes_origem": 2817,
+ "capturado_em": "2026-11-08T06:18:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoveredinha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "dcd5db111fd7fbd6b656bb62af038e7164ce2cd9"
+ }
+}

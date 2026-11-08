@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4307302",
+ "uf": "RS",
+ "municipio": "Erval Seco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Erval_Secobanders.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Erval Seco",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2d311231073fefddf86621593ef93a44fc6db4391af70afe5f792d5ba019e539",
+ "rendicoes": {
+  "png": {
+   "bytes": 12678,
+   "sha256": "6ea35cbc4ebbd2d12303b676fa9a70a426ef034a5997694a5ec8e43514f8b4e0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6580,
+   "sha256": "75faf1e84c9e0a4babd2b8412a1054597fe345b6e2088905ab06655a962797ad",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4307302.png",
+  "bytes": 10005,
+  "sha256": "2d311231073fefddf86621593ef93a44fc6db4391af70afe5f792d5ba019e539"
+ },
+ "sha1_origem": "aea59f9ef19801d35eb15dc07078948a4a3aa147",
+ "bytes_origem": 10005,
+ "capturado_em": "2026-11-08T07:02:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Erval_Secobanders.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "aea59f9ef19801d35eb15dc07078948a4a3aa147"
+ }
+}

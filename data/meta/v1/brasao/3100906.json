@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3100906",
+ "uf": "MG",
+ "municipio": "Águas Formosas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Brasao_%C3%A1guas_formosas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Águas Formosas - MG",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "116c91b1d303c37b7bb7b528b0a54c85c2c7a0af7a94b5646c810bc27b171017",
+ "rendicoes": {
+  "png": {
+   "bytes": 132362,
+   "sha256": "4a5bea32efb03b96daa0ef57f28114532c258958ccf7fe319fc71aee491f2669",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34550,
+   "sha256": "db306e9fc289614e30b29f5926cffed64f45586d38aca2107518fb8ec45a203b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100906.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100906.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100906.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3100906.jpg",
+  "bytes": 96514,
+  "sha256": "116c91b1d303c37b7bb7b528b0a54c85c2c7a0af7a94b5646c810bc27b171017"
+ },
+ "sha1_origem": "621f3015d5b8306bc21c6bf6f33e41835718b54c",
+ "bytes_origem": 96514,
+ "capturado_em": "2026-11-08T05:58:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_águas_formosas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "621f3015d5b8306bc21c6bf6f33e41835718b54c"
+ }
+}

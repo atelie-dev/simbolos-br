@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3556305",
+ "uf": "SP",
+ "municipio": "Valparaíso",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bandeira_Valpara%C3%ADso.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "01919cf802c0476f176f971a069e6a2258b9d1b45810d8e76de1ed9dbcfcf795",
+ "rendicoes": {
+  "png": {
+   "bytes": 20166,
+   "sha256": "4e7b06e53d87bd1935beff32ef489b5977eb5060973189f5124dc6f9202c7a55",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12934,
+   "sha256": "31893512cd0986ac11f9af54dddf0a325dff5afa23b73bd6df5f20e4320d4113",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3556305.png",
+  "bytes": 16928,
+  "sha256": "01919cf802c0476f176f971a069e6a2258b9d1b45810d8e76de1ed9dbcfcf795"
+ },
+ "sha1_origem": "ac2d896e6fd351fa5f8095d03d04d7ddbda7f278",
+ "bytes_origem": 16928,
+ "capturado_em": "2026-11-08T06:40:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Valparaíso.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "ac2d896e6fd351fa5f8095d03d04d7ddbda7f278"
+ }
+}

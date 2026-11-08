@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3539905",
+ "uf": "SP",
+ "municipio": "Poloni",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bandeira_Poloni.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9ee8262a4e92e44a511fefe8c45762bce0a183c8bf57f4cebca3bb7b08de6ad4",
+ "rendicoes": {
+  "png": {
+   "bytes": 25007,
+   "sha256": "2f0fdc59af1bdcfb586c766d920aab3542de425bff7f8afe8e6cfc54571b026c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15194,
+   "sha256": "8e4521bb8e7766573974afa15b6226a0ae999880ea9d8c89e5026d798a855b64",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3539905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3539905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3539905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3539905.png",
+  "bytes": 19342,
+  "sha256": "9ee8262a4e92e44a511fefe8c45762bce0a183c8bf57f4cebca3bb7b08de6ad4"
+ },
+ "sha1_origem": "877fbaee0835269736170ea553912fc4a894abd9",
+ "bytes_origem": 19342,
+ "capturado_em": "2026-11-08T06:35:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Poloni.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "877fbaee0835269736170ea553912fc4a894abd9"
+ }
+}

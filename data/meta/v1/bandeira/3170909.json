@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3170909",
+ "uf": "MG",
+ "municipio": "Varzelândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bandeira_varzelandia.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "48e73ec8273340cec2f35ff6f16fa5fae202fc1b876ccb03b086f68a1178b6f4",
+ "rendicoes": {
+  "png": {
+   "bytes": 120611,
+   "sha256": "6a83813ca0d802fd4504f13ed898d609820a27f1ea97c81af3545ed686e3adc0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32782,
+   "sha256": "af6c4d99676c866d9531cd704348caf91464ca97fa8313cc6a0b688b26585219",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3170909.jpg",
+  "bytes": 76236,
+  "sha256": "48e73ec8273340cec2f35ff6f16fa5fae202fc1b876ccb03b086f68a1178b6f4"
+ },
+ "sha1_origem": "35f5677bf6d3fcaa465fcea60ee0fd805bf1fc47",
+ "bytes_origem": 76236,
+ "capturado_em": "2026-11-08T06:18:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_varzelandia.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "35f5677bf6d3fcaa465fcea60ee0fd805bf1fc47"
+ }
+}

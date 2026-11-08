@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3531605",
+ "uf": "SP",
+ "municipio": "Monte Castelo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Flag_of_Monte_Castelo_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "City Hall of Monte Castelo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "393532129bcd72add94debd8e14c76840a7e6254fd04bdd6c883eacdd1ec407b",
+ "rendicoes": {
+  "png": {
+   "bytes": 46081,
+   "sha256": "45c266570d925dc8752ff6b5cf330d15f9c10b1318497c13d6871e3854ba0817",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22380,
+   "sha256": "29f2cd087e51d1d04c5c976e3f53f26cb7279549a234ba582e75e4ed4c87609f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3531605.png",
+  "bytes": 37029,
+  "sha256": "393532129bcd72add94debd8e14c76840a7e6254fd04bdd6c883eacdd1ec407b"
+ },
+ "sha1_origem": "8102e9f21b5db7857a4c808d01cd3306351814d4",
+ "bytes_origem": 37029,
+ "capturado_em": "2026-11-08T06:32:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Monte_Castelo_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "8102e9f21b5db7857a4c808d01cd3306351814d4"
+ }
+}

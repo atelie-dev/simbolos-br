@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3551603",
+ "uf": "SP",
+ "municipio": "Serra Negra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Brasao_Serra_Negra.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6fa2479e0e63e784d87b79e31c9ac471b3524d095a14f8da7caaf4e1998e79e6",
+ "rendicoes": {
+  "png": {
+   "bytes": 11935,
+   "sha256": "a2cf5053869494f49f0dc3f5b895e1b1a7a05a28d6211b06ec3fe2eb45999241",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12636,
+   "sha256": "b1df827e5aeaf4ec9d7d886319bde781ed8fae164251dc8b98fa20ee88e9ff20",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3551603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3551603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3551603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3551603.png",
+  "bytes": 7457,
+  "sha256": "6fa2479e0e63e784d87b79e31c9ac471b3524d095a14f8da7caaf4e1998e79e6"
+ },
+ "sha1_origem": "9763ae81192b150afcd2c113be46c12de753741d",
+ "bytes_origem": 7457,
+ "capturado_em": "2026-11-08T06:38:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Serra_Negra.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "9763ae81192b150afcd2c113be46c12de753741d"
+ }
+}

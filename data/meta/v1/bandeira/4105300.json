@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4105300",
+ "uf": "PR",
+ "municipio": "Céu Azul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bandeira_C%C3%A9u_Azul_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Gazilion",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9f1a5da7a809afde3612505233f14ba82ba8d903851848a8b6b99c45deb29013",
+ "rendicoes": {
+  "png": {
+   "bytes": 14480,
+   "sha256": "d80ea9918b5d11c07f408fa4ea069e8d4888b42e1e7e9bbc94026b437ab90deb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9219,
+   "sha256": "85436c8016bae4cf4cc74a19a19459437962efbf7fb41cf651875c6e9cf973db",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 5711,
+   "sha256": "9f1a5da7a809afde3612505233f14ba82ba8d903851848a8b6b99c45deb29013"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105300.jpg"
+ },
+ "sha1_origem": "43d8d6c31e8bd5c4d710b8a8e7546fa6a963ec08",
+ "bytes_origem": 5711,
+ "capturado_em": "2026-11-08T04:23:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Céu_Azul_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "43d8d6c31e8bd5c4d710b8a8e7546fa6a963ec08"
+ }
+}

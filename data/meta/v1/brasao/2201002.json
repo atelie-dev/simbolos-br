@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2201002",
+ "uf": "PI",
+ "municipio": "Arraial",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bras%C3%A3o_Arraial_Piau%C3%AD.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Institucional",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1cefc4b10d92b24722b1d00dcea2b4656e50d864a033abd4bc29d5a6b2f127df",
+ "rendicoes": {
+  "png": {
+   "bytes": 401310,
+   "sha256": "47199259d17af49db496890ace120b1ccef55c7d885d8063687a11c35833b662",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 79314,
+   "sha256": "d4b96af4e210c82f08040c4920c27ac40aa6fc2316317341f060c1619bf971c2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2201002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2201002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2201002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2201002.png",
+  "bytes": 715650,
+  "sha256": "1cefc4b10d92b24722b1d00dcea2b4656e50d864a033abd4bc29d5a6b2f127df"
+ },
+ "sha1_origem": "7aac8833bef4df91dd904f417ea0156a1c94f5af",
+ "bytes_origem": 715650,
+ "capturado_em": "2026-11-08T05:29:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Arraial_Piauí.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "7aac8833bef4df91dd904f417ea0156a1c94f5af"
+ }
+}

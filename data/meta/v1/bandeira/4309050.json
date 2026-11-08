@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4309050",
+ "uf": "RS",
+ "municipio": "Glorinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bandeira_de_Glorinha_RS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6ff4641c3a8e0352253ea9a3b6e0f524a567b919f6eb57c316dc8cd74cdb2425",
+ "rendicoes": {
+  "png": {
+   "bytes": 54197,
+   "sha256": "34629987142e4d0bc16c85f06b3dcf905ddef145956a349176130fe3940ec3f7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20796,
+   "sha256": "167e06adc597a233afd12f2a6263afe677bc5d9233462a5a743a72baeb73c55b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4309050.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4309050.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4309050.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4309050.png",
+  "bytes": 75545,
+  "sha256": "6ff4641c3a8e0352253ea9a3b6e0f524a567b919f6eb57c316dc8cd74cdb2425"
+ },
+ "sha1_origem": "406b96ce4e11ccc56347df2cabc6fd236aa199a0",
+ "bytes_origem": 75545,
+ "capturado_em": "2026-11-08T07:03:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Glorinha_RS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "406b96ce4e11ccc56347df2cabc6fd236aa199a0"
+ }
+}

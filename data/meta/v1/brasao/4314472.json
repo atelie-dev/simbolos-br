@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314472",
+ "uf": "RS",
+ "municipio": "Pinhal Grande",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bras%C3%A3o_de_Pinhal_Grande.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pinhal Grande",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "944512e6743139887b648b3ae686a57e505a4ce6c8cfff7236fe66b9ea420c53",
+ "rendicoes": {
+  "png": {
+   "bytes": 422129,
+   "sha256": "dbdb794e179daa27de9d43536b454b7ace34ad2c2717c1d9a6828d01e1994504",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 69249,
+   "sha256": "c5b22aaf17d20f115e2ed6ce838fb4c92a504f97d0e50264d6cf2002925edb04",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314472.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314472.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314472.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4314472.jpg",
+  "bytes": 115604,
+  "sha256": "944512e6743139887b648b3ae686a57e505a4ce6c8cfff7236fe66b9ea420c53"
+ },
+ "sha1_origem": "e3a62e3f025a18dc71abd945a988e02b7ce15dfa",
+ "bytes_origem": 115604,
+ "capturado_em": "2026-11-08T07:07:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Pinhal_Grande.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:09Z",
+  "estado": "igual",
+  "sha1_commons": "e3a62e3f025a18dc71abd945a988e02b7ce15dfa"
+ }
+}

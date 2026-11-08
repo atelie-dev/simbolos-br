@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2510907",
+ "uf": "PB",
+ "municipio": "Paulista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bandeira_Paulista_%28PB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Paulista",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1b2de2d631724105babc80a9551d00c7b9bc552445fb23bbdcbd39ad1cb28c20",
+ "rendicoes": {
+  "png": {
+   "bytes": 98537,
+   "sha256": "0cb280cbb1f75fda26c97003cd94223eb8f03d85c7d35311cb58cfaa976c6947",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26279,
+   "sha256": "2cc7920b54d8cd8760103df83d52edf3739f605d691cb2c34a642168ae6a8d33",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510907.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510907.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510907.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2510907.jpg",
+  "bytes": 80110,
+  "sha256": "1b2de2d631724105babc80a9551d00c7b9bc552445fb23bbdcbd39ad1cb28c20"
+ },
+ "sha1_origem": "a37e68248af885cfb6bdf0f6d3e3a6896316b961",
+ "bytes_origem": 80110,
+ "capturado_em": "2026-11-08T05:42:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Paulista_(PB).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "a37e68248af885cfb6bdf0f6d3e3a6896316b961"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3518404",
+ "uf": "SP",
+ "municipio": "Guaratinguetá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bandeira_Guaratingueta_SaoPaulo_Brasil_2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "FORTES",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "658bbd4ad9119ad23c4a6379c9705826b2e1b4402042e47d563b95fcf91a5b1a",
+ "rendicoes": {
+  "png": {
+   "bytes": 19335,
+   "sha256": "525ccf4112d74bd40c56502ecf068d1133030869c87e1762e763552f74c069ae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13969,
+   "sha256": "6efd95e7e149975e9fa21e9ac32065bf51a4b6073e34742f0f6048447f3d89e6",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 4555,
+   "sha256": "658bbd4ad9119ad23c4a6379c9705826b2e1b4402042e47d563b95fcf91a5b1a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3518404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3518404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3518404.jpg"
+ },
+ "sha1_origem": "c41faa0ffcf2fb9a10cf397daf0f70ea2a20d8b9",
+ "bytes_origem": 4555,
+ "capturado_em": "2026-11-08T04:03:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Guaratingueta_SaoPaulo_Brasil_2.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "c41faa0ffcf2fb9a10cf397daf0f70ea2a20d8b9"
+ }
+}

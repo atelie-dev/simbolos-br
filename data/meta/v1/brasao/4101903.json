@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4101903",
+ "uf": "PR",
+ "municipio": "Assaí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Brasaoassai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2146f2933af18b653f26db1ff57abff0e1db700c895fc7f56241757f5f08baef",
+ "rendicoes": {
+  "png": {
+   "bytes": 146174,
+   "sha256": "03fe3eca2d3073da215a2d0bf579976c4ad5caa4282ced1a67fadfd0d1f86153",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33610,
+   "sha256": "8f9a1b0a7256dbe1a98fc27158b6a5a271bc655652bd8c044b697c4a5a8ef31d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4101903.jpg",
+  "bytes": 16019,
+  "sha256": "2146f2933af18b653f26db1ff57abff0e1db700c895fc7f56241757f5f08baef"
+ },
+ "sha1_origem": "dad6e0ca142eae5e4c66d8bb697b4c8215f8fbb5",
+ "bytes_origem": 16019,
+ "capturado_em": "2026-11-08T06:41:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoassai.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "dad6e0ca142eae5e4c66d8bb697b4c8215f8fbb5"
+ }
+}

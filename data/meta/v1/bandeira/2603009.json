@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2603009",
+ "uf": "PE",
+ "municipio": "Cabrobó",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Cabrob%C3%B3_-_PE_-_Brazil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pcgomes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c4caae11a6dd7a77a1732c9ea235ab4ba0032733085c25ac1acccb5f430ded0a",
+ "rendicoes": {
+  "png": {
+   "bytes": 46529,
+   "sha256": "6ac3fa51e9f807852c2fd70fbe84ae02dbb9b639c7dd242b46bd346ff99dd5b5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21112,
+   "sha256": "9c4e7461234af2b86efe2301e967f10f69b46aa0a9c2afa05dbbfdf1c30697f5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2603009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2603009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2603009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2603009.png",
+  "bytes": 80006,
+  "sha256": "c4caae11a6dd7a77a1732c9ea235ab4ba0032733085c25ac1acccb5f430ded0a"
+ },
+ "sha1_origem": "dbaee375a94663627616f419e0264a7a0b44370f",
+ "bytes_origem": 80006,
+ "capturado_em": "2026-11-08T05:44:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Cabrobó_-_PE_-_Brazil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "dbaee375a94663627616f419e0264a7a0b44370f"
+ }
+}

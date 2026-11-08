@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3518404",
+ "uf": "SP",
+ "municipio": "Guaratinguetá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/17/Brasaoguara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5205f94d73521c4205a234ba0105eb202de64a741673e3bce2e073398754cc73",
+ "rendicoes": {
+  "png": {
+   "bytes": 296755,
+   "sha256": "8146ca4f020c945d73d680e7f711b7df308b83036de6d98d429877018fc62711",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62664,
+   "sha256": "048de2af2a4b9a2f54483a3fc349a60d62134294bc4e659949667c565cd6eacb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3518404.jpg",
+  "bytes": 125548,
+  "sha256": "5205f94d73521c4205a234ba0105eb202de64a741673e3bce2e073398754cc73"
+ },
+ "sha1_origem": "042a23492cec41ba4da0f0a406151f8290c2872b",
+ "bytes_origem": 125548,
+ "capturado_em": "2026-11-08T06:28:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoguara.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "042a23492cec41ba4da0f0a406151f8290c2872b"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211256",
+ "uf": "SC",
+ "municipio": "Morro Grande",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Morro_Grande_Brasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município Morro Grande",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "43553b59128f07d28631276850fd72fc1af72f1e8da1a0093da287b37b04790a",
+ "rendicoes": {
+  "png": {
+   "bytes": 282328,
+   "sha256": "09218d203a561b56288f29ac6a440d8bf7b15f3be0c669d70df842a97f8548b9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49110,
+   "sha256": "979d6a865aad72c595ad1e781d4cbda77ba0ab1093a64213177c75f8449eab71",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211256.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211256.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211256.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4211256.jpg",
+  "bytes": 69049,
+  "sha256": "43553b59128f07d28631276850fd72fc1af72f1e8da1a0093da287b37b04790a"
+ },
+ "sha1_origem": "623d6d1aef2981e31f8fdd5ea0991f6df97d5fa6",
+ "bytes_origem": 69049,
+ "capturado_em": "2026-11-08T06:55:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Morro_Grande_Brasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "623d6d1aef2981e31f8fdd5ea0991f6df97d5fa6"
+ }
+}

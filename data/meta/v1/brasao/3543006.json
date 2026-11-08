@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3543006",
+ "uf": "SP",
+ "municipio": "Ribeirão Branco",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Bras%C3%A3o_Ribeir%C3%A3o_Branco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "596fd3c3dec48e286cf14394540fd1fed8f295647b5eee54eac2667bac4c0753",
+ "rendicoes": {
+  "png": {
+   "bytes": 195659,
+   "sha256": "4d77864549e2eafbac6765d7d7776fad1c2a3a7a4585edc32c692b60e66e43c6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36414,
+   "sha256": "3d5a03da6b81846a02f2510c05692ec990476ae67836beba9bf8613d2f07b2c2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3543006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3543006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3543006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3543006.jpg",
+  "bytes": 42146,
+  "sha256": "596fd3c3dec48e286cf14394540fd1fed8f295647b5eee54eac2667bac4c0753"
+ },
+ "sha1_origem": "973aaace1bea3aaa928d3d5a399b9b186874035d",
+ "bytes_origem": 42146,
+ "capturado_em": "2026-11-08T06:36:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Ribeirão_Branco.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:53Z",
+  "estado": "igual",
+  "sha1_commons": "973aaace1bea3aaa928d3d5a399b9b186874035d"
+ }
+}

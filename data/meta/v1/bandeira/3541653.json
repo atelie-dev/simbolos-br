@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3541653",
+ "uf": "SP",
+ "municipio": "Quadra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bandeiraquadra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura Municipal de Quadra",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5efe223eeabaa9b456f71b0cdcc6b2306003b260a0d6fe46cba57ce80d1c8450",
+ "rendicoes": {
+  "png": {
+   "bytes": 38927,
+   "sha256": "21b86a375c99cd10fd3ef89a22384efc883c34c29f50e3f3b004267b2a6f016d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23647,
+   "sha256": "8fdbc6e0624d364e4a9b1e63a55c29987d1d0eafa570a32d97fe801dab0558db",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541653.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541653.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541653.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3541653.jpg",
+  "bytes": 30967,
+  "sha256": "5efe223eeabaa9b456f71b0cdcc6b2306003b260a0d6fe46cba57ce80d1c8450"
+ },
+ "sha1_origem": "bb44d7a10c65a0aa13178bf0dc04eb11b114fcbd",
+ "bytes_origem": 30967,
+ "capturado_em": "2026-11-08T06:35:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraquadra.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "bb44d7a10c65a0aa13178bf0dc04eb11b114fcbd"
+ }
+}

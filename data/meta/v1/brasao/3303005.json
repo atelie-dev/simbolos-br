@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3303005",
+ "uf": "RJ",
+ "municipio": "Miracema",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Brasao_oficial_miracema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Museu miracema",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f219c398fbfdde8d21894147283bc5e5b76cde47c313457c337e477b51104573",
+ "rendicoes": {
+  "png": {
+   "bytes": 199026,
+   "sha256": "6cdac2eb0062ad84abe3af89c9d7d106263f22c524c3dbb34f29095e6a2e7c8a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45840,
+   "sha256": "7f4d8b3c7ca53f5296f9e46dd3d7baf2579daed373c23f38b5db001c65afade1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3303005.jpg",
+  "bytes": 117478,
+  "sha256": "f219c398fbfdde8d21894147283bc5e5b76cde47c313457c337e477b51104573"
+ },
+ "sha1_origem": "72ace2646d09e6bd1d0faa3f8c8f302d9468cde8",
+ "bytes_origem": 117478,
+ "capturado_em": "2026-11-08T06:21:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_oficial_miracema.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "72ace2646d09e6bd1d0faa3f8c8f302d9468cde8"
+ }
+}

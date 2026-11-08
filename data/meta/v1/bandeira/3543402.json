@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3543402",
+ "uf": "SP",
+ "municipio": "Ribeirão Preto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bandeira_de_Ribeir%C3%A3o_Preto.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ribeirão Preto",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c3eb8f12c2658dfd84a48dceba220c342278db4aede82bc546c7602c7cf84784",
+ "rendicoes": {
+  "png": {
+   "bytes": 61300,
+   "sha256": "3bb62e0ba58cd50ab5bbc91a7f4653280b294cac7eb45cddb400032ca20d78ed",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19905,
+   "sha256": "af850b547a0aaf12bdd87355ae2395e020cc2571f06c82f42dc56009a450ea28",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 180812,
+   "sha256": "c3eb8f12c2658dfd84a48dceba220c342278db4aede82bc546c7602c7cf84784"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543402.jpg"
+ },
+ "sha1_origem": "73df1a6af9d5af86d98f2c17be2b80ff149d683a",
+ "bytes_origem": 180812,
+ "capturado_em": "2026-11-08T04:14:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ribeirão_Preto.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "73df1a6af9d5af86d98f2c17be2b80ff149d683a"
+ }
+}

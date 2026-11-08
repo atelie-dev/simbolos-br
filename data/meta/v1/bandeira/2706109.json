@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2706109",
+ "uf": "AL",
+ "municipio": "Ouro Branco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bandeira_de_Ouro_Branco_%28Alagoas%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "53deb3bc8f499e912bdf793c761538ff020365a04a0353d7246b3b2694042912",
+ "rendicoes": {
+  "png": {
+   "bytes": 78273,
+   "sha256": "5ed46f16f8eaefdf2fbcecd0e6cecb88e31e1795280d35c5924a419319751fd2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20454,
+   "sha256": "efb3bf93675ec43b1dd8a2c941f5cdb4e8f57546ebc153c300617213510b5878",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2706109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2706109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2706109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2706109.jpg",
+  "bytes": 18954,
+  "sha256": "53deb3bc8f499e912bdf793c761538ff020365a04a0353d7246b3b2694042912"
+ },
+ "sha1_origem": "0b167a50261dd1d90761fe16dd7b617d45334f64",
+ "bytes_origem": 18954,
+ "capturado_em": "2026-11-08T05:48:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ouro_Branco_(Alagoas).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "0b167a50261dd1d90761fe16dd7b617d45334f64"
+ }
+}

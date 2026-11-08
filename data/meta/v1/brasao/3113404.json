@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3113404",
+ "uf": "MG",
+ "municipio": "Caratinga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bras%C3%A3o_Caratinga.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f652e612e836e460f72fe44d471939f1fd47d4cba4a4d5f4f479252548f12404",
+ "rendicoes": {
+  "png": {
+   "bytes": 108366,
+   "sha256": "1a1dfac92782aa7ad708d6dcf0da2d7ea09811dc4da43e94362aa88654cf1ff3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63905,
+   "sha256": "909ab0d630d14e0bd89b38790550a516c61acf93078cecbeb1ed6f688f843a23",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3113404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3113404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3113404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3113404.png",
+  "bytes": 76589,
+  "sha256": "f652e612e836e460f72fe44d471939f1fd47d4cba4a4d5f4f479252548f12404"
+ },
+ "sha1_origem": "5e0f20accc679c697931ad3462884a126b7af78d",
+ "bytes_origem": 76589,
+ "capturado_em": "2026-11-08T06:02:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Caratinga.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:47Z",
+  "estado": "igual",
+  "sha1_commons": "5e0f20accc679c697931ad3462884a126b7af78d"
+ }
+}

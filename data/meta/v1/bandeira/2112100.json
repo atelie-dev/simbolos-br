@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2112100",
+ "uf": "MA",
+ "municipio": "Timbiras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/86/Bandeira_Timbiras.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "dnet based on raster version",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0a2b36c69cc08fe40070b105569615c0bc2eec1d5be9440bdea665ba5233cf4a",
+ "rendicoes": {
+  "png": {
+   "bytes": 10315,
+   "sha256": "efccabb27a44dafae427981abd4f889d453e8c6f9e8a3f8bb8b28cf8e0f700dc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12548,
+   "sha256": "2f6ca595e79a6a437abec14f3359fa0f396def051b4cc53ab7b36cbb6a0555a5",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2079,
+   "sha256": "0a2b36c69cc08fe40070b105569615c0bc2eec1d5be9440bdea665ba5233cf4a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2112100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2112100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2112100.jpg"
+ },
+ "sha1_origem": "878bf9cef6daa3bcdefddb3fc5633e9e9875de95",
+ "bytes_origem": 2079,
+ "capturado_em": "2026-11-08T02:40:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Timbiras.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "878bf9cef6daa3bcdefddb3fc5633e9e9875de95"
+ }
+}

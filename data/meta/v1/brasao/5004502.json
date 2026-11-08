@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5004502",
+ "uf": "MS",
+ "municipio": "Itaporã",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Brasao_Itapor%C3%A3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "adb898fe7d64eadb57cbee59511f4e0b3c1dc6047fd13414bc029b7c62dcd29f",
+ "rendicoes": {
+  "png": {
+   "bytes": 6912,
+   "sha256": "e506963a7561c5373fae94d24e6b3a99c69d4faa2d9600914cb2950c89003803",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16665,
+   "sha256": "1fc479d9244efedf37cfd14dcea021d89343092eb101e14dd7da9fc31adcd72c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5004502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5004502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5004502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5004502.png",
+  "bytes": 4553,
+  "sha256": "adb898fe7d64eadb57cbee59511f4e0b3c1dc6047fd13414bc029b7c62dcd29f"
+ },
+ "sha1_origem": "b3c672c1c62dab245eab90f1ef7cbccd45f12515",
+ "bytes_origem": 4553,
+ "capturado_em": "2026-11-08T07:13:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Itaporã.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:33Z",
+  "estado": "igual",
+  "sha1_commons": "b3c672c1c62dab245eab90f1ef7cbccd45f12515"
+ }
+}

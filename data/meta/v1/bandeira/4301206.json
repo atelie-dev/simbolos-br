@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4301206",
+ "uf": "RS",
+ "municipio": "Arroio do Tigre",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bandeira_Arroio_do_Tigre.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Arroio do Tigre",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b9540a3306bc4464a9d989edd67248d614c7e5c6c68b1f8b114f653a7a73d5e2",
+ "rendicoes": {
+  "png": {
+   "bytes": 34009,
+   "sha256": "fedab574cb0c9ffb7549b8de229687ff5a76f6fe5589df82ec4555075e18c121",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18099,
+   "sha256": "ec0222253bb2ce8f7958ba8186cd110fc8f372264a8c3bfa8ddc86a05890fda3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301206.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4301206.png",
+  "bytes": 31867,
+  "sha256": "b9540a3306bc4464a9d989edd67248d614c7e5c6c68b1f8b114f653a7a73d5e2"
+ },
+ "sha1_origem": "26b53306c8c4d90199d6273e7ff90c77e0d5aa23",
+ "bytes_origem": 31867,
+ "capturado_em": "2026-11-08T06:59:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Arroio_do_Tigre.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "26b53306c8c4d90199d6273e7ff90c77e0d5aa23"
+ }
+}

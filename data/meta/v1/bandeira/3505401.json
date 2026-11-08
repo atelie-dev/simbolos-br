@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3505401",
+ "uf": "SP",
+ "municipio": "Barra do Turvo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bandeira_barra_do_turvo_bandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Confederação Nacional dos Municípios",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4b79ed8c3d1b16b1a70ec095e7237d50e747905cc31ecc1a66bd53a768076692",
+ "rendicoes": {
+  "png": {
+   "bytes": 11803,
+   "sha256": "31e77a507c4e3795cbd800d3cbf59854e51016ef81947fb6955e3a62ed6786db",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7020,
+   "sha256": "a1dd521641fabba29ffdea119555b375a10798f5db3189c6950e4b5458788e5f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3505401.png",
+  "bytes": 4698,
+  "sha256": "4b79ed8c3d1b16b1a70ec095e7237d50e747905cc31ecc1a66bd53a768076692"
+ },
+ "sha1_origem": "6f36de732963d15bd354c6575ab3417927e19e6c",
+ "bytes_origem": 4698,
+ "capturado_em": "2026-11-08T06:24:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_barra_do_turvo_bandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "6f36de732963d15bd354c6575ab3417927e19e6c"
+ }
+}

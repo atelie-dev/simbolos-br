@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4119657",
+ "uf": "PR",
+ "municipio": "Pitangueiras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandeira_de_Pitangueiras%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7e986d4421e03638fddedecc9c8e24cda330fd27aa22e16a7378c308a9c13346",
+ "rendicoes": {
+  "png": {
+   "bytes": 26125,
+   "sha256": "dc06aed4341c297998fce9b337c82601869b105050bcc28b8c68fccfdc77139b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9015,
+   "sha256": "7918533debfbefb9269f18057dcaf3a0fec06492aa95d1590d69a85845ebb3fd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119657.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119657.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119657.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4119657.jpg",
+  "bytes": 4048,
+  "sha256": "7e986d4421e03638fddedecc9c8e24cda330fd27aa22e16a7378c308a9c13346"
+ },
+ "sha1_origem": "8ce1f2c74ad7326958224a0c8e37a7bb9bd69dc3",
+ "bytes_origem": 4048,
+ "capturado_em": "2026-11-08T06:47:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pitangueiras,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "8ce1f2c74ad7326958224a0c8e37a7bb9bd69dc3"
+ }
+}

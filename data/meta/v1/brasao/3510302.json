@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3510302",
+ "uf": "SP",
+ "municipio": "Capela do Alto",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bras%C3%A3o_de_Capela_do_Alto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Capela do Alto - SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c90d6b079143cd214c7329b3a6e5088f3fa0c7441cf2d28c390fee99eadb259b",
+ "rendicoes": {
+  "png": {
+   "bytes": 133317,
+   "sha256": "b08dacbae990e3d204fb486a1d17b26ca6122f6eedc1389a17f3b98439e60b8a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38687,
+   "sha256": "22ed9927915f6719f9f4bd6d5d646b0bd96b7638a5bd249392bdd3fffb9edf38",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3510302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3510302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3510302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3510302.jpg",
+  "bytes": 107478,
+  "sha256": "c90d6b079143cd214c7329b3a6e5088f3fa0c7441cf2d28c390fee99eadb259b"
+ },
+ "sha1_origem": "d588e14d5b49ca7efd80fc5aab8d757e28971055",
+ "bytes_origem": 107478,
+ "capturado_em": "2026-11-08T06:25:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Capela_do_Alto.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "d588e14d5b49ca7efd80fc5aab8d757e28971055"
+ }
+}

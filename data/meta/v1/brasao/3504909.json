@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3504909",
+ "uf": "SP",
+ "municipio": "Bananal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/50/Bananal_brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2bb98a744f4223f70fad0fa0f959156b6419e1b43bf6c4f5ae10434e9c0df9ff",
+ "rendicoes": {
+  "png": {
+   "bytes": 27222,
+   "sha256": "0d879a5c5d1ffaf39622e7636da7dcbf9b6effe3314999c49949b93226b7ddba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12779,
+   "sha256": "afc71d1e2fe5ffc536d91b6e3ff4652dd4f7b9710bf6250aa1bfb2db5339582c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3504909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3504909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3504909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3504909.png",
+  "bytes": 11765,
+  "sha256": "2bb98a744f4223f70fad0fa0f959156b6419e1b43bf6c4f5ae10434e9c0df9ff"
+ },
+ "sha1_origem": "8157b70d228706e1ebfcf6d5b9a6bfc6da8f08d2",
+ "bytes_origem": 11765,
+ "capturado_em": "2026-11-08T06:24:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bananal_brasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "8157b70d228706e1ebfcf6d5b9a6bfc6da8f08d2"
+ }
+}

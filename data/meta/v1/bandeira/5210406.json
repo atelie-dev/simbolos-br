@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5210406",
+ "uf": "GO",
+ "municipio": "Itaberaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bandeira_itaberai_goias_brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Hugodostoievsk",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7785062af6a0a7a067d96910b830a21d4d2866bb70b12819dbc47273a7a5fbf1",
+ "rendicoes": {
+  "png": {
+   "bytes": 10109,
+   "sha256": "262a282afeb45f515618f0c004d4556e2d200b352830696f80fb9fa1d9d51c6b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6695,
+   "sha256": "252191ce93a601ee6395c6b2b85230be7b0a682ad0153d5b327201bddd073ab2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210406.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5210406.jpg",
+  "bytes": 3527,
+  "sha256": "7785062af6a0a7a067d96910b830a21d4d2866bb70b12819dbc47273a7a5fbf1"
+ },
+ "sha1_origem": "a3a25049d379c529cbc84bcc0c064a821c655bca",
+ "bytes_origem": 3527,
+ "capturado_em": "2026-11-08T07:18:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_itaberai_goias_brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "a3a25049d379c529cbc84bcc0c064a821c655bca"
+ }
+}

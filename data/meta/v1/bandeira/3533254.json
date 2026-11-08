@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3533254",
+ "uf": "SP",
+ "municipio": "Novais",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_Novais_-_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "781859e8e2144f6285998c17772d21fde9b9a9447f45beca47bfbe9dc2ddf807",
+ "rendicoes": {
+  "png": {
+   "bytes": 140704,
+   "sha256": "1cdeaa03e73f0f0005b0ec272bd9a424858311aa56d92ed3bdb91730a89c3b93",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34902,
+   "sha256": "89003922ea7859a3c0ba2cc353438f6d50aa64ecea2220978781f67335c33e43",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3533254.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3533254.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3533254.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3533254.png",
+  "bytes": 268591,
+  "sha256": "781859e8e2144f6285998c17772d21fde9b9a9447f45beca47bfbe9dc2ddf807"
+ },
+ "sha1_origem": "cf85c33c2ff0fdea7edb29fc4964e28413117d21",
+ "bytes_origem": 268591,
+ "capturado_em": "2026-11-08T06:33:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Novais_-_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "cf85c33c2ff0fdea7edb29fc4964e28413117d21"
+ }
+}

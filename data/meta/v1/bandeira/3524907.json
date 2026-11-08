@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3524907",
+ "uf": "SP",
+ "municipio": "Jambeiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bandeira_municipal_de_Jambeiro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Diego Campos",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bbd79146944f8ba364721d6b1490655ba3d03ba3db85cc5ccd956096de1324a0",
+ "rendicoes": {
+  "png": {
+   "bytes": 57784,
+   "sha256": "a4ea95e62b254bb4e1eaed87787f36621a1a7a2bc3c747b7d794d78d84ba44f1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25860,
+   "sha256": "eea998718f6b6d0333d560207dea399567e5cbb0b6a96ba04d1d46a8aa517ad9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3524907.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3524907.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3524907.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3524907.png",
+  "bytes": 104883,
+  "sha256": "bbd79146944f8ba364721d6b1490655ba3d03ba3db85cc5ccd956096de1324a0"
+ },
+ "sha1_origem": "edcc6cfbfdf759e5278ff47f9002e2e42a955c59",
+ "bytes_origem": 104883,
+ "capturado_em": "2026-11-08T06:30:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_municipal_de_Jambeiro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:22Z",
+  "estado": "igual",
+  "sha1_commons": "edcc6cfbfdf759e5278ff47f9002e2e42a955c59"
+ }
+}

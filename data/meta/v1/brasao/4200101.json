@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4200101",
+ "uf": "SC",
+ "municipio": "Abelardo Luz",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Brasao_Abelardoluz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d3d1152960d3cf52e4254a925930ecbf1c48603946dd3d8644049c9a598a4dda",
+ "rendicoes": {
+  "png": {
+   "bytes": 149812,
+   "sha256": "dd378092120dd4b7e98dae89fb989c8a751bbc32dc62c176b3d61014f89603b5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28773,
+   "sha256": "a48ec8ecbb2e07eefe7398e3312936a65df5e982582fb7c233eaee12b7660582",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4200101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4200101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4200101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4200101.jpg",
+  "bytes": 21379,
+  "sha256": "d3d1152960d3cf52e4254a925930ecbf1c48603946dd3d8644049c9a598a4dda"
+ },
+ "sha1_origem": "b4af4ab94cb40fef6b094f81869aba605e47d3b8",
+ "bytes_origem": 21379,
+ "capturado_em": "2026-11-08T06:51:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Abelardoluz.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "b4af4ab94cb40fef6b094f81869aba605e47d3b8"
+ }
+}

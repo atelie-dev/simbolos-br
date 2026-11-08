@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4111001",
+ "uf": "PR",
+ "municipio": "Itambaracá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bandeira_de_Itambarac%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ad1be64d1c55001c06b72e547d3d5976a47576252b649b626cba522f9243faaa",
+ "rendicoes": {
+  "png": {
+   "bytes": 15981,
+   "sha256": "5a6391377e232bd8eeccdb261bd64b9c2a2d2cbbea3a82cd2106cf28e7ed1384",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6879,
+   "sha256": "fdb95a8895e52b1f523aaff8a72cd9d0f3aeea7c274e41e5abe134832be86877",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4111001.jpg",
+  "bytes": 4357,
+  "sha256": "ad1be64d1c55001c06b72e547d3d5976a47576252b649b626cba522f9243faaa"
+ },
+ "sha1_origem": "bf0add8608aee318076668f0ee8487dbe9afa77e",
+ "bytes_origem": 4357,
+ "capturado_em": "2026-11-08T06:44:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itambaracá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "bf0add8608aee318076668f0ee8487dbe9afa77e"
+ }
+}

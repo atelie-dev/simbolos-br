@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4322251",
+ "uf": "RS",
+ "municipio": "Tupandi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bandeira_Tupandi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Tupandi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8de65fffd02fee9be57322e2b8cfbafd0eeb9e47ee99abaea6d8f56cbbf804a6",
+ "rendicoes": {
+  "png": {
+   "bytes": 64123,
+   "sha256": "61fc48bb091f80d7884ae381ff5431c25d11bd45408824a8b2f06d723f5c7617",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20049,
+   "sha256": "cc38f32e604cdc6260f63f07a81d3186ffb8d31ee2f0ce42345e713f919ca031",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4322251.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4322251.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4322251.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4322251.jpg",
+  "bytes": 40883,
+  "sha256": "8de65fffd02fee9be57322e2b8cfbafd0eeb9e47ee99abaea6d8f56cbbf804a6"
+ },
+ "sha1_origem": "119647ac872873133ca72e59c71d1490286e5069",
+ "bytes_origem": 40883,
+ "capturado_em": "2026-11-08T07:11:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Tupandi.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "119647ac872873133ca72e59c71d1490286e5069"
+ }
+}

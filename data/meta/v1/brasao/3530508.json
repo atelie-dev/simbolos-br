@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3530508",
+ "uf": "SP",
+ "municipio": "Mococa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Brasaomococa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "80a3caf844aeca9a031f9d69fe63c18190acbbea8c7ca5918cf1cd5e3f002bd5",
+ "rendicoes": {
+  "png": {
+   "bytes": 141560,
+   "sha256": "6d21b94e94a059ec3fa3a75ea4a1cc4c9ee846db3ad7ab74814b019c4bb6ef20",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36979,
+   "sha256": "1b4c39db2a209a75fb1ae83cd04f46c3b87705bbbef961df1564bf7bed1b128a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3530508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3530508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3530508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3530508.jpg",
+  "bytes": 130304,
+  "sha256": "80a3caf844aeca9a031f9d69fe63c18190acbbea8c7ca5918cf1cd5e3f002bd5"
+ },
+ "sha1_origem": "0aa3c1d243e3de0a81aa1cdc5f61a45f258b4315",
+ "bytes_origem": 130304,
+ "capturado_em": "2026-11-08T06:32:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaomococa.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "0aa3c1d243e3de0a81aa1cdc5f61a45f258b4315"
+ }
+}

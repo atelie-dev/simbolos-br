@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3520707",
+ "uf": "SP",
+ "municipio": "Indiaporã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bandeira_Indiapor%C3%A3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c0204f43471f943652d1cf5e9ff8888c342fa98481fa4ba08f6ff0b310f7a0b9",
+ "rendicoes": {
+  "png": {
+   "bytes": 29745,
+   "sha256": "297ee3b01dc7cfc428fdfa387f41cc3c9aa544f261aa404d039c9d2532251efb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13889,
+   "sha256": "b258a2fcb80b20a84994a35d580377eb0c47e6af43786ec35c05e38585543bc3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3520707.png",
+  "bytes": 29796,
+  "sha256": "c0204f43471f943652d1cf5e9ff8888c342fa98481fa4ba08f6ff0b310f7a0b9"
+ },
+ "sha1_origem": "e227666830f86cec9539cfd51e5de80d410cd32d",
+ "bytes_origem": 29796,
+ "capturado_em": "2026-11-08T06:29:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Indiaporã.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "e227666830f86cec9539cfd51e5de80d410cd32d"
+ }
+}

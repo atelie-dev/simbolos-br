@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4308300",
+ "uf": "RS",
+ "municipio": "Fontoura Xavier",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Fontoura_Xavierbanders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Fontoura Xavier",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "19a2de8934245814862854105af23dc9f5161776a984cb571421700279f311a5",
+ "rendicoes": {
+  "png": {
+   "bytes": 109067,
+   "sha256": "491e08d18b2b7be31e82be101748d27dc4bc6a534156176117d8975f0d2bcb99",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22677,
+   "sha256": "16a2ce2b4d2e351191fdd6913f09cc645749eb0fd8e92cc00aa8cc4a487cc928",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4308300.jpg",
+  "bytes": 15955,
+  "sha256": "19a2de8934245814862854105af23dc9f5161776a984cb571421700279f311a5"
+ },
+ "sha1_origem": "e58d6e20bed8dec9259e5a81e01d12dc66623314",
+ "bytes_origem": 15955,
+ "capturado_em": "2026-11-08T07:03:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Fontoura_Xavierbanders.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:30Z",
+  "estado": "igual",
+  "sha1_commons": "e58d6e20bed8dec9259e5a81e01d12dc66623314"
+ }
+}

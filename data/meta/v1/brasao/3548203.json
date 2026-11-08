@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3548203",
+ "uf": "SP",
+ "municipio": "Santo Antônio do Pinhal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Santoantoniodopinhal_brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3341d204e7575790e82d8c83a8e03bf78d03c2b1537213c28b73b0655440cfbf",
+ "rendicoes": {
+  "png": {
+   "bytes": 41506,
+   "sha256": "076b2e029bed4f2ecc569af82c3baf66797384b2a3f4295c2890630a9044f2b0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15092,
+   "sha256": "c83203f3267432f72ecb58d80b5da99a32c46420d3be837513b9b916cc41fd1c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3548203.png",
+  "bytes": 11806,
+  "sha256": "3341d204e7575790e82d8c83a8e03bf78d03c2b1537213c28b73b0655440cfbf"
+ },
+ "sha1_origem": "2b68b1377275f4301b28c020b78fbfa6545fdfc4",
+ "bytes_origem": 11806,
+ "capturado_em": "2026-11-08T06:37:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Santoantoniodopinhal_brasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:36Z",
+  "estado": "igual",
+  "sha1_commons": "2b68b1377275f4301b28c020b78fbfa6545fdfc4"
+ }
+}

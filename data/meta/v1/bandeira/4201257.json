@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4201257",
+ "uf": "SC",
+ "municipio": "Apiúna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bandeira_do_munic%C3%ADpio_de_Api%C3%BAna_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Apiúna (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "505e67242a0a62c7f228a81aadbaa0b1645cc5e26bd9a8614eaf2fa5fb6766cc",
+ "rendicoes": {
+  "png": {
+   "bytes": 33425,
+   "sha256": "2de1b4b665a5934cd203bbd2fffac506761bcfcd6e2453dc625a030271d8dbed",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17406,
+   "sha256": "9796ccb961d230286f3a090f0372dd24ed90c201a04b86a753186644f8988c66",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4201257.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4201257.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4201257.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4201257.png",
+  "bytes": 538174,
+  "sha256": "505e67242a0a62c7f228a81aadbaa0b1645cc5e26bd9a8614eaf2fa5fb6766cc"
+ },
+ "sha1_origem": "1acd1f874fca7f1ab786b063100f00b9fa55ea83",
+ "bytes_origem": 538174,
+ "capturado_em": "2026-11-08T06:51:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Apiúna_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "1acd1f874fca7f1ab786b063100f00b9fa55ea83"
+ }
+}

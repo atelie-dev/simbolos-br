@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4319109",
+ "uf": "RS",
+ "municipio": "São Martinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bandeira_de_S%C3%A3o_Martinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Martinho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "336f2cd095b7ce5f9bf49eedb5200cef21bc1650f698ab585fa9442da0679636",
+ "rendicoes": {
+  "png": {
+   "bytes": 118037,
+   "sha256": "d020db76e2988ba48e13e516485787fce4712f0bef1c674b047f45443b28b0bb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26188,
+   "sha256": "a3de2d7fab7b822ab051e246fdb759de7b562c5dbec381824b334ad6f8f1a80e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4319109.jpg",
+  "bytes": 89496,
+  "sha256": "336f2cd095b7ce5f9bf49eedb5200cef21bc1650f698ab585fa9442da0679636"
+ },
+ "sha1_origem": "697fc8c246187fba5fcec83160cf774a29a4dfbb",
+ "bytes_origem": 89496,
+ "capturado_em": "2026-11-08T07:09:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Martinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "697fc8c246187fba5fcec83160cf774a29a4dfbb"
+ }
+}

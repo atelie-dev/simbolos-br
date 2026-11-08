@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3537107",
+ "uf": "SP",
+ "municipio": "Pedreira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/B-Pedreira.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pedreira municipality",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b5fdc3e3ced60729506d71541927f52c4ec75dc7416d95a2a98b97b9dff82c17",
+ "rendicoes": {
+  "png": {
+   "bytes": 26620,
+   "sha256": "3bb8d31579c13dd9f11f73b60d5453afa77d114f23389a6d5f05a1ddb5334ec6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8355,
+   "sha256": "39c9f1c61ca992fe8fe21abf1f67b46b8740c0e02959710f38b6c1b0a7fb7aa9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3537107.png",
+  "bytes": 21410,
+  "sha256": "b5fdc3e3ced60729506d71541927f52c4ec75dc7416d95a2a98b97b9dff82c17"
+ },
+ "sha1_origem": "d334433c7e16b5162fe40a715fb87b5da2ce74b2",
+ "bytes_origem": 21410,
+ "capturado_em": "2026-11-08T06:34:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:B-Pedreira.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "d334433c7e16b5162fe40a715fb87b5da2ce74b2"
+ }
+}

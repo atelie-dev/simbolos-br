@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2501534",
+ "uf": "PB",
+ "municipio": "Baraúna",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Brasao_barauna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Baraúna",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "918b188aeff2e30df7561b45e7b002c6eb1626dff73a83f954d41e5e4e6dae5d",
+ "rendicoes": {
+  "png": {
+   "bytes": 198472,
+   "sha256": "1f96f023024280d9916cbe7988071e0542212c4b70c782ca2ff758ea6bd86ffc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31760,
+   "sha256": "48df73967908c5e96ed49e00989f18fa23b8140e5683fdc74e378df32ae9b5ed",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501534.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501534.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501534.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2501534.jpg",
+  "bytes": 35395,
+  "sha256": "918b188aeff2e30df7561b45e7b002c6eb1626dff73a83f954d41e5e4e6dae5d"
+ },
+ "sha1_origem": "99fc1425229380d4bbfaa41352909c9f4c7bd074",
+ "bytes_origem": 35395,
+ "capturado_em": "2026-11-08T05:39:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_barauna.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:36Z",
+  "estado": "igual",
+  "sha1_commons": "99fc1425229380d4bbfaa41352909c9f4c7bd074"
+ }
+}

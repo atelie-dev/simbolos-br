@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4204608",
+ "uf": "SC",
+ "municipio": "Criciúma",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/BandeiraCriciuma.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ViniciusBR11, Prefeitura de Criciúma.",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "2e23679e843b343a78d9fcabde32952a6afe0781ba9684843aeae7e48024a800",
+ "rendicoes": {
+  "png": {
+   "bytes": 73801,
+   "sha256": "e0ed936542436a758355ca249308c132f747e73301cd661750ad69a2a64d39e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33788,
+   "sha256": "e364aef5047ea058cc5c309df988dc737c80c686219c812438d8980971b2967d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 96002,
+   "sha256": "2e23679e843b343a78d9fcabde32952a6afe0781ba9684843aeae7e48024a800"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204608.jpg"
+ },
+ "sha1_origem": "c412194c456891115f7ca963890f90cdcf1731c5",
+ "bytes_origem": 96002,
+ "capturado_em": "2026-11-08T04:38:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraCriciuma.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:41Z",
+  "estado": "igual",
+  "sha1_commons": "c412194c456891115f7ca963890f90cdcf1731c5"
+ }
+}

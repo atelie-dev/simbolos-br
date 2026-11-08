@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3158706",
+ "uf": "MG",
+ "municipio": "Santana do Garambéu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/84/Brasaosantanagarambeu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santana do Garambéu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8b20f7fc365c4e76db21bd2ae54b91e78342b2958e6c868bd3a375b9ddb1b8fb",
+ "rendicoes": {
+  "png": {
+   "bytes": 16561,
+   "sha256": "7b501604ea2bceed1f1fe0362ecbe99414d940f2d2247c8f41f7a7f56ada72c2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5030,
+   "sha256": "d6bedccac234117bfc9403695457d4ef32b739ce5d5b7aac7be2447cc5dc5614",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3158706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3158706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3158706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3158706.jpg",
+  "bytes": 4164,
+  "sha256": "8b20f7fc365c4e76db21bd2ae54b91e78342b2958e6c868bd3a375b9ddb1b8fb"
+ },
+ "sha1_origem": "29225c5e3c89e83a696b1d776ae0ab209a25615b",
+ "bytes_origem": 4164,
+ "capturado_em": "2026-11-08T06:15:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaosantanagarambeu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "29225c5e3c89e83a696b1d776ae0ab209a25615b"
+ }
+}

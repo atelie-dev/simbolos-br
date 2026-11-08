@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4125555",
+ "uf": "PR",
+ "municipio": "São Manoel do Paraná",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bandeira_Municipal_S%C3%A3o_Manoel_do_Paran%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Elizeu Petrelli de Vitor e José Carlos Pereira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1d8c2ed4f297357454808ad61fb2f1eeba28c5fa56d311b03f4075473a26f79b",
+ "rendicoes": {
+  "png": {
+   "bytes": 131277,
+   "sha256": "2ec0428f4171feb916c0e12a5623fe1f3c5857c7fe49176e62aa41222ce25e4b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37159,
+   "sha256": "bb1303afc05b12e3ac81d9ff857411fca8b1ec13d9b079b1f47945f225a032a5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125555.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125555.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125555.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4125555.jpg",
+  "bytes": 170964,
+  "sha256": "1d8c2ed4f297357454808ad61fb2f1eeba28c5fa56d311b03f4075473a26f79b"
+ },
+ "sha1_origem": "27faef1062e4c1b8b5467cc7d90b935ac80cf7ac",
+ "bytes_origem": 170964,
+ "capturado_em": "2026-11-08T06:50:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Municipal_São_Manoel_do_Paraná.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "27faef1062e4c1b8b5467cc7d90b935ac80cf7ac"
+ }
+}

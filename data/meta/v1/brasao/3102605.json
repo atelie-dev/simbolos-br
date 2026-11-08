@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3102605",
+ "uf": "MG",
+ "municipio": "Andradas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Brasaoandradas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "db6d99f43e83532983ac4efba2e3f9a175de17e518b99cf2a91941c09ff3ada8",
+ "rendicoes": {
+  "png": {
+   "bytes": 119660,
+   "sha256": "507929acfd51cb810edead2cd0189e802164336bf4fc09521b3c1f16451563cd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25673,
+   "sha256": "8b8f3ef089ad51d26113e8b0e4b8dcf5cca84eb2e743c0e3d7a8e6970c7f75cf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3102605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3102605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3102605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3102605.jpg",
+  "bytes": 18681,
+  "sha256": "db6d99f43e83532983ac4efba2e3f9a175de17e518b99cf2a91941c09ff3ada8"
+ },
+ "sha1_origem": "257dc8ea62260ab9849c8d58f20eb9bf4372232d",
+ "bytes_origem": 18681,
+ "capturado_em": "2026-11-08T05:59:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoandradas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "257dc8ea62260ab9849c8d58f20eb9bf4372232d"
+ }
+}

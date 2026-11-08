@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4318622",
+ "uf": "RS",
+ "municipio": "São José dos Ausentes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brasao_S._Jose_dos_Ausentes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "FrancoBras",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "723d7943a7cc6b4bde74fff58d8c1d35243a117e9221ab58a3d61a65cc85fe32",
+ "rendicoes": {
+  "png": {
+   "bytes": 34575,
+   "sha256": "16180dae398181c5195a5f5798ca0458b403c4bd802cde0be1bd8804eed6501b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9347,
+   "sha256": "7f097f350cac3fb12732376e9831582acb7b23f842dbd5972d37b8cf28b8d425",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318622.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318622.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318622.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4318622.jpg",
+  "bytes": 31261,
+  "sha256": "723d7943a7cc6b4bde74fff58d8c1d35243a117e9221ab58a3d61a65cc85fe32"
+ },
+ "sha1_origem": "f5ecc5070db610cd150b3caa0a18801644645b2f",
+ "bytes_origem": 31261,
+ "capturado_em": "2026-11-08T07:09:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_S._Jose_dos_Ausentes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "f5ecc5070db610cd150b3caa0a18801644645b2f"
+ }
+}

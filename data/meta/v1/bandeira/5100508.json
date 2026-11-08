@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5100508",
+ "uf": "MT",
+ "municipio": "Alto Paraguai",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Alto_Paraguai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Creator:Luis Gabriel Moraes Dias",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1aa76c2edd1b64e0550bc8efd9886a8a9ee9b20c016b4fbb52e586b99a7b7f48",
+ "rendicoes": {
+  "png": {
+   "bytes": 32280,
+   "sha256": "791a564804e3398c9e0d9d5ac752f8ba7d65093928bf61278e6746207ecab9de",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12580,
+   "sha256": "31a89f474ee988134fb4279b3319011fb541f92461d6d41f377cee3eddfd357d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5100508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5100508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5100508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5100508.jpg",
+  "bytes": 11758,
+  "sha256": "1aa76c2edd1b64e0550bc8efd9886a8a9ee9b20c016b4fbb52e586b99a7b7f48"
+ },
+ "sha1_origem": "567a7bcb7d38da14e9a488f131662bc050019eb7",
+ "bytes_origem": 11758,
+ "capturado_em": "2026-11-08T07:14:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Alto_Paraguai.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "567a7bcb7d38da14e9a488f131662bc050019eb7"
+ }
+}

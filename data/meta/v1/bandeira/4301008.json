@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4301008",
+ "uf": "RS",
+ "municipio": "Arroio do Meio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bandeira_de_Arroio_do_Meio_-_RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Arroio do Meio.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "32537b2d20d3647764e83560d48bd256a23b6e05801c1a9085e8270f22be81f7",
+ "rendicoes": {
+  "png": {
+   "bytes": 36377,
+   "sha256": "e6373a82bcc06ee5c570c14081d25d6c5649daa78f978779890bf874649b4f5b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9632,
+   "sha256": "e41f3476bbff6ff8ae1580d847a355455e88296911615eee2bfc01fe98e50e25",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4301008.jpg",
+  "bytes": 7021,
+  "sha256": "32537b2d20d3647764e83560d48bd256a23b6e05801c1a9085e8270f22be81f7"
+ },
+ "sha1_origem": "a28def474f225ec4a7ba1df01ce91c7dedd22c10",
+ "bytes_origem": 7021,
+ "capturado_em": "2026-11-08T06:58:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Arroio_do_Meio_-_RS.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "a28def474f225ec4a7ba1df01ce91c7dedd22c10"
+ }
+}

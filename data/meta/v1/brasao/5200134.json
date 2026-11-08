@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5200134",
+ "uf": "GO",
+ "municipio": "Acreúna",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bras%C3%A3o_de_Acre%C3%BAna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Acreúna",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b22706b330f04f4aa2de8222856274e745def3428906ea7a84b79ce1f3cd4935",
+ "rendicoes": {
+  "png": {
+   "bytes": 82923,
+   "sha256": "750c129ebaaa503491e6ccd9a820c1ad55e00d5390109661c1097e004939379a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18916,
+   "sha256": "f8108754e19e5c611e5a6ada63cc2b982b2a7dc1ade2f2c864a75c3b2569dad2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5200134.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5200134.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5200134.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5200134.jpg",
+  "bytes": 24851,
+  "sha256": "b22706b330f04f4aa2de8222856274e745def3428906ea7a84b79ce1f3cd4935"
+ },
+ "sha1_origem": "2f9a01b5eeda924609b91a97326eb527927c0239",
+ "bytes_origem": 24851,
+ "capturado_em": "2026-11-08T07:16:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Acreúna.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "2f9a01b5eeda924609b91a97326eb527927c0239"
+ }
+}

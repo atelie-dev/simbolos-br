@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5206404",
+ "uf": "GO",
+ "municipio": "Crixás",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandeiradecrixas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Crixás",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5e56b6d6458d4bad24346919e71640015d235afd0c539eff598b3cb447866587",
+ "rendicoes": {
+  "png": {
+   "bytes": 12102,
+   "sha256": "fdcba908c8c5bcf6b2f647ca4e28c09c4bed66c070809f56d1bc399f7c6ab1f2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5073,
+   "sha256": "f2057d30f288db6f2c4b4201f001c1f01e57c5c55dd0f2ced8f8591c8b82de86",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5206404.jpg",
+  "bytes": 2696,
+  "sha256": "5e56b6d6458d4bad24346919e71640015d235afd0c539eff598b3cb447866587"
+ },
+ "sha1_origem": "a1284c5fba826c9dd5d0f4873254c3e2728486ac",
+ "bytes_origem": 2696,
+ "capturado_em": "2026-11-08T07:17:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiradecrixas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "a1284c5fba826c9dd5d0f4873254c3e2728486ac"
+ }
+}

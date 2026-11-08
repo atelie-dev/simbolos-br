@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5215603",
+ "uf": "GO",
+ "municipio": "Padre Bernardo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/82/BRAS%C3%83O_DE_PADRE_BERNARDO-GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Padre Bernardo, GO",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "008ca96db30a9abf29507558c5be5fb6afbc8f69b29139256e90ac0674c53f86",
+ "rendicoes": {
+  "png": {
+   "bytes": 144354,
+   "sha256": "8651d8f99c5ec5a4307ad06768ce7a3998705b3a39b11431cdc551fc3ae5ea0c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 46635,
+   "sha256": "db8d59a6b18693fd634b8e4b8e87304946bcf43199d181811fbdb98418026984",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5215603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5215603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5215603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5215603.jpg",
+  "bytes": 466161,
+  "sha256": "008ca96db30a9abf29507558c5be5fb6afbc8f69b29139256e90ac0674c53f86"
+ },
+ "sha1_origem": "4560885bc2f766030ab749768a93698e01cdf14a",
+ "bytes_origem": 466161,
+ "capturado_em": "2026-11-08T07:19:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BRASÃO_DE_PADRE_BERNARDO-GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "4560885bc2f766030ab749768a93698e01cdf14a"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4111902",
+ "uf": "PR",
+ "municipio": "Jaguapitã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bandeira_jaguapita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Benedito Ursi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b54e558dd8d84e1024888c28eef9f656234c7ba8e431981cb350be4019629016",
+ "rendicoes": {
+  "png": {
+   "bytes": 57853,
+   "sha256": "e1d90ac854a490c0a5648ab40a4e436aaf983cc6b6c5d56f570bf866277c611f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18911,
+   "sha256": "4d99d5ba9463d15eead200bbeec646600433075cf0d489aa3bac695839ceb255",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4111902.jpg",
+  "bytes": 126188,
+  "sha256": "b54e558dd8d84e1024888c28eef9f656234c7ba8e431981cb350be4019629016"
+ },
+ "sha1_origem": "994818520300687bbf2bd6047612ce3dca2e70f3",
+ "bytes_origem": 126188,
+ "capturado_em": "2026-11-08T06:45:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_jaguapita.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "994818520300687bbf2bd6047612ce3dca2e70f3"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3531308",
+ "uf": "SP",
+ "municipio": "Monte Alto",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bras%C3%A3o_de_Monte_Alto.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Monte Alto.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "43eefc8cb626c6c8d0b8be3929be99a9d0246a5e70614a47769b70fcf9fe7c70",
+ "rendicoes": {
+  "png": {
+   "bytes": 359654,
+   "sha256": "1bb4dcb990e673c6b124e1c4bfaa79520e44afcb6b19f5d2a78991d9b8199d6b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 78745,
+   "sha256": "ab01742d794110c01d6169f296fbd7370bd2b118aa047d9c14253caea11f5be5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3531308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3531308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3531308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3531308.png",
+  "bytes": 737714,
+  "sha256": "43eefc8cb626c6c8d0b8be3929be99a9d0246a5e70614a47769b70fcf9fe7c70"
+ },
+ "sha1_origem": "1f731811f1ee000088db2f9072cb7c538a7ce3a7",
+ "bytes_origem": 737714,
+ "capturado_em": "2026-11-08T06:32:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Monte_Alto.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "1f731811f1ee000088db2f9072cb7c538a7ce3a7"
+ }
+}

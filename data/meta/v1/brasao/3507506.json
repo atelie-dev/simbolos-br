@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3507506",
+ "uf": "SP",
+ "municipio": "Botucatu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bras%C3%A3o_de_Botucatu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "37f9802b12ba363bf9fed9608c992df210566e2685aa4cab746c68b1d8b12fd7",
+ "rendicoes": {
+  "png": {
+   "bytes": 300249,
+   "sha256": "be6c2890876ab1ef42c81fcbcdc9a2cfa4934bef73cfaeaf5b1a45b3a0723693",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53118,
+   "sha256": "1222d6cb18e7add8647225ae06ca6730ca06f5958a1181844261483ba2ffb8ff",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3507506.jpg",
+  "bytes": 173729,
+  "sha256": "37f9802b12ba363bf9fed9608c992df210566e2685aa4cab746c68b1d8b12fd7"
+ },
+ "sha1_origem": "7cb702c4018e143de7b54ba13d022e16f8420f07",
+ "bytes_origem": 173729,
+ "capturado_em": "2026-11-08T06:25:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Botucatu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "7cb702c4018e143de7b54ba13d022e16f8420f07"
+ }
+}

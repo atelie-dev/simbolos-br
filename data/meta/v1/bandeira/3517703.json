@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3517703",
+ "uf": "SP",
+ "municipio": "Guará",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bandeira_de_Guar%C3%A1_%28SP%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Guará",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c7f194996dc6e95212ec4503935ff64d6832b8480b9c053072bdb5c81d57a2f8",
+ "rendicoes": {
+  "png": {
+   "bytes": 8070,
+   "sha256": "961c7be4a9f0af00f1f4c3b2bd535450e9818c1d19e5ed4e0ed65ffeba4bb70f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5154,
+   "sha256": "144e36e86e374bc64596a07addf203a74a22d974f3806ff7ffbd73c37e87c2b7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3517703.png",
+  "bytes": 3555,
+  "sha256": "c7f194996dc6e95212ec4503935ff64d6832b8480b9c053072bdb5c81d57a2f8"
+ },
+ "sha1_origem": "3910570b1876f0a5bdfd768571946453bcef8a33",
+ "bytes_origem": 3555,
+ "capturado_em": "2026-11-08T06:28:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Guará_(SP).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "3910570b1876f0a5bdfd768571946453bcef8a33"
+ }
+}

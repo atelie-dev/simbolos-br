@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3168804",
+ "uf": "MG",
+ "municipio": "Tiradentes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bras%C3%A3o_do_Munic%C3%ADpio_de_Tiradentes_-_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Tiradentes - MG",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "772b92de674394b15472086fec1f3b00f68adfc8889c05d33e91249c6db7c74c",
+ "rendicoes": {
+  "png": {
+   "bytes": 176025,
+   "sha256": "f587a9c93072864bfc5734a40a4fd9c8fa20190640b1472681aecf9bdd078929",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56565,
+   "sha256": "02e8a38d34b9ff56e6fee5c1cbb29370ee05ce8f328ce731dedeece395706cda",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3168804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3168804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3168804.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3168804.png",
+  "bytes": 1036099,
+  "sha256": "772b92de674394b15472086fec1f3b00f68adfc8889c05d33e91249c6db7c74c"
+ },
+ "sha1_origem": "d5d04401f4cff89d01eea0d6da24ccbe308038cb",
+ "bytes_origem": 1036099,
+ "capturado_em": "2026-11-08T06:17:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_Município_de_Tiradentes_-_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:16Z",
+  "estado": "igual",
+  "sha1_commons": "d5d04401f4cff89d01eea0d6da24ccbe308038cb"
+ }
+}

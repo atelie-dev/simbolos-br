@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3200607",
+ "uf": "ES",
+ "municipio": "Aracruz",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bandeira_aracruz_es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Brazilian government",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a0b2c8a61bf7e75a5a0a8dcef0f06bc238fb18e176c0e1f56ac599728bcee7a3",
+ "rendicoes": {
+  "png": {
+   "bytes": 11807,
+   "sha256": "2097113de4aeefa02391f8921ce04e829d9d12f75b5e2263c54216a92fe14da2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20890,
+   "sha256": "0f397b22e8aa152df27bcb690944bc86791854b5610bf924fe07bc8022ce62e0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200607.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200607.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200607.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3200607.png",
+  "bytes": 5802,
+  "sha256": "a0b2c8a61bf7e75a5a0a8dcef0f06bc238fb18e176c0e1f56ac599728bcee7a3"
+ },
+ "sha1_origem": "074861023ec1385076f140e1f566b29eebb46758",
+ "bytes_origem": 5802,
+ "capturado_em": "2026-11-08T06:18:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_aracruz_es.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "074861023ec1385076f140e1f566b29eebb46758"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321501",
+ "uf": "RS",
+ "municipio": "Torres",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Torres_bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Torres Prefecture",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f630130e2054bd84f684c26e67fa5cfd10a2d3cdb53210a543bdd4ff471fd29f",
+ "rendicoes": {
+  "png": {
+   "bytes": 78314,
+   "sha256": "2b245dcc7b99f2ea733d32d2778f162185d69fb684fcc469a2baa817fc4bead1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14125,
+   "sha256": "fb08a694c74c7495256d689f66d60ac061df4ad0dac15c67b48aba7e56e3246c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4321501.jpg",
+  "bytes": 9353,
+  "sha256": "f630130e2054bd84f684c26e67fa5cfd10a2d3cdb53210a543bdd4ff471fd29f"
+ },
+ "sha1_origem": "511ef9a4da6f6a3c50e524797950479599b3f59e",
+ "bytes_origem": 9353,
+ "capturado_em": "2026-11-08T07:10:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Torres_bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:38Z",
+  "estado": "igual",
+  "sha1_commons": "511ef9a4da6f6a3c50e524797950479599b3f59e"
+ }
+}

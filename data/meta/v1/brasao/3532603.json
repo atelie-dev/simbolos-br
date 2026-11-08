@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532603",
+ "uf": "SP",
+ "municipio": "Nhandeara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Nhandeara.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "94457306ebc246b0c75aeefae54296ec91c02865a256a28cc963265643277f01",
+ "rendicoes": {
+  "png": {
+   "bytes": 360300,
+   "sha256": "75fd72855ee601e8feed1302b746134228aed082c12475d696bad6cdace20688",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61931,
+   "sha256": "0ff07140a1924cf3ed131871831451560e5822c8f4e68ca25de58be687b920b9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3532603.png",
+  "bytes": 376991,
+  "sha256": "94457306ebc246b0c75aeefae54296ec91c02865a256a28cc963265643277f01"
+ },
+ "sha1_origem": "7a1125325dac43ddc891fca256a5ff703e923981",
+ "bytes_origem": 376991,
+ "capturado_em": "2026-11-08T06:32:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Nhandeara.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:34Z",
+  "estado": "igual",
+  "sha1_commons": "7a1125325dac43ddc891fca256a5ff703e923981"
+ }
+}

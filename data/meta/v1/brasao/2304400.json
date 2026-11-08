@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2304400",
+ "uf": "CE",
+ "municipio": "Fortaleza",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Antigo_bras%C3%A3o_de_Fortaleza.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Srfortes",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1008bd71fb62a07959421a970cf1d5a48f98e5750a6fabd59208abab3cf4e969",
+ "rendicoes": {
+  "png": {
+   "bytes": 184015,
+   "sha256": "768bce3020e078f2b6eef12406d40c3eff583e4e06164ce4d447d81f27434cdb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59474,
+   "sha256": "bccbac6dbfe952e213724d0b3e3e6807c24ea997d0c509bd38e00d57ec0f775d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 129365,
+   "sha256": "1008bd71fb62a07959421a970cf1d5a48f98e5750a6fabd59208abab3cf4e969"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2304400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2304400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2304400.jpg"
+ },
+ "sha1_origem": "d51d54082679235535127d9731fa958b9f84479f",
+ "bytes_origem": 129365,
+ "capturado_em": "2026-11-08T02:45:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Antigo_brasão_de_Fortaleza.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "d51d54082679235535127d9731fa958b9f84479f"
+ }
+}

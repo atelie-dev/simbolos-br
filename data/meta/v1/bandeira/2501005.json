@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2501005",
+ "uf": "PB",
+ "municipio": "Araruna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bandeira_de_Araruna-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9b0f573230c47eddb9b7419bff85f8ccca999f799fd1706308b9bda165fc154c",
+ "rendicoes": {
+  "png": {
+   "bytes": 42681,
+   "sha256": "ae61d9689ff019d29d9da2bb9778332e6c0f1c501948b268e7e6bc4932170ec1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18705,
+   "sha256": "e7131bdb37f9ff0e95aa42ffe7ff4112dc91ec9787db98d5b571f1dd2233677e",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 178734,
+   "sha256": "9b0f573230c47eddb9b7419bff85f8ccca999f799fd1706308b9bda165fc154c"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501005.jpg"
+ },
+ "sha1_origem": "07c6f333bbd73e38b0de28d34631101835d74e5f",
+ "bytes_origem": 178734,
+ "capturado_em": "2026-11-08T02:55:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Araruna-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "07c6f333bbd73e38b0de28d34631101835d74e5f"
+ }
+}

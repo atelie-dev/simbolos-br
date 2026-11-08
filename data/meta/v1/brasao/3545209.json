@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3545209",
+ "uf": "SP",
+ "municipio": "Salto",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Brasao_salto.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9e2c65cd313268fc3c9fdf3cef7673c2f3f17fb51165e4042a238c60a80883e8",
+ "rendicoes": {
+  "png": {
+   "bytes": 65377,
+   "sha256": "8f1c331aa849c225b94f52dbed12f84dc4c2b119f29a456f3c2b95640fe0570d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24371,
+   "sha256": "e4227d88268b314c0d5260fa9aa379e47c9d00e19cd82d73080ef96ae4d2c578",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3545209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3545209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3545209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3545209.png",
+  "bytes": 26962,
+  "sha256": "9e2c65cd313268fc3c9fdf3cef7673c2f3f17fb51165e4042a238c60a80883e8"
+ },
+ "sha1_origem": "b303ee890c6edb5945caf0d0c9f469f1641c3d68",
+ "bytes_origem": 26962,
+ "capturado_em": "2026-11-08T06:37:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_salto.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "b303ee890c6edb5945caf0d0c9f469f1641c3d68"
+ }
+}

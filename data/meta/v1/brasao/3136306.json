@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3136306",
+ "uf": "MG",
+ "municipio": "João Pinheiro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bras%C3%A3o_de_Jo%C3%A3o_Pinheiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de João Pinheiro, MG",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4b0adbcda870aa429e4afd61d43ab3628d7946921fbcb091021a3a717f86556c",
+ "rendicoes": {
+  "png": {
+   "bytes": 127343,
+   "sha256": "cef42e245428193c69ea4088084db6f17d74ad35b26ff8835edaf9a33ab03dc4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21509,
+   "sha256": "59e6fd0edaf6e6868690477ffb77198def47aa01c57896756ff8b77a14af51e5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3136306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3136306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3136306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3136306.jpg",
+  "bytes": 30429,
+  "sha256": "4b0adbcda870aa429e4afd61d43ab3628d7946921fbcb091021a3a717f86556c"
+ },
+ "sha1_origem": "3807ca8878b17cef1d2c5d12d9f3052479fb9483",
+ "bytes_origem": 30429,
+ "capturado_em": "2026-11-08T06:10:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_João_Pinheiro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:05Z",
+  "estado": "igual",
+  "sha1_commons": "3807ca8878b17cef1d2c5d12d9f3052479fb9483"
+ }
+}

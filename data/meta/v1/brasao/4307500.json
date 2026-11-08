@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4307500",
+ "uf": "RS",
+ "municipio": "Espumoso",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bras%C3%A3o_Espumoso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Espumoso",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "086907725468c11c66d79e2ca7c44b4819c83f3e7973e0257ff470800e390739",
+ "rendicoes": {
+  "png": {
+   "bytes": 60755,
+   "sha256": "fb18d4c7b76be193c18bc783089df86d76097f885f060841d9daa11c58078342",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11531,
+   "sha256": "5e8a135f3464d3afc6b2eb3805cb1e6acd91971499cacdb4b477909a608362e3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4307500.jpg",
+  "bytes": 13822,
+  "sha256": "086907725468c11c66d79e2ca7c44b4819c83f3e7973e0257ff470800e390739"
+ },
+ "sha1_origem": "4a9b6a36263c926745e8429854999645681f55b3",
+ "bytes_origem": 13822,
+ "capturado_em": "2026-11-08T07:02:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Espumoso.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "4a9b6a36263c926745e8429854999645681f55b3"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3504305",
+ "uf": "SP",
+ "municipio": "Avaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Ava%C3%AD_-_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "17b4d553550b93f86728153038c534465bd5e1336e3c49416ae993d23ca420d2",
+ "rendicoes": {
+  "png": {
+   "bytes": 89518,
+   "sha256": "a32abf1743829c7a0827ac1c7782c21975e68eee0b2fa2e6dfda8179c7fb4fba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25047,
+   "sha256": "d073cbf732d0272df6c9a3ac1b3a6d67042d51fca6e05c8b4ee966f2ea2789df",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3504305.png",
+  "bytes": 81353,
+  "sha256": "17b4d553550b93f86728153038c534465bd5e1336e3c49416ae993d23ca420d2"
+ },
+ "sha1_origem": "98b40360e8eb8bee268f71548928ef593ea39ee5",
+ "bytes_origem": 81353,
+ "capturado_em": "2026-11-08T06:24:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Avaí_-_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "98b40360e8eb8bee268f71548928ef593ea39ee5"
+ }
+}

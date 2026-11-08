@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321451",
+ "uf": "RS",
+ "municipio": "Teutônia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bandeira_de_teutonia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Thguzella",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9b367e72bf2b48cd7c86dc718cdd0ac69e369d772b7204c6def29ad5e225799c",
+ "rendicoes": {
+  "png": {
+   "bytes": 38320,
+   "sha256": "0435b5e3b0996b820dd5d365fac9de409a9b2c342721de924a26d599c0d6c781",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9391,
+   "sha256": "1fe8e834d565a3d54dae1ea148285c4f8a7bd4b353d7d422ed136e5e6218504d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321451.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321451.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321451.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4321451.jpg",
+  "bytes": 5036,
+  "sha256": "9b367e72bf2b48cd7c86dc718cdd0ac69e369d772b7204c6def29ad5e225799c"
+ },
+ "sha1_origem": "dca184b317df2cec1d7b008cd36203299acefbf6",
+ "bytes_origem": 5036,
+ "capturado_em": "2026-11-08T07:10:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_teutonia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "dca184b317df2cec1d7b008cd36203299acefbf6"
+ }
+}

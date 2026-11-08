@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305603",
+ "uf": "RS",
+ "municipio": "Colorado",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Brasao_Colorado_RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Colorado.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "692f347afcd544598bba632f262e22632b0db13694c9bf9b62384464a28be14e",
+ "rendicoes": {
+  "png": {
+   "bytes": 32532,
+   "sha256": "706b2f76d471dc48f2c00b64e90e74dc58a0c94ffe5050c9b905d5427a541aab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9143,
+   "sha256": "5222756c8e9c7669ee7d8ea17e740549d8813f929d8d61208021f9c2d32f53e9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4305603.jpg",
+  "bytes": 45175,
+  "sha256": "692f347afcd544598bba632f262e22632b0db13694c9bf9b62384464a28be14e"
+ },
+ "sha1_origem": "19be55c7e18849ec159ac4184b1b6120ee820511",
+ "bytes_origem": 45175,
+ "capturado_em": "2026-11-08T07:01:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Colorado_RS.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:32Z",
+  "estado": "igual",
+  "sha1_commons": "19be55c7e18849ec159ac4184b1b6120ee820511"
+ }
+}

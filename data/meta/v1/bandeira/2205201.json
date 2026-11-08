@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2205201",
+ "uf": "PI",
+ "municipio": "Jaicós",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bandeira_de_Jaic%C3%B3s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Informativo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1f2a3ed7c73904c6a68c4aca7ef5b7ba5cdcb8898f7fca128caabda2900b9534",
+ "rendicoes": {
+  "png": {
+   "bytes": 45468,
+   "sha256": "308c1f6378fdfc7e9efaeee5620de7d0d6c075d49edfbf302907f709589fdc27",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16151,
+   "sha256": "edde304e4bc6c0e006aa19ae03f2ea0788d4ef4a30be8810ddf9af327a534f83",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2205201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2205201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2205201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2205201.jpg",
+  "bytes": 16117,
+  "sha256": "1f2a3ed7c73904c6a68c4aca7ef5b7ba5cdcb8898f7fca128caabda2900b9534"
+ },
+ "sha1_origem": "131b75bdf24959343bdfd2e8f4d93de828801967",
+ "bytes_origem": 16117,
+ "capturado_em": "2026-11-08T05:30:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Jaicós.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "131b75bdf24959343bdfd2e8f4d93de828801967"
+ }
+}

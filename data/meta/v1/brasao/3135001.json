@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3135001",
+ "uf": "MG",
+ "municipio": "Jaguaraçu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Brasao_jaguaracu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Andrelecio",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5f471c4c6fd20389fb603f38fdebd5abee72a29ddd9f06584f6b5acf524ef5b7",
+ "rendicoes": {
+  "png": {
+   "bytes": 28110,
+   "sha256": "be77e4a4c5c2b462ece4bce9b6a221b26736730b6360b47cc60394fb90621d33",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7078,
+   "sha256": "7392c3ef031167e1c0a233b89a9dcf734b70808a0541e5556536bfce4b23b21f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3135001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3135001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3135001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3135001.jpg",
+  "bytes": 12729,
+  "sha256": "5f471c4c6fd20389fb603f38fdebd5abee72a29ddd9f06584f6b5acf524ef5b7"
+ },
+ "sha1_origem": "fb5813e55a163f73d29c5d48282402e957abe35b",
+ "bytes_origem": 12729,
+ "capturado_em": "2026-11-08T06:09:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_jaguaracu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "fb5813e55a163f73d29c5d48282402e957abe35b"
+ }
+}

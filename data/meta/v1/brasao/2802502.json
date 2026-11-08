@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2802502",
+ "uf": "SE",
+ "municipio": "General Maynard",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/92/Brasao_genmaynard.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal General Maynard",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "86b9d4e40f77a74bef6d69db8d16e23639ddbd1b867fd16a8abe9c521f9fe76b",
+ "rendicoes": {
+  "png": {
+   "bytes": 135987,
+   "sha256": "d4f5010077612411fdf253bb061707d5193efcbc0de9b77ea0b6e9f43d35c8a6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59009,
+   "sha256": "8ab17d5699d9b284eb6429328e45ab30c78539adc328ce3ef73e67a8307ab3af",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 90404,
+   "sha256": "86b9d4e40f77a74bef6d69db8d16e23639ddbd1b867fd16a8abe9c521f9fe76b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2802502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2802502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2802502.jpg"
+ },
+ "sha1_origem": "41220ad30c7f4817785efcbbcd99db53bd5cc559",
+ "bytes_origem": 90404,
+ "capturado_em": "2026-11-08T03:12:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_genmaynard.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "41220ad30c7f4817785efcbbcd99db53bd5cc559"
+ }
+}

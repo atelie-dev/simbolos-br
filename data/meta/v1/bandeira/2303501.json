@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2303501",
+ "uf": "CE",
+ "municipio": "Cascavel",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/BandeiraCascavelCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Cascavel - Brasil",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a443a733f4765526887e8746aeb0edc00c9b50430c249147bb6df80d69c7024e",
+ "rendicoes": {
+  "png": {
+   "bytes": 42389,
+   "sha256": "c37d1dd53d8f8ace34ac01339b71a41db962f4a4d2749bc7c0f803eba409f2e0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18951,
+   "sha256": "b663666a4728f488baacbb4890e28997d8eca115d0184f5e23e781d0343ec68c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2303501.jpg",
+  "bytes": 367483,
+  "sha256": "a443a733f4765526887e8746aeb0edc00c9b50430c249147bb6df80d69c7024e"
+ },
+ "sha1_origem": "bf083720dc0f15213b39147b01665e5259e94b81",
+ "bytes_origem": 367483,
+ "capturado_em": "2026-11-08T05:32:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraCascavelCE.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:41Z",
+  "estado": "igual",
+  "sha1_commons": "bf083720dc0f15213b39147b01665e5259e94b81"
+ }
+}

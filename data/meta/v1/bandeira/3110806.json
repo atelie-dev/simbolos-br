@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3110806",
+ "uf": "MG",
+ "municipio": "Campanário",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Campan%C3%A1riomgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Campanário",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cc76682131c36a170d32d57bff952e7e82eda8c85a08e26398b9318f73414913",
+ "rendicoes": {
+  "png": {
+   "bytes": 26831,
+   "sha256": "9b744455228846178a0effb22a4a18ddffa678bad4113323b160ea56fbda6fcb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15245,
+   "sha256": "2ef9d570c688d2cd50ba2a81ee67f0fbb25cabb8a9147becaedee20c379699c5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3110806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3110806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3110806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3110806.png",
+  "bytes": 8594,
+  "sha256": "cc76682131c36a170d32d57bff952e7e82eda8c85a08e26398b9318f73414913"
+ },
+ "sha1_origem": "0cf243c924d90a7ad211291074e600fc63ae8fe4",
+ "bytes_origem": 8594,
+ "capturado_em": "2026-11-08T06:01:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Campanáriomgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "0cf243c924d90a7ad211291074e600fc63ae8fe4"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2803708",
+ "uf": "SE",
+ "municipio": "Macambira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Band_macambira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Macambira-SE",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "58daf59fa9182539547d35ab9443b82c1e376a4b550184c96815bafcfdedb495",
+ "rendicoes": {
+  "png": {
+   "bytes": 23441,
+   "sha256": "1612c0f5c465408d26672b80f29c74f81cbb2c615b5af7370f7cbda319609628",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11267,
+   "sha256": "62091f745e03998f11ce7577e0cfa2e9dbe577ce735a4ae55c84e44b0d602b27",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2803708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2803708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2803708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2803708.png",
+  "bytes": 31550,
+  "sha256": "58daf59fa9182539547d35ab9443b82c1e376a4b550184c96815bafcfdedb495"
+ },
+ "sha1_origem": "8868ebaa14ab417de49fb4e9ebc954c4ac07b98a",
+ "bytes_origem": 31550,
+ "capturado_em": "2026-11-08T05:49:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_macambira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "8868ebaa14ab417de49fb4e9ebc954c4ac07b98a"
+ }
+}

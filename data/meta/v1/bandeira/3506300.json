@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3506300",
+ "uf": "SP",
+ "municipio": "Bernardino de Campos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bandeira_bernardino_de_campos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura do Município de Bernardino de Campos São Paulo, Brasil",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "46d14af946d5a1771408bcd20b4239b2d95762b727f26f9c905e4fb97502fa24",
+ "rendicoes": {
+  "png": {
+   "bytes": 109307,
+   "sha256": "2958ac5f4917e509432fd2c304533b9b24ac0e74dca55c33759fe47e0401ea05",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20229,
+   "sha256": "8f61fd4ef5e22554c57006dfb95ed7c90df74579637ec1333b574263bc356a09",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3506300.jpg",
+  "bytes": 20538,
+  "sha256": "46d14af946d5a1771408bcd20b4239b2d95762b727f26f9c905e4fb97502fa24"
+ },
+ "sha1_origem": "9beb01b7e3879ab764d1f0e06d61121c4e2a338a",
+ "bytes_origem": 20538,
+ "capturado_em": "2026-11-08T06:24:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_bernardino_de_campos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "9beb01b7e3879ab764d1f0e06d61121c4e2a338a"
+ }
+}

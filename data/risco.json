@@ -1,0 +1,767 @@
+{
+ "gerado_em": "2026-11-08T16:08:45Z",
+ "premissas": [
+  "vetor sempre baixo por decisão (D21)",
+  "o SVG publicado é a fonte, byte a byte, e vai para o git",
+  "enquanto não estiver no git, o motivo vetor_versionavel registra a dívida"
+ ],
+ "resumo": {
+  "itens": 8379,
+  "risco_alto": 68,
+  "risco_baixo": 8311,
+  "por_motivo": {
+   "licenca_pendente": 69,
+   "vetor_versionavel": 1170
+  }
+ },
+ "risco_alto": [
+  {
+   "codigo_ibge": "2700409",
+   "tipo": "brasao",
+   "uf": "AL",
+   "municipio": "Atalaia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2700904",
+   "tipo": "brasao",
+   "uf": "AL",
+   "municipio": "Belo Monte",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2707503",
+   "tipo": "bandeira",
+   "uf": "AL",
+   "municipio": "Porto Real do Colégio",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2903201",
+   "tipo": "brasao",
+   "uf": "BA",
+   "municipio": "Barreiras",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2913200",
+   "tipo": "brasao",
+   "uf": "BA",
+   "municipio": "Ibotirama",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2914604",
+   "tipo": "bandeira",
+   "uf": "BA",
+   "municipio": "Irecê",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2915353",
+   "tipo": "bandeira",
+   "uf": "BA",
+   "municipio": "Itaguaçu da Bahia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2916807",
+   "tipo": "bandeira",
+   "uf": "BA",
+   "municipio": "Itarantim",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2919207",
+   "tipo": "bandeira",
+   "uf": "BA",
+   "municipio": "Lauro de Freitas",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2927101",
+   "tipo": "brasao",
+   "uf": "BA",
+   "municipio": "Rodelas",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2301000",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Aquiraz",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2307809",
+   "tipo": "bandeira",
+   "uf": "CE",
+   "municipio": "Marco",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2307809",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Marco",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2312700",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Senador Pompeu",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2104552",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Governador Edison Lobão",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3125705",
+   "tipo": "bandeira",
+   "uf": "MG",
+   "municipio": "Felixlândia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3127404",
+   "tipo": "bandeira",
+   "uf": "MG",
+   "municipio": "Gonçalves",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3130903",
+   "tipo": "bandeira",
+   "uf": "MG",
+   "municipio": "Inhapim",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3136959",
+   "tipo": "bandeira",
+   "uf": "MG",
+   "municipio": "Juvenília",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3158904",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Santana do Manhuaçu",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "5002902",
+   "tipo": "bandeira",
+   "uf": "MS",
+   "municipio": "Cassilândia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "5005251",
+   "tipo": "bandeira",
+   "uf": "MS",
+   "municipio": "Laguna Carapã",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "5102678",
+   "tipo": "bandeira",
+   "uf": "MT",
+   "municipio": "Campo Verde",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "5103502",
+   "tipo": "brasao",
+   "uf": "MT",
+   "municipio": "Diamantino",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "5107008",
+   "tipo": "bandeira",
+   "uf": "MT",
+   "municipio": "Poxoréu",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "5108006",
+   "tipo": "bandeira",
+   "uf": "MT",
+   "municipio": "Tapurah",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1502905",
+   "tipo": "bandeira",
+   "uf": "PA",
+   "municipio": "Curuçá",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1502905",
+   "tipo": "brasao",
+   "uf": "PA",
+   "municipio": "Curuçá",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1506609",
+   "tipo": "brasao",
+   "uf": "PA",
+   "municipio": "Santa Maria do Pará",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1508100",
+   "tipo": "bandeira",
+   "uf": "PA",
+   "municipio": "Tucuruí",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2507606",
+   "tipo": "brasao",
+   "uf": "PB",
+   "municipio": "Juarez Távora",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2509107",
+   "tipo": "brasao",
+   "uf": "PB",
+   "municipio": "Mari",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2612554",
+   "tipo": "bandeira",
+   "uf": "PE",
+   "municipio": "Santa Filomena",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2615300",
+   "tipo": "bandeira",
+   "uf": "PE",
+   "municipio": "Timbaúba",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4110953",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Itaipulândia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4111209",
+   "tipo": "bandeira",
+   "uf": "PR",
+   "municipio": "Itapejara d'Oeste",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4111209",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Itapejara d'Oeste",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4111258",
+   "tipo": "bandeira",
+   "uf": "PR",
+   "municipio": "Itaperuçu",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4111902",
+   "tipo": "bandeira",
+   "uf": "PR",
+   "municipio": "Jaguapitã",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4111902",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Jaguapitã",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4114609",
+   "tipo": "bandeira",
+   "uf": "PR",
+   "municipio": "Marechal Cândido Rondon",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4119509",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Piraquara",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4119954",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Pontal do Paraná",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4120903",
+   "tipo": "bandeira",
+   "uf": "PR",
+   "municipio": "Quedas do Iguaçu",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4126256",
+   "tipo": "bandeira",
+   "uf": "PR",
+   "municipio": "Sarandi",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3300209",
+   "tipo": "bandeira",
+   "uf": "RJ",
+   "municipio": "Araruama",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3300506",
+   "tipo": "bandeira",
+   "uf": "RJ",
+   "municipio": "Bom Jardim",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3300605",
+   "tipo": "bandeira",
+   "uf": "RJ",
+   "municipio": "Bom Jesus do Itabapoana",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3300605",
+   "tipo": "brasao",
+   "uf": "RJ",
+   "municipio": "Bom Jesus do Itabapoana",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3300902",
+   "tipo": "brasao",
+   "uf": "RJ",
+   "municipio": "Cambuci",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3301900",
+   "tipo": "brasao",
+   "uf": "RJ",
+   "municipio": "Itaboraí",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3302056",
+   "tipo": "bandeira",
+   "uf": "RJ",
+   "municipio": "Italva",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3303104",
+   "tipo": "brasao",
+   "uf": "RJ",
+   "municipio": "Natividade",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3304102",
+   "tipo": "bandeira",
+   "uf": "RJ",
+   "municipio": "Porciúncula",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3304102",
+   "tipo": "brasao",
+   "uf": "RJ",
+   "municipio": "Porciúncula",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3305208",
+   "tipo": "bandeira",
+   "uf": "RJ",
+   "municipio": "São Pedro da Aldeia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3305208",
+   "tipo": "brasao",
+   "uf": "RJ",
+   "municipio": "São Pedro da Aldeia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4306320",
+   "tipo": "bandeira",
+   "uf": "RS",
+   "municipio": "Derrubadas",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4308508",
+   "tipo": "bandeira",
+   "uf": "RS",
+   "municipio": "Frederico Westphalen",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4321105",
+   "tipo": "bandeira",
+   "uf": "RS",
+   "municipio": "Tapes",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4321105",
+   "tipo": "brasao",
+   "uf": "RS",
+   "municipio": "Tapes",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4322707",
+   "tipo": "brasao",
+   "uf": "RS",
+   "municipio": "Vera Cruz",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2805109",
+   "tipo": "bandeira",
+   "uf": "SE",
+   "municipio": "Pedrinhas",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2806107",
+   "tipo": "brasao",
+   "uf": "SE",
+   "municipio": "Rosário do Catete",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3522703",
+   "tipo": "bandeira",
+   "uf": "SP",
+   "municipio": "Itápolis",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3522703",
+   "tipo": "brasao",
+   "uf": "SP",
+   "municipio": "Itápolis",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3535200",
+   "tipo": "brasao",
+   "uf": "SP",
+   "municipio": "Palmeira d'Oeste",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1714880",
+   "tipo": "bandeira",
+   "uf": "TO",
+   "municipio": "Nova Olinda",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "licenca_pendente"
+   ]
+  }
+ ]
+}

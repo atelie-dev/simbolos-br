@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3554706",
+ "uf": "SP",
+ "municipio": "Torrinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Bandeira_Torrinha.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b09b5a3c51be7d7bd48d2cb77b72a702a468c2701a832f0af2497b9f06d9c37f",
+ "rendicoes": {
+  "png": {
+   "bytes": 29244,
+   "sha256": "903e0e56d722c10990d3ea668c070ad2d544072f90e910627f460d901bb552e4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9442,
+   "sha256": "e90e5874018e9d6c8fc911127cc502adb690fd32bef3e464c3a977ad39e9b6e7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3554706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3554706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3554706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3554706.png",
+  "bytes": 32059,
+  "sha256": "b09b5a3c51be7d7bd48d2cb77b72a702a468c2701a832f0af2497b9f06d9c37f"
+ },
+ "sha1_origem": "34ab57102e60cc99e33da169bc86bf6972877e2c",
+ "bytes_origem": 32059,
+ "capturado_em": "2026-11-08T06:39:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Torrinha.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "34ab57102e60cc99e33da169bc86bf6972877e2c"
+ }
+}

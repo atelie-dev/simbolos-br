@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5105259",
+ "uf": "MT",
+ "municipio": "Lucas do Rio Verde",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bandeira_de_Lucas_do_Rio_Verde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Lucas do Rio Verde",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "05539f23b5ece6de8e0af06a74d8ca68b1bb847c27636f27357ac75a81efee42",
+ "rendicoes": {
+  "png": {
+   "bytes": 53154,
+   "sha256": "f6bc96328a63c7dac97fc543b73afc64e1c887b54c870f6d92fc8003440a3832",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12741,
+   "sha256": "ce815a90ff1b9663b21170469f93c094467c04884a744fdd93d490627b3336b8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5105259.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5105259.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5105259.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5105259.jpg",
+  "bytes": 13483,
+  "sha256": "05539f23b5ece6de8e0af06a74d8ca68b1bb847c27636f27357ac75a81efee42"
+ },
+ "sha1_origem": "2165d88e0f033783ff9e994efc98a86532af56fe",
+ "bytes_origem": 13483,
+ "capturado_em": "2026-11-08T07:14:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Lucas_do_Rio_Verde.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "2165d88e0f033783ff9e994efc98a86532af56fe"
+ }
+}

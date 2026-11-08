@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5200555",
+ "uf": "GO",
+ "municipio": "Alto Horizonte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bandeira_de_Alto_Horizonte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Alto Horizonte",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bf3efaab43768179baacde54cfaff630c28e8768cc513e8cbda1376ce4dc259c",
+ "rendicoes": {
+  "png": {
+   "bytes": 21642,
+   "sha256": "88bc48195d888f6b3f3d9e8eb86b5500140bec9380d76c11a4bfbda1fc6363dc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9023,
+   "sha256": "4d3a53729290b84e0bf5d2aab122acd424a544d1ed5c82841a1a54e23ff4265e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200555.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200555.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200555.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5200555.jpg",
+  "bytes": 10267,
+  "sha256": "bf3efaab43768179baacde54cfaff630c28e8768cc513e8cbda1376ce4dc259c"
+ },
+ "sha1_origem": "e2fb82b95bb0615af44950d21004e54f40223bef",
+ "bytes_origem": 10267,
+ "capturado_em": "2026-11-08T07:16:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Alto_Horizonte.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "e2fb82b95bb0615af44950d21004e54f40223bef"
+ }
+}

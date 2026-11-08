@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1400050",
+ "uf": "RR",
+ "municipio": "Alto Alegre",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bandeira_de_Alto_Alegre_-_RR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "23ee42889cfe0525f79b761b81d3b97f5007b2acb1357ea1e4420e877c4727e4",
+ "rendicoes": {
+  "png": {
+   "bytes": 20319,
+   "sha256": "d52299df28d309e9dd0ec4ca944c779695f96fc1a3faba6073589d0cbff60470",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11396,
+   "sha256": "aa1816c3cd57e53ff937db9971d5cb7ab054b1b8869600b6adb0fba00fe93566",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 855070,
+   "sha256": "23ee42889cfe0525f79b761b81d3b97f5007b2acb1357ea1e4420e877c4727e4"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400050.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400050.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400050.jpg"
+ },
+ "sha1_origem": "88ff62b302480badac27daa522d5bc21394bbaeb",
+ "bytes_origem": 855070,
+ "capturado_em": "2026-11-08T02:32:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Alto_Alegre_-_RR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "88ff62b302480badac27daa522d5bc21394bbaeb"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4124806",
+ "uf": "PR",
+ "municipio": "São João",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bandeira_de_S%C3%A3o_Jo%C3%A3o%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de São João, PR.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "91ec6383b4a0e090a63a2b1923bb9788b3adb63bf7b29fdb9a730a6e616c6ca0",
+ "rendicoes": {
+  "png": {
+   "bytes": 39177,
+   "sha256": "f57b649edeaeaf70452b8ad0dabc33c44c1b2320056843e67f08cb13d7bedad5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13788,
+   "sha256": "96197c85fef1327141e1a3f2b22903d9938f1902ee23d0a905189cfeab78eb98",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4124806.jpg",
+  "bytes": 12189,
+  "sha256": "91ec6383b4a0e090a63a2b1923bb9788b3adb63bf7b29fdb9a730a6e616c6ca0"
+ },
+ "sha1_origem": "4a6be22e6fc9f37071deabbc79f91c8f4ffdd931",
+ "bytes_origem": 12189,
+ "capturado_em": "2026-11-08T06:49:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_João,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "4a6be22e6fc9f37071deabbc79f91c8f4ffdd931"
+ }
+}

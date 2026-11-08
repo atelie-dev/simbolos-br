@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2912202",
+ "uf": "BA",
+ "municipio": "Ibicoara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bras%C3%A3o_de_Ibicoara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ibicoara",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3b7d6b17ce8fa6cdf693584c7f67fe8953f0ea40a719e1b47dcb31467ab360fe",
+ "rendicoes": {
+  "png": {
+   "bytes": 106486,
+   "sha256": "37e92420817b249dd06a3fb5b8842bd9b954a89789df86ddec537f8791d0b2ff",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21552,
+   "sha256": "ad70eb799b5ff15be0d58ac55fb9ae479a669374c597909bb82e1635aa02fa9b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2912202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2912202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2912202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2912202.jpg",
+  "bytes": 25030,
+  "sha256": "3b7d6b17ce8fa6cdf693584c7f67fe8953f0ea40a719e1b47dcb31467ab360fe"
+ },
+ "sha1_origem": "6fe47a4c998a6fe7a3f365969f82e6eef24a37e2",
+ "bytes_origem": 25030,
+ "capturado_em": "2026-11-08T05:53:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Ibicoara.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:03Z",
+  "estado": "igual",
+  "sha1_commons": "6fe47a4c998a6fe7a3f365969f82e6eef24a37e2"
+ }
+}

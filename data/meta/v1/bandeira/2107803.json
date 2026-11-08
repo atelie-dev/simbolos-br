@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2107803",
+ "uf": "MA",
+ "municipio": "Parnarama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bandeira_de_Parnarama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Parnarama",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "93ff2f95b79c2a7a7490a79c74e39d45fe19b34641dbe44e6a9bd9e0c9b08d82",
+ "rendicoes": {
+  "png": {
+   "bytes": 89639,
+   "sha256": "775fe0b0557cd7fb3a2d427a4ac021f80785c4989d35b5cf5a87bbfe89abd69e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32922,
+   "sha256": "bef79daced660612de88f36c05a80a70d079451a6ad069476bdd6be758daaa23",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2107803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2107803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2107803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2107803.jpg",
+  "bytes": 55437,
+  "sha256": "93ff2f95b79c2a7a7490a79c74e39d45fe19b34641dbe44e6a9bd9e0c9b08d82"
+ },
+ "sha1_origem": "cdd10476f719b18c2ba1cde348da023c512fafc3",
+ "bytes_origem": 55437,
+ "capturado_em": "2026-11-08T05:28:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Parnarama.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "cdd10476f719b18c2ba1cde348da023c512fafc3"
+ }
+}

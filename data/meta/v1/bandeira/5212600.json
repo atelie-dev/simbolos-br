@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5212600",
+ "uf": "GO",
+ "municipio": "Mairipotaba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bandeira_de_Mairipotaba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Mairipotaba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "988d733a9ec67dd68cd5441d8dc5c73201d1d731b861ca90b8998593268c201a",
+ "rendicoes": {
+  "png": {
+   "bytes": 13676,
+   "sha256": "a4a9a8455261779a4e79472cb4ce4569a6173208fab78fc6dd25e1d8e0ee08e1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9390,
+   "sha256": "37266ded00b16595659ff369daee985f13b06e8f7083fff400af1dc8cf74ca7e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5212600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5212600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5212600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5212600.jpg",
+  "bytes": 9917,
+  "sha256": "988d733a9ec67dd68cd5441d8dc5c73201d1d731b861ca90b8998593268c201a"
+ },
+ "sha1_origem": "768c83dc7fe5391e6d6f8c115b74c18f2bc0bf79",
+ "bytes_origem": 9917,
+ "capturado_em": "2026-11-08T07:18:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Mairipotaba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "768c83dc7fe5391e6d6f8c115b74c18f2bc0bf79"
+ }
+}

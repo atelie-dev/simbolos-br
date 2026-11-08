@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1503606",
+ "uf": "PA",
+ "municipio": "Itaituba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bandeira_Itaituba.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Jonilson Costa de Oliveira",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "59ccf2b8d177a52092c0c6e14fdfed8d82e76a544ee03a44cd21047199cea3bd",
+ "rendicoes": {
+  "png": {
+   "bytes": 6377,
+   "sha256": "5f982ff6de64922ede826fed2f7bfd3dc5e0a335a9a4b27443afb69c2b1171b6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9562,
+   "sha256": "a47678f69521dc0f3fd3034e281a9a5ada3f81896b060d96b402ce63d3aa44d4",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 611,
+   "sha256": "59ccf2b8d177a52092c0c6e14fdfed8d82e76a544ee03a44cd21047199cea3bd"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1503606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1503606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1503606.jpg"
+ },
+ "sha1_origem": "0c9b95a5c16cdc8b93dccb2dcb1fa6301090ae40",
+ "bytes_origem": 611,
+ "capturado_em": "2026-11-08T02:34:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itaituba.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "0c9b95a5c16cdc8b93dccb2dcb1fa6301090ae40"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4219150",
+ "uf": "SC",
+ "municipio": "Vargem",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bandeira_do_munic%C3%ADpio_de_Vargem_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Vargem (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "82ff9e272fdd3715d3879e30a5e60a4d29b6308074341762237d2320bcf78f70",
+ "rendicoes": {
+  "png": {
+   "bytes": 64898,
+   "sha256": "f944b84d4850bb7e75defe7f4d1a1b00387063af6d56f40d5e86040e3626c4bc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25353,
+   "sha256": "ab320e16b098447688f6f61efb1b0f0640fbaa92bf4a277649284187c10ec452",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4219150.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4219150.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4219150.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4219150.png",
+  "bytes": 1262285,
+  "sha256": "82ff9e272fdd3715d3879e30a5e60a4d29b6308074341762237d2320bcf78f70"
+ },
+ "sha1_origem": "6dde61cdd74f751f34551433582d5a08c9f148dd",
+ "bytes_origem": 1262285,
+ "capturado_em": "2026-11-08T06:58:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Vargem_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "6dde61cdd74f751f34551433582d5a08c9f148dd"
+ }
+}

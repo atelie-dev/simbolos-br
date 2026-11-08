@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1100205",
+ "uf": "RO",
+ "municipio": "Porto Velho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bras%C3%A3o_de_Porto_Velho.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "e5296b86faafa7b75ebfc2c88430c5514f1e60e44e038fab23ad8249f63d6bae",
+ "rendicoes": {
+  "png": {
+   "bytes": 184221,
+   "sha256": "0b4fcde3b3bf4f14c1a800302ce3acda9812f8e2575d5245d2d8bbc9c81b41d7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 71255,
+   "sha256": "64196ba91aef1f70d9b24b8cb83ab297e44cb6c4d8ccf7ca98dd160d48113527",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 88951,
+   "sha256": "e5296b86faafa7b75ebfc2c88430c5514f1e60e44e038fab23ad8249f63d6bae"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100205.jpg"
+ },
+ "sha1_origem": "c06e4273e9432097be045d5a85991e0895a961c3",
+ "bytes_origem": 88951,
+ "capturado_em": "2026-11-08T02:29:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Porto_Velho.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:09Z",
+  "estado": "igual",
+  "sha1_commons": "c06e4273e9432097be045d5a85991e0895a961c3"
+ }
+}

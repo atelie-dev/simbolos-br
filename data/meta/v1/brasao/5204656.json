@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5204656",
+ "uf": "GO",
+ "municipio": "Campinaçu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bras%C3%A3o_de_Campina%C3%A7u-GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Campinaçu, Goiás.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0a8edf85d3e302165db68fc835606f26e82a2128535766112918fb56be6f1916",
+ "rendicoes": {
+  "png": {
+   "bytes": 215976,
+   "sha256": "6617f60f923ed1f72fd6ac5aebbc86b2bc620edcdc6c3fe88acd25e96feddbdb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44287,
+   "sha256": "d9f3e8b5e274b00994f37f7321ad190c1b69c0ef6e65f275335150a648bd24fb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5204656.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5204656.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5204656.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5204656.jpg",
+  "bytes": 99340,
+  "sha256": "0a8edf85d3e302165db68fc835606f26e82a2128535766112918fb56be6f1916"
+ },
+ "sha1_origem": "17801bbe8da2eedd56474660e3c0d1f7633179ce",
+ "bytes_origem": 99340,
+ "capturado_em": "2026-11-08T07:17:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Campinaçu-GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "17801bbe8da2eedd56474660e3c0d1f7633179ce"
+ }
+}

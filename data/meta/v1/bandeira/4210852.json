@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4210852",
+ "uf": "SC",
+ "municipio": "Mirim Doce",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bandeira_do_munic%C3%ADpio_de_Mirim_Doce_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Mirim Doce (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "e005cbb9feae8eb959734fcf32048ee2f78b45b29a824a6e2e0957c95a246ead",
+ "rendicoes": {
+  "png": {
+   "bytes": 59291,
+   "sha256": "11bc56f512236ee361a8849916474eade4ad3b90382ea8c2ac17a98653754c89",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24507,
+   "sha256": "c453ce7c6843386a585acc72d743455b8b8cc0253ac7f58d78fe6254d0c69a43",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 525434,
+   "sha256": "e005cbb9feae8eb959734fcf32048ee2f78b45b29a824a6e2e0957c95a246ead"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210852.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210852.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210852.jpg"
+ },
+ "sha1_origem": "167efafdd3ec22e6d0f8c6dd77dce14d3fe1e940",
+ "bytes_origem": 525434,
+ "capturado_em": "2026-11-08T04:41:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Mirim_Doce_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "167efafdd3ec22e6d0f8c6dd77dce14d3fe1e940"
+ }
+}

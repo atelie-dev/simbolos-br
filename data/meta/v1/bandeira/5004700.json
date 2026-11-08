@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5004700",
+ "uf": "MS",
+ "municipio": "Ivinhema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bandeira-ivinhema.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ivinhema City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "18d7dba5d37ed8082051eb6eb59044e55657d35dacaa60b7c8c740571b294ad8",
+ "rendicoes": {
+  "png": {
+   "bytes": 7398,
+   "sha256": "38c18ab6dc280144376ba13e5056045883c313611973cc9cca557f712f167218",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13508,
+   "sha256": "b090e0a1b3986061efa64b08d0b5d3f0722838c6b320234e4327e1ef59eaed65",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5004700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5004700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5004700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5004700.png",
+  "bytes": 4972,
+  "sha256": "18d7dba5d37ed8082051eb6eb59044e55657d35dacaa60b7c8c740571b294ad8"
+ },
+ "sha1_origem": "5718558ab5f3ae3da67eba4a6852729cadae79e8",
+ "bytes_origem": 4972,
+ "capturado_em": "2026-11-08T07:13:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-ivinhema.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "5718558ab5f3ae3da67eba4a6852729cadae79e8"
+ }
+}

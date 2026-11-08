@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2112704",
+ "uf": "MA",
+ "municipio": "Vargem Grande",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bras%C3%A3o_de_Vargem_Grande%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "F. Cordeiro de Oliveira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "13c6c15321693b938a1bda32cb16ba20908748a57c4d36f528a693cd8f4a8ae5",
+ "rendicoes": {
+  "png": {
+   "bytes": 425770,
+   "sha256": "aa402627efd9194a2b5889b029254c348c3bb81b2d20943b221c1664758daf3c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55624,
+   "sha256": "31ea6377d3a1a5160b63162a1c89ee7a1dbf6cc4166e6a50a446f1f4ecd138e0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2112704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2112704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2112704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2112704.jpg",
+  "bytes": 290646,
+  "sha256": "13c6c15321693b938a1bda32cb16ba20908748a57c4d36f528a693cd8f4a8ae5"
+ },
+ "sha1_origem": "78b147c5a4ae4b4c8a072b39a94edabd61a7359d",
+ "bytes_origem": 290646,
+ "capturado_em": "2026-11-08T05:29:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Vargem_Grande,_MA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "78b147c5a4ae4b4c8a072b39a94edabd61a7359d"
+ }
+}

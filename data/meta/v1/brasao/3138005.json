@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3138005",
+ "uf": "MG",
+ "municipio": "Laranjal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bras%C3%A3o_de_Laranjal_-_MG.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "JCL",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ce07a45c554b450705d57f9b752a8868f56a2d766fcb4e1edbacec3f305ac3ab",
+ "rendicoes": {
+  "png": {
+   "bytes": 179442,
+   "sha256": "b50064274a8334e01a1173ca234f19596db7b49767257807a0a061354c7c4e4d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48577,
+   "sha256": "88676aa0dc78482043cc0079c317ac4726619422bcd72c7806f27202316507c8",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 120122,
+   "sha256": "ce07a45c554b450705d57f9b752a8868f56a2d766fcb4e1edbacec3f305ac3ab"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3138005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3138005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3138005.jpg"
+ },
+ "sha1_origem": "186abab4d617b2d4d7fcf2d85acb50a35b9ec979",
+ "bytes_origem": 120122,
+ "capturado_em": "2026-11-08T03:41:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Laranjal_-_MG.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:05Z",
+  "estado": "igual",
+  "sha1_commons": "186abab4d617b2d4d7fcf2d85acb50a35b9ec979"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4323770",
+ "uf": "RS",
+ "municipio": "Westfália",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bandeira_de_Westf%C3%A1lia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Geovanischwarz",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8606e1ee0c2d74abc6960b198ce00e01df348e3d67d194fe09f0d0bee6474024",
+ "rendicoes": {
+  "png": {
+   "bytes": 66032,
+   "sha256": "fa81a44ac481a0a23344c4f131dedfb1d970dbc99af96ee8d8804bba2d49223e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25905,
+   "sha256": "9af888e339cf68e2ea7b0e2b1c6db3703787425bbdf9d2ca4424471109826301",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323770.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323770.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323770.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4323770.jpg",
+  "bytes": 340549,
+  "sha256": "8606e1ee0c2d74abc6960b198ce00e01df348e3d67d194fe09f0d0bee6474024"
+ },
+ "sha1_origem": "581c1af68315d4a10f43b9c63808b438c39f97b0",
+ "bytes_origem": 340549,
+ "capturado_em": "2026-11-08T07:12:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Westfália.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "581c1af68315d4a10f43b9c63808b438c39f97b0"
+ }
+}

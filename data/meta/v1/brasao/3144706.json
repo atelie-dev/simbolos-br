@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3144706",
+ "uf": "MG",
+ "municipio": "Nova Era",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Brasaonovaera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nova Era",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c8dbf68916872cef4956fd95526e1c39784fa6306a7993aa74b08d749d70c72f",
+ "rendicoes": {
+  "png": {
+   "bytes": 198971,
+   "sha256": "2396f1c3032ee1cf61bb929f47b091cdcc4bb138db80164e7d39cb045ce9a50a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48393,
+   "sha256": "480f3178b529cf2e00184d6dca1bd236dfa23856c45e72370351a932c784e6f4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3144706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3144706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3144706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3144706.jpg",
+  "bytes": 93628,
+  "sha256": "c8dbf68916872cef4956fd95526e1c39784fa6306a7993aa74b08d749d70c72f"
+ },
+ "sha1_origem": "8e542126cc2aa07708e327eb50311f95731896ef",
+ "bytes_origem": 93628,
+ "capturado_em": "2026-11-08T06:12:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaonovaera.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "8e542126cc2aa07708e327eb50311f95731896ef"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4111407",
+ "uf": "PR",
+ "municipio": "Ivaí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Brasaoivai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ivaí",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8a4cf5641e1a1fd980c3451b58a93e67e4a8d382cd964e4f41c11f1527be6918",
+ "rendicoes": {
+  "png": {
+   "bytes": 19062,
+   "sha256": "8158d39cdc39d01a4ddf1c3f7fee298ad9e0f8139833bb76d3eab8cace4e608d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5164,
+   "sha256": "cc4cc84fc0915bca55e2ee4d61a4f9a7c497d54fd3e8d51f02e0c8d986528625",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4111407.jpg",
+  "bytes": 7137,
+  "sha256": "8a4cf5641e1a1fd980c3451b58a93e67e4a8d382cd964e4f41c11f1527be6918"
+ },
+ "sha1_origem": "dc4519014ba8cda75ed455e4331ce36c0230182b",
+ "bytes_origem": 7137,
+ "capturado_em": "2026-11-08T06:45:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoivai.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "dc4519014ba8cda75ed455e4331ce36c0230182b"
+ }
+}

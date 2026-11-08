@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4311775",
+ "uf": "RS",
+ "municipio": "Maquiné",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bandeira_Maquine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Maquiné.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3fee5d4ae9dc55207f3534f9c51cbb8f1de9b951033eea4ca32fa895ddc95276",
+ "rendicoes": {
+  "png": {
+   "bytes": 11459,
+   "sha256": "538dc6c1414e852e44fd9d439334df9aa19a81d1f9939db457b92ecf1caaeeaf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5356,
+   "sha256": "2530d7dcd8bbdeac8cb23552509aa4a3b0a8290b7f65b289bbe45f2e9c04236c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311775.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311775.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311775.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4311775.jpg",
+  "bytes": 27607,
+  "sha256": "3fee5d4ae9dc55207f3534f9c51cbb8f1de9b951033eea4ca32fa895ddc95276"
+ },
+ "sha1_origem": "5e6b3944d404272fb0bc3dbc3dc17dbfc6d586c4",
+ "bytes_origem": 27607,
+ "capturado_em": "2026-11-08T07:05:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Maquine.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "5e6b3944d404272fb0bc3dbc3dc17dbfc6d586c4"
+ }
+}

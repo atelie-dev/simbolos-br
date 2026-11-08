@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3516002",
+ "uf": "SP",
+ "municipio": "Flórida Paulista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bandeira_Fl%C3%B3rida_Paulista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "No machine-readable author provided. Tarnoschi assumed (based on copyright claims).",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dc97451a9bce10ccf70acaa27e14fa59e251a9a9d0614dde02b513c91597a1b5",
+ "rendicoes": {
+  "png": {
+   "bytes": 122300,
+   "sha256": "e38e27fc841f1e9d8de2ef8752edfd529604d285bd1fde2a2b10c86febdcd49b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22743,
+   "sha256": "1bfd50d6d6b487d05659b1e963f1e1d21f2578ab5c4be50b5832189e0f0520af",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3516002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3516002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3516002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3516002.jpg",
+  "bytes": 23512,
+  "sha256": "dc97451a9bce10ccf70acaa27e14fa59e251a9a9d0614dde02b513c91597a1b5"
+ },
+ "sha1_origem": "8c3c26b0003290f642645b6177d32f114e23de7a",
+ "bytes_origem": 23512,
+ "capturado_em": "2026-11-08T06:27:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Flórida_Paulista.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "8c3c26b0003290f642645b6177d32f114e23de7a"
+ }
+}

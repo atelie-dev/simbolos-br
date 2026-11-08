@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3102001",
+ "uf": "MG",
+ "municipio": "Alterosa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bandeira_de_Alterosa%2C_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Alterosa",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7e5a42bdf45feca193eae2c598d75fae194e4a2508b5dbe9d7fc59e28c4a28ff",
+ "rendicoes": {
+  "png": {
+   "bytes": 32704,
+   "sha256": "cdb9b80fd627cda0ba393696f50e4ea8e5cf208ba4c04a0e00bdbe87a3ab7756",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20284,
+   "sha256": "a16dc4c5dc4c1b708a412eb21cf51f9190a17923b790850b76da282fb12b7d14",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3102001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3102001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3102001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3102001.png",
+  "bytes": 11652,
+  "sha256": "7e5a42bdf45feca193eae2c598d75fae194e4a2508b5dbe9d7fc59e28c4a28ff"
+ },
+ "sha1_origem": "d533ef95a96a16d6e73f45542a8f43e6362e23b2",
+ "bytes_origem": 11652,
+ "capturado_em": "2026-11-08T05:58:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Alterosa,_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "d533ef95a96a16d6e73f45542a8f43e6362e23b2"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2408201",
+ "uf": "RN",
+ "municipio": "Nísia Floresta",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bandeira_de_N%C3%ADsia_Floresta_%28RN%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "MOC",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cf09d695ed1465ca21fc65986345bd230d9be7da8f136d09553e887d4959e93a",
+ "rendicoes": {
+  "png": {
+   "bytes": 36184,
+   "sha256": "f6eb6810c84be85083d64006121240cbc37557ce9998914761ca7cd05cea7653",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18354,
+   "sha256": "eb48555162e99d4ab1564d62b9bec09b06165c9d48eebfc8b84b58c1f6a9fe9e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2408201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2408201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2408201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2408201.png",
+  "bytes": 250068,
+  "sha256": "cf09d695ed1465ca21fc65986345bd230d9be7da8f136d09553e887d4959e93a"
+ },
+ "sha1_origem": "f6c5410bfa62813db9623fbc240f15a1c2101aa2",
+ "bytes_origem": 250068,
+ "capturado_em": "2026-11-08T05:37:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nísia_Floresta_(RN).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "f6c5410bfa62813db9623fbc240f15a1c2101aa2"
+ }
+}

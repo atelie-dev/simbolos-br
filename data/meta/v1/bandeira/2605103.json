@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2605103",
+ "uf": "PE",
+ "municipio": "Custódia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Bandeira_de_Cust%C3%B3dia%2C_PE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Jorge Remigio e Adelma Arruda (Comissioned by Custódia Municipality)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a772cfc8c2adc033bc3236ffb1c7bf323d59ac45e5acd997351fac8647f059dc",
+ "rendicoes": {
+  "png": {
+   "bytes": 182869,
+   "sha256": "560a584066feaa22b490ed0648840292168ee9448c006ca41cf682e32e4159b2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25291,
+   "sha256": "2728eb7e76973d7c0fd388b0840e413976cbe53d5a1afdd3738727b752cf30ce",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2605103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2605103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2605103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2605103.jpg",
+  "bytes": 68852,
+  "sha256": "a772cfc8c2adc033bc3236ffb1c7bf323d59ac45e5acd997351fac8647f059dc"
+ },
+ "sha1_origem": "a46f8a20c93f3f707286cee93010cfc811ef47cf",
+ "bytes_origem": 68852,
+ "capturado_em": "2026-11-08T05:45:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Custódia,_PE.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "a46f8a20c93f3f707286cee93010cfc811ef47cf"
+ }
+}

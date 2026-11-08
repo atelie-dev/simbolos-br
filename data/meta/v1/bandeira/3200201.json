@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3200201",
+ "uf": "ES",
+ "municipio": "Alegre",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bandeira_de_Alegre_%28Esp%C3%ADrito_Santo%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Alegre",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "230652396d77f89e243065054b0d072537915bf3007fb59ab2a602fddab2ecc7",
+ "rendicoes": {
+  "png": {
+   "bytes": 209349,
+   "sha256": "75a787c37e0e542fc594c2cdf6261cbc8b6e0bd51d955851efebba2036a293a1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23855,
+   "sha256": "bf541d25279f44d245694a5d764603c14f915f6c7bde93a27336bb266ef716c6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3200201.png",
+  "bytes": 226029,
+  "sha256": "230652396d77f89e243065054b0d072537915bf3007fb59ab2a602fddab2ecc7"
+ },
+ "sha1_origem": "138817ccb0fc0c0ef6824d04ff5261c9860e1408",
+ "bytes_origem": 226029,
+ "capturado_em": "2026-11-08T06:18:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Alegre_(Espírito_Santo).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "138817ccb0fc0c0ef6824d04ff5261c9860e1408"
+ }
+}

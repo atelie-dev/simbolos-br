@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3522158",
+ "uf": "SP",
+ "municipio": "Itaoca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bandeira_Itaoca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8f88045301b46eb9ea2e3fed65e2d4aefa5b881bb54d4ecc00e99394dae20d75",
+ "rendicoes": {
+  "png": {
+   "bytes": 27727,
+   "sha256": "b090b56ca9f5e39df4850fab239448baf415aa55977ea3f5fdd040582b73b12a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10180,
+   "sha256": "5f2593b776f27ceff0a2cff8e632efaa8ad9bd80203b884ca65b3dd28496af64",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522158.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522158.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522158.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3522158.jpg",
+  "bytes": 12119,
+  "sha256": "8f88045301b46eb9ea2e3fed65e2d4aefa5b881bb54d4ecc00e99394dae20d75"
+ },
+ "sha1_origem": "bf570ce0a41892b9659752fc168d1189998d04b8",
+ "bytes_origem": 12119,
+ "capturado_em": "2026-11-08T06:29:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itaoca.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "bf570ce0a41892b9659752fc168d1189998d04b8"
+ }
+}

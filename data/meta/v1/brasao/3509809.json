@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3509809",
+ "uf": "SP",
+ "municipio": "Campos Novos Paulista",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Campos_Novos_Paulista.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4fabfe2b4b81abdaef6f80d0afec85689c015384070c14e15c5b209e0624d8b2",
+ "rendicoes": {
+  "png": {
+   "bytes": 318260,
+   "sha256": "404d56ae1d2157bf4b0b9ea9ee8b9d204bd3dfbf5ff0f3aca67cfa4dd7c2a9dc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61656,
+   "sha256": "173cfd82762ec768fefc13825faca3fd6ef3e2529690045759f53ae91271b7e9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3509809.png",
+  "bytes": 297128,
+  "sha256": "4fabfe2b4b81abdaef6f80d0afec85689c015384070c14e15c5b209e0624d8b2"
+ },
+ "sha1_origem": "1157431734a86f78918979034c6944d775f2609b",
+ "bytes_origem": 297128,
+ "capturado_em": "2026-11-08T06:25:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Campos_Novos_Paulista.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "1157431734a86f78918979034c6944d775f2609b"
+ }
+}

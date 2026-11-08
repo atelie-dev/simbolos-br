@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3127701",
+ "uf": "MG",
+ "municipio": "Governador Valadares",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bandeira_de_Governador_Valadares.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Srfortes",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "81eb134719170b15176d1d603091b7055d55befdee596d4b24f926986fef7635",
+ "rendicoes": {
+  "png": {
+   "bytes": 70232,
+   "sha256": "0b5f991b6d67f6c322afa48a05c70e982a21c029503fad1a4d7e385a4327530b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34821,
+   "sha256": "34ca81144b71d4eb48096aeb2c20eab9b2541346bb93b5a61f4cae4aa4ed5fc1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 64497,
+   "sha256": "81eb134719170b15176d1d603091b7055d55befdee596d4b24f926986fef7635"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127701.jpg"
+ },
+ "sha1_origem": "9ba212280f0edbe9407926a88fd4a96413ec734d",
+ "bytes_origem": 64497,
+ "capturado_em": "2026-11-08T03:37:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Governador_Valadares.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "9ba212280f0edbe9407926a88fd4a96413ec734d"
+ }
+}

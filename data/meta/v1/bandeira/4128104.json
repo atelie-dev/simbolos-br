@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4128104",
+ "uf": "PR",
+ "municipio": "Umuarama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bandeira_de_Umuarama_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "6888cb52725860f1e8fa7e2f57de7dc7fd34909c7e729efcea018fc1c2c407eb",
+ "rendicoes": {
+  "png": {
+   "bytes": 33808,
+   "sha256": "692e188ce254298d698614e3a8769148cfdf28671886f5bfce6d242885d2b1db",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17681,
+   "sha256": "97147109c68bd54a9763976d8148e9e4aa16df9f71447a7b191cb5de9c3ba7be",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 474947,
+   "sha256": "6888cb52725860f1e8fa7e2f57de7dc7fd34909c7e729efcea018fc1c2c407eb"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4128104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4128104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4128104.jpg"
+ },
+ "sha1_origem": "4c61959d01d24f1612d7bc89d23f73e1347fe1ae",
+ "bytes_origem": 474947,
+ "capturado_em": "2026-11-08T04:34:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Umuarama_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "4c61959d01d24f1612d7bc89d23f73e1347fe1ae"
+ }
+}

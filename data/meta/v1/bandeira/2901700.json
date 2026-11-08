@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2901700",
+ "uf": "BA",
+ "municipio": "Antônio Cardoso",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bandeira_Ant_Cardoso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Marcos Mendes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3e7fe527aae752239e0ad1604b0cb8e2cb93511f06f32f9911ad063d6f64a060",
+ "rendicoes": {
+  "png": {
+   "bytes": 300862,
+   "sha256": "25b9dc38ac111a42bef07b13e370d5327d407c73dd3e71dbb6152f26a2c9f33a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31094,
+   "sha256": "54a0217e359f16a5b71b0e1951afe8055d7702aba69664e6827a7d0bd8d21ef8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2901700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2901700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2901700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2901700.jpg",
+  "bytes": 253017,
+  "sha256": "3e7fe527aae752239e0ad1604b0cb8e2cb93511f06f32f9911ad063d6f64a060"
+ },
+ "sha1_origem": "b349df943408c758cff9cc476dfb59cf298e4e21",
+ "bytes_origem": 253017,
+ "capturado_em": "2026-11-08T05:50:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Ant_Cardoso.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "b349df943408c758cff9cc476dfb59cf298e4e21"
+ }
+}

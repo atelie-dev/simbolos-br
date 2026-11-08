@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5218052",
+ "uf": "GO",
+ "municipio": "Porteirão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/PorteiraoBrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Virgilho Henrique",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e99f15d99706c7f756c7230761b7c33ef6b2f96646aa2da3b16548bc659fbb86",
+ "rendicoes": {
+  "png": {
+   "bytes": 223246,
+   "sha256": "6344823e41c59553b49f9ee4b6fa717580ae68a72b9dad065c07bafa6346973b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60515,
+   "sha256": "1a3c6e1aed42217dd2a33308dd346110cadab46e89ad68a7151f5fcbfb62f4be",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5218052.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5218052.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5218052.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5218052.jpg",
+  "bytes": 758328,
+  "sha256": "e99f15d99706c7f756c7230761b7c33ef6b2f96646aa2da3b16548bc659fbb86"
+ },
+ "sha1_origem": "c118989e94c09fb7d9e254349d75a2b9014ab387",
+ "bytes_origem": 758328,
+ "capturado_em": "2026-11-08T07:20:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:PorteiraoBrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "c118989e94c09fb7d9e254349d75a2b9014ab387"
+ }
+}

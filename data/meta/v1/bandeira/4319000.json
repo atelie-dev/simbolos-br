@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4319000",
+ "uf": "RS",
+ "municipio": "São Marcos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/S%C3%A3o_Marcosrs_bandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de São Marcos",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "305d0dce1468758279a061137586e8fe6463dd0efd535acc77468e0ab24f7ac8",
+ "rendicoes": {
+  "png": {
+   "bytes": 27504,
+   "sha256": "ac8f6b4d517716814e7999290eef8fde2267d3ccca8c291a4d66d364bf440cbb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12654,
+   "sha256": "412bd7df270c43ef6ea544192a9303e4f3b3ca374d97637472e7723cf8e34f4a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4319000.png",
+  "bytes": 8865,
+  "sha256": "305d0dce1468758279a061137586e8fe6463dd0efd535acc77468e0ab24f7ac8"
+ },
+ "sha1_origem": "6c7e68a1914b9736526121fb0f3b6608ae9202f1",
+ "bytes_origem": 8865,
+ "capturado_em": "2026-11-08T07:09:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:São_Marcosrs_bandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:37Z",
+  "estado": "igual",
+  "sha1_commons": "6c7e68a1914b9736526121fb0f3b6608ae9202f1"
+ }
+}

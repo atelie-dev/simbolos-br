@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4126504",
+ "uf": "PR",
+ "municipio": "Sertanópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bandeira_de_Sertan%C3%B3polis%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://www.camarasertanopolis.pr.gov.br/_portal/simbolos/ver.asp?id=1",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6650c17a8dd8e45ecad0c2f75994c9117a3fc5deb91ca94e7f899946d1fd6d31",
+ "rendicoes": {
+  "png": {
+   "bytes": 59551,
+   "sha256": "e720749b6e0eb4bd46b2a096404aec2027c9b41d4aaad46322b65baa5f614226",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16586,
+   "sha256": "11668d5a481529969291889e038e06ca2edb44db26b1575d1a063bb3a0bf163f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4126504.jpg",
+  "bytes": 56311,
+  "sha256": "6650c17a8dd8e45ecad0c2f75994c9117a3fc5deb91ca94e7f899946d1fd6d31"
+ },
+ "sha1_origem": "3ebcba34cdde0c28bc69aa5b67581793387c2c9f",
+ "bytes_origem": 56311,
+ "capturado_em": "2026-11-08T06:50:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Sertanópolis,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "3ebcba34cdde0c28bc69aa5b67581793387c2c9f"
+ }
+}

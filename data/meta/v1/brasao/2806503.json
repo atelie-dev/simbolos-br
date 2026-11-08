@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2806503",
+ "uf": "SE",
+ "municipio": "Santa Rosa de Lima",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Brasao_starosalima.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santa Rosa de Lima - SE",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "e9f9176bcad7c2bd33f84621fac930e0a9f85dee1fe78b48cb758b016081dc29",
+ "rendicoes": {
+  "png": {
+   "bytes": 149562,
+   "sha256": "49c902d138405ba6741f0bf7cf9377320ed96dba8e45a16e002f41f715a9899d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55226,
+   "sha256": "f691c454a06eda40845ec1c3cf09ce1f5eafcfd6c0973084f40a61dadf3eefac",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 63769,
+   "sha256": "e9f9176bcad7c2bd33f84621fac930e0a9f85dee1fe78b48cb758b016081dc29"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2806503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2806503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2806503.jpg"
+ },
+ "sha1_origem": "3ffec065abe52d3233fe19f0da5787386efae5c3",
+ "bytes_origem": 63769,
+ "capturado_em": "2026-11-08T03:14:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_starosalima.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "3ffec065abe52d3233fe19f0da5787386efae5c3"
+ }
+}

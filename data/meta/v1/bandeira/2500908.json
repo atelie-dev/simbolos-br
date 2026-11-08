@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2500908",
+ "uf": "PB",
+ "municipio": "Arara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Arara.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Arara",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d34b7f41f3f9c775c28d64aa79349703317614b5f6fb6538618067041e37f4c3",
+ "rendicoes": {
+  "png": {
+   "bytes": 33723,
+   "sha256": "1960cbf750d6042bd1b5d19bdd48019a3c81c0d97f4388e79f07871393164f7a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19219,
+   "sha256": "6d76d3a2c3fe2c9ed0d4711de3374a583fbcdb806541f276d0f34ef003ac6b1a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 8003,
+   "sha256": "d34b7f41f3f9c775c28d64aa79349703317614b5f6fb6538618067041e37f4c3"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500908.jpg"
+ },
+ "sha1_origem": "004421210df81a62cfde5bc789e14cf1bc74ded8",
+ "bytes_origem": 8003,
+ "capturado_em": "2026-11-08T02:55:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Arara.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "004421210df81a62cfde5bc789e14cf1bc74ded8"
+ }
+}

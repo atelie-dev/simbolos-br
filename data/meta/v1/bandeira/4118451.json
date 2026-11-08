@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4118451",
+ "uf": "PR",
+ "municipio": "Pato Bragado",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bandeira_Pato_Bragado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Pato Bragado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f1f686c8ce8e2587ccdcc2e7a7d05eff5a8e4c72622327f88f4f625eb0de08ed",
+ "rendicoes": {
+  "png": {
+   "bytes": 49895,
+   "sha256": "d3d4d940a8b651d2cc340cb9165c9f7efaffe8a57b30b7c5a3df776697186e7b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18928,
+   "sha256": "ab4006eceeb8fc6d7211eecb91df130773b5b7944aeffd4d1c4be62bc69b8e15",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4118451.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4118451.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4118451.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4118451.jpg",
+  "bytes": 189764,
+  "sha256": "f1f686c8ce8e2587ccdcc2e7a7d05eff5a8e4c72622327f88f4f625eb0de08ed"
+ },
+ "sha1_origem": "ec9e0aef8381d986630ea5f3a7d5697bbd57e4ea",
+ "bytes_origem": 189764,
+ "capturado_em": "2026-11-08T06:47:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Pato_Bragado.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "ec9e0aef8381d986630ea5f3a7d5697bbd57e4ea"
+ }
+}

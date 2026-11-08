@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4303558",
+ "uf": "RS",
+ "municipio": "Camargo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bras%C3%A3o_Camargo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Camargo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "248ec100419a97282e3eafec6dc550a524481f91d92ca4a6d5f3cfcb2fc50b66",
+ "rendicoes": {
+  "png": {
+   "bytes": 59412,
+   "sha256": "7ffd3446e424456e67a653f9359793423af43fc2f8ef67c07807a8313dd1de34",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11593,
+   "sha256": "86a7ce320cce5e403a0c837dd6eae163ce05a50d9def7a1464cead9b6c3443bd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4303558.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4303558.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4303558.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4303558.jpg",
+  "bytes": 15621,
+  "sha256": "248ec100419a97282e3eafec6dc550a524481f91d92ca4a6d5f3cfcb2fc50b66"
+ },
+ "sha1_origem": "2eea8974457f0075a3c4521d9706e5d4102a9dd4",
+ "bytes_origem": 15621,
+ "capturado_em": "2026-11-08T07:00:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Camargo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:47Z",
+  "estado": "igual",
+  "sha1_commons": "2eea8974457f0075a3c4521d9706e5d4102a9dd4"
+ }
+}

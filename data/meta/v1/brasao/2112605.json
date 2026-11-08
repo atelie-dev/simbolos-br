@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2112605",
+ "uf": "MA",
+ "municipio": "Urbano Santos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bras%C3%A3o_de_Urbano_Santos_MA.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "No machine-readable author provided. JPX 2000 assumed (based on copyright claims).",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "35a2e5998f512aa891ce004b59248600475c1dc56c89fb186c9eb9aced8ada44",
+ "rendicoes": {
+  "png": {
+   "bytes": 284104,
+   "sha256": "93ce2b94871a76636eb1436df7a62662609d6b5fede563bf5c1e4dfc725ee919",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47793,
+   "sha256": "f5b5757c2dc36f7f226a5382fbc66a610a2bc6c14ab1468172a8dae342c9973b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2112605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2112605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2112605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2112605.jpg",
+  "bytes": 523216,
+  "sha256": "35a2e5998f512aa891ce004b59248600475c1dc56c89fb186c9eb9aced8ada44"
+ },
+ "sha1_origem": "bcc1f3d1218af22ecbc03a19428ea598e2c17a57",
+ "bytes_origem": 523216,
+ "capturado_em": "2026-11-08T05:29:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Urbano_Santos_MA.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "bcc1f3d1218af22ecbc03a19428ea598e2c17a57"
+ }
+}

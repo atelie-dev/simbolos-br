@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3519808",
+ "uf": "SP",
+ "municipio": "Icém",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bras%C3%A3o_de_Ic%C3%A9m%2C_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Icém/SP",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "37c696f86ed2ff359cae4b5a52bf5e277020ad692ddd11de1e8930f1883a61f8",
+ "rendicoes": {
+  "png": {
+   "bytes": 32440,
+   "sha256": "bb4094f65ce506b443cb029894629c0e03dcab4790a8deb7d3c05fe9ff3c727b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8629,
+   "sha256": "91cfb0f81d3131e6a37c3d48d22ac99ab840efd861dcf67af31e2716071c8d75",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3519808.png",
+  "bytes": 32117,
+  "sha256": "37c696f86ed2ff359cae4b5a52bf5e277020ad692ddd11de1e8930f1883a61f8"
+ },
+ "sha1_origem": "3fb0cc0c3cbcc232a8709e334a3eeb128761ad15",
+ "bytes_origem": 32117,
+ "capturado_em": "2026-11-08T06:29:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Icém,_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "3fb0cc0c3cbcc232a8709e334a3eeb128761ad15"
+ }
+}

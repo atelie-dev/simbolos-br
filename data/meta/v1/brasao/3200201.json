@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3200201",
+ "uf": "ES",
+ "municipio": "Alegre",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Alegre.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Domaleixo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e784268a164efda6b127d4cfc738a9e463f62aba2001c4cc702785f546a401f0",
+ "rendicoes": {
+  "png": {
+   "bytes": 133500,
+   "sha256": "c54296fe18b8a2df7e4e8b5cabe074849dc1266e9506a0d235c76a821c608f31",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45604,
+   "sha256": "03a28c6e2ed20d6d7174fe03b9fc5226cb1845dad47a4fcc4e268b16799c55d7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3200201.png",
+  "bytes": 166281,
+  "sha256": "e784268a164efda6b127d4cfc738a9e463f62aba2001c4cc702785f546a401f0"
+ },
+ "sha1_origem": "c91e519c4f219fbcc53c7bebc7939cc4141922b7",
+ "bytes_origem": 166281,
+ "capturado_em": "2026-11-08T06:18:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Alegre.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "c91e519c4f219fbcc53c7bebc7939cc4141922b7"
+ }
+}

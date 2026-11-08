@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4125506",
+ "uf": "PR",
+ "municipio": "São José dos Pinhais",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Br-pr-sj.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "357e1d89f4ac88924211c7b86b2bbafb96c9c444a3af91dc72ee9dc627233c07",
+ "rendicoes": {
+  "png": {
+   "bytes": 16171,
+   "sha256": "6a5bdc44c12a4c2dcb7cd2544d1d8d4f8dc37b49604e933f28676810a5605bbd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19659,
+   "sha256": "267d6587fa9f5b7c47a690c4344e1a5c132ac000fa73ae6b8a5dbdcb7223d961",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4125506.png",
+  "bytes": 10904,
+  "sha256": "357e1d89f4ac88924211c7b86b2bbafb96c9c444a3af91dc72ee9dc627233c07"
+ },
+ "sha1_origem": "b55340c9b68b897a28ef22f45637b84e330cf501",
+ "bytes_origem": 10904,
+ "capturado_em": "2026-11-08T06:50:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Br-pr-sj.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:27Z",
+  "estado": "igual",
+  "sha1_commons": "b55340c9b68b897a28ef22f45637b84e330cf501"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2502904",
+ "uf": "PB",
+ "municipio": "Brejo dos Santos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bras%C3%A3o_Brejo_dos_Santos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ramon",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f9873eb619c635d2a85326db1bbc80101859b542f874ee38f248ef4531cbffb6",
+ "rendicoes": {
+  "png": {
+   "bytes": 209408,
+   "sha256": "dbb24083551c7d2a4c25c7ce032dbaf8e628dc090e2660085743d7527ff28a9e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41897,
+   "sha256": "22e3bcf8fa67745dfde9f42fdf67e255e4182d781bb4925c45139d608f2041f3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2502904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2502904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2502904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2502904.jpg",
+  "bytes": 63376,
+  "sha256": "f9873eb619c635d2a85326db1bbc80101859b542f874ee38f248ef4531cbffb6"
+ },
+ "sha1_origem": "829cbd19785f5ef3ef6ecfff37c221f69d329e09",
+ "bytes_origem": 63376,
+ "capturado_em": "2026-11-08T05:40:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Brejo_dos_Santos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "829cbd19785f5ef3ef6ecfff37c221f69d329e09"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3507704",
+ "uf": "SP",
+ "municipio": "Braúna",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bras%C3%A3o_bra%C3%BAna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "No machine-readable author provided. Domaleixo assumed (based on copyright claims).",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8280992577bc9f74c24f0fdeb8a9272c67fba38e1da19de99a1dd9211ed7ae27",
+ "rendicoes": {
+  "png": {
+   "bytes": 116878,
+   "sha256": "a69ca3606158dc3a5ce96ee9fee3509e7695c0c4920b38d2f3ce433c326c6506",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25674,
+   "sha256": "b47f42af3961b89f0713b4fe4c985e75b63d5502acb0dbffd55dca443996ff63",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3507704.jpg",
+  "bytes": 27646,
+  "sha256": "8280992577bc9f74c24f0fdeb8a9272c67fba38e1da19de99a1dd9211ed7ae27"
+ },
+ "sha1_origem": "bab6a58224742f48bdd089c34eff30f98ef8cc3e",
+ "bytes_origem": 27646,
+ "capturado_em": "2026-11-08T06:25:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_braúna.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "bab6a58224742f48bdd089c34eff30f98ef8cc3e"
+ }
+}

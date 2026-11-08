@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314134",
+ "uf": "RS",
+ "municipio": "Paulo Bento",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Paulo_Bentorsbras%C3%B5es.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Paulo Bento",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a82c8d5d6371833b791c606aa33aa7e13f013e2a5d3553a56f95fd61f3b82ff7",
+ "rendicoes": {
+  "png": {
+   "bytes": 70388,
+   "sha256": "c3a4241a983efe9526dd1fd10862492f5c976b2044d16e916413d8fe11b5663f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16318,
+   "sha256": "b6252a28a7413289a19ff1043fc0703a47f593c9a62539c64974b281d719bdb8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314134.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314134.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314134.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4314134.jpg",
+  "bytes": 19018,
+  "sha256": "a82c8d5d6371833b791c606aa33aa7e13f013e2a5d3553a56f95fd61f3b82ff7"
+ },
+ "sha1_origem": "415e4e4e1f9cc95ebb789d07543565ecf8b96c91",
+ "bytes_origem": 19018,
+ "capturado_em": "2026-11-08T07:06:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Paulo_Bentorsbrasões.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "415e4e4e1f9cc95ebb789d07543565ecf8b96c91"
+ }
+}

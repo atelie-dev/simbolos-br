@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3546900",
+ "uf": "SP",
+ "municipio": "Santa Lúcia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Bandeira_de_Santa_L%C3%BAcia%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santa Lúcia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5ab83f40eaa54f0e44729b0deff6ff5e6529a89a5754b3bba0aaed8621593307",
+ "rendicoes": {
+  "png": {
+   "bytes": 133063,
+   "sha256": "b919ad1e2e3797652d338f13adf80345548eeb3f8577c7f75a7723191ff7fdd9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30004,
+   "sha256": "2119dcbe82d48d5aeb095fb970886d353744075ed79c55f19c92dae41bbdd08f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3546900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3546900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3546900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3546900.jpg",
+  "bytes": 153660,
+  "sha256": "5ab83f40eaa54f0e44729b0deff6ff5e6529a89a5754b3bba0aaed8621593307"
+ },
+ "sha1_origem": "6aeb029f79861cf3a78b9792c04bb633b84e25f4",
+ "bytes_origem": 153660,
+ "capturado_em": "2026-11-08T06:37:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santa_Lúcia,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "6aeb029f79861cf3a78b9792c04bb633b84e25f4"
+ }
+}

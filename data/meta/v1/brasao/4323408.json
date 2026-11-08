@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4323408",
+ "uf": "RS",
+ "municipio": "Vila Maria",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Vila_Mariarsbrasoes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Vila Maria",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8bf4bcff32bd7a22e4536fb58c43f240ab5aa46016f69fa9f31c8a71a11fc473",
+ "rendicoes": {
+  "png": {
+   "bytes": 70369,
+   "sha256": "128922d20c66f8b83a381f9869f1050f4c3f157c0e0e08ed8bcfa11f5fe66bd1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18838,
+   "sha256": "4afab02f20bcb21dce50142824892497e288d4824a76def84fe49b2ce364ae80",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4323408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4323408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4323408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4323408.jpg",
+  "bytes": 14541,
+  "sha256": "8bf4bcff32bd7a22e4536fb58c43f240ab5aa46016f69fa9f31c8a71a11fc473"
+ },
+ "sha1_origem": "1256bd64baadff81e47bd4c4bd30e955d41c3d39",
+ "bytes_origem": 14541,
+ "capturado_em": "2026-11-08T07:12:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Vila_Mariarsbrasoes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "1256bd64baadff81e47bd4c4bd30e955d41c3d39"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3535002",
+ "uf": "SP",
+ "municipio": "Palestina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bras%C3%A3o_de_Palestina-SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Palestina",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "df028b419de3e69ebfef89ebef367433d84721e9eca024bd6990eccaaf66711a",
+ "rendicoes": {
+  "png": {
+   "bytes": 216940,
+   "sha256": "c2ea0b7384d8b1a60049524e6bfe0c4bfaf5c5142bd17921685025cab096c68b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62005,
+   "sha256": "8689e11cc5e6c190a7c4d9aa1581f5c18814f05b85ede2fd33d1c30a9074fadd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3535002.jpg",
+  "bytes": 860354,
+  "sha256": "df028b419de3e69ebfef89ebef367433d84721e9eca024bd6990eccaaf66711a"
+ },
+ "sha1_origem": "e79a6922f4db1c54c92cda8b6ddbab575af1b78c",
+ "bytes_origem": 860354,
+ "capturado_em": "2026-11-08T06:33:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Palestina-SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "e79a6922f4db1c54c92cda8b6ddbab575af1b78c"
+ }
+}

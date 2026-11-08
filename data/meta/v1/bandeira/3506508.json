@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3506508",
+ "uf": "SP",
+ "municipio": "Birigui",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bandeira_de_Birig%C3%BCi.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Birigüi",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ad29ec1542ddcffc6fc3774eb756261ba63e17fbcc0e58528d147cbf2b9f0429",
+ "rendicoes": {
+  "png": {
+   "bytes": 49722,
+   "sha256": "e19143c2e7cd2fac79f0d983d1c525a756750c0b4a80e04c83efb600e4332c10",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22704,
+   "sha256": "1f59af2bd1feac945cb36f71ab658ff62bc76c038368e808899ec48a12af2108",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 425987,
+   "sha256": "ad29ec1542ddcffc6fc3774eb756261ba63e17fbcc0e58528d147cbf2b9f0429"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506508.jpg"
+ },
+ "sha1_origem": "6037739cf98dab1722d39df097290a58b985fb41",
+ "bytes_origem": 425987,
+ "capturado_em": "2026-11-08T03:59:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Birigüi.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "6037739cf98dab1722d39df097290a58b985fb41"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3553203",
+ "uf": "SP",
+ "municipio": "Taiúva",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bandeira_Taiuva.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8d23f3df22d3b14a74774ba5cf52ef6ddbeb5ead010bb410b89fdd5fd050d28b",
+ "rendicoes": {
+  "png": {
+   "bytes": 42155,
+   "sha256": "9956ea067f307d6ce1ff68ebeb8d70bdc87930e4a290d18e3c722a031bd8d265",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13895,
+   "sha256": "77b5ba1e572effe09c265bc7f0224ae30cc8a3d130e9c0607733987964e9a67e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3553203.png",
+  "bytes": 41527,
+  "sha256": "8d23f3df22d3b14a74774ba5cf52ef6ddbeb5ead010bb410b89fdd5fd050d28b"
+ },
+ "sha1_origem": "364952be4a9a8377a8ecdb6609bbd15ca5951943",
+ "bytes_origem": 41527,
+ "capturado_em": "2026-11-08T06:39:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Taiuva.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "364952be4a9a8377a8ecdb6609bbd15ca5951943"
+ }
+}

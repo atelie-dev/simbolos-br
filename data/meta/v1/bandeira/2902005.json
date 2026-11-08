@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2902005",
+ "uf": "BA",
+ "municipio": "Aracatu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bandeira_Aracatu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "PCosta04",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a1f8ccd832addcb7d9fbec5feaff934b42c769c45f9337f6386b0b81ade5b859",
+ "rendicoes": {
+  "png": {
+   "bytes": 48767,
+   "sha256": "25c3ca601c90b1ba4e7e805877ad647afeeef7d0845d713e34058b18fa05d165",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13927,
+   "sha256": "6c7c1dfcf71d659801fd2d3b380becaba6d0899107f337033e8bfffc77d3a1df",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2902005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2902005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2902005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2902005.jpg",
+  "bytes": 17926,
+  "sha256": "a1f8ccd832addcb7d9fbec5feaff934b42c769c45f9337f6386b0b81ade5b859"
+ },
+ "sha1_origem": "f376764f4e8967b61355c89223f2d1fccabe71cf",
+ "bytes_origem": 17926,
+ "capturado_em": "2026-11-08T05:50:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Aracatu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "f376764f4e8967b61355c89223f2d1fccabe71cf"
+ }
+}

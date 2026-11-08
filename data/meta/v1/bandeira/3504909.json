@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3504909",
+ "uf": "SP",
+ "municipio": "Bananal",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bananal_bandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0dfe2f1ed5a4e67f184015d125d7441912f66c49de388ab8e8c2caef804d4747",
+ "rendicoes": {
+  "png": {
+   "bytes": 11168,
+   "sha256": "6b11e553febd0151a5408856ecd84bcc5cb998757fef07e0a8c6f34f9199ae3f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8167,
+   "sha256": "5e421e557f0ad7382069cef063af3f92072921aa54457bae4767286b733d4386",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3504909.png",
+  "bytes": 5022,
+  "sha256": "0dfe2f1ed5a4e67f184015d125d7441912f66c49de388ab8e8c2caef804d4747"
+ },
+ "sha1_origem": "631e2a5d3a8bfe38e5abedbb587e52656d096dc6",
+ "bytes_origem": 5022,
+ "capturado_em": "2026-11-08T06:24:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bananal_bandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "631e2a5d3a8bfe38e5abedbb587e52656d096dc6"
+ }
+}

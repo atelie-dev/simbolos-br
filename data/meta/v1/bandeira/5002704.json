@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5002704",
+ "uf": "MS",
+ "municipio": "Campo Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bandeira_de_Campo_Grande.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a63f41826ef644c3513d0213b34190335394ba209e85866bd4f17182b1411725",
+ "rendicoes": {
+  "png": {
+   "bytes": 67931,
+   "sha256": "362b3dc26fcba3f879ec56386420b736f5602195617806c6d3a2b36cac18942f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39352,
+   "sha256": "24f89252b4160a2abf6035e62913d6ff76eeddf8d78edb159c353aa6da5df961",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 135846,
+   "sha256": "a63f41826ef644c3513d0213b34190335394ba209e85866bd4f17182b1411725"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5002704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5002704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5002704.jpg"
+ },
+ "sha1_origem": "1344a1ff1d7f8b6c5970a59b6ee6fa731b170f7c",
+ "bytes_origem": 135846,
+ "capturado_em": "2026-11-08T05:03:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Campo_Grande.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "1344a1ff1d7f8b6c5970a59b6ee6fa731b170f7c"
+ }
+}

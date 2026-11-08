@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5201306",
+ "uf": "GO",
+ "municipio": "Anicuns",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bandeira_de_Anicuns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Anicuns",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dc4ec54f31f0e96e9f418cf11a88b53b82f1843e298f4f7b7e2b47189a1ab73c",
+ "rendicoes": {
+  "png": {
+   "bytes": 13524,
+   "sha256": "d932d7a12f9e549a750f28da849fd84f8e87ba98eaaf8900ce4a53d3b701b819",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7112,
+   "sha256": "869850174e691cb009e81dc3550ef27a9a0775e886e1cf7adaa5c948bf2695f4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5201306.jpg",
+  "bytes": 7409,
+  "sha256": "dc4ec54f31f0e96e9f418cf11a88b53b82f1843e298f4f7b7e2b47189a1ab73c"
+ },
+ "sha1_origem": "362a5bf3832adae870ee3dae189261a2a026906c",
+ "bytes_origem": 7409,
+ "capturado_em": "2026-11-08T07:16:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Anicuns.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "362a5bf3832adae870ee3dae189261a2a026906c"
+ }
+}

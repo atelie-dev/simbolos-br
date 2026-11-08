@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3169901",
+ "uf": "MG",
+ "municipio": "Ubá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Brasao_Uba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ubá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8ab37011ad7111680e0ec30adaeddec9f92154516eb0aebf8ac5dc9199288309",
+ "rendicoes": {
+  "png": {
+   "bytes": 212354,
+   "sha256": "09b3c4bbd10559469fa61e69bacff727523e035ac6a5c497ba468589e30e795b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53857,
+   "sha256": "e334258f7811cc579da7ce5ccd3bed799a640337543ac120f69f083d98311e05",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3169901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3169901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3169901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3169901.jpg",
+  "bytes": 147683,
+  "sha256": "8ab37011ad7111680e0ec30adaeddec9f92154516eb0aebf8ac5dc9199288309"
+ },
+ "sha1_origem": "7a963d4864251ec4a21962c8ab386152e63a983f",
+ "bytes_origem": 147683,
+ "capturado_em": "2026-11-08T06:18:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Uba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "7a963d4864251ec4a21962c8ab386152e63a983f"
+ }
+}

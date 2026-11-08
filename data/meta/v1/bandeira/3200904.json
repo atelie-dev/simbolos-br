@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3200904",
+ "uf": "ES",
+ "municipio": "Barra de São Francisco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Bandeira_de_Barra_de_S%C3%A3o_Francisco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "CleberSC",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "db7962b7a44e928341b056eb2151e04b8e37c97aa69db78833619c29a161bd3e",
+ "rendicoes": {
+  "png": {
+   "bytes": 47582,
+   "sha256": "c6e01a67f0c45da3743756de31852f0cfa16ce661e8504e11afe615fd0399cbe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16425,
+   "sha256": "cb4a44ebd166b0f446589ec9f930512cdeecb6dfa3b085ba631459ab0ac82acc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3200904.jpg",
+  "bytes": 52878,
+  "sha256": "db7962b7a44e928341b056eb2151e04b8e37c97aa69db78833619c29a161bd3e"
+ },
+ "sha1_origem": "2361ef8274ab72309150acce98cb159e665a28fc",
+ "bytes_origem": 52878,
+ "capturado_em": "2026-11-08T06:18:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Barra_de_São_Francisco.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "2361ef8274ab72309150acce98cb159e665a28fc"
+ }
+}

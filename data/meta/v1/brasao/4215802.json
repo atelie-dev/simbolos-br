@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4215802",
+ "uf": "SC",
+ "municipio": "São Bento do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Brasao_SaoBentodoSul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e0076779e80d10b4d5b20d11cd546da0a7e5fba47971087c7aec20a090189cc4",
+ "rendicoes": {
+  "png": {
+   "bytes": 232525,
+   "sha256": "d5da2555acba81f2a79d0ad17dc53102c9ed3325d0e0efc3113a470800f985e3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48909,
+   "sha256": "2defd27ed141c1dc2cfa3cef52355508bbc7c08d879ee80733addf68bfc1f360",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4215802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4215802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4215802.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4215802.jpg",
+  "bytes": 54339,
+  "sha256": "e0076779e80d10b4d5b20d11cd546da0a7e5fba47971087c7aec20a090189cc4"
+ },
+ "sha1_origem": "128938edb7c77397ebb44c63b911079104f9a5d6",
+ "bytes_origem": 54339,
+ "capturado_em": "2026-11-08T06:56:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_SaoBentodoSul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "128938edb7c77397ebb44c63b911079104f9a5d6"
+ }
+}

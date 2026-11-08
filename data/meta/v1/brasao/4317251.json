@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4317251",
+ "uf": "RS",
+ "municipio": "Santa Tereza",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bras%C3%A3o_de_Santa_Tereza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santa Tereza",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "76f2ee2be35456900ec5fc3195e3fd6a4b24ec61cf5f44b690d8226cf16d027a",
+ "rendicoes": {
+  "png": {
+   "bytes": 225825,
+   "sha256": "f1c00eb7fab96d18c1b3ad98a41fc6792a14ae7a0607f8ddd913e1623302eb34",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43977,
+   "sha256": "c2e7cb26ccf36f8f46a9ecc4711c906ee43e5c12c83e34c56425d182e4141ad1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4317251.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4317251.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4317251.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4317251.jpg",
+  "bytes": 41647,
+  "sha256": "76f2ee2be35456900ec5fc3195e3fd6a4b24ec61cf5f44b690d8226cf16d027a"
+ },
+ "sha1_origem": "bf08c6dc88d8182209c795f5728d048796797204",
+ "bytes_origem": 41647,
+ "capturado_em": "2026-11-08T07:08:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Santa_Tereza.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "bf08c6dc88d8182209c795f5728d048796797204"
+ }
+}

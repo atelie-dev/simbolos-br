@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2504355",
+ "uf": "PB",
+ "municipio": "Caturité",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bandeira_de_Caturit%C3%A9-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c6f5a33311cf01310fc806f9f209dc912e011e8eab410fbbf9009827079f2ad8",
+ "rendicoes": {
+  "png": {
+   "bytes": 65984,
+   "sha256": "76588e3cb054a15e75fd07b67ea517bbcbb211e6d46210f54296e40e523dc015",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29008,
+   "sha256": "fd2e9b1f25fd9add3502ec95afd6aa5172b8ad1eaa228198864f3f341e70d813",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 22010,
+   "sha256": "c6f5a33311cf01310fc806f9f209dc912e011e8eab410fbbf9009827079f2ad8"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2504355.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2504355.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2504355.jpg"
+ },
+ "sha1_origem": "e93f362276d6da5aca81a277ff4738c41d3af8d3",
+ "bytes_origem": 22010,
+ "capturado_em": "2026-11-08T02:57:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Caturité-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "e93f362276d6da5aca81a277ff4738c41d3af8d3"
+ }
+}

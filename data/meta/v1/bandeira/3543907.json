@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3543907",
+ "uf": "SP",
+ "municipio": "Rio Claro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bandeira_Rio_Claro_%28S%C3%A3o_Paulo%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "GumSL",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "48ed433b5941810ec02817edd335cdcf61ea656cfdb6918f577d70ce7f042237",
+ "rendicoes": {
+  "png": {
+   "bytes": 78831,
+   "sha256": "52aef3d5e35c1053411034f4a38c8e96504f830243a3d211a9c90c3d707838dd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27238,
+   "sha256": "a9b060f5b0460b92096365eae38a89df0cf2808bc5ee2e8814e2f67d8617b42f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 665290,
+   "sha256": "48ed433b5941810ec02817edd335cdcf61ea656cfdb6918f577d70ce7f042237"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543907.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543907.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543907.jpg"
+ },
+ "sha1_origem": "f234531cf8a06222489cea9d90292d37b0a4ab5c",
+ "bytes_origem": 665290,
+ "capturado_em": "2026-11-08T04:14:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Rio_Claro_(São_Paulo).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "f234531cf8a06222489cea9d90292d37b0a4ab5c"
+ }
+}

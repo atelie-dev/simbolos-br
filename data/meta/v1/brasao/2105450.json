@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2105450",
+ "uf": "MA",
+ "municipio": "Jatobá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bras%C3%A3o_de_Jatob%C3%A1_MA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Jatobá",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1876854d52b4d0ccaaaa07998951f2267dbdb0413cccb6b91c0bc236138a1de3",
+ "rendicoes": {
+  "png": {
+   "bytes": 98341,
+   "sha256": "a59607b8dfad8556f03587a30c4424e3b1632baabce86529047ab4d52a5eaf18",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17603,
+   "sha256": "bccef0780cf8c0a5f7ced78f6a865bed1651c9d93903b21487002825b4f5c09e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2105450.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2105450.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2105450.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2105450.png",
+  "bytes": 114810,
+  "sha256": "1876854d52b4d0ccaaaa07998951f2267dbdb0413cccb6b91c0bc236138a1de3"
+ },
+ "sha1_origem": "b38a1ed09bb4213733211ad2edfa1858e4714bc1",
+ "bytes_origem": 114810,
+ "capturado_em": "2026-11-08T05:28:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Jatobá_MA.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:05Z",
+  "estado": "igual",
+  "sha1_commons": "b38a1ed09bb4213733211ad2edfa1858e4714bc1"
+ }
+}

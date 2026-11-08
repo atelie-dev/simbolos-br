@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3142809",
+ "uf": "MG",
+ "municipio": "Monte Alegre de Minas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Brasao-de-monte-alegre-mg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Monte Alegre de Minas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4cf5e05d88152112714461811e46e301708a9f5bd6b49a4b7cde689d8641b0f7",
+ "rendicoes": {
+  "png": {
+   "bytes": 79713,
+   "sha256": "86a8d4fafdb052c32a0eed3c48d89169e616500bfa2e16941f4dc03648800218",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16261,
+   "sha256": "296c326952f6522b25ad345a63cf1a1ad84e48492f6cc687d396f72138af8c04",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3142809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3142809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3142809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3142809.jpg",
+  "bytes": 12399,
+  "sha256": "4cf5e05d88152112714461811e46e301708a9f5bd6b49a4b7cde689d8641b0f7"
+ },
+ "sha1_origem": "8488abd28f8ff5cc60a11a803a9dfff3e9614c27",
+ "bytes_origem": 12399,
+ "capturado_em": "2026-11-08T06:11:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-de-monte-alegre-mg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "8488abd28f8ff5cc60a11a803a9dfff3e9614c27"
+ }
+}

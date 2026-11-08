@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4308078",
+ "uf": "RS",
+ "municipio": "Fazenda Vilanova",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bandeira_Fazenda_Vilanova.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Fazenda Vilanova",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "55035e66fc6907061a8bb9eb72650940c747ff7798ffaaeb377a30691954be4f",
+ "rendicoes": {
+  "png": {
+   "bytes": 102362,
+   "sha256": "c662e0952b7997fdcf5c1d7aec19a9d443bff4cd9572715a88099ad5cf9402f4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22063,
+   "sha256": "034f3f631aa9e9e3371f4a7c5261c049a5c5fbb8308eaed541f4c1670a21d76d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308078.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308078.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308078.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4308078.jpg",
+  "bytes": 28214,
+  "sha256": "55035e66fc6907061a8bb9eb72650940c747ff7798ffaaeb377a30691954be4f"
+ },
+ "sha1_origem": "20a418ab51b1d9cf1fa336908417243923f780b6",
+ "bytes_origem": 28214,
+ "capturado_em": "2026-11-08T07:03:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Fazenda_Vilanova.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "20a418ab51b1d9cf1fa336908417243923f780b6"
+ }
+}

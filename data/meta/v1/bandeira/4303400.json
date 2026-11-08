@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4303400",
+ "uf": "RS",
+ "municipio": "Caiçara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Cai%C3%A7arabandeirars.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Caiçara",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "99fc212db102309198da7454a0a937d433f1831e2214bb812274a6f2fd5a0d17",
+ "rendicoes": {
+  "png": {
+   "bytes": 17898,
+   "sha256": "0f703585f8b9c0ae3bfadb7775957ca2f1745ca837358759814442ff511e81a5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11014,
+   "sha256": "36b24d4906374e28c082a7bf9e21bfafcff62cfd28c35e502f8cf611221b26d9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4303400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4303400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4303400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4303400.png",
+  "bytes": 14285,
+  "sha256": "99fc212db102309198da7454a0a937d433f1831e2214bb812274a6f2fd5a0d17"
+ },
+ "sha1_origem": "5854be446974c64afab437e67ebf86f38a5e8ff6",
+ "bytes_origem": 14285,
+ "capturado_em": "2026-11-08T07:00:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Caiçarabandeirars.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "5854be446974c64afab437e67ebf86f38a5e8ff6"
+ }
+}

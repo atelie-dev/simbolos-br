@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2606903",
+ "uf": "PE",
+ "municipio": "Iguaracy",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bandeira_de_Iguaraci.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Iguaracy",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5781fa7dbb93bba44b2fea146fc97511d41400922baf87b82688f4b6d5756ddc",
+ "rendicoes": {
+  "png": {
+   "bytes": 68008,
+   "sha256": "a40274dcbe619e0383b0781dda7d2a92ed12877769212bce4d067d089f9a742b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19076,
+   "sha256": "9a29557374bbde5bb31462a4ff47e04196998de1320c715b5e650681327d90a8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2606903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2606903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2606903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2606903.jpg",
+  "bytes": 1077490,
+  "sha256": "5781fa7dbb93bba44b2fea146fc97511d41400922baf87b82688f4b6d5756ddc"
+ },
+ "sha1_origem": "edde0dd3fa12782e45547557e0a1d3c3e04a0535",
+ "bytes_origem": 1077490,
+ "capturado_em": "2026-11-08T05:45:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Iguaraci.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "edde0dd3fa12782e45547557e0a1d3c3e04a0535"
+ }
+}

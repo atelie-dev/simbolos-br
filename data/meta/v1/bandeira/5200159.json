@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5200159",
+ "uf": "GO",
+ "municipio": "Adelândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bandeira_de_Adel%C3%A2ndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Adelândia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "425a77fb9f832fbf6a1dec05e1c2a76dd1fa3191f7265078906054e05478b8e3",
+ "rendicoes": {
+  "png": {
+   "bytes": 18860,
+   "sha256": "023d8c1f152d6d580a31396c6e58ca63fba7db55c08c87c9f31a8b3d2dbeeaa9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8026,
+   "sha256": "11a3da15c55eda004e93242f6b42264badaebe0287cb175d76039e16fac268f8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200159.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200159.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200159.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5200159.jpg",
+  "bytes": 7803,
+  "sha256": "425a77fb9f832fbf6a1dec05e1c2a76dd1fa3191f7265078906054e05478b8e3"
+ },
+ "sha1_origem": "6c36c3c6f98edb21347f8959359fc7fbfd7726fb",
+ "bytes_origem": 7803,
+ "capturado_em": "2026-11-08T07:16:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Adelândia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "6c36c3c6f98edb21347f8959359fc7fbfd7726fb"
+ }
+}

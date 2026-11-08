@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3200409",
+ "uf": "ES",
+ "municipio": "Anchieta",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/BrasaodeAnchietaJPEG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8e2e1822762ed67401b5d9773be0dff2e6fcb287cf25709f03aa87eef3be8870",
+ "rendicoes": {
+  "png": {
+   "bytes": 80489,
+   "sha256": "545c2f1e2db3d44856b3d860ee3a1e4ebcd5a5b9e38e661bb65f30c28f0a6330",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32353,
+   "sha256": "cfa28358b3ccae4d249102d2c97863af111a4bbe3914e8cd4d9f3dde56b23040",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200409.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3200409.jpg",
+  "bytes": 2611252,
+  "sha256": "8e2e1822762ed67401b5d9773be0dff2e6fcb287cf25709f03aa87eef3be8870"
+ },
+ "sha1_origem": "5513cff67a16724c732c079d5600dd2c66758be6",
+ "bytes_origem": 2611252,
+ "capturado_em": "2026-11-08T06:18:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaodeAnchietaJPEG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "5513cff67a16724c732c079d5600dd2c66758be6"
+ }
+}

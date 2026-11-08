@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3127305",
+ "uf": "MG",
+ "municipio": "Galiléia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Galileia_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HVL",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0a52dbe28677dad250a35f0f23ab46e325c59989d6e46c107c665a3d1f1fcce5",
+ "rendicoes": {
+  "png": {
+   "bytes": 58612,
+   "sha256": "610efca09810f442a850b4f9ed0112e4a13eba8cd05c0e35dc1e4f16fb94c9bf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19484,
+   "sha256": "924cadeb4bd2f34e8637643b50a0a0e32b94a5f84ab845def552f87ca9daad20",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3127305.png",
+  "bytes": 278246,
+  "sha256": "0a52dbe28677dad250a35f0f23ab46e325c59989d6e46c107c665a3d1f1fcce5"
+ },
+ "sha1_origem": "680366c8dced34f7f9fc4301ff2ae05deedbedf5",
+ "bytes_origem": 278246,
+ "capturado_em": "2026-11-08T06:07:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Galileia_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "680366c8dced34f7f9fc4301ff2ae05deedbedf5"
+ }
+}

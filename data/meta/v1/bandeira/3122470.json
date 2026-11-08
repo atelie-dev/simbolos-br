@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3122470",
+ "uf": "MG",
+ "municipio": "Dom Bosco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bandeira_de_Dom_Bosco%2C_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Edna Resende",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fce3c703766bfcbca736197e199dba23c823f9883e9d38d2f5e7614c6989d914",
+ "rendicoes": {
+  "png": {
+   "bytes": 77240,
+   "sha256": "c57fbb0fcdcc4d2c617bbcd512451a87660e0fe3f7d7e59ad244d42880fcd163",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17056,
+   "sha256": "c097afe9fe52bdb721627c8b88219439409354de47fe00c6c1afc2d671d88c76",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3122470.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3122470.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3122470.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3122470.jpg",
+  "bytes": 19465,
+  "sha256": "fce3c703766bfcbca736197e199dba23c823f9883e9d38d2f5e7614c6989d914"
+ },
+ "sha1_origem": "151c0466e70869599149e808dcdba97f931c218a",
+ "bytes_origem": 19465,
+ "capturado_em": "2026-11-08T06:06:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Dom_Bosco,_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "151c0466e70869599149e808dcdba97f931c218a"
+ }
+}

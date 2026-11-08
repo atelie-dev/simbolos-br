@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3118908",
+ "uf": "MG",
+ "municipio": "Cordisburgo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Cordisburgomgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cordisburgo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "874c41bb1c439bb6ffbd675e3cc73277b7015746ce1a2fe6c0507f178e9c179d",
+ "rendicoes": {
+  "png": {
+   "bytes": 38023,
+   "sha256": "718da18eca00077074552c4f58b3b073ca6fa9fb55cc9fdf278c174595d07266",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12241,
+   "sha256": "b1b80e844792ef951018a4e1601acb102e4ff78281767bc1622ea8dd33ca92b8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3118908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3118908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3118908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3118908.jpg",
+  "bytes": 16347,
+  "sha256": "874c41bb1c439bb6ffbd675e3cc73277b7015746ce1a2fe6c0507f178e9c179d"
+ },
+ "sha1_origem": "8cc7079747e6e52370ab545c81e6799018698e2a",
+ "bytes_origem": 16347,
+ "capturado_em": "2026-11-08T06:04:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cordisburgomgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "8cc7079747e6e52370ab545c81e6799018698e2a"
+ }
+}

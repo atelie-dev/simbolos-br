@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3538006",
+ "uf": "SP",
+ "municipio": "Pindamonhangaba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bandeira_Pindamonhangaba_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "FORTES",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c9c1eb87206328a6126ba21b17f4de6f89be13d9c50a9eacd2b9f6b6def0d259",
+ "rendicoes": {
+  "png": {
+   "bytes": 15569,
+   "sha256": "27b68853492aa289a8c34557d868693458e2ec3b6a272ecde60b202a611be8ad",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13095,
+   "sha256": "9f9b33f5ec9cdd646580da881f715d949355e2a84d65da64233c58a2ffafef42",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2719,
+   "sha256": "c9c1eb87206328a6126ba21b17f4de6f89be13d9c50a9eacd2b9f6b6def0d259"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3538006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3538006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3538006.jpg"
+ },
+ "sha1_origem": "5f43738280f92b5245496c940df74c5a320a0e07",
+ "bytes_origem": 2719,
+ "capturado_em": "2026-11-08T04:12:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Pindamonhangaba_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "5f43738280f92b5245496c940df74c5a320a0e07"
+ }
+}

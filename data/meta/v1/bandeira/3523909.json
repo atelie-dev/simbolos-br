@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3523909",
+ "uf": "SP",
+ "municipio": "Itu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bandeira_de_Itu.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Torimem",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "286a203e6ed82f9976a4dd89d42f127e5f69dd85390960c760f0a61ae996bb39",
+ "rendicoes": {
+  "png": {
+   "bytes": 64429,
+   "sha256": "efbce2ab56531eeb45b06129c53cbc63fbe101b5739a155925fae58c27d0c8d7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23637,
+   "sha256": "9a1bdca642acb0d3149de3de6c84cb1b1d3e0bd10360cb640cf123909a62e4b9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1520163,
+   "sha256": "286a203e6ed82f9976a4dd89d42f127e5f69dd85390960c760f0a61ae996bb39"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3523909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3523909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3523909.jpg"
+ },
+ "sha1_origem": "38c44ece01ba688a7e825599451dc107b3bf3abc",
+ "bytes_origem": 1520163,
+ "capturado_em": "2026-11-08T04:06:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itu.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "38c44ece01ba688a7e825599451dc107b3bf3abc"
+ }
+}

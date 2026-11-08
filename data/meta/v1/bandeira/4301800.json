@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4301800",
+ "uf": "RS",
+ "municipio": "Barracão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Bandeira_de_Barrac%C3%A3o%2C_RS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Barracão.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b199170650d1bcf5e8089e2da6be891121b2ffa087c754834df87d3eb07c5230",
+ "rendicoes": {
+  "png": {
+   "bytes": 11729,
+   "sha256": "dc8ce34063bf8081c0b1826558f454ccc0eb802e4bde9cbe262674f35ccf0386",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7600,
+   "sha256": "a2d694d7d83ca462f9205c02116e18e2e0f61135c6813935ed657ef874468df8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4301800.png",
+  "bytes": 4060,
+  "sha256": "b199170650d1bcf5e8089e2da6be891121b2ffa087c754834df87d3eb07c5230"
+ },
+ "sha1_origem": "7d159838646c052f390014f5796fa84aefc01bd2",
+ "bytes_origem": 4060,
+ "capturado_em": "2026-11-08T06:59:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Barracão,_RS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "7d159838646c052f390014f5796fa84aefc01bd2"
+ }
+}

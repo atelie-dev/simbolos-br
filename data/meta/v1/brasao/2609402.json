@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2609402",
+ "uf": "PE",
+ "municipio": "Moreno",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Brasao_moreno.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Moreno City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "becec5dbec7c6a5e173f1cd4a82c93af8edc33c0876b7c2d500ff2cf139706e0",
+ "rendicoes": {
+  "png": {
+   "bytes": 182663,
+   "sha256": "f3831cb849027cfd4f7f79464e2bd78bf957be9d449d1223af7165a95c8fdb52",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35768,
+   "sha256": "c9ce582c45c568e89da580d47d8ab0b84f7ef1d33d313c562aa80cfc3d605c78",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2609402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2609402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2609402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2609402.jpg",
+  "bytes": 25606,
+  "sha256": "becec5dbec7c6a5e173f1cd4a82c93af8edc33c0876b7c2d500ff2cf139706e0"
+ },
+ "sha1_origem": "1a1296532dca8d0cfd56ccca030e17f09d2710b5",
+ "bytes_origem": 25606,
+ "capturado_em": "2026-11-08T05:45:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_moreno.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "1a1296532dca8d0cfd56ccca030e17f09d2710b5"
+ }
+}

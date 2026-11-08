@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1600212",
+ "uf": "AP",
+ "municipio": "Cutias",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bras%C3%A3o_de_Cutias%2C_AP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cutias",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3d0ab8493ebe9e073165e6ae17f0db508e5f14eef9ffc40880f7c167c55dcce5",
+ "rendicoes": {
+  "png": {
+   "bytes": 262425,
+   "sha256": "ad520c28344df10c735ed4327a417f5231356fa2a91abba31a9201baed4c15a2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45663,
+   "sha256": "e2ede8a95ed7ba1163b73d0a96dfd7b582e0523eee1781531eb84b698b371a05",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1600212.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1600212.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1600212.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1600212.jpg",
+  "bytes": 38257,
+  "sha256": "3d0ab8493ebe9e073165e6ae17f0db508e5f14eef9ffc40880f7c167c55dcce5"
+ },
+ "sha1_origem": "5ade34b2278856af3ca19825b492173583f20505",
+ "bytes_origem": 38257,
+ "capturado_em": "2026-11-08T05:26:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cutias,_AP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "5ade34b2278856af3ca19825b492173583f20505"
+ }
+}

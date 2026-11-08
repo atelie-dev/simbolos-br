@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4100400",
+ "uf": "PR",
+ "municipio": "Almirante Tamandaré",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bandeira_almirante_tamandare.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Almirante Tamandaré",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2088b9a07637e52d3141f5263e09a909512f62155e1ee96b307cb478b5ed5fc0",
+ "rendicoes": {
+  "png": {
+   "bytes": 79825,
+   "sha256": "4e7c9f8c58fd3fd4746877f41f37ea6f8dbc7b34bb3a837656dbbdedd38228c0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17836,
+   "sha256": "fbe6b90528bc504294264212a73d703db13614a82a250477d74319340562846a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4100400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4100400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4100400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4100400.jpg",
+  "bytes": 24878,
+  "sha256": "2088b9a07637e52d3141f5263e09a909512f62155e1ee96b307cb478b5ed5fc0"
+ },
+ "sha1_origem": "67ac6242531207dabdf00d3b91972a11ac4dac16",
+ "bytes_origem": 24878,
+ "capturado_em": "2026-11-08T06:40:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_almirante_tamandare.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "67ac6242531207dabdf00d3b91972a11ac4dac16"
+ }
+}

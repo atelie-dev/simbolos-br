@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321600",
+ "uf": "RS",
+ "municipio": "Tramandaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bandeira_tramandai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "164c6a77390a6b5e6cdb97fe3795cd8ff64629a988194730a8aefd3ffe25db21",
+ "rendicoes": {
+  "png": {
+   "bytes": 184922,
+   "sha256": "b7c299a40be02169d889012094ec91927707eb3ee7914ac9709d12bea663ceaf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29722,
+   "sha256": "fab878a947f4c633807cbd1b55dc52cbcca6d433e8f0417b34df50404b3c5846",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4321600.jpg",
+  "bytes": 39420,
+  "sha256": "164c6a77390a6b5e6cdb97fe3795cd8ff64629a988194730a8aefd3ffe25db21"
+ },
+ "sha1_origem": "c6a3bdb84604c1d1f22dbedeecefc8b49d8472e9",
+ "bytes_origem": 39420,
+ "capturado_em": "2026-11-08T07:11:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_tramandai.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "c6a3bdb84604c1d1f22dbedeecefc8b49d8472e9"
+ }
+}

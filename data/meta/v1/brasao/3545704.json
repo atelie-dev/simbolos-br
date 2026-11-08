@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3545704",
+ "uf": "SP",
+ "municipio": "Santa Albertina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bras%C3%A3o_de_Santa_Albertina%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Santa Albertina/SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0b58d422dcf4dbfc3e3411272cce221a5e49f862b6eb0400bbf123cb1dd8ca28",
+ "rendicoes": {
+  "png": {
+   "bytes": 41811,
+   "sha256": "26ede9dd5592203f27a49567df68502c8e6ace2eece1360dad868a2495d5f44c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9001,
+   "sha256": "43ef1d52f7729bd2ba1f55a458674d5dc759fa01a4688bb30cf961270556e926",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3545704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3545704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3545704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3545704.jpg",
+  "bytes": 5489,
+  "sha256": "0b58d422dcf4dbfc3e3411272cce221a5e49f862b6eb0400bbf123cb1dd8ca28"
+ },
+ "sha1_origem": "5eef305086a0dc956053976f6c4615ecbe5bcda0",
+ "bytes_origem": 5489,
+ "capturado_em": "2026-11-08T06:37:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Santa_Albertina,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "5eef305086a0dc956053976f6c4615ecbe5bcda0"
+ }
+}

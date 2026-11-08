@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4119301",
+ "uf": "PR",
+ "municipio": "Pinhão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bandeira_de_Pinh%C3%A3o_%28Paran%C3%A1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Guilherme GK",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b922400ed6c67b7e551c39a8ef6782146d773394995d3b676d26bf1cd27d4706",
+ "rendicoes": {
+  "png": {
+   "bytes": 53109,
+   "sha256": "bf9dd3d627cb0bc801153d2d81f0252c2b9fea40cd3f9f76ad7e3f9615a6e69c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21345,
+   "sha256": "8fc3711dfc40193b45c4e52d48588446e11c3587b2b37cd875e9e2c84d2d098a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4119301.jpg",
+  "bytes": 45111,
+  "sha256": "b922400ed6c67b7e551c39a8ef6782146d773394995d3b676d26bf1cd27d4706"
+ },
+ "sha1_origem": "c596daa6f73d4d51c4cb6986665fb67d53b057d9",
+ "bytes_origem": 45111,
+ "capturado_em": "2026-11-08T06:47:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pinhão_(Paraná).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "c596daa6f73d4d51c4cb6986665fb67d53b057d9"
+ }
+}

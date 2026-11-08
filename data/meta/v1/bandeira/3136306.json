@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3136306",
+ "uf": "MG",
+ "municipio": "João Pinheiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bandeira_de_Jo%C3%A3o_Pinheiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de João Pinheiro, MG",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cd7a2ff6d5784b8fe959157e0805ee285db791ad3aa1ac6cb1f2265ee2e42304",
+ "rendicoes": {
+  "png": {
+   "bytes": 131570,
+   "sha256": "d87418c299244a80477d5b28a48877d2c05c8dc85df157b18946e67729baffe8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21255,
+   "sha256": "306c949aaafaaf04d0e836be0e183a2d552aadccfc70d9383b5b9341d608879f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3136306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3136306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3136306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3136306.jpg",
+  "bytes": 32905,
+  "sha256": "cd7a2ff6d5784b8fe959157e0805ee285db791ad3aa1ac6cb1f2265ee2e42304"
+ },
+ "sha1_origem": "d364fa9a4070e5ee515ed92970cab14baf79d3a0",
+ "bytes_origem": 32905,
+ "capturado_em": "2026-11-08T06:10:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_João_Pinheiro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "d364fa9a4070e5ee515ed92970cab14baf79d3a0"
+ }
+}

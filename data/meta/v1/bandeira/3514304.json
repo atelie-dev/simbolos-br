@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3514304",
+ "uf": "SP",
+ "municipio": "Dourado",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bandeira_de_Dourado_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://www.dourado.sp.gov.br/",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dc37963d644f6d17302ed5186d8edf7e21c22eea20c7faaeca3d737597cfd293",
+ "rendicoes": {
+  "png": {
+   "bytes": 17198,
+   "sha256": "b8d774d77e6cac669297c3e5a1b457549ec9a1fab715b016aa970621c9f6811f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6427,
+   "sha256": "1157baa1c4d8e6492a883206392822612c40bda73b906a48cdcc557bbd22ccc4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514304.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3514304.jpg",
+  "bytes": 37256,
+  "sha256": "dc37963d644f6d17302ed5186d8edf7e21c22eea20c7faaeca3d737597cfd293"
+ },
+ "sha1_origem": "fa86e87de89c943f8c14437b7fad3fc40066e349",
+ "bytes_origem": 37256,
+ "capturado_em": "2026-11-08T06:27:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Dourado_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "fa86e87de89c943f8c14437b7fad3fc40066e349"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2928208",
+ "uf": "BA",
+ "municipio": "Santana",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bras%C3%A3o_Santana_BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Santana",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c23b1a492f57ea1dffdfdf8fbab7db3bae178c6e5eb8692b52aee6ea41556e19",
+ "rendicoes": {
+  "png": {
+   "bytes": 123409,
+   "sha256": "1fb7c718651fee4f72fc4ce80324d99fd7c6e0f519d06f3afdb48112d99182f8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22976,
+   "sha256": "ddcebbc2b129212128ae2cd2377de3bce71315eeb41fe4bcf1a387fa52d27006",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2928208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2928208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2928208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2928208.jpg",
+  "bytes": 24831,
+  "sha256": "c23b1a492f57ea1dffdfdf8fbab7db3bae178c6e5eb8692b52aee6ea41556e19"
+ },
+ "sha1_origem": "525c962d036ee8de0451065f1796fd47b62d01cb",
+ "bytes_origem": 24831,
+ "capturado_em": "2026-11-08T05:57:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Santana_BA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "525c962d036ee8de0451065f1796fd47b62d01cb"
+ }
+}

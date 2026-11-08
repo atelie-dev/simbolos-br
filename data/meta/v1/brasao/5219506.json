@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5219506",
+ "uf": "GO",
+ "municipio": "Santa Rosa de Goiás",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bras%C3%A3o_SRG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Boituva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0bb540014a0e83f74907ecaeca6823cd5405ab58b46c6d1360cb72736be5fbb1",
+ "rendicoes": {
+  "png": {
+   "bytes": 28521,
+   "sha256": "4e34ecb5870acb54675a90b3fca95e06e795e36eec94d827e454993982bf1c3a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7446,
+   "sha256": "24557dd9ad3882d876189f44dbcb86d90ae50e40fd49f7b4d9663841ed494e96",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5219506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5219506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5219506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5219506.jpg",
+  "bytes": 4066,
+  "sha256": "0bb540014a0e83f74907ecaeca6823cd5405ab58b46c6d1360cb72736be5fbb1"
+ },
+ "sha1_origem": "3174dfe3c65632e781456098dbecfdd35a338c3e",
+ "bytes_origem": 4066,
+ "capturado_em": "2026-11-08T07:20:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_SRG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "3174dfe3c65632e781456098dbecfdd35a338c3e"
+ }
+}

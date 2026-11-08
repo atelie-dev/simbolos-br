@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5208608",
+ "uf": "GO",
+ "municipio": "Goianésia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bandeira_de_Goian%C3%A9sia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Goianésia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f1cdc36c9d0ea3689cc99896059c6ed7a81ef05bf1d2db81fe766bda7d1339e1",
+ "rendicoes": {
+  "png": {
+   "bytes": 78856,
+   "sha256": "16bd0ebd26610c930f87d4a368480cb0854ecf004ad219acacbae20bf7b67ea6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21724,
+   "sha256": "bd74a64c124f09ef93aa3c93a6cca2303ae3ed2f83eea87c467901c7bd416104",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5208608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5208608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5208608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5208608.jpg",
+  "bytes": 23422,
+  "sha256": "f1cdc36c9d0ea3689cc99896059c6ed7a81ef05bf1d2db81fe766bda7d1339e1"
+ },
+ "sha1_origem": "f078fe8c5bc45488234af2b8a984169dc422515a",
+ "bytes_origem": 23422,
+ "capturado_em": "2026-11-08T07:18:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Goianésia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "f078fe8c5bc45488234af2b8a984169dc422515a"
+ }
+}

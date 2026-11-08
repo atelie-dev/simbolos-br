@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4119251",
+ "uf": "PR",
+ "municipio": "Pinhal de São Bento",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bandeira_de_Pinhal_de_S%C3%A3o_Bento%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fbfac9f5fa7a3239057946869b5e1f16919826fe764557b8abe6e39f1276c9bb",
+ "rendicoes": {
+  "png": {
+   "bytes": 245032,
+   "sha256": "55c77a4df171dc838e5eef1dd7c480f5821879a53e88e69c82e7741257463b3f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30539,
+   "sha256": "b57010cf4f18eefc02b2f8ac7bc9c3aa5d1c3b9acc89517d25c7ee8687ba7ca7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119251.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119251.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119251.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4119251.jpg",
+  "bytes": 215944,
+  "sha256": "fbfac9f5fa7a3239057946869b5e1f16919826fe764557b8abe6e39f1276c9bb"
+ },
+ "sha1_origem": "ff4f2915d43e323d64f9e91bf7b2950af273b732",
+ "bytes_origem": 215944,
+ "capturado_em": "2026-11-08T06:47:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pinhal_de_São_Bento,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "ff4f2915d43e323d64f9e91bf7b2950af273b732"
+ }
+}

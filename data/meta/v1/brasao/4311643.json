@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4311643",
+ "uf": "RS",
+ "municipio": "Linha Nova",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Linha_Novarsbrasonbr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Linha Nova",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bdc0c332b050c415ee5554c6d4c4b7754fae73d19c232be3202e9f88c7f15f90",
+ "rendicoes": {
+  "png": {
+   "bytes": 163828,
+   "sha256": "acf71c860ca105b6febc592275976c9453d943cca25133a1b35d8d9a31b3f096",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31556,
+   "sha256": "d4db54768fcfb7a022b2cf54aea4629c1de0531522eaca5413e72cddb06e2224",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311643.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311643.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311643.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4311643.jpg",
+  "bytes": 19430,
+  "sha256": "bdc0c332b050c415ee5554c6d4c4b7754fae73d19c232be3202e9f88c7f15f90"
+ },
+ "sha1_origem": "47918e4e91293508cd96b350c662f7fec3cdeeea",
+ "bytes_origem": 19430,
+ "capturado_em": "2026-11-08T07:05:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Linha_Novarsbrasonbr.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "47918e4e91293508cd96b350c662f7fec3cdeeea"
+ }
+}

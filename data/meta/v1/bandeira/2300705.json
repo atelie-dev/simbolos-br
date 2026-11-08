@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2300705",
+ "uf": "CE",
+ "municipio": "Alto Santo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bandeira_de_Alto_Santo_%28Cear%C3%A1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Italomorais1",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6d3bd7dbfae7f4f3ed2944456cc4facee9b1b91b07b22bb76b82a5cab4a66fe5",
+ "rendicoes": {
+  "png": {
+   "bytes": 80689,
+   "sha256": "363fc93743c76fe78bbc051484bc5fe84fbc846f4b38990ecc93f879021d826d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20564,
+   "sha256": "2b49a4d1dbe26c2d91e480c7940fe8b531c5714ebd6d28e2e0200c2243fd8a08",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2300705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2300705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2300705.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2300705.jpg",
+  "bytes": 21458,
+  "sha256": "6d3bd7dbfae7f4f3ed2944456cc4facee9b1b91b07b22bb76b82a5cab4a66fe5"
+ },
+ "sha1_origem": "e44a327d2b9b271bf86bda50691104e82a41c558",
+ "bytes_origem": 21458,
+ "capturado_em": "2026-11-08T05:31:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Alto_Santo_(Ceará).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "e44a327d2b9b271bf86bda50691104e82a41c558"
+ }
+}

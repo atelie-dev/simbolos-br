@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4102109",
+ "uf": "PR",
+ "municipio": "Astorga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bras%C3%A3o_Astorga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "64fffd55836156f7e0e9da3fa63c8b1d6829035787be9cdcd7eecebdf7adbfbf",
+ "rendicoes": {
+  "png": {
+   "bytes": 324078,
+   "sha256": "5a51bcae2fb0907cfd407a2f9506d29bfd5044bd8741baa4e4f9c0e139cf67b0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45165,
+   "sha256": "5f772142b107be0c2d8d0ea5b702844f2bbded0ef1200287d16f5d47a8612391",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4102109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4102109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4102109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4102109.jpg",
+  "bytes": 40282,
+  "sha256": "64fffd55836156f7e0e9da3fa63c8b1d6829035787be9cdcd7eecebdf7adbfbf"
+ },
+ "sha1_origem": "a6ad2a2baf8021e2aade04fc560e2c60d66bdb87",
+ "bytes_origem": 40282,
+ "capturado_em": "2026-11-08T06:41:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Astorga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "a6ad2a2baf8021e2aade04fc560e2c60d66bdb87"
+ }
+}

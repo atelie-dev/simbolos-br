@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532868",
+ "uf": "SP",
+ "municipio": "Nova Castilho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bras%C3%A3o_do_Municipio_de_Nova_Castilho-SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municípal de Nova Castilho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5b018cdcbf00bfeb5939d6cf9301ede38c5e8e45787878c0c9171a33e710fe21",
+ "rendicoes": {
+  "png": {
+   "bytes": 60584,
+   "sha256": "f7123d25f31794e5fc54200219aeb544e4b1c592841a902cb50dc3d62f5897cd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13601,
+   "sha256": "5fab6bda0ccbd8efb89c3e4b3770c3f8cc9ca5e8738659409de62d93cfeda799",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532868.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532868.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532868.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3532868.jpg",
+  "bytes": 13424,
+  "sha256": "5b018cdcbf00bfeb5939d6cf9301ede38c5e8e45787878c0c9171a33e710fe21"
+ },
+ "sha1_origem": "fbe5ac2a2a1f959c020dc80eac62d550addcf34f",
+ "bytes_origem": 13424,
+ "capturado_em": "2026-11-08T06:33:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_Municipio_de_Nova_Castilho-SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:15Z",
+  "estado": "igual",
+  "sha1_commons": "fbe5ac2a2a1f959c020dc80eac62d550addcf34f"
+ }
+}

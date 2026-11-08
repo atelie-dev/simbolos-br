@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305439",
+ "uf": "RS",
+ "municipio": "Chuí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bras%C3%A3o_Chu%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dba36886784acbfd99f74970e26491e888e951c2cb80956f12636eebbdeecf3d",
+ "rendicoes": {
+  "png": {
+   "bytes": 26103,
+   "sha256": "8d2438118714ffa825c6a2de33d3a74534b2dbd4ea14cd38f9dc7919395cce71",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7479,
+   "sha256": "ec42570ad7e6dfac2fc60c2807e745363d8f6b705b10bf83a3dd04c0bad33352",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305439.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305439.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305439.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4305439.jpg",
+  "bytes": 39088,
+  "sha256": "dba36886784acbfd99f74970e26491e888e951c2cb80956f12636eebbdeecf3d"
+ },
+ "sha1_origem": "aba40bda9df560e1d002482e2080c8536798f136",
+ "bytes_origem": 39088,
+ "capturado_em": "2026-11-08T07:01:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Chuí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:48Z",
+  "estado": "igual",
+  "sha1_commons": "aba40bda9df560e1d002482e2080c8536798f136"
+ }
+}

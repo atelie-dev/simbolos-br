@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3514601",
+ "uf": "SP",
+ "municipio": "Dumont",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dumont.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9f276dcbc843a678e51556d87640f6fd4660d6cced74d7ce529e0ccdb24bfb42",
+ "rendicoes": {
+  "png": {
+   "bytes": 437485,
+   "sha256": "a8274438ff82c0f6f83b0d88fc70c812608e42347207e3943634f0ea3161e244",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 77978,
+   "sha256": "6e2468c4b30b50990c16242f94974bade000895017860d9f4843ccc16ee4b688",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3514601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3514601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3514601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3514601.png",
+  "bytes": 355215,
+  "sha256": "9f276dcbc843a678e51556d87640f6fd4660d6cced74d7ce529e0ccdb24bfb42"
+ },
+ "sha1_origem": "04358141fd1282a96e8d44ffb79a6bce495a7145",
+ "bytes_origem": 355215,
+ "capturado_em": "2026-11-08T06:27:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Dumont.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "04358141fd1282a96e8d44ffb79a6bce495a7145"
+ }
+}

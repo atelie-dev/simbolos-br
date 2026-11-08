@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5204508",
+ "uf": "GO",
+ "municipio": "Caldas Novas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bandeira_de_caldas_novas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Handrade",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1de8517937fc40fc426b693730fde85821b6cffc1f8f948cd10750ef54876e8f",
+ "rendicoes": {
+  "png": {
+   "bytes": 11973,
+   "sha256": "4a8dbcb18af4588d49b9964da76b152a2ea2806104aadd88ee9fc4befd25c05d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5098,
+   "sha256": "e49004fb4b9a93f4d78a7d1818eeb795248378e7af3b857e23c246bbec4bdde5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5204508.jpg",
+  "bytes": 3342,
+  "sha256": "1de8517937fc40fc426b693730fde85821b6cffc1f8f948cd10750ef54876e8f"
+ },
+ "sha1_origem": "1ecfefa7ed432448afdc097a1d27a87c217c248f",
+ "bytes_origem": 3342,
+ "capturado_em": "2026-11-08T07:17:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_caldas_novas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "1ecfefa7ed432448afdc097a1d27a87c217c248f"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3147600",
+ "uf": "MG",
+ "municipio": "Passa Quatro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Brasao_P4.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Alberto Lima & Maria José Borges Guedes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8c18795007bec51a6f5f179c13b8a1e3b92cfbdcd3c5e68a09873eac7858fdc4",
+ "rendicoes": {
+  "png": {
+   "bytes": 131278,
+   "sha256": "0a0e993968be21cf01c76f897ad5d98c0d7169d32be95d44cef6036db304d263",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 64709,
+   "sha256": "1445626a679679ea810b8bc33be24bccd642f7df802fd3f1399ce39bd6d15c3d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3147600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3147600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3147600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3147600.png",
+  "bytes": 87963,
+  "sha256": "8c18795007bec51a6f5f179c13b8a1e3b92cfbdcd3c5e68a09873eac7858fdc4"
+ },
+ "sha1_origem": "669b23df97fa03bb645c842ac44b22e1e2fec8d8",
+ "bytes_origem": 87963,
+ "capturado_em": "2026-11-08T06:12:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_P4.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "669b23df97fa03bb645c842ac44b22e1e2fec8d8"
+ }
+}

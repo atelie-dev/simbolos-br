@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4201307",
+ "uf": "SC",
+ "municipio": "Araquari",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bandeira_Araquari_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Mateusmira (talk)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7b471ea3992588e120bc5841fb9040a994dbd2dfca88e7ede7b0130b457c97cc",
+ "rendicoes": {
+  "png": {
+   "bytes": 31382,
+   "sha256": "77414e25afdf7c1b61d8be213b020fbd8b6e9ef84f9266c074f766f43202d6f2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9827,
+   "sha256": "682d3641d4cb0916e2800ec5720e653c27fa813818e66c8baacede8db537df15",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4201307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4201307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4201307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4201307.jpg",
+  "bytes": 6949,
+  "sha256": "7b471ea3992588e120bc5841fb9040a994dbd2dfca88e7ede7b0130b457c97cc"
+ },
+ "sha1_origem": "f6284e121e29e308826f3897fa7872f53532dec7",
+ "bytes_origem": 6949,
+ "capturado_em": "2026-11-08T06:51:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Araquari_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "f6284e121e29e308826f3897fa7872f53532dec7"
+ }
+}

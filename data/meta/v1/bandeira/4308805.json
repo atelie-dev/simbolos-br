@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4308805",
+ "uf": "RS",
+ "municipio": "General Câmara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bandeira_General_Camara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "General Câmara municipality.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bfbfca9a440681d44580f6d6a1ec43c544da6da25a54a9b38d68e93c04a615ef",
+ "rendicoes": {
+  "png": {
+   "bytes": 458911,
+   "sha256": "e197a448318c25f82902444b667fee58f35700434f5c9e717419623bed0d6687",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62598,
+   "sha256": "8124ed87d5d3e1b1f337771d5fea9823eae997506255954a47904ec59d05d08d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4308805.jpg",
+  "bytes": 1392366,
+  "sha256": "bfbfca9a440681d44580f6d6a1ec43c544da6da25a54a9b38d68e93c04a615ef"
+ },
+ "sha1_origem": "9223d693b13b948966e65d94fc3a3a2866f9a8d3",
+ "bytes_origem": 1392366,
+ "capturado_em": "2026-11-08T07:03:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_General_Camara.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "9223d693b13b948966e65d94fc3a3a2866f9a8d3"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3501152",
+ "uf": "SP",
+ "municipio": "Alumínio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bandeira_Alum%C3%ADnio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4b07203efa4fbe85cbb44d6831540f9dbcfafb49af3dfb4505e008bd2dafebc4",
+ "rendicoes": {
+  "png": {
+   "bytes": 6688,
+   "sha256": "6c232f901f95ca66244f9baec716e606295adbd4ff748752de5cea5e7d0d2d33",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4882,
+   "sha256": "240a6bec47d4f8d762292c687b5e037596b372047ada0cf009fc93dd30ab2846",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501152.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501152.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501152.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3501152.jpg",
+  "bytes": 7395,
+  "sha256": "4b07203efa4fbe85cbb44d6831540f9dbcfafb49af3dfb4505e008bd2dafebc4"
+ },
+ "sha1_origem": "85f5e90197d0eb3d29b55a7a0837273aecf1e864",
+ "bytes_origem": 7395,
+ "capturado_em": "2026-11-08T06:23:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Alumínio.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "85f5e90197d0eb3d29b55a7a0837273aecf1e864"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3555000",
+ "uf": "SP",
+ "municipio": "Tupã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/BandeiraTupa.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "bace1e1aede27a566cd198ada838e92e203cdae83c9fb5ebd9e2f062b2245be5",
+ "rendicoes": {
+  "png": {
+   "bytes": 52755,
+   "sha256": "e08ffb5a1e852a6832d8dcb8dabad90eabecb4a5ad0acb32d6c3c324bb1519dd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23250,
+   "sha256": "ef9c354d67a6a43f559e519226d8f03f23ca7e0add6f79e01f1d0d18e1b473fb",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 367757,
+   "sha256": "bace1e1aede27a566cd198ada838e92e203cdae83c9fb5ebd9e2f062b2245be5"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3555000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3555000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3555000.jpg"
+ },
+ "sha1_origem": "e8504094e4528e8a6d410a5d1e3465e9f8f71923",
+ "bytes_origem": 367757,
+ "capturado_em": "2026-11-08T04:19:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraTupa.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "e8504094e4528e8a6d410a5d1e3465e9f8f71923"
+ }
+}

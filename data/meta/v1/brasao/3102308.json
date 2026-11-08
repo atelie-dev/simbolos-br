@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3102308",
+ "uf": "MG",
+ "municipio": "Alvinópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Brasao-alvinopolis-mg-br.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Saugusto",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f1ed4bb29af945fcb8ef334b5d2c4f4ebffadeff5a002b4b1a0c5d91357e54c4",
+ "rendicoes": {
+  "png": {
+   "bytes": 156950,
+   "sha256": "7b3f4c00b67da491369ae5acbc316774904c581c11dc64c49674ebb3226a2c17",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32840,
+   "sha256": "9effc2e7a94e6c1e294c79a2084d8b68ec52170f118f79ee512793dcd162479e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3102308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3102308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3102308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3102308.jpg",
+  "bytes": 30302,
+  "sha256": "f1ed4bb29af945fcb8ef334b5d2c4f4ebffadeff5a002b4b1a0c5d91357e54c4"
+ },
+ "sha1_origem": "e97703cff0f623aed097afaeb3c86855ae91600f",
+ "bytes_origem": 30302,
+ "capturado_em": "2026-11-08T05:59:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-alvinopolis-mg-br.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "e97703cff0f623aed097afaeb3c86855ae91600f"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4308052",
+ "uf": "RS",
+ "municipio": "Faxinalzinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bras%C3%A3o_Faxinalzinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Faxinalzinho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7416781c3251abcb5b9844e36e7e84667b9eba53633dee2897501cc52cd08d98",
+ "rendicoes": {
+  "png": {
+   "bytes": 101985,
+   "sha256": "cb9413917f878de55e3d2e90c91320a58009b77955c2fcf7d73f3538df844c1c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23549,
+   "sha256": "a5d20244c30774afa10c7f8b309d9e0e5e9097481c667cbd725d19096a28eb55",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308052.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308052.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308052.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4308052.jpg",
+  "bytes": 18670,
+  "sha256": "7416781c3251abcb5b9844e36e7e84667b9eba53633dee2897501cc52cd08d98"
+ },
+ "sha1_origem": "a67ee27111b24ef276e8aec09d28f3256484b97d",
+ "bytes_origem": 18670,
+ "capturado_em": "2026-11-08T07:03:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Faxinalzinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "a67ee27111b24ef276e8aec09d28f3256484b97d"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4315602",
+ "uf": "RS",
+ "municipio": "Rio Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bandeira_de_Rio_Grande.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Rio Grande",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4df2fb69673064fa865c94734077468631bf127b681069ef7eef145499320bdf",
+ "rendicoes": {
+  "png": {
+   "bytes": 12088,
+   "sha256": "dbbb6fd47d54abdc1b5b098702c528941ee1376293b5a20131860a80c287c309",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6592,
+   "sha256": "2f2bbd5ee96dd3cb72ee1d2a21c0ec9dae8887574755c6a5b5e309c28ac2d867",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4315602.jpg",
+  "bytes": 3900,
+  "sha256": "4df2fb69673064fa865c94734077468631bf127b681069ef7eef145499320bdf"
+ },
+ "sha1_origem": "ec76a548eeb4758da14f5c36f6bfd2204346c192",
+ "bytes_origem": 3900,
+ "capturado_em": "2026-11-08T07:07:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Rio_Grande.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "ec76a548eeb4758da14f5c36f6bfd2204346c192"
+ }
+}

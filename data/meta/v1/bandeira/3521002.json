@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3521002",
+ "uf": "SP",
+ "municipio": "Iperó",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bandeira_de_Iper%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Marcelo Américo Correa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4ac10d53dc53d269f04dff3251a7bea135d042665bcaa04b2a8a4a49940e45d4",
+ "rendicoes": {
+  "png": {
+   "bytes": 67295,
+   "sha256": "3cc7f4a4b825d5efc6760b517a750fe91c92f142b74fd27fee81fab4a0eacf1b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24829,
+   "sha256": "fcb2eb1ebe8341475311b789f4e4deb42940de688f2ab4eba87f370b9bb0d5bf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3521002.jpg",
+  "bytes": 287255,
+  "sha256": "4ac10d53dc53d269f04dff3251a7bea135d042665bcaa04b2a8a4a49940e45d4"
+ },
+ "sha1_origem": "bdcde26191c3508aecafa311081264b9aeb2df05",
+ "bytes_origem": 287255,
+ "capturado_em": "2026-11-08T06:29:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Iperó.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "bdcde26191c3508aecafa311081264b9aeb2df05"
+ }
+}

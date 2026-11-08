@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3522000",
+ "uf": "SP",
+ "municipio": "Itaju",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bandeira_Itaju.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7d330c1fa8e59cf6bf63cccca2d0179b80d03ffdca2e88e59854ad33c0740a42",
+ "rendicoes": {
+  "png": {
+   "bytes": 33329,
+   "sha256": "e00b2eacd9ae31ca829aadbfa3fc005ddde29ffee8c5dc0e7aa1f698d8c5c7eb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13224,
+   "sha256": "4bac3ab9cd9fc1b531fc0e557c7edfad187a03ae082ff9521508ca50ab088ad6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3522000.png",
+  "bytes": 33095,
+  "sha256": "7d330c1fa8e59cf6bf63cccca2d0179b80d03ffdca2e88e59854ad33c0740a42"
+ },
+ "sha1_origem": "1f487c8e1941686222fb0394c88f2b4abc516f52",
+ "bytes_origem": 33095,
+ "capturado_em": "2026-11-08T06:29:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itaju.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "1f487c8e1941686222fb0394c88f2b4abc516f52"
+ }
+}

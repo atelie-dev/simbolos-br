@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4215703",
+ "uf": "SC",
+ "municipio": "Santo Amaro da Imperatriz",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_pmsantoamaro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Santo Amaro de Imperatriz, Santa Catarina",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "57163d79381361a1294c2466ca8b52ca5f12f8185ed4fd856c5e35c48c6cb27a",
+ "rendicoes": {
+  "png": {
+   "bytes": 53056,
+   "sha256": "bab9d592589814cd8da4b81980eadac9081b25a8e74e81aa6b15a2cc37057a47",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15397,
+   "sha256": "9100d6ae3c654c2e24ee055b7f4505e47e1ba14af684a41c11dafe7460a15276",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4215703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4215703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4215703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4215703.png",
+  "bytes": 50253,
+  "sha256": "57163d79381361a1294c2466ca8b52ca5f12f8185ed4fd856c5e35c48c6cb27a"
+ },
+ "sha1_origem": "2c42c86cc384f95a4cddca6053a07de8c62b6b3c",
+ "bytes_origem": 50253,
+ "capturado_em": "2026-11-08T06:56:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Logo_pmsantoamaro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "2c42c86cc384f95a4cddca6053a07de8c62b6b3c"
+ }
+}

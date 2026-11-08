@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2209500",
+ "uf": "PI",
+ "municipio": "Santo Inácio do Piauí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bandeira_de_Santo_In%C3%A1cio_do_Piau%C3%AD.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Santo Inácio PI",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f6a8c323fe7d2608ec29efbc33afe93fbee9ada8c6813bf455b22259e8e23fc8",
+ "rendicoes": {
+  "png": {
+   "bytes": 42816,
+   "sha256": "9c938d895e9b8e8ac7e033f1d87160f622a91fd8825253965b21030c6b0ebba3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19254,
+   "sha256": "83456f2eb820d4ee4f28e339791e6c543cb6108d27ec55546d21d92e06e21b81",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2209500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2209500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2209500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2209500.png",
+  "bytes": 198467,
+  "sha256": "f6a8c323fe7d2608ec29efbc33afe93fbee9ada8c6813bf455b22259e8e23fc8"
+ },
+ "sha1_origem": "aa67ed8370bc37d9662b873ccaa656ce05b49fbc",
+ "bytes_origem": 198467,
+ "capturado_em": "2026-11-08T05:31:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santo_Inácio_do_Piauí.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "aa67ed8370bc37d9662b873ccaa656ce05b49fbc"
+ }
+}

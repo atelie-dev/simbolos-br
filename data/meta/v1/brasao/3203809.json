@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3203809",
+ "uf": "ES",
+ "municipio": "Muqui",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Blazono_de_Muiqui.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camara de Muqui",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9400cfdb691659783e1dfe66c2fc3eab2422c7d6c0e9f7c797f7bbe583204a67",
+ "rendicoes": {
+  "png": {
+   "bytes": 150240,
+   "sha256": "6530d05396d8f57389cc98bd05df81867b51317aae54b45ea63c961fc0441641",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60549,
+   "sha256": "2db63f3f88e8c5fc48ce58ec9f26c965a947f4203f4b0de6ec14bad3cb76cd97",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3203809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3203809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3203809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3203809.png",
+  "bytes": 146752,
+  "sha256": "9400cfdb691659783e1dfe66c2fc3eab2422c7d6c0e9f7c797f7bbe583204a67"
+ },
+ "sha1_origem": "276356bd4ea30cfd1e1f73eeb948a2744196a792",
+ "bytes_origem": 146752,
+ "capturado_em": "2026-11-08T06:19:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Blazono_de_Muiqui.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "276356bd4ea30cfd1e1f73eeb948a2744196a792"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3102506",
+ "uf": "MG",
+ "municipio": "Amparo do Serra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Amparo_da_Serramgbrasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Amparo da Serra",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5888f5431562285adccae46e47d857198fdc6c0534b806bfbb41c996a9aedef0",
+ "rendicoes": {
+  "png": {
+   "bytes": 8912,
+   "sha256": "31d48dfb89f06b551c2f7af2a5cca4e32ff43ab3ae0b47e50e15cfebca4de480",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4661,
+   "sha256": "6fe3a8b67a87c112faffb806814decc9ffa44cd1dfa865c7831b09c7827324b7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3102506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3102506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3102506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3102506.png",
+  "bytes": 6453,
+  "sha256": "5888f5431562285adccae46e47d857198fdc6c0534b806bfbb41c996a9aedef0"
+ },
+ "sha1_origem": "2daec5abab50ac6e380b60303cfc78a048798e5f",
+ "bytes_origem": 6453,
+ "capturado_em": "2026-11-08T05:59:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Amparo_da_Serramgbrasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "2daec5abab50ac6e380b60303cfc78a048798e5f"
+ }
+}

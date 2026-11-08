@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3144805",
+ "uf": "MG",
+ "municipio": "Nova Lima",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Coat_of_Arms_of_Nova_Lima.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pcgomes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "db76de6936d349503c5bb8bdbd817e1dd51ab0ce562d2d0df95ee88d99377268",
+ "rendicoes": {
+  "png": {
+   "bytes": 148513,
+   "sha256": "f82c21b66f37b1ec84cd1c99300b71cf9a10de1440d9245e9e2dfe580cd2df52",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42677,
+   "sha256": "e1c2ee75b55254af11e9935dfaa9870320c42a5d2cd07eda21988811c4f65845",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3144805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3144805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3144805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3144805.png",
+  "bytes": 287600,
+  "sha256": "db76de6936d349503c5bb8bdbd817e1dd51ab0ce562d2d0df95ee88d99377268"
+ },
+ "sha1_origem": "28e6256d48b06be79822bb4e95889cccfa758aec",
+ "bytes_origem": 287600,
+ "capturado_em": "2026-11-08T06:12:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Coat_of_Arms_of_Nova_Lima.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:23Z",
+  "estado": "igual",
+  "sha1_commons": "28e6256d48b06be79822bb4e95889cccfa758aec"
+ }
+}

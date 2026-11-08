@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4202404",
+ "uf": "SC",
+ "municipio": "Blumenau",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Blumenau.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Josedar (SVG conversion)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a2e5f70011b45933993c956c3aa94f999e56fbc7ace4bf11852f427ca0b5c9bd",
+ "rendicoes": {
+  "png": {
+   "bytes": 40333,
+   "sha256": "e16ba0d33d5c97db41d25702c7cdef29af24d425e8e0cfdf9f53edc44b27f369",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21318,
+   "sha256": "1f3fddd7de01d53930519764bc98555bf08c201f79e89193e0994e8f74584e61",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 251704,
+   "sha256": "a2e5f70011b45933993c956c3aa94f999e56fbc7ace4bf11852f427ca0b5c9bd"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202404.jpg"
+ },
+ "sha1_origem": "1bce8744ed07d6d64e0ea4faab6bff5465147ce0",
+ "bytes_origem": 251704,
+ "capturado_em": "2026-11-08T04:36:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Blumenau.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "1bce8744ed07d6d64e0ea4faab6bff5465147ce0"
+ }
+}

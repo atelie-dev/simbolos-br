@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3510302",
+ "uf": "SP",
+ "municipio": "Capela do Alto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Capela_do_Alto_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "City Hall of Capela do Alto",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "19684f2a50d3392cf484d011a0f05989ab3b2996937e2eda659b4357aca4cc5b",
+ "rendicoes": {
+  "png": {
+   "bytes": 75996,
+   "sha256": "ae937464de9c41de7c6f96e1ed8ce27a87a4d1255724ba953aa6a5cff412b853",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23528,
+   "sha256": "1e9b99722beddce2d98f023f6aba11bf057d111944ca7b79d30b97d95fd73bb9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3510302.png",
+  "bytes": 114298,
+  "sha256": "19684f2a50d3392cf484d011a0f05989ab3b2996937e2eda659b4357aca4cc5b"
+ },
+ "sha1_origem": "64ce03a55896631bb53a1e31d84baab09b9a2cfc",
+ "bytes_origem": 114298,
+ "capturado_em": "2026-11-08T06:25:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Capela_do_Alto_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "64ce03a55896631bb53a1e31d84baab09b9a2cfc"
+ }
+}

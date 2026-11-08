@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3111606",
+ "uf": "MG",
+ "municipio": "Campos Gerais",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/BandeiraDeCamposGeraisMG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Indeterminado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "11b13731ecaf880d9313cdf45605e87e3442e3ccb1341310385add19c239cfc1",
+ "rendicoes": {
+  "png": {
+   "bytes": 117945,
+   "sha256": "5ef1ddb71d9c334c5f75ec46540db52a20835f5b9302fd23596768f5089f9e5a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22506,
+   "sha256": "3a3a8950d83a04178191446e47622793c5463375fbce9422912bbde80765ce00",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3111606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3111606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3111606.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3111606.jpg",
+  "bytes": 16362,
+  "sha256": "11b13731ecaf880d9313cdf45605e87e3442e3ccb1341310385add19c239cfc1"
+ },
+ "sha1_origem": "2c1bf361f2117966441736d5aca5ec2718adc6f9",
+ "bytes_origem": 16362,
+ "capturado_em": "2026-11-08T06:02:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraDeCamposGeraisMG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:41Z",
+  "estado": "igual",
+  "sha1_commons": "2c1bf361f2117966441736d5aca5ec2718adc6f9"
+ }
+}

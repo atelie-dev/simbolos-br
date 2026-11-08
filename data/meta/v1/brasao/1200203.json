@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1200203",
+ "uf": "AC",
+ "municipio": "Cruzeiro do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bras%C3%A3o_de_Cruzeiro_do_Sul_-_AC.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "29d7144f844224c540902a3b24d30e16dc1c725ef8fc632012f8b315076de00e",
+ "rendicoes": {
+  "png": {
+   "bytes": 212823,
+   "sha256": "772fc4aed14697c9c63db88fb1c3c9847a2a981c4307536f20bc24d174d05be2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 72714,
+   "sha256": "8a0374081f2e742a9edeb1dcd822691fc1fb891b6ca2a2581a1df9880c3ef041",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 808584,
+   "sha256": "29d7144f844224c540902a3b24d30e16dc1c725ef8fc632012f8b315076de00e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200203.jpg"
+ },
+ "sha1_origem": "1d417189f0c7827e50e36603dbfb44115ccbb86e",
+ "bytes_origem": 808584,
+ "capturado_em": "2026-11-08T02:30:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cruzeiro_do_Sul_-_AC.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "1d417189f0c7827e50e36603dbfb44115ccbb86e"
+ }
+}

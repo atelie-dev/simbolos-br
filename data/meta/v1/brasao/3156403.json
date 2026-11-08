@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3156403",
+ "uf": "MG",
+ "municipio": "Romaria",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Brasaoromaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Romaria",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e895049eff0c1a3245ce023f3f44dedeebb62739e3c7712e63172a4494ca4637",
+ "rendicoes": {
+  "png": {
+   "bytes": 35389,
+   "sha256": "023f87f8f05fc0a70d731e4cfcf9aaa711c3c5dc5021d7e5f5d08133bf6b5727",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7913,
+   "sha256": "a1658729adf648dad3ba3927d80ede83a54efa051989a507ce35b31ea59a0eba",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3156403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3156403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3156403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3156403.jpg",
+  "bytes": 5344,
+  "sha256": "e895049eff0c1a3245ce023f3f44dedeebb62739e3c7712e63172a4494ca4637"
+ },
+ "sha1_origem": "1acb1894cd0da70ac6b6cda440863b42b62b997b",
+ "bytes_origem": 5344,
+ "capturado_em": "2026-11-08T06:14:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoromaria.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "1acb1894cd0da70ac6b6cda440863b42b62b997b"
+ }
+}

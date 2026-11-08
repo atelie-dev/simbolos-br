@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3153905",
+ "uf": "MG",
+ "municipio": "Raposos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bandeira_raposos.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Raposos",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f6f0ad9b2ad26d86657ee3fd60db8db9ac2e56e5898ffbf04c74ea089160fcd9",
+ "rendicoes": {
+  "png": {
+   "bytes": 12252,
+   "sha256": "2c64fc4b95480d8e92dfce53cb2c60b71ecbee3b2038dd7be5a46a7a2baf8cc8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6562,
+   "sha256": "2b549ede362494fa300553a9dc608d2c1c38060eb4fe9de423917d1ac2419361",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3153905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3153905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3153905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3153905.png",
+  "bytes": 4839,
+  "sha256": "f6f0ad9b2ad26d86657ee3fd60db8db9ac2e56e5898ffbf04c74ea089160fcd9"
+ },
+ "sha1_origem": "58bf085fffeff992e692debada074c6c3a141141",
+ "bytes_origem": 4839,
+ "capturado_em": "2026-11-08T06:14:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_raposos.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "58bf085fffeff992e692debada074c6c3a141141"
+ }
+}

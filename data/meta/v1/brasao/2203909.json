@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2203909",
+ "uf": "PI",
+ "municipio": "Floriano",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bras%C3%A3o_de_Floriano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d266c3b2ca24ab41af34511a89f3a60c7fef2ce4414d0027e10a076981df66d8",
+ "rendicoes": {
+  "png": {
+   "bytes": 197635,
+   "sha256": "1d5a666fdfe4132c182eca04f7380d6e9634112826071f14e3d8c80b3559f0bb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58187,
+   "sha256": "f9c15cb9071d41bee5e459b9c8f33e671e8ce8d7e1e303439b4fef0a6224647a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2203909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2203909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2203909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2203909.jpg",
+  "bytes": 363557,
+  "sha256": "d266c3b2ca24ab41af34511a89f3a60c7fef2ce4414d0027e10a076981df66d8"
+ },
+ "sha1_origem": "0a17874cb0436d01cf1aba980fa72c4cd3bbe727",
+ "bytes_origem": 363557,
+ "capturado_em": "2026-11-08T05:30:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Floriano.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:02Z",
+  "estado": "igual",
+  "sha1_commons": "0a17874cb0436d01cf1aba980fa72c4cd3bbe727"
+ }
+}

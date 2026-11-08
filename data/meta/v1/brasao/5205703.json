@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5205703",
+ "uf": "GO",
+ "municipio": "Córrego do Ouro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bras%C3%A3o_de_C%C3%B3rrego_do_Ouro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Córrego do Ouro",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4c9f4289f4d90612592abddf08cafe8c3aa816ef6fa8db16dd7daa998c1a0183",
+ "rendicoes": {
+  "png": {
+   "bytes": 61232,
+   "sha256": "9dc9e7491630caa427a448a672905ffb61087bca038fbafcc4a0e8c383d16054",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13497,
+   "sha256": "af9f937bd8375506e0e813009c1f08b188cb199fafdd24dc44f783522d20f8f1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5205703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5205703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5205703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5205703.png",
+  "bytes": 51697,
+  "sha256": "4c9f4289f4d90612592abddf08cafe8c3aa816ef6fa8db16dd7daa998c1a0183"
+ },
+ "sha1_origem": "092f2261fa023fb70d13afeee83cfebce6889c2a",
+ "bytes_origem": 51697,
+ "capturado_em": "2026-11-08T07:17:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Córrego_do_Ouro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "092f2261fa023fb70d13afeee83cfebce6889c2a"
+ }
+}

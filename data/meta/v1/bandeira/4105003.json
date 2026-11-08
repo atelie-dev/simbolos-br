@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4105003",
+ "uf": "PR",
+ "municipio": "Catanduvas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bandeira_de_Catanduvas%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a1d618f2f95630fcbce72fe7f89bee070a711529107489e16b5207f362baa4e1",
+ "rendicoes": {
+  "png": {
+   "bytes": 111371,
+   "sha256": "d6905d96209972ae33315a4021b98cc4e3687e3bf9997444693566fe2bc53fd9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30302,
+   "sha256": "049fab2906c5375d9727ff707142f04d301132c21918b9e57ce83a11a99ca369",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4105003.jpg",
+  "bytes": 34991,
+  "sha256": "a1d618f2f95630fcbce72fe7f89bee070a711529107489e16b5207f362baa4e1"
+ },
+ "sha1_origem": "5412142c0645f7e93954a7968083b5ed3b5fcc84",
+ "bytes_origem": 34991,
+ "capturado_em": "2026-11-08T06:42:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Catanduvas,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "5412142c0645f7e93954a7968083b5ed3b5fcc84"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3549904",
+ "uf": "SP",
+ "municipio": "São José dos Campos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bandeira_de_S%C3%A3o_Jos%C3%A9_dos_Campos.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "FORTES",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "fc957a6938633215ba59bfa63bcec4a056bf8d9083a92dbdb133736bf5908133",
+ "rendicoes": {
+  "png": {
+   "bytes": 27243,
+   "sha256": "38b539f273e116bee1c8243fd438352d8b9b5ec48b38462cdfede68610bd3434",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25799,
+   "sha256": "b8c8eff67402c8682f88c3b4afa73813d3921cfc0b7e5a2c89ca628638d2ddf7",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 4226,
+   "sha256": "fc957a6938633215ba59bfa63bcec4a056bf8d9083a92dbdb133736bf5908133"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549904.jpg"
+ },
+ "sha1_origem": "cd739d1c8fa24e4bd9ce33dcdf022bdb754d78b7",
+ "bytes_origem": 4226,
+ "capturado_em": "2026-11-08T04:17:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_José_dos_Campos.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "cd739d1c8fa24e4bd9ce33dcdf022bdb754d78b7"
+ }
+}

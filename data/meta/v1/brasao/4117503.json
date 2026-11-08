@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4117503",
+ "uf": "PR",
+ "municipio": "Paiçandu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Brasaopaicandu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Paiçandu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5f6d2e48a3bc0b3da70e68c82d2e04acfd7c56a1a23bbd194b326e50f0d54bec",
+ "rendicoes": {
+  "png": {
+   "bytes": 78743,
+   "sha256": "c1e5f3e9b52ce4541c4daa6d8ea695fcd059ffe3c5d9bc665084ffaf769a129c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16715,
+   "sha256": "1a08ebf89875e2ae4880cc2dfd2eef091ba2e4713d3ff1e8b3c17525ff62b90f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4117503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4117503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4117503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4117503.jpg",
+  "bytes": 9623,
+  "sha256": "5f6d2e48a3bc0b3da70e68c82d2e04acfd7c56a1a23bbd194b326e50f0d54bec"
+ },
+ "sha1_origem": "9d9878ef0483f599bdfad0e8c78c802e75870c41",
+ "bytes_origem": 9623,
+ "capturado_em": "2026-11-08T06:47:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaopaicandu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "9d9878ef0483f599bdfad0e8c78c802e75870c41"
+ }
+}

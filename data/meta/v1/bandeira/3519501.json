@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3519501",
+ "uf": "SP",
+ "municipio": "Ibirarema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bandeira_de_Ibirarema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "72a8970f50c95bfc4bd8452a0fb17ab182791a8a8cf80baf9223d1c2710de6ec",
+ "rendicoes": {
+  "png": {
+   "bytes": 63471,
+   "sha256": "89cf2af27e54724891e968b136d0f10adb73ddbe817316209a3bed25aab9ac5d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19192,
+   "sha256": "0e2c23e51cd871f03f680a7ac412ec85481fe9d62fa46cf2aec251fc57503eeb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3519501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3519501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3519501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3519501.jpg",
+  "bytes": 23923,
+  "sha256": "72a8970f50c95bfc4bd8452a0fb17ab182791a8a8cf80baf9223d1c2710de6ec"
+ },
+ "sha1_origem": "d9808c0bb10a2d3e6d195f533cdde5dfd601f4a6",
+ "bytes_origem": 23923,
+ "capturado_em": "2026-11-08T06:28:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ibirarema.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "d9808c0bb10a2d3e6d195f533cdde5dfd601f4a6"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3515657",
+ "uf": "SP",
+ "municipio": "Fernão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bandeira_de_Fern%C3%A3o.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Fernão",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f45d0a9896bc9db0175b4660de143136551675cac5bc4bea73ce4f796d71078d",
+ "rendicoes": {
+  "png": {
+   "bytes": 31677,
+   "sha256": "5a00f82b81ae11eef7bf8f6e4f6e88e7be23e62b82edf26ccd1aa9beedfd6033",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17383,
+   "sha256": "590d31098cdf2421ae311aec83af3124473dcc7ab9a8bb5e148aaf75b3c0bb7a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515657.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515657.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515657.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3515657.png",
+  "bytes": 27295,
+  "sha256": "f45d0a9896bc9db0175b4660de143136551675cac5bc4bea73ce4f796d71078d"
+ },
+ "sha1_origem": "e85e16e8c48bdd9aec70def9adb8b7eda294848a",
+ "bytes_origem": 27295,
+ "capturado_em": "2026-11-08T06:27:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Fernão.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "e85e16e8c48bdd9aec70def9adb8b7eda294848a"
+ }
+}

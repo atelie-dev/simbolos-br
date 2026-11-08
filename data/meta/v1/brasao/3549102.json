@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3549102",
+ "uf": "SP",
+ "municipio": "São João da Boa Vista",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bras%C3%A3o_s%C3%A3o_jo%C3%A3o_da_boa_vista.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "3eddc1ee8a900cce50d20f7bb014436f9b0757f246c4f7e28d41108304818467",
+ "rendicoes": {
+  "png": {
+   "bytes": 50452,
+   "sha256": "b2a55940436f1a21c132c8374b22ef7d242f76dba9d1da0cfebbbe92b5a37947",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30033,
+   "sha256": "1b0cd1f910160ffdb621a2c1143b521c895c833ccb82aa147f89cd3f3c64d188",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3549102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3549102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3549102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3549102.gif",
+  "bytes": 16559,
+  "sha256": "3eddc1ee8a900cce50d20f7bb014436f9b0757f246c4f7e28d41108304818467"
+ },
+ "sha1_origem": "1b272268817202ba53832fcfb4ec6e12403ed933",
+ "bytes_origem": 16559,
+ "capturado_em": "2026-11-08T06:38:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_são_joão_da_boa_vista.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "1b272268817202ba53832fcfb4ec6e12403ed933"
+ }
+}

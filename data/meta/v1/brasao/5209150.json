@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5209150",
+ "uf": "GO",
+ "municipio": "Gouvelândia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bras%C3%A3o_de_Gouvel%C3%A2ndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Gouvelândia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d8129cde38714ff3fdfa120f0fc8e7b4645768d3c8f9c05d1ab398c878e97c3b",
+ "rendicoes": {
+  "png": {
+   "bytes": 295701,
+   "sha256": "906cec36c9ef8e42d15f2053f4113dd046a4fe39a51346e0cda70d436287817c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60392,
+   "sha256": "8d5c08896f038ff2b540a90e93f12cae2cdf9dfb4bd9514264f65bff0deed270",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5209150.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5209150.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5209150.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5209150.jpg",
+  "bytes": 135595,
+  "sha256": "d8129cde38714ff3fdfa120f0fc8e7b4645768d3c8f9c05d1ab398c878e97c3b"
+ },
+ "sha1_origem": "6b0a9f234ac16dd262f60d80aa789f2c0a58060f",
+ "bytes_origem": 135595,
+ "capturado_em": "2026-11-08T07:18:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Gouvelândia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:03Z",
+  "estado": "igual",
+  "sha1_commons": "6b0a9f234ac16dd262f60d80aa789f2c0a58060f"
+ }
+}

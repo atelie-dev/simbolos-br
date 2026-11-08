@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4214201",
+ "uf": "SC",
+ "municipio": "Quilombo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bandeira-quilombo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Quilombo City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "971f419dbcffaec1b9ae70c53d5066aa732583b0f40f92eb9dc9cc5e7a569fdd",
+ "rendicoes": {
+  "png": {
+   "bytes": 48889,
+   "sha256": "b62345251b120381e44533c4ca8046315968a96918a800331c59fa291a3b34ba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16568,
+   "sha256": "3490e19004067653c691e558e3f9ed79277f7b60af688571f71fc4e8e077256e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4214201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4214201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4214201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4214201.jpg",
+  "bytes": 12671,
+  "sha256": "971f419dbcffaec1b9ae70c53d5066aa732583b0f40f92eb9dc9cc5e7a569fdd"
+ },
+ "sha1_origem": "05e4d021436a2a0329aec24493dee132b198e4f0",
+ "bytes_origem": 12671,
+ "capturado_em": "2026-11-08T06:56:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-quilombo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "05e4d021436a2a0329aec24493dee132b198e4f0"
+ }
+}

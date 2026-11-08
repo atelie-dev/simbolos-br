@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2501203",
+ "uf": "PB",
+ "municipio": "Areial",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Brasao_areial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Areial",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "abe33aafe7613ffa8244ce652337a9916bfb491dff86f47b6144014e5cf27a7e",
+ "rendicoes": {
+  "png": {
+   "bytes": 111050,
+   "sha256": "32ced729d3c9296016d694608e17ca55a8dd6a8cd1f8483a1890bd002f3be6ce",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21120,
+   "sha256": "d92216b3e64ac31095ca9bc84221fc9c7e201a90bf05afc3ce637b921a5bc15a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2501203.jpg",
+  "bytes": 22356,
+  "sha256": "abe33aafe7613ffa8244ce652337a9916bfb491dff86f47b6144014e5cf27a7e"
+ },
+ "sha1_origem": "e2921e787adc60453ce689bf9b969bb92bee6039",
+ "bytes_origem": 22356,
+ "capturado_em": "2026-11-08T05:39:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_areial.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:36Z",
+  "estado": "igual",
+  "sha1_commons": "e2921e787adc60453ce689bf9b969bb92bee6039"
+ }
+}

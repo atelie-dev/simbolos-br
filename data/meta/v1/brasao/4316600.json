@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4316600",
+ "uf": "RS",
+ "municipio": "Sananduva",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bras%C3%A3o_de_Sananduva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Sananduva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "77a5f88b296b3f3f176e094d6483ef2566fa141d5d7f7df148951d319292b2c6",
+ "rendicoes": {
+  "png": {
+   "bytes": 378110,
+   "sha256": "1ee3e878f2deba8600ab1a0373cb988dd91f86dbc6d067498db4593c73a6c47b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63759,
+   "sha256": "f506389fe42a66eebe7fa773574a090ebc565930cb2718b3568aa7843359d6bb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4316600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4316600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4316600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4316600.jpg",
+  "bytes": 121898,
+  "sha256": "77a5f88b296b3f3f176e094d6483ef2566fa141d5d7f7df148951d319292b2c6"
+ },
+ "sha1_origem": "49efd1f3477d5a82f31f2faaf62db31cc1c107f0",
+ "bytes_origem": 121898,
+ "capturado_em": "2026-11-08T07:08:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Sananduva.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "49efd1f3477d5a82f31f2faaf62db31cc1c107f0"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4208500",
+ "uf": "SC",
+ "municipio": "Ituporanga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bandeira_do_munic%C3%ADpio_de_Ituporanga_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ituporanga (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "04f19fda49b7d8cec6e69681c9590365316e74b101b7938f0e67651b2179947d",
+ "rendicoes": {
+  "png": {
+   "bytes": 49489,
+   "sha256": "33a27ad05066ce09f64b020c04365c21a34467fa4fad8271dd8940e1eeaa36c5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20410,
+   "sha256": "736df852b82fc6dd5311f51d994d08ecb73a5c880ecf526b1d81b592cd4aa224",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 29915,
+   "sha256": "04f19fda49b7d8cec6e69681c9590365316e74b101b7938f0e67651b2179947d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208500.jpg"
+ },
+ "sha1_origem": "c3b44b6b9550728d89ad0b07abef87b8cdbe10e0",
+ "bytes_origem": 29915,
+ "capturado_em": "2026-11-08T04:40:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Ituporanga_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:19Z",
+  "estado": "igual",
+  "sha1_commons": "c3b44b6b9550728d89ad0b07abef87b8cdbe10e0"
+ }
+}

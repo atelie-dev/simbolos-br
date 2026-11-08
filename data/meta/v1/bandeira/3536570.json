@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3536570",
+ "uf": "SP",
+ "municipio": "Paulistânia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bandeira_Paulist%C3%A2nia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0c62ec86a0cb2d834f0c2b69353a51d85e795b35bb9a53d305cde101eeebe8c8",
+ "rendicoes": {
+  "png": {
+   "bytes": 28279,
+   "sha256": "468cb38c7b0dd704a501ee43e4036d7fde54a4d801355b3115b16fead292bc50",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15108,
+   "sha256": "dfd70d81a28d323e3da2be701bd5b45f863ff40f0e9b9f0e14be9762dd4ebfa0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3536570.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3536570.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3536570.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3536570.png",
+  "bytes": 25133,
+  "sha256": "0c62ec86a0cb2d834f0c2b69353a51d85e795b35bb9a53d305cde101eeebe8c8"
+ },
+ "sha1_origem": "cd42c2fdf1a2c76aa8461e4fb1526ac271489477",
+ "bytes_origem": 25133,
+ "capturado_em": "2026-11-08T06:34:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Paulistânia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "cd42c2fdf1a2c76aa8461e4fb1526ac271489477"
+ }
+}

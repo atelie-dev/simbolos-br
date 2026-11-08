@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5006002",
+ "uf": "MS",
+ "municipio": "Nova Alvorada do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bandeira_de_Nova_Alvorada_do_Sul%2C_MS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Temp1980",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "23b54348cb1d2d192db0e62ecafd4a7024db86a4dc61fd32af98ac74c4e3ded6",
+ "rendicoes": {
+  "png": {
+   "bytes": 44825,
+   "sha256": "fd58d7c518ce73f5f14e186836aa2030ff0a525d01a4336c290e5881f8f758eb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20431,
+   "sha256": "52addeeebbd88b7273beb8c8b8c32a79053a5e8b4bc7a5c1379d5fa997fb21c5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5006002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5006002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5006002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5006002.png",
+  "bytes": 20928,
+  "sha256": "23b54348cb1d2d192db0e62ecafd4a7024db86a4dc61fd32af98ac74c4e3ded6"
+ },
+ "sha1_origem": "a99a39aeaf3fe6372a6fb62558950e3049c83a62",
+ "bytes_origem": 20928,
+ "capturado_em": "2026-11-08T07:13:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nova_Alvorada_do_Sul,_MS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "a99a39aeaf3fe6372a6fb62558950e3049c83a62"
+ }
+}

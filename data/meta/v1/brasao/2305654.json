@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2305654",
+ "uf": "CE",
+ "municipio": "Ipaporanga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bras%C3%A3o_de_Ipaporanga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ipaporanga",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b5dcdd24e6443cf030b1213e330aace5ef6f9264a52312ff642147c4c35490f3",
+ "rendicoes": {
+  "png": {
+   "bytes": 251908,
+   "sha256": "c711be69f78145fcaf35c24dfd4af9a7c30ba5508f4e3f486a54c8bdc91c01bb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47656,
+   "sha256": "f6c0370537caf5844aec1fb685dbf21aae0bebb2ded79243cd53fb93705eec2a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2305654.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2305654.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2305654.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2305654.jpg",
+  "bytes": 3811097,
+  "sha256": "b5dcdd24e6443cf030b1213e330aace5ef6f9264a52312ff642147c4c35490f3"
+ },
+ "sha1_origem": "a7a3b8608a0e2182d7395fc4577b09bdb0d848b1",
+ "bytes_origem": 3811097,
+ "capturado_em": "2026-11-08T05:33:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Ipaporanga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "a7a3b8608a0e2182d7395fc4577b09bdb0d848b1"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1302108",
+ "uf": "AM",
+ "municipio": "Japurá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Japur%C3%A1_-_bras%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Japurá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d8b440d36ea19dfd4f840bc257b03060badb8baa3813cfda2225109aed5643a2",
+ "rendicoes": {
+  "png": {
+   "bytes": 185618,
+   "sha256": "a0fb839c92c2d9647c793263171bedad47bc1bd04a3aeaefdcbbafd16f6bbeae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34838,
+   "sha256": "03e05812717fd3472043484d2c5999b8ab4bb338503eec054b16de78287dca9a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1302108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1302108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1302108.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1302108.jpg",
+  "bytes": 169705,
+  "sha256": "d8b440d36ea19dfd4f840bc257b03060badb8baa3813cfda2225109aed5643a2"
+ },
+ "sha1_origem": "5b554cb48d488cfae5be67539bebdcccc14627d3",
+ "bytes_origem": 169705,
+ "capturado_em": "2026-11-08T05:23:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Japurá_-_brasão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "5b554cb48d488cfae5be67539bebdcccc14627d3"
+ }
+}

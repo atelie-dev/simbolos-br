@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5108402",
+ "uf": "MT",
+ "municipio": "Várzea Grande",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bras%C3%A3o_de_V%C3%A1rzea_Grande_MT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Várzea Grande MT",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3da2a7b6ef2dc61961c431b07d13c48950f60a237cec5de45b8401940f0aa828",
+ "rendicoes": {
+  "png": {
+   "bytes": 39757,
+   "sha256": "447f2beb8ab3fc503ed86cc59059ca01982c8d802f1b2bc232efb2290cc06449",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9412,
+   "sha256": "7526125ecb640adeacf09938866e36ef3e79305c6baa129b44b668b343122f32",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5108402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5108402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5108402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5108402.jpg",
+  "bytes": 6433,
+  "sha256": "3da2a7b6ef2dc61961c431b07d13c48950f60a237cec5de45b8401940f0aa828"
+ },
+ "sha1_origem": "65fbb428cf9b1bc1c02346f8db8a2c4d9dbd04cd",
+ "bytes_origem": 6433,
+ "capturado_em": "2026-11-08T07:16:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Várzea_Grande_MT.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "65fbb428cf9b1bc1c02346f8db8a2c4d9dbd04cd"
+ }
+}

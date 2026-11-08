@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3543253",
+ "uf": "SP",
+ "municipio": "Ribeirão Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/BandeiraRibeiraoGrandeSP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ribeirão Grande",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9145f2e1001833ff927abf2c527f574b06d441c881605019b4521e557f8db0ce",
+ "rendicoes": {
+  "png": {
+   "bytes": 49866,
+   "sha256": "a4545545d16fcb249f72bfbf942026d9de00bd1f64ea075e876212734b927f9c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18990,
+   "sha256": "35d664fc63a281b43911a05bafd00b1e7432aab86228c26a1fb07a4ed323886f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543253.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543253.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543253.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3543253.png",
+  "bytes": 191910,
+  "sha256": "9145f2e1001833ff927abf2c527f574b06d441c881605019b4521e557f8db0ce"
+ },
+ "sha1_origem": "b82308d4ab7b3ccbfc35f4cc2ba93bf08bea2151",
+ "bytes_origem": 191910,
+ "capturado_em": "2026-11-08T06:36:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraRibeiraoGrandeSP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "b82308d4ab7b3ccbfc35f4cc2ba93bf08bea2151"
+ }
+}

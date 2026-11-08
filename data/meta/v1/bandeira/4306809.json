@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4306809",
+ "uf": "RS",
+ "municipio": "Encantado",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_Encantado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Town of Encantado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7cd1db89b67fd7c078b004fd8e4171257ee7c9bfba59bc4678535e29305d6efe",
+ "rendicoes": {
+  "png": {
+   "bytes": 41246,
+   "sha256": "6a808d3403b0cad6917e037ece5c8ca34a007ec863a8194947878bb1228b184f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19168,
+   "sha256": "1b6e9fb80400ec93365b9bbf58146d35ac70cad5e6fddd808fc693b01930b961",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4306809.jpg",
+  "bytes": 1182713,
+  "sha256": "7cd1db89b67fd7c078b004fd8e4171257ee7c9bfba59bc4678535e29305d6efe"
+ },
+ "sha1_origem": "4d143293a95f1c45463528f6982d9683a8d3a808",
+ "bytes_origem": 1182713,
+ "capturado_em": "2026-11-08T07:02:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Encantado.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "4d143293a95f1c45463528f6982d9683a8d3a808"
+ }
+}

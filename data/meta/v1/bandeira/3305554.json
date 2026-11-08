@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3305554",
+ "uf": "RJ",
+ "municipio": "Seropédica",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandeira-seropedica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a844fb1251b766d96af35bdb75bc301d59cfb4ab03726963f11a4ff72d743d60",
+ "rendicoes": {
+  "png": {
+   "bytes": 45762,
+   "sha256": "b0cd7383bb67ad668b4b64384069d7e8755ab2296746e71687d6008dd7155925",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13278,
+   "sha256": "92b38c0b6071a782dc8c2b97b9747b8419cdca6e8a122c2a691dc2c8ec1d0ecf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305554.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305554.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305554.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3305554.jpg",
+  "bytes": 8456,
+  "sha256": "a844fb1251b766d96af35bdb75bc301d59cfb4ab03726963f11a4ff72d743d60"
+ },
+ "sha1_origem": "530c25503979818f244a29e3172e888d02284acd",
+ "bytes_origem": 8456,
+ "capturado_em": "2026-11-08T06:22:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-seropedica.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "530c25503979818f244a29e3172e888d02284acd"
+ }
+}

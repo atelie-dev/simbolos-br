@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3550605",
+ "uf": "SP",
+ "municipio": "São Roque",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Brasaosroquesp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Não Informado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ab69f8602d5f4d7bf296e2887359f28d6ef9e37c52ced102cdc4c19dba4b55b4",
+ "rendicoes": {
+  "png": {
+   "bytes": 90333,
+   "sha256": "5ec42d803b45519f279d3b0ab6f5099a965f118ffac2d5990c6bcdf6af12e999",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19169,
+   "sha256": "8c48ae67a6641baa8fc968cffbd4c65fa5f1e41a58d118a198d35900ea16597a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3550605.jpg",
+  "bytes": 21086,
+  "sha256": "ab69f8602d5f4d7bf296e2887359f28d6ef9e37c52ced102cdc4c19dba4b55b4"
+ },
+ "sha1_origem": "4e1ede4f0dbdbd74afc83f7ca732ee6d7911a5fd",
+ "bytes_origem": 21086,
+ "capturado_em": "2026-11-08T06:38:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaosroquesp.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "4e1ede4f0dbdbd74afc83f7ca732ee6d7911a5fd"
+ }
+}

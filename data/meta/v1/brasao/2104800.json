@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2104800",
+ "uf": "MA",
+ "municipio": "Grajaú",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Brasao_grajau_ma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c04ae7d5d5ce4d64650cd3d55614e95c2be1706b3f70b7c09e3cd9215f41b59c",
+ "rendicoes": {
+  "png": {
+   "bytes": 102439,
+   "sha256": "5e524819635df4ad846c0be7dd67b9f9179afb7ad8dae2df11aa1f535234047f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19993,
+   "sha256": "18c41650bb2c366afc6894815417e43f814b41f3eaea7bcff817162c21c3b59b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2104800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2104800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2104800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2104800.jpg",
+  "bytes": 14192,
+  "sha256": "c04ae7d5d5ce4d64650cd3d55614e95c2be1706b3f70b7c09e3cd9215f41b59c"
+ },
+ "sha1_origem": "7144b63b4051a8f6046591c4f0de3e1d04b713be",
+ "bytes_origem": 14192,
+ "capturado_em": "2026-11-08T05:28:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_grajau_ma.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "7144b63b4051a8f6046591c4f0de3e1d04b713be"
+ }
+}

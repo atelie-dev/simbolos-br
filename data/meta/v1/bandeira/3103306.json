@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3103306",
+ "uf": "MG",
+ "municipio": "Aracitaba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Flag_of_Aracitaba_-_MG_-_Brazil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7900f4b6bc1e4a45234be90787e5d13ecdb6ec1cce099ad7ea6160c88e4511fa",
+ "rendicoes": {
+  "png": {
+   "bytes": 61499,
+   "sha256": "f784f1eb1ed2a391016ff6e8cf1842c75fa887341a3d1387ba8d0ce68bab87e9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23970,
+   "sha256": "41e6db14aac9e62dc7185852b8578e596ed4da083d2755250eb84e26a1000f19",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3103306.png",
+  "bytes": 15856,
+  "sha256": "7900f4b6bc1e4a45234be90787e5d13ecdb6ec1cce099ad7ea6160c88e4511fa"
+ },
+ "sha1_origem": "7b57db648ee72be1094f2b1d95be3985980e97c7",
+ "bytes_origem": 15856,
+ "capturado_em": "2026-11-08T05:59:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Aracitaba_-_MG_-_Brazil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "7b57db648ee72be1094f2b1d95be3985980e97c7"
+ }
+}

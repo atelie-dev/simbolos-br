@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4111803",
+ "uf": "PR",
+ "municipio": "Jacarezinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bras%C3%A3o_de_Jacarezinho_153.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camara Municipal de Jacarezinho",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "19c8dd6a97fe314a305912601b67feaef206b82dfc110a6d123b8df587b9c2f3",
+ "rendicoes": {
+  "png": {
+   "bytes": 79111,
+   "sha256": "026c8a3161a8a41474786641b7f4293fe912cc65135d130a2066251da86aab57",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43673,
+   "sha256": "b827f327d0b4b777970f1634b67641bada2b51420233cdb56403dbe5d236c55f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4111803.png",
+  "bytes": 54663,
+  "sha256": "19c8dd6a97fe314a305912601b67feaef206b82dfc110a6d123b8df587b9c2f3"
+ },
+ "sha1_origem": "7d16e8a561857cc276cfd6d323585335190893a5",
+ "bytes_origem": 54663,
+ "capturado_em": "2026-11-08T06:45:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Jacarezinho_153.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "7d16e8a561857cc276cfd6d323585335190893a5"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3501400",
+ "uf": "SP",
+ "municipio": "Álvaro de Carvalho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/%C3%81lvaro_de_Carvalho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dac0b8edd2de027f5b5db1d6f5cf0d504907bc167578996a13d3145f0f60bb7f",
+ "rendicoes": {
+  "png": {
+   "bytes": 58107,
+   "sha256": "ba873174401f5fa3b5549be74c496c0c774c9673355c2d72d8409467f2a27b27",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11393,
+   "sha256": "df40fab95548a94f0641f75ea0e6cc90f8b4ecdd36bb6fe1ea324b1295b16ec4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3501400.jpg",
+  "bytes": 12492,
+  "sha256": "dac0b8edd2de027f5b5db1d6f5cf0d504907bc167578996a13d3145f0f60bb7f"
+ },
+ "sha1_origem": "664dfa994f2b6c25adad1568a3ab1386d869d7a8",
+ "bytes_origem": 12492,
+ "capturado_em": "2026-11-08T06:23:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Álvaro_de_Carvalho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "664dfa994f2b6c25adad1568a3ab1386d869d7a8"
+ }
+}

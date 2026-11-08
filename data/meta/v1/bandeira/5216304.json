@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5216304",
+ "uf": "GO",
+ "municipio": "Paranaiguara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bandeiraparanaiguara.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Isadora",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f17a076fe6ae4aef32ae6820276e2d93888d024a1eff3e1e81f3cdd5f61c2ca6",
+ "rendicoes": {
+  "png": {
+   "bytes": 18677,
+   "sha256": "b00f01ca61015f8988daf9cba73faaaef6d12711af6b74cf70c350301c6dd41a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18043,
+   "sha256": "69120de8a1913119a23c5ac34ced5eab4844c3fe7bde7008523ebd990a9c670b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5216304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5216304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5216304.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5216304.png",
+  "bytes": 10830,
+  "sha256": "f17a076fe6ae4aef32ae6820276e2d93888d024a1eff3e1e81f3cdd5f61c2ca6"
+ },
+ "sha1_origem": "a9a808ff22a064cd3c03fb68a7785279b3351ace",
+ "bytes_origem": 10830,
+ "capturado_em": "2026-11-08T07:19:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraparanaiguara.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "a9a808ff22a064cd3c03fb68a7785279b3351ace"
+ }
+}

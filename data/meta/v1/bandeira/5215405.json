@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5215405",
+ "uf": "GO",
+ "municipio": "Ouro Verde de Goiás",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bandeira_OuroVerdedeGoias.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ouro Verde de Goiás",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7ce3a78db8437cfb9a046729d79196dec26affc0ca8c3715ca0fd4e1e5e28563",
+ "rendicoes": {
+  "png": {
+   "bytes": 11158,
+   "sha256": "3a5cf326ea38524ca6a553a95048f10dff7091fcae4c8eaebbfdb59db2573a46",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4669,
+   "sha256": "e2e77f80809bbf42e0bac50e0d73281746619d995bc6040f3937113474b9dc3b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5215405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5215405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5215405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5215405.jpg",
+  "bytes": 27006,
+  "sha256": "7ce3a78db8437cfb9a046729d79196dec26affc0ca8c3715ca0fd4e1e5e28563"
+ },
+ "sha1_origem": "662cd27b67a5d938993d774b7ce6d0af668a9217",
+ "bytes_origem": 27006,
+ "capturado_em": "2026-11-08T07:19:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_OuroVerdedeGoias.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "662cd27b67a5d938993d774b7ce6d0af668a9217"
+ }
+}

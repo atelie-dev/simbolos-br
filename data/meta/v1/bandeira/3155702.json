@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3155702",
+ "uf": "MG",
+ "municipio": "Rio Piracicaba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bandeira_rio_piracicaba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Rio Piracicaba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b714d19022ef96657a80e878574f481620237b70ceada95ace52cad83627c15e",
+ "rendicoes": {
+  "png": {
+   "bytes": 172877,
+   "sha256": "d9d16e3664d87758c08c69a766c97eb6a1f29a3f5cabfbd9152615d371825bb4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24535,
+   "sha256": "8e7da15ad6d2e421cb91af66d88749e66fd1212a2194ea63c29bc60fc6c90827",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3155702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3155702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3155702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3155702.jpg",
+  "bytes": 31952,
+  "sha256": "b714d19022ef96657a80e878574f481620237b70ceada95ace52cad83627c15e"
+ },
+ "sha1_origem": "e283174897d20213a460c85c85bfe0d87c938b8a",
+ "bytes_origem": 31952,
+ "capturado_em": "2026-11-08T06:14:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_rio_piracicaba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "e283174897d20213a460c85c85bfe0d87c938b8a"
+ }
+}

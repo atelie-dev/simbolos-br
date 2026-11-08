@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2506301",
+ "uf": "PB",
+ "municipio": "Guarabira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bandeiraguarabira.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Guarabira",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9b78f00397a1d21a40b17a3fa5b53dfd0e80ef69a0d2e9889f1fb3109a41bcd9",
+ "rendicoes": {
+  "png": {
+   "bytes": 42471,
+   "sha256": "666a9d55b8410838f6b44e886f8b87b8f9980643f027df385a8e9c12c4646288",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21387,
+   "sha256": "e9b906823b23259cc7afec82fb1c33e2525a61a72b7e5127b32fa0d1574e55d7",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 6093,
+   "sha256": "9b78f00397a1d21a40b17a3fa5b53dfd0e80ef69a0d2e9889f1fb3109a41bcd9"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2506301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2506301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2506301.jpg"
+ },
+ "sha1_origem": "e380bc0212aaf43ebe70d90d938878da7f2f705f",
+ "bytes_origem": 6093,
+ "capturado_em": "2026-11-08T02:58:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraguarabira.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "e380bc0212aaf43ebe70d90d938878da7f2f705f"
+ }
+}

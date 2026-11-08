@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3201605",
+ "uf": "ES",
+ "municipio": "Conceição da Barra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bras%C3%A3o_de_Concei%C3%A7%C3%A3o_da_Barra_-_ES.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "adf50a9ce199d61f273ada717155290532e5dbe48dd8cc1a0322719ff2122009",
+ "rendicoes": {
+  "png": {
+   "bytes": 127767,
+   "sha256": "c16cfbe3f696262ab6114fe37020b2882e0206239e9b32ef41728962173b2693",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43139,
+   "sha256": "96bd73894342d7577edbefcdaff9e4d4c9c7c83a50a566fa41271791dc122817",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 113346,
+   "sha256": "adf50a9ce199d61f273ada717155290532e5dbe48dd8cc1a0322719ff2122009"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3201605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3201605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3201605.jpg"
+ },
+ "sha1_origem": "705fa1af6d5d11d9c2243133721436a026e8543a",
+ "bytes_origem": 113346,
+ "capturado_em": "2026-11-08T03:51:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Conceição_da_Barra_-_ES.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "705fa1af6d5d11d9c2243133721436a026e8543a"
+ }
+}

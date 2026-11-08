@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3135407",
+ "uf": "MG",
+ "municipio": "Jeceaba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Brasaojeceaba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Jeceaba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bfd12c7644dd827c320a5a06f8caa6b88e665dafae66ee7e3c148c39839db4c1",
+ "rendicoes": {
+  "png": {
+   "bytes": 52001,
+   "sha256": "71490bcd834f5eb60542d3710615772a1a975c16d36841064af1959fe32ddb80",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10710,
+   "sha256": "def59673be778a4ebf98bb79c9692b87176774bcb16e45f8164dfeb7f2c60129",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3135407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3135407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3135407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3135407.jpg",
+  "bytes": 10545,
+  "sha256": "bfd12c7644dd827c320a5a06f8caa6b88e665dafae66ee7e3c148c39839db4c1"
+ },
+ "sha1_origem": "33d9616f65b09ba1e52c2e5b4fc925d920262e2b",
+ "bytes_origem": 10545,
+ "capturado_em": "2026-11-08T06:10:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaojeceaba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "33d9616f65b09ba1e52c2e5b4fc925d920262e2b"
+ }
+}

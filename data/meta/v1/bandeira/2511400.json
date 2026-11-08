@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2511400",
+ "uf": "PB",
+ "municipio": "Picuí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Bandeira_Municipio_Picui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Picuí",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8c490f78556e72fbd7e1e38bade4be7dbe8db225d91479fc982384def339d88c",
+ "rendicoes": {
+  "png": {
+   "bytes": 48228,
+   "sha256": "cda473bd5109bffbfa6017420a0530cd6a87d9e10137ad77f49786a58cc716b9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15586,
+   "sha256": "30f2a2c813ca95396702c5e5f6d66020ad785ee04a639ed80eb6b06fab5d6056",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2511400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2511400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2511400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2511400.jpg",
+  "bytes": 28162,
+  "sha256": "8c490f78556e72fbd7e1e38bade4be7dbe8db225d91479fc982384def339d88c"
+ },
+ "sha1_origem": "a8adb81b3bf241bf3bde3a43363871df9353019d",
+ "bytes_origem": 28162,
+ "capturado_em": "2026-11-08T05:42:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Municipio_Picui.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "a8adb81b3bf241bf3bde3a43363871df9353019d"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4315750",
+ "uf": "RS",
+ "municipio": "Riozinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bandeira_Riozinho.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Riozinho.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "17419dad89682ca51407c1909bdad0279854fa5f6d83c842452b119418dfa3e3",
+ "rendicoes": {
+  "png": {
+   "bytes": 12721,
+   "sha256": "c07471a0ef87fb32e04ceb0207a5dbd74fdc8aad6e765e450bfa5c78f8dc3c38",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12818,
+   "sha256": "1a1a5879ce141d4c42933d2e8c1cf1e165b7e3ee4e6a34dcb491697bab62f147",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315750.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315750.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315750.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4315750.png",
+  "bytes": 5483,
+  "sha256": "17419dad89682ca51407c1909bdad0279854fa5f6d83c842452b119418dfa3e3"
+ },
+ "sha1_origem": "5a1de28f784ef30267dac9dce89b44549f417fb0",
+ "bytes_origem": 5483,
+ "capturado_em": "2026-11-08T07:08:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Riozinho.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "5a1de28f784ef30267dac9dce89b44549f417fb0"
+ }
+}

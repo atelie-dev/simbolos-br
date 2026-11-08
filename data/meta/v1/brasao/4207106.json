@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4207106",
+ "uf": "SC",
+ "municipio": "Ilhota",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bras%C3%A3o_do_munic%C3%ADpio_de_Ilhota_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ilhota (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a130b417d63cb0255d2646933f4fbfea23fc51a2bd3f7ed7fdaddeaac5eb96ef",
+ "rendicoes": {
+  "png": {
+   "bytes": 169690,
+   "sha256": "66c426e54faadf9bf35c646e20f2448805a233ffbdd7a47d00acdf81be3a6f6b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54447,
+   "sha256": "9d940eb19fb9c63c5c01c3147ca68d15e147b10f6756472781b72ff1ba1bcc1e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4207106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4207106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4207106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4207106.png",
+  "bytes": 1141815,
+  "sha256": "a130b417d63cb0255d2646933f4fbfea23fc51a2bd3f7ed7fdaddeaac5eb96ef"
+ },
+ "sha1_origem": "be38d8cc606ea434155ef7911dad4d2163bfc9e0",
+ "bytes_origem": 1141815,
+ "capturado_em": "2026-11-08T06:53:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Ilhota_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "be38d8cc606ea434155ef7911dad4d2163bfc9e0"
+ }
+}

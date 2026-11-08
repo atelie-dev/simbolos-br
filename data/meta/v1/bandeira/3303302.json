@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3303302",
+ "uf": "RJ",
+ "municipio": "Niterói",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Niter%C3%B3i.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Guilherme Paula",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "bc72d68fee210cf605bdcb4b7c21dd6a6cfb8c8380d1c3e9f85e4d65ceaf67c8",
+ "rendicoes": {
+  "png": {
+   "bytes": 32534,
+   "sha256": "609f0278081902286a8368d05997de49e2137ba189d9ebe47dd087429fe66174",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15441,
+   "sha256": "11be9a6a07ee74773242b3d99bcad75055675ff4e5e8c7cdd651ac9b8c9246e1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 215314,
+   "sha256": "bc72d68fee210cf605bdcb4b7c21dd6a6cfb8c8380d1c3e9f85e4d65ceaf67c8"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303302.jpg"
+ },
+ "sha1_origem": "35671fc9734616348e3df9cbdd6f428f0d05b5e0",
+ "bytes_origem": 215314,
+ "capturado_em": "2026-11-08T03:55:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Niterói.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "35671fc9734616348e3df9cbdd6f428f0d05b5e0"
+ }
+}

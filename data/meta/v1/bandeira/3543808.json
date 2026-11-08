@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3543808",
+ "uf": "SP",
+ "municipio": "Rinópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bandeira_Rin%C3%B3polis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bb21cabbe38e6fb6b9889fd773606f48bcb02fd90148e8fa72fd62062270339d",
+ "rendicoes": {
+  "png": {
+   "bytes": 5054,
+   "sha256": "d644ba01c6a04ab8ca238eb2d49309e0392c95f9ea7d64d16c1f51a76554e220",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17574,
+   "sha256": "a88e45dd4ffda7cf715aca5ddd96048f44607a2f977098813cc7d273afa3a703",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3543808.png",
+  "bytes": 3751,
+  "sha256": "bb21cabbe38e6fb6b9889fd773606f48bcb02fd90148e8fa72fd62062270339d"
+ },
+ "sha1_origem": "dc1628b083977524f8a8a31fe843261a80c6b679",
+ "bytes_origem": 3751,
+ "capturado_em": "2026-11-08T06:36:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Rinópolis.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "dc1628b083977524f8a8a31fe843261a80c6b679"
+ }
+}

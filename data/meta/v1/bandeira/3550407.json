@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3550407",
+ "uf": "SP",
+ "municipio": "São Pedro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bandeira-saopedrosp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "São Pedro City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5fa9faf5e5ae8a9ddb9248f688af4c734bdbf35c6de8b9e818999d0ecb8309f5",
+ "rendicoes": {
+  "png": {
+   "bytes": 186791,
+   "sha256": "18db3ecf85ea492e8d97790336ff5a1d0635db757b4539409ab002480c112e7a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45956,
+   "sha256": "f73ea758a6cd40acfa18e8a4b4bdaf1b1fb5669f5be671d4217b5c2055847587",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3550407.png",
+  "bytes": 65781,
+  "sha256": "5fa9faf5e5ae8a9ddb9248f688af4c734bdbf35c6de8b9e818999d0ecb8309f5"
+ },
+ "sha1_origem": "810209317f9bd5cb739e408600fd326b162794ce",
+ "bytes_origem": 65781,
+ "capturado_em": "2026-11-08T06:38:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-saopedrosp.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "810209317f9bd5cb739e408600fd326b162794ce"
+ }
+}

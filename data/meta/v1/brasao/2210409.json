@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2210409",
+ "uf": "PI",
+ "municipio": "São Miguel do Tapuio",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bras%C3%A3o_de_S%C3%A3o_Miguel_do_Tapuio_Piau%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b5f73a354fbc33401d19c6bba4055d74b450663b0578a2a7a9debfd8e1a5d69a",
+ "rendicoes": {
+  "png": {
+   "bytes": 182926,
+   "sha256": "7170e94517e045aedf0e49bebc1c5a784f46f2c6568eb8aa939a4b7c2e68e933",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36028,
+   "sha256": "39ad3b91fab52ba899c75401c08c63508a9d37cd6aa7a6a4ef6e467d51a270f1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2210409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2210409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2210409.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2210409.jpg",
+  "bytes": 366702,
+  "sha256": "b5f73a354fbc33401d19c6bba4055d74b450663b0578a2a7a9debfd8e1a5d69a"
+ },
+ "sha1_origem": "ddaf288a401e2ada2773f1a2ecf86fe6f90cb197",
+ "bytes_origem": 366702,
+ "capturado_em": "2026-11-08T05:31:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_Miguel_do_Tapuio_Piauí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:13Z",
+  "estado": "igual",
+  "sha1_commons": "ddaf288a401e2ada2773f1a2ecf86fe6f90cb197"
+ }
+}

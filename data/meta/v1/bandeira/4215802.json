@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4215802",
+ "uf": "SC",
+ "municipio": "São Bento do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bandeira_Sao_Bento_do_Sul.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c28abb5c700c45cbd8c2c7f48c56d9ba010b0c8b19c397b114809a49dd8191c6",
+ "rendicoes": {
+  "png": {
+   "bytes": 55040,
+   "sha256": "d84b92cbe5f07377fcb42b1e66cab6d00b79c01fdcb8d2f0c35dcaa05ee3fd48",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19069,
+   "sha256": "99d95e868ff052fb32745c9133185fd628be7a16b2f195a979ea0ca5600d2309",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215802.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4215802.png",
+  "bytes": 46931,
+  "sha256": "c28abb5c700c45cbd8c2c7f48c56d9ba010b0c8b19c397b114809a49dd8191c6"
+ },
+ "sha1_origem": "da2efb11d073fc94dcc48bdbba8ebb9617654283",
+ "bytes_origem": 46931,
+ "capturado_em": "2026-11-08T06:56:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Sao_Bento_do_Sul.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "da2efb11d073fc94dcc48bdbba8ebb9617654283"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4318606",
+ "uf": "RS",
+ "municipio": "São José do Ouro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Bandeira_SJO.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Osimar Luiz Biscaro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cd853630b8ea8eb7f161fe8ec1d2d2068bed0d2bfdc50541662418eeb76457f6",
+ "rendicoes": {
+  "png": {
+   "bytes": 91863,
+   "sha256": "845da6f2c8185e69bf83ffbe168f6cfd41dbb6ac144eb3102eb375a33b096cb8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21632,
+   "sha256": "771944d578f1f84a6857d401fd69792f15764fcdeb7228a6fbd3c168b394a56b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318606.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4318606.jpg",
+  "bytes": 37929,
+  "sha256": "cd853630b8ea8eb7f161fe8ec1d2d2068bed0d2bfdc50541662418eeb76457f6"
+ },
+ "sha1_origem": "211c4b81f3fdccce69dc06c55e18f36b411d91b1",
+ "bytes_origem": 37929,
+ "capturado_em": "2026-11-08T07:09:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_SJO.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "211c4b81f3fdccce69dc06c55e18f36b411d91b1"
+ }
+}

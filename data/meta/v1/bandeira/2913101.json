@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2913101",
+ "uf": "BA",
+ "municipio": "Ibititá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bandeira_de_Ibitit%C3%A1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ibititá",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "61fed0bc66c4e4c285ab309639ac19e2a3f74cebb230daf9bf7d943ed5ea805e",
+ "rendicoes": {
+  "png": {
+   "bytes": 100127,
+   "sha256": "0efe107e7fd0936e914d0d258fe0722dbc429ffb9cba61ba1c950f34cb17dd9d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20553,
+   "sha256": "3810a41982f2b445bfd209cea6570b40101ea5b1b477a0d19e9481594dd52b88",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2913101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2913101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2913101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2913101.png",
+  "bytes": 118867,
+  "sha256": "61fed0bc66c4e4c285ab309639ac19e2a3f74cebb230daf9bf7d943ed5ea805e"
+ },
+ "sha1_origem": "e1c3399cf2273d5431d88d6dbb56f8437133b537",
+ "bytes_origem": 118867,
+ "capturado_em": "2026-11-08T05:53:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ibititá.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "e1c3399cf2273d5431d88d6dbb56f8437133b537"
+ }
+}

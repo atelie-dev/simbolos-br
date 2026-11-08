@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3501905",
+ "uf": "SP",
+ "municipio": "Amparo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bras%C3%A3o_de_Amparo_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Amparo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "aa341fdcbd7830a4e17728be0e82f2a8ac40a0a991cfcfb5d91694f3e6233022",
+ "rendicoes": {
+  "png": {
+   "bytes": 168791,
+   "sha256": "3ae9ea95ea17fc1f20f4ccf4fc1224070477806162ac06ee37fced936017c81f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53116,
+   "sha256": "f66a751878bce80d3f9408d7d1b4e6b95a1519b58e5f887767cc611457b4a036",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 134232,
+   "sha256": "aa341fdcbd7830a4e17728be0e82f2a8ac40a0a991cfcfb5d91694f3e6233022"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501905.jpg"
+ },
+ "sha1_origem": "803c5d3d0366f7c500ca3a52da3666691166907e",
+ "bytes_origem": 134232,
+ "capturado_em": "2026-11-08T03:57:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Amparo_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "803c5d3d0366f7c500ca3a52da3666691166907e"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3145901",
+ "uf": "MG",
+ "municipio": "Ouro Branco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bandeira_Ouro_Branco_%28MG%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municpal de Ouro Branco",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ff25ebeb4232b8efe1385023410a04710d65615b20c9f6b6074d274ed18529f5",
+ "rendicoes": {
+  "png": {
+   "bytes": 116498,
+   "sha256": "b4b9c9b6aaf6d64f8cd1ce6899e8282ca1e91826ca3578abdf34028d07b23c7c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27767,
+   "sha256": "554f1c1a160f109c69bedd8429cd882408729b8a2b7608eef9ac52c7fe67acac",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3145901.jpg",
+  "bytes": 16315,
+  "sha256": "ff25ebeb4232b8efe1385023410a04710d65615b20c9f6b6074d274ed18529f5"
+ },
+ "sha1_origem": "0a61db0e6183fb3f0151a50a9994fd539e1e567d",
+ "bytes_origem": 16315,
+ "capturado_em": "2026-11-08T06:12:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Ouro_Branco_(MG).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "0a61db0e6183fb3f0151a50a9994fd539e1e567d"
+ }
+}

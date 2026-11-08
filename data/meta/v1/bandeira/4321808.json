@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321808",
+ "uf": "RS",
+ "municipio": "Três de Maio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bandeira-tresdemaio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Três de Maio City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "37d88d97a163aa7e7d45e6de3cb5f7b2cd500715209a5816abda38ff42464c34",
+ "rendicoes": {
+  "png": {
+   "bytes": 4901,
+   "sha256": "8ad6174b367da49345ddafe8c9ff5a73deb679467ac088e92b3cb4ddd3fbd0d2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7509,
+   "sha256": "c22766d8c025fc80b01c4567c33af7a53a69f4036f0f6d78ef19d2883e2b9eff",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4321808.png",
+  "bytes": 3623,
+  "sha256": "37d88d97a163aa7e7d45e6de3cb5f7b2cd500715209a5816abda38ff42464c34"
+ },
+ "sha1_origem": "16de93e8fa16b2a177b6ffce07f81d8c91d1df7d",
+ "bytes_origem": 3623,
+ "capturado_em": "2026-11-08T07:11:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-tresdemaio.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "16de93e8fa16b2a177b6ffce07f81d8c91d1df7d"
+ }
+}

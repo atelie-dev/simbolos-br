@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4201901",
+ "uf": "SC",
+ "municipio": "Aurora",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bras%C3%A3o_do_munic%C3%ADpio_de_Aurora_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Aurora (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ae529dfbd1b904db1fd93822c7c11146b5102b4d5fed572ebc71ad4a9e3fc6d6",
+ "rendicoes": {
+  "png": {
+   "bytes": 145071,
+   "sha256": "938538aa24c59eb04a4338751111d71b2177f21b9011fb99d5c2796229693c08",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 51192,
+   "sha256": "446cd13a7dd596c5d379e8a96d8b8947a627627cf77d3a8ee29ade0ac884382b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 830132,
+   "sha256": "ae529dfbd1b904db1fd93822c7c11146b5102b4d5fed572ebc71ad4a9e3fc6d6"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4201901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4201901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4201901.jpg"
+ },
+ "sha1_origem": "b4fd1535aba9b86e8b88335710b20a202efebf3d",
+ "bytes_origem": 830132,
+ "capturado_em": "2026-11-08T04:36:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Aurora_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:16Z",
+  "estado": "igual",
+  "sha1_commons": "b4fd1535aba9b86e8b88335710b20a202efebf3d"
+ }
+}

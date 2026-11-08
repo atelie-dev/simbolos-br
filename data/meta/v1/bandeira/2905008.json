@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2905008",
+ "uf": "BA",
+ "municipio": "Caculé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bandeira_cacule.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "177d49e9240a14ed9768600b052bb4e06f8cbc5afdf48f95c75c0f6eb2f5d283",
+ "rendicoes": {
+  "png": {
+   "bytes": 55240,
+   "sha256": "4bfe25319712beb0babbdb377110c3202b5bcac33c2706efd7e03e235bd962bf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13869,
+   "sha256": "11651a6b3c5a9c4bb8c382b38ab48d7781b9b4a2da0a98f24afae13111135626",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2905008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2905008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2905008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2905008.jpg",
+  "bytes": 13783,
+  "sha256": "177d49e9240a14ed9768600b052bb4e06f8cbc5afdf48f95c75c0f6eb2f5d283"
+ },
+ "sha1_origem": "72e36ed77f93f2a3e3ba1fbd97a9a2602dca1b99",
+ "bytes_origem": 13783,
+ "capturado_em": "2026-11-08T05:51:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_cacule.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "72e36ed77f93f2a3e3ba1fbd97a9a2602dca1b99"
+ }
+}

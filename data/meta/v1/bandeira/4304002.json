@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4304002",
+ "uf": "RS",
+ "municipio": "Campo Novo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bandeira_Campo_Novo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ea70326f8ee730a49176536c06f2684e080dbc38373e807949f813a874548bc0",
+ "rendicoes": {
+  "png": {
+   "bytes": 62502,
+   "sha256": "b79d405ad5171960104b2c86ad34d42710a02980b131161383e8318e0def2e34",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19123,
+   "sha256": "87cb8fc5bad0084bdfe0c8a391950fe68d4ca694e5efb7cd7789e21b675f43a5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4304002.jpg",
+  "bytes": 186499,
+  "sha256": "ea70326f8ee730a49176536c06f2684e080dbc38373e807949f813a874548bc0"
+ },
+ "sha1_origem": "e6eec6b0ad24c20094cc2fef558fafdfb2c279cc",
+ "bytes_origem": 186499,
+ "capturado_em": "2026-11-08T07:00:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Campo_Novo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "e6eec6b0ad24c20094cc2fef558fafdfb2c279cc"
+ }
+}

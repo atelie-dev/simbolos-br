@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211504",
+ "uf": "SC",
+ "municipio": "Nova Trento",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/59/BrasaoNovaTrento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nova Trento.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a63a3a2f1e411af6ee35e1415cdfa901e86792395bcb1201f535129105eeacbf",
+ "rendicoes": {
+  "png": {
+   "bytes": 185752,
+   "sha256": "a25b3e8294c4ec6c7a28e334034f052bcf367a078dfcbf6eeb1e60f492138ce9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34053,
+   "sha256": "136f54bbea51a7689249ff1886cfd3cc6d63a246996864ca679b77a30e023e0c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4211504.jpg",
+  "bytes": 24941,
+  "sha256": "a63a3a2f1e411af6ee35e1415cdfa901e86792395bcb1201f535129105eeacbf"
+ },
+ "sha1_origem": "33b40ff0f0ecb2a56ddc8664f73493ba7bba0753",
+ "bytes_origem": 24941,
+ "capturado_em": "2026-11-08T06:55:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoNovaTrento.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "33b40ff0f0ecb2a56ddc8664f73493ba7bba0753"
+ }
+}

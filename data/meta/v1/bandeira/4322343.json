@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4322343",
+ "uf": "RS",
+ "municipio": "Ubiretama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ubiretamarsbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ubiretama",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8b6718bedc67921dc9f3a27b9cde4db921ac71a40fee2b6d04f11e7898dca34b",
+ "rendicoes": {
+  "png": {
+   "bytes": 82895,
+   "sha256": "d7ba3ad2893253227578d8d0a4e7e594e6ac738244639ccf1327242e4cf948e4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19210,
+   "sha256": "6cd931498b83bb5b6117f508e75fb96d639163ce2fab46ebe0a49f11695b33ae",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4322343.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4322343.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4322343.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4322343.jpg",
+  "bytes": 14384,
+  "sha256": "8b6718bedc67921dc9f3a27b9cde4db921ac71a40fee2b6d04f11e7898dca34b"
+ },
+ "sha1_origem": "e29040691e8d2302bfacbb1d3c4530cbc52103f6",
+ "bytes_origem": 14384,
+ "capturado_em": "2026-11-08T07:11:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ubiretamarsbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "e29040691e8d2302bfacbb1d3c4530cbc52103f6"
+ }
+}

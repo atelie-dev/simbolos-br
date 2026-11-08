@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2205565",
+ "uf": "PI",
+ "municipio": "Lagoa do Barro do Piauí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bandeira_Lagoa_de_Barro_do_PI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Lagoa do Barro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cbc672236716f180c1b06376774061d410fa9a2e74893d0abcafee5ee66a9f5d",
+ "rendicoes": {
+  "png": {
+   "bytes": 13037,
+   "sha256": "e9f9c5ec39cb4a9f93da64b957321b04fdf1843b311ec38a01cd40737248e366",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10606,
+   "sha256": "2101f1537eb9a47e2f3070f80c55687d2984d147f8c716a8dc0991748ba29b2b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2205565.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2205565.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2205565.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2205565.jpg",
+  "bytes": 87056,
+  "sha256": "cbc672236716f180c1b06376774061d410fa9a2e74893d0abcafee5ee66a9f5d"
+ },
+ "sha1_origem": "43b78b4e90bbe1c3b82d699ee4ca979d0c6473a4",
+ "bytes_origem": 87056,
+ "capturado_em": "2026-11-08T05:30:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Lagoa_de_Barro_do_PI.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "43b78b4e90bbe1c3b82d699ee4ca979d0c6473a4"
+ }
+}

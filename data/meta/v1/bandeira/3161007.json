@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3161007",
+ "uf": "MG",
+ "municipio": "São Domingos do Prata",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bandeira-saodomingosdoprata-mg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMSDP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c4417023f779e5ca1d7f2e4406b64f7a551bcf76c005ae878765e418bbf44ec0",
+ "rendicoes": {
+  "png": {
+   "bytes": 7009,
+   "sha256": "7d71236a57f829ac530615a3e8460fce8467cb849c89838646ada7fc22236277",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5763,
+   "sha256": "55dd3cae8381c1cc7de31b48370ceeb68639146ad2d6e5055dd6435861fa4fb3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3161007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3161007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3161007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3161007.jpg",
+  "bytes": 3799,
+  "sha256": "c4417023f779e5ca1d7f2e4406b64f7a551bcf76c005ae878765e418bbf44ec0"
+ },
+ "sha1_origem": "81af71e1d17ff3b7855e66e0271fa01853dc36da",
+ "bytes_origem": 3799,
+ "capturado_em": "2026-11-08T06:15:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-saodomingosdoprata-mg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "81af71e1d17ff3b7855e66e0271fa01853dc36da"
+ }
+}

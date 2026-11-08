@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2303808",
+ "uf": "CE",
+ "municipio": "Cedro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bandeiracedroce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cedro City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e850bd75621ccd02e23e98f490ed941e89dc13a7a2978fcc5b2e87ae6e178ca4",
+ "rendicoes": {
+  "png": {
+   "bytes": 70392,
+   "sha256": "bfdbe1adebd85136d6dad161b7a85180808bc796b690bc4eff435092a2058289",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21954,
+   "sha256": "fb7b0cde1f260ae45106ec4f6f88aeb66ba78de9dc7cac76f594c1866bdebbc7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2303808.jpg",
+  "bytes": 18600,
+  "sha256": "e850bd75621ccd02e23e98f490ed941e89dc13a7a2978fcc5b2e87ae6e178ca4"
+ },
+ "sha1_origem": "caae143c0d13b411d2f562d351110d319d87a44b",
+ "bytes_origem": 18600,
+ "capturado_em": "2026-11-08T05:32:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiracedroce.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "caae143c0d13b411d2f562d351110d319d87a44b"
+ }
+}

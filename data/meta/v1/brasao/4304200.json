@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4304200",
+ "uf": "RS",
+ "municipio": "Candelária",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bras%C3%A3o_Candel%C3%A1ria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Candelária",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "99e19de1cc99aa5798b78b6f9f001294a5efcb54797d406238ad056b0cfad6a1",
+ "rendicoes": {
+  "png": {
+   "bytes": 135955,
+   "sha256": "0eb7cbcea5ded7b5336f0092cd03b902619a3e7ee0ecbc26ae01ccc546be77bc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31250,
+   "sha256": "fe7c4c2cbae35349b0fdddaaf7ccb3ab5bade253d84a8723141a6527a4e5f2f7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4304200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4304200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4304200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4304200.jpg",
+  "bytes": 45065,
+  "sha256": "99e19de1cc99aa5798b78b6f9f001294a5efcb54797d406238ad056b0cfad6a1"
+ },
+ "sha1_origem": "982f8f7735c4e67267a1c67735e86c137fc58234",
+ "bytes_origem": 45065,
+ "capturado_em": "2026-11-08T07:00:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Candelária.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:47Z",
+  "estado": "igual",
+  "sha1_commons": "982f8f7735c4e67267a1c67735e86c137fc58234"
+ }
+}

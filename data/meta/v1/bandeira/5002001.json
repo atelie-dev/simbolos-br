@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5002001",
+ "uf": "MS",
+ "municipio": "Batayporã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bandeira-bataipor%C3%A3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Batayporã City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c8ca3096f42ec80072467567d49b9b4ddccfc769791ff2e3654781cf6d03f94a",
+ "rendicoes": {
+  "png": {
+   "bytes": 12649,
+   "sha256": "aab7c403495473e8717fb1ff0fbe8b6acb032c6fc1def2cb4499a143157a2a16",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5946,
+   "sha256": "16240a52512db52f85399bf0810dc5fff02c660d1381734772cc16b7a7cb6211",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5002001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5002001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5002001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5002001.jpg",
+  "bytes": 29443,
+  "sha256": "c8ca3096f42ec80072467567d49b9b4ddccfc769791ff2e3654781cf6d03f94a"
+ },
+ "sha1_origem": "31849eb8c70f671b15e4a913914b7c2473353b23",
+ "bytes_origem": 29443,
+ "capturado_em": "2026-11-08T07:12:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-bataiporã.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "31849eb8c70f671b15e4a913914b7c2473353b23"
+ }
+}

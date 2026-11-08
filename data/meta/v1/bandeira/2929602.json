@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2929602",
+ "uf": "BA",
+ "municipio": "Sapeaçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bandeira_de_Sapea%C3%A7u_-_BA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c447269b80bde09ccaec2c6700ed732c0f03632467e6346ad1e8291ae59a90f1",
+ "rendicoes": {
+  "png": {
+   "bytes": 53739,
+   "sha256": "64faa466437b51c7e6122023c053f4555678722321802c3f8fce78deb99d9692",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19759,
+   "sha256": "cd07501d6c13568a7ea66f64ec1ffb895309fbbde3a7f9f39fcc042b73e27271",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 221631,
+   "sha256": "c447269b80bde09ccaec2c6700ed732c0f03632467e6346ad1e8291ae59a90f1"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2929602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2929602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2929602.jpg"
+ },
+ "sha1_origem": "a5600c70e15e4f0c15e5426056e870b8f8cb3bcb",
+ "bytes_origem": 221631,
+ "capturado_em": "2026-11-08T03:23:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Sapeaçu_-_BA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "a5600c70e15e4f0c15e5426056e870b8f8cb3bcb"
+ }
+}

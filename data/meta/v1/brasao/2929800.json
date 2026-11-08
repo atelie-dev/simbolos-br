@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2929800",
+ "uf": "BA",
+ "municipio": "Saúde",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bras%C3%A3o_de_Sa%C3%BAde.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "90c7d71c697f5885247fc8f6088f9701f7b6764fc41008f4ca441619c615916b",
+ "rendicoes": {
+  "png": {
+   "bytes": 98301,
+   "sha256": "a1a25d0b59c82ee915ba3fd36da942ce303b912505db9c4f88b96a6c90077e69",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18191,
+   "sha256": "7d12b840c7bde6633aa4ca173f22425a7113ab0444a461bf78a42984a57edd78",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2929800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2929800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2929800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2929800.png",
+  "bytes": 100115,
+  "sha256": "90c7d71c697f5885247fc8f6088f9701f7b6764fc41008f4ca441619c615916b"
+ },
+ "sha1_origem": "26e49f25b282656aef04b3a4a754b49720321268",
+ "bytes_origem": 100115,
+ "capturado_em": "2026-11-08T05:57:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Saúde.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "26e49f25b282656aef04b3a4a754b49720321268"
+ }
+}

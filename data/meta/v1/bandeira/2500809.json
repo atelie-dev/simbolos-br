@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2500809",
+ "uf": "PB",
+ "municipio": "Araçagi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bandeira_de_Ara%C3%A7agi-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b569729e53dbcf3ba24a4c0a7f0f72c759670153861edb023f039befe3a63784",
+ "rendicoes": {
+  "png": {
+   "bytes": 38809,
+   "sha256": "61f0e5adfb85d4c2eb4bcf17cb8f8512cbae5b719f2554665d204ebd18605172",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21617,
+   "sha256": "77d395a369c71d7122cb73f6c8111bbc665c28c0e760508120eb05c4c818e0ca",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 12469,
+   "sha256": "b569729e53dbcf3ba24a4c0a7f0f72c759670153861edb023f039befe3a63784"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500809.jpg"
+ },
+ "sha1_origem": "0a6b89b0d388d9df7797ec7607c77d6e6adc5f00",
+ "bytes_origem": 12469,
+ "capturado_em": "2026-11-08T02:55:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Araçagi-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "0a6b89b0d388d9df7797ec7607c77d6e6adc5f00"
+ }
+}

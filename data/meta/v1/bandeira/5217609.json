@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5217609",
+ "uf": "GO",
+ "municipio": "Planaltina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bandeira_de_Planaltina_%28GO%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Planaltina, GO",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a38c3925af725aed6278a4b0641808efc6910f356ed193afb10d777d4e00a62d",
+ "rendicoes": {
+  "png": {
+   "bytes": 109358,
+   "sha256": "9bebf4cfcb2b34f839eda86984c4b472340dbca0261b46821659a991d9fcefb5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28993,
+   "sha256": "7bfca524ed70346ff7dd2d66ce0ebe98dc4eda457664eb4b40586347c598bdb5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5217609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5217609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5217609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5217609.jpg",
+  "bytes": 48764,
+  "sha256": "a38c3925af725aed6278a4b0641808efc6910f356ed193afb10d777d4e00a62d"
+ },
+ "sha1_origem": "c67821969b8357d0fec9c6459a373ca9977f9bd7",
+ "bytes_origem": 48764,
+ "capturado_em": "2026-11-08T07:19:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Planaltina_(GO).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "c67821969b8357d0fec9c6459a373ca9977f9bd7"
+ }
+}

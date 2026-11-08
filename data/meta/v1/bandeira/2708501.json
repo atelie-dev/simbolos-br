@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2708501",
+ "uf": "AL",
+ "municipio": "São Luís do Quitunde",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bandeira_de_S%C3%A3o_Luiz_do_Quitunde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Luís do Quitunde",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c04dd2d02af617707c40f83112c6697243e6a39753f5a716d258b88caea6137a",
+ "rendicoes": {
+  "png": {
+   "bytes": 62500,
+   "sha256": "b356a0795ea727b3412c1f5e2b0fae907b18bcd51309da622d65c92dc67190f9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23549,
+   "sha256": "8542c5dc0393ed37ee3fd8922b98d04f18eaafb4d6ad96c66dd9ab33d2d1c1da",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2708501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2708501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2708501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2708501.jpg",
+  "bytes": 111853,
+  "sha256": "c04dd2d02af617707c40f83112c6697243e6a39753f5a716d258b88caea6137a"
+ },
+ "sha1_origem": "01b759ce3528a03d2b6f7bd43196452b5c820951",
+ "bytes_origem": 111853,
+ "capturado_em": "2026-11-08T05:49:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Luiz_do_Quitunde.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "01b759ce3528a03d2b6f7bd43196452b5c820951"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2408003",
+ "uf": "RN",
+ "municipio": "Mossoró",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Coat_of_arms_of_Mossor%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Mossoró",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "96043adb92a9978c9069e3987986da5d94eb17a0760d37addc3e911297a4cd00",
+ "rendicoes": {
+  "png": {
+   "bytes": 147483,
+   "sha256": "bbd70da35a3925ac4dc0f02d8e0076425f728e2f1b34615b40fce1bf10f2e013",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42422,
+   "sha256": "4a7012edabce9be504a2a14a968060bef32ba477420b263c67b33f3b2b359313",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2408003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2408003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2408003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2408003.jpg",
+  "bytes": 278116,
+  "sha256": "96043adb92a9978c9069e3987986da5d94eb17a0760d37addc3e911297a4cd00"
+ },
+ "sha1_origem": "f83065b364acc29003223e88abbbc21ed5908423",
+ "bytes_origem": 278116,
+ "capturado_em": "2026-11-08T05:37:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Coat_of_arms_of_Mossoró.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:23Z",
+  "estado": "igual",
+  "sha1_commons": "f83065b364acc29003223e88abbbc21ed5908423"
+ }
+}

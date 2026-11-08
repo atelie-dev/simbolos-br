@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2930303",
+ "uf": "BA",
+ "municipio": "Serra Dourada",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Serra_Dourada_-BA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Serra Dourada",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c6e9458994211e705f9ac9650ff34a8ff16e99d0752cc302a0e9749490a67096",
+ "rendicoes": {
+  "png": {
+   "bytes": 51194,
+   "sha256": "5a85305d0c47755cdfe454ad1734ad53ffb6529ffcf43bf32d95a489d14b5d12",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11602,
+   "sha256": "ea1f433c1d574983893c2b353864d5c71a7a3c9ce430cadedcc89ee51fe760a0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2930303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2930303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2930303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2930303.jpg",
+  "bytes": 7722,
+  "sha256": "c6e9458994211e705f9ac9650ff34a8ff16e99d0752cc302a0e9749490a67096"
+ },
+ "sha1_origem": "747c00a06ac89b993530d2f86439eda7377c6799",
+ "bytes_origem": 7722,
+ "capturado_em": "2026-11-08T05:57:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Serra_Dourada_-BA.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:37Z",
+  "estado": "igual",
+  "sha1_commons": "747c00a06ac89b993530d2f86439eda7377c6799"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3147006",
+ "uf": "MG",
+ "municipio": "Paracatu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bras%C3%A3o_de_Paracatu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Paracatu, MG",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "35eb5cdf113bdab24f1d336e0569fcfc39e74983107b13e9bf2dd5533455e0dd",
+ "rendicoes": {
+  "png": {
+   "bytes": 119798,
+   "sha256": "f3ef87ffdc096c15426ea8a86cc02a0fb7250630160edbaea3cb7ad0915bc1e9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23842,
+   "sha256": "6287c89d376ab3383b018ddb868d546075324b410fec0c711adfa06a5910cd2c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3147006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3147006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3147006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3147006.jpg",
+  "bytes": 16657,
+  "sha256": "35eb5cdf113bdab24f1d336e0569fcfc39e74983107b13e9bf2dd5533455e0dd"
+ },
+ "sha1_origem": "6e93df7cdb3cdf73aff90b262c7410b4b0affec0",
+ "bytes_origem": 16657,
+ "capturado_em": "2026-11-08T06:12:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Paracatu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "6e93df7cdb3cdf73aff90b262c7410b4b0affec0"
+ }
+}

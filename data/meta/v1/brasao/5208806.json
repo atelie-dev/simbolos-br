@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5208806",
+ "uf": "GO",
+ "municipio": "Goianira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bras%C3%A3o_de_Goianira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Goianira",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a841352e8d4fadd8fe505ac2d61ed866e43f2e5b79e1ad5bc8402ae202803b5f",
+ "rendicoes": {
+  "png": {
+   "bytes": 265957,
+   "sha256": "dd482dfc8fdf42d8c1c73e7b38e1025092a225f216b5bacc453f74bf7090cc8c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56586,
+   "sha256": "57be8fc06f2f0cab84dc0450abb7eb4885ce4b1dc01ee890ea3cb3943c7a8f9d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5208806.png",
+  "bytes": 466376,
+  "sha256": "a841352e8d4fadd8fe505ac2d61ed866e43f2e5b79e1ad5bc8402ae202803b5f"
+ },
+ "sha1_origem": "853ded76b0fa2e5c9cd4b5854c3100a92a006e66",
+ "bytes_origem": 466376,
+ "capturado_em": "2026-11-08T07:18:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Goianira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:03Z",
+  "estado": "igual",
+  "sha1_commons": "853ded76b0fa2e5c9cd4b5854c3100a92a006e66"
+ }
+}

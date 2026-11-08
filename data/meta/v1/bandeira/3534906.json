@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3534906",
+ "uf": "SP",
+ "municipio": "Pacaembu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bandeira_Pacaembu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fba3014d25aaddc048860a9f0e516d40af6973494e345e7494dd32ef23ac52dd",
+ "rendicoes": {
+  "png": {
+   "bytes": 32706,
+   "sha256": "2247739a04df9758ffaaf9adcc62278c4feccc2190a5b9a9c2ed695f5e0051e0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16359,
+   "sha256": "cddd44b46b43eb9952ce2d247ce761920187ac9315f17402216d6e3c6aee138e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534906.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534906.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534906.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3534906.png",
+  "bytes": 27651,
+  "sha256": "fba3014d25aaddc048860a9f0e516d40af6973494e345e7494dd32ef23ac52dd"
+ },
+ "sha1_origem": "ca7f6796fc36121e4f252c2a1251614154e74bb7",
+ "bytes_origem": 27651,
+ "capturado_em": "2026-11-08T06:33:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Pacaembu.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "ca7f6796fc36121e4f252c2a1251614154e74bb7"
+ }
+}

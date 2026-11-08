@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2102804",
+ "uf": "MA",
+ "municipio": "Carolina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bandeira_carolina.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Brazilian government",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1da2f359a284ebd5eeef1d817724a61c928eeb62477204ae758b3a38168cc72f",
+ "rendicoes": {
+  "png": {
+   "bytes": 13991,
+   "sha256": "cda118535527ded6bd944505121de06ad2484d8d26c0abac5f3bd3d23affa475",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6851,
+   "sha256": "4df562a8c92e2cbd61d6b80a9ec23df81e3948302cec982447b72939c493e43b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2102804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2102804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2102804.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2102804.png",
+  "bytes": 11866,
+  "sha256": "1da2f359a284ebd5eeef1d817724a61c928eeb62477204ae758b3a38168cc72f"
+ },
+ "sha1_origem": "d50d7e37460138b378292e29d7984b4aac4055ae",
+ "bytes_origem": 11866,
+ "capturado_em": "2026-11-08T05:27:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_carolina.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "d50d7e37460138b378292e29d7984b4aac4055ae"
+ }
+}

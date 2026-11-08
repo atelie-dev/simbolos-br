@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4202503",
+ "uf": "SC",
+ "municipio": "Bom Jardim da Serra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bandeira_BomJardimdaSerra_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Bom Jardim da Serra",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b88846dda707845831a494939997d45869347e5d7720d49a3ed82d935dc399de",
+ "rendicoes": {
+  "png": {
+   "bytes": 16438,
+   "sha256": "9026ed6417e010734427333cb28f0d3eba5451bac0b2df3ba67d682c4827b3ef",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5505,
+   "sha256": "a1154db0c1a8fe13792d41a98f12c3368d223004ca369a2acb89a83c0dc89efd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4202503.jpg",
+  "bytes": 2810,
+  "sha256": "b88846dda707845831a494939997d45869347e5d7720d49a3ed82d935dc399de"
+ },
+ "sha1_origem": "f8ff0351dc5f57d1256f2aa5d52df23ccdf460c6",
+ "bytes_origem": 2810,
+ "capturado_em": "2026-11-08T06:52:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_BomJardimdaSerra_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "f8ff0351dc5f57d1256f2aa5d52df23ccdf460c6"
+ }
+}

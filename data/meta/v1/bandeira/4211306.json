@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211306",
+ "uf": "SC",
+ "municipio": "Navegantes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bandeira_navegantes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fdcb68406504e54fd8f86cb9eca21605ca73b086e6b163b827d4b2834d78a8a8",
+ "rendicoes": {
+  "png": {
+   "bytes": 81486,
+   "sha256": "d643462143bca1952091b5d33fa55c730409e8492cdd3bbb46c55be98298174d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22606,
+   "sha256": "7e520b970f0337fa363c4d26e30c2cd1cdfaa844ede360a42a5bd79922623eeb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4211306.jpg",
+  "bytes": 174023,
+  "sha256": "fdcb68406504e54fd8f86cb9eca21605ca73b086e6b163b827d4b2834d78a8a8"
+ },
+ "sha1_origem": "73bc448b70e2f8d6abbaad978109efddb24b9c68",
+ "bytes_origem": 174023,
+ "capturado_em": "2026-11-08T06:55:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_navegantes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:22Z",
+  "estado": "igual",
+  "sha1_commons": "73bc448b70e2f8d6abbaad978109efddb24b9c68"
+ }
+}

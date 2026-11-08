@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5219209",
+ "uf": "GO",
+ "municipio": "Santa Cruz de Goiás",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bandeira_Santa_Cruz_de_Goi%C3%A1s-GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Santa Cruz de Goiás.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "82d4a73bdb893b771f42b07c82f31640ea1a3f8e39676510746660851da06e7e",
+ "rendicoes": {
+  "png": {
+   "bytes": 48719,
+   "sha256": "dbcbb443bc709f55ec92bfc340d7ab53bd5c99b11344ae9b7c50e06ff580b004",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12988,
+   "sha256": "207a7428e4441231309e141c07c12d8c90513eedd513a3a68055cefa6cac982a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5219209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5219209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5219209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5219209.jpg",
+  "bytes": 9081,
+  "sha256": "82d4a73bdb893b771f42b07c82f31640ea1a3f8e39676510746660851da06e7e"
+ },
+ "sha1_origem": "6239f4bc7c833ad532825060811c05b1c61e08fe",
+ "bytes_origem": 9081,
+ "capturado_em": "2026-11-08T07:20:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Santa_Cruz_de_Goiás-GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "6239f4bc7c833ad532825060811c05b1c61e08fe"
+ }
+}

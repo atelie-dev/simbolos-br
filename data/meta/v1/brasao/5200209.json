@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5200209",
+ "uf": "GO",
+ "municipio": "Água Limpa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bras%C3%A3o_de_%C3%81gua_Limpa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Água Limpa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a2f74a714cf935eaef04bc97506984b2da6faaa44db80296f88f42df9cb7458b",
+ "rendicoes": {
+  "png": {
+   "bytes": 74352,
+   "sha256": "b3e305a23e0655c294b952b34004f83d25adc9401fd3328c7819ddc0bc7b068c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16830,
+   "sha256": "eee45a7b76f76891204b7d14c4361b26bc23dbcb3e66706700b1c795059f588c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5200209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5200209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5200209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5200209.jpg",
+  "bytes": 18948,
+  "sha256": "a2f74a714cf935eaef04bc97506984b2da6faaa44db80296f88f42df9cb7458b"
+ },
+ "sha1_origem": "73cb34a8526e662fd6e0c049f57d094256d597f2",
+ "bytes_origem": 18948,
+ "capturado_em": "2026-11-08T07:16:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Água_Limpa.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:15Z",
+  "estado": "igual",
+  "sha1_commons": "73cb34a8526e662fd6e0c049f57d094256d597f2"
+ }
+}

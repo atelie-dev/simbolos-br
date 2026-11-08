@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3112406",
+ "uf": "MG",
+ "municipio": "Capetinga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Capetingamgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Capetinga",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "141dd543daf7fcc7f27ee2be0b79c1282e12e57e4967b287405f54080a5a79dd",
+ "rendicoes": {
+  "png": {
+   "bytes": 27039,
+   "sha256": "0b5c3a258889c6e385f231a49fe313545857fdcb525df9da60c523eed4046ff9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10298,
+   "sha256": "735859a8b8406c459fa373e2f8260d7241532f8caa4c563523f62e9031f91909",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3112406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3112406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3112406.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3112406.jpg",
+  "bytes": 11219,
+  "sha256": "141dd543daf7fcc7f27ee2be0b79c1282e12e57e4967b287405f54080a5a79dd"
+ },
+ "sha1_origem": "c324d02351889c1836fff1352e24fcf9e7c90ae5",
+ "bytes_origem": 11219,
+ "capturado_em": "2026-11-08T06:02:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Capetingamgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "c324d02351889c1836fff1352e24fcf9e7c90ae5"
+ }
+}

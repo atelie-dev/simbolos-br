@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4313086",
+ "uf": "RS",
+ "municipio": "Nova Pádua",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Brasaonp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Nova Pádua.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "510992beb6ab1a244747fb9583a1b7e5deedd8e633fc8566ac51250081a745b4",
+ "rendicoes": {
+  "png": {
+   "bytes": 217594,
+   "sha256": "53e09d91b548db872dd8e5b7c2a2a1f05b4ac7b4c36c2b200537c222d8e90d9d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45655,
+   "sha256": "33c270c64e245105ecaef837f7b8eaac5bedb60228492d0963bc65f6c361cfe9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313086.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313086.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313086.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4313086.jpg",
+  "bytes": 98052,
+  "sha256": "510992beb6ab1a244747fb9583a1b7e5deedd8e633fc8566ac51250081a745b4"
+ },
+ "sha1_origem": "d03fa43f928abc24d0182e2ed4b92ec2decfb99c",
+ "bytes_origem": 98052,
+ "capturado_em": "2026-11-08T07:06:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaonp.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "d03fa43f928abc24d0182e2ed4b92ec2decfb99c"
+ }
+}

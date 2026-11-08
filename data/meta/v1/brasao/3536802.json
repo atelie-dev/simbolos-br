@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3536802",
+ "uf": "SP",
+ "municipio": "Pedra Bela",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bras%C3%A3o_Pedra_Bela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "137d614493abb1c07c1b65d41a39d53d70b7559448fd5530ec2a96f45eb01b85",
+ "rendicoes": {
+  "png": {
+   "bytes": 28144,
+   "sha256": "5dbd6f6bb7e2c4d34b20c699ce0bfaf5ef77b07a57aa17f6a9ef372fd0bf0c01",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7519,
+   "sha256": "f1149377a06b64b115d108c203a92ad18090073c35cc1e858ee6e5ab1862b0c7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536802.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3536802.jpg",
+  "bytes": 22635,
+  "sha256": "137d614493abb1c07c1b65d41a39d53d70b7559448fd5530ec2a96f45eb01b85"
+ },
+ "sha1_origem": "180fca012a308463fdd1ef1fb94ec95bcacbc67f",
+ "bytes_origem": 22635,
+ "capturado_em": "2026-11-08T06:34:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Pedra_Bela.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "180fca012a308463fdd1ef1fb94ec95bcacbc67f"
+ }
+}

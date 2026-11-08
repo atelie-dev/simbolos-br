@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4203501",
+ "uf": "SC",
+ "municipio": "Campo Erê",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Brasao_CampoEre_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Campo Erê",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3d774f1795c091b51d51fe6994e1650673969121d007117d0fc7f84f1949aa70",
+ "rendicoes": {
+  "png": {
+   "bytes": 32765,
+   "sha256": "ac9dcc80f66d6e0025204660a84bf262d3f49245406db02a9c13bfdbaccca188",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8728,
+   "sha256": "a7b50619e8a69297179f91e7e9ba042b14adc9b8ca0ac6e2c4ab9f619ce2eb6e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4203501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4203501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4203501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4203501.jpg",
+  "bytes": 5670,
+  "sha256": "3d774f1795c091b51d51fe6994e1650673969121d007117d0fc7f84f1949aa70"
+ },
+ "sha1_origem": "2e85854c5334394428db4287d39620fdad4311d4",
+ "bytes_origem": 5670,
+ "capturado_em": "2026-11-08T06:52:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_CampoEre_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "2e85854c5334394428db4287d39620fdad4311d4"
+ }
+}

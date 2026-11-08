@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5100250",
+ "uf": "MT",
+ "municipio": "Alta Floresta",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Alta_Floresta.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e9364d6d161be04689f5fb579ed7aff6f9f1945ea3e4415452ce969e6f09df23",
+ "rendicoes": {
+  "png": {
+   "bytes": 406930,
+   "sha256": "5e39542f0310f82f04e9f21ae88ed06ebed38f465ee05ca7fc1d9946cda94c53",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 75884,
+   "sha256": "826836bd43c1dc64e67920c25aab0687307f067b7ef0e696a46cd8b4c6d1f789",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5100250.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5100250.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5100250.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5100250.png",
+  "bytes": 250581,
+  "sha256": "e9364d6d161be04689f5fb579ed7aff6f9f1945ea3e4415452ce969e6f09df23"
+ },
+ "sha1_origem": "ea76f608565b8370573fd74984e52c8e0caa578a",
+ "bytes_origem": 250581,
+ "capturado_em": "2026-11-08T07:13:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Alta_Floresta.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "ea76f608565b8370573fd74984e52c8e0caa578a"
+ }
+}

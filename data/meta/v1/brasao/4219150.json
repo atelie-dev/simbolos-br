@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4219150",
+ "uf": "SC",
+ "municipio": "Vargem",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bras%C3%A3o_do_munic%C3%ADpio_de_Vargem_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Vargem (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c283a2c7bbe373410aa5c4e39ab84a792b68bf38b35d05580fc36b2f81b55820",
+ "rendicoes": {
+  "png": {
+   "bytes": 333005,
+   "sha256": "2d587f181b83ce8fd0ad54fc3c74e5d94b39d8791c25c5c461c499b9d95ce3f0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 69256,
+   "sha256": "68e5c0becc5f96f62dd66e80fadb24c18e61b311ce98a086d0475484a10be432",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4219150.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4219150.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4219150.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4219150.png",
+  "bytes": 1171427,
+  "sha256": "c283a2c7bbe373410aa5c4e39ab84a792b68bf38b35d05580fc36b2f81b55820"
+ },
+ "sha1_origem": "e0395d64114ab9b8b2d4ce1bf4f4aeed32bc4265",
+ "bytes_origem": 1171427,
+ "capturado_em": "2026-11-08T06:58:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Vargem_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:18Z",
+  "estado": "igual",
+  "sha1_commons": "e0395d64114ab9b8b2d4ce1bf4f4aeed32bc4265"
+ }
+}

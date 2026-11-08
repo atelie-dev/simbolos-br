@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2304251",
+ "uf": "CE",
+ "municipio": "Cruz",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Brasao_cruz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Gean",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4b038cb73b2f47cdf7a2ad5d837cc8faa70fe74d6716863e1e5a853083ea5f1a",
+ "rendicoes": {
+  "png": {
+   "bytes": 197732,
+   "sha256": "e98a4fc3d010b05821c381b1355f210e1f5ab4c3a84e997043764c0af1e031be",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44525,
+   "sha256": "cc66eba6e6bd40ed195ca7272ff8f413149b8b45b82149c4349ad5990367940d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2304251.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2304251.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2304251.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2304251.jpg",
+  "bytes": 93556,
+  "sha256": "4b038cb73b2f47cdf7a2ad5d837cc8faa70fe74d6716863e1e5a853083ea5f1a"
+ },
+ "sha1_origem": "cba662fbea0d88a43385a4f18fe02f77bb5822c3",
+ "bytes_origem": 93556,
+ "capturado_em": "2026-11-08T05:32:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_cruz.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "cba662fbea0d88a43385a4f18fe02f77bb5822c3"
+ }
+}

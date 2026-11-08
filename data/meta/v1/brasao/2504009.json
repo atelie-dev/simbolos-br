@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2504009",
+ "uf": "PB",
+ "municipio": "Campina Grande",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Brasaocampinagrande.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Campina Grande",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5e121efb4a1410ec800916ce99fe23f7e8ba098ea1078eda79d3058fdc8fe19d",
+ "rendicoes": {
+  "png": {
+   "bytes": 159433,
+   "sha256": "5fc0aa3c877105da1a8dcc1e55992aa2caf316b2fc841d41c72625acd8e41188",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42650,
+   "sha256": "02bd26f7c2935ae27722d08f228941bffc50a0c28f729e177877d9aa01a18e5a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2504009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2504009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2504009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2504009.jpg",
+  "bytes": 157506,
+  "sha256": "5e121efb4a1410ec800916ce99fe23f7e8ba098ea1078eda79d3058fdc8fe19d"
+ },
+ "sha1_origem": "f6bb503137f686ad108e126f65bce5faaece9b14",
+ "bytes_origem": 157506,
+ "capturado_em": "2026-11-08T05:40:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaocampinagrande.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "f6bb503137f686ad108e126f65bce5faaece9b14"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2201903",
+ "uf": "PI",
+ "municipio": "Bom Jesus",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bandeira_Bom_Jesus_site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Renanbatistasal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "99ab2788075a53c23b4965ddf5c1bfba7edfdab8ee28989f01367040105aa6a8",
+ "rendicoes": {
+  "png": {
+   "bytes": 12922,
+   "sha256": "cb3b9e2373bccfb95637c8df8b34873437ba729d19c60697d636f44d67576dbe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4905,
+   "sha256": "7e8ff1e94e156fa617a5f98d83357f9c8a0c38bd7c848d98485845cad61957e0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2201903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2201903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2201903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2201903.jpg",
+  "bytes": 16508,
+  "sha256": "99ab2788075a53c23b4965ddf5c1bfba7edfdab8ee28989f01367040105aa6a8"
+ },
+ "sha1_origem": "92e57b3b3ca3b3f5ea0ba983cf6de9ea389e5507",
+ "bytes_origem": 16508,
+ "capturado_em": "2026-11-08T05:29:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Bom_Jesus_site.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "92e57b3b3ca3b3f5ea0ba983cf6de9ea389e5507"
+ }
+}

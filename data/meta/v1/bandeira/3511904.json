@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3511904",
+ "uf": "SP",
+ "municipio": "Clementina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Bandeira_Clementina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b80acfa4b005436284c3a9c7a64263003cd2ad1c252ce5f2e6c5bfd41975bb2c",
+ "rendicoes": {
+  "png": {
+   "bytes": 31330,
+   "sha256": "c4e2a9c45650d5890e63b6b2acb2b529b7157857782e62b50170a5a7d6adfc86",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12667,
+   "sha256": "a076c54179e6fa595100401fb6a68703fe0bee3e7563c7480457c5019504af9b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3511904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3511904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3511904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3511904.jpg",
+  "bytes": 24322,
+  "sha256": "b80acfa4b005436284c3a9c7a64263003cd2ad1c252ce5f2e6c5bfd41975bb2c"
+ },
+ "sha1_origem": "c577b9ac644f3c40a7a03700794bcd181c909d60",
+ "bytes_origem": 24322,
+ "capturado_em": "2026-11-08T06:26:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Clementina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "c577b9ac644f3c40a7a03700794bcd181c909d60"
+ }
+}

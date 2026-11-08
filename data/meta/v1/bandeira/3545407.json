@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3545407",
+ "uf": "SP",
+ "municipio": "Salto Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bandeira_Salto_Grande.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f2d7f3082ae32b6117d7de6e863a8d88f9b46638c07e7e59eb3d6ab01fbaf111",
+ "rendicoes": {
+  "png": {
+   "bytes": 57387,
+   "sha256": "f6c60c12c263818ec8f392b250e0f8fe33fd6b8d9e2ac9b7b3824caaf022cc72",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16954,
+   "sha256": "fca3be9adad55180d1e3da2a532b04ca113c8b601965f027059bf3e5c5b7eba3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3545407.jpg",
+  "bytes": 735228,
+  "sha256": "f2d7f3082ae32b6117d7de6e863a8d88f9b46638c07e7e59eb3d6ab01fbaf111"
+ },
+ "sha1_origem": "d561f0368a8496d117b2e6696d3e7387fd466cf0",
+ "bytes_origem": 735228,
+ "capturado_em": "2026-11-08T06:37:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Salto_Grande.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "d561f0368a8496d117b2e6696d3e7387fd466cf0"
+ }
+}

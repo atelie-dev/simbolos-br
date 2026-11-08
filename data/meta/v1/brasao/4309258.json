@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4309258",
+ "uf": "RS",
+ "municipio": "Guabiju",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bras%C3%A3o_Guabiju.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Guabiju",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "03d75843174d7d7e14b4d64f3e240216f6c8751544a7e47fb3f7551762bea04d",
+ "rendicoes": {
+  "png": {
+   "bytes": 254186,
+   "sha256": "aa9df56402659c6f1445dfa8d8a6299ee21d3575ac312c84f72d6993f4027668",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45014,
+   "sha256": "1583c9755e3953135b18a0ac482bbca90ff33763e76272dc53b9c07f7a580c43",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309258.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309258.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309258.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4309258.jpg",
+  "bytes": 35958,
+  "sha256": "03d75843174d7d7e14b4d64f3e240216f6c8751544a7e47fb3f7551762bea04d"
+ },
+ "sha1_origem": "9d1bfadc8e3d99014e4eba6fc3ea2cad73a4c88e",
+ "bytes_origem": 35958,
+ "capturado_em": "2026-11-08T07:03:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Guabiju.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "9d1bfadc8e3d99014e4eba6fc3ea2cad73a4c88e"
+ }
+}

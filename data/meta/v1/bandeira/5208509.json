@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5208509",
+ "uf": "GO",
+ "municipio": "Goiandira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bandeira_Goiandira-GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Goiandira, Goiás.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9dd18a2efe6cf4e0da7fc1ee85e36e664a2867b95678cf3725ce173f305034f8",
+ "rendicoes": {
+  "png": {
+   "bytes": 57194,
+   "sha256": "73d8cb77659bc6ebd35d2ab3694a7883b3b656aa500e45532edb421bdb4761df",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19280,
+   "sha256": "fd4dacd1b54d24ab54d92fe423b6cecffbb191e7075f74355c340e3886b9ea94",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5208509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5208509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5208509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5208509.jpg",
+  "bytes": 34353,
+  "sha256": "9dd18a2efe6cf4e0da7fc1ee85e36e664a2867b95678cf3725ce173f305034f8"
+ },
+ "sha1_origem": "ae95f3b69a12c991bced9724c67e5d8a17717db5",
+ "bytes_origem": 34353,
+ "capturado_em": "2026-11-08T07:18:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Goiandira-GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "ae95f3b69a12c991bced9724c67e5d8a17717db5"
+ }
+}

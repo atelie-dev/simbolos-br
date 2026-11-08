@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3537008",
+ "uf": "SP",
+ "municipio": "Pedregulho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/86/Bras%C3%A3o_de_Pedregulho-SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "39717a6464845baf77520fc5e782ec5f9d814e119d1c16dd5fb21073cfa14258",
+ "rendicoes": {
+  "png": {
+   "bytes": 378322,
+   "sha256": "2237b09e1e6706296a851f16e395141f3aa1bd2c04de57f899ece4d78df61a19",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 64377,
+   "sha256": "fc84247b2d07286e1524496457459f335ab4328fbb3d0e1f69162acefa941ab6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3537008.jpg",
+  "bytes": 294640,
+  "sha256": "39717a6464845baf77520fc5e782ec5f9d814e119d1c16dd5fb21073cfa14258"
+ },
+ "sha1_origem": "4797453f3bd61d1452f0e555b242c9774b23dfdd",
+ "bytes_origem": 294640,
+ "capturado_em": "2026-11-08T06:34:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Pedregulho-SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "4797453f3bd61d1452f0e555b242c9774b23dfdd"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1300680",
+ "uf": "AM",
+ "municipio": "Boa Vista do Ramos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Flag_of_Barcelos_%28Amazonas%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Giro720",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "aaa26b1bb1897ee2c2874fcda47ee7b333fdebcdceff5a97969d2fb9528d05ff",
+ "rendicoes": {
+  "png": {
+   "bytes": 5625,
+   "sha256": "a63d0863c5cfb1625280a0bc45e11a8ae395e280e707a99c7ad269930c7ec4cb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9139,
+   "sha256": "fd16c8e87a3bed70ed93b9510b1fe94e5098fdfc474830527a187e6e8124ca5d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1068,
+   "sha256": "aaa26b1bb1897ee2c2874fcda47ee7b333fdebcdceff5a97969d2fb9528d05ff"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300680.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300680.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300680.jpg"
+ },
+ "sha1_origem": "46dd0469d01c5bbea9e49593fc4947f27602f179",
+ "bytes_origem": 1068,
+ "capturado_em": "2026-11-08T02:31:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Barcelos_(Amazonas).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "46dd0469d01c5bbea9e49593fc4947f27602f179"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5218508",
+ "uf": "GO",
+ "municipio": "Quirinópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bras%C3%A3o_Quirinopolis.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Quirinopolis",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3b1a0bb4b80ea30a03cce999bcf0a01c16e9910bc1399c244eca7cdd485150e9",
+ "rendicoes": {
+  "png": {
+   "bytes": 216544,
+   "sha256": "c9a74b46ff657843e268f137a95548cb6dd76590846cdb3f1ff75178124ce0a6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38483,
+   "sha256": "fb8b0311b0e9ca17c7fa664635cf70aec203d5e6c53665e1aea731fd090869e5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5218508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5218508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5218508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5218508.png",
+  "bytes": 210072,
+  "sha256": "3b1a0bb4b80ea30a03cce999bcf0a01c16e9910bc1399c244eca7cdd485150e9"
+ },
+ "sha1_origem": "c751f40e363310008f7b23e65ac0bcc0174b473c",
+ "bytes_origem": 210072,
+ "capturado_em": "2026-11-08T07:20:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Quirinopolis.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:53Z",
+  "estado": "igual",
+  "sha1_commons": "c751f40e363310008f7b23e65ac0bcc0174b473c"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3152600",
+ "uf": "MG",
+ "municipio": "Pouso Alto",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Brasaopousoalto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pouso Alto",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "424a58ac5a717530fb1931d7d2dae16de7acbde024ee0cc586e31a011e2bf829",
+ "rendicoes": {
+  "png": {
+   "bytes": 347450,
+   "sha256": "27a995e9be124bdeb963797181450018eee0ad5c0c7c5a8211254a1d9ae65d4b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59419,
+   "sha256": "86fb4a0ee6eb7beafa2e1d3302d5dc079966ebdaf68b1fdbdecf277aaa230fc7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3152600.jpg",
+  "bytes": 259463,
+  "sha256": "424a58ac5a717530fb1931d7d2dae16de7acbde024ee0cc586e31a011e2bf829"
+ },
+ "sha1_origem": "26fba9163b43dfa777d440f2ce60446f4c67274f",
+ "bytes_origem": 259463,
+ "capturado_em": "2026-11-08T06:13:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaopousoalto.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "26fba9163b43dfa777d440f2ce60446f4c67274f"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4118402",
+ "uf": "PR",
+ "municipio": "Paranavaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira_de_paranava%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Paranavaí",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dbd6adb73b1b6553981716f6cf7b5c0b2d9273b883d3d6bb9e2901f85c07d345",
+ "rendicoes": {
+  "png": {
+   "bytes": 41158,
+   "sha256": "9e0422931a7d5f9a477c375762b29d1ba17f52f862e176a138dd8ad987e176a5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11279,
+   "sha256": "6b3ddd13adb8939e938d3432d93148ab4542817b0ae5b17822a6935c5e6b9bff",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4118402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4118402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4118402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4118402.jpg",
+  "bytes": 21114,
+  "sha256": "dbd6adb73b1b6553981716f6cf7b5c0b2d9273b883d3d6bb9e2901f85c07d345"
+ },
+ "sha1_origem": "5732858a74f3db9e182316ffdb1f8cbb272a9da7",
+ "bytes_origem": 21114,
+ "capturado_em": "2026-11-08T06:47:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_paranavaí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "5732858a74f3db9e182316ffdb1f8cbb272a9da7"
+ }
+}

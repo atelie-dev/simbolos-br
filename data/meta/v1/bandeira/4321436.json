@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321436",
+ "uf": "RS",
+ "municipio": "Terra de Areia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Terra_de_Areiarsbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Terra de Areia",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d1bba201b512bb6c206b88ffd46e5c54c02ae8fc110f53031c7ed0c549b25e3e",
+ "rendicoes": {
+  "png": {
+   "bytes": 10188,
+   "sha256": "c1bb08e859fc4013291dfec1aa64e769d7104e6f017c27ddbcb58c2be0e9b985",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5576,
+   "sha256": "0fcab22bcd5f71abe8a38d20de17109825f4c967011a0ffd6df6f469b515d3d8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321436.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321436.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321436.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4321436.png",
+  "bytes": 7870,
+  "sha256": "d1bba201b512bb6c206b88ffd46e5c54c02ae8fc110f53031c7ed0c549b25e3e"
+ },
+ "sha1_origem": "db9058c48166a81bc8d041cec29ad759e20c20c5",
+ "bytes_origem": 7870,
+ "capturado_em": "2026-11-08T07:10:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Terra_de_Areiarsbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:38Z",
+  "estado": "igual",
+  "sha1_commons": "db9058c48166a81bc8d041cec29ad759e20c20c5"
+ }
+}

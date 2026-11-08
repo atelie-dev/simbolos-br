@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2300101",
+ "uf": "CE",
+ "municipio": "Abaiara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Abaiara_brasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Juliano Benício de Queiroz",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0ef34a2074f6c9569950d3c323a6995a6ff15dff353a7e4bd69ab2a16d47fd02",
+ "rendicoes": {
+  "png": {
+   "bytes": 71651,
+   "sha256": "d4fb92d302c010c40116259fd8068066ee35a2c1f05755fefa70b1d04b6b8e5f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15759,
+   "sha256": "6f7293935265dba49873eaa61c8a0a153220926def1430167c96944a48e9cf20",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2300101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2300101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2300101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2300101.jpg",
+  "bytes": 10006,
+  "sha256": "0ef34a2074f6c9569950d3c323a6995a6ff15dff353a7e4bd69ab2a16d47fd02"
+ },
+ "sha1_origem": "0829f1472c02e6ac7f913c833e20334bcd5d3bc0",
+ "bytes_origem": 10006,
+ "capturado_em": "2026-11-08T05:31:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Abaiara_brasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "0829f1472c02e6ac7f913c833e20334bcd5d3bc0"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4209300",
+ "uf": "SC",
+ "municipio": "Lages",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bandeira_de_Lages-SC.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camervan",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "2709862079c6e44d25ba47236791a04a4e9fdeef51af838411e16ef077974af5",
+ "rendicoes": {
+  "png": {
+   "bytes": 7167,
+   "sha256": "b2adbe8073749591cfb1fe2242e208a2a1174c2349a52cd12e99915506d64572",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8974,
+   "sha256": "6b0fbaac743fcc35de676cbfd729c7921f23a800f4f68caf4d0084c8b19d133f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 520,
+   "sha256": "2709862079c6e44d25ba47236791a04a4e9fdeef51af838411e16ef077974af5"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209300.jpg"
+ },
+ "sha1_origem": "0ac12a6dcd0dca33c927bf4886c4d629392dea90",
+ "bytes_origem": 520,
+ "capturado_em": "2026-11-08T04:40:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Lages-SC.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "0ac12a6dcd0dca33c927bf4886c4d629392dea90"
+ }
+}

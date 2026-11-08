@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5101704",
+ "uf": "MT",
+ "municipio": "Barra do Bugres",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bras%C3%A3o_de_Barra_do_Bugres_-_MT.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "321f4d106b5e8c7f22433dbee20528625dcb34b1ec3edc0f27ed2ed1737da7fb",
+ "rendicoes": {
+  "png": {
+   "bytes": 169609,
+   "sha256": "41d4bf9ab656c786e131bb22d71193fe282f8eddbe423ed007224c753a1b4e89",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48075,
+   "sha256": "ebb2df5f6595e3ecf55f06b2ba3705738d7b575e1636137548000b9f48d24550",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1487955,
+   "sha256": "321f4d106b5e8c7f22433dbee20528625dcb34b1ec3edc0f27ed2ed1737da7fb"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5101704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5101704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5101704.jpg"
+ },
+ "sha1_origem": "646ad8c5097880ec81dcccae7fe319593eff350c",
+ "bytes_origem": 1487955,
+ "capturado_em": "2026-11-08T05:05:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Barra_do_Bugres_-_MT.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "646ad8c5097880ec81dcccae7fe319593eff350c"
+ }
+}

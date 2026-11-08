@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2509206",
+ "uf": "PB",
+ "municipio": "Massaranduba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bandeira_de_Massaranduba-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "868a306649b53edfc4c776ca0d8a1a4b3df5a2daeb0cc5e089b0dd8dcdcdebfe",
+ "rendicoes": {
+  "png": {
+   "bytes": 27999,
+   "sha256": "64e633fc39be36ef840a6203127004b2230042730bfbd11c218008fb749bc2d2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16990,
+   "sha256": "008de551d33610d775d9d5725d91d94cc9f24c932a03f391456156529066dfe5",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 11309,
+   "sha256": "868a306649b53edfc4c776ca0d8a1a4b3df5a2daeb0cc5e089b0dd8dcdcdebfe"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2509206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2509206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2509206.jpg"
+ },
+ "sha1_origem": "88095d20510bc11342c4dc7ff57d0db6048fc90b",
+ "bytes_origem": 11309,
+ "capturado_em": "2026-11-08T02:59:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Massaranduba-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "88095d20510bc11342c4dc7ff57d0db6048fc90b"
+ }
+}

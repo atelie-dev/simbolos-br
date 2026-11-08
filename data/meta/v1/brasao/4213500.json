@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4213500",
+ "uf": "SC",
+ "municipio": "Porto Belo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Brasao_PortoBelo_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Porto Belo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f1e3ee1b2a3d68adadef1a86e04ed188bdc6886544d7c770a64d90cb65559e21",
+ "rendicoes": {
+  "png": {
+   "bytes": 192337,
+   "sha256": "2597a60eb335b935d65119124b53e1b6d926a95d03c05000a330733e17682afe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67654,
+   "sha256": "12566d0ee04eb46f0004b144ad1b15efd2edec12d15af62bde2bcc0fdbc8b833",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4213500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4213500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4213500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4213500.jpg",
+  "bytes": 756788,
+  "sha256": "f1e3ee1b2a3d68adadef1a86e04ed188bdc6886544d7c770a64d90cb65559e21"
+ },
+ "sha1_origem": "711bda56c93f2b13fd3c53723fe07e4f79048dfb",
+ "bytes_origem": 756788,
+ "capturado_em": "2026-11-08T06:56:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_PortoBelo_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "711bda56c93f2b13fd3c53723fe07e4f79048dfb"
+ }
+}

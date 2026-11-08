@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3550001",
+ "uf": "SP",
+ "municipio": "São Luiz do Paraitinga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Saoluizdoparaitinga_brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a43e6720b25655cfc32f9db7a55e54500b02bc7fe93e2ec443d81639c78688d5",
+ "rendicoes": {
+  "png": {
+   "bytes": 20635,
+   "sha256": "fa81993433f5a0509dd7f8d4a4a1346bd3dbd34089055bb50ebfec71ccf66b5c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10960,
+   "sha256": "d8d54638b54adaae759c5d33a4b4b83d7a4eccc776bfeca708cca8be971a1619",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3550001.png",
+  "bytes": 6268,
+  "sha256": "a43e6720b25655cfc32f9db7a55e54500b02bc7fe93e2ec443d81639c78688d5"
+ },
+ "sha1_origem": "934e32f262efa48986a17fdc00e3ea990404438d",
+ "bytes_origem": 6268,
+ "capturado_em": "2026-11-08T06:38:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Saoluizdoparaitinga_brasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:36Z",
+  "estado": "igual",
+  "sha1_commons": "934e32f262efa48986a17fdc00e3ea990404438d"
+ }
+}

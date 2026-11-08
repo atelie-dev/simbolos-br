@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3202108",
+ "uf": "ES",
+ "municipio": "Ecoporanga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bandeira-ecoporanga.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ecoporanga City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a7bad2d6a74fd925586f0ea9abbf340ae8c1f3bd7b78b73637d3ea07713dbb87",
+ "rendicoes": {
+  "png": {
+   "bytes": 37746,
+   "sha256": "351d940f08cc1eca38b20dcd4a66a60fea4b79d90089afb040b521a9815bad76",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18058,
+   "sha256": "fee76ca2811eaaabfe888826471ea8074d0b9ab800e0861b1c917b78ea4da6f8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202108.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3202108.png",
+  "bytes": 199847,
+  "sha256": "a7bad2d6a74fd925586f0ea9abbf340ae8c1f3bd7b78b73637d3ea07713dbb87"
+ },
+ "sha1_origem": "7e9520250a1adc1b95d802d463158efd9491c0b8",
+ "bytes_origem": 199847,
+ "capturado_em": "2026-11-08T06:19:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-ecoporanga.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "7e9520250a1adc1b95d802d463158efd9491c0b8"
+ }
+}

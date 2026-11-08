@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5102504",
+ "uf": "MT",
+ "municipio": "Cáceres",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bras%C3%A3o_C%C3%A1ceres.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0412e458a728d2f30c441e04cbf31e94e7b2e11429375e74534198d3db189c8b",
+ "rendicoes": {
+  "png": {
+   "bytes": 57568,
+   "sha256": "e5ce1be0d1a970ae28645fc609bec88861eba78aa1c19f674fada3bdfd044d27",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14073,
+   "sha256": "60e1e9a29668375f9bac4d9d64699472eb00cfebcc050df29b6552c8873ea0df",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5102504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5102504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5102504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5102504.png",
+  "bytes": 47460,
+  "sha256": "0412e458a728d2f30c441e04cbf31e94e7b2e11429375e74534198d3db189c8b"
+ },
+ "sha1_origem": "bca6fd7cc7f250ddd0976cfad011734ec2b4421c",
+ "bytes_origem": 47460,
+ "capturado_em": "2026-11-08T07:14:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Cáceres.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:48Z",
+  "estado": "igual",
+  "sha1_commons": "bca6fd7cc7f250ddd0976cfad011734ec2b4421c"
+ }
+}

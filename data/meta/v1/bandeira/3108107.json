@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3108107",
+ "uf": "MG",
+ "municipio": "Bonfim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bonfimmg_bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Bonfim",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1e6dbf3ad0d9471bf13425124734ad070b788b228e3cce2f9309274ffc495a62",
+ "rendicoes": {
+  "png": {
+   "bytes": 121098,
+   "sha256": "f264c62a271035fbfbbd1fa1a3d3f7f4cd28f1253a5e5f981021c76bdea643ed",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28018,
+   "sha256": "0da31cdb4afbd63d78da49940237ab190f6916c5a7420cc44fd798bdd55066f9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3108107.jpg",
+  "bytes": 111982,
+  "sha256": "1e6dbf3ad0d9471bf13425124734ad070b788b228e3cce2f9309274ffc495a62"
+ },
+ "sha1_origem": "265a56aa59f6d03975b1c573b024d6ef2826cd79",
+ "bytes_origem": 111982,
+ "capturado_em": "2026-11-08T06:00:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bonfimmg_bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:27Z",
+  "estado": "igual",
+  "sha1_commons": "265a56aa59f6d03975b1c573b024d6ef2826cd79"
+ }
+}

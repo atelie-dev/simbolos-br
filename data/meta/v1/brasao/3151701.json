@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3151701",
+ "uf": "MG",
+ "municipio": "Poço Fundo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Brasaopf3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "977fcb930363bb9f1bbbd8cabbb79ff792778aed183c7f869bcf37b1b9b8b4eb",
+ "rendicoes": {
+  "png": {
+   "bytes": 126048,
+   "sha256": "384ca44237bf64b9e394826494a290bdc1828148ed2aa89c0be50adb9189e232",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30753,
+   "sha256": "fd3a27250e472bebc602a4e40d810a340871135b66b1dd7a9002d589ff544330",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3151701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3151701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3151701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3151701.jpg",
+  "bytes": 33089,
+  "sha256": "977fcb930363bb9f1bbbd8cabbb79ff792778aed183c7f869bcf37b1b9b8b4eb"
+ },
+ "sha1_origem": "3a1c5e5860da4334d76e30152b397e914bf4bc32",
+ "bytes_origem": 33089,
+ "capturado_em": "2026-11-08T06:13:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaopf3.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "3a1c5e5860da4334d76e30152b397e914bf4bc32"
+ }
+}

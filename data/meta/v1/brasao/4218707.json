@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4218707",
+ "uf": "SC",
+ "municipio": "Tubarão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bras%C3%A3o_de_Tubar%C3%A3o_seal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Douglas Antunes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "45b9187139c35e85e3ad8976ae3869156f898f163f91b3c7bf32b1c03fb47e9c",
+ "rendicoes": {
+  "png": {
+   "bytes": 228237,
+   "sha256": "c660730cf124cfeed2dafe910bb9ffeae44618bb95e36f1c684612185ab6fd2d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 66908,
+   "sha256": "f4aadf2f93f7ce0e62835d7e23328a04ee64f9285dd6f1427bdf40b96f94efb2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4218707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4218707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4218707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4218707.jpg",
+  "bytes": 613415,
+  "sha256": "45b9187139c35e85e3ad8976ae3869156f898f163f91b3c7bf32b1c03fb47e9c"
+ },
+ "sha1_origem": "e469683e53c81fc9697a1c3a9d2991fa92f63593",
+ "bytes_origem": 613415,
+ "capturado_em": "2026-11-08T06:57:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Tubarão_seal.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "e469683e53c81fc9697a1c3a9d2991fa92f63593"
+ }
+}

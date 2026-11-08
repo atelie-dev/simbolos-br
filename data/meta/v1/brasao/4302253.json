@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4302253",
+ "uf": "RS",
+ "municipio": "Boa Vista do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bras%C3%A3o_Boa_Vista_do_Sul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Boa Vista do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fde1a7b9f967fb7e17db75de45e753a6b26b2a83be74d828b28eec674ca80c39",
+ "rendicoes": {
+  "png": {
+   "bytes": 184929,
+   "sha256": "4d02f84514125d8eb039717217720ad6afca3ef2a2d2a92ed77f6694ffae95ab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53244,
+   "sha256": "bfaf4ede4332376bdce600d108062bc5e6815a66325baa597e4f48cb23685ad5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302253.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302253.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302253.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4302253.jpg",
+  "bytes": 53973,
+  "sha256": "fde1a7b9f967fb7e17db75de45e753a6b26b2a83be74d828b28eec674ca80c39"
+ },
+ "sha1_origem": "e9088f9c71fb870b2c87bb01b8338d8c1d64fdec",
+ "bytes_origem": 53973,
+ "capturado_em": "2026-11-08T06:59:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Boa_Vista_do_Sul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "e9088f9c71fb870b2c87bb01b8338d8c1d64fdec"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3156601",
+ "uf": "MG",
+ "municipio": "Rubim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bandeira_Munic%C3%ADpio_de_Rubim-MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Rubim",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d5fddbbbb3de1b4a5356e71781c88f3ec9a17064ef216287d36fca3d6509df3e",
+ "rendicoes": {
+  "png": {
+   "bytes": 55223,
+   "sha256": "b3c2452b66c1de4a926c34fcfd293df3cc51e121a02c809c475c5a16759388c7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22708,
+   "sha256": "abed524b7635704d3794d9bb678b43d3b82cdbb41f4880a20e9923d5a07092b1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3156601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3156601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3156601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3156601.jpg",
+  "bytes": 102468,
+  "sha256": "d5fddbbbb3de1b4a5356e71781c88f3ec9a17064ef216287d36fca3d6509df3e"
+ },
+ "sha1_origem": "0eda1726c3e663086a9573f295a7b51a7d3a828d",
+ "bytes_origem": 102468,
+ "capturado_em": "2026-11-08T06:14:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Município_de_Rubim-MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "0eda1726c3e663086a9573f295a7b51a7d3a828d"
+ }
+}

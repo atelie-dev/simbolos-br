@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3547601",
+ "uf": "SP",
+ "municipio": "Santa Rosa de Viterbo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bandeira_Santa_Rosa_de_Viterbo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "afffdaa07a2ef0c6c168bb7624b981541aa1fa3600af8d595c157540703df1b5",
+ "rendicoes": {
+  "png": {
+   "bytes": 179229,
+   "sha256": "e87e930b44eef64e3ae32206220a5f099dc597636784a2286ff3851e96423670",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36593,
+   "sha256": "7ad4e7c389d546b97c07bc817c048a8eb2c01b220e470cc301da69121ebf7697",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3547601.jpg",
+  "bytes": 44092,
+  "sha256": "afffdaa07a2ef0c6c168bb7624b981541aa1fa3600af8d595c157540703df1b5"
+ },
+ "sha1_origem": "1502f498b2a585e2de91467a4eaa5db7f53b9f4f",
+ "bytes_origem": 44092,
+ "capturado_em": "2026-11-08T06:37:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Santa_Rosa_de_Viterbo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "1502f498b2a585e2de91467a4eaa5db7f53b9f4f"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4323507",
+ "uf": "RS",
+ "municipio": "Vista Alegre",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Vista_Alegre_do_Pratabrascity.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Vista Alegre do Prata",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8726944ad4d9051bd4af828ef615e908d4f75f657180f77786d3bda1a4ac6048",
+ "rendicoes": {
+  "png": {
+   "bytes": 71020,
+   "sha256": "9b6914a53fb9ef131f2bdc819fd911a7dbd4d0f6ee779f5cee8ad1b0f9b9c97f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14629,
+   "sha256": "e69018f4edc42f2705aa9e4a07375b6ceac92f967126a3c4a7fa50c4261ef020",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4323507.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4323507.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4323507.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4323507.jpg",
+  "bytes": 7686,
+  "sha256": "8726944ad4d9051bd4af828ef615e908d4f75f657180f77786d3bda1a4ac6048"
+ },
+ "sha1_origem": "67b56a578bcb7414894820a8ed5c3bdd224438c6",
+ "bytes_origem": 7686,
+ "capturado_em": "2026-11-08T07:12:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Vista_Alegre_do_Pratabrascity.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "67b56a578bcb7414894820a8ed5c3bdd224438c6"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3529203",
+ "uf": "SP",
+ "municipio": "Martinópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bandeira_Martin%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Martinópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "77fd0f93d3a25e5a62e8c373e97a8ae723d3cc0d9eef51745af79fe7d92f35f4",
+ "rendicoes": {
+  "png": {
+   "bytes": 90674,
+   "sha256": "523f5eedecaa762cee9b9c4735701ee6d6e557845d986b259129a8fc3fb7a3f1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12240,
+   "sha256": "6140a470fc3f2909c3b1b280b42b0c3c12f2b4d30f6b30ed44fd12f9d8aa6ed5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3529203.jpg",
+  "bytes": 6734,
+  "sha256": "77fd0f93d3a25e5a62e8c373e97a8ae723d3cc0d9eef51745af79fe7d92f35f4"
+ },
+ "sha1_origem": "7bcba86aa40ab036df2884ee0bb96c97a7fa9c54",
+ "bytes_origem": 6734,
+ "capturado_em": "2026-11-08T06:31:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Martinópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "7bcba86aa40ab036df2884ee0bb96c97a7fa9c54"
+ }
+}

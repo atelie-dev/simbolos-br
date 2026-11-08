@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3128105",
+ "uf": "MG",
+ "municipio": "Guapé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bandeira_Oficial_de_Guap%C3%A9-MG.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cássio Cândido de Rezende",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "53c5fb6c023079ad294d126f397cb9ac5776f60b898fa476bd666f2269c3f3e8",
+ "rendicoes": {
+  "png": {
+   "bytes": 87798,
+   "sha256": "9f51592dd3534ec06d28cee936ae0ecdc14ef1df4d635421b85f8d3759d38192",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26942,
+   "sha256": "47b6a29628a84ebbbdaa6f55588e5aba7db9b3ae08e2f28b598add04238354f2",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 216376,
+   "sha256": "53c5fb6c023079ad294d126f397cb9ac5776f60b898fa476bd666f2269c3f3e8"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128105.jpg"
+ },
+ "sha1_origem": "1e09b83e64057129696c4159221f27112a843e31",
+ "bytes_origem": 216376,
+ "capturado_em": "2026-11-08T03:37:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Oficial_de_Guapé-MG.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "1e09b83e64057129696c4159221f27112a843e31"
+ }
+}

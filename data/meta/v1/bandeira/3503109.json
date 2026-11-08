@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3503109",
+ "uf": "SP",
+ "municipio": "Arandu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bandeira_Arandu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "195f3157a6c224d83caa6b73dbce052c05868785aa8c8289a0b7b5718e3c5b13",
+ "rendicoes": {
+  "png": {
+   "bytes": 21315,
+   "sha256": "826c5e102d174c03b0a743f742024a550b724264bc1062f31680f559a3cf7030",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14134,
+   "sha256": "6aae4bb4524a800177786f8d40fdfc5343d052f5564c15abd7d0684a6513d4b2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3503109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3503109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3503109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3503109.png",
+  "bytes": 18572,
+  "sha256": "195f3157a6c224d83caa6b73dbce052c05868785aa8c8289a0b7b5718e3c5b13"
+ },
+ "sha1_origem": "8545cb25fb5f622fdb4aaaf76bf7c745f53cf9bf",
+ "bytes_origem": 18572,
+ "capturado_em": "2026-11-08T06:23:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Arandu.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "8545cb25fb5f622fdb4aaaf76bf7c745f53cf9bf"
+ }
+}

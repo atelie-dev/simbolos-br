@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3142205",
+ "uf": "MG",
+ "municipio": "Miraí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bandeira_Mirai.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Jair F R Gonçalves",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f62aa04fc030f18053d80d4c9d0b72b282af26891f4f28db695996d03b905b28",
+ "rendicoes": {
+  "png": {
+   "bytes": 53169,
+   "sha256": "554522edef2457faa023f859b178062eeafbde64b5273d2d1940e1bab39a7e0a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20541,
+   "sha256": "727d772c16170c2e8c806e4987994823cd3e1cc3a00df9721da823242c558ca9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3142205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3142205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3142205.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3142205.png",
+  "bytes": 1776371,
+  "sha256": "f62aa04fc030f18053d80d4c9d0b72b282af26891f4f28db695996d03b905b28"
+ },
+ "sha1_origem": "7dd35e6e17ea52021c2baf784055c450ab6228e8",
+ "bytes_origem": 1776371,
+ "capturado_em": "2026-11-08T06:11:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Mirai.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "7dd35e6e17ea52021c2baf784055c450ab6228e8"
+ }
+}

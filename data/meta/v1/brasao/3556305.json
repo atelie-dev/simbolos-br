@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3556305",
+ "uf": "SP",
+ "municipio": "Valparaíso",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Valparaiso_brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura de Valparaíso",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "334a9ddf9ec2156e43f5d1aad23a649d68734fb23524c7469da11f64ebf0353c",
+ "rendicoes": {
+  "png": {
+   "bytes": 57085,
+   "sha256": "5fba08619b7c92fcd6d951b7498c17382ab69b7a3419a43dff3befe17254f941",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27123,
+   "sha256": "f76fee7a992c0d519f9cf5f37259e241b5004d3107181038437a9e02cb04781d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3556305.png",
+  "bytes": 55553,
+  "sha256": "334a9ddf9ec2156e43f5d1aad23a649d68734fb23524c7469da11f64ebf0353c"
+ },
+ "sha1_origem": "715160a9de0225b071eff1bdfdc8b34310b990b9",
+ "bytes_origem": 55553,
+ "capturado_em": "2026-11-08T06:40:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Valparaiso_brasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "715160a9de0225b071eff1bdfdc8b34310b990b9"
+ }
+}

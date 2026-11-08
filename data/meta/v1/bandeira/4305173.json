@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305173",
+ "uf": "RS",
+ "municipio": "Cerro Grande do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_Cerro_Grande_do_Sul_RS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9d387e2019a85fe6a689f69098ae786e43c6695a52aeea8656fcbc093ae61aec",
+ "rendicoes": {
+  "png": {
+   "bytes": 59432,
+   "sha256": "78877afdf1943a87c13889b5f994b414fd5bea6f32ca6c7e58851f2baba17013",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16662,
+   "sha256": "7968e0b5bd8ed01ec8a9b2a56374784bb68d3d602c4a7f60ff039a0c296b8bb3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305173.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305173.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305173.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4305173.png",
+  "bytes": 355727,
+  "sha256": "9d387e2019a85fe6a689f69098ae786e43c6695a52aeea8656fcbc093ae61aec"
+ },
+ "sha1_origem": "87bc1f91d686405488b3d080737c2a68032aa495",
+ "bytes_origem": 355727,
+ "capturado_em": "2026-11-08T07:01:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Cerro_Grande_do_Sul_RS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "87bc1f91d686405488b3d080737c2a68032aa495"
+ }
+}

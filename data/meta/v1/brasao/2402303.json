@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2402303",
+ "uf": "RN",
+ "municipio": "Caraúbas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bras%C3%A3o_de_Cara%C3%BAbas-RN%2C_Brasil.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5bf25f716b2bc872a58a1cccc31133957b37c92e8eb9e0f23461f276994845e3",
+ "rendicoes": {
+  "png": {
+   "bytes": 41655,
+   "sha256": "7a922297c5ae5848657b5f4da64dd6bb723e894bbc06ddf693bd3ba69b870809",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10586,
+   "sha256": "ed32f1a07b594a959c4a576e139dbfee43a6ba419329eb4c1e72414851537ff8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2402303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2402303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2402303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2402303.jpg",
+  "bytes": 8120,
+  "sha256": "5bf25f716b2bc872a58a1cccc31133957b37c92e8eb9e0f23461f276994845e3"
+ },
+ "sha1_origem": "e4fad8b393daa4e58bf0884608415f0f622c2440",
+ "bytes_origem": 8120,
+ "capturado_em": "2026-11-08T05:36:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Caraúbas-RN,_Brasil.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "e4fad8b393daa4e58bf0884608415f0f622c2440"
+ }
+}

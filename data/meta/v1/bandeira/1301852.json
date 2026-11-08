@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1301852",
+ "uf": "AM",
+ "municipio": "Iranduba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bandeira_de_Iranduba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d76d79c393171730dde168186da21be1c403b0dec60ecc244b918cdc07af4244",
+ "rendicoes": {
+  "png": {
+   "bytes": 49008,
+   "sha256": "e790794a09ff75f67a39042de76e2d52f3c2933227e243ec19a441337d1acca0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16903,
+   "sha256": "85e06ced9092e3b998eaee2c691268fcab73c72802401655d6215182f18a073b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301852.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301852.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301852.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1301852.jpg",
+  "bytes": 32393,
+  "sha256": "d76d79c393171730dde168186da21be1c403b0dec60ecc244b918cdc07af4244"
+ },
+ "sha1_origem": "b027fed655363a889c8fa9c6dee254d8bee5ba91",
+ "bytes_origem": 32393,
+ "capturado_em": "2026-11-08T05:22:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Iranduba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "b027fed655363a889c8fa9c6dee254d8bee5ba91"
+ }
+}

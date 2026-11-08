@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5213509",
+ "uf": "GO",
+ "municipio": "Monte Alegre de Goiás",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_de_Monte_Alegre_de_Goi%C3%A1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Monte Alegre de Goiás",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f0573d350c4fca7d2a988a560629cd7f6c95a1aa7b0f0f193ea90130915413bd",
+ "rendicoes": {
+  "png": {
+   "bytes": 65823,
+   "sha256": "d498bbe64984e95bb1a05cc16f11b1beca5e5bb5cb54cc31ef0a269386d25500",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15482,
+   "sha256": "ecdb32b14a3e90f5acf57a5103b1e3e2e2ff74b727f98bf2b225505fb3a1eb8c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5213509.jpg",
+  "bytes": 11051,
+  "sha256": "f0573d350c4fca7d2a988a560629cd7f6c95a1aa7b0f0f193ea90130915413bd"
+ },
+ "sha1_origem": "4315db1eda231a14ba0e9609ccb6f67d45d69510",
+ "bytes_origem": 11051,
+ "capturado_em": "2026-11-08T07:19:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Monte_Alegre_de_Goiás.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "4315db1eda231a14ba0e9609ccb6f67d45d69510"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2910057",
+ "uf": "BA",
+ "municipio": "Dias d'Ávila",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bras%C3%A3o_dias_davila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Dmcmapas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "44865d2ed912334b5081a6dfd2d43e3c2edf0672291ae50eabc8e6fc5a006d15",
+ "rendicoes": {
+  "png": {
+   "bytes": 21976,
+   "sha256": "2b9f346909e579d3e4946b0d3b895dbde990c5bc029406980687084acaeaf631",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10535,
+   "sha256": "410b19f52ab88f69aae53447d2346524cb1cf99a8e0a5235120177b0b3d88a87",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2910057.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2910057.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2910057.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2910057.jpg",
+  "bytes": 7316,
+  "sha256": "44865d2ed912334b5081a6dfd2d43e3c2edf0672291ae50eabc8e6fc5a006d15"
+ },
+ "sha1_origem": "b083581609fb7c9664f25aa035e1283eba61b8fa",
+ "bytes_origem": 7316,
+ "capturado_em": "2026-11-08T05:53:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_dias_davila.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:15Z",
+  "estado": "igual",
+  "sha1_commons": "b083581609fb7c9664f25aa035e1283eba61b8fa"
+ }
+}

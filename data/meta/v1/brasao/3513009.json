@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3513009",
+ "uf": "SP",
+ "municipio": "Cotia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bras%C3%A3o_Cotia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cotia",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "33f35925eac53bc0a75b3eede68c403e6ceaf56af85cc0a36c9d25f558aa6e83",
+ "rendicoes": {
+  "png": {
+   "bytes": 107565,
+   "sha256": "98337ab57f3cc4f3dfc27b464f5ce9309de29b37f096babe0a145e6d7db49bf2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47310,
+   "sha256": "983eb03fa20e957f3f1196d5c9aa6f69ce0b6a5f16d8017026eed27491c7112e",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 57021,
+   "sha256": "33f35925eac53bc0a75b3eede68c403e6ceaf56af85cc0a36c9d25f558aa6e83"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3513009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3513009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3513009.jpg"
+ },
+ "sha1_origem": "f3b0aff2ede28d0043db08fbde67d5db6012396c",
+ "bytes_origem": 57021,
+ "capturado_em": "2026-11-08T04:01:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Cotia.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:48Z",
+  "estado": "igual",
+  "sha1_commons": "f3b0aff2ede28d0043db08fbde67d5db6012396c"
+ }
+}

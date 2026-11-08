@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3544707",
+ "uf": "SP",
+ "municipio": "Sagres",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bandeira_Sagres.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a09246344c15c9acc31acffaab4a3e8543eff4c4152a8e586f88540ffc0e1a6b",
+ "rendicoes": {
+  "png": {
+   "bytes": 51393,
+   "sha256": "c75491d183854aebffcab2e59263d1d693ca815cda28851b0f2e4734c2c014e4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13268,
+   "sha256": "98e93e10ac89c72d03a0c66792e354ca97c4e765003d3acb19a84e19a1a3e07e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3544707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3544707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3544707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3544707.jpg",
+  "bytes": 10867,
+  "sha256": "a09246344c15c9acc31acffaab4a3e8543eff4c4152a8e586f88540ffc0e1a6b"
+ },
+ "sha1_origem": "4cfb8c9efeca401b46189b352f1af6018b75baeb",
+ "bytes_origem": 10867,
+ "capturado_em": "2026-11-08T06:36:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Sagres.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "4cfb8c9efeca401b46189b352f1af6018b75baeb"
+ }
+}

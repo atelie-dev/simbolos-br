@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5208004",
+ "uf": "GO",
+ "municipio": "Formosa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bandeira_de_Formosa_-_GO.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Formosa, GO",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "13e58ba0dd3beb54dfd60a5daa5070e8c787b692d27eef09ab21177ccfeb7395",
+ "rendicoes": {
+  "png": {
+   "bytes": 53651,
+   "sha256": "8adc91685097c27e7f9d353c7f3f42f5f33057b20df846793595470801514a56",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24362,
+   "sha256": "ce3bd5ce3bdea25c39d5285b90a4af99e3d252d8542e40cca2e4090221597a9f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 87755,
+   "sha256": "13e58ba0dd3beb54dfd60a5daa5070e8c787b692d27eef09ab21177ccfeb7395"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5208004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5208004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5208004.jpg"
+ },
+ "sha1_origem": "5e0ff581daa46c91e8acf972591c710ec3b4cf39",
+ "bytes_origem": 87755,
+ "capturado_em": "2026-11-08T05:10:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Formosa_-_GO.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "5e0ff581daa46c91e8acf972591c710ec3b4cf39"
+ }
+}

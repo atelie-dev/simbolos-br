@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211306",
+ "uf": "SC",
+ "municipio": "Navegantes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bras%C3%A3o_de_Navegantes_SC.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Navegantes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "53f1833953bf244d337e891859f13f3337a562b20b146015373ef47a1773bb6b",
+ "rendicoes": {
+  "png": {
+   "bytes": 62003,
+   "sha256": "91ffb0bc634121edf37b641f8422241be8c65989389a3c88e4b5be9c2c01a87c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18928,
+   "sha256": "36d66d0d706f7bd09f38ea5efe8ceeed3c173a1fd003bf1816f719e0c6a9a6bb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4211306.png",
+  "bytes": 60204,
+  "sha256": "53f1833953bf244d337e891859f13f3337a562b20b146015373ef47a1773bb6b"
+ },
+ "sha1_origem": "d8db201ee5ac48403356e2782827335134746708",
+ "bytes_origem": 60204,
+ "capturado_em": "2026-11-08T06:55:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Navegantes_SC.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "d8db201ee5ac48403356e2782827335134746708"
+ }
+}

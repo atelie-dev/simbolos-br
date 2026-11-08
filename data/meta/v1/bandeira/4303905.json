@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4303905",
+ "uf": "RS",
+ "municipio": "Campo Bom",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bandeira_de_Campo_Bom.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6d2357161151027cb5d126795ae59a072ae165eaf3c88f316ae0f57ddddf5cb2",
+ "rendicoes": {
+  "png": {
+   "bytes": 41763,
+   "sha256": "8f296b0eb4f721fb502e45a68b57549fc525c2c6266f596128d3ab9e6c8bba30",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19969,
+   "sha256": "92c0e6df63d99c57510dc98a50fae1ff99130c27f8f28fffa6fbfafbfe9d5332",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4303905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4303905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4303905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4303905.png",
+  "bytes": 147790,
+  "sha256": "6d2357161151027cb5d126795ae59a072ae165eaf3c88f316ae0f57ddddf5cb2"
+ },
+ "sha1_origem": "a08d33f6223946aa25b4e82384ed28d5e07b6b2d",
+ "bytes_origem": 147790,
+ "capturado_em": "2026-11-08T07:00:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Campo_Bom.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "a08d33f6223946aa25b4e82384ed28d5e07b6b2d"
+ }
+}

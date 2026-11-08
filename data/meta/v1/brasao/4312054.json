@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312054",
+ "uf": "RS",
+ "municipio": "Marques de Souza",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bras%C3%A3o_Maques_de_Souza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Marques de Souza",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9350746751e9ff63595979816e316d1e3e99a9d6f3e7942e18f4ff3cd8a4aaa2",
+ "rendicoes": {
+  "png": {
+   "bytes": 335631,
+   "sha256": "1922ef2b0a1c9445dcbb6cf9d8c2efb013033aa78a3f0f5a9ff6e8e63cb2f61c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 71814,
+   "sha256": "ac0769cd48e8dcae919c053378321c879a921416162262fcd476f360db36f648",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312054.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312054.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312054.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4312054.jpg",
+  "bytes": 80557,
+  "sha256": "9350746751e9ff63595979816e316d1e3e99a9d6f3e7942e18f4ff3cd8a4aaa2"
+ },
+ "sha1_origem": "78b74327a99d5b47ad0dd2000f618bf4ee7f326e",
+ "bytes_origem": 80557,
+ "capturado_em": "2026-11-08T07:05:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Maques_de_Souza.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "78b74327a99d5b47ad0dd2000f618bf4ee7f326e"
+ }
+}

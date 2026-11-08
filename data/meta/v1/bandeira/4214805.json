@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4214805",
+ "uf": "SC",
+ "municipio": "Rio do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bandeira_do_munic%C3%ADpio_de_Rio_do_Sul_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Rio do Sul (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "2af0978a09c54c15efd3db1050690286bcc6267ff22ba0f29158378abf640780",
+ "rendicoes": {
+  "png": {
+   "bytes": 36369,
+   "sha256": "a348566cadb5ff16ddee23d0ee9433f4d0bee6a33b12ed56ffa4e37e717f3c6e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18027,
+   "sha256": "49129c09a5de9a94b12838d0d7bf4f8e42e30c5c01fb69ee7b431385480e0f24",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1177454,
+   "sha256": "2af0978a09c54c15efd3db1050690286bcc6267ff22ba0f29158378abf640780"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4214805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4214805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4214805.jpg"
+ },
+ "sha1_origem": "acb421970f45f7f1e0568769d65e51e77a3b4d72",
+ "bytes_origem": 1177454,
+ "capturado_em": "2026-11-08T04:43:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Rio_do_Sul_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "acb421970f45f7f1e0568769d65e51e77a3b4d72"
+ }
+}

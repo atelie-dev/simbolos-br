@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4104204",
+ "uf": "PR",
+ "municipio": "Campo Largo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bandeira_Campo-Largo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "289c786f598374151dfb656e0bc480d12132ed458aa144fe8b9419df57125155",
+ "rendicoes": {
+  "png": {
+   "bytes": 38558,
+   "sha256": "4b9a8de9782e86d35ba1feeebcfba868ec053845cac3cfa26be7765d8436c87c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26499,
+   "sha256": "9fb81d4c7ce1857a83b13609d04c1dad22653bb011979fc3442af9609480eab7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4104204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4104204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4104204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4104204.png",
+  "bytes": 11363,
+  "sha256": "289c786f598374151dfb656e0bc480d12132ed458aa144fe8b9419df57125155"
+ },
+ "sha1_origem": "8c38ff19de431265c55925a23e81a4a7878d5162",
+ "bytes_origem": 11363,
+ "capturado_em": "2026-11-08T06:42:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Campo-Largo.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "8c38ff19de431265c55925a23e81a4a7878d5162"
+ }
+}

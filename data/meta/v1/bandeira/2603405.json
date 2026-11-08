@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2603405",
+ "uf": "PE",
+ "municipio": "Calumbi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bandeira_Municipal_de_Calumbi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Daniel Migueis",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e4b01dd766d980875b2f20c43506b635fd8f21aac9b1c4cdac8731b7a57ba246",
+ "rendicoes": {
+  "png": {
+   "bytes": 45027,
+   "sha256": "60346b8a6742a833dc802243e2a37c1de778df914dfb8b565bad27374bab708c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18505,
+   "sha256": "233afb1821dfe6961fd442947dab0d176a64bcea00711fd0a46e3978bd033236",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2603405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2603405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2603405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2603405.png",
+  "bytes": 223985,
+  "sha256": "e4b01dd766d980875b2f20c43506b635fd8f21aac9b1c4cdac8731b7a57ba246"
+ },
+ "sha1_origem": "19aaac8a47ff6fc54096629180713294f39bf49b",
+ "bytes_origem": 223985,
+ "capturado_em": "2026-11-08T05:44:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Municipal_de_Calumbi.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "19aaac8a47ff6fc54096629180713294f39bf49b"
+ }
+}

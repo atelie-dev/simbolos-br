@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2926905",
+ "uf": "BA",
+ "municipio": "Rio do Pires",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Brasaorpires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Público",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7a59331dae9925c105c35e0567a7bad168bb98d9389da1e5f9481ff814494056",
+ "rendicoes": {
+  "png": {
+   "bytes": 56141,
+   "sha256": "2a336357fea3fdb249678819eaa608317851c9b68dcda2c0ecf766942268d282",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11277,
+   "sha256": "e3df3257ab7b799b7cd5d33e66e6ceed86a9141c6003093c230b45df5a3f4369",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2926905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2926905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2926905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2926905.jpg",
+  "bytes": 8600,
+  "sha256": "7a59331dae9925c105c35e0567a7bad168bb98d9389da1e5f9481ff814494056"
+ },
+ "sha1_origem": "374a277dcc13b8e79386470d8bd58b52926861ff",
+ "bytes_origem": 8600,
+ "capturado_em": "2026-11-08T05:56:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaorpires.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "374a277dcc13b8e79386470d8bd58b52926861ff"
+ }
+}

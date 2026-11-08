@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2501906",
+ "uf": "PB",
+ "municipio": "Belém",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bandeira_belem_pb.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Belém",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a9a91c94f423c280404c92cde5d80b504a0bb76a7159f1dcf192b61c5f868c57",
+ "rendicoes": {
+  "png": {
+   "bytes": 20214,
+   "sha256": "bcbd7388bb8fb68d447de30c0ad82bea7d2e32ee9f2736d0d238d96affc4fd84",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6459,
+   "sha256": "bb11692cc5f59f5591486c70821f0da1f44f0ca76dc22a78901d48a80837de30",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501906.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501906.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501906.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2501906.png",
+  "bytes": 16602,
+  "sha256": "a9a91c94f423c280404c92cde5d80b504a0bb76a7159f1dcf192b61c5f868c57"
+ },
+ "sha1_origem": "6cfc7a4b2fc96cd4c7611d8237ec3ff23c66d284",
+ "bytes_origem": 16602,
+ "capturado_em": "2026-11-08T05:40:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_belem_pb.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "6cfc7a4b2fc96cd4c7611d8237ec3ff23c66d284"
+ }
+}

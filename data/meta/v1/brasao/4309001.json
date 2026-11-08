@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4309001",
+ "uf": "RS",
+ "municipio": "Giruá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bras%C3%A3o_Giru%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Giruá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6ce21341c62684a28e46f72a7326b1e74a4019805195613098147ff0d7eaa6df",
+ "rendicoes": {
+  "png": {
+   "bytes": 326502,
+   "sha256": "707cb36c681a4b5d1b67a2728368e3ce1cebf5311fa60f424b759294fb71f6ce",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56633,
+   "sha256": "8372ef65f129dd04590e950358a529000d5444752b571521c8aab7f116a047ba",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4309001.jpg",
+  "bytes": 52417,
+  "sha256": "6ce21341c62684a28e46f72a7326b1e74a4019805195613098147ff0d7eaa6df"
+ },
+ "sha1_origem": "361b258f52a3e6518ed1553a676333ee50ecf0ac",
+ "bytes_origem": 52417,
+ "capturado_em": "2026-11-08T07:03:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Giruá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "361b258f52a3e6518ed1553a676333ee50ecf0ac"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314175",
+ "uf": "RS",
+ "municipio": "Pedras Altas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/BrasaoPedrasAltas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a5b4a0cb522189b55d33afe07f5d0e729888d058f60e8e3c9d23a34a44cef97a",
+ "rendicoes": {
+  "png": {
+   "bytes": 76506,
+   "sha256": "5266d85406fc7a863740386a222bc88167ba22617293c2c1a5df6c059434f46f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16179,
+   "sha256": "5274ccc1fbbc54da0a9a4a08ef1eb3481e21eb379823fbe85946c6147a0363b1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314175.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314175.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314175.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4314175.jpg",
+  "bytes": 13522,
+  "sha256": "a5b4a0cb522189b55d33afe07f5d0e729888d058f60e8e3c9d23a34a44cef97a"
+ },
+ "sha1_origem": "4f8d34410d523c182029263dca5e714cd85c4ed8",
+ "bytes_origem": 13522,
+ "capturado_em": "2026-11-08T07:07:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoPedrasAltas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "4f8d34410d523c182029263dca5e714cd85c4ed8"
+ }
+}

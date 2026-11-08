@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3113800",
+ "uf": "MG",
+ "municipio": "Carmésia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Carm%C3%A9siamgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Carmésia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3ae434f1aceee0e7f6bcf45bcf148b044d8b787f98d5fcceda97a2eb23152894",
+ "rendicoes": {
+  "png": {
+   "bytes": 28777,
+   "sha256": "21d8bd867195252447be459e1b1b1eb94d7a7687fcebfd0cbd7c3167c1991e94",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7315,
+   "sha256": "e798fbd15698eceb6f49232203c9846b9cbd9bbe6bf3bbcb9a445db978094478",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3113800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3113800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3113800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3113800.jpg",
+  "bytes": 9119,
+  "sha256": "3ae434f1aceee0e7f6bcf45bcf148b044d8b787f98d5fcceda97a2eb23152894"
+ },
+ "sha1_origem": "9560ceec2fe10b486808382bf3d5541ab1501a7a",
+ "bytes_origem": 9119,
+ "capturado_em": "2026-11-08T06:02:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Carmésiamgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:21Z",
+  "estado": "igual",
+  "sha1_commons": "9560ceec2fe10b486808382bf3d5541ab1501a7a"
+ }
+}

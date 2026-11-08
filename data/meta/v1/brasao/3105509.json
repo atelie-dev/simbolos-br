@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3105509",
+ "uf": "MG",
+ "municipio": "Barão do Monte Alto",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bar%C3%A3o_do_Monte_Alto_Bras%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4a9218a69d02f5e722238484dc0a54f33fbd89870fee5153951c5969937020cf",
+ "rendicoes": {
+  "png": {
+   "bytes": 460434,
+   "sha256": "25dbbbb9088ddc25c0e987b1f7715ab28d7320a23254952f36a5b61cef11539a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 74400,
+   "sha256": "d25bbbd608bbe3382f4d3c4344582ba4116f59fb8cd32933ecbf5f1e0153abc5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3105509.jpg",
+  "bytes": 171323,
+  "sha256": "4a9218a69d02f5e722238484dc0a54f33fbd89870fee5153951c5969937020cf"
+ },
+ "sha1_origem": "a3c17468505fdbe8f7ec24e3c9b7ea02deb93ac8",
+ "bytes_origem": 171323,
+ "capturado_em": "2026-11-08T06:00:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Barão_do_Monte_Alto_Brasão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "a3c17468505fdbe8f7ec24e3c9b7ea02deb93ac8"
+ }
+}

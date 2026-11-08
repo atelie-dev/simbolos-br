@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3556909",
+ "uf": "SP",
+ "municipio": "Vista Alegre do Alto",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bras%C3%A3o_Vista_Alegre_do_Alto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Vista Alegre do Alto",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "505d72711832db87ceab9e7fddbc12e3cc2f5e2c09aac59d53edb54ba85c6539",
+ "rendicoes": {
+  "png": {
+   "bytes": 124358,
+   "sha256": "8c99766ad038d16e39c2a0635be08fdc8f46d55441a53e1523ab1c7bbfa29f01",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28187,
+   "sha256": "31e68563c64df457653d7a1f97afaf386740cb90ca86273f5521cba6630556e6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3556909.jpg",
+  "bytes": 112483,
+  "sha256": "505d72711832db87ceab9e7fddbc12e3cc2f5e2c09aac59d53edb54ba85c6539"
+ },
+ "sha1_origem": "38f2c47bb133ad5752e6f572d8316a3dbcccf75e",
+ "bytes_origem": 112483,
+ "capturado_em": "2026-11-08T06:40:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Vista_Alegre_do_Alto.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "38f2c47bb133ad5752e6f572d8316a3dbcccf75e"
+ }
+}

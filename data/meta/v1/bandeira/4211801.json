@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211801",
+ "uf": "SC",
+ "municipio": "Ouro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira-ouro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ouro City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "61c0e63861cccf11a09d737be849ee3a247249b566e41bdc7ba5f7d9d6890ea4",
+ "rendicoes": {
+  "png": {
+   "bytes": 9068,
+   "sha256": "b70d774fc7d01ddaa74ea8ce7e81083420b48e9f11737a9736b9499a04954b1c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13306,
+   "sha256": "d32be57489bc2b95b69d5447b88d34e3b2792999d218293b1fa6251d38535033",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4211801.png",
+  "bytes": 6403,
+  "sha256": "61c0e63861cccf11a09d737be849ee3a247249b566e41bdc7ba5f7d9d6890ea4"
+ },
+ "sha1_origem": "aba821fbf4f135334bc7efb15e33316892e45d7d",
+ "bytes_origem": 6403,
+ "capturado_em": "2026-11-08T06:55:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-ouro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "aba821fbf4f135334bc7efb15e33316892e45d7d"
+ }
+}

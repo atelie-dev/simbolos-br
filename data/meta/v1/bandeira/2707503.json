@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2707503",
+ "uf": "AL",
+ "municipio": "Porto Real do Colégio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Bandeira_prc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7c194a417dfcb3aa048a3adc31003016d75a2e7a9143596624204488a2f6284d",
+ "rendicoes": {
+  "png": {
+   "bytes": 34496,
+   "sha256": "3e21f87d5fc7ea4a6ad1eccb30f11d9166cbbb65a546b8ae82b10fb7598e9e28",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8256,
+   "sha256": "a91d4c9de2b4c714cd2e08b68c22a0bc2d41d54b379a1e3b6cd0285ab3a2feb8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2707503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2707503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2707503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2707503.jpg",
+  "bytes": 4941,
+  "sha256": "7c194a417dfcb3aa048a3adc31003016d75a2e7a9143596624204488a2f6284d"
+ },
+ "sha1_origem": "39b4ac27d042e2352029e131f08cedcc76f8f3e4",
+ "bytes_origem": 4941,
+ "capturado_em": "2026-11-08T05:48:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_prc.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "39b4ac27d042e2352029e131f08cedcc76f8f3e4"
+ }
+}

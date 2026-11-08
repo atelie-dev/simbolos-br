@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5212253",
+ "uf": "GO",
+ "municipio": "Lagoa Santa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Brasaolagoasantago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Leogrigna",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9c3c13c0b1f43e365966ae166448bca5fb0f94ae71d1590b266d6b4ed9fafe13",
+ "rendicoes": {
+  "png": {
+   "bytes": 52668,
+   "sha256": "20ae979b9f4ce8fe1cdc5b7a1fb1b0e8f584286b7cbc81cdebd9c50c9f3eb0c7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12611,
+   "sha256": "ff20e62212a9dea55c455feaf328c0b4e63f8355459c187ad4c50da9ba0708fa",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5212253.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5212253.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5212253.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5212253.jpg",
+  "bytes": 9867,
+  "sha256": "9c3c13c0b1f43e365966ae166448bca5fb0f94ae71d1590b266d6b4ed9fafe13"
+ },
+ "sha1_origem": "c9af1fe02361c5c40ecedc4efcbfee0ab9a4afb6",
+ "bytes_origem": 9867,
+ "capturado_em": "2026-11-08T07:18:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaolagoasantago.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "c9af1fe02361c5c40ecedc4efcbfee0ab9a4afb6"
+ }
+}

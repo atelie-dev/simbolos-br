@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2112902",
+ "uf": "MA",
+ "municipio": "Vitória do Mearim",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Vit%C3%B3ria_do_Mearim.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Domaleixo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f47681dd1e08d0474f230261a6c8afd75fb815b67158d9f2e017098ff0993507",
+ "rendicoes": {
+  "png": {
+   "bytes": 148578,
+   "sha256": "a2f517b354be90e08a95cdb92b07033166b87ba68193153639cd8eafb28ad4a5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 57963,
+   "sha256": "1c7b401980e4155015a0e9a0045a68926be5dac67fce624ae1e8b42036f1e2a4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2112902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2112902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2112902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2112902.png",
+  "bytes": 177497,
+  "sha256": "f47681dd1e08d0474f230261a6c8afd75fb815b67158d9f2e017098ff0993507"
+ },
+ "sha1_origem": "c21a7f154322c9fd186606fa98b6e5d6effd4f31",
+ "bytes_origem": 177497,
+ "capturado_em": "2026-11-08T05:29:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Vitória_do_Mearim.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "c21a7f154322c9fd186606fa98b6e5d6effd4f31"
+ }
+}

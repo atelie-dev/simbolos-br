@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3123858",
+ "uf": "MG",
+ "municipio": "Entre Folhas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Entre_Folhasmgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Entre Folhas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "af9a29aab172fd8f77f909f8f1c13718df32458b55fc0aacfa46677522dd2978",
+ "rendicoes": {
+  "png": {
+   "bytes": 14405,
+   "sha256": "340d40e14ac60d39d13f8f9f1622a38a42fcdac38adf156baf913576bc4996f2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4824,
+   "sha256": "b403f9a2275c1d77292f4d49614e7dfe9860ed908203eacbb1ea729ff26e9da6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123858.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123858.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123858.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3123858.jpg",
+  "bytes": 2950,
+  "sha256": "af9a29aab172fd8f77f909f8f1c13718df32458b55fc0aacfa46677522dd2978"
+ },
+ "sha1_origem": "ec58f8ff90da39fe6969acdef87a6e95159b0071",
+ "bytes_origem": 2950,
+ "capturado_em": "2026-11-08T06:06:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Entre_Folhasmgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "ec58f8ff90da39fe6969acdef87a6e95159b0071"
+ }
+}

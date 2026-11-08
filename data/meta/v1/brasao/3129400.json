@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3129400",
+ "uf": "MG",
+ "municipio": "Ibertioga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ibertiogamgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ibertioga",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6306b6ec43cb4523724b1d86ba3c897cb825529335291a562248739e8c4b5d5f",
+ "rendicoes": {
+  "png": {
+   "bytes": 12536,
+   "sha256": "12ca68c03582b126908eec5ae58767ba33bd0d3957aa0cacce764a304ae6d5e2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4120,
+   "sha256": "4000bcd096c22a7b4f386b4925b6bc9af512e96e4661e8ea2d28a712dfdce333",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3129400.jpg",
+  "bytes": 3425,
+  "sha256": "6306b6ec43cb4523724b1d86ba3c897cb825529335291a562248739e8c4b5d5f"
+ },
+ "sha1_origem": "ce94a6680c598af58fd1102fef748ee1bc395bb8",
+ "bytes_origem": 3425,
+ "capturado_em": "2026-11-08T06:08:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ibertiogamgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "ce94a6680c598af58fd1102fef748ee1bc395bb8"
+ }
+}

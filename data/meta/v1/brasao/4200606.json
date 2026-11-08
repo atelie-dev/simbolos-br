@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4200606",
+ "uf": "SC",
+ "municipio": "Águas Mornas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Brasao_aguas_mornas.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "bb30876e9b9a7bc1911655d21c02c132f806a43cd9fa7ea0e754203bb9e5b21d",
+ "rendicoes": {
+  "png": {
+   "bytes": 190359,
+   "sha256": "d0ec451b0c6d53bbf63364403f755475e9a5307b53a11c66d8260ddaf07000d9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63802,
+   "sha256": "79d4eb4451ca2a6a15d88b32c2c2a1d602b67463c1e0ca1366ddd031760c5982",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4200606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4200606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4200606.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4200606.gif",
+  "bytes": 649749,
+  "sha256": "bb30876e9b9a7bc1911655d21c02c132f806a43cd9fa7ea0e754203bb9e5b21d"
+ },
+ "sha1_origem": "b6ceb0d9874f68aa906817cc45f4fd83839cefa3",
+ "bytes_origem": 649749,
+ "capturado_em": "2026-11-08T06:51:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_aguas_mornas.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "b6ceb0d9874f68aa906817cc45f4fd83839cefa3"
+ }
+}

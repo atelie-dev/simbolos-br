@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5104526",
+ "uf": "MT",
+ "municipio": "Ipiranga do Norte",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ipiranga_do_Norte.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "89223c231daaa641874d6b3d45f8ea014318fcf5e2cb113a51e0d8a490eca234",
+ "rendicoes": {
+  "png": {
+   "bytes": 325862,
+   "sha256": "2302dd41df2ce37df7104cfd1ba8a1c160753bc99f444e135bd66c20450ade09",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 71669,
+   "sha256": "6ac517861b70182da83044b3ff85769267f15285604a3c8beef2cc320267db0d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5104526.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5104526.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5104526.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5104526.png",
+  "bytes": 375743,
+  "sha256": "89223c231daaa641874d6b3d45f8ea014318fcf5e2cb113a51e0d8a490eca234"
+ },
+ "sha1_origem": "4d244f532eb5f7c2c5f769e20d73d6186e9845a7",
+ "bytes_origem": 375743,
+ "capturado_em": "2026-11-08T07:14:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ipiranga_do_Norte.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "4d244f532eb5f7c2c5f769e20d73d6186e9845a7"
+ }
+}

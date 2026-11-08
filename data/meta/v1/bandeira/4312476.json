@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312476",
+ "uf": "RS",
+ "municipio": "Morro Reuter",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Morro_Reuterbandeirars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Morro Reuter",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "72b1683f9a2346a8ea3ff3061d3be09b922db6885133c3bdc11729db8ef7dc2a",
+ "rendicoes": {
+  "png": {
+   "bytes": 87508,
+   "sha256": "8144c64ca25b3cbe69ab69eef3f88ae15990c69d82223eb9ff348dba0be4a5d9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25267,
+   "sha256": "5eac68b2de11b403c945dc535ee190fcc448482d5033b5300da9e1ca8cad63b5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312476.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312476.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312476.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4312476.jpg",
+  "bytes": 28486,
+  "sha256": "72b1683f9a2346a8ea3ff3061d3be09b922db6885133c3bdc11729db8ef7dc2a"
+ },
+ "sha1_origem": "a3638f185ad752ff5fc6c705d019d1ab46dd0ca7",
+ "bytes_origem": 28486,
+ "capturado_em": "2026-11-08T07:05:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Morro_Reuterbandeirars.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "a3638f185ad752ff5fc6c705d019d1ab46dd0ca7"
+ }
+}

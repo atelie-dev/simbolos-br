@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2408300",
+ "uf": "RN",
+ "municipio": "Nova Cruz",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Nova_Cruz_RN.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CNM",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d7b8d4a14033a60b64769a47aaf2cc6cc9e2789b6bda0b0fdde5d326b08776d8",
+ "rendicoes": {
+  "png": {
+   "bytes": 40591,
+   "sha256": "dd4b1fc8dc21e82eb1608c280f7645fbe1fdd4546b371290a212d455d5c76e66",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24032,
+   "sha256": "8569202b04962652a62f6aa6f7171d654941a536e1973852cab64b93553e6a3a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2408300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2408300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2408300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2408300.png",
+  "bytes": 173096,
+  "sha256": "d7b8d4a14033a60b64769a47aaf2cc6cc9e2789b6bda0b0fdde5d326b08776d8"
+ },
+ "sha1_origem": "67974f1989a9e33511d10c6c8a5dfe54707059a7",
+ "bytes_origem": 173096,
+ "capturado_em": "2026-11-08T05:37:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Nova_Cruz_RN.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "67974f1989a9e33511d10c6c8a5dfe54707059a7"
+ }
+}

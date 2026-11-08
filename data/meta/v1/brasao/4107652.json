@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4107652",
+ "uf": "PR",
+ "municipio": "Fazenda Rio Grande",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Brasao-fazenda-riograndepr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Fazenda Rio Grande City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "59b71d9556debf04ad748a2c4723fed48f36caef15cbffe210e3a6708d3e2b79",
+ "rendicoes": {
+  "png": {
+   "bytes": 182853,
+   "sha256": "d39922b8584ab492d796fc1f78f3aedadad71a108cea6ccfddda6017a98013bf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37550,
+   "sha256": "cc686de5b09c0fdd99a597a1caaf5b3f93e628feeb2c8b0a13da08c3ce02e688",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4107652.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4107652.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4107652.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4107652.jpg",
+  "bytes": 96912,
+  "sha256": "59b71d9556debf04ad748a2c4723fed48f36caef15cbffe210e3a6708d3e2b79"
+ },
+ "sha1_origem": "6e658e700d10d06081102b6fc46ed27abec449b5",
+ "bytes_origem": 96912,
+ "capturado_em": "2026-11-08T06:43:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-fazenda-riograndepr.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "6e658e700d10d06081102b6fc46ed27abec449b5"
+ }
+}

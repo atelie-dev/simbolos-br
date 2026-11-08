@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2607950",
+ "uf": "PE",
+ "municipio": "Jaqueira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Brasao_jaqueira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3f493c96ba885c602ce5a401e223a5d7f0f96d98a6628f3140701e30cd8b0f23",
+ "rendicoes": {
+  "png": {
+   "bytes": 18945,
+   "sha256": "ea39b1e81f2a3cf84f3f398ead0edde53eb1f41a302589d12a63488ef584b1a8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10136,
+   "sha256": "3d34f6a2b81c36bc62894414e7284fb51ed13c2fd1cfa02a3e36bffb8f4d4c79",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2607950.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2607950.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2607950.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2607950.png",
+  "bytes": 8141,
+  "sha256": "3f493c96ba885c602ce5a401e223a5d7f0f96d98a6628f3140701e30cd8b0f23"
+ },
+ "sha1_origem": "60338c8320529952abe10689d7d4931ed85856fa",
+ "bytes_origem": 8141,
+ "capturado_em": "2026-11-08T05:45:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_jaqueira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "60338c8320529952abe10689d7d4931ed85856fa"
+ }
+}

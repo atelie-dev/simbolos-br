@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5206404",
+ "uf": "GO",
+ "municipio": "Crixás",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bras%C3%A3o_de_Crix%C3%A1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Crixás",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cfadcdcc1e0570c941692491849bf32b14bdd07389a108414f8a9d6f5fe47c17",
+ "rendicoes": {
+  "png": {
+   "bytes": 40636,
+   "sha256": "42f6e674d2f941ba272b582ba44c4507ba5319eee88016e93261971029e0955b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9722,
+   "sha256": "af0a8cf96e151c2a639afe532fb974b86d13d04831db430807c7684cd73a8db9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5206404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5206404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5206404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5206404.jpg",
+  "bytes": 7882,
+  "sha256": "cfadcdcc1e0570c941692491849bf32b14bdd07389a108414f8a9d6f5fe47c17"
+ },
+ "sha1_origem": "43e04038c18dce8269d0ae1541942cf1ef30181d",
+ "bytes_origem": 7882,
+ "capturado_em": "2026-11-08T07:17:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Crixás.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "43e04038c18dce8269d0ae1541942cf1ef30181d"
+ }
+}

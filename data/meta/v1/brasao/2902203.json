@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2902203",
+ "uf": "BA",
+ "municipio": "Aramari",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bras%C3%A3o_de_Aramari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "021fb6338f5dba8137c16ac7d7bfae483da2c5137a6f6d6a000f8d933d846245",
+ "rendicoes": {
+  "png": {
+   "bytes": 38537,
+   "sha256": "f62886633b071d2fb2ce441524f53484ffe3bffc3b058f388b8499716706e8eb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9388,
+   "sha256": "9648143d11313ef15937cb40c95c6392d6e8f772c43b4a3b35bffe0d73d76052",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2902203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2902203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2902203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2902203.jpg",
+  "bytes": 6616,
+  "sha256": "021fb6338f5dba8137c16ac7d7bfae483da2c5137a6f6d6a000f8d933d846245"
+ },
+ "sha1_origem": "c2faec1e276631da6eddefb2ab3ef6161faffa81",
+ "bytes_origem": 6616,
+ "capturado_em": "2026-11-08T05:51:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Aramari.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "c2faec1e276631da6eddefb2ab3ef6161faffa81"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3520202",
+ "uf": "SP",
+ "municipio": "Igaratá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brasao_Igarata_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "cad05671299fda2e44bd14dca444907693ebbd41cce56c03d748e1fb0ee14141",
+ "rendicoes": {
+  "png": {
+   "bytes": 180563,
+   "sha256": "291fd7a6c2029f87053ec5142c86c3f96c484e84ae77d87e5623d566fca2fd63",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 65076,
+   "sha256": "20d4675f9380933915c5a8ec3edca536142302336358e0775daa618608964744",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1211780,
+   "sha256": "cad05671299fda2e44bd14dca444907693ebbd41cce56c03d748e1fb0ee14141"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520202.jpg"
+ },
+ "sha1_origem": "bfb5f0598451129a3c135b99cc0398ebbc8869f6",
+ "bytes_origem": 1211780,
+ "capturado_em": "2026-11-08T04:04:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Igarata_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:33Z",
+  "estado": "igual",
+  "sha1_commons": "bfb5f0598451129a3c135b99cc0398ebbc8869f6"
+ }
+}

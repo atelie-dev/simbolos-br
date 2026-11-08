@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2103604",
+ "uf": "MA",
+ "municipio": "Coroatá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bandeira_de_Coroata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Edutj17",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e5781e6358651a8aec58ad3fa5fb926ceb0b13102c8ef3190225dcb3ab17eed1",
+ "rendicoes": {
+  "png": {
+   "bytes": 38484,
+   "sha256": "ca7eee991a3fa580c5bdad16880f2784b1e34e59f9215be10e3666346d26d9be",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15800,
+   "sha256": "e95dd28b3023c1088a6c98c67dcc8b03578692de02eaaec1f1be926f571ddabc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2103604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2103604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2103604.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2103604.jpg",
+  "bytes": 20690,
+  "sha256": "e5781e6358651a8aec58ad3fa5fb926ceb0b13102c8ef3190225dcb3ab17eed1"
+ },
+ "sha1_origem": "56b6ce5ab44a025c850d6adfedfbeaa604edec05",
+ "bytes_origem": 20690,
+ "capturado_em": "2026-11-08T05:27:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Coroata.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "56b6ce5ab44a025c850d6adfedfbeaa604edec05"
+ }
+}

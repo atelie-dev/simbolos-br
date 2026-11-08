@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4108320",
+ "uf": "PR",
+ "municipio": "Francisco Alves",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Flag_of_Francisco_Alves_PR.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CNM",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "55c36bba741423c2a50dfdc6b1ec77fa7ac98ac56bcf6bb8a80fa8a8708bab38",
+ "rendicoes": {
+  "png": {
+   "bytes": 41218,
+   "sha256": "48b3f6eed75a798d4345e05080813c49cbf74ed0e14dcb105f4d33993b1a22b3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13835,
+   "sha256": "df7dc05a5335e5a1fee465784145780bf1207844f4afc454c943230fdd1bdc42",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4108320.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4108320.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4108320.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4108320.png",
+  "bytes": 115100,
+  "sha256": "55c36bba741423c2a50dfdc6b1ec77fa7ac98ac56bcf6bb8a80fa8a8708bab38"
+ },
+ "sha1_origem": "db0ea2c85e1bc48e8e84c3e9a5b0e7038093c7ec",
+ "bytes_origem": 115100,
+ "capturado_em": "2026-11-08T06:43:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Francisco_Alves_PR.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "db0ea2c85e1bc48e8e84c3e9a5b0e7038093c7ec"
+ }
+}

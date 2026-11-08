@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3128204",
+ "uf": "MG",
+ "municipio": "Guaraciaba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Guaraciabamgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Guaraciaba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1a9f40f4a7ff12c04c74b4eb8ea7d8026f1d2d5564e98e74a306be3db8b68f2f",
+ "rendicoes": {
+  "png": {
+   "bytes": 182446,
+   "sha256": "05a1430919f4855ebf42bc875519f71dec55e7b32236387a7ee7de1c7e473379",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40354,
+   "sha256": "757b2217d92f0fdbeee0c141680129f5f8e9ed33b6e55042b7f01d13f88d78d7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3128204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3128204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3128204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3128204.jpg",
+  "bytes": 37057,
+  "sha256": "1a9f40f4a7ff12c04c74b4eb8ea7d8026f1d2d5564e98e74a306be3db8b68f2f"
+ },
+ "sha1_origem": "ec30b65abcc8d68653430ce28e45bd06db8bf69a",
+ "bytes_origem": 37057,
+ "capturado_em": "2026-11-08T06:08:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Guaraciabamgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "ec30b65abcc8d68653430ce28e45bd06db8bf69a"
+ }
+}

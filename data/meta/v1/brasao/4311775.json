@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4311775",
+ "uf": "RS",
+ "municipio": "Maquiné",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Brasao_Maquine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Maquiné.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "78969eba87404b9c58c4c17b5e91d633e06f33e13b844fb00f7b2b8d7eef592a",
+ "rendicoes": {
+  "png": {
+   "bytes": 29149,
+   "sha256": "364a6677336c68cbf76822068dcaa84a05f3803af842bb7b4e06b8f83ad866be",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8941,
+   "sha256": "f24d0db0cb0a000fe117935563ad6594d58175bb5b85ad86b5ed36aeb7af5ec4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311775.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311775.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311775.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4311775.jpg",
+  "bytes": 43273,
+  "sha256": "78969eba87404b9c58c4c17b5e91d633e06f33e13b844fb00f7b2b8d7eef592a"
+ },
+ "sha1_origem": "9eaf15ad4ad771097c95651bc205034dbfae6d14",
+ "bytes_origem": 43273,
+ "capturado_em": "2026-11-08T07:05:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Maquine.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:33Z",
+  "estado": "igual",
+  "sha1_commons": "9eaf15ad4ad771097c95651bc205034dbfae6d14"
+ }
+}

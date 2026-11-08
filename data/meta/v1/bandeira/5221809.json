@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5221809",
+ "uf": "GO",
+ "municipio": "Urutaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bandeira_de_Uruta%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Urutaí",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "aa4cdce429decc3a60fed5b83180fc2d2f61cbcaabc93e29159fe4f2f0014c02",
+ "rendicoes": {
+  "png": {
+   "bytes": 98599,
+   "sha256": "6af23c1764b6b84b2861936dc98634db3a860c9e86bd71120ab2d9b659bf65b4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21843,
+   "sha256": "da30bce1533af29fbf6d2ac307c9453ab4767c51d77d9ec8e63da06457ae003c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5221809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5221809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5221809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5221809.jpg",
+  "bytes": 20495,
+  "sha256": "aa4cdce429decc3a60fed5b83180fc2d2f61cbcaabc93e29159fe4f2f0014c02"
+ },
+ "sha1_origem": "44fcd501feeb64e04afc73bdfc878d20fce9486b",
+ "bytes_origem": 20495,
+ "capturado_em": "2026-11-08T07:21:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Urutaí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "44fcd501feeb64e04afc73bdfc878d20fce9486b"
+ }
+}

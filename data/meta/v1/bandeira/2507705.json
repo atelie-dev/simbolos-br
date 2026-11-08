@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2507705",
+ "uf": "PB",
+ "municipio": "Juazeirinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bandeira_Juazeirinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Juazeirinho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "accc80327a6cad3ca09a34740a9bbe381f1871ec038f7b6ef5a9feab756468b1",
+ "rendicoes": {
+  "png": {
+   "bytes": 109097,
+   "sha256": "4c457f0992adb78ce5031b5926daa390c616b84b6c7f186ce51b915b7ea061c8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21963,
+   "sha256": "024c526c67dbc49a450143a3da2ff26dcc03f9f49ad0252ad631532b6256af6b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2507705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2507705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2507705.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2507705.jpg",
+  "bytes": 14198,
+  "sha256": "accc80327a6cad3ca09a34740a9bbe381f1871ec038f7b6ef5a9feab756468b1"
+ },
+ "sha1_origem": "43ac0a9c353380b2c144dda3d98b30874fc29b55",
+ "bytes_origem": 14198,
+ "capturado_em": "2026-11-08T05:41:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Juazeirinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "43ac0a9c353380b2c144dda3d98b30874fc29b55"
+ }
+}

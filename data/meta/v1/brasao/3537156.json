@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3537156",
+ "uf": "SP",
+ "municipio": "Pedrinhas Paulista",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/BrasaoPedrinhasPta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Pedrinhas Paulista",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bc4008fe8c376c5c2d0855f6c774ffe8d3c20033abf816af4356e387b06d21f8",
+ "rendicoes": {
+  "png": {
+   "bytes": 338481,
+   "sha256": "5491eb56f393b3625d2e253e7ac935d0702bc62ebc91dae417bf6c7b9a307077",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 86953,
+   "sha256": "af427bac7c570d7a22f19204f2bd3cb43b2aaae886a8536835077108333c5110",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537156.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537156.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537156.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3537156.jpg",
+  "bytes": 198876,
+  "sha256": "bc4008fe8c376c5c2d0855f6c774ffe8d3c20033abf816af4356e387b06d21f8"
+ },
+ "sha1_origem": "2f4f1bfa84bb66c07c7e0249ab516fa0a3d851ef",
+ "bytes_origem": 198876,
+ "capturado_em": "2026-11-08T06:34:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoPedrinhasPta.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "2f4f1bfa84bb66c07c7e0249ab516fa0a3d851ef"
+ }
+}

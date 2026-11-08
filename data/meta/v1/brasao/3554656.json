@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3554656",
+ "uf": "SP",
+ "municipio": "Torre de Pedra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Torre_de_Pedra.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ee4d4e7ac78165502844d64f3e2bdcbf3c0be3c24c30acf73ac78697c50519ef",
+ "rendicoes": {
+  "png": {
+   "bytes": 549511,
+   "sha256": "ccf3ba5cfe98a497874ab260d42fb8d70d6b01c9ec32d2887790725dcf44d1dc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 85448,
+   "sha256": "1fdbff3823b973b5c0cbe1eb8b8b26c28795804770ecc3957fb662afd73ea36b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554656.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554656.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554656.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3554656.png",
+  "bytes": 591987,
+  "sha256": "ee4d4e7ac78165502844d64f3e2bdcbf3c0be3c24c30acf73ac78697c50519ef"
+ },
+ "sha1_origem": "4d18cf942275827dcacd028db70fc7403ccf75ec",
+ "bytes_origem": 591987,
+ "capturado_em": "2026-11-08T06:39:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Torre_de_Pedra.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:38Z",
+  "estado": "igual",
+  "sha1_commons": "4d18cf942275827dcacd028db70fc7403ccf75ec"
+ }
+}

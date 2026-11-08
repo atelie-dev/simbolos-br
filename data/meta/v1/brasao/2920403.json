@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2920403",
+ "uf": "BA",
+ "municipio": "Manoel Vitorino",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bras%C3%A3o_Manoel_Vitorino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ecaf6c4bc5a6355eea857b922a0aa034fe6b9325c4d1e176ce73dc910df54db2",
+ "rendicoes": {
+  "png": {
+   "bytes": 87387,
+   "sha256": "38de437ec18c541af3845518b4b884d9f203d6fa5d213f2a17da48247100bda8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18280,
+   "sha256": "130bef5d9164d66f3b265fd6122e14605ba3c0dcd3506197e59fe7edee0634a5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2920403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2920403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2920403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2920403.jpg",
+  "bytes": 15904,
+  "sha256": "ecaf6c4bc5a6355eea857b922a0aa034fe6b9325c4d1e176ce73dc910df54db2"
+ },
+ "sha1_origem": "2a31b06cc38d1cef863254f82152bb1110815f82",
+ "bytes_origem": 15904,
+ "capturado_em": "2026-11-08T05:55:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Manoel_Vitorino.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "2a31b06cc38d1cef863254f82152bb1110815f82"
+ }
+}

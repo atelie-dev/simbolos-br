@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4124905",
+ "uf": "PR",
+ "municipio": "São João do Caiuá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Band_SJC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fe628bbfb5f6256e73494d78cd52bfa058ddb5fd28f1927b1900189b979da944",
+ "rendicoes": {
+  "png": {
+   "bytes": 131440,
+   "sha256": "18b49c7092ba172f619daf151751e81f11ea80db25c80f3476b6b17226fc93b4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17087,
+   "sha256": "9efc18b7987b6fcc5418e670aab0e8ebd545d9fc56d1474d75f6e03985a02e79",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4124905.jpg",
+  "bytes": 74350,
+  "sha256": "fe628bbfb5f6256e73494d78cd52bfa058ddb5fd28f1927b1900189b979da944"
+ },
+ "sha1_origem": "a6cfaedd5948fa57c3ffc65b4cf10aa9fe28ff29",
+ "bytes_origem": 74350,
+ "capturado_em": "2026-11-08T06:49:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_SJC.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "a6cfaedd5948fa57c3ffc65b4cf10aa9fe28ff29"
+ }
+}

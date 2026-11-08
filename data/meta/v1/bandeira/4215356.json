@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4215356",
+ "uf": "SC",
+ "municipio": "Saltinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bandeira_do_munic%C3%ADpio_de_Saltinho_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Saltinho (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "33a5a2b26294ccd4563bbdc9b668cc4e717e31b1de15d3eb6d3719014f95542b",
+ "rendicoes": {
+  "png": {
+   "bytes": 70318,
+   "sha256": "bf1140a89d66096c6044cbb5406dd9d77b934e3df61e3df139954f15dab02012",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28471,
+   "sha256": "55a87ccfab8e562c582b97c39148c0a1cca6df4af4074bf192cf3b75273507c3",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 186459,
+   "sha256": "33a5a2b26294ccd4563bbdc9b668cc4e717e31b1de15d3eb6d3719014f95542b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215356.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215356.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215356.jpg"
+ },
+ "sha1_origem": "66b5ad3e30b906088a884653d15190fd742fbc39",
+ "bytes_origem": 186459,
+ "capturado_em": "2026-11-08T04:43:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Saltinho_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "66b5ad3e30b906088a884653d15190fd742fbc39"
+ }
+}

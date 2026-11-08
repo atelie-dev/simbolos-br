@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4311759",
+ "uf": "RS",
+ "municipio": "Manoel Viana",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Brasaoprefeituramviana1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Odacir Blanco",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6d2b571304b4effc36dacf19d59ef9605e474c8bed97c58053247e9868ea5a74",
+ "rendicoes": {
+  "png": {
+   "bytes": 237092,
+   "sha256": "e9acafcc7bf06ea12a1f5916ca38a18ef4a2c95195902e56113ff2c1e2e6a030",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45755,
+   "sha256": "da3bf4c65b02005b658d6514ab0226b4884b41eaa7bddb2c7e0303a90321749b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311759.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311759.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311759.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4311759.jpg",
+  "bytes": 57464,
+  "sha256": "6d2b571304b4effc36dacf19d59ef9605e474c8bed97c58053247e9868ea5a74"
+ },
+ "sha1_origem": "a4572dc7efbeaa8ceb07e993430269df962a93c6",
+ "bytes_origem": 57464,
+ "capturado_em": "2026-11-08T07:05:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoprefeituramviana1.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "a4572dc7efbeaa8ceb07e993430269df962a93c6"
+ }
+}

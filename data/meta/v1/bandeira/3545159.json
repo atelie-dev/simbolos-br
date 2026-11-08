@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3545159",
+ "uf": "SP",
+ "municipio": "Saltinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bandeira_Saltinho.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "45466d701759ed7d3356307d0185c4f2787be0721e6a61ba03de9e709007ef37",
+ "rendicoes": {
+  "png": {
+   "bytes": 16914,
+   "sha256": "b562e91782c60e2f118799ba1db8b4de91c538b57c9645db9033fd3f10faf71d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10393,
+   "sha256": "f331bbab0b62d6ae7bd07276dadcc902c1850165938688485bc58c0bf9ac498e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545159.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545159.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545159.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3545159.png",
+  "bytes": 15405,
+  "sha256": "45466d701759ed7d3356307d0185c4f2787be0721e6a61ba03de9e709007ef37"
+ },
+ "sha1_origem": "d6837291141d741dfef468c694fa83fd215ab0cf",
+ "bytes_origem": 15405,
+ "capturado_em": "2026-11-08T06:36:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Saltinho.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "d6837291141d741dfef468c694fa83fd215ab0cf"
+ }
+}

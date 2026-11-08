@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1200401",
+ "uf": "AC",
+ "municipio": "Rio Branco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandeira_de_Rio_Branco.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ViniciusBR11; Prefeitura de Rio Branco",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "befdf0fbeb2cca6ae571bc06c2b947859f0664093521a571e7e4de14c8e719cc",
+ "rendicoes": {
+  "png": {
+   "bytes": 43925,
+   "sha256": "d27b65426154c9d92ebf8b4893063e1c403bd92a5705321809b4bccd6ced7983",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15222,
+   "sha256": "5ea5c13e5ae1a83072983e79b1ee1e873d46fed584375befe297c74ef9399df6",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 67300,
+   "sha256": "befdf0fbeb2cca6ae571bc06c2b947859f0664093521a571e7e4de14c8e719cc"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200401.jpg"
+ },
+ "sha1_origem": "cb6d42f45ab43f9428801726e12be62b15171a26",
+ "bytes_origem": 67300,
+ "capturado_em": "2026-11-08T02:30:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Rio_Branco.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "cb6d42f45ab43f9428801726e12be62b15171a26"
+ }
+}

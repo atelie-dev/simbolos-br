@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4120655",
+ "uf": "PR",
+ "municipio": "Quarto Centenário",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bandeira_Quarto_Centen%C3%A1rio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "eccaf3258343037ef97533fd17ed20f46fce479520c5ade639880bd1046f1ce8",
+ "rendicoes": {
+  "png": {
+   "bytes": 91503,
+   "sha256": "a19a5d3347a665f5da4e9b98a7a752a8556ac00db784fcfcddc217c097442b8a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35637,
+   "sha256": "b7e34cb289c33c271327a5e2619f0874f282fa45bd61d66d785425ed278a920b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4120655.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4120655.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4120655.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4120655.jpg",
+  "bytes": 1479324,
+  "sha256": "eccaf3258343037ef97533fd17ed20f46fce479520c5ade639880bd1046f1ce8"
+ },
+ "sha1_origem": "874bcdf1a429eb859ac61e852ad04667616f232f",
+ "bytes_origem": 1479324,
+ "capturado_em": "2026-11-08T06:48:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Quarto_Centenário.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "874bcdf1a429eb859ac61e852ad04667616f232f"
+ }
+}

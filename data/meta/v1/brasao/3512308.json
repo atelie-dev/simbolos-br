@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3512308",
+ "uf": "SP",
+ "municipio": "Conchas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Conchas.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "babb4826f026d9647c4dacb8825c7a2e29641b9a0b1e8c4e318e479d3db508b3",
+ "rendicoes": {
+  "png": {
+   "bytes": 405855,
+   "sha256": "b6f07f7ffa7086313b0e79ac08d2a09505d7f387245259928fa600a9d8f8ee48",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 78264,
+   "sha256": "045d271168dbaaaed016ceee2c077fb2f322ce1086ad18bd4149fa05f115dd24",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3512308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3512308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3512308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3512308.png",
+  "bytes": 1759493,
+  "sha256": "babb4826f026d9647c4dacb8825c7a2e29641b9a0b1e8c4e318e479d3db508b3"
+ },
+ "sha1_origem": "f991b2f0804b665bd70fdbb13d6778da71455e48",
+ "bytes_origem": 1759493,
+ "capturado_em": "2026-11-08T06:26:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Conchas.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:24Z",
+  "estado": "igual",
+  "sha1_commons": "f991b2f0804b665bd70fdbb13d6778da71455e48"
+ }
+}

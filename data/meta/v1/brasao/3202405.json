@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3202405",
+ "uf": "ES",
+ "municipio": "Guarapari",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bras%C3%A3o_Municipal_de_Guarapari.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Guarapari",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6a2942c3e2febb798958bbe2ed3bb6408dc71cd3b2b9240e93ff96d0542181a2",
+ "rendicoes": {
+  "png": {
+   "bytes": 240974,
+   "sha256": "7e8459e125cfad3d94e2b7eb178405b5faf7201c915d504c908119914527ca71",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63310,
+   "sha256": "f3cd7350fd6839df8ab000a95c1e9eea40eb8e53f71713866ac3d31269710e55",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3202405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3202405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3202405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3202405.png",
+  "bytes": 456036,
+  "sha256": "6a2942c3e2febb798958bbe2ed3bb6408dc71cd3b2b9240e93ff96d0542181a2"
+ },
+ "sha1_origem": "1ce27390a3f91cbb28afca5103f158f4f719c3ec",
+ "bytes_origem": 456036,
+ "capturado_em": "2026-11-08T06:19:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Municipal_de_Guarapari.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "1ce27390a3f91cbb28afca5103f158f4f719c3ec"
+ }
+}

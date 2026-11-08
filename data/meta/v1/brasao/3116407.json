@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3116407",
+ "uf": "MG",
+ "municipio": "Claraval",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Claravalmgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Claraval",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4e3f55d25a9d61d57d3279cf13b83992c21e2827a079c44f859248b19bacf99a",
+ "rendicoes": {
+  "png": {
+   "bytes": 85701,
+   "sha256": "d59bc23836d3d78a4adc49f19984a7f879e4c23d87cac0aa2b7196a90afbf632",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19323,
+   "sha256": "1029275a74de0b506b9db4f1bec7cbcb33dd445d06b6c5627ef6da34ecdb775b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3116407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3116407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3116407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3116407.jpg",
+  "bytes": 25633,
+  "sha256": "4e3f55d25a9d61d57d3279cf13b83992c21e2827a079c44f859248b19bacf99a"
+ },
+ "sha1_origem": "1616bef24506f0bf1723913f0d4961b85404e199",
+ "bytes_origem": 25633,
+ "capturado_em": "2026-11-08T06:03:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Claravalmgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:22Z",
+  "estado": "igual",
+  "sha1_commons": "1616bef24506f0bf1723913f0d4961b85404e199"
+ }
+}

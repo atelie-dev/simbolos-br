@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3507001",
+ "uf": "SP",
+ "municipio": "Boituva",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bandeira_Boituva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "13af07c54b47bc7f6e2187dad7d4b6635025182ffd0bef9c1a932a996f5b46e8",
+ "rendicoes": {
+  "png": {
+   "bytes": 243544,
+   "sha256": "c472206de125452ba61637ea8e11352d3a3e7294ba62c11587b32bcf3d8a56f6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28314,
+   "sha256": "9478d3ff5ceca39c41a66377f83b32aef49f767e2e21939b254eb4c6e7106a9d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3507001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3507001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3507001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3507001.jpg",
+  "bytes": 151837,
+  "sha256": "13af07c54b47bc7f6e2187dad7d4b6635025182ffd0bef9c1a932a996f5b46e8"
+ },
+ "sha1_origem": "035d9f44d6afbea77e8b32cd84bf42ea95b3d36c",
+ "bytes_origem": 151837,
+ "capturado_em": "2026-11-08T06:24:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Boituva.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "035d9f44d6afbea77e8b32cd84bf42ea95b3d36c"
+ }
+}

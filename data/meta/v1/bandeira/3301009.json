@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3301009",
+ "uf": "RJ",
+ "municipio": "Campos dos Goytacazes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bandeira_de_Campos_dos_Goytacazes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefecture of Campos dos Goytacazes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2b2b296293426a0d09497bb285fecf0d20c78886ab372834f74be4174c982c85",
+ "rendicoes": {
+  "png": {
+   "bytes": 26094,
+   "sha256": "618b153b5b75ec8e2662ef1a55b156f66f0efe9aeb9d1c1ab853aeacea723e80",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14563,
+   "sha256": "9c596618d8f390336501697124ecb0d9df79136b6fd4b2591df409ccd8b85486",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3301009.png",
+  "bytes": 21427,
+  "sha256": "2b2b296293426a0d09497bb285fecf0d20c78886ab372834f74be4174c982c85"
+ },
+ "sha1_origem": "9afe7a5e31ea9db7f2f5fdc92b6ec58424fdf99c",
+ "bytes_origem": 21427,
+ "capturado_em": "2026-11-08T06:20:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Campos_dos_Goytacazes.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "9afe7a5e31ea9db7f2f5fdc92b6ec58424fdf99c"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3507209",
+ "uf": "SP",
+ "municipio": "Borá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bor%C3%A1.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2a456d45efd39cee1574c7ffa70021fb701bc859adf4dc7a2f9bc42b84171e41",
+ "rendicoes": {
+  "png": {
+   "bytes": 298219,
+   "sha256": "5ee186083ba385060794b1ae30132040a75c0baf823d8336e18639c22561dd19",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63046,
+   "sha256": "176a87065eb1392485c31f10887bd14af17a327c1c9229419089fd0f97058d4f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3507209.png",
+  "bytes": 318472,
+  "sha256": "2a456d45efd39cee1574c7ffa70021fb701bc859adf4dc7a2f9bc42b84171e41"
+ },
+ "sha1_origem": "f7ba248a89b8845657a8774647c4cbec2604487f",
+ "bytes_origem": 318472,
+ "capturado_em": "2026-11-08T06:24:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Borá.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:27Z",
+  "estado": "igual",
+  "sha1_commons": "f7ba248a89b8845657a8774647c4cbec2604487f"
+ }
+}

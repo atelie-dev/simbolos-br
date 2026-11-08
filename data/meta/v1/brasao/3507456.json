@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3507456",
+ "uf": "SP",
+ "municipio": "Borebi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bras%C3%A3o_de_Borebi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Borebi",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bc19b0c2a8cb1412cbf9b7c266a5cf12c9fb41821e13a1b86606b49cc60b01ab",
+ "rendicoes": {
+  "png": {
+   "bytes": 62777,
+   "sha256": "54156844255c5a991587e2e80f811243b20e86c7e5a83e8840e173ce215ce5bc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15049,
+   "sha256": "00073477839d5029d890c80afbb3d777370f1ae23223da783b78ff94986ad232",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507456.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507456.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507456.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3507456.png",
+  "bytes": 59625,
+  "sha256": "bc19b0c2a8cb1412cbf9b7c266a5cf12c9fb41821e13a1b86606b49cc60b01ab"
+ },
+ "sha1_origem": "6a8903dc03e5ee8a98dd0caa77cabc0bb8e2e002",
+ "bytes_origem": 59625,
+ "capturado_em": "2026-11-08T06:24:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Borebi.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "6a8903dc03e5ee8a98dd0caa77cabc0bb8e2e002"
+ }
+}

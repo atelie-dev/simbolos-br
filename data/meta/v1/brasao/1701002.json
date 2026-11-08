@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1701002",
+ "uf": "TO",
+ "municipio": "Ananás",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Brasao-ananas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMA",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5f80163e64317929dc341dacd9be7815bb269bcf91745906fbb85f97656025ea",
+ "rendicoes": {
+  "png": {
+   "bytes": 31177,
+   "sha256": "e02ec257eff83622e4d100839267e549d6e94b537e7ad69f00b0b1b9701a6563",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8122,
+   "sha256": "429f165c28ddeee02febf9b1f1b48fcb95d9142a6758211ba8c74ebc380d77f9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1701002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1701002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1701002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1701002.jpg",
+  "bytes": 5263,
+  "sha256": "5f80163e64317929dc341dacd9be7815bb269bcf91745906fbb85f97656025ea"
+ },
+ "sha1_origem": "b9eb8ba62d973211e6ef99b53dd484eb15a282b4",
+ "bytes_origem": 5263,
+ "capturado_em": "2026-11-08T05:26:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-ananas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "b9eb8ba62d973211e6ef99b53dd484eb15a282b4"
+ }
+}

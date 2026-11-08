@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4310504",
+ "uf": "RS",
+ "municipio": "Iraí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bandeira_-_Ira%C3%AD_-_RS_-_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cidade de Iraí",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "51e85319beb87c211ebf8146a4efe4bf2a827d24151a90d2af1ec4fbeb5ff98a",
+ "rendicoes": {
+  "png": {
+   "bytes": 30938,
+   "sha256": "c36e9cf0ef36ae455d733290d75a9cab19a781cbb1e8fc89fbe2ef7da87b8520",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7471,
+   "sha256": "d1597621e0445660f7d6cab3a7bcf9cc005072d2396cc03ad2314e50798b3eda",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4310504.jpg",
+  "bytes": 22008,
+  "sha256": "51e85319beb87c211ebf8146a4efe4bf2a827d24151a90d2af1ec4fbeb5ff98a"
+ },
+ "sha1_origem": "f6414e64e5268d994d7438e0231f56ba9cf6a20c",
+ "bytes_origem": 22008,
+ "capturado_em": "2026-11-08T07:04:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_-_Iraí_-_RS_-_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "f6414e64e5268d994d7438e0231f56ba9cf6a20c"
+ }
+}

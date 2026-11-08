@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2300200",
+ "uf": "CE",
+ "municipio": "Acaraú",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bandeira_de_Acara%C3%BA_-_CE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7f88d18e98a23cf95fa1a587e192055fa37451f0cf5c7fd4bf321f4186054644",
+ "rendicoes": {
+  "png": {
+   "bytes": 34310,
+   "sha256": "66280cc3333d85851914c3baaf880730557e932b597f32f031b61e3e4fac6316",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16879,
+   "sha256": "a7da79deeb098edb0f2eeb705136a9c84e58c311b67d19259d33ca2f58641e21",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 130727,
+   "sha256": "7f88d18e98a23cf95fa1a587e192055fa37451f0cf5c7fd4bf321f4186054644"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2300200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2300200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2300200.jpg"
+ },
+ "sha1_origem": "edbaf8a257a12a921cca4bdaa399c2d9851f97a9",
+ "bytes_origem": 130727,
+ "capturado_em": "2026-11-08T02:44:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Acaraú_-_CE.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "edbaf8a257a12a921cca4bdaa399c2d9851f97a9"
+ }
+}

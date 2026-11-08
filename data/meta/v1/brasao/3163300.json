@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3163300",
+ "uf": "MG",
+ "municipio": "São José do Divino",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Brasaosjosedivinomg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São José do Divino",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ff8430178bcb46a924975c86f26e508564b1b80781b3816cea9e125cf4d9eb84",
+ "rendicoes": {
+  "png": {
+   "bytes": 36155,
+   "sha256": "d64f49d0ff864d9bfdec2472da59642048addf8a65e9087eb3b7faf6a0ce689d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8188,
+   "sha256": "1f59e1050519e86d57ab260312049cdf85e134a242e44d9b0268d258d4d6bfef",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3163300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3163300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3163300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3163300.jpg",
+  "bytes": 27802,
+  "sha256": "ff8430178bcb46a924975c86f26e508564b1b80781b3816cea9e125cf4d9eb84"
+ },
+ "sha1_origem": "216933bc6e818c0e42ddd91d4048a88f07594424",
+ "bytes_origem": 27802,
+ "capturado_em": "2026-11-08T06:16:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaosjosedivinomg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "216933bc6e818c0e42ddd91d4048a88f07594424"
+ }
+}

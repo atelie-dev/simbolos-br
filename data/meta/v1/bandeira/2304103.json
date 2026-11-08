@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2304103",
+ "uf": "CE",
+ "municipio": "Crateús",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bandeira_do_munic%C3%ADpio_de_Crate%C3%BAs_do_Cear%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Not available",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f83122e2ad084b358c6e7cec6965689faf4ca513c6bdcde4c527d9612887cbe6",
+ "rendicoes": {
+  "png": {
+   "bytes": 60173,
+   "sha256": "5898a217b57dde091426315e110db1d44572bf4c8e1b97305ee46b12f4c1362e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16152,
+   "sha256": "8bfacb27eaddbdafebec11e5fa57e8f4e6fe9d071abb0378839e3bfc91b73fb1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2304103.jpg",
+  "bytes": 60477,
+  "sha256": "f83122e2ad084b358c6e7cec6965689faf4ca513c6bdcde4c527d9612887cbe6"
+ },
+ "sha1_origem": "b021db2d8cda0863ab2853a2f0cbf57bd8813f18",
+ "bytes_origem": 60477,
+ "capturado_em": "2026-11-08T05:32:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Crateús_do_Ceará.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:19Z",
+  "estado": "igual",
+  "sha1_commons": "b021db2d8cda0863ab2853a2f0cbf57bd8813f18"
+ }
+}

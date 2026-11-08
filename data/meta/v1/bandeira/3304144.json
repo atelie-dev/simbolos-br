@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3304144",
+ "uf": "RJ",
+ "municipio": "Queimados",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bandeira_de_Queimados.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Wanderson S. Dantas",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0e78f0fa6ed65f3ec07e93fb2a4f02162a4b798ae5778b1ec3a045f54d25f584",
+ "rendicoes": {
+  "png": {
+   "bytes": 67485,
+   "sha256": "eaee46b13e69b6e2abdac1e49592302a999aa4acd3143c97523e6d6bd58114c0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29166,
+   "sha256": "c9c1bbe7df0aeae893d4ca6d01af2a7b4629919b50c3ebe43018c65d342a95d5",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 170539,
+   "sha256": "0e78f0fa6ed65f3ec07e93fb2a4f02162a4b798ae5778b1ec3a045f54d25f584"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304144.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304144.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304144.jpg"
+ },
+ "sha1_origem": "a185774f8e607ea16c16bee97ffc684314dec8ba",
+ "bytes_origem": 170539,
+ "capturado_em": "2026-11-08T03:55:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Queimados.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "a185774f8e607ea16c16bee97ffc684314dec8ba"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1712405",
+ "uf": "TO",
+ "municipio": "Lizarda",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brasao_lizarda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Lizarda",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "337d560a397e5b33948f78eeaea9c34052f3d3cebf75754801bf9699eb0e8c5e",
+ "rendicoes": {
+  "png": {
+   "bytes": 59397,
+   "sha256": "954b140a559d3b9a4e8556fa57553b28d14dd4dbf91832b50dd03bea79e632dc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11868,
+   "sha256": "54c3bc58e5796453b0834307d11a4abd10ddcd7315ea6f94f9917019a5d020e6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1712405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1712405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1712405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1712405.jpg",
+  "bytes": 13092,
+  "sha256": "337d560a397e5b33948f78eeaea9c34052f3d3cebf75754801bf9699eb0e8c5e"
+ },
+ "sha1_origem": "34212978f581ff02715fca91b24d85a7a7a44adf",
+ "bytes_origem": 13092,
+ "capturado_em": "2026-11-08T05:26:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_lizarda.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "34212978f581ff02715fca91b24d85a7a7a44adf"
+ }
+}

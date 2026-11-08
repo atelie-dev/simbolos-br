@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3503802",
+ "uf": "SP",
+ "municipio": "Artur Nogueira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Brasao_Artur_Nogueira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Governo Brasileiro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "87f384f0f3ffca646a59c66f272c8e1746b6ff76bacdb5a7c8bc8d7df9a9da22",
+ "rendicoes": {
+  "png": {
+   "bytes": 138515,
+   "sha256": "744d2b2d6d536be768224b90a2c99fe3206cd012f4401f7d498807ea040c612e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32224,
+   "sha256": "cdd8a27bc927cbcbaa672e796974d9912a59ece2a67a1b1bd09eeb7778207111",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503802.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3503802.jpg",
+  "bytes": 48084,
+  "sha256": "87f384f0f3ffca646a59c66f272c8e1746b6ff76bacdb5a7c8bc8d7df9a9da22"
+ },
+ "sha1_origem": "ec617ff357193cd6dc4c5774d76eb5968c8dc87c",
+ "bytes_origem": 48084,
+ "capturado_em": "2026-11-08T06:23:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Artur_Nogueira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "ec617ff357193cd6dc4c5774d76eb5968c8dc87c"
+ }
+}

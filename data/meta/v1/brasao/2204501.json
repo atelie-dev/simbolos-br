@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2204501",
+ "uf": "PI",
+ "municipio": "Guadalupe",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bras%C3%A3o_de_Guadalupe_-_Piau%C3%AD.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Jo240683fg",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "39c96a0e0fc637cbc3b91081400873f9d4114b1069ea43b82c460f88dc83ccbc",
+ "rendicoes": {
+  "png": {
+   "bytes": 438687,
+   "sha256": "224febab683f025a7b1e492d2ed3d45d23bb3165739d3e5cc37daa37e19afe79",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 74001,
+   "sha256": "40a96a5dc8232aa965ff506bce4c6fe23de839432bc80b68f2b58225ea4962f0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2204501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2204501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2204501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2204501.png",
+  "bytes": 1924220,
+  "sha256": "39c96a0e0fc637cbc3b91081400873f9d4114b1069ea43b82c460f88dc83ccbc"
+ },
+ "sha1_origem": "fe94eb251db15f002086ba3eb966491fbd008c14",
+ "bytes_origem": 1924220,
+ "capturado_em": "2026-11-08T05:30:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Guadalupe_-_Piauí.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:03Z",
+  "estado": "igual",
+  "sha1_commons": "fe94eb251db15f002086ba3eb966491fbd008c14"
+ }
+}

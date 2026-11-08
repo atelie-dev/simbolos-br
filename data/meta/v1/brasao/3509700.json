@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3509700",
+ "uf": "SP",
+ "municipio": "Campos do Jordão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Brasao_CamposdoJordao_SaoPaulo_Brasil_2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "FORTES",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "34578a5141bf176dd660b4e20e291aad7342d4496bd895b2f31d8c601244ff7c",
+ "rendicoes": {
+  "png": {
+   "bytes": 142483,
+   "sha256": "9d95db6e4f0a0c6ae02aab5d688b287f39a029f17b0811d54c57827262e6909a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 57162,
+   "sha256": "4b0e0a6ce045fd7e68e03571ce9e5d67dfade72d0878d2a6ac58ba9a54807a6e",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 72614,
+   "sha256": "34578a5141bf176dd660b4e20e291aad7342d4496bd895b2f31d8c601244ff7c"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509700.jpg"
+ },
+ "sha1_origem": "24f67c20b26609deb6bd2a92217bcfcecbce9050",
+ "bytes_origem": 72614,
+ "capturado_em": "2026-11-08T04:00:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_CamposdoJordao_SaoPaulo_Brasil_2.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "24f67c20b26609deb6bd2a92217bcfcecbce9050"
+ }
+}

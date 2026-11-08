@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4202008",
+ "uf": "SC",
+ "municipio": "Balneário Camboriú",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bandeira_de_Balne%C3%A1rio_Cambori%C3%BA_-_SC.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "86ce7c5a8e8e4bfb48c4204056839e2da656b2cab2ea070e63ed422c236a55c2",
+ "rendicoes": {
+  "png": {
+   "bytes": 60019,
+   "sha256": "b050b0e9ab0b1cc84102246252d216eea142289d770f1f42eb184439545202e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26340,
+   "sha256": "8d0d6ac67c7f611137be5e73a4e3bbf239d93b47b132ccff0e1b091ba40728d4",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 20477,
+   "sha256": "86ce7c5a8e8e4bfb48c4204056839e2da656b2cab2ea070e63ed422c236a55c2"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202008.jpg"
+ },
+ "sha1_origem": "b65dd91561c652e48fc7ba76e01dc5af34683a68",
+ "bytes_origem": 20477,
+ "capturado_em": "2026-11-08T04:36:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Balneário_Camboriú_-_SC.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "b65dd91561c652e48fc7ba76e01dc5af34683a68"
+ }
+}

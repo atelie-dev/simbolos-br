@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3300902",
+ "uf": "RJ",
+ "municipio": "Cambuci",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Brasao-cambuci.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "16a5cfe657774bdf033a4fe7f4f164f2b6e05e027df8b7d0a2340c8ae7187204",
+ "rendicoes": {
+  "png": {
+   "bytes": 32929,
+   "sha256": "de37eddb4adb0601b6642b41c62bf004f90ba5ceeb55116a39b60196410fe162",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15785,
+   "sha256": "20316b85dbe23acda1fe97a8926412f4b427fbceb8bae63b363b09ec1d43205d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3300902.gif",
+  "bytes": 11154,
+  "sha256": "16a5cfe657774bdf033a4fe7f4f164f2b6e05e027df8b7d0a2340c8ae7187204"
+ },
+ "sha1_origem": "34f256a2eef5ecf39c2dede4075b13b7e7458183",
+ "bytes_origem": 11154,
+ "capturado_em": "2026-11-08T06:20:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-cambuci.gif",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "34f256a2eef5ecf39c2dede4075b13b7e7458183"
+ }
+}

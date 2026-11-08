@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3112059",
+ "uf": "MG",
+ "municipio": "Cantagalo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Cantagalomgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cantagalo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "49d65fe1b4840907cb4eefcb7fe83129f4cfb2e3b2de0691a2790683e3472c79",
+ "rendicoes": {
+  "png": {
+   "bytes": 46301,
+   "sha256": "a91e84c7d62f1201c1916d08c18b7837b1d507a3eaab1f9665c699b7d12d6172",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11501,
+   "sha256": "75db5de0942d10920c10d071bc5a53752869297207792543fe614e69d2ea7356",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3112059.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3112059.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3112059.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3112059.jpg",
+  "bytes": 8019,
+  "sha256": "49d65fe1b4840907cb4eefcb7fe83129f4cfb2e3b2de0691a2790683e3472c79"
+ },
+ "sha1_origem": "7e9deff151f92ec6692e09854cd43fe1d200c62a",
+ "bytes_origem": 8019,
+ "capturado_em": "2026-11-08T06:02:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cantagalomgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "7e9deff151f92ec6692e09854cd43fe1d200c62a"
+ }
+}

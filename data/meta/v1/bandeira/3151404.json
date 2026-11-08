@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3151404",
+ "uf": "MG",
+ "municipio": "Pitangui",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Band_pitangui_mg_brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "José Inácio Batista Nunes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ec5cbe2aacfcdd4c04480a122149c24cfbe734fb847901a7c1f34a56618ee22d",
+ "rendicoes": {
+  "png": {
+   "bytes": 108356,
+   "sha256": "fb7887ea55abe12fa3cc4b69511d51e4f4929e0e7b6c4c9e0349bb5af53f0bd5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27914,
+   "sha256": "154d40e2d4eeb3a416ef31e1ed76dd223abff2b8847b57f98ff3c5b2aa1af317",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3151404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3151404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3151404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3151404.jpg",
+  "bytes": 58498,
+  "sha256": "ec5cbe2aacfcdd4c04480a122149c24cfbe734fb847901a7c1f34a56618ee22d"
+ },
+ "sha1_origem": "c28cb195b1a6bf24cf48278997f1a7b346e07708",
+ "bytes_origem": 58498,
+ "capturado_em": "2026-11-08T06:13:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_pitangui_mg_brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "c28cb195b1a6bf24cf48278997f1a7b346e07708"
+ }
+}

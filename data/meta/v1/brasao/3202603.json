@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3202603",
+ "uf": "ES",
+ "municipio": "Iconha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Brasao-iconha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Iconha City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9264d9a64079449f9e95a4168d7ec5e064d45e370286f41120281d817e0fa29d",
+ "rendicoes": {
+  "png": {
+   "bytes": 32400,
+   "sha256": "1630a7a29216baaaaffefbd8bf6f91365386f6968b8f016673d4df944879c696",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8337,
+   "sha256": "08519d7a70b620e8fed0be91ab769d1a22e39a77489850e8d135d61d00b814ce",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3202603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3202603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3202603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3202603.jpg",
+  "bytes": 8010,
+  "sha256": "9264d9a64079449f9e95a4168d7ec5e064d45e370286f41120281d817e0fa29d"
+ },
+ "sha1_origem": "d8f62ad7538393a2a201839de2b6924c7df3585c",
+ "bytes_origem": 8010,
+ "capturado_em": "2026-11-08T06:19:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-iconha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "d8f62ad7538393a2a201839de2b6924c7df3585c"
+ }
+}

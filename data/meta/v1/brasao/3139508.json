@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3139508",
+ "uf": "MG",
+ "municipio": "Manhumirim",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bras%C3%A3o_de_Manhumirim_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Manhumirim",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fff4935136c95aefbd0a5c1878f467c95aa44c069e2677d3d67473802a4331d4",
+ "rendicoes": {
+  "png": {
+   "bytes": 240464,
+   "sha256": "7d52a9002084ffe0774767ff752fefa1f1144ad45dff05934caf3a54aa51df96",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30308,
+   "sha256": "546bca874cb03b457439b483cb7abb71f306fc5b5bd61d546261676bba849c15",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3139508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3139508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3139508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3139508.png",
+  "bytes": 546389,
+  "sha256": "fff4935136c95aefbd0a5c1878f467c95aa44c069e2677d3d67473802a4331d4"
+ },
+ "sha1_origem": "635b5a8e03251632f68d519b12327b2095264594",
+ "bytes_origem": 546389,
+ "capturado_em": "2026-11-08T06:10:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Manhumirim_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:06Z",
+  "estado": "igual",
+  "sha1_commons": "635b5a8e03251632f68d519b12327b2095264594"
+ }
+}

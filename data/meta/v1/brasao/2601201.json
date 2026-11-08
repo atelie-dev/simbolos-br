@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2601201",
+ "uf": "PE",
+ "municipio": "Arcoverde",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Brasao_de_Arcoverde.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1c3f80340182a94d216508bc42ddf3655a3ad8bbfc757126a5282f55e8ed6d56",
+ "rendicoes": {
+  "png": {
+   "bytes": 97770,
+   "sha256": "b5575e74c2deb4cc31d14f3c18d22a67b2bff1dcdf61cf5c20ef0af13bf33770",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36617,
+   "sha256": "d9dd8fe89f393a4e6055a0f6f3d730992a6cdf6e3f3a0365570019457b229595",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 142660,
+   "sha256": "1c3f80340182a94d216508bc42ddf3655a3ad8bbfc757126a5282f55e8ed6d56"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2601201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2601201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2601201.jpg"
+ },
+ "sha1_origem": "bfe7e8977a72797833fe3093ec355958d96facc1",
+ "bytes_origem": 142660,
+ "capturado_em": "2026-11-08T03:04:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_de_Arcoverde.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "bfe7e8977a72797833fe3093ec355958d96facc1"
+ }
+}

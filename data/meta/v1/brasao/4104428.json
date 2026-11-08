@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4104428",
+ "uf": "PR",
+ "municipio": "Candói",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bras%C3%A3o_cand%C3%B3i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Candói",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fac53ecb8dcf654d00c80f0cea6ce03c5c8c2953ad314dc1f68c5698a76b2b6e",
+ "rendicoes": {
+  "png": {
+   "bytes": 63082,
+   "sha256": "7fe2647dccdab0b7b4b7bd8376f67c87c2b594c29e49d7113663bbedf61a8df1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14501,
+   "sha256": "ad8fb584e924f8e45e73b239a2f25405b5f177c9a16ca6744d9bc68814f5f558",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104428.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104428.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104428.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4104428.jpg",
+  "bytes": 14751,
+  "sha256": "fac53ecb8dcf654d00c80f0cea6ce03c5c8c2953ad314dc1f68c5698a76b2b6e"
+ },
+ "sha1_origem": "67a5646b1bab347697ce9c55957eda5f3b301994",
+ "bytes_origem": 14751,
+ "capturado_em": "2026-11-08T06:42:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_candói.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "67a5646b1bab347697ce9c55957eda5f3b301994"
+ }
+}

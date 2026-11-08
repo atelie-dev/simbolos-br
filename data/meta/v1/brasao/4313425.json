@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4313425",
+ "uf": "RS",
+ "municipio": "Novo Machado",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Brasao_Novo_Machado_2761.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Novo Machado",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7aec99b4061e51b9a39a8905cb5cec0595df0678da0dfeeac8029a78b7405ebb",
+ "rendicoes": {
+  "png": {
+   "bytes": 293730,
+   "sha256": "3abbd7bf4b209c4c66103872ca1bfd2004d8f3620edfbc3de2cba472b9c8068d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 64171,
+   "sha256": "e124d2aaa4d696b36af21657f076511de5de1bb5229936a878ca7869d4897642",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313425.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313425.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313425.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4313425.png",
+  "bytes": 821909,
+  "sha256": "7aec99b4061e51b9a39a8905cb5cec0595df0678da0dfeeac8029a78b7405ebb"
+ },
+ "sha1_origem": "a07942cc2e0ce97216958b7733b81cbaa5f42fc9",
+ "bytes_origem": 821909,
+ "capturado_em": "2026-11-08T07:06:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Novo_Machado_2761.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "a07942cc2e0ce97216958b7733b81cbaa5f42fc9"
+ }
+}

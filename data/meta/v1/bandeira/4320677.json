@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4320677",
+ "uf": "RS",
+ "municipio": "Sinimbu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bandeira_de_Sinimbura_%28RS%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Sinimbu",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7e622cfab9bec66556a4e32b3091ca6b3bcad06357a9578bc78e4736ae9fbdea",
+ "rendicoes": {
+  "png": {
+   "bytes": 16135,
+   "sha256": "40d5d8319b456a2ed50832be21cc71bb6f483a4bb99fa7898b03c054273504e8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9459,
+   "sha256": "14de8f77076568d784bbb3cf7517408d881e34922c7e0f59b8857f82c8559cb6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320677.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320677.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320677.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4320677.png",
+  "bytes": 12936,
+  "sha256": "7e622cfab9bec66556a4e32b3091ca6b3bcad06357a9578bc78e4736ae9fbdea"
+ },
+ "sha1_origem": "b6fc6107503460f67bd6f6db6401ebf33e0fa4a7",
+ "bytes_origem": 12936,
+ "capturado_em": "2026-11-08T07:10:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Sinimbura_(RS).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "b6fc6107503460f67bd6f6db6401ebf33e0fa4a7"
+ }
+}

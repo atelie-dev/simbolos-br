@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3521002",
+ "uf": "SP",
+ "municipio": "Iperó",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bras%C3%A3o_iper%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Marcelo Américo Correa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7b69bc75936521cdb115253cfd0c9f67bdd0f3f7766f7483b8c42a393d1a0acb",
+ "rendicoes": {
+  "png": {
+   "bytes": 203074,
+   "sha256": "4eeb2ecf9f01bee1ed7f4931458cca2b19141f3a99048b799af0523a9f28bb00",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59570,
+   "sha256": "6090113880a70844c939060379248d1739cecfd7ec5558b777c2898d5317290f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3521002.jpg",
+  "bytes": 782407,
+  "sha256": "7b69bc75936521cdb115253cfd0c9f67bdd0f3f7766f7483b8c42a393d1a0acb"
+ },
+ "sha1_origem": "8f9f642e8cd7fa9fd01fbad90392534cfd884eb6",
+ "bytes_origem": 782407,
+ "capturado_em": "2026-11-08T06:29:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_iperó.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:18Z",
+  "estado": "igual",
+  "sha1_commons": "8f9f642e8cd7fa9fd01fbad90392534cfd884eb6"
+ }
+}

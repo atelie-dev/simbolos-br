@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2303600",
+ "uf": "CE",
+ "municipio": "Catarina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Brasao_catarina_ce.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Não identificado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "332bde6ba0441d5b649ea1265fe3bcd5b67d48e3fbff0b0cecdd5c209c67ff18",
+ "rendicoes": {
+  "png": {
+   "bytes": 118750,
+   "sha256": "b5d5d70c37281fe2474af285be39fe87c9a92de8fd69dff018217cc841cd9c7b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22983,
+   "sha256": "50591332a05d8311cef91db2d7f5d32daf7777252bfe6d642a6ea6485c7ca552",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2303600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2303600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2303600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2303600.jpg",
+  "bytes": 17548,
+  "sha256": "332bde6ba0441d5b649ea1265fe3bcd5b67d48e3fbff0b0cecdd5c209c67ff18"
+ },
+ "sha1_origem": "6827a2a4b84dafc2f46fb0fb2f4d979bf98d0014",
+ "bytes_origem": 17548,
+ "capturado_em": "2026-11-08T05:32:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_catarina_ce.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:36Z",
+  "estado": "igual",
+  "sha1_commons": "6827a2a4b84dafc2f46fb0fb2f4d979bf98d0014"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3137700",
+ "uf": "MG",
+ "municipio": "Lajinha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bras%C3%A3o_de_Lajinha%2C_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Lajinha - Lei Municipal n° 532/81",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e550657d1ee10bf058ecabfd737f1fb0e61367d74509cb78f4bcee11804eb7ea",
+ "rendicoes": {
+  "png": {
+   "bytes": 267719,
+   "sha256": "99dec9e0aa2347a52c432569c6ec011921cb78b6a60e6b92b383739206713693",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 52026,
+   "sha256": "cb1dee16247a91f6854439ec0c0000c5beb68c91c053c87b23b9dba801b27ea9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3137700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3137700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3137700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3137700.jpg",
+  "bytes": 59114,
+  "sha256": "e550657d1ee10bf058ecabfd737f1fb0e61367d74509cb78f4bcee11804eb7ea"
+ },
+ "sha1_origem": "544fe545bef69a2ba852f90676a55b5f7c338c15",
+ "bytes_origem": 59114,
+ "capturado_em": "2026-11-08T06:10:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Lajinha,_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:05Z",
+  "estado": "igual",
+  "sha1_commons": "544fe545bef69a2ba852f90676a55b5f7c338c15"
+ }
+}

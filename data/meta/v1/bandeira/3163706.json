@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3163706",
+ "uf": "MG",
+ "municipio": "São Lourenço",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sao_lourenco_mg_flag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Manoel Noronha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c761420cddc1777ec668080642dd250246ea28bf9388e5b3e9a5fcc020677024",
+ "rendicoes": {
+  "png": {
+   "bytes": 47219,
+   "sha256": "594d89a802b85eab23c172724c8029f85fdae4b2c4d8c96c297e29a46417855a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13089,
+   "sha256": "cdc07a2dab24459c9b96761912f3a7eb4460eb688da3d5ed1f7989cdffce1ca8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3163706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3163706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3163706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3163706.jpg",
+  "bytes": 12928,
+  "sha256": "c761420cddc1777ec668080642dd250246ea28bf9388e5b3e9a5fcc020677024"
+ },
+ "sha1_origem": "135a2d75379e8c96961900d4309cbbdc8c752c5e",
+ "bytes_origem": 12928,
+ "capturado_em": "2026-11-08T06:16:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Sao_lourenco_mg_flag.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:36Z",
+  "estado": "igual",
+  "sha1_commons": "135a2d75379e8c96961900d4309cbbdc8c752c5e"
+ }
+}

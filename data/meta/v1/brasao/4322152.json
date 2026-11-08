@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4322152",
+ "uf": "RS",
+ "municipio": "Tunas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bras%C3%A3o_Tunas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Tunas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "992a70fb836551979df9e64a4f5204d64b47624c45895a04dbc078584b66e395",
+ "rendicoes": {
+  "png": {
+   "bytes": 360035,
+   "sha256": "6bf2920fc73c81e9f6920fefd2eaa21503fd4859ea37212e75aa7d560fef7eee",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 69214,
+   "sha256": "bb8ff9e9d4d66bd2c34561e9a15dfdce6e4e9d6215c2b95b05099d96bebe5b0b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322152.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322152.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322152.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4322152.jpg",
+  "bytes": 55210,
+  "sha256": "992a70fb836551979df9e64a4f5204d64b47624c45895a04dbc078584b66e395"
+ },
+ "sha1_origem": "c43b0e0c3e67ac26beb156579fab7f39ad0c1b88",
+ "bytes_origem": 55210,
+ "capturado_em": "2026-11-08T07:11:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Tunas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "c43b0e0c3e67ac26beb156579fab7f39ad0c1b88"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5101407",
+ "uf": "MT",
+ "municipio": "Aripuanã",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Aripuan%C3%A3.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "379272b5f1ea85565f57cc00f4fa28efa90e5dca3cba4e268b144eefc3454b0b",
+ "rendicoes": {
+  "png": {
+   "bytes": 342013,
+   "sha256": "2d0f623ea7aeec0d7d8727c2d8ab97d496160d7b0e5d8d19beba0d387c61c21a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 71879,
+   "sha256": "7ab741c0d480abd047c304e71e07975b9d787b32fb679f05f17b17e3737e067f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5101407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5101407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5101407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5101407.png",
+  "bytes": 294443,
+  "sha256": "379272b5f1ea85565f57cc00f4fa28efa90e5dca3cba4e268b144eefc3454b0b"
+ },
+ "sha1_origem": "1b0645715a2f3dd2e95d5737220ef9822027cc54",
+ "bytes_origem": 294443,
+ "capturado_em": "2026-11-08T07:14:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Aripuanã.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "1b0645715a2f3dd2e95d5737220ef9822027cc54"
+ }
+}

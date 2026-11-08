@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4106001",
+ "uf": "PR",
+ "municipio": "Congonhinhas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bandeira_Congonhinhas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "715384e189f7d895b71a9e5c85cf696cc26713c56d3ccea2a081abdadb42b1f2",
+ "rendicoes": {
+  "png": {
+   "bytes": 40004,
+   "sha256": "d5fe2cbcffdd85fbf0664db670ea31ac98414971bb6bc580957ad38a276b1c55",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20506,
+   "sha256": "40b936ee8c176e4bc4a52385d13df0f35eac954cc8b24defbe73d5861677c732",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4106001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4106001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4106001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4106001.png",
+  "bytes": 34411,
+  "sha256": "715384e189f7d895b71a9e5c85cf696cc26713c56d3ccea2a081abdadb42b1f2"
+ },
+ "sha1_origem": "e0951306b835a9a298548ceb8582ef43f8da0079",
+ "bytes_origem": 34411,
+ "capturado_em": "2026-11-08T06:42:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Congonhinhas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "e0951306b835a9a298548ceb8582ef43f8da0079"
+ }
+}

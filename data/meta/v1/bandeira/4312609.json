@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312609",
+ "uf": "RS",
+ "municipio": "Muçum",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bandeira_de_Mu%C3%A7um.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Luis Gabriel Moraes Dias",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6509ec232b83b270f66ed849521daa452c592bf6990980adb0e880fe8c27b53b",
+ "rendicoes": {
+  "png": {
+   "bytes": 107322,
+   "sha256": "49ca56c50a571caf43244a7eb0e678ab228a490f04d674327cf81846aa756089",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26532,
+   "sha256": "b41f3e5c899cda4bf0cd86e1e1a9a5deee0a2b0c3410f0e6b2969a733c59b52e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4312609.jpg",
+  "bytes": 65512,
+  "sha256": "6509ec232b83b270f66ed849521daa452c592bf6990980adb0e880fe8c27b53b"
+ },
+ "sha1_origem": "c4e0ef3017775627fae44e28b09e90b7df606d9a",
+ "bytes_origem": 65512,
+ "capturado_em": "2026-11-08T07:05:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Muçum.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "c4e0ef3017775627fae44e28b09e90b7df606d9a"
+ }
+}

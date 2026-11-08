@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3134103",
+ "uf": "MG",
+ "municipio": "Itueta",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Brasaoitueta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Itueta",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "25ea6d4588e83330793122465f10152074623126deed7bdf424433f29bb8853b",
+ "rendicoes": {
+  "png": {
+   "bytes": 25272,
+   "sha256": "1107b60190d8b14630562af4f82cb0ca4bb0cf774f87d1de806cfb34e773666d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7399,
+   "sha256": "29db24763302d4dde056f72ed1ef3ec91d4189eb817f313512cbaa8ad429e14a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3134103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3134103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3134103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3134103.jpg",
+  "bytes": 4166,
+  "sha256": "25ea6d4588e83330793122465f10152074623126deed7bdf424433f29bb8853b"
+ },
+ "sha1_origem": "d26991f751f8a35ac21344c69f58e3801a660d2a",
+ "bytes_origem": 4166,
+ "capturado_em": "2026-11-08T06:09:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoitueta.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "d26991f751f8a35ac21344c69f58e3801a660d2a"
+ }
+}

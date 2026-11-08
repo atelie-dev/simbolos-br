@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2610707",
+ "uf": "PE",
+ "municipio": "Paulista",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bras%C3%A3o_de_Paulista.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura do município de Paulista",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "face6e8fbef3ab01004fb3cb91a7493f5ccb92d3b4ab30e0131b30fceeb0b258",
+ "rendicoes": {
+  "png": {
+   "bytes": 77065,
+   "sha256": "659984956d98a7ad8e20852269645b91a82eacde9fd0ec32add8378464fa70a4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34593,
+   "sha256": "4ee64fe3523e7c06fe22671fe5bd49d851054c62ea7e39a57135369619477df8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2610707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2610707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2610707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2610707.png",
+  "bytes": 83225,
+  "sha256": "face6e8fbef3ab01004fb3cb91a7493f5ccb92d3b4ab30e0131b30fceeb0b258"
+ },
+ "sha1_origem": "1ed75dd04e8b0bc7849567ddf24e5fe359d017c0",
+ "bytes_origem": 83225,
+ "capturado_em": "2026-11-08T05:46:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Paulista.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "1ed75dd04e8b0bc7849567ddf24e5fe359d017c0"
+ }
+}

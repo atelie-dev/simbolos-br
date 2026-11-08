@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2923001",
+ "uf": "BA",
+ "municipio": "Nova Viçosa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bandeira_de_Nova_Vi%C3%A7osa_-_BA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Tozeos",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "57afe488ef72924e912dce55c0290089d081fc1632ef1c8357e0ae9650f5386d",
+ "rendicoes": {
+  "png": {
+   "bytes": 35522,
+   "sha256": "0dd54eb1a41fb73e60371df9579c12b1fc6a9e9ee817ca6a2d2217ede5047f5a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20365,
+   "sha256": "01103ab73cfab81327edb56ec175374bacef89161a99417c3b9f0da953d51a46",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 582406,
+   "sha256": "57afe488ef72924e912dce55c0290089d081fc1632ef1c8357e0ae9650f5386d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2923001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2923001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2923001.jpg"
+ },
+ "sha1_origem": "0564aa970a1e2c3e4fdfa8ccb5f34aa017957a31",
+ "bytes_origem": 582406,
+ "capturado_em": "2026-11-08T03:21:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nova_Viçosa_-_BA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "0564aa970a1e2c3e4fdfa8ccb5f34aa017957a31"
+ }
+}

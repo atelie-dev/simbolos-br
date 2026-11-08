@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3115300",
+ "uf": "MG",
+ "municipio": "Cataguases",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandeira_Cataguases.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Fernando José Condé de Araújo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "27cc9df7baefd44406e7200f4e0d0411077bc1f87e02a54deba2d3984e283552",
+ "rendicoes": {
+  "png": {
+   "bytes": 44121,
+   "sha256": "25769fcbbcee2fc2965f387617307bcdb576c28ed16e366e843d3b3849b6532b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16398,
+   "sha256": "02293635ac19bee25e9c0ff467a1bdcfa7bf5189c8d9811f6bb4e943f00274a1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3115300.png",
+  "bytes": 296741,
+  "sha256": "27cc9df7baefd44406e7200f4e0d0411077bc1f87e02a54deba2d3984e283552"
+ },
+ "sha1_origem": "2d7b4a1878636d12e831e35b85a8067163db776b",
+ "bytes_origem": 296741,
+ "capturado_em": "2026-11-08T06:03:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Cataguases.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "2d7b4a1878636d12e831e35b85a8067163db776b"
+ }
+}

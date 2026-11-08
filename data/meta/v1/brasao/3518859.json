@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3518859",
+ "uf": "SP",
+ "municipio": "Guatapará",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bras%C3%A3o_de_Guatapar%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Guatapará.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ebb7621cd9b9c058fa994a57dd71e53c09e12eae636f0494217c40c9a3229e95",
+ "rendicoes": {
+  "png": {
+   "bytes": 68569,
+   "sha256": "8c12fd0762d87b6eb45424c526f7f3a7163540b8f6de151371bae1f8180f71c3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15415,
+   "sha256": "170e95f7845a95b642f9834626a9088c5ae96b8a461445a83a502e5e049bc5bd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518859.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518859.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518859.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3518859.jpg",
+  "bytes": 15465,
+  "sha256": "ebb7621cd9b9c058fa994a57dd71e53c09e12eae636f0494217c40c9a3229e95"
+ },
+ "sha1_origem": "a3f43ab24615bd0b8fd3f8985f4a041d77501d94",
+ "bytes_origem": 15465,
+ "capturado_em": "2026-11-08T06:28:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Guatapará.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:03Z",
+  "estado": "igual",
+  "sha1_commons": "a3f43ab24615bd0b8fd3f8985f4a041d77501d94"
+ }
+}

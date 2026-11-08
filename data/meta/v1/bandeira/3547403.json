@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3547403",
+ "uf": "SP",
+ "municipio": "Santa Rita d'Oeste",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bandeira_Santa_Rita_d%27Oeste.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3d134670d9f9bfd556111fe3d3d9518d8c263c667beaa7a3043cee786180b7b4",
+ "rendicoes": {
+  "png": {
+   "bytes": 27853,
+   "sha256": "fd935d37e881703428689da1dc1fe2c955cfc40075c01f56497bf1473bd1bbca",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12192,
+   "sha256": "fc3df5c118e9bebf12ccff4f4d472d108cae0f16d359dbfad4db8120b5320f0a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3547403.png",
+  "bytes": 26259,
+  "sha256": "3d134670d9f9bfd556111fe3d3d9518d8c263c667beaa7a3043cee786180b7b4"
+ },
+ "sha1_origem": "3ee1ad48da1a19c210d3e186ca9976ba8ac32b6d",
+ "bytes_origem": 26259,
+ "capturado_em": "2026-11-08T06:37:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Santa_Rita_d'Oeste.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "3ee1ad48da1a19c210d3e186ca9976ba8ac32b6d"
+ }
+}

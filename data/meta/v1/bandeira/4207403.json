@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4207403",
+ "uf": "SC",
+ "municipio": "Imbuia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bandeira_do_munic%C3%ADpio_de_Imbuia_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Imbuia (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1590269297b6d3f420936ca9a14ec6b684f8e9da110f1254b2b91d5bf98565c5",
+ "rendicoes": {
+  "png": {
+   "bytes": 57228,
+   "sha256": "d56ac5ad72feabc94b9af9e37630a51268b48ea0ef4163c415ff2ecec98ffb44",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24461,
+   "sha256": "879936190290d9ebfa6fa7669f842c167bc51e7535fde55611ddd47601ef01d5",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 49595,
+   "sha256": "1590269297b6d3f420936ca9a14ec6b684f8e9da110f1254b2b91d5bf98565c5"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4207403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4207403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4207403.jpg"
+ },
+ "sha1_origem": "ba0162581078386e2b8c75ddb5d7e58ed27fb7d7",
+ "bytes_origem": 49595,
+ "capturado_em": "2026-11-08T04:39:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Imbuia_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:19Z",
+  "estado": "igual",
+  "sha1_commons": "ba0162581078386e2b8c75ddb5d7e58ed27fb7d7"
+ }
+}

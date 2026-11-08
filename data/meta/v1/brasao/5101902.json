@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5101902",
+ "uf": "MT",
+ "municipio": "Brasnorte",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bras%C3%A3o_brasnorte.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Joel de Vasconcelos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c5e1b4decfc54772be2dac298b415f4b4d5c669afc8033ecf4f153960395e50d",
+ "rendicoes": {
+  "png": {
+   "bytes": 40699,
+   "sha256": "4095c7f4978b08ce0c62df04e182fb236348a81ed04626f3c4358ad809e67258",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9339,
+   "sha256": "ebd175680977a9e121f97935fdd7b44c6c339e3408cdba7fcf5a7ed63231a9d9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5101902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5101902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5101902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5101902.jpg",
+  "bytes": 5952,
+  "sha256": "c5e1b4decfc54772be2dac298b415f4b4d5c669afc8033ecf4f153960395e50d"
+ },
+ "sha1_origem": "6424f45b5ba5b50d958c3cbb039ec32fdb1741ea",
+ "bytes_origem": 5952,
+ "capturado_em": "2026-11-08T07:14:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_brasnorte.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "6424f45b5ba5b50d958c3cbb039ec32fdb1741ea"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3103603",
+ "uf": "MG",
+ "municipio": "Arantina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bandeira_de_Arantina_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Émerson Jean Da Silva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0c0302a22f82853419dca5e9bb790005f6d92ae3a41fc6b0154ef248609fd747",
+ "rendicoes": {
+  "png": {
+   "bytes": 89728,
+   "sha256": "456dbaa1f9c485c38658c692440c733436bfbc138f6ef56819bea14b887283d1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17384,
+   "sha256": "a6576b4e8e7011539bd2147993bf252742d81c9375a1a9082185cf52d26518a7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3103603.jpg",
+  "bytes": 44940,
+  "sha256": "0c0302a22f82853419dca5e9bb790005f6d92ae3a41fc6b0154ef248609fd747"
+ },
+ "sha1_origem": "4b1c9923fc69bda6b8d34d7e2d84730d0120c0e6",
+ "bytes_origem": 44940,
+ "capturado_em": "2026-11-08T05:59:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Arantina_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "4b1c9923fc69bda6b8d34d7e2d84730d0120c0e6"
+ }
+}

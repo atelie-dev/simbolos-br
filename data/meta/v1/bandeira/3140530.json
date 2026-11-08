@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3140530",
+ "uf": "MG",
+ "municipio": "Martins Soares",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_Martins_Soares_MG.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HVL",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fbc06453c5d663214feee57cd4d37cf1f1d74e15581bb0690fe9616c5c404106",
+ "rendicoes": {
+  "png": {
+   "bytes": 102411,
+   "sha256": "0a53c2f8aa6d1af1fae4a01701868592b14d0b0aefbb54d231c8f7c002b8f3c2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20327,
+   "sha256": "e447a0100c74b5e03e2cc8671deec8ddca174b715f74f576c3325cec46ba11f0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3140530.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3140530.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3140530.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3140530.png",
+  "bytes": 242411,
+  "sha256": "fbc06453c5d663214feee57cd4d37cf1f1d74e15581bb0690fe9616c5c404106"
+ },
+ "sha1_origem": "683a62cccc5e8dae9be387f6fe4baf5dc3982d3a",
+ "bytes_origem": 242411,
+ "capturado_em": "2026-11-08T06:11:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Martins_Soares_MG.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "683a62cccc5e8dae9be387f6fe4baf5dc3982d3a"
+ }
+}

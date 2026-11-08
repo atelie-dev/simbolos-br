@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4302584",
+ "uf": "RS",
+ "municipio": "Bozano",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bras%C3%A3o_Bozano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "709bebf141e09c34d27cf4c9521064dd99a3c301779f72de4dd766a142b57dbd",
+ "rendicoes": {
+  "png": {
+   "bytes": 205804,
+   "sha256": "ced0203dba8b0037494ee3ab959a124b8a3f9ee07a00c193646ec5743f69b023",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45938,
+   "sha256": "8e8e450066750bd07584e835d698af2c6a7afbc2bd185b5ccebf2ba7aa670966",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302584.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302584.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302584.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4302584.jpg",
+  "bytes": 70798,
+  "sha256": "709bebf141e09c34d27cf4c9521064dd99a3c301779f72de4dd766a142b57dbd"
+ },
+ "sha1_origem": "970e13f7068fc22142e8fab41f16cda867828917",
+ "bytes_origem": 70798,
+ "capturado_em": "2026-11-08T06:59:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Bozano.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "970e13f7068fc22142e8fab41f16cda867828917"
+ }
+}

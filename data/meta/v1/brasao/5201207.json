@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5201207",
+ "uf": "GO",
+ "municipio": "Anhanguera",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bras%C3%A3o_de_Anhanguera%2C_Goi%C3%A1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Anhanguera",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4bc58ce31cf00e85077cc9d9506f07a916acf0a412fa74ec8059262b5ee955fb",
+ "rendicoes": {
+  "png": {
+   "bytes": 70214,
+   "sha256": "84f02320d79aa76d42e2eeebbb65498068b4138cd6578489deb0cf5a48bd7743",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18149,
+   "sha256": "47f97f6e3d56a6f7e01a0e06ae75bdb26bbf61885b06e95aba2baaae65267f74",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5201207.jpg",
+  "bytes": 25907,
+  "sha256": "4bc58ce31cf00e85077cc9d9506f07a916acf0a412fa74ec8059262b5ee955fb"
+ },
+ "sha1_origem": "178721151feb6ef198dd51f0a4cc6df59b318be5",
+ "bytes_origem": 25907,
+ "capturado_em": "2026-11-08T07:16:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Anhanguera,_Goiás.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "178721151feb6ef198dd51f0a4cc6df59b318be5"
+ }
+}

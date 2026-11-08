@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2925808",
+ "uf": "BA",
+ "municipio": "Queimadas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bras%C3%A3o_de_Queimadas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Queimadas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f1694df725e3a04a5890e384af9ff239db21eaded4f4c11d54c3722ba20b1ff4",
+ "rendicoes": {
+  "png": {
+   "bytes": 180061,
+   "sha256": "7f59ffaab7172088da7228196a12d377ad0307539cc1d5f2478dded00b15fa91",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31030,
+   "sha256": "8f86233f159dc866963ca5d06fe29bd741e870f1c0fc48a4c0dd0c23a5616cfa",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2925808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2925808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2925808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2925808.jpg",
+  "bytes": 42205,
+  "sha256": "f1694df725e3a04a5890e384af9ff239db21eaded4f4c11d54c3722ba20b1ff4"
+ },
+ "sha1_origem": "188af227e56164a83b16d1957454fa858c4d1bde",
+ "bytes_origem": 42205,
+ "capturado_em": "2026-11-08T05:56:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Queimadas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:10Z",
+  "estado": "igual",
+  "sha1_commons": "188af227e56164a83b16d1957454fa858c4d1bde"
+ }
+}

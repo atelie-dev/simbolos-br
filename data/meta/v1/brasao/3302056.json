@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3302056",
+ "uf": "RJ",
+ "municipio": "Italva",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Italva.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Emerson Santiago Silva",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5d65dabae78b4873050cb25dd3b0f25465371c20c3524d356befd2f217bbbbee",
+ "rendicoes": {
+  "png": {
+   "bytes": 281572,
+   "sha256": "aae13017e18ace6ce4bf922d58df331ca4c4625f27c98b336402bd7dcb4266f3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67905,
+   "sha256": "48bbe806a906c5b24dbfad72d2fd176bf786d49edb82581993d23ed52ede5687",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302056.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302056.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302056.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3302056.png",
+  "bytes": 277004,
+  "sha256": "5d65dabae78b4873050cb25dd3b0f25465371c20c3524d356befd2f217bbbbee"
+ },
+ "sha1_origem": "82f721010f3a1be688528d0fae13ed0080cfac52",
+ "bytes_origem": 277004,
+ "capturado_em": "2026-11-08T06:21:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Italva.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "82f721010f3a1be688528d0fae13ed0080cfac52"
+ }
+}

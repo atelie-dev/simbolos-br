@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4303806",
+ "uf": "RS",
+ "municipio": "Campinas do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bandeira_de_Campinas_do_Sul_-_RS.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "f95bd122660af0a74ffe24539012c657e6d3b95fd2999b4d8d641d2373a19a73",
+ "rendicoes": {
+  "png": {
+   "bytes": 44708,
+   "sha256": "650f12cae9d8b02aab9487dfae45c7f6d65e0a4c55face604aa1a85c9965f7ee",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14369,
+   "sha256": "b0f23d1f5ef15294ff3363a7d8c0e354d280f1e56524c9a22f539d4f433917b0",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 194635,
+   "sha256": "f95bd122660af0a74ffe24539012c657e6d3b95fd2999b4d8d641d2373a19a73"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4303806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4303806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4303806.jpg"
+ },
+ "sha1_origem": "e943045e1729253c7671f1c42edad3b15be80add",
+ "bytes_origem": 194635,
+ "capturado_em": "2026-11-08T04:49:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Campinas_do_Sul_-_RS.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "e943045e1729253c7671f1c42edad3b15be80add"
+ }
+}

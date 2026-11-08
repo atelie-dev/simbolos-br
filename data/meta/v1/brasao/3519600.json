@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3519600",
+ "uf": "SP",
+ "municipio": "Ibitinga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bras%C3%A3o_de_Ibitinga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c5b4956fd040f59719b846ba916a16dfc56d1471b9b60ac3db24c48c669da0b4",
+ "rendicoes": {
+  "png": {
+   "bytes": 123045,
+   "sha256": "5ff9472eb53d92f7846f650628c4bf3cbe32555b5ec038a9e86f85a6b26a43cf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26661,
+   "sha256": "21e0473b3a88a9b4747ae2f17891060c543a303ca7bc6da995748900bceec897",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3519600.jpg",
+  "bytes": 46821,
+  "sha256": "c5b4956fd040f59719b846ba916a16dfc56d1471b9b60ac3db24c48c669da0b4"
+ },
+ "sha1_origem": "fc598001604455adc470489ca2d78755433f4b58",
+ "bytes_origem": 46821,
+ "capturado_em": "2026-11-08T06:29:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Ibitinga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:03Z",
+  "estado": "igual",
+  "sha1_commons": "fc598001604455adc470489ca2d78755433f4b58"
+ }
+}

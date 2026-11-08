@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3522703",
+ "uf": "SP",
+ "municipio": "Itápolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/It%C3%A1polisbras%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5ac447b1224e25aa0d1bc5c8bb32ed3ca215b6d1b06621c58e82882cc1dd712b",
+ "rendicoes": {
+  "png": {
+   "bytes": 51557,
+   "sha256": "6f6cd81e7dbfb2ccbea1e90d7f8abedbbcbebe40e7aae7a293dbc607bbf6d2d5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12065,
+   "sha256": "99c194324d5373d873546c2fe36e7c076619c510fd8e00963393a9a237b578b3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3522703.jpg",
+  "bytes": 12477,
+  "sha256": "5ac447b1224e25aa0d1bc5c8bb32ed3ca215b6d1b06621c58e82882cc1dd712b"
+ },
+ "sha1_origem": "590af768c927f9a893f78d812619b1c5a645f110",
+ "bytes_origem": 12477,
+ "capturado_em": "2026-11-08T06:30:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Itápolisbrasão.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "590af768c927f9a893f78d812619b1c5a645f110"
+ }
+}

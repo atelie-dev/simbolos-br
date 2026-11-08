@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3555406",
+ "uf": "SP",
+ "municipio": "Ubatuba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bandeira_de_Ubatuba.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "FORTES",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1017e72959411f7211af7631d825cf97d5d2800c3d1e22cf3b97b238d6b5f295",
+ "rendicoes": {
+  "png": {
+   "bytes": 7796,
+   "sha256": "5ee3b185afa1a86637d8bfa54733b85470b0c3ae2a1141345975254c100b2ee3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16435,
+   "sha256": "465c74184cfacbd40e3d212c68f6d4bc0fdc198e5f12faadcd66ad13f8dcb35d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 4170,
+   "sha256": "1017e72959411f7211af7631d825cf97d5d2800c3d1e22cf3b97b238d6b5f295"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3555406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3555406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3555406.jpg"
+ },
+ "sha1_origem": "be8c1f20bb5953da27b6b854147f8fb3cc2917a9",
+ "bytes_origem": 4170,
+ "capturado_em": "2026-11-08T04:19:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ubatuba.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "be8c1f20bb5953da27b6b854147f8fb3cc2917a9"
+ }
+}

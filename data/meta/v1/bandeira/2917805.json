@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2917805",
+ "uf": "BA",
+ "municipio": "Jaguaripe",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Flag_of_Jaguaripe.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Mysid",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0d1ead7141a682c842fdfa4b9f87fe0ef4a46ae084f82692d395384e3ba869b7",
+ "rendicoes": {
+  "png": {
+   "bytes": 24241,
+   "sha256": "41693a8d4e10de2706684730fcb516979b74bab4736d46ac9f9e6136c505c093",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15636,
+   "sha256": "b5d3e7ea3fd87c8cf969d1377083f717fef52d0daaf776bc0a4e55ff1755970c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 5002,
+   "sha256": "0d1ead7141a682c842fdfa4b9f87fe0ef4a46ae084f82692d395384e3ba869b7"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2917805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2917805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2917805.jpg"
+ },
+ "sha1_origem": "7a5a9b67cf63eba215378e46794b3efbd4756fdb",
+ "bytes_origem": 5002,
+ "capturado_em": "2026-11-08T03:19:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Jaguaripe.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "7a5a9b67cf63eba215378e46794b3efbd4756fdb"
+ }
+}

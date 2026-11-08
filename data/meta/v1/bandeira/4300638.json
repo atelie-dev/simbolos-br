@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4300638",
+ "uf": "RS",
+ "municipio": "Amaral Ferrador",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bandeira_Amaral_Ferrador.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Amaral Ferrador",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a36726f1e73bca41722d45b71b54028ee707501eeda201ff1facb2d0eb72db52",
+ "rendicoes": {
+  "png": {
+   "bytes": 57241,
+   "sha256": "28abea0674cacab910b11451becae1e9235261ae080df55d5a469baa4e2ec036",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14618,
+   "sha256": "16dbcc132a6c4a0f5cb83e862bdd443763a3e952d1675ba9bcd5166bc62bf1dd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300638.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300638.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300638.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4300638.jpg",
+  "bytes": 13265,
+  "sha256": "a36726f1e73bca41722d45b71b54028ee707501eeda201ff1facb2d0eb72db52"
+ },
+ "sha1_origem": "a71880300eef41f0c041a6f7f68393e7f360178f",
+ "bytes_origem": 13265,
+ "capturado_em": "2026-11-08T06:58:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Amaral_Ferrador.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "a71880300eef41f0c041a6f7f68393e7f360178f"
+ }
+}

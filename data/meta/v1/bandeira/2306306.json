@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2306306",
+ "uf": "CE",
+ "municipio": "Itapajé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bandeira_itapaje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "No machine-readable author provided. Ribas.Ramos assumed (based on copyright claims).",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bbdeadedb03651923b102bf131c4bb358acd2b9d7efe7d9a51d2e72a5d885acd",
+ "rendicoes": {
+  "png": {
+   "bytes": 108302,
+   "sha256": "b714522b80846feb23e29251e5d5bb07ac6a01458214a9ab82b8b0a55d2a1f95",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30434,
+   "sha256": "5d01b96d530b9e0eb7050554262ca670efe27f4aea5cc8396ab4459f9c8fd193",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2306306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2306306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2306306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2306306.jpg",
+  "bytes": 99860,
+  "sha256": "bbdeadedb03651923b102bf131c4bb358acd2b9d7efe7d9a51d2e72a5d885acd"
+ },
+ "sha1_origem": "637478ba27a077e872f5b6b452b1064047b79439",
+ "bytes_origem": 99860,
+ "capturado_em": "2026-11-08T05:33:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_itapaje.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "637478ba27a077e872f5b6b452b1064047b79439"
+ }
+}

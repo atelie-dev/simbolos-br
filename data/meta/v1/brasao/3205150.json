@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3205150",
+ "uf": "ES",
+ "municipio": "Vila Pavão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Brasao_vila_pavao.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Juarez Pereira Barbosa, e desenhado no Corel por Anderson Jann Tesch",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "01be73dbbe1ea813c0358be1826bdc3747d024a70fd6fb228b776b8be6ecd2c6",
+ "rendicoes": {
+  "png": {
+   "bytes": 154839,
+   "sha256": "ebe3cfea322937a01c4a8bb1990dfe84ad0dc042ee11bad81cfb4290e1a6b8dc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48067,
+   "sha256": "00f2d0360d53c4961220d079a841f8d39710ec68dc779c2acae814b3ae3dd147",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 71235,
+   "sha256": "01be73dbbe1ea813c0358be1826bdc3747d024a70fd6fb228b776b8be6ecd2c6"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3205150.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3205150.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3205150.jpg"
+ },
+ "sha1_origem": "cd5b1d1ca0ed183688e808b447b424dac5661dba",
+ "bytes_origem": 71235,
+ "capturado_em": "2026-11-08T03:53:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_vila_pavao.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "cd5b1d1ca0ed183688e808b447b424dac5661dba"
+ }
+}

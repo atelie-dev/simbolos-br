@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4101606",
+ "uf": "PR",
+ "municipio": "Arapoti",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bandeira_de_Arapoti_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "41329abf03048176cbd6594479baf901e4442af4b67c19c5bce614948f2d5e17",
+ "rendicoes": {
+  "png": {
+   "bytes": 102246,
+   "sha256": "a40fc8bca3e87d0b77f06eaf8001af85bd3278249118b382e3847c44e6dca5da",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38989,
+   "sha256": "3f13490fce31865efb1932bb2b0d8892a883a37a2312c32bd7d2e9a016e18fb9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 469480,
+   "sha256": "41329abf03048176cbd6594479baf901e4442af4b67c19c5bce614948f2d5e17"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101606.jpg"
+ },
+ "sha1_origem": "14cf97cd262d5bdd3f6b110d1a20456ca2d5ceb0",
+ "bytes_origem": 469480,
+ "capturado_em": "2026-11-08T04:20:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Arapoti_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "14cf97cd262d5bdd3f6b110d1a20456ca2d5ceb0"
+ }
+}

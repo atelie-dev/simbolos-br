@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1100080",
+ "uf": "RO",
+ "municipio": "Costa Marques",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Brasao_Costa_Marques.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Costa Marques.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "958d297abe91577a723eb706840f078c4880cf0f79eea215f392f59017804e89",
+ "rendicoes": {
+  "png": {
+   "bytes": 18476,
+   "sha256": "ea91d2b3cb3de92c26e3e46214d51c1b965d9fef79ee9cd4f02665eb69b18d03",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10421,
+   "sha256": "d7c245101ab3a3023b1e50aed60ed5a0ca8af827dedffa588413bcce32e7ba51",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100080.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100080.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100080.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1100080.png",
+  "bytes": 7974,
+  "sha256": "958d297abe91577a723eb706840f078c4880cf0f79eea215f392f59017804e89"
+ },
+ "sha1_origem": "3fe768b430c76a080ec1e370cbbad6240dc89a40",
+ "bytes_origem": 7974,
+ "capturado_em": "2026-11-08T05:21:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Costa_Marques.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:32Z",
+  "estado": "igual",
+  "sha1_commons": "3fe768b430c76a080ec1e370cbbad6240dc89a40"
+ }
+}

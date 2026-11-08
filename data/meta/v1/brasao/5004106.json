@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5004106",
+ "uf": "MS",
+ "municipio": "Guia Lopes da Laguna",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Brasao_guialopes%2C_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "prefeitura de guia lopes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "26654d4881ebabe7cc628c0500d16707bb2ab7e537f57473c5bcec19a05bcbd6",
+ "rendicoes": {
+  "png": {
+   "bytes": 221609,
+   "sha256": "1cb09aaa9d958adc89a2a373d639ed29f4bb71db3e860b657280758dffd3f55f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44430,
+   "sha256": "d73074e9c6647e0f8e619df0285b8a897d0cf6b9b67952b5eb0856fc7b9dcf73",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5004106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5004106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5004106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5004106.jpg",
+  "bytes": 45074,
+  "sha256": "26654d4881ebabe7cc628c0500d16707bb2ab7e537f57473c5bcec19a05bcbd6"
+ },
+ "sha1_origem": "f148882688d7ccf291c9435650c9375064af2a7f",
+ "bytes_origem": 45074,
+ "capturado_em": "2026-11-08T07:12:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_guialopes,_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "f148882688d7ccf291c9435650c9375064af2a7f"
+ }
+}

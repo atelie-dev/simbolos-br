@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2912400",
+ "uf": "BA",
+ "municipio": "Ibipeba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bras%C3%A3o_de_Ibipeba.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ibipeba",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "923d162d5f159e785add8ffa7fe4357a8cee25fe9da29f2ec17b4ee6d4f1e010",
+ "rendicoes": {
+  "png": {
+   "bytes": 136967,
+   "sha256": "089b1bf134e19603df74d08e045bdb3ab6dea1ebd0bebef836e0d974a74181b5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22896,
+   "sha256": "7ff20fbfbff82344b88973382134109a002cd4131a10c65dc0b3ccb879d99cd7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2912400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2912400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2912400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2912400.png",
+  "bytes": 124807,
+  "sha256": "923d162d5f159e785add8ffa7fe4357a8cee25fe9da29f2ec17b4ee6d4f1e010"
+ },
+ "sha1_origem": "c25e3508e2111dfae5e15b6615bf4760d1742359",
+ "bytes_origem": 124807,
+ "capturado_em": "2026-11-08T05:53:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Ibipeba.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:03Z",
+  "estado": "igual",
+  "sha1_commons": "c25e3508e2111dfae5e15b6615bf4760d1742359"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1100114",
+ "uf": "RO",
+ "municipio": "Jaru",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bandeira-jaru-ro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMJ",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "58df8616bc43ed8f73af70ccc8ff88381e1f8e6d6a5b8f88557c8db154ec0d3e",
+ "rendicoes": {
+  "png": {
+   "bytes": 5665,
+   "sha256": "64ea63e6c456cc42e59a0bb56243a9c8ea1e10a7f7b502c7a7fa847a13a8ffcd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5068,
+   "sha256": "3d011db42eed711317c33c45cd5570396cca98cbc7d04ba1210df57d0f4e210d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100114.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100114.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100114.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1100114.png",
+  "bytes": 2715,
+  "sha256": "58df8616bc43ed8f73af70ccc8ff88381e1f8e6d6a5b8f88557c8db154ec0d3e"
+ },
+ "sha1_origem": "02047ede5de07b01470c56d84fdbd91b0dc3b9b8",
+ "bytes_origem": 2715,
+ "capturado_em": "2026-11-08T05:21:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-jaru-ro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "02047ede5de07b01470c56d84fdbd91b0dc3b9b8"
+ }
+}

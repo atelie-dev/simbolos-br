@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3105202",
+ "uf": "MG",
+ "municipio": "Bandeira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bandeira_de_Bandeira_-_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Bandeira",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d765886ed26d3df08eb487f3dadaaaff05989440b187b232d74a65a5fe9e6313",
+ "rendicoes": {
+  "png": {
+   "bytes": 17111,
+   "sha256": "9b0fa99ec1890656e38261b86f16602d05efd66a5198b16a8a7815e04e38d606",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7515,
+   "sha256": "4dfe5f35bf68172febae33dc913a9c35c61a4fd14bc3778086e0a91a74efaaf4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3105202.png",
+  "bytes": 13604,
+  "sha256": "d765886ed26d3df08eb487f3dadaaaff05989440b187b232d74a65a5fe9e6313"
+ },
+ "sha1_origem": "d51712e443e22c28138ff5b0e663e16d1d64f174",
+ "bytes_origem": 13604,
+ "capturado_em": "2026-11-08T06:00:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bandeira_-_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "d51712e443e22c28138ff5b0e663e16d1d64f174"
+ }
+}

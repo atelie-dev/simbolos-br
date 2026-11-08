@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5103452",
+ "uf": "MT",
+ "municipio": "Denise",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/BandeiraDenise-MT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "FelipeGMV",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "10cc9a8273e4d3985eca2b6660ce200833527209b4db0178987b774247f4cf4c",
+ "rendicoes": {
+  "png": {
+   "bytes": 44690,
+   "sha256": "ff3a8d1a3ab4a6b1ab14a977c491a0ea33bb3840af442e88eeb7204d125ffa87",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17561,
+   "sha256": "53e942fa14680359fbdb646bdb925fa03ab2163ab60d3ac9ac14073155375c48",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5103452.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5103452.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5103452.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5103452.jpg",
+  "bytes": 27209,
+  "sha256": "10cc9a8273e4d3985eca2b6660ce200833527209b4db0178987b774247f4cf4c"
+ },
+ "sha1_origem": "f51127892a490eeed868273486b421509931c64d",
+ "bytes_origem": 27209,
+ "capturado_em": "2026-11-08T07:14:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraDenise-MT.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:41Z",
+  "estado": "igual",
+  "sha1_commons": "f51127892a490eeed868273486b421509931c64d"
+ }
+}

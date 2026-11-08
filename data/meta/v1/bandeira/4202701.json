@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4202701",
+ "uf": "SC",
+ "municipio": "Botuverá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Bandeira_botuvera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Botuverá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c013d3195b788da0e02b1365c4b7f406bb2f4e0323fe8c228c44bb382b5d0171",
+ "rendicoes": {
+  "png": {
+   "bytes": 26028,
+   "sha256": "2c07aae2c6b036a022b69e38fee91a9a8b4d8d4987032327fee45047bfb0dbe9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9487,
+   "sha256": "f98c42372a1a607da6bbb7d745035bb9af07171ec879f05b465a58d146277f4b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4202701.jpg",
+  "bytes": 23868,
+  "sha256": "c013d3195b788da0e02b1365c4b7f406bb2f4e0323fe8c228c44bb382b5d0171"
+ },
+ "sha1_origem": "bea0f0b7fcddaa800401677fe744690e70acf530",
+ "bytes_origem": 23868,
+ "capturado_em": "2026-11-08T06:52:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_botuvera.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "bea0f0b7fcddaa800401677fe744690e70acf530"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2613701",
+ "uf": "PE",
+ "municipio": "São Lourenço da Mata",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Brasao_slm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Clodoaldo Gomes de Araújo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "891eba4629656d1356d56df7951c00c1852c37f851d4b2a686ae779edb948492",
+ "rendicoes": {
+  "png": {
+   "bytes": 98203,
+   "sha256": "7a24471df4ab602c37ca0c3daa1a85d9d207b164053702da743874ad633b4a52",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19863,
+   "sha256": "196708958e30ab8c12f6e150e654dd8a591e61425973edd41548b4ea854199cf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2613701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2613701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2613701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2613701.jpg",
+  "bytes": 14150,
+  "sha256": "891eba4629656d1356d56df7951c00c1852c37f851d4b2a686ae779edb948492"
+ },
+ "sha1_origem": "e6ebd80134c3e26318b916fe7e62e95e3de48f0c",
+ "bytes_origem": 14150,
+ "capturado_em": "2026-11-08T05:46:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_slm.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "e6ebd80134c3e26318b916fe7e62e95e3de48f0c"
+ }
+}

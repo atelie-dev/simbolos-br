@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312708",
+ "uf": "RS",
+ "municipio": "Nonoai",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bras%C3%A3o_Nonoai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nonoai",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9e68796d5630b42cda501dbdbd0bb26f58e65434f4f460981634e04dec838101",
+ "rendicoes": {
+  "png": {
+   "bytes": 407493,
+   "sha256": "e04a8237d2b2457bb781764569aa7518f865199a5212f88d5ba7e2cb341168e3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 95076,
+   "sha256": "4af132f8011082fc7aecc6b9c7b06a2d7d898b8d5c4595d704ef2ad5d60de3ca",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4312708.jpg",
+  "bytes": 188300,
+  "sha256": "9e68796d5630b42cda501dbdbd0bb26f58e65434f4f460981634e04dec838101"
+ },
+ "sha1_origem": "3701dd008ad3012070203b49fa23167e7a093c29",
+ "bytes_origem": 188300,
+ "capturado_em": "2026-11-08T07:06:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Nonoai.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "3701dd008ad3012070203b49fa23167e7a093c29"
+ }
+}

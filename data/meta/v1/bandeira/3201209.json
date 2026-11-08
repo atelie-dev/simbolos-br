@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3201209",
+ "uf": "ES",
+ "municipio": "Cachoeiro de Itapemirim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bandeira_de_Cachoeiro_de_Itapemirim.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Reorganizador",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "6743f89d7859b8987e3c7c7b8ebc03405090daa35eb64350d60f1cbdfeb7e441",
+ "rendicoes": {
+  "png": {
+   "bytes": 35984,
+   "sha256": "98ddaf8f76b216d4b375d4336899b9aa769ead8e0db6f29d8dcbbc3af8ff8bf9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20815,
+   "sha256": "747a02f2587debf6361fb6b04c89fbd5b9d694673d3883dc43dc912361ee2f29",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 7788,
+   "sha256": "6743f89d7859b8987e3c7c7b8ebc03405090daa35eb64350d60f1cbdfeb7e441"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3201209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3201209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3201209.jpg"
+ },
+ "sha1_origem": "5841851f1edb5990588a3f7fa252d798c64c6634",
+ "bytes_origem": 7788,
+ "capturado_em": "2026-11-08T03:51:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cachoeiro_de_Itapemirim.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "5841851f1edb5990588a3f7fa252d798c64c6634"
+ }
+}

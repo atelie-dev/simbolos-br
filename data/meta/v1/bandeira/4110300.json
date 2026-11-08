@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4110300",
+ "uf": "PR",
+ "municipio": "Inajá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bandeira_de_Inaj%C3%A1%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f1fe2fa1f0a92d095b08992a342a722176edfd3fe9d8f619ed0b165fd9c20528",
+ "rendicoes": {
+  "png": {
+   "bytes": 268857,
+   "sha256": "fb5587353517c4887c0b6c9c212a4ffc81ddd75e55835dc0422e654e215d1970",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27664,
+   "sha256": "2162b349909660e6db39d046e7eb8a164661cc10088b40d01f848041e3c47020",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4110300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4110300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4110300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4110300.jpg",
+  "bytes": 162917,
+  "sha256": "f1fe2fa1f0a92d095b08992a342a722176edfd3fe9d8f619ed0b165fd9c20528"
+ },
+ "sha1_origem": "30ca3e89081f964eed8c84a1d1d5e9379871541a",
+ "bytes_origem": 162917,
+ "capturado_em": "2026-11-08T06:44:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Inajá,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "30ca3e89081f964eed8c84a1d1d5e9379871541a"
+ }
+}

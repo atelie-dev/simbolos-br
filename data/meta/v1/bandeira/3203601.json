@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3203601",
+ "uf": "ES",
+ "municipio": "Mucurici",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bandeira_de_Mucurici_Esp%C3%ADrito_Santo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Valadares GV",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9d0f3db80174d6079b61099d7f78c6521e363277f3b0e8bc0f8af09c17f35f90",
+ "rendicoes": {
+  "png": {
+   "bytes": 45125,
+   "sha256": "51d8b2b022087e59fc4e6df5efdbc23f7e9305199591ed382049b70dbedc2b07",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18039,
+   "sha256": "118a02d9e204e570f2d1deca31e5ba6fa8ff21dafb0adb9507d7b6fc50424360",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3203601.png",
+  "bytes": 104677,
+  "sha256": "9d0f3db80174d6079b61099d7f78c6521e363277f3b0e8bc0f8af09c17f35f90"
+ },
+ "sha1_origem": "c1117c0c0bd7a81b164b72f5d6e529a77dabf0ad",
+ "bytes_origem": 104677,
+ "capturado_em": "2026-11-08T06:19:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Mucurici_Espírito_Santo.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "c1117c0c0bd7a81b164b72f5d6e529a77dabf0ad"
+ }
+}

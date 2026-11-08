@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4120853",
+ "uf": "PR",
+ "municipio": "Quatro Pontes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bandeira_Municipal_de_Quatro_Pontes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Clarice Ana de Souza",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1e90463d688b713bf5c2f443647d840675f3f293828d46aebad8650c06939641",
+ "rendicoes": {
+  "png": {
+   "bytes": 230934,
+   "sha256": "12983b5f257efbec8486597c60c4ee6c5f1f502734375086f02f8639e74b51ea",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31748,
+   "sha256": "f5745369e14736e882c1896ec62778b412225623ccaf4000e08ec4ed5106acbe",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4120853.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4120853.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4120853.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4120853.png",
+  "bytes": 343999,
+  "sha256": "1e90463d688b713bf5c2f443647d840675f3f293828d46aebad8650c06939641"
+ },
+ "sha1_origem": "5e229a5f052a5dd752a86aa4dff4e8d1c9eb9f4a",
+ "bytes_origem": 343999,
+ "capturado_em": "2026-11-08T06:48:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Municipal_de_Quatro_Pontes.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "5e229a5f052a5dd752a86aa4dff4e8d1c9eb9f4a"
+ }
+}

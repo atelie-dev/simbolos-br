@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4110102",
+ "uf": "PR",
+ "municipio": "Imbituva",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Bandeira_de_Imbituva_-_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Heitor100YT",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5430f9d8c6da47ab545e5af644e7683d089d24579d7f469a7ef571ee3ca23989",
+ "rendicoes": {
+  "png": {
+   "bytes": 64329,
+   "sha256": "a4673ef8ad1a28b83886c0bec55120ca13f862cb4d20dbbd56daebc813142d81",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20677,
+   "sha256": "82c9e527f58ba4fa5e08946da8fde1309b3e6a8aa6de55b2bd8a76c5965233eb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4110102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4110102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4110102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4110102.jpg",
+  "bytes": 56574,
+  "sha256": "5430f9d8c6da47ab545e5af644e7683d089d24579d7f469a7ef571ee3ca23989"
+ },
+ "sha1_origem": "fdec8d64fe9d6da19fa827274ab7948b10543c07",
+ "bytes_origem": 56574,
+ "capturado_em": "2026-11-08T06:44:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Imbituva_-_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "fdec8d64fe9d6da19fa827274ab7948b10543c07"
+ }
+}

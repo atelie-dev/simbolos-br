@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5205455",
+ "uf": "GO",
+ "municipio": "Cezarina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bandeira_de_Cezarina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cezarina",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "38ab33788c5533cc503d99febc141cbf7a22eff83caea7053a310bca2b66efd9",
+ "rendicoes": {
+  "png": {
+   "bytes": 50055,
+   "sha256": "fd7b8a175393943b16182d5e926702aed2a32d83859cbd41bf3fb55cf739db93",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17189,
+   "sha256": "0f97733b9ce4272d14d3117bd003620f142818739d34e6affa72bbf5c3ca65af",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205455.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205455.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205455.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5205455.jpg",
+  "bytes": 32149,
+  "sha256": "38ab33788c5533cc503d99febc141cbf7a22eff83caea7053a310bca2b66efd9"
+ },
+ "sha1_origem": "3ddbc361a24ed5f61abcec961c67de79b0164285",
+ "bytes_origem": 32149,
+ "capturado_em": "2026-11-08T07:17:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cezarina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "3ddbc361a24ed5f61abcec961c67de79b0164285"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5201306",
+ "uf": "GO",
+ "municipio": "Anicuns",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bras%C3%A3o_de_Anicuns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Anicuns",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "71c26b60a33fd06690993d3d0fac59f4682e6f5ed1e50123e08d30112bdaaa7d",
+ "rendicoes": {
+  "png": {
+   "bytes": 66258,
+   "sha256": "afa7419cbfab327e6c2f9a78122fb6c08a263c0da615e35dc4a14a48964b69b5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12943,
+   "sha256": "9ebc755adc5d8052eaaff2e4e3d85ea70bb611727e02f6922e0220c6f83547c9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5201306.jpg",
+  "bytes": 16221,
+  "sha256": "71c26b60a33fd06690993d3d0fac59f4682e6f5ed1e50123e08d30112bdaaa7d"
+ },
+ "sha1_origem": "4a56c65a5f16f4bf83e054cf478a4870e067999d",
+ "bytes_origem": 16221,
+ "capturado_em": "2026-11-08T07:16:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Anicuns.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "4a56c65a5f16f4bf83e054cf478a4870e067999d"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3517109",
+ "uf": "SP",
+ "municipio": "Glicério",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bras%C3%A3o_Glic%C3%A9rio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Glicério",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5b513ffc91244a47d983b78c4a600d7f6175be0189d24456aff75d3b3e651fa3",
+ "rendicoes": {
+  "png": {
+   "bytes": 23580,
+   "sha256": "2768bb7794018b62f85917ce147881c0cc5ebec5dfbafbd26f8e01f7c484c6da",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6658,
+   "sha256": "4fcaa77c4f47cf2807fbdc21b937f121f38edb2d1a4dce7f00808c114fa01fa7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3517109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3517109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3517109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3517109.jpg",
+  "bytes": 6073,
+  "sha256": "5b513ffc91244a47d983b78c4a600d7f6175be0189d24456aff75d3b3e651fa3"
+ },
+ "sha1_origem": "95eece3d84542301c97cd414c322b985ead272dd",
+ "bytes_origem": 6073,
+ "capturado_em": "2026-11-08T06:28:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Glicério.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "95eece3d84542301c97cd414c322b985ead272dd"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3516200",
+ "uf": "SP",
+ "municipio": "Franca",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Franca-brasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "No machine-readable author provided. Domaleixo assumed (based on copyright claims).",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4a9e66456d4bd00257428ca7482774b12d777561dd60b4bc5145ce6f897a50c3",
+ "rendicoes": {
+  "png": {
+   "bytes": 196875,
+   "sha256": "5bce02e8537bc27f75b04f9a84a520352b0533a1dae8b196588201de7009b7a1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41985,
+   "sha256": "753b050440d1977050f629607cd16598562882d51ed753e34970fa152789b956",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3516200.jpg",
+  "bytes": 124614,
+  "sha256": "4a9e66456d4bd00257428ca7482774b12d777561dd60b4bc5145ce6f897a50c3"
+ },
+ "sha1_origem": "e2773dc339ef6fa2077ddf8faaaa2bf3a4b61b9e",
+ "bytes_origem": 124614,
+ "capturado_em": "2026-11-08T06:27:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Franca-brasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:30Z",
+  "estado": "igual",
+  "sha1_commons": "e2773dc339ef6fa2077ddf8faaaa2bf3a4b61b9e"
+ }
+}

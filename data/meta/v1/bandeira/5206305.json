@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5206305",
+ "uf": "GO",
+ "municipio": "Cristianópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bandeira_de_Cristian%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cristianópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "460bf03611c66441efdb212a34f6a20b1a687056a6b44ee5ba49bad58867098c",
+ "rendicoes": {
+  "png": {
+   "bytes": 69076,
+   "sha256": "49cbeeaccbcfbcccebd9cf771043c35dc54c9d19fda91f977cef70cdd21f39b6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15595,
+   "sha256": "4ddc03a8a12a122bb2d98064b4cda8b7cd988fd882d7a75523ee44f0f680b3a0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5206305.jpg",
+  "bytes": 15663,
+  "sha256": "460bf03611c66441efdb212a34f6a20b1a687056a6b44ee5ba49bad58867098c"
+ },
+ "sha1_origem": "006418b5ee07b7e0682354cbbbb32817300980ad",
+ "bytes_origem": 15663,
+ "capturado_em": "2026-11-08T07:17:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cristianópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "006418b5ee07b7e0682354cbbbb32817300980ad"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2102002",
+ "uf": "MA",
+ "municipio": "Bom Jardim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bandeira_de_Bom_Jardim%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Breno Meireles",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d311d37ff71462ed134516db5de68da9f187d14802c23f817f2fd1e862f2b626",
+ "rendicoes": {
+  "png": {
+   "bytes": 27690,
+   "sha256": "1372bc3d537ce47ff5cecec61f2b8a5e183ac004592bb6d4302bbc2b5426c0a8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10989,
+   "sha256": "acaccf8332c328bccad2105b60317d42c5f759503b6d2f5d20766cdaf77c7b0a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2102002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2102002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2102002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2102002.jpg",
+  "bytes": 8571,
+  "sha256": "d311d37ff71462ed134516db5de68da9f187d14802c23f817f2fd1e862f2b626"
+ },
+ "sha1_origem": "5dda8c1c25212f70d957e203568136cc759ece3e",
+ "bytes_origem": 8571,
+ "capturado_em": "2026-11-08T05:27:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bom_Jardim,_MA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "5dda8c1c25212f70d957e203568136cc759ece3e"
+ }
+}

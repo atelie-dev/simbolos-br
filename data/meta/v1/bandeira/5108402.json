@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5108402",
+ "uf": "MT",
+ "municipio": "Várzea Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bandeira_V%C3%A1rzea_Grande.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Várzea Grande - MT.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "80efe00d598a7cfd9274edbc314688d360176367d7a0943faad9d58f46c54b7e",
+ "rendicoes": {
+  "png": {
+   "bytes": 34383,
+   "sha256": "6d84f57baa5c72d41bcb5581f14cc9941c1eecb9997edee312dac07f3bf5b4ce",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16247,
+   "sha256": "b80d68aa99f0fdeab23f2953bf8ad59c6e355d98251f3fa3753dcf1485ec541e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5108402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5108402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5108402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5108402.png",
+  "bytes": 48201,
+  "sha256": "80efe00d598a7cfd9274edbc314688d360176367d7a0943faad9d58f46c54b7e"
+ },
+ "sha1_origem": "655029041ae2b2030e2bd7db33164d13c7998ce9",
+ "bytes_origem": 48201,
+ "capturado_em": "2026-11-08T07:16:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Várzea_Grande.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "655029041ae2b2030e2bd7db33164d13c7998ce9"
+ }
+}

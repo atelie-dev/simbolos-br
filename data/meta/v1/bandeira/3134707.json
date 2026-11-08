@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3134707",
+ "uf": "MG",
+ "municipio": "Jacinto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_Jacinto.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pcgomes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7938e27b4acaa7f893186047ceeadd6d1b4ab99e6dc4f53c2c85fdb9d5aeaa64",
+ "rendicoes": {
+  "png": {
+   "bytes": 88029,
+   "sha256": "63c858407150a8079ae395abe678bbf5c5a4e6448ed0e3d75736dfc3f01ea491",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37818,
+   "sha256": "5e130246c03717a139c2cbf9607c103762f12b3becb0ffb6138c627f68b744e6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3134707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3134707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3134707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3134707.png",
+  "bytes": 145902,
+  "sha256": "7938e27b4acaa7f893186047ceeadd6d1b4ab99e6dc4f53c2c85fdb9d5aeaa64"
+ },
+ "sha1_origem": "53430e4492cc1c328186ab93fe5742c2b1109d33",
+ "bytes_origem": 145902,
+ "capturado_em": "2026-11-08T06:09:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Jacinto.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "53430e4492cc1c328186ab93fe5742c2b1109d33"
+ }
+}

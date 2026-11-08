@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3533007",
+ "uf": "SP",
+ "municipio": "Nova Granada",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bandeira_de_Nova_Granada%2C_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Nova Granada",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "697b56d14763108b53fb02c80d5e89b391e03d3e369d9e571fc72a8f4bbf3881",
+ "rendicoes": {
+  "png": {
+   "bytes": 23219,
+   "sha256": "4a375e92cfe3680e7d9dbcfdf17458dc52aa3f27993821c2038d690c2bbb62b7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55483,
+   "sha256": "0bb215a5eeb135ff623b74f5abc66fe963b7b8b1a6064785a4b768cdce8d9ce9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3533007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3533007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3533007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3533007.png",
+  "bytes": 15961,
+  "sha256": "697b56d14763108b53fb02c80d5e89b391e03d3e369d9e571fc72a8f4bbf3881"
+ },
+ "sha1_origem": "a2f6f59611879eaba3e63e9d17b06d2e2863b93a",
+ "bytes_origem": 15961,
+ "capturado_em": "2026-11-08T06:33:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nova_Granada,_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "a2f6f59611879eaba3e63e9d17b06d2e2863b93a"
+ }
+}

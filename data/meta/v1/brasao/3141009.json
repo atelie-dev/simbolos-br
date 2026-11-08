@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3141009",
+ "uf": "MG",
+ "municipio": "Mato Verde",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Brasao_mato_verde.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a359e224de8c8dd330aeb4140830c64a06b020f1c7f091187ea18db594f3441b",
+ "rendicoes": {
+  "png": {
+   "bytes": 27712,
+   "sha256": "4f6e84223f83b6155ce0dea6d15afcb955b6bbf9e8970c86ac128e2fd4150f11",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9873,
+   "sha256": "bc344f35e0903f164525ae65c3ede95ea0036c12d9107f5bc730b58fe28078e1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3141009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3141009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3141009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3141009.png",
+  "bytes": 10285,
+  "sha256": "a359e224de8c8dd330aeb4140830c64a06b020f1c7f091187ea18db594f3441b"
+ },
+ "sha1_origem": "cca3c3bcebb1d9cac136809858c1ba797a971107",
+ "bytes_origem": 10285,
+ "capturado_em": "2026-11-08T06:11:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_mato_verde.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "cca3c3bcebb1d9cac136809858c1ba797a971107"
+ }
+}

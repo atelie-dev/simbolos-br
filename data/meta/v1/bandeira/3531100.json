@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3531100",
+ "uf": "SP",
+ "municipio": "Mongaguá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bandeira_Mongagu%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "23d6961ef1805f21b5640540a62857bf69cb7aab207f3c6a538d1592cc20bc1b",
+ "rendicoes": {
+  "png": {
+   "bytes": 17559,
+   "sha256": "b9bcca29bd62997baf593a485824eafe8ac9139b388be426c1fb5db99b2e69aa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5851,
+   "sha256": "8abcecedc59bf7e59e8d04119d4e26d69155f330aa1edc0c04977ca662acf0f4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3531100.jpg",
+  "bytes": 3119,
+  "sha256": "23d6961ef1805f21b5640540a62857bf69cb7aab207f3c6a538d1592cc20bc1b"
+ },
+ "sha1_origem": "4577b5c533a34264adf3132adc9e8ae16960da66",
+ "bytes_origem": 3119,
+ "capturado_em": "2026-11-08T06:32:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Mongaguá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "4577b5c533a34264adf3132adc9e8ae16960da66"
+ }
+}

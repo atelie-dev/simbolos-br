@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4203600",
+ "uf": "SC",
+ "municipio": "Campos Novos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bandeira_de_Campos_Novos_-_SC.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "8e2866266ad21c80a95ad3ffd191d1b9f41e01272fb381c628a23736080e9643",
+ "rendicoes": {
+  "png": {
+   "bytes": 48534,
+   "sha256": "6e0ea7207fd7f7fa1f625948df9d8d3fa7675529f3bbafeef52f24954e4feb39",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20622,
+   "sha256": "46045ff1b69d92adafb8e149acc74169609f05e71a18cd195e128c300995b027",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 201863,
+   "sha256": "8e2866266ad21c80a95ad3ffd191d1b9f41e01272fb381c628a23736080e9643"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203600.jpg"
+ },
+ "sha1_origem": "cf7446b3fe866c6b25eb74e5acb90eb8859c6e26",
+ "bytes_origem": 201863,
+ "capturado_em": "2026-11-08T04:37:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Campos_Novos_-_SC.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "cf7446b3fe866c6b25eb74e5acb90eb8859c6e26"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3303401",
+ "uf": "RJ",
+ "municipio": "Nova Friburgo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Nova_Friburgo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Himasaram",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8ac49eea79e232e609ef3750d86689fb90a34cd246ba59fd6e95a42077af9735",
+ "rendicoes": {
+  "png": {
+   "bytes": 25576,
+   "sha256": "2be2458ab63949d1bc3938f989be8a6ea3c8b303c0e2dd1427bfae57b54d83dd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11820,
+   "sha256": "f922e6eae2c67357203c1e9bd4b5448359fdb853f66bdf0da2fd93dbf63e054b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3303401.png",
+  "bytes": 71009,
+  "sha256": "8ac49eea79e232e609ef3750d86689fb90a34cd246ba59fd6e95a42077af9735"
+ },
+ "sha1_origem": "1a654d7c78b04c22af28b1f996d5d74eb4018402",
+ "bytes_origem": 71009,
+ "capturado_em": "2026-11-08T06:21:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Nova_Friburgo.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "1a654d7c78b04c22af28b1f996d5d74eb4018402"
+ }
+}

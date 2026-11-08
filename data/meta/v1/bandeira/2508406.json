@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2508406",
+ "uf": "PB",
+ "municipio": "Lastro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bandeira_Lastro_%28PB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Lastro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ab432f214d55123ca22ccd8535b8f7a64fdcbdba71536ad60534156ed8580161",
+ "rendicoes": {
+  "png": {
+   "bytes": 123360,
+   "sha256": "eec802c04ab07db1ae8ad983959d90ec257c48c8bdcc9e0aafab76db7258cd66",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22792,
+   "sha256": "43e91d9e74a74f7379e05244e4288babee7e4724496e5b30c523ebc0b0cebab2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508406.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2508406.jpg",
+  "bytes": 16631,
+  "sha256": "ab432f214d55123ca22ccd8535b8f7a64fdcbdba71536ad60534156ed8580161"
+ },
+ "sha1_origem": "cc5be9a7656bff602044a237f541e2f019bce333",
+ "bytes_origem": 16631,
+ "capturado_em": "2026-11-08T05:41:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Lastro_(PB).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "cc5be9a7656bff602044a237f541e2f019bce333"
+ }
+}

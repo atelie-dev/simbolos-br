@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4302709",
+ "uf": "RS",
+ "municipio": "Butiá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Bandeira_de_Buti%C3%A1-RS%2C_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f6efe436e195f181f52f8382953f97f155e0865b7764ada1a6a75e7469dd12c3",
+ "rendicoes": {
+  "png": {
+   "bytes": 14053,
+   "sha256": "74d4de6fdbe0c22de5599d1dde48a6ce5ea8d91b2fa5d3f2d4b19306d39acea8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11824,
+   "sha256": "5010d19688494218fe5db85407fb47aad3b6eb734703f006de5ec20693c44057",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302709.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4302709.jpg",
+  "bytes": 10629,
+  "sha256": "f6efe436e195f181f52f8382953f97f155e0865b7764ada1a6a75e7469dd12c3"
+ },
+ "sha1_origem": "6bf2d4275fec4f48c48954602bb3f2b93c11b1c4",
+ "bytes_origem": 10629,
+ "capturado_em": "2026-11-08T07:00:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Butiá-RS,_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "6bf2d4275fec4f48c48954602bb3f2b93c11b1c4"
+ }
+}

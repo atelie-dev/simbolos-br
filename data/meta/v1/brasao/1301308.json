@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1301308",
+ "uf": "AM",
+ "municipio": "Codajás",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Codaj%C3%A1s_-_bras%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Codajás",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cf8cae899af74896626b884fbfbd99aac9f05fe5e462e80550ff05ad1886cfbc",
+ "rendicoes": {
+  "png": {
+   "bytes": 205876,
+   "sha256": "d8dd6238334c8a3bff103f8950b314d570c3cafc201a5c6088c39a69e4778ef1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40124,
+   "sha256": "502b4ff1ae51de83ceeae90527bfebe49a1585072841b0fb2551599f42be7fc7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1301308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1301308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1301308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1301308.jpg",
+  "bytes": 60679,
+  "sha256": "cf8cae899af74896626b884fbfbd99aac9f05fe5e462e80550ff05ad1886cfbc"
+ },
+ "sha1_origem": "708636e0e0c5b8d4305a933aaaf0671899311809",
+ "bytes_origem": 60679,
+ "capturado_em": "2026-11-08T05:22:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Codajás_-_brasão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:24Z",
+  "estado": "igual",
+  "sha1_commons": "708636e0e0c5b8d4305a933aaaf0671899311809"
+ }
+}

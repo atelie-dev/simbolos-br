@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2511509",
+ "uf": "PB",
+ "municipio": "Pilar",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bandeira_pilar.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Pilar",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4552a8a0c512d22d1815d01b952dd30399acdbcc6e28a1e87cd5e567d3897c00",
+ "rendicoes": {
+  "png": {
+   "bytes": 13149,
+   "sha256": "a46e574a34446e376a87a4abc9f8d6827cf65ea187d4a3042f78abd20ba8ee4c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6025,
+   "sha256": "75ba07174b6295a317af473c106266a1ab9f353503083ee84829c029d88d98cd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2511509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2511509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2511509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2511509.png",
+  "bytes": 11325,
+  "sha256": "4552a8a0c512d22d1815d01b952dd30399acdbcc6e28a1e87cd5e567d3897c00"
+ },
+ "sha1_origem": "95cbb078338be0d46ad093c304bed41673886816",
+ "bytes_origem": 11325,
+ "capturado_em": "2026-11-08T05:42:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_pilar.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:22Z",
+  "estado": "igual",
+  "sha1_commons": "95cbb078338be0d46ad093c304bed41673886816"
+ }
+}

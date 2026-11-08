@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3543501",
+ "uf": "SP",
+ "municipio": "Riversul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_Riversul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2a213f1e028a22ba07bcedeed4aa317ea6453a7683d0a030d106a6973b87b795",
+ "rendicoes": {
+  "png": {
+   "bytes": 56898,
+   "sha256": "7fce36ff0623ffe289ce710bb3c444bcb9f3e6b4c0933ef6b5229e57a4ac2ff8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18118,
+   "sha256": "d8d9d46b00b402968ed9c971ffdd7e8a73d8e222851c026260aa3ce5758de281",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3543501.jpg",
+  "bytes": 109431,
+  "sha256": "2a213f1e028a22ba07bcedeed4aa317ea6453a7683d0a030d106a6973b87b795"
+ },
+ "sha1_origem": "956ad15296eb183f338f4a765289c561e072a4ab",
+ "bytes_origem": 109431,
+ "capturado_em": "2026-11-08T06:36:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Riversul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "956ad15296eb183f338f4a765289c561e072a4ab"
+ }
+}

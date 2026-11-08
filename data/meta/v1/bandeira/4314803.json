@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314803",
+ "uf": "RS",
+ "municipio": "Portão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bandeira_de_Port%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Portão",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3e0c7a1f28fabda42fb668d2bd51e51be8a6fc6db59b2caab80708410af98344",
+ "rendicoes": {
+  "png": {
+   "bytes": 40885,
+   "sha256": "65e1d7117dcd1b347e52d97e2ff085980b27f5694a5eb2e7e573483acd1bce27",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12180,
+   "sha256": "7244a76a2c616a434e071f157bcd4db2332a7cc55bea68b8e907c062de5177bf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4314803.jpg",
+  "bytes": 188613,
+  "sha256": "3e0c7a1f28fabda42fb668d2bd51e51be8a6fc6db59b2caab80708410af98344"
+ },
+ "sha1_origem": "b0e6de58243353e913af9726af183050536b525d",
+ "bytes_origem": 188613,
+ "capturado_em": "2026-11-08T07:07:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Portão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "b0e6de58243353e913af9726af183050536b525d"
+ }
+}

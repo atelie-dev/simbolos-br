@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3104007",
+ "uf": "MG",
+ "municipio": "Araxá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Arax%C3%A1mgbrasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Araxá",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d91855b0dea461eea097a6c07166d80f546c8ba956f82a3f690ceef1a5d3dde4",
+ "rendicoes": {
+  "png": {
+   "bytes": 53817,
+   "sha256": "cb0fe001e87f0ff8169368100df3c701aecb9487c3d239bf785feccc1f36c6ab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15333,
+   "sha256": "fb698aa6d45ab138da826fbc16a713b6fc4c841659bebe80609ec7a328efd817",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3104007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3104007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3104007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3104007.png",
+  "bytes": 45484,
+  "sha256": "d91855b0dea461eea097a6c07166d80f546c8ba956f82a3f690ceef1a5d3dde4"
+ },
+ "sha1_origem": "845fd718036688d61932d13f3a6d13921bbbebb7",
+ "bytes_origem": 45484,
+ "capturado_em": "2026-11-08T05:59:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Araxámgbrasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "845fd718036688d61932d13f3a6d13921bbbebb7"
+ }
+}

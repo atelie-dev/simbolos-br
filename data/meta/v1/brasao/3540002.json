@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3540002",
+ "uf": "SP",
+ "municipio": "Pompéia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bras%C3%A3o_Pompeia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e3469a263c8b688949434fa2c18f445946a0e0bd94b429b620005ad5453700a7",
+ "rendicoes": {
+  "png": {
+   "bytes": 56226,
+   "sha256": "ec12342e3ed1c99face826ffb004cbd2754f192f7b34cd86014ce51defeb5a5d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12777,
+   "sha256": "1e18775c95b23a0c4649d9fdb8d6b0ad1e052e58f9f4d10b8d6e38e0233e6fe0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3540002.jpg",
+  "bytes": 13437,
+  "sha256": "e3469a263c8b688949434fa2c18f445946a0e0bd94b429b620005ad5453700a7"
+ },
+ "sha1_origem": "0f961befdba41baf1e78246a55ec3f26f9d439a8",
+ "bytes_origem": 13437,
+ "capturado_em": "2026-11-08T06:35:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Pompeia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:53Z",
+  "estado": "igual",
+  "sha1_commons": "0f961befdba41baf1e78246a55ec3f26f9d439a8"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3510500",
+ "uf": "SP",
+ "municipio": "Caraguatatuba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Brasao_Caraguatatuba_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "f3d4e8a823afe1fe037cd7a5b9d96361836cef7309674829703fb5e302eddea9",
+ "rendicoes": {
+  "png": {
+   "bytes": 189764,
+   "sha256": "c431faee0939f7ef4d353b656bdac21e5337921eede2239ba0e242ef61fc272b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58448,
+   "sha256": "453cd3243e41c8b1db6d57f86a7a40fff0395fb3bcf95b899f7a73829b5bbe40",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 168254,
+   "sha256": "f3d4e8a823afe1fe037cd7a5b9d96361836cef7309674829703fb5e302eddea9"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3510500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3510500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3510500.jpg"
+ },
+ "sha1_origem": "72f7ed0249360378ab5826014f299f029879fa4f",
+ "bytes_origem": 168254,
+ "capturado_em": "2026-11-08T04:00:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Caraguatatuba_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:32Z",
+  "estado": "igual",
+  "sha1_commons": "72f7ed0249360378ab5826014f299f029879fa4f"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5211008",
+ "uf": "GO",
+ "municipio": "Itapirapuã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Bandeira_de_Itapirapu%C3%A3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Itapirapuã",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "05f05428bf9f1f9837c0e3212eb80e891ce247794dcae22d648cd180260b5c69",
+ "rendicoes": {
+  "png": {
+   "bytes": 7885,
+   "sha256": "bf3829bcdc32d9a8f14fa2700376391855596b2c1e902907f2a050515257a1b3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6102,
+   "sha256": "931ba35a3d770ad07c868277d939ca2f0166d278f84457594522e6938e452621",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5211008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5211008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5211008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5211008.jpg",
+  "bytes": 5437,
+  "sha256": "05f05428bf9f1f9837c0e3212eb80e891ce247794dcae22d648cd180260b5c69"
+ },
+ "sha1_origem": "db69d5baa22c3cb5fae4599cb9446c67096ffd1a",
+ "bytes_origem": 5437,
+ "capturado_em": "2026-11-08T07:18:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itapirapuã.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "db69d5baa22c3cb5fae4599cb9446c67096ffd1a"
+ }
+}

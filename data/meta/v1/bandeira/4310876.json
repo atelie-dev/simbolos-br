@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4310876",
+ "uf": "RS",
+ "municipio": "Jacuizinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jacuizinhobandeirars.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Jacuizinho",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "89df8962f9c0888403a48358fe3415ebc1e1b2a5454ea6d70349cfb43a44bba7",
+ "rendicoes": {
+  "png": {
+   "bytes": 9624,
+   "sha256": "0d40f184195a7ba9edb6c0acf8e3ffeb40e0447f772d44028761185c29cab599",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7544,
+   "sha256": "d0e5f217d022a643c39224d0b6e2fc7c8966bf5b2d9df5b865245f720fc0e313",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310876.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310876.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310876.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4310876.png",
+  "bytes": 7467,
+  "sha256": "89df8962f9c0888403a48358fe3415ebc1e1b2a5454ea6d70349cfb43a44bba7"
+ },
+ "sha1_origem": "11d3cbb29f2c5bbbf1018d3688ae784e5a527660",
+ "bytes_origem": 7467,
+ "capturado_em": "2026-11-08T07:04:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Jacuizinhobandeirars.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "11d3cbb29f2c5bbbf1018d3688ae784e5a527660"
+ }
+}

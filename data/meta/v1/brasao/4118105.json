@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4118105",
+ "uf": "PR",
+ "municipio": "Paranacity",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bras%C3%A3o_de_Paranacity_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0a9d6844207391e4ed05ce4c7f8bb784012679135c14bcec10a28186b893e230",
+ "rendicoes": {
+  "png": {
+   "bytes": 198680,
+   "sha256": "7dabae346288bf2586797d5ca0d4b188074c63438da7e66f41a30d74f4018198",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62504,
+   "sha256": "eec061a97e79fdb78e6f48acedcea80de0b035891d5a13126f1eacbc730a5fae",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 274212,
+   "sha256": "0a9d6844207391e4ed05ce4c7f8bb784012679135c14bcec10a28186b893e230"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4118105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4118105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4118105.jpg"
+ },
+ "sha1_origem": "be679c805ca17ca18c4189dd587729f783d8d948",
+ "bytes_origem": 274212,
+ "capturado_em": "2026-11-08T04:29:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Paranacity_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "be679c805ca17ca18c4189dd587729f783d8d948"
+ }
+}

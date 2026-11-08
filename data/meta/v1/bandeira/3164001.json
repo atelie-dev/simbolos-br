@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3164001",
+ "uf": "MG",
+ "municipio": "São Pedro dos Ferros",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bandeira_de_S%C3%A3o_Pedro_dos_Ferros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Lino Jurio H",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d62e0483cd235b01f9a5ae480ea9c35b19f64337b09d512d476ac43c7d1bda75",
+ "rendicoes": {
+  "png": {
+   "bytes": 87935,
+   "sha256": "2c7f05150fa86ffb304b9ea2f899eed1e610b397c64b47191d7e4448c58ac54c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23997,
+   "sha256": "be4c4aae035da2302bef53d93ac45e18979343b8de4ace6abfd34e53ce243357",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3164001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3164001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3164001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3164001.jpg",
+  "bytes": 25945,
+  "sha256": "d62e0483cd235b01f9a5ae480ea9c35b19f64337b09d512d476ac43c7d1bda75"
+ },
+ "sha1_origem": "c890b0628ba965c9d638d215fda392a5034d3f22",
+ "bytes_origem": 25945,
+ "capturado_em": "2026-11-08T06:16:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Pedro_dos_Ferros.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "c890b0628ba965c9d638d215fda392a5034d3f22"
+ }
+}

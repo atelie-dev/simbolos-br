@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321105",
+ "uf": "RS",
+ "municipio": "Tapes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Brasaotapes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Guilherme R",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "13694f1674c81e140148c6512db7ba22970e9cd4ec6bc7549cf55d689aedc83b",
+ "rendicoes": {
+  "png": {
+   "bytes": 159504,
+   "sha256": "f18e3034c23649d5ba05ee295fa340db9d1254c9fcd5eeb3f93e5a33cea5b365",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31501,
+   "sha256": "5a4b8a46b9841075b86efcdde346f1d5659eb559de6dae608723c8dcf80c2330",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321105.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4321105.jpg",
+  "bytes": 44296,
+  "sha256": "13694f1674c81e140148c6512db7ba22970e9cd4ec6bc7549cf55d689aedc83b"
+ },
+ "sha1_origem": "64e314203a1c4744b362c57b5b1f297a0c64887d",
+ "bytes_origem": 44296,
+ "capturado_em": "2026-11-08T07:10:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaotapes.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "64e314203a1c4744b362c57b5b1f297a0c64887d"
+ }
+}

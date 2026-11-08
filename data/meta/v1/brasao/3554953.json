@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3554953",
+ "uf": "SP",
+ "municipio": "Tuiuti",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bras%C3%A3o_Tuiuti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "11363ee2a132517149eed70a684d1fd964ad4995a8282d0a352d9dfe3e8809b7",
+ "rendicoes": {
+  "png": {
+   "bytes": 413288,
+   "sha256": "247d615ae417c331c45246c9b8c85032e87791a9a3c77a980fc41e34ea575b90",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 76451,
+   "sha256": "9991ffad68e6186824d8b546ddf7ad538d5d25d31744f72c7b7d801b0a0d30f8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554953.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554953.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554953.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3554953.jpg",
+  "bytes": 86115,
+  "sha256": "11363ee2a132517149eed70a684d1fd964ad4995a8282d0a352d9dfe3e8809b7"
+ },
+ "sha1_origem": "70e28e89a25231a83c4fd574f761387dbb16f548",
+ "bytes_origem": 86115,
+ "capturado_em": "2026-11-08T06:40:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Tuiuti.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "70e28e89a25231a83c4fd574f761387dbb16f548"
+ }
+}

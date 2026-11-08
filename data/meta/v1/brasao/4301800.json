@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4301800",
+ "uf": "RS",
+ "municipio": "Barracão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bras%C3%A3o_de_Barrac%C3%A3o%2C_RS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Barracão.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a6bd3c48c26fbcd496991bcfe91e3ab8d71663aa20095c589163075f5466aac0",
+ "rendicoes": {
+  "png": {
+   "bytes": 33221,
+   "sha256": "ada4be6e117e7e64f288826b3b812a7f50d7b3f80f86e89334ac155ad5aa5fbe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12610,
+   "sha256": "088171e280b77ed5ad33b5c998eb890cc5de3cd800531cfdc93128a52dccb916",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4301800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4301800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4301800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4301800.png",
+  "bytes": 13178,
+  "sha256": "a6bd3c48c26fbcd496991bcfe91e3ab8d71663aa20095c589163075f5466aac0"
+ },
+ "sha1_origem": "2f30dc9fe0755af72e814bf100d00d3c5d655fc9",
+ "bytes_origem": 13178,
+ "capturado_em": "2026-11-08T06:59:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Barracão,_RS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "2f30dc9fe0755af72e814bf100d00d3c5d655fc9"
+ }
+}

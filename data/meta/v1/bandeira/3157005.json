@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3157005",
+ "uf": "MG",
+ "municipio": "Salinas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bandeira_Salinas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a9c6713146db92d2518ebeef9e6c64c09d17dc635e280d3d117c209ba0e7ca4a",
+ "rendicoes": {
+  "png": {
+   "bytes": 8883,
+   "sha256": "cee314027d0e6178a8688821be032760930f9bb41fcc37dad32301f8d2950f7c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22808,
+   "sha256": "95ae22b9fae039c4c0738386da9c574b0515967aaa0934b34a61cfcfd093b550",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3157005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3157005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3157005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3157005.png",
+  "bytes": 6178,
+  "sha256": "a9c6713146db92d2518ebeef9e6c64c09d17dc635e280d3d117c209ba0e7ca4a"
+ },
+ "sha1_origem": "f52de4c594fcc6408672db3430253ddb278c6e2e",
+ "bytes_origem": 6178,
+ "capturado_em": "2026-11-08T06:14:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Salinas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "f52de4c594fcc6408672db3430253ddb278c6e2e"
+ }
+}

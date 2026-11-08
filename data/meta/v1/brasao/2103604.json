@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2103604",
+ "uf": "MA",
+ "municipio": "Coroatá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bras%C3%A3o_de_Coroat%C3%A1%2C_Maranh%C3%A3o%2C15.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal De Coroatá",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "98d5eb91addc3fd9daced03dd28666548fdb3a64bc8428123ed90720bdfb17ef",
+ "rendicoes": {
+  "png": {
+   "bytes": 215016,
+   "sha256": "243610e0b2e569092891d1d4333a2b19af48c0c91d02b6621c27ab901a0ab969",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54755,
+   "sha256": "adc7b1d89c217d8c1e868141219a129bd4cc87ee9f4ab7de9b5f7ed624fba287",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2103604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2103604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2103604.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2103604.png",
+  "bytes": 481419,
+  "sha256": "98d5eb91addc3fd9daced03dd28666548fdb3a64bc8428123ed90720bdfb17ef"
+ },
+ "sha1_origem": "92cd8a192fd448e1ec3a58a65785ec3b78430086",
+ "bytes_origem": 481419,
+ "capturado_em": "2026-11-08T05:27:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Coroatá,_Maranhão,15.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "92cd8a192fd448e1ec3a58a65785ec3b78430086"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3520202",
+ "uf": "SP",
+ "municipio": "Igaratá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bandeira_Igarata_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9cb79953777c168c33cef913d6ab8712101cb291a43f296b143825189ba39bee",
+ "rendicoes": {
+  "png": {
+   "bytes": 56032,
+   "sha256": "52fda418dbe4214dce971da8a319e537b1a1e1bcf7b8bd278df459a0f6a29fcd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22518,
+   "sha256": "415f435e9a00bb4f7a7c63e146eec9e76ea448c9fac2dae894932658960b4b92",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1210177,
+   "sha256": "9cb79953777c168c33cef913d6ab8712101cb291a43f296b143825189ba39bee"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520202.jpg"
+ },
+ "sha1_origem": "4bd90b6e259cfd6143be8de4059f98d60bc9dcb7",
+ "bytes_origem": 1210177,
+ "capturado_em": "2026-11-08T04:05:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Igarata_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "4bd90b6e259cfd6143be8de4059f98d60bc9dcb7"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4117800",
+ "uf": "PR",
+ "municipio": "Palmital",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bandeira_de_Palmital%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "58eb97f2044111e210fc573b80fdcd4559fdf6c72976bc32a4c8040b9e6e21c0",
+ "rendicoes": {
+  "png": {
+   "bytes": 51635,
+   "sha256": "e8e6aa87ec20572945ae73e8082843ebef9315f94b45f8a55d50f1223ddb3da4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11543,
+   "sha256": "b7a984fb483529f609bc0cba2d614d9e291230b53617d4d28a435c81be61fff3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4117800.jpg",
+  "bytes": 6102,
+  "sha256": "58eb97f2044111e210fc573b80fdcd4559fdf6c72976bc32a4c8040b9e6e21c0"
+ },
+ "sha1_origem": "f67227b1c61fe4fab6efd74903721c5c081d5e2d",
+ "bytes_origem": 6102,
+ "capturado_em": "2026-11-08T06:47:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Palmital,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "f67227b1c61fe4fab6efd74903721c5c081d5e2d"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5204102",
+ "uf": "GO",
+ "municipio": "Cachoeira Alta",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bandeira_de_Cachoeira_Alta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cachoeira Alta",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "682259845253a7a3f8f614db3b5ea4f1cb6197efaf8771a41e72f1eba7ce69a0",
+ "rendicoes": {
+  "png": {
+   "bytes": 33129,
+   "sha256": "af9b62d78df4d8b95835fefb828172b9262ae1f74b21756c1b53412688a30efc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15217,
+   "sha256": "dab7d2e1fac646f9fbb1c79535f3c5d6cfe88538cceb5fe2ba4715f0e9c3117a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5204102.jpg",
+  "bytes": 17145,
+  "sha256": "682259845253a7a3f8f614db3b5ea4f1cb6197efaf8771a41e72f1eba7ce69a0"
+ },
+ "sha1_origem": "79d109b5b89319032256f1fa594d06d074b7f639",
+ "bytes_origem": 17145,
+ "capturado_em": "2026-11-08T07:17:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cachoeira_Alta.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "79d109b5b89319032256f1fa594d06d074b7f639"
+ }
+}

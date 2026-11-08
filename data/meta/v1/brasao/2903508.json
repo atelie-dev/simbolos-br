@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2903508",
+ "uf": "BA",
+ "municipio": "Belo Campo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bras%C3%A3o_do_Munic%C3%ADpio_de_Belo_Campo_-_BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Roberto Lettiere",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6b623de63a60b84cb65155febea304450ee808fd0adcb0c5571f32a0182483f3",
+ "rendicoes": {
+  "png": {
+   "bytes": 311194,
+   "sha256": "5e8e5fda04bfda25ce0006835c000288d2ba42a7844d30ca0adb9f626f718176",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55056,
+   "sha256": "08787202f0670a29b77a771ea9dd579e69409014b6ba3fcd22deafe1ff312edd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2903508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2903508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2903508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2903508.jpg",
+  "bytes": 141646,
+  "sha256": "6b623de63a60b84cb65155febea304450ee808fd0adcb0c5571f32a0182483f3"
+ },
+ "sha1_origem": "8970a58a4b159106d217e37a0119ce8033501e61",
+ "bytes_origem": 141646,
+ "capturado_em": "2026-11-08T05:51:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_Município_de_Belo_Campo_-_BA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:15Z",
+  "estado": "igual",
+  "sha1_commons": "8970a58a4b159106d217e37a0119ce8033501e61"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2502904",
+ "uf": "PB",
+ "municipio": "Brejo dos Santos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bandeira_Brejo_dos_Santos_%28PB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Brejo dos Santos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a769bd11ffe655bcb4c8f783107350f8057f82ed967027c8077c18da19193647",
+ "rendicoes": {
+  "png": {
+   "bytes": 28530,
+   "sha256": "c40d6fc915a3126438520cbcef06f855cf330115f2fa8ddd74622b0b1dc28431",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5950,
+   "sha256": "e7a89e6e20b6f7bd498391546a8f8bbab3d5efb6b16924821c03385b72a012f2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2502904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2502904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2502904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2502904.jpg",
+  "bytes": 5987,
+  "sha256": "a769bd11ffe655bcb4c8f783107350f8057f82ed967027c8077c18da19193647"
+ },
+ "sha1_origem": "9737fdf9e7baf833a26849a459d22d5ba283f1c3",
+ "bytes_origem": 5987,
+ "capturado_em": "2026-11-08T05:40:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Brejo_dos_Santos_(PB).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "9737fdf9e7baf833a26849a459d22d5ba283f1c3"
+ }
+}

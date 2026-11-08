@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5200050",
+ "uf": "GO",
+ "municipio": "Abadia de Goiás",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bandeira_de_Abadia_de_Goi%C3%A1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Abadia de Goiás",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "354cbe4b13afbef98f1d537e7f81f1771c0e5fd953c34d7c29f752813830ec88",
+ "rendicoes": {
+  "png": {
+   "bytes": 24913,
+   "sha256": "2a93d34eb3985919cfafda65d9cb5847a3f1f2ed305cfe40211aeee6c279033f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7957,
+   "sha256": "dc4e7bc0b251c142c43886530ab7a0fbd64e5143dc02284ae6dfafe77c2e747a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200050.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200050.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200050.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5200050.jpg",
+  "bytes": 6259,
+  "sha256": "354cbe4b13afbef98f1d537e7f81f1771c0e5fd953c34d7c29f752813830ec88"
+ },
+ "sha1_origem": "31ee2525f7beaa982e92a1d3e42c6d462886462e",
+ "bytes_origem": 6259,
+ "capturado_em": "2026-11-08T07:16:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Abadia_de_Goiás.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "31ee2525f7beaa982e92a1d3e42c6d462886462e"
+ }
+}

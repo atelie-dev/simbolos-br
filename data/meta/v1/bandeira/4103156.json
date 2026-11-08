@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4103156",
+ "uf": "PR",
+ "municipio": "Bom Jesus do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bandeira_de_Bom_Jesus_do_Sul%2C_PR.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "RUBIA",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d6049ab3581b368bd9985d3d74680972c033fb4c5526487a0518a3b2e6f35996",
+ "rendicoes": {
+  "png": {
+   "bytes": 37494,
+   "sha256": "d6c7c55463a640d60490b9e52517fb947a63b06bf135b3cd0edef8ae57ac2466",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11646,
+   "sha256": "44fbc025d5ceea2fa651288aec99017b429aaafde8bfdf20d6801533f6adc942",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103156.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103156.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103156.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4103156.png",
+  "bytes": 35114,
+  "sha256": "d6049ab3581b368bd9985d3d74680972c033fb4c5526487a0518a3b2e6f35996"
+ },
+ "sha1_origem": "b5034b8a12d7b52d67e03e18113934eccaa73ada",
+ "bytes_origem": 35114,
+ "capturado_em": "2026-11-08T06:41:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bom_Jesus_do_Sul,_PR.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "b5034b8a12d7b52d67e03e18113934eccaa73ada"
+ }
+}

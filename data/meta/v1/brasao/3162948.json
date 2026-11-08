@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3162948",
+ "uf": "MG",
+ "municipio": "São José da Barra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Brasaosjosebarra.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São José da Barra",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9744a7da002e290b064e8d6740b544a6c9a2744888eaca893a1e2f46f94b52ba",
+ "rendicoes": {
+  "png": {
+   "bytes": 41886,
+   "sha256": "f2209a9f223d57ce81118a4825b02bf658971d63fc6a84ba7d6f6ebbb94fa64b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10355,
+   "sha256": "aba33e54c89057aa645b1a96a87c74b49b3d04d489052bef85b39579d51835a5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3162948.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3162948.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3162948.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3162948.png",
+  "bytes": 43899,
+  "sha256": "9744a7da002e290b064e8d6740b544a6c9a2744888eaca893a1e2f46f94b52ba"
+ },
+ "sha1_origem": "1f7ad99234f22962ba14784e204154efcdbc4bc3",
+ "bytes_origem": 43899,
+ "capturado_em": "2026-11-08T06:16:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaosjosebarra.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "1f7ad99234f22962ba14784e204154efcdbc4bc3"
+ }
+}

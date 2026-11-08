@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2924652",
+ "uf": "BA",
+ "municipio": "Pintadas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bras%C3%A3o_pintadas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b56530e3be178165cc1e7505edd44518989a77d441791909145064172d2b40b5",
+ "rendicoes": {
+  "png": {
+   "bytes": 6298,
+   "sha256": "58e70e3c64818f915527eb26befe75327cd2758387cfc1d64db181f05fb05049",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5115,
+   "sha256": "ba046e14845640f84553acbda5ff6ff6f27965ff161c4d3f74998174bb9eee07",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2924652.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2924652.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2924652.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2924652.png",
+  "bytes": 1899,
+  "sha256": "b56530e3be178165cc1e7505edd44518989a77d441791909145064172d2b40b5"
+ },
+ "sha1_origem": "fb416357189d298db0842e7093f12e07cf65887a",
+ "bytes_origem": 1899,
+ "capturado_em": "2026-11-08T05:56:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_pintadas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "fb416357189d298db0842e7093f12e07cf65887a"
+ }
+}

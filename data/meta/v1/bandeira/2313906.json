@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2313906",
+ "uf": "CE",
+ "municipio": "Uruoca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bandeira_de_uruoca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Uruoca",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "18abe1993731117f35d99f4a50e98b8a5e1874e74123b56b3abcab1ded1b3e33",
+ "rendicoes": {
+  "png": {
+   "bytes": 105959,
+   "sha256": "30ca17f05cfe9a82bed4f5af1dda4643676ead2c3d514abb4080267dbd01a588",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23755,
+   "sha256": "50656f05cfb3982bb85efc157612b8b3818298032e3ded0a64cd910f5401b0e0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2313906.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2313906.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2313906.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2313906.jpg",
+  "bytes": 95322,
+  "sha256": "18abe1993731117f35d99f4a50e98b8a5e1874e74123b56b3abcab1ded1b3e33"
+ },
+ "sha1_origem": "1a98488611489f632857ae3d048763751c99a547",
+ "bytes_origem": 95322,
+ "capturado_em": "2026-11-08T05:35:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_uruoca.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "1a98488611489f632857ae3d048763751c99a547"
+ }
+}

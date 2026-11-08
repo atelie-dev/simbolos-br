@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3111804",
+ "uf": "MG",
+ "municipio": "Canápolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Can%C3%A1polismgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Canápolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "561f6055540b0a7c77cea94ed26f3b98fae3c4557437fefd34ed1f667b88a30d",
+ "rendicoes": {
+  "png": {
+   "bytes": 228688,
+   "sha256": "4854f2d0a09d196f5e8b45faad264513c2ee08e0e5db455f1b84ea57513d9eac",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44497,
+   "sha256": "b18ba8c5dec54169df844c94bbf2bd537603d93e33d98467078d985b796b0d02",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111804.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3111804.jpg",
+  "bytes": 36829,
+  "sha256": "561f6055540b0a7c77cea94ed26f3b98fae3c4557437fefd34ed1f667b88a30d"
+ },
+ "sha1_origem": "aee9fcc32eba1e40f34d899ed959a2cee8346237",
+ "bytes_origem": 36829,
+ "capturado_em": "2026-11-08T06:02:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Canápolismgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "aee9fcc32eba1e40f34d899ed959a2cee8346237"
+ }
+}

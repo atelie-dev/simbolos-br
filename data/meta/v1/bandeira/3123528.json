@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3123528",
+ "uf": "MG",
+ "municipio": "Durandé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Durand%C3%A9_MG.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HVL",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "17a676d07d72b8bb75b51dcb565481a3a1112f9ab6da7feb7206d1c647e11adf",
+ "rendicoes": {
+  "png": {
+   "bytes": 36282,
+   "sha256": "260785042993d3cb527a29385877fe3c2f17280a0a02fe67c0707e5532515000",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12075,
+   "sha256": "45e379245bcda15df82715d787547f6407818092c6bbc735f9ce92793db4d052",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123528.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123528.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123528.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3123528.png",
+  "bytes": 39443,
+  "sha256": "17a676d07d72b8bb75b51dcb565481a3a1112f9ab6da7feb7206d1c647e11adf"
+ },
+ "sha1_origem": "eea252895cd0f3fb86d54f5124a1a7cdd2381941",
+ "bytes_origem": 39443,
+ "capturado_em": "2026-11-08T06:06:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Durandé_MG.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "eea252895cd0f3fb86d54f5124a1a7cdd2381941"
+ }
+}

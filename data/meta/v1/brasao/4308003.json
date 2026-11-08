@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4308003",
+ "uf": "RS",
+ "municipio": "Faxinal do Soturno",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bras%C3%A3o_Faxinal_do_Soturno.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Faxinal do Soturno",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "75bbcd34e47bbe0400006fb5d82eafeaa652d541eedcb8f83b2bb1fec0b8925e",
+ "rendicoes": {
+  "png": {
+   "bytes": 255560,
+   "sha256": "057985b8561a1feb960e9fe17d3778a906406caa1b04328ac7a60af2e54c9e1e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47048,
+   "sha256": "9cf3d9df72febe90b504b098c9fcec0e6de7e3eb3397a0f97f291f476175959f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4308003.jpg",
+  "bytes": 48591,
+  "sha256": "75bbcd34e47bbe0400006fb5d82eafeaa652d541eedcb8f83b2bb1fec0b8925e"
+ },
+ "sha1_origem": "3b383ef3f23bcb25ffcdf8736c5ec5c1ab99ad26",
+ "bytes_origem": 48591,
+ "capturado_em": "2026-11-08T07:03:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Faxinal_do_Soturno.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "3b383ef3f23bcb25ffcdf8736c5ec5c1ab99ad26"
+ }
+}

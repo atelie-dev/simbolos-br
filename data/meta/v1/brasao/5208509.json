@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5208509",
+ "uf": "GO",
+ "municipio": "Goiandira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Brasao_Goiandira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Goiandira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "41ced9399c310f43d7bb598e22d62551b965ee8bf16d73205ae4ebc977c953d4",
+ "rendicoes": {
+  "png": {
+   "bytes": 103378,
+   "sha256": "990531c9892a8129df0685306f6936825017b762d13568870c98abcaedeeed87",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27273,
+   "sha256": "e14f29847a11aad8ecb92b99d760af8b1bb3c8b8a9a01d93860e456601acf96a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5208509.jpg",
+  "bytes": 113670,
+  "sha256": "41ced9399c310f43d7bb598e22d62551b965ee8bf16d73205ae4ebc977c953d4"
+ },
+ "sha1_origem": "7df7ca35391a76bd8f6709352ba2018767b434ff",
+ "bytes_origem": 113670,
+ "capturado_em": "2026-11-08T07:18:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Goiandira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:32Z",
+  "estado": "igual",
+  "sha1_commons": "7df7ca35391a76bd8f6709352ba2018767b434ff"
+ }
+}

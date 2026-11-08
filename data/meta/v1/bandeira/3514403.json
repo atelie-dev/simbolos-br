@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3514403",
+ "uf": "SP",
+ "municipio": "Dracena",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bandeira_Dracena_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a62160cb96c00b89bdfcf253ac031784b80c58a32d4da6de1d3aaf2bbd546d68",
+ "rendicoes": {
+  "png": {
+   "bytes": 11179,
+   "sha256": "780588c0efdc5e966ee587d39fd81ea35598cc7f7d9b59fca6f1fc1fbc96e2e4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10875,
+   "sha256": "143983a5c0c83f4edf984b907aeb673cfa5a63665a3eaca11c58ee799130072d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 3316,
+   "sha256": "a62160cb96c00b89bdfcf253ac031784b80c58a32d4da6de1d3aaf2bbd546d68"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514403.jpg"
+ },
+ "sha1_origem": "f60f4db7d1db5745c98afa74a6fc5288d6bfe266",
+ "bytes_origem": 3316,
+ "capturado_em": "2026-11-08T04:02:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Dracena_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "f60f4db7d1db5745c98afa74a6fc5288d6bfe266"
+ }
+}

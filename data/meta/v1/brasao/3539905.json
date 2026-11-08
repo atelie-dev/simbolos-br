@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3539905",
+ "uf": "SP",
+ "municipio": "Poloni",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/BrasaoPoloni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7a15289066735803fbbcc771f70a7b9528cf6d21b79a4d4649c0cb92494b44f6",
+ "rendicoes": {
+  "png": {
+   "bytes": 315670,
+   "sha256": "ae570fcf297a6af444a06264746e71e2604c1eedf51fae9edddd0af3de60a2f0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 66428,
+   "sha256": "1dc4fc8a28babdd7ce3aeb8582c335c28943decc2785e80a5257ef17524455c9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3539905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3539905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3539905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3539905.jpg",
+  "bytes": 77504,
+  "sha256": "7a15289066735803fbbcc771f70a7b9528cf6d21b79a4d4649c0cb92494b44f6"
+ },
+ "sha1_origem": "f0de3a8e00543e75ce9088461a6846b4cf290fbc",
+ "bytes_origem": 77504,
+ "capturado_em": "2026-11-08T06:35:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoPoloni.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "f0de3a8e00543e75ce9088461a6846b4cf290fbc"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2513968",
+ "uf": "PB",
+ "municipio": "São Domingos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bras%C3%A3o_de_S%C3%A3o_Domingos-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de São Domingos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2b25f64b5e02882e501b52b405f327a2a2b2db9275fa0c63bca9958c7e1d7e70",
+ "rendicoes": {
+  "png": {
+   "bytes": 190468,
+   "sha256": "f16ddbf54eea7a679c979a806c0429936a76d413f6be6be6de6f856ac027640a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33598,
+   "sha256": "d8d97e5c5e28d4b7bee875b6db4c51ea6fb3e129e20f44edf75b8938d764e04c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2513968.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2513968.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2513968.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2513968.jpg",
+  "bytes": 35543,
+  "sha256": "2b25f64b5e02882e501b52b405f327a2a2b2db9275fa0c63bca9958c7e1d7e70"
+ },
+ "sha1_origem": "3d7b3f07db64833fe05057cadb70b39beaefe78b",
+ "bytes_origem": 35543,
+ "capturado_em": "2026-11-08T05:43:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_Domingos-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:12Z",
+  "estado": "igual",
+  "sha1_commons": "3d7b3f07db64833fe05057cadb70b39beaefe78b"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4209102",
+ "uf": "SC",
+ "municipio": "Joinville",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bras%C3%A3o_de_Joinville.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Joinville",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "83341148c9f9e37830d649ce63fea9b42a3df4df0db663e82acad046bc9c4d48",
+ "rendicoes": {
+  "png": {
+   "bytes": 220856,
+   "sha256": "83ff0be782e6ea484bbc088931a69802ea1fdfe6e5ab301777f91285c0982277",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61898,
+   "sha256": "f8da628266fa0c02ba7e5334efb5a0b4b6e9f00333c38befb501a9cd56d5276b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 454373,
+   "sha256": "83341148c9f9e37830d649ce63fea9b42a3df4df0db663e82acad046bc9c4d48"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4209102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4209102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4209102.jpg"
+ },
+ "sha1_origem": "e64513e69f912d6e7b6e8799279ce05001d3ca99",
+ "bytes_origem": 454373,
+ "capturado_em": "2026-11-08T04:40:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Joinville.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:05Z",
+  "estado": "igual",
+  "sha1_commons": "e64513e69f912d6e7b6e8799279ce05001d3ca99"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4208807",
+ "uf": "SC",
+ "municipio": "Jaguaruna",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Brasao_jaguaruna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Jaguaruna",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d68b4f6dfcb4c3a1a35adab4dc6ebd3909af2f36a3e340b4ffe8f8649d6c3ad1",
+ "rendicoes": {
+  "png": {
+   "bytes": 93460,
+   "sha256": "33722add7bbe1f3bab6b10e850a05c35764831725203598202b51dd5d0306d42",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21025,
+   "sha256": "3d7d6c9e6220406d68068b4882d6e3fcfa530be1d5b65bfb97fafb80ab2f10c4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208807.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4208807.jpg",
+  "bytes": 15170,
+  "sha256": "d68b4f6dfcb4c3a1a35adab4dc6ebd3909af2f36a3e340b4ffe8f8649d6c3ad1"
+ },
+ "sha1_origem": "d68868315cdc4c9d018378216b7a3b9017679045",
+ "bytes_origem": 15170,
+ "capturado_em": "2026-11-08T06:54:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_jaguaruna.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "d68868315cdc4c9d018378216b7a3b9017679045"
+ }
+}

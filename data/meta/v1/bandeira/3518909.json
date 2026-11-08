@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3518909",
+ "uf": "SP",
+ "municipio": "Guzolândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bandeira_de_Guzol%C3%A2ndia%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Guzolândia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d4c22d524f75a8e292ba8d1a268a04165e562b8931d79d2313adbd16c814352d",
+ "rendicoes": {
+  "png": {
+   "bytes": 76845,
+   "sha256": "bc41142072742eecb6f9029aec6237808afbce321444c7b2f405618e92215c57",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21750,
+   "sha256": "6b0830595e06d2446a9b4a39bb56b4704d05a91dbac024316ae90656ec4b9bd6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3518909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3518909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3518909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3518909.jpg",
+  "bytes": 49837,
+  "sha256": "d4c22d524f75a8e292ba8d1a268a04165e562b8931d79d2313adbd16c814352d"
+ },
+ "sha1_origem": "4b645eb227db0673f3a20e5725580583edb5fe46",
+ "bytes_origem": 49837,
+ "capturado_em": "2026-11-08T06:28:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Guzolândia,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "4b645eb227db0673f3a20e5725580583edb5fe46"
+ }
+}

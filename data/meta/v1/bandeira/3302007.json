@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3302007",
+ "uf": "RJ",
+ "municipio": "Itaguaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bandeira_de_Itagua%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "eb7b723150ab1ea1252eeda0132d56a6d6410c0e63f2096f8b78258730720d36",
+ "rendicoes": {
+  "png": {
+   "bytes": 59391,
+   "sha256": "4c5f210b68d8360cd8a39d1061b912b53bf406d519c4efeacc97251b14a55f5c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20938,
+   "sha256": "20a82831a8d4cc253a1a9d73f4a3ac19580e6b60607841488595df1d091fb9d7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3302007.jpg",
+  "bytes": 60162,
+  "sha256": "eb7b723150ab1ea1252eeda0132d56a6d6410c0e63f2096f8b78258730720d36"
+ },
+ "sha1_origem": "cca7dbd26ed68bb4d1be6a26da5ac34d3da3155f",
+ "bytes_origem": 60162,
+ "capturado_em": "2026-11-08T06:21:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itaguaí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "cca7dbd26ed68bb4d1be6a26da5ac34d3da3155f"
+ }
+}

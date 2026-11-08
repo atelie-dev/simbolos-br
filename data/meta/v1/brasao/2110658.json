@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2110658",
+ "uf": "MA",
+ "municipio": "São Domingos do Azeitão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/SDAbrasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9c89b9f50704ed76aefee083c0cabf236035585b04be5cbcd51b2c917c9f6e0b",
+ "rendicoes": {
+  "png": {
+   "bytes": 28994,
+   "sha256": "275b7fc3a61e3c1104d22a3e1d22f32ef0b68d0cf85cf1079e7ecd48276f5b9e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35407,
+   "sha256": "f83f90c36eca21fcdd47ce1583510b28ab092779d39fb8124b33987e651f8813",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2110658.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2110658.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2110658.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2110658.png",
+  "bytes": 34594,
+  "sha256": "9c89b9f50704ed76aefee083c0cabf236035585b04be5cbcd51b2c917c9f6e0b"
+ },
+ "sha1_origem": "c0ae037740989aca581ca79fc00d5d6ccd2265e0",
+ "bytes_origem": 34594,
+ "capturado_em": "2026-11-08T05:29:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:SDAbrasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:36Z",
+  "estado": "igual",
+  "sha1_commons": "c0ae037740989aca581ca79fc00d5d6ccd2265e0"
+ }
+}

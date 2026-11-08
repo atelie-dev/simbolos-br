@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3518305",
+ "uf": "SP",
+ "municipio": "Guararema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bandeira_do_Municipio_de_Guararema-SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Guararema",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b80c6092d3ce5b709a2c33525954de05e9b2f45c585d633dc780094d5e19516a",
+ "rendicoes": {
+  "png": {
+   "bytes": 89770,
+   "sha256": "576abcacc5d882a3f653b069eb8f6828f3754cd4f542c5be91edf6edc3a9269b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21508,
+   "sha256": "cbef4bfea06242fbd871b7644c13447c88901966a75fe5eba119e22858c74847",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3518305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3518305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3518305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3518305.png",
+  "bytes": 697243,
+  "sha256": "b80c6092d3ce5b709a2c33525954de05e9b2f45c585d633dc780094d5e19516a"
+ },
+ "sha1_origem": "d80402b13e3e4e5fd6d04886b25bedfe3725ded3",
+ "bytes_origem": 697243,
+ "capturado_em": "2026-11-08T06:28:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_Municipio_de_Guararema-SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "d80402b13e3e4e5fd6d04886b25bedfe3725ded3"
+ }
+}

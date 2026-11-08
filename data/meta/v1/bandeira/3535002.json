@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3535002",
+ "uf": "SP",
+ "municipio": "Palestina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bandeira_de_Palestina%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Palestina",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0f944ce75bd8326ccc6e9a81621e83ee5cdf24ba6f91a79babcd625b2e9c0f76",
+ "rendicoes": {
+  "png": {
+   "bytes": 61173,
+   "sha256": "2a81f5620a5b98c7eef06bb1b58428b1d797b1e1b226ea61bb8995683e35d3a0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19892,
+   "sha256": "fcd98de81016930d7bdb10e4889e6ed3bf295396a5973d4448a088873f19deeb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3535002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3535002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3535002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3535002.jpg",
+  "bytes": 488051,
+  "sha256": "0f944ce75bd8326ccc6e9a81621e83ee5cdf24ba6f91a79babcd625b2e9c0f76"
+ },
+ "sha1_origem": "b9301bc25970a42c0be0d4b07e46e0f9c90e8dfd",
+ "bytes_origem": 488051,
+ "capturado_em": "2026-11-08T06:33:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Palestina,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "b9301bc25970a42c0be0d4b07e46e0f9c90e8dfd"
+ }
+}

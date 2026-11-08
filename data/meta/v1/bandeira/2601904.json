@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2601904",
+ "uf": "PE",
+ "municipio": "Bezerros",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bandeira_de_Bezerros.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ddaa63a89d39c0e97e991688ada9ac63bded9c6e948f133c64667f5a1c56aa5b",
+ "rendicoes": {
+  "png": {
+   "bytes": 62184,
+   "sha256": "7306fad63416f9f2b0b3feb4e0a4ffb845be76a635ed975bd35b029f9ae1e4d6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23031,
+   "sha256": "95b96833775aa9b8d2362f5cf29ddc6c6970dcbd0fc184ade1a21b1780e51f19",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 89432,
+   "sha256": "ddaa63a89d39c0e97e991688ada9ac63bded9c6e948f133c64667f5a1c56aa5b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601904.jpg"
+ },
+ "sha1_origem": "db9127dfe78d9f7ef978d5a524d8aef661de8c7d",
+ "bytes_origem": 89432,
+ "capturado_em": "2026-11-08T03:04:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bezerros.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "db9127dfe78d9f7ef978d5a524d8aef661de8c7d"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2611606",
+ "uf": "PE",
+ "municipio": "Recife",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bandeira_de_Recife.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7a47dece6c639030b8c48ca3af2607d087e6d354fe81b634b243f972c905b187",
+ "rendicoes": {
+  "png": {
+   "bytes": 46423,
+   "sha256": "2cf5ad9cb2f1a8ae0cf54fd5588ddcb38574005c1d878cec4e2c40ac4997af59",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22624,
+   "sha256": "2031e45103f0cbdadbd43554bfef6d70d91ef15d8f370a413f303e3e9e52d039",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 233060,
+   "sha256": "7a47dece6c639030b8c48ca3af2607d087e6d354fe81b634b243f972c905b187"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2611606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2611606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2611606.jpg"
+ },
+ "sha1_origem": "daab687492c56ddab236465dd14c808930ec12c4",
+ "bytes_origem": 233060,
+ "capturado_em": "2026-11-08T03:07:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Recife.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "daab687492c56ddab236465dd14c808930ec12c4"
+ }
+}

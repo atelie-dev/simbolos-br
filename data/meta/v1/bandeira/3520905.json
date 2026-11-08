@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3520905",
+ "uf": "SP",
+ "municipio": "Ipaussu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bandeira_Ipaussu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5abd5bb9d6b9958a6718d297fb606ba2aa1616382b6ed16ac3998a5ac8458d4c",
+ "rendicoes": {
+  "png": {
+   "bytes": 24922,
+   "sha256": "e652e49a2ec364c14432120ff98aaeb17b2df1c3bf69cc1c4076ead112c4ef65",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11414,
+   "sha256": "2513960a8c74f0f0894fe9e74aff6ea86f4f3853f8bd2438b04e61d5146dcd86",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3520905.png",
+  "bytes": 23721,
+  "sha256": "5abd5bb9d6b9958a6718d297fb606ba2aa1616382b6ed16ac3998a5ac8458d4c"
+ },
+ "sha1_origem": "d90caabcaa800c4026c12b8930018d03b35120c5",
+ "bytes_origem": 23721,
+ "capturado_em": "2026-11-08T06:29:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Ipaussu.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "d90caabcaa800c4026c12b8930018d03b35120c5"
+ }
+}

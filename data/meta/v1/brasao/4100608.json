@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4100608",
+ "uf": "PR",
+ "municipio": "Alto Paraná",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Brasao_alto_paran%C3%A1.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Valcir Guandalini Gomes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "abb6683f02eab002a295d9aba5345da45e78453ad5f47a08f32736a95c4ff211",
+ "rendicoes": {
+  "png": {
+   "bytes": 196597,
+   "sha256": "4ce09b1ec24222dc25c4632fd4c2f09ccab7314ddbdb9eb672f1430726a78969",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 51615,
+   "sha256": "40011b5a1dc14c7fc7da676a705c05c94156aa8a12345d43d9ffa90db954a6bb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4100608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4100608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4100608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4100608.jpg",
+  "bytes": 79014,
+  "sha256": "abb6683f02eab002a295d9aba5345da45e78453ad5f47a08f32736a95c4ff211"
+ },
+ "sha1_origem": "976df45b976cdbc3aaf9d9fe73d24321de43831f",
+ "bytes_origem": 79014,
+ "capturado_em": "2026-11-08T06:41:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_alto_paraná.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "976df45b976cdbc3aaf9d9fe73d24321de43831f"
+ }
+}

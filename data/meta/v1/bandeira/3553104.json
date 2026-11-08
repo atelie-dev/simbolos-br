@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3553104",
+ "uf": "SP",
+ "municipio": "Taiaçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bandeira_Taia%C3%A7u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f73b0878431afa38ce634c95235c6f474174881167a3bdf6bf65cb314b8d6a14",
+ "rendicoes": {
+  "png": {
+   "bytes": 144890,
+   "sha256": "abc76eca6131b416947935f4ea46f469f6087962336cf55f6fe51596757aa5cc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29882,
+   "sha256": "3b82957c99f9f47ad421f713b4dfb342e9a99ae880ec797789329d2ff0a90954",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3553104.jpg",
+  "bytes": 27793,
+  "sha256": "f73b0878431afa38ce634c95235c6f474174881167a3bdf6bf65cb314b8d6a14"
+ },
+ "sha1_origem": "ac5a92c70242dfe4f23c5e6781f36bd905bd27d5",
+ "bytes_origem": 27793,
+ "capturado_em": "2026-11-08T06:39:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Taiaçu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "ac5a92c70242dfe4f23c5e6781f36bd905bd27d5"
+ }
+}

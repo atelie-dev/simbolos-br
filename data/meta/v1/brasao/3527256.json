@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3527256",
+ "uf": "SP",
+ "municipio": "Lourdes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bras%C3%A3o_Lourdes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a4a5e2902c0b533ab77ea25539aa8ae74a83d1c8c51a8166ec8d94437a902bc1",
+ "rendicoes": {
+  "png": {
+   "bytes": 357193,
+   "sha256": "5800460c2ff10d431aa851424870355eaa82dd5b0e453824066bcd73d4e0aa61",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 68980,
+   "sha256": "8fab78e3498bcde02fe7bf42b19c79a77d23f51dac836bf04fd137a5e4882879",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3527256.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3527256.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3527256.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3527256.jpg",
+  "bytes": 58495,
+  "sha256": "a4a5e2902c0b533ab77ea25539aa8ae74a83d1c8c51a8166ec8d94437a902bc1"
+ },
+ "sha1_origem": "19e217bbed4bdf52b1200b79d9d48cc31746bdac",
+ "bytes_origem": 58495,
+ "capturado_em": "2026-11-08T06:31:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Lourdes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "19e217bbed4bdf52b1200b79d9d48cc31746bdac"
+ }
+}

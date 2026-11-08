@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3120904",
+ "uf": "MG",
+ "municipio": "Curvelo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/CurveloMG-Brasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Curvelo nato",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cff3fd424b1a24fb3156b83e54620d3af31d181e5db43a5ceaf3e19af21368af",
+ "rendicoes": {
+  "png": {
+   "bytes": 139320,
+   "sha256": "c499d438e06452589de368a7faf3722c747b208130bad77fa1364a815668cf54",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27608,
+   "sha256": "2da45263459f6495d780fc73e200d5fbda2efb3322525dcd2a4e7c26b7f0e33e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3120904.jpg",
+  "bytes": 28432,
+  "sha256": "cff3fd424b1a24fb3156b83e54620d3af31d181e5db43a5ceaf3e19af21368af"
+ },
+ "sha1_origem": "acdaaf94b4bcb650df6ca1f8df94600623b434be",
+ "bytes_origem": 28432,
+ "capturado_em": "2026-11-08T06:05:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:CurveloMG-Brasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "acdaaf94b4bcb650df6ca1f8df94600623b434be"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4214201",
+ "uf": "SC",
+ "municipio": "Quilombo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Brasao-quilombo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Quilombo City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6c902aa290f2ee015d88627d3cac1eaf4f7a7fa2f4f33d5af89309f84833be31",
+ "rendicoes": {
+  "png": {
+   "bytes": 43766,
+   "sha256": "ca3111bb671dd0ca3c5c410e8e4608ecc26c95dac98ccb5aff59788e12a620f2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10133,
+   "sha256": "fcf74d09fddcd24b4c3c855b3a052a79ef795e1d7b0923f37d49dd75563908f4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4214201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4214201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4214201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4214201.jpg",
+  "bytes": 6629,
+  "sha256": "6c902aa290f2ee015d88627d3cac1eaf4f7a7fa2f4f33d5af89309f84833be31"
+ },
+ "sha1_origem": "a765c2e42b5f3ac6fdf628842f2d3a3c5cf1bbc5",
+ "bytes_origem": 6629,
+ "capturado_em": "2026-11-08T06:56:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-quilombo.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "a765c2e42b5f3ac6fdf628842f2d3a3c5cf1bbc5"
+ }
+}

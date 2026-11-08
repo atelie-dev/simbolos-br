@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4212908",
+ "uf": "SC",
+ "municipio": "Pinhalzinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bandeira-pinhalzinho.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pinhalzinho City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "92a27857d60ebe08a4140e0af283db4e159741bc8635e270afa72adc6ec6388f",
+ "rendicoes": {
+  "png": {
+   "bytes": 8191,
+   "sha256": "730babe0059cbbd6fb4b914559c0048dab413e990617a1305781ca115403e235",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19496,
+   "sha256": "f7a70baa0bbaf3b47b6b3d30e0c8957f4721f51c20e4a6baf9c5a6d216b6b46d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4212908.png",
+  "bytes": 5078,
+  "sha256": "92a27857d60ebe08a4140e0af283db4e159741bc8635e270afa72adc6ec6388f"
+ },
+ "sha1_origem": "353db07f5c8aafaf431560fd40b7913751024744",
+ "bytes_origem": 5078,
+ "capturado_em": "2026-11-08T06:55:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-pinhalzinho.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "353db07f5c8aafaf431560fd40b7913751024744"
+ }
+}

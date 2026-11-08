@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4204004",
+ "uf": "SC",
+ "municipio": "Catanduvas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_do_munic%C3%ADpio_de_Catanduvas_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Catanduvas (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3d5915bad69e2193560092fa4e2c774910f3d335c9d3045e74f8a08fd4033cae",
+ "rendicoes": {
+  "png": {
+   "bytes": 43738,
+   "sha256": "dc2542e1954e7af099ed690574afe3fc2826f211d115d6c65ed362e4ad79cbeb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14398,
+   "sha256": "428fd063f6102fb0b2e9fe642c53b27bdccfe61e8c1236ae1a10b4022336e1d1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 396229,
+   "sha256": "3d5915bad69e2193560092fa4e2c774910f3d335c9d3045e74f8a08fd4033cae"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204004.jpg"
+ },
+ "sha1_origem": "eb76d148596f76c20f363a682a686cc8561584af",
+ "bytes_origem": 396229,
+ "capturado_em": "2026-11-08T04:37:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Catanduvas_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "eb76d148596f76c20f363a682a686cc8561584af"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2310258",
+ "uf": "CE",
+ "municipio": "Paraipaba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Paraipaba_Bras%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Pedro HG",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "da361cbbf217e277d2a03b003cb75e28ae7501274c43b833250612e160fa568c",
+ "rendicoes": {
+  "png": {
+   "bytes": 76452,
+   "sha256": "f94d242bf304df8f2f808db73efa056e33e406d42fa6a91ff929ef0c4325948e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18156,
+   "sha256": "7e65d4cd0ff725790cd9971592cde95d50a54b127b0194518d106e3bd531ac5d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2310258.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2310258.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2310258.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2310258.jpg",
+  "bytes": 10812,
+  "sha256": "da361cbbf217e277d2a03b003cb75e28ae7501274c43b833250612e160fa568c"
+ },
+ "sha1_origem": "82085ce8bbcff7c2cf5140baff6bf5f3e7c834a7",
+ "bytes_origem": 10812,
+ "capturado_em": "2026-11-08T05:34:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Paraipaba_Brasão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "82085ce8bbcff7c2cf5140baff6bf5f3e7c834a7"
+ }
+}

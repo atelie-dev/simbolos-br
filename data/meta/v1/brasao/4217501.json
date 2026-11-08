@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4217501",
+ "uf": "SC",
+ "municipio": "Seara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bras%C3%A3o_do_munic%C3%ADpio_de_Seara_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Seara (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c6cc6756061b7cae00f78e43b753f99d14116fe656ebda378d7de57cddbd9eac",
+ "rendicoes": {
+  "png": {
+   "bytes": 280822,
+   "sha256": "3fea8f5a146646dc90be98053b7dfb355be16d1b940aa6af863fd2c9d169d9f3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 65264,
+   "sha256": "69cc8b73501e7f14c9999e6f476406266bc49aba0d660fa988371cae7b40958a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4217501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4217501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4217501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4217501.png",
+  "bytes": 3090581,
+  "sha256": "c6cc6756061b7cae00f78e43b753f99d14116fe656ebda378d7de57cddbd9eac"
+ },
+ "sha1_origem": "bd023745364595001d6358772d50422c98360e93",
+ "bytes_origem": 3090581,
+ "capturado_em": "2026-11-08T06:57:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Seara_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:18Z",
+  "estado": "igual",
+  "sha1_commons": "bd023745364595001d6358772d50422c98360e93"
+ }
+}

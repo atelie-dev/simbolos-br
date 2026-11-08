@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2506103",
+ "uf": "PB",
+ "municipio": "Fagundes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bras%C3%A3o_Fagundes-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Fagundes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "47e1cae70e9258e78415a071a3927d6df5144b37c5b06b1651ee7a1e999531f1",
+ "rendicoes": {
+  "png": {
+   "bytes": 343923,
+   "sha256": "40c7bebfcc663f6455c9615b99e89fd14c2affab21681e1e415637bbd845a270",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61441,
+   "sha256": "1cd6e9155f3605e9d3d1f96f8dfab4ab64e294589dd0c8f5c22fa430cf33fa96",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2506103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2506103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2506103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2506103.jpg",
+  "bytes": 56119,
+  "sha256": "47e1cae70e9258e78415a071a3927d6df5144b37c5b06b1651ee7a1e999531f1"
+ },
+ "sha1_origem": "a04dd556869c9577219f5f0e994e20e60d2b244f",
+ "bytes_origem": 56119,
+ "capturado_em": "2026-11-08T05:41:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Fagundes-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "a04dd556869c9577219f5f0e994e20e60d2b244f"
+ }
+}

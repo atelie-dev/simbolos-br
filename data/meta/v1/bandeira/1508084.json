@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1508084",
+ "uf": "PA",
+ "municipio": "Tucumã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bandeira_de_Tucum%C3%A3_%28Par%C3%A1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Hallel",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "039af8ef091249ec15d00ef3dfed29452b473a8f02c39009fcc08a277c31f0ff",
+ "rendicoes": {
+  "png": {
+   "bytes": 29192,
+   "sha256": "e37a4ac882b3da1b234f1c0d5852702af95bb4c7d8e5665d52329cac2fc52c00",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6231,
+   "sha256": "0e8f69ab29b71eee659ae34ca3cd703131abd73762d27630320e99bddefcce22",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1508084.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1508084.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1508084.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1508084.jpg",
+  "bytes": 6083,
+  "sha256": "039af8ef091249ec15d00ef3dfed29452b473a8f02c39009fcc08a277c31f0ff"
+ },
+ "sha1_origem": "6da390f87c3db46b1352e1fb1f5aa2c962b707a2",
+ "bytes_origem": 6083,
+ "capturado_em": "2026-11-08T05:25:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Tucumã_(Pará).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "6da390f87c3db46b1352e1fb1f5aa2c962b707a2"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305801",
+ "uf": "RS",
+ "municipio": "Constantina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Bras%C3%A3o_do_munic%C3%ADpio_de_Constantina.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ismael Silva Oliveira",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d08e30b77bce7a7c79432c3cb21eee1e56d7f3590d699fce09a021c5bf6d642b",
+ "rendicoes": {
+  "png": {
+   "bytes": 27274,
+   "sha256": "373866e7a38eb304c52f8ec28ea52c720aad73785c0ba828e77a78c6e874d75b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10580,
+   "sha256": "c765acb9f30d69df108ab8cad45d15570826389962af10d286274f6f51857192",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4305801.png",
+  "bytes": 10176,
+  "sha256": "d08e30b77bce7a7c79432c3cb21eee1e56d7f3590d699fce09a021c5bf6d642b"
+ },
+ "sha1_origem": "59b2b41b2dafe656048fdd2bb394a12b22388517",
+ "bytes_origem": 10176,
+ "capturado_em": "2026-11-08T07:01:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Constantina.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "59b2b41b2dafe656048fdd2bb394a12b22388517"
+ }
+}

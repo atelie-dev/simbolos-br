@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3548005",
+ "uf": "SP",
+ "municipio": "Santo Antônio de Posse",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bandeira_de_Santo_Ant%C3%B4nio_de_Posse-SP%2C_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Santo Antônio de Posse",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e53358be1d7b24e33646e8d868bfa55ceaf23677ae51911b89dd0d942dab81c8",
+ "rendicoes": {
+  "png": {
+   "bytes": 61319,
+   "sha256": "0f52be2cfc346cf4da7262d567c6e7ba1c7bce804abed0c7192fc38d9f533a69",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22831,
+   "sha256": "b4f506f97d242c4b6c2896037f492e3ea97180628ce8a3cf3cb28cc0aac08bb7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3548005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3548005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3548005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3548005.jpg",
+  "bytes": 345749,
+  "sha256": "e53358be1d7b24e33646e8d868bfa55ceaf23677ae51911b89dd0d942dab81c8"
+ },
+ "sha1_origem": "dbadd072c60f86f8cd22cb0dfebcb095564882df",
+ "bytes_origem": 345749,
+ "capturado_em": "2026-11-08T06:37:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santo_Antônio_de_Posse-SP,_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "dbadd072c60f86f8cd22cb0dfebcb095564882df"
+ }
+}

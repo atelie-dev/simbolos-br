@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3535408",
+ "uf": "SP",
+ "municipio": "Panorama",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Brasaopanorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "RodolfoPironato",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "630ce872f2d42966d604bcef1513b7ec4ffba98a1e57ddea44af053443d8a9bd",
+ "rendicoes": {
+  "png": {
+   "bytes": 139334,
+   "sha256": "fe0773ad86bcb1603c3c6d720e0e8ded71532314ce3a7dbb4c3ff4ecb6620ce8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34575,
+   "sha256": "4b61e93d9f37aa67d9ba4b3ca620f26203f99201fe66cdfe8805d6795e3880af",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3535408.jpg",
+  "bytes": 132886,
+  "sha256": "630ce872f2d42966d604bcef1513b7ec4ffba98a1e57ddea44af053443d8a9bd"
+ },
+ "sha1_origem": "4fb0004c8a3bbbea440cbfe5da62e0d02baf3c30",
+ "bytes_origem": 132886,
+ "capturado_em": "2026-11-08T06:33:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaopanorama.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "4fb0004c8a3bbbea440cbfe5da62e0d02baf3c30"
+ }
+}

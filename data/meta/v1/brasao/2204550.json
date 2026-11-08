@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2204550",
+ "uf": "PI",
+ "municipio": "Guaribas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bras%C3%A3o_de_Guaribas_-_Pi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Erichssen123",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "501a4c090a913759e886ecf4e05a8d427858aca8ef3985bd5115608e53a1853a",
+ "rendicoes": {
+  "png": {
+   "bytes": 80993,
+   "sha256": "73fe0fd93676d6d0156d5a8060bb901bf4d587e08a12a7ff256b798e0a1f434e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16839,
+   "sha256": "1998ad11149cd68b1d895c0928d62f2225e2dbd803163d15c54fcd5197d5f7c1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2204550.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2204550.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2204550.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2204550.jpg",
+  "bytes": 33363,
+  "sha256": "501a4c090a913759e886ecf4e05a8d427858aca8ef3985bd5115608e53a1853a"
+ },
+ "sha1_origem": "e33f5c30bba527bca1842177200413d34e410641",
+ "bytes_origem": 33363,
+ "capturado_em": "2026-11-08T05:30:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Guaribas_-_Pi.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:03Z",
+  "estado": "igual",
+  "sha1_commons": "e33f5c30bba527bca1842177200413d34e410641"
+ }
+}

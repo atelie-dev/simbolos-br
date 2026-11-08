@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5214903",
+ "uf": "GO",
+ "municipio": "Nova Roma",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bandeira_de_Nova_Roma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Nova Roma",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "71e5a175828eaa29861e20fd48b40c3e8be9f5c5bf8bd4b4872eeb1476eade25",
+ "rendicoes": {
+  "png": {
+   "bytes": 49831,
+   "sha256": "703453475745fe1e982f46796c1a270bd9f164f9d5c06b90c7d4f7e9d413a97e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16152,
+   "sha256": "56e6967a0548a7956683d976473a77d6400f1c01e3b8d96f31eb69df7b542b8f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5214903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5214903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5214903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5214903.jpg",
+  "bytes": 23078,
+  "sha256": "71e5a175828eaa29861e20fd48b40c3e8be9f5c5bf8bd4b4872eeb1476eade25"
+ },
+ "sha1_origem": "9bbbfb99a831215e2b48cde1908b34fc30d7b96b",
+ "bytes_origem": 23078,
+ "capturado_em": "2026-11-08T07:19:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nova_Roma.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "9bbbfb99a831215e2b48cde1908b34fc30d7b96b"
+ }
+}

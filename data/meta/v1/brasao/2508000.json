@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2508000",
+ "uf": "PB",
+ "municipio": "Juru",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bras%C3%A3o_Juru-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Juru",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "58d312f1a43dd67d572ec02b57c8acffeaa957ea379bc6965a6df67e3639c041",
+ "rendicoes": {
+  "png": {
+   "bytes": 282819,
+   "sha256": "8e5ce7a5fcb2e27fafaa3ad1840d390302cfa0ae7641e855c72787b6fec183dc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55479,
+   "sha256": "624a738f04496b6e6e4124f035636544558ebfac87b3496c85ff1ba22db9502e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2508000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2508000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2508000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2508000.jpg",
+  "bytes": 46048,
+  "sha256": "58d312f1a43dd67d572ec02b57c8acffeaa957ea379bc6965a6df67e3639c041"
+ },
+ "sha1_origem": "abd149fba637c94e13b30a670e4bc29a9ae583e7",
+ "bytes_origem": 46048,
+ "capturado_em": "2026-11-08T05:41:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Juru-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "abd149fba637c94e13b30a670e4bc29a9ae583e7"
+ }
+}

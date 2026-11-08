@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3301405",
+ "uf": "RJ",
+ "municipio": "Conceição de Macabu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bandeira-concei%C3%A7%C3%A3o_de_macabu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cf1e519c03e92aee2fb62a9f4e3c0b8cca79457f4a4f91b96d40af70e3c276b5",
+ "rendicoes": {
+  "png": {
+   "bytes": 18593,
+   "sha256": "a895e0bafca71566539428267b02eceb8522bdc778b7ac10208f3cf771b0205a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8705,
+   "sha256": "002da6e73610737a659445eeeb2d422c5948651e9532053463e39a8588cf68da",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3301405.jpg",
+  "bytes": 44273,
+  "sha256": "cf1e519c03e92aee2fb62a9f4e3c0b8cca79457f4a4f91b96d40af70e3c276b5"
+ },
+ "sha1_origem": "dd3fb5e0f4eb123b52bfdf3a510fb14c3e891ee4",
+ "bytes_origem": 44273,
+ "capturado_em": "2026-11-08T06:21:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-conceição_de_macabu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "dd3fb5e0f4eb123b52bfdf3a510fb14c3e891ee4"
+ }
+}

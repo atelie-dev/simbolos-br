@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5107040",
+ "uf": "MT",
+ "municipio": "Primavera do Leste",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bandeira_de_Primavera_do_Leste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Primavera do Leste",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2377cdc0e3d9321d89e4eb6cd8c2782aa314780248b9906b5ad695f182b7fd2c",
+ "rendicoes": {
+  "png": {
+   "bytes": 37606,
+   "sha256": "0146470cea94c94ef47bc0d689a406ca4c148d67f4e39801f83e936220cb3bcb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11278,
+   "sha256": "a2af5ec1f00a199393d2dc3ae54bbdba4b82b8a8ba0f603c86da201756011f94",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107040.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107040.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107040.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5107040.jpg",
+  "bytes": 16477,
+  "sha256": "2377cdc0e3d9321d89e4eb6cd8c2782aa314780248b9906b5ad695f182b7fd2c"
+ },
+ "sha1_origem": "de70f8602723a2929eda8176b67f77cb498bf4d2",
+ "bytes_origem": 16477,
+ "capturado_em": "2026-11-08T07:15:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Primavera_do_Leste.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "de70f8602723a2929eda8176b67f77cb498bf4d2"
+ }
+}

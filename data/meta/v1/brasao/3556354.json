@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3556354",
+ "uf": "SP",
+ "municipio": "Vargem",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Vargem.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0720e68aa3f7b886c79a13535d6eb21b43d7023226865c4b8eeb3ed2160c9b3d",
+ "rendicoes": {
+  "png": {
+   "bytes": 445270,
+   "sha256": "8aa74e37014ad36d3684089f36c813417dcd643e9066ee57b2570c7f07f15f8c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 77770,
+   "sha256": "ae421febd176f2cc1423400a9fb8e5ba39c9e2fe0bfb7db71dd3c6d9d51a8d74",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556354.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556354.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556354.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3556354.png",
+  "bytes": 442751,
+  "sha256": "0720e68aa3f7b886c79a13535d6eb21b43d7023226865c4b8eeb3ed2160c9b3d"
+ },
+ "sha1_origem": "4e980ee3110fe4c6cfbc5701c9a32b7bec2b4845",
+ "bytes_origem": 442751,
+ "capturado_em": "2026-11-08T06:40:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Vargem.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "4e980ee3110fe4c6cfbc5701c9a32b7bec2b4845"
+ }
+}

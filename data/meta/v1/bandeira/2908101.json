@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2908101",
+ "uf": "BA",
+ "municipio": "Cocos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Flag_of_Cocos_-_BA_-_Brazil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pcgomes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ebd925462c90f91abe76e0f6a0b2e7abf4ad8df465e365bd4a3cff1419ce58cf",
+ "rendicoes": {
+  "png": {
+   "bytes": 20883,
+   "sha256": "d524c4d883f13d80bb24ce9e40e98a72d6df9c792c2549d7bcc68c1b55c8dc2c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12556,
+   "sha256": "a2d14f191003348c3ec187e1b7dcd3ec8a0ede33529368f2435879742b0852b6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2908101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2908101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2908101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2908101.png",
+  "bytes": 16820,
+  "sha256": "ebd925462c90f91abe76e0f6a0b2e7abf4ad8df465e365bd4a3cff1419ce58cf"
+ },
+ "sha1_origem": "955ab4226b0585aa2de011393fe2b0fe6cc338d1",
+ "bytes_origem": 16820,
+ "capturado_em": "2026-11-08T05:52:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Cocos_-_BA_-_Brazil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "955ab4226b0585aa2de011393fe2b0fe6cc338d1"
+ }
+}

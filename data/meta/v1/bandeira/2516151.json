@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2516151",
+ "uf": "PB",
+ "municipio": "Sossêgo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_Soss%C3%AAgo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Sossêgo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "93b71e147d1a188f38b5aaf77bc1500362da3ec9b1e6a2d1da478eee6670fd2a",
+ "rendicoes": {
+  "png": {
+   "bytes": 69942,
+   "sha256": "d3159696ec3c22f3fd4463b1f362307383b5a66564622925101390875f55f308",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21768,
+   "sha256": "4f9749c676e792ad4b1c274607ddf04cabc502bd57a94893c0b5289172c39566",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516151.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516151.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516151.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2516151.jpg",
+  "bytes": 49871,
+  "sha256": "93b71e147d1a188f38b5aaf77bc1500362da3ec9b1e6a2d1da478eee6670fd2a"
+ },
+ "sha1_origem": "02897fb3144eb5fcd66242ae4bf3fc9e579daf95",
+ "bytes_origem": 49871,
+ "capturado_em": "2026-11-08T05:44:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Sossêgo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "02897fb3144eb5fcd66242ae4bf3fc9e579daf95"
+ }
+}

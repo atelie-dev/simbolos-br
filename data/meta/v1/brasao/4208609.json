@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4208609",
+ "uf": "SC",
+ "municipio": "Jaborá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Brasao_Jabora.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9a5055db0e58b4b0b3693c7c81cdc4868e3c4504bcec9af36852724b59b97c1b",
+ "rendicoes": {
+  "png": {
+   "bytes": 262563,
+   "sha256": "c6cc6b663161aed85032d7743657db5e68f2176e97a01a4c45bc3fead7334090",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 70730,
+   "sha256": "b0e9e4261e36f10110f39a70b0ba1a58b8abd26eb38be55fd3f7c0b96ca44dec",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4208609.png",
+  "bytes": 691933,
+  "sha256": "9a5055db0e58b4b0b3693c7c81cdc4868e3c4504bcec9af36852724b59b97c1b"
+ },
+ "sha1_origem": "d50764f1246d245af45593c7416fc8e941087994",
+ "bytes_origem": 691933,
+ "capturado_em": "2026-11-08T06:54:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Jabora.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:33Z",
+  "estado": "igual",
+  "sha1_commons": "d50764f1246d245af45593c7416fc8e941087994"
+ }
+}

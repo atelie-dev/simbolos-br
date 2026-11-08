@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3529302",
+ "uf": "SP",
+ "municipio": "Matão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Brasaomatao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9ac069ba60080495d6bfa28ae8afa79e009910003f79719d8e0f514db8930284",
+ "rendicoes": {
+  "png": {
+   "bytes": 149262,
+   "sha256": "44e128c3d56201dce6740e13f0e2dc96103f6f46650c6c03954c7d12fd03392d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34754,
+   "sha256": "47daf0a71b09296d89501bed412693f0137572a09bd24353ae22261b981e3650",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3529302.jpg",
+  "bytes": 37873,
+  "sha256": "9ac069ba60080495d6bfa28ae8afa79e009910003f79719d8e0f514db8930284"
+ },
+ "sha1_origem": "4a64d5503897be265b41a93f21c7377ca1aeab8d",
+ "bytes_origem": 37873,
+ "capturado_em": "2026-11-08T06:31:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaomatao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "4a64d5503897be265b41a93f21c7377ca1aeab8d"
+ }
+}

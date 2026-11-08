@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1301704",
+ "uf": "AM",
+ "municipio": "Humaitá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bandeira_humaita_am.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Humaita",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6569384a3140979a116a4b3f4c20e7e013fa64159d9e6008c4ae73777891e5c0",
+ "rendicoes": {
+  "png": {
+   "bytes": 11480,
+   "sha256": "17464270faa0682403e89aba068227dd882388f9dec8a87f9f895d4a4502b79c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25439,
+   "sha256": "46aa63bc8c7914b22af123b39aa86bc77f9a831cd4a285a85ef165206d043c9a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1301704.png",
+  "bytes": 7924,
+  "sha256": "6569384a3140979a116a4b3f4c20e7e013fa64159d9e6008c4ae73777891e5c0"
+ },
+ "sha1_origem": "d01e92adda87c3cc11613b5427ee802fcfa41a2f",
+ "bytes_origem": 7924,
+ "capturado_em": "2026-11-08T05:22:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_humaita_am.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "d01e92adda87c3cc11613b5427ee802fcfa41a2f"
+ }
+}

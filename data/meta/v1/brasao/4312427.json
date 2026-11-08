@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312427",
+ "uf": "RS",
+ "municipio": "Mormaço",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bras%C3%A3o_Morma%C3%A7o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Mormaço",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6fae81b652063b45dd3c5904f30b90439b8b1ee7ec19289eeb50fc7676f94469",
+ "rendicoes": {
+  "png": {
+   "bytes": 418325,
+   "sha256": "363561d8dae150bcaa2eec9d2815c6520220c165ed750d59023904bbe3957c7b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 68859,
+   "sha256": "f103dc8250bfe9b0bece16ab14845efb805cca60ba8a3cff3fb8cdf06f9d8401",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312427.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312427.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312427.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4312427.jpg",
+  "bytes": 75408,
+  "sha256": "6fae81b652063b45dd3c5904f30b90439b8b1ee7ec19289eeb50fc7676f94469"
+ },
+ "sha1_origem": "aa4c58bac50c0cf61705d2f69bd9d61abafea872",
+ "bytes_origem": 75408,
+ "capturado_em": "2026-11-08T07:05:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Mormaço.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "aa4c58bac50c0cf61705d2f69bd9d61abafea872"
+ }
+}

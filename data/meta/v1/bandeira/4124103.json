@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4124103",
+ "uf": "PR",
+ "municipio": "Santo Antônio da Platina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bandeira_de_Santo_Ant%C3%B4nio_da_Platina.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Reizend",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2ca94e547b3167e090c778b4236a4206be7b4ae8a28b25f10791809410fc6050",
+ "rendicoes": {
+  "png": {
+   "bytes": 36708,
+   "sha256": "e740117f1aeaec40e60b984687a06bf883efb738085839137201a5a72ca7a88a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11849,
+   "sha256": "e5625ca257b1b765330871c5cbf45c7d8c9c5a2f870f0dea8d4e34ce0243d64b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4124103.png",
+  "bytes": 13606,
+  "sha256": "2ca94e547b3167e090c778b4236a4206be7b4ae8a28b25f10791809410fc6050"
+ },
+ "sha1_origem": "965d44eb0905a7c447f5bba196bc2a7344e744ce",
+ "bytes_origem": 13606,
+ "capturado_em": "2026-11-08T06:49:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santo_Antônio_da_Platina.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "965d44eb0905a7c447f5bba196bc2a7344e744ce"
+ }
+}

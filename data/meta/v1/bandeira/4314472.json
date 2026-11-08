@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314472",
+ "uf": "RS",
+ "municipio": "Pinhal Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bandeira_de_Pinhal_Grande%2C_RS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Joabelb",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3ca151023fac928522ff9db68072e4a1abc63a6783af024a5dd43799d520e90e",
+ "rendicoes": {
+  "png": {
+   "bytes": 17663,
+   "sha256": "662d6c619200115d086b8a0d17fb4bd11a5553a9666c02378a534af826041715",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14874,
+   "sha256": "e0875d9ca8719a4b4b28532dff16f686312fac8656fef57edf68e1bd7bad4563",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314472.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314472.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314472.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4314472.png",
+  "bytes": 16552,
+  "sha256": "3ca151023fac928522ff9db68072e4a1abc63a6783af024a5dd43799d520e90e"
+ },
+ "sha1_origem": "a42d57d7aaad0f184694da861cc4612dceccc5fd",
+ "bytes_origem": 16552,
+ "capturado_em": "2026-11-08T07:07:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pinhal_Grande,_RS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "a42d57d7aaad0f184694da861cc4612dceccc5fd"
+ }
+}

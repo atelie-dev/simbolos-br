@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4310751",
+ "uf": "RS",
+ "municipio": "Ivorá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bandeira_Ivor%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ivorá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2f19cc10e32533301b8536ede970b237e74e95b461627a426f204bec53487bbc",
+ "rendicoes": {
+  "png": {
+   "bytes": 47685,
+   "sha256": "24ce4c718c3998aa8a211b68d3269e0485873c824bb6a7b11ced68aa81d1dd39",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18238,
+   "sha256": "718c263435402aa533a03a0fbebce42c547617617a58cd1b2cb3693bdb969e97",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310751.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310751.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310751.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4310751.jpg",
+  "bytes": 34764,
+  "sha256": "2f19cc10e32533301b8536ede970b237e74e95b461627a426f204bec53487bbc"
+ },
+ "sha1_origem": "9c827d99e540b6a990929531fa0909f4cd7d2889",
+ "bytes_origem": 34764,
+ "capturado_em": "2026-11-08T07:04:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Ivorá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "9c827d99e540b6a990929531fa0909f4cd7d2889"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2700102",
+ "uf": "AL",
+ "municipio": "Água Branca",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Bras%C3%A3o_%C3%81gua_Branca.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "50719d27641d61bbd566410c2b9c2358d1fb6a54f2e90c12ceb30f1b2606fb0d",
+ "rendicoes": {
+  "png": {
+   "bytes": 207165,
+   "sha256": "3f05d45b6ead44e23dced905ed8de2bcb5f629e700f1955bebf5780e6859e2f3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37782,
+   "sha256": "0075aa31dca8c05fd031c880c5cff5931daf42d2f084dd815df31dee5eda1cc7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2700102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2700102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2700102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2700102.png",
+  "bytes": 241112,
+  "sha256": "50719d27641d61bbd566410c2b9c2358d1fb6a54f2e90c12ceb30f1b2606fb0d"
+ },
+ "sha1_origem": "f8bb5331ddbf39ef4b763a1744b5dcbce5165b7f",
+ "bytes_origem": 241112,
+ "capturado_em": "2026-11-08T05:47:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Água_Branca.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "f8bb5331ddbf39ef4b763a1744b5dcbce5165b7f"
+ }
+}

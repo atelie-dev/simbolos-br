@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5207808",
+ "uf": "GO",
+ "municipio": "Firminópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bandeira_de_Firmin%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Firminópolis.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "96acb005ac0ae92e91ecbfc968e2fe49430c440bd24504ca2f79c32439ce4839",
+ "rendicoes": {
+  "png": {
+   "bytes": 11470,
+   "sha256": "df08875aa8ddb4370881a0073742fcf25bc3ba3a614678ee8b66c177496df85a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6523,
+   "sha256": "5c4cd4abd811a06d72aa72ee5af45b6efc622ccf34f4975fb002a681dc3edd37",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5207808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5207808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5207808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5207808.jpg",
+  "bytes": 6170,
+  "sha256": "96acb005ac0ae92e91ecbfc968e2fe49430c440bd24504ca2f79c32439ce4839"
+ },
+ "sha1_origem": "d97fff8f81822af637a09a1ca5d2e7ac90dd54ec",
+ "bytes_origem": 6170,
+ "capturado_em": "2026-11-08T07:17:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Firminópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "d97fff8f81822af637a09a1ca5d2e7ac90dd54ec"
+ }
+}

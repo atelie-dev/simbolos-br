@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3526902",
+ "uf": "SP",
+ "municipio": "Limeira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Brasao_Limeira_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "self made",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d2c7e368f7c4f4253d0cdb7901d55dba3e74dfc23dd940927474ba61d3ef93ed",
+ "rendicoes": {
+  "png": {
+   "bytes": 185902,
+   "sha256": "73d482901ec52589dcbcee0df8fd3f133db8d054315020b1edc81c89fc3cc490",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62770,
+   "sha256": "c0ade12092442fd7cda8cccdd02124b77c22f5f017ee4bb509327c3e665637b5",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 81752,
+   "sha256": "d2c7e368f7c4f4253d0cdb7901d55dba3e74dfc23dd940927474ba61d3ef93ed"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3526902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3526902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3526902.jpg"
+ },
+ "sha1_origem": "2730f46f40abdbe805c3300fa3ca0a06c6ad1c7c",
+ "bytes_origem": 81752,
+ "capturado_em": "2026-11-08T04:07:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Limeira_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:33Z",
+  "estado": "igual",
+  "sha1_commons": "2730f46f40abdbe805c3300fa3ca0a06c6ad1c7c"
+ }
+}

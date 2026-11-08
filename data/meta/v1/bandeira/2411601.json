@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2411601",
+ "uf": "RN",
+ "municipio": "São Bento do Norte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bandeira_S%C3%A3o_Bento_do_Norte-RN%2C_Brasil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7fa693864f65c079e9bc30c358f170cda16ff5e8ea2a1bbc202f1f6a72997fd6",
+ "rendicoes": {
+  "png": {
+   "bytes": 56909,
+   "sha256": "06cc60d858b1e05900c640938ba916e7b73eeee4cc66d2311b594d93a85def47",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21971,
+   "sha256": "5719ae689dd65e9ac8df1f92c1214e1cd025bc3c3b5a6d9ef5197ded52fd9bbb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2411601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2411601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2411601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2411601.png",
+  "bytes": 128409,
+  "sha256": "7fa693864f65c079e9bc30c358f170cda16ff5e8ea2a1bbc202f1f6a72997fd6"
+ },
+ "sha1_origem": "bcb450e6ab9260b3aebc060bb579bb6d00469086",
+ "bytes_origem": 128409,
+ "capturado_em": "2026-11-08T05:38:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_São_Bento_do_Norte-RN,_Brasil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "bcb450e6ab9260b3aebc060bb579bb6d00469086"
+ }
+}

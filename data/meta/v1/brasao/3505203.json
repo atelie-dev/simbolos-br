@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3505203",
+ "uf": "SP",
+ "municipio": "Bariri",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bras%C3%A3o_Bariri_-_sp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d0e47b2c53d6e269ff0aebdb47ac47e96e14d3ecededb4613121c44db80e5a22",
+ "rendicoes": {
+  "png": {
+   "bytes": 212737,
+   "sha256": "afc66f182e45be7dd5a37c306eb4f69b8cf5773c7ab7a7a0e1b78470eb172ace",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49457,
+   "sha256": "03df28669e7712af738e435e02af593ddc4729f9b450b4fb8eeb13b39998673c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3505203.jpg",
+  "bytes": 192268,
+  "sha256": "d0e47b2c53d6e269ff0aebdb47ac47e96e14d3ecededb4613121c44db80e5a22"
+ },
+ "sha1_origem": "a523a7a61941a499adb3b18b1e88d00962eaed8e",
+ "bytes_origem": 192268,
+ "capturado_em": "2026-11-08T06:24:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Bariri_-_sp.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "a523a7a61941a499adb3b18b1e88d00962eaed8e"
+ }
+}

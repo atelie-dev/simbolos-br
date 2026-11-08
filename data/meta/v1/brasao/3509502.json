@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3509502",
+ "uf": "SP",
+ "municipio": "Campinas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bras%C3%A3o_da_Cidade_de_Campinas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4879fd5d8bf7813e6b8de8d9df0e194ef4ef2655a875fa45d3c644ab034c1d3e",
+ "rendicoes": {
+  "png": {
+   "bytes": 291557,
+   "sha256": "e146de22b62ab2816849b3beedbf208c88559dcd1590e2bfae1e5243ead0c7be",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 88887,
+   "sha256": "ed73d5448bf1e2119c15f10a06b837b3fa9c7d8cc56ad9f786f2fe94e48c7dcb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3509502.png",
+  "bytes": 641356,
+  "sha256": "4879fd5d8bf7813e6b8de8d9df0e194ef4ef2655a875fa45d3c644ab034c1d3e"
+ },
+ "sha1_origem": "f23f2c0869de4bc45b9d11f94fe9e1d845a2002f",
+ "bytes_origem": 641356,
+ "capturado_em": "2026-11-08T06:25:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_da_Cidade_de_Campinas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "f23f2c0869de4bc45b9d11f94fe9e1d845a2002f"
+ }
+}

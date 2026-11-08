@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4307450",
+ "uf": "RS",
+ "municipio": "Esperança do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Esperan%C3%A7a_do_Sulbanders.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Esperança do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4ec651fed979864153712eae7005c09fbec1a52f9569d94821da3f4c0a724474",
+ "rendicoes": {
+  "png": {
+   "bytes": 13927,
+   "sha256": "fc35e17627ea8c6d2142c248da9218dc08fd995c0c524e6d31240b63a68713fa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8628,
+   "sha256": "2d56170d16ef00b148eae41d5102616860671de8c584f2a30597dd4113bc8072",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307450.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307450.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307450.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4307450.png",
+  "bytes": 11012,
+  "sha256": "4ec651fed979864153712eae7005c09fbec1a52f9569d94821da3f4c0a724474"
+ },
+ "sha1_origem": "b5fde65a126fc4121b032e12249f388f497072a2",
+ "bytes_origem": 11012,
+ "capturado_em": "2026-11-08T07:02:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Esperança_do_Sulbanders.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "b5fde65a126fc4121b032e12249f388f497072a2"
+ }
+}

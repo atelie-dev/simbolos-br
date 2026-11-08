@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2507200",
+ "uf": "PB",
+ "municipio": "Itatuba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bras%C3%A3o_Itatuba-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Itatuba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "318b966fd4fdab910eb7c33c831bf2a55a9df413e8e88791c7ee41703024fb28",
+ "rendicoes": {
+  "png": {
+   "bytes": 91530,
+   "sha256": "98474f2f7ca83976250b403f33ce57745972ad83ea443f7489e05db2b229298d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20985,
+   "sha256": "5c760c3141213afc6354d943889c9ae5811a4bd1dba89a7c1f81dcf5f674e351",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2507200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2507200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2507200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2507200.jpg",
+  "bytes": 29088,
+  "sha256": "318b966fd4fdab910eb7c33c831bf2a55a9df413e8e88791c7ee41703024fb28"
+ },
+ "sha1_origem": "7b1831ff7c5190a65cf67e3cce4be6f0a71726b0",
+ "bytes_origem": 29088,
+ "capturado_em": "2026-11-08T05:41:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Itatuba-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "7b1831ff7c5190a65cf67e3cce4be6f0a71726b0"
+ }
+}

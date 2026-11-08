@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3157708",
+ "uf": "MG",
+ "municipio": "Santa Juliana",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Brasaostajuliana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santa Juliana",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a0cbfc8a37730b72daa1ab84e44aa14c1adec083c4dbc7e3838130351e3ec3e4",
+ "rendicoes": {
+  "png": {
+   "bytes": 30099,
+   "sha256": "e4efe98cbdd24125abfbb910f291082036c6ffc8c4ad81a81adf7a77d6c23a56",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6507,
+   "sha256": "3ee75eb6b66ff9480c254b1751574bef8f88aa510d1dec97896cd95a22e59025",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3157708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3157708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3157708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3157708.jpg",
+  "bytes": 6029,
+  "sha256": "a0cbfc8a37730b72daa1ab84e44aa14c1adec083c4dbc7e3838130351e3ec3e4"
+ },
+ "sha1_origem": "91ffb52a8529739243f704f239a5210465d89b0e",
+ "bytes_origem": 6029,
+ "capturado_em": "2026-11-08T06:15:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaostajuliana.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "91ffb52a8529739243f704f239a5210465d89b0e"
+ }
+}

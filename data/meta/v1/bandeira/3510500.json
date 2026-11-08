@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3510500",
+ "uf": "SP",
+ "municipio": "Caraguatatuba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/50/Bandeira_Caraguatatuba_SaoPaulo_Brasil_v2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "FORTES",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "80ec539aeb88e614274893933b2e5449f5c7bc79e02c68794a55b4ebb1ea6b17",
+ "rendicoes": {
+  "png": {
+   "bytes": 26725,
+   "sha256": "f08e242c75831bd07e2a388a1f895dba667ecc82fe6c8968be1c13810a41213b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12473,
+   "sha256": "b761591c3c9b1864fc5a35ed45c84c4516f3830ad7ea0d8da7f281902634c88f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 166760,
+   "sha256": "80ec539aeb88e614274893933b2e5449f5c7bc79e02c68794a55b4ebb1ea6b17"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510500.jpg"
+ },
+ "sha1_origem": "b9de9463aa528137ffc33686ac58a9a51611d5fc",
+ "bytes_origem": 166760,
+ "capturado_em": "2026-11-08T04:00:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Caraguatatuba_SaoPaulo_Brasil_v2.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "b9de9463aa528137ffc33686ac58a9a51611d5fc"
+ }
+}

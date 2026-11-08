@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5214507",
+ "uf": "GO",
+ "municipio": "Nerópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bras%C3%A3o_de_Ner%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Nerópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9cb14cdd84aa57e31cdee7dd9cef6cb1c09c9ed93d2d35e701706691ed0ec47e",
+ "rendicoes": {
+  "png": {
+   "bytes": 52960,
+   "sha256": "cd00f732407123b5932d8578731ed9ac7854566984d129f8ffb87dad9f4bfc7b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12536,
+   "sha256": "abb3039ebf24a5f9f0b3a9874bc9c46e56bc457551405d609b421137446cd09a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5214507.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5214507.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5214507.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5214507.jpg",
+  "bytes": 9286,
+  "sha256": "9cb14cdd84aa57e31cdee7dd9cef6cb1c09c9ed93d2d35e701706691ed0ec47e"
+ },
+ "sha1_origem": "34829ee733a2ea84db4cbbd6236b112f34c320ea",
+ "bytes_origem": 9286,
+ "capturado_em": "2026-11-08T07:19:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Nerópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "34829ee733a2ea84db4cbbd6236b112f34c320ea"
+ }
+}

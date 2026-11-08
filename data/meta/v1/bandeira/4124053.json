@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4124053",
+ "uf": "PR",
+ "municipio": "Santa Terezinha de Itaipu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bandeira-santaterezinhadeitaipu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Sta. Terezinha do Itaipu City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "02ea147702b520751806762f2f3c13929ed4f780ea8523796e05c9798825b6c9",
+ "rendicoes": {
+  "png": {
+   "bytes": 7004,
+   "sha256": "3ec9395aeb34e9719fc24b516edc6ed0202de4dfd020ba311502a140f4a1b83f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12722,
+   "sha256": "2ee8a00e6430386b2e81823e98fbda9c2525e3b8c18d37fb1133dc3c5d6b8aac",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124053.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124053.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124053.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4124053.png",
+  "bytes": 4973,
+  "sha256": "02ea147702b520751806762f2f3c13929ed4f780ea8523796e05c9798825b6c9"
+ },
+ "sha1_origem": "003f78ec6b056e73b05c02820fc01ce71ff19f70",
+ "bytes_origem": 4973,
+ "capturado_em": "2026-11-08T06:49:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-santaterezinhadeitaipu.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "003f78ec6b056e73b05c02820fc01ce71ff19f70"
+ }
+}

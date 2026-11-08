@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3146503",
+ "uf": "MG",
+ "municipio": "Pains",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Brasao_pains.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pains",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9c2f18997d4a3593d831bc0e2c4ace468918094300018f93d6a807833d25bfc8",
+ "rendicoes": {
+  "png": {
+   "bytes": 136645,
+   "sha256": "f8336182eb064271399b910eab4629260f3b5b28a3a23b9a250fd91507782ebe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30857,
+   "sha256": "13da58e8e29dac7668f5d73faf2ff18a1b496b88f8d67cc7bac3468dd2e81314",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3146503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3146503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3146503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3146503.png",
+  "bytes": 130633,
+  "sha256": "9c2f18997d4a3593d831bc0e2c4ace468918094300018f93d6a807833d25bfc8"
+ },
+ "sha1_origem": "9577cdc8798abbe372fe9fe8701b377df1a10e70",
+ "bytes_origem": 130633,
+ "capturado_em": "2026-11-08T06:12:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_pains.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "9577cdc8798abbe372fe9fe8701b377df1a10e70"
+ }
+}

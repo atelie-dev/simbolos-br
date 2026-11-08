@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3301801",
+ "uf": "RJ",
+ "municipio": "Engenheiro Paulo de Frontin",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Brasao-engopaulodefrontin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "150f59c3bb223f3ae2d84a8dae39c7423124bc182d826b009f96097e10c55f3e",
+ "rendicoes": {
+  "png": {
+   "bytes": 61081,
+   "sha256": "534afa593268645a2d12d9ccc6145a1dd8c080fd0da6353ff3a81eb43025ae55",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13572,
+   "sha256": "eb1437ff9cb4aa0b041f0269882ac0134110fad0f247965dcd5ee4103ae3dc00",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3301801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3301801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3301801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3301801.jpg",
+  "bytes": 9438,
+  "sha256": "150f59c3bb223f3ae2d84a8dae39c7423124bc182d826b009f96097e10c55f3e"
+ },
+ "sha1_origem": "cce73c793aef3ff073e4a66ca0f2344c21ff3c86",
+ "bytes_origem": 9438,
+ "capturado_em": "2026-11-08T06:21:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-engopaulodefrontin.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "cce73c793aef3ff073e4a66ca0f2344c21ff3c86"
+ }
+}

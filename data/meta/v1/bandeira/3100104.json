@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3100104",
+ "uf": "MG",
+ "municipio": "Abadia dos Dourados",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Abadia-dos-dourados-bandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "A21ns1g4ts",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d4763358c72261a953a656c7d23af70291f0125190b37d78a61828c72542044a",
+ "rendicoes": {
+  "png": {
+   "bytes": 42645,
+   "sha256": "5d5e64d50817a22e62c19e72217aa27d09f7fd54a5c8d855f5dfcac5e536d501",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17228,
+   "sha256": "42c4e63086f7377fc91308dcb1c495be0e47eed108346c9cedcc6a7c828af42b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3100104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3100104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3100104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3100104.png",
+  "bytes": 263321,
+  "sha256": "d4763358c72261a953a656c7d23af70291f0125190b37d78a61828c72542044a"
+ },
+ "sha1_origem": "80c8512c04b24938a5763df5a247554340ea251d",
+ "bytes_origem": 263321,
+ "capturado_em": "2026-11-08T05:58:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Abadia-dos-dourados-bandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "80c8512c04b24938a5763df5a247554340ea251d"
+ }
+}

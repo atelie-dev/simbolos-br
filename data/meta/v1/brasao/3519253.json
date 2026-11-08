@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3519253",
+ "uf": "SP",
+ "municipio": "Iaras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bra_Iaras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a23061f5e8d0038b282083631b4f4f3a506ba78db7a7accddfd819e21fe183ca",
+ "rendicoes": {
+  "png": {
+   "bytes": 374219,
+   "sha256": "cf06b37e71ef4cedadac4ba8e20c46bb7ad0daa19395d575a96f670837260c60",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56667,
+   "sha256": "3dfffe18dff366add1d1dd5fa39916a8dba14dfe6f0eb69e61623f6b0b29cdb6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519253.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519253.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519253.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3519253.jpg",
+  "bytes": 269575,
+  "sha256": "a23061f5e8d0038b282083631b4f4f3a506ba78db7a7accddfd819e21fe183ca"
+ },
+ "sha1_origem": "e125442dad8321acf2011a1d44356922c44671fa",
+ "bytes_origem": 269575,
+ "capturado_em": "2026-11-08T06:28:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bra_Iaras.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:27Z",
+  "estado": "igual",
+  "sha1_commons": "e125442dad8321acf2011a1d44356922c44671fa"
+ }
+}

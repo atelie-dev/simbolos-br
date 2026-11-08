@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4202081",
+ "uf": "SC",
+ "municipio": "Bandeirante",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bandeira_do_munic%C3%ADpio_de_Bandeirante_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Bandeirante (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c8d19f2d33bd4cdf4d12e06891ffe577cdec12c77bdd4f20e4cfa1dc5fd5942d",
+ "rendicoes": {
+  "png": {
+   "bytes": 71544,
+   "sha256": "14059ac1573aa1e62220aa0cebf229d602ea2d693502e1f702ba99139461e849",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27368,
+   "sha256": "e15dc4a4873095f1ef9aed193129414aa0a8668e4021dd82ebb83623e1ebd333",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202081.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202081.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202081.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4202081.png",
+  "bytes": 616692,
+  "sha256": "c8d19f2d33bd4cdf4d12e06891ffe577cdec12c77bdd4f20e4cfa1dc5fd5942d"
+ },
+ "sha1_origem": "fbdf76a5fabcb0a24b7145629fa0f7ad1ecc0274",
+ "bytes_origem": 616692,
+ "capturado_em": "2026-11-08T06:52:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Bandeirante_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "fbdf76a5fabcb0a24b7145629fa0f7ad1ecc0274"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3100500",
+ "uf": "MG",
+ "municipio": "Açucena",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bandeira_de_A%C3%A7ucena%2C_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Açucena",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9c72c36f86becb16a8c4d14908f63ceb583527a764dc967dde994dad72e8f557",
+ "rendicoes": {
+  "png": {
+   "bytes": 12738,
+   "sha256": "1049ba3c6430a314d6a89285b424247eb05d9cc94fe364958bed632e2e6df636",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7048,
+   "sha256": "97c966ebbd92e3f7fec5a5b98cdb7030d5450121272b5489b838859c079642b9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3100500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3100500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3100500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3100500.jpg",
+  "bytes": 7229,
+  "sha256": "9c72c36f86becb16a8c4d14908f63ceb583527a764dc967dde994dad72e8f557"
+ },
+ "sha1_origem": "acf146ad94688f2c52fbe432517af89930a119cd",
+ "bytes_origem": 7229,
+ "capturado_em": "2026-11-08T05:58:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Açucena,_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "acf146ad94688f2c52fbe432517af89930a119cd"
+ }
+}

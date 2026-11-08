@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3305505",
+ "uf": "RJ",
+ "municipio": "Saquarema",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Brasao_Saqua_Sm.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9ccaaa2b0437356a29e5f328e348ed880ce77901047143cc42f165b7782da3cd",
+ "rendicoes": {
+  "png": {
+   "bytes": 209041,
+   "sha256": "af1467b7bc6badf3683dc6bf3439707ff681754238618b0bf6bc43b4fc29f57c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 66659,
+   "sha256": "f13eb73aa8438d820df29bceb6f99cece7a3c2dbdd75acd6ab4cf0a27b5f0a44",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1459210,
+   "sha256": "9ccaaa2b0437356a29e5f328e348ed880ce77901047143cc42f165b7782da3cd"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3305505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3305505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3305505.jpg"
+ },
+ "sha1_origem": "1f7be153e002378e8d7d4ce161ff08c8199a6322",
+ "bytes_origem": 1459210,
+ "capturado_em": "2026-11-08T03:56:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Saqua_Sm.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "1f7be153e002378e8d7d4ce161ff08c8199a6322"
+ }
+}

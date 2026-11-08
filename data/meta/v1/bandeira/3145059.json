@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3145059",
+ "uf": "MG",
+ "municipio": "Nova Porteirinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bandeiranovaporteirinha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nova Porteirinha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e731e0edc9f8a3a1f4107a6234dffbc0b9aac481de955fe72551ee6898173869",
+ "rendicoes": {
+  "png": {
+   "bytes": 38468,
+   "sha256": "4f537170d659497a32d79b54e124ca7d7801b5b2adfe4d1435ad5ae887196dfa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9663,
+   "sha256": "0389b0e3d4d1997355b4f368064c875648eeb7c45bdee6b8db47c8514e96185f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145059.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145059.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145059.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3145059.jpg",
+  "bytes": 7362,
+  "sha256": "e731e0edc9f8a3a1f4107a6234dffbc0b9aac481de955fe72551ee6898173869"
+ },
+ "sha1_origem": "ebea7211507b29df368f26bd6f4180209f3a9d45",
+ "bytes_origem": 7362,
+ "capturado_em": "2026-11-08T06:12:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiranovaporteirinha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "ebea7211507b29df368f26bd6f4180209f3a9d45"
+ }
+}

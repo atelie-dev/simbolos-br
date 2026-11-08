@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4300570",
+ "uf": "RS",
+ "municipio": "Alto Feliz",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bras%C3%A3o_Alto_Feliz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Alto Feliz",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "feffa6bb311524636b8db26348f291fb3a622ebff1707578dee9a5a019aeef77",
+ "rendicoes": {
+  "png": {
+   "bytes": 360661,
+   "sha256": "0ae8accf4446180bc8bfbeabe15742c55ef2c9f708ab58ba2574e08e4ef04e6b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 52326,
+   "sha256": "189431c7f5470efec14d49dd149b5e41cfbca4cc086708148d502364b5cfbf78",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300570.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300570.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300570.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4300570.jpg",
+  "bytes": 75719,
+  "sha256": "feffa6bb311524636b8db26348f291fb3a622ebff1707578dee9a5a019aeef77"
+ },
+ "sha1_origem": "5558aa7d21ab2906e96eb9c52ce04383435f38a7",
+ "bytes_origem": 75719,
+ "capturado_em": "2026-11-08T06:58:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Alto_Feliz.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "5558aa7d21ab2906e96eb9c52ce04383435f38a7"
+ }
+}

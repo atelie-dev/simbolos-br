@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211850",
+ "uf": "SC",
+ "municipio": "Ouro Verde",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bandeira_do_munic%C3%ADpio_de_Ouro_Verde_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ouro Verde (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c3caeddcb17f20c53be950a8cb1230520f63817986a712ff1f74f40b134790aa",
+ "rendicoes": {
+  "png": {
+   "bytes": 56404,
+   "sha256": "14273d4ad5652688b056c7d2f583bfd8010e196178d09f713822836ea1a08829",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24731,
+   "sha256": "214db99d8b63c14bd74cfd9378edc9e7b101e7f9b3107bffe41bcec21996b3b4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211850.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211850.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211850.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4211850.png",
+  "bytes": 283193,
+  "sha256": "c3caeddcb17f20c53be950a8cb1230520f63817986a712ff1f74f40b134790aa"
+ },
+ "sha1_origem": "9a3a00d3a55c076f6e9c59ef7d0404fc0b648910",
+ "bytes_origem": 283193,
+ "capturado_em": "2026-11-08T06:55:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Ouro_Verde_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "9a3a00d3a55c076f6e9c59ef7d0404fc0b648910"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3538303",
+ "uf": "SP",
+ "municipio": "Piquerobi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bras%C3%A3o_Piquerobi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4198a98f39f17ee8d8df35c7704a9e081ee4d3c4c2b007839d3b2203eb8585fd",
+ "rendicoes": {
+  "png": {
+   "bytes": 42449,
+   "sha256": "0da5b5dca537ef2a1bc41e57244596bd3847c330aa7cdf17e50f571952e30cf1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10256,
+   "sha256": "708e25505eb561e637d5bccd27198f0cb7c92b614e50df786c69ba1fc08697a9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3538303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3538303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3538303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3538303.jpg",
+  "bytes": 10307,
+  "sha256": "4198a98f39f17ee8d8df35c7704a9e081ee4d3c4c2b007839d3b2203eb8585fd"
+ },
+ "sha1_origem": "526d40029153cb908181c93cda041225e5a09629",
+ "bytes_origem": 10307,
+ "capturado_em": "2026-11-08T06:34:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Piquerobi.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:53Z",
+  "estado": "igual",
+  "sha1_commons": "526d40029153cb908181c93cda041225e5a09629"
+ }
+}

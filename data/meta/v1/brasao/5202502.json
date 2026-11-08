@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5202502",
+ "uf": "GO",
+ "municipio": "Aruanã",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Aruan%C3%A3.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7b39c31a72fc368b7b531565cd84606a9566d634b2f8fb1a4ef1e1b3b46928f4",
+ "rendicoes": {
+  "png": {
+   "bytes": 162936,
+   "sha256": "560fe0b55acdfebd3265ca13b9b3af5a2ecbd812fbc85436f25633762b0fead0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60354,
+   "sha256": "cd84ff4fcaa4eb44d64edf9af70798edfce3bd512e2b94aea0c55fc894f68386",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5202502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5202502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5202502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5202502.png",
+  "bytes": 131526,
+  "sha256": "7b39c31a72fc368b7b531565cd84606a9566d634b2f8fb1a4ef1e1b3b46928f4"
+ },
+ "sha1_origem": "6977af2f82403f7190c5b3bfa4389206880338de",
+ "bytes_origem": 131526,
+ "capturado_em": "2026-11-08T07:16:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Aruanã.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "6977af2f82403f7190c5b3bfa4389206880338de"
+ }
+}

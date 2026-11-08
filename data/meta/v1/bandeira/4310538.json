@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4310538",
+ "uf": "RS",
+ "municipio": "Itaara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bandeira_itaara.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Itaara",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6b739d7215a63c9dcd921dd7c0591374b35a5b15cb8bf678aef0a7cef9412085",
+ "rendicoes": {
+  "png": {
+   "bytes": 69182,
+   "sha256": "939b4dbc9cf0d9e004656552b86729ace7f9f1460b4c7e9a3afcd02f01e56bcc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24356,
+   "sha256": "54115c9cbc7114ccc7438350acfa69d0ae4baf249f461b6b432190c2ee8b820f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310538.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310538.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310538.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4310538.png",
+  "bytes": 39965,
+  "sha256": "6b739d7215a63c9dcd921dd7c0591374b35a5b15cb8bf678aef0a7cef9412085"
+ },
+ "sha1_origem": "2fe66ba84ace4dc21768cfe09af32ef7af9e954f",
+ "bytes_origem": 39965,
+ "capturado_em": "2026-11-08T07:04:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_itaara.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "2fe66ba84ace4dc21768cfe09af32ef7af9e954f"
+ }
+}

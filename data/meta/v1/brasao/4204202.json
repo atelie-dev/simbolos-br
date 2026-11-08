@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4204202",
+ "uf": "SC",
+ "municipio": "Chapecó",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/BRA_Chapec%C3%B3_COA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Lauro Sant'Anna e Homero M. Franco. Prefeitura Municipal de Chapecó",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "eebc609d80516890271964f13f7173640d5e11af89c3cd123a5aa3484566b593",
+ "rendicoes": {
+  "png": {
+   "bytes": 271013,
+   "sha256": "19a1191528914cb8a79e3810f438aa1f76977d454aea1d8a885ab643827718d4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 75736,
+   "sha256": "7a4e93c1f03480199f7ed9835aa812829f2c8b6339819b4757dda7420f7553b0",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 395130,
+   "sha256": "eebc609d80516890271964f13f7173640d5e11af89c3cd123a5aa3484566b593"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4204202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4204202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4204202.jpg"
+ },
+ "sha1_origem": "3681e61c518b9a8c1ae744dfb03222c1fb7e7256",
+ "bytes_origem": 395130,
+ "capturado_em": "2026-11-08T04:37:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BRA_Chapecó_COA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "3681e61c518b9a8c1ae744dfb03222c1fb7e7256"
+ }
+}

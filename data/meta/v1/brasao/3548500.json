@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3548500",
+ "uf": "SP",
+ "municipio": "Santos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Brasao_Santos_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "febe3674aaddb6fb09805d17b6bf1729bd2a57d09965de5b03efcb488ff47f01",
+ "rendicoes": {
+  "png": {
+   "bytes": 242548,
+   "sha256": "7466c9826f6cc47b1770971be2db4ab27626abf861f0465a1ec81d2a9f40ae08",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 76507,
+   "sha256": "cbb25516ba1b72d513e901819c4d85b5279d23a8312f76261d1282c68b443f4b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 988560,
+   "sha256": "febe3674aaddb6fb09805d17b6bf1729bd2a57d09965de5b03efcb488ff47f01"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548500.jpg"
+ },
+ "sha1_origem": "2052e63813db4a4918cf9777aeb66024b6cfad6a",
+ "bytes_origem": 988560,
+ "capturado_em": "2026-11-08T04:16:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Santos_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "2052e63813db4a4918cf9777aeb66024b6cfad6a"
+ }
+}

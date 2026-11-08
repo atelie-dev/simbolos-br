@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4204194",
+ "uf": "SC",
+ "municipio": "Chapadão do Lageado",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bandeira_do_munic%C3%ADpio_de_Chapad%C3%A3o_do_Lageado_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Chapadão do Lageado (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0a9255b9992eb05b9269d876f870f205b7234a4351eca5a3b0bf01757041ccb5",
+ "rendicoes": {
+  "png": {
+   "bytes": 62076,
+   "sha256": "f5185a23637b637e6d51de4e0df818909f2347af71d2c16525cede0f944ee73d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25360,
+   "sha256": "cec4f5f00f5d9123a1990dfa8d133d9db6840338aa36b1949f6e8ffb548103fc",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 68821,
+   "sha256": "0a9255b9992eb05b9269d876f870f205b7234a4351eca5a3b0bf01757041ccb5"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204194.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204194.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204194.jpg"
+ },
+ "sha1_origem": "e405fcc7eaa09b95392c3d732c5a6303e7159293",
+ "bytes_origem": 68821,
+ "capturado_em": "2026-11-08T04:37:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Chapadão_do_Lageado_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "e405fcc7eaa09b95392c3d732c5a6303e7159293"
+ }
+}

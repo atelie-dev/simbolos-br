@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3552908",
+ "uf": "SP",
+ "municipio": "Taciba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bandeira_Taciba.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6ddea3a8a929c3eccb3e27f1f3c2dc1fd6d560233a06ccd823a8731f798639c4",
+ "rendicoes": {
+  "png": {
+   "bytes": 26105,
+   "sha256": "9d6ef5599de968bdb7ff17a89c250d01e87b5c4d0c26c56a26035d36f4d6f7d6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14528,
+   "sha256": "775e1b631be575acfc8b1c62461cc0560a4f4373e6763c35a7516cccd4680a8b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3552908.png",
+  "bytes": 23586,
+  "sha256": "6ddea3a8a929c3eccb3e27f1f3c2dc1fd6d560233a06ccd823a8731f798639c4"
+ },
+ "sha1_origem": "af62eba6082381d4663d569a107af654c0e2cdd0",
+ "bytes_origem": 23586,
+ "capturado_em": "2026-11-08T06:39:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Taciba.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "af62eba6082381d4663d569a107af654c0e2cdd0"
+ }
+}

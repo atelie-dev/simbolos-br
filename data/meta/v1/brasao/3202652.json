@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3202652",
+ "uf": "ES",
+ "municipio": "Irupi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Brasao_irupi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cristovam Aguiar",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9db848d5efa69dda8ec1f92c556e547e6f76ced023b36e912820318f15a45470",
+ "rendicoes": {
+  "png": {
+   "bytes": 28471,
+   "sha256": "693c0ce6b65a198bc47c85a1e17ca8c25b8bf4a059f160f462b4eeef15823b9a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7807,
+   "sha256": "0530eae62ffbb8680e70f4088de0eec99bbba30c95a4171e04f2ffa2bc64d212",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3202652.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3202652.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3202652.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3202652.jpg",
+  "bytes": 16498,
+  "sha256": "9db848d5efa69dda8ec1f92c556e547e6f76ced023b36e912820318f15a45470"
+ },
+ "sha1_origem": "9bc0524d036d3dcaf5a128bd729bfef2afb61344",
+ "bytes_origem": 16498,
+ "capturado_em": "2026-11-08T06:19:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_irupi.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "9bc0524d036d3dcaf5a128bd729bfef2afb61344"
+ }
+}

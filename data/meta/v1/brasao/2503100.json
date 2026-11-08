@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2503100",
+ "uf": "PB",
+ "municipio": "Cabaceiras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cabaceiras%2C_PB_-_Bras%C3%A3o_de_Armas.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cabaceiras",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "df105d24113136d7d9abb318bdab7c4a94dafcb2407d5237bcfa0dec31906fb0",
+ "rendicoes": {
+  "png": {
+   "bytes": 163904,
+   "sha256": "450ff1ca0330458a510e5b4a9706f4fd8792ba401f0a6fd00113cfe2b2b20c34",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 46542,
+   "sha256": "11c4d645286c0deb03a1b827412244035e422133e3b30ffe99b3a5f42373a505",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 33562,
+   "sha256": "df105d24113136d7d9abb318bdab7c4a94dafcb2407d5237bcfa0dec31906fb0"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2503100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2503100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2503100.jpg"
+ },
+ "sha1_origem": "5c01aa76ee526c636cfffc3e20005b2e4ed0a5ab",
+ "bytes_origem": 33562,
+ "capturado_em": "2026-11-08T02:56:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cabaceiras,_PB_-_Brasão_de_Armas.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "5c01aa76ee526c636cfffc3e20005b2e4ed0a5ab"
+ }
+}

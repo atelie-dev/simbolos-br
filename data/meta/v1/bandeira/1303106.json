@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1303106",
+ "uf": "AM",
+ "municipio": "Nova Olinda do Norte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bandeira_de_Nova_Olinda_do_Norte.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camervan",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "f4feab926dad108dd795518c56f1ca12c5bad573c1fe60c7dab3ea3bc8d5f2d3",
+ "rendicoes": {
+  "png": {
+   "bytes": 5976,
+   "sha256": "0b0054730b12572f900ab09ce471628d7e5594f92e305453bccbb43addbab517",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10730,
+   "sha256": "17eaa9cf555c5d461fa17c7fcda01e4a6c002f225a54f7d9cfe31f9549285d88",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 379,
+   "sha256": "f4feab926dad108dd795518c56f1ca12c5bad573c1fe60c7dab3ea3bc8d5f2d3"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303106.jpg"
+ },
+ "sha1_origem": "6bf02e743ce3ea5ea7fe1dd828f53e6ff51ed7d6",
+ "bytes_origem": 379,
+ "capturado_em": "2026-11-08T02:31:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nova_Olinda_do_Norte.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "6bf02e743ce3ea5ea7fe1dd828f53e6ff51ed7d6"
+ }
+}

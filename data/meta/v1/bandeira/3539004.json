@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3539004",
+ "uf": "SP",
+ "municipio": "Pirangi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bandeira_de_Pirangi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pirangi.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fd3b495901e42460f512282a9e869c8fec3d063d96646a97e90ce2591b3c6c72",
+ "rendicoes": {
+  "png": {
+   "bytes": 26352,
+   "sha256": "e921df344a7872c7362491605bc84da8bbf53959c9116ba722d7a4ef6166b9b5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13954,
+   "sha256": "19795b08e5a9a425645e50792423f9548b436f1965b16c1a39d09e83811659df",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3539004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3539004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3539004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3539004.png",
+  "bytes": 25447,
+  "sha256": "fd3b495901e42460f512282a9e869c8fec3d063d96646a97e90ce2591b3c6c72"
+ },
+ "sha1_origem": "e583b491161020a13ae41f239f25a5670ae78611",
+ "bytes_origem": 25447,
+ "capturado_em": "2026-11-08T06:34:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pirangi.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "e583b491161020a13ae41f239f25a5670ae78611"
+ }
+}

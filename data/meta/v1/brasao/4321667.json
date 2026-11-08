@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321667",
+ "uf": "RS",
+ "municipio": "Três Cachoeiras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Brasao_Tres_Cachoeiras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Três Cachoeiras.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b30a18ff7fb93ddade6f302f3bdb990b68e4f066ddfa12d1bd9feaf27ee82913",
+ "rendicoes": {
+  "png": {
+   "bytes": 85085,
+   "sha256": "e8044c9b65e5dd1b0263187caba89184a9de501edf3489e8db090deed84fd64a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18984,
+   "sha256": "f4a2e6040ce651d83f77d9212b66258898e8d672724d3745451ba264d1dac91f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321667.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321667.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321667.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4321667.png",
+  "bytes": 72249,
+  "sha256": "b30a18ff7fb93ddade6f302f3bdb990b68e4f066ddfa12d1bd9feaf27ee82913"
+ },
+ "sha1_origem": "ede1e58c044844f330fe5cd97309dd75f548a359",
+ "bytes_origem": 72249,
+ "capturado_em": "2026-11-08T07:11:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Tres_Cachoeiras.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "ede1e58c044844f330fe5cd97309dd75f548a359"
+ }
+}

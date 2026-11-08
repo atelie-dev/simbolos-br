@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3306107",
+ "uf": "RJ",
+ "municipio": "Valença",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bandeira_de_Valen%C3%A7a_%28Rio_de_Janeiro%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d61a5d8f79827aa702b794f84222ee9805ec224e7dcf5eac2b30d636aa48f2c9",
+ "rendicoes": {
+  "png": {
+   "bytes": 28332,
+   "sha256": "451c8a5ac09f8765862634b2c6fb3f653c78655112f574c99d72ec164eabdc33",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11613,
+   "sha256": "f9e4c9974858ae4005be07f7b10ea1184ef33f22ce511e3dded393176b1ad179",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3306107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3306107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3306107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3306107.png",
+  "bytes": 10715,
+  "sha256": "d61a5d8f79827aa702b794f84222ee9805ec224e7dcf5eac2b30d636aa48f2c9"
+ },
+ "sha1_origem": "5514661b323f241388a6f36e93665c2d717b0b31",
+ "bytes_origem": 10715,
+ "capturado_em": "2026-11-08T06:22:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Valença_(Rio_de_Janeiro).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "5514661b323f241388a6f36e93665c2d717b0b31"
+ }
+}

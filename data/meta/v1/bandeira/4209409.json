@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4209409",
+ "uf": "SC",
+ "municipio": "Laguna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bandeira_Laguna_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Laguna",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3fd9949658c4028e7c525aa1bb049f3bb4c544f2d9edbc12253f2a44f4a83fe8",
+ "rendicoes": {
+  "png": {
+   "bytes": 15013,
+   "sha256": "fda022aa97c8c2b89b424f59c5f8cecc2bf1c339230a379ef17ea5eb4144eb27",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5231,
+   "sha256": "3d913c714c41f2213efe2bd6372e2d8161f393db97ff5b73a813f6324bd6c34b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209409.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4209409.jpg",
+  "bytes": 2825,
+  "sha256": "3fd9949658c4028e7c525aa1bb049f3bb4c544f2d9edbc12253f2a44f4a83fe8"
+ },
+ "sha1_origem": "10d914efa7b447ae009ef9f39b168602329f95b2",
+ "bytes_origem": 2825,
+ "capturado_em": "2026-11-08T06:54:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Laguna_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "10d914efa7b447ae009ef9f39b168602329f95b2"
+ }
+}

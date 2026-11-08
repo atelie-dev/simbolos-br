@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2508307",
+ "uf": "PB",
+ "municipio": "Lagoa Seca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Bandeira_lagoa_seca.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Lagoa Seca",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b162b8f30265c68d19a1a318cade9285c61f510f04ff2af747276c6e928034f8",
+ "rendicoes": {
+  "png": {
+   "bytes": 30571,
+   "sha256": "76fdd5a2fba7b5be7386b67f71fa06088836824af9f04d6adbfb600c3c7a1621",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15587,
+   "sha256": "c5c79108078e355a81a4544dd5a0aaa679161b6f62d63c7e898075406e6136b9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 111816,
+   "sha256": "b162b8f30265c68d19a1a318cade9285c61f510f04ff2af747276c6e928034f8"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508307.jpg"
+ },
+ "sha1_origem": "1f9d1194fa967bd9d5a2171127649fa46bf00607",
+ "bytes_origem": 111816,
+ "capturado_em": "2026-11-08T02:59:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_lagoa_seca.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "1f9d1194fa967bd9d5a2171127649fa46bf00607"
+ }
+}

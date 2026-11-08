@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4208807",
+ "uf": "SC",
+ "municipio": "Jaguaruna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Bandeira_jaguaruna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Jaguaruna",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "df8021348df3fb985703f3489913559a914da2349e339f1e3857279e2b95d100",
+ "rendicoes": {
+  "png": {
+   "bytes": 33362,
+   "sha256": "7e42d1d081402b3aae8e524e13dd703512527822f86a569841a51757ff594df2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9302,
+   "sha256": "dca884c5a13ae14d42fcd2003c5c271dd0f533bc24f6133211de80c67ec50b29",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208807.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4208807.jpg",
+  "bytes": 5339,
+  "sha256": "df8021348df3fb985703f3489913559a914da2349e339f1e3857279e2b95d100"
+ },
+ "sha1_origem": "6a2ca0815435ee5c4ed797e4b5e0db5e9c2b053e",
+ "bytes_origem": 5339,
+ "capturado_em": "2026-11-08T06:54:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_jaguaruna.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "6a2ca0815435ee5c4ed797e4b5e0db5e9c2b053e"
+ }
+}

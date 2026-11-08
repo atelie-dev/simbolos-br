@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1302603",
+ "uf": "AM",
+ "municipio": "Manaus",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bras%C3%A3o_de_Manaus.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Manaus",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "37772621e4de05eda093b68ce765129afc23898d01ea5c9936d3975bca34e016",
+ "rendicoes": {
+  "png": {
+   "bytes": 174986,
+   "sha256": "3a12fb69bba09519a295c1aeac5cf4a8f0b6ff8a1d09c3fae0cb44cb29973b3c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 50001,
+   "sha256": "3985fee10643f6fb3fcb7d4dab6aa8d3d85a5d892dea0a4a835cd10123c35526",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 431402,
+   "sha256": "37772621e4de05eda093b68ce765129afc23898d01ea5c9936d3975bca34e016"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1302603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1302603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1302603.jpg"
+ },
+ "sha1_origem": "e8ed1b7f66655d1b5af5acbc30e91463f4cfdc6f",
+ "bytes_origem": 431402,
+ "capturado_em": "2026-11-08T02:31:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Manaus.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:06Z",
+  "estado": "igual",
+  "sha1_commons": "e8ed1b7f66655d1b5af5acbc30e91463f4cfdc6f"
+ }
+}

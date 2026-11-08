@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5005202",
+ "uf": "MS",
+ "municipio": "Ladário",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bandeira_de_Lad%C3%A1rio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9a1ca27c8f3e64564d16c915fd7784e0e54eb3d7c40b5232ccf179a752e5d0b4",
+ "rendicoes": {
+  "png": {
+   "bytes": 68515,
+   "sha256": "4ff36b3721e17bdfa75296ce123c474c2e59208a2c784737d141c3d876655556",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19875,
+   "sha256": "00977365f56a3ae1aaabee1e2db4415c4b2f9f119394de523d6e54f01b3b99b3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5005202.jpg",
+  "bytes": 17611,
+  "sha256": "9a1ca27c8f3e64564d16c915fd7784e0e54eb3d7c40b5232ccf179a752e5d0b4"
+ },
+ "sha1_origem": "6f0d6d0fc98bc9be8385156693a1faa4ed55b494",
+ "bytes_origem": 17611,
+ "capturado_em": "2026-11-08T07:13:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ladário.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "6f0d6d0fc98bc9be8385156693a1faa4ed55b494"
+ }
+}

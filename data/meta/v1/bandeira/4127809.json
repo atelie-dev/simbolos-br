@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4127809",
+ "uf": "PR",
+ "municipio": "Tomazina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bandeira_Tomazina.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "99a3a87e4b8f9f702ad569eda681d7b4ffdac5c09b266fb579574f7f99fe0fe3",
+ "rendicoes": {
+  "png": {
+   "bytes": 14821,
+   "sha256": "ee7fd6b2a9fa7393633598f3ab67610a9fada6eb8edd9f82b0ee2279757c3561",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10758,
+   "sha256": "2bac6df6e4e2fa8ed5ece113f6628d4612428645cfad47f35abeaff62a4a0e19",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4127809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4127809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4127809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4127809.png",
+  "bytes": 5099,
+  "sha256": "99a3a87e4b8f9f702ad569eda681d7b4ffdac5c09b266fb579574f7f99fe0fe3"
+ },
+ "sha1_origem": "b430ba66a62b1837cb8e4a9423f9530225407c96",
+ "bytes_origem": 5099,
+ "capturado_em": "2026-11-08T06:50:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Tomazina.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "b430ba66a62b1837cb8e4a9423f9530225407c96"
+ }
+}

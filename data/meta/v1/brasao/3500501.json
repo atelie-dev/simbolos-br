@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3500501",
+ "uf": "SP",
+ "municipio": "Águas de Lindóia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/%C3%81guas_de_Lind%C3%B3ia.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "421687834939a7691eba7af63f6747c62facacaf5c7832018f716d508cfcf373",
+ "rendicoes": {
+  "png": {
+   "bytes": 425910,
+   "sha256": "fdd225423431a564ae682295d4e07d2367a3703a462d19c06ae8e9ab3aa295c4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 73861,
+   "sha256": "6af8d89008043f2cd871f51c115fd4090a2eb642851b591a901d1fec394e6563",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3500501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3500501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3500501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3500501.png",
+  "bytes": 459701,
+  "sha256": "421687834939a7691eba7af63f6747c62facacaf5c7832018f716d508cfcf373"
+ },
+ "sha1_origem": "be6ea57e47026b593706c11f14fd670e02976307",
+ "bytes_origem": 459701,
+ "capturado_em": "2026-11-08T06:22:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Águas_de_Lindóia.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "be6ea57e47026b593706c11f14fd670e02976307"
+ }
+}

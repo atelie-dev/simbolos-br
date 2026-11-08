@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2700201",
+ "uf": "AL",
+ "municipio": "Anadia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandeira_Anadia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c9968f133e9a31dbb7cba54bb2e772f701532323d19f67b637c55fcaaa00c7bf",
+ "rendicoes": {
+  "png": {
+   "bytes": 20399,
+   "sha256": "363f873d126b13e1fb5a681adbe73e3355b4984f82f7cf322e973a8e9fc7f25c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11101,
+   "sha256": "2260c589750e0bcfae094f0486f35f038a9ccb45ff97bd383a30e49d3f05017a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2700201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2700201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2700201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2700201.png",
+  "bytes": 7487,
+  "sha256": "c9968f133e9a31dbb7cba54bb2e772f701532323d19f67b637c55fcaaa00c7bf"
+ },
+ "sha1_origem": "5931449ff90e90dc0691034d7c6c47c3a4ec0328",
+ "bytes_origem": 7487,
+ "capturado_em": "2026-11-08T05:47:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Anadia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "5931449ff90e90dc0691034d7c6c47c3a4ec0328"
+ }
+}

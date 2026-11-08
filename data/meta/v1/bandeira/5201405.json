@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5201405",
+ "uf": "GO",
+ "municipio": "Aparecida de Goiânia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bandeira_de_Aparecida_de_Goi%C3%A2nia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Junior Villela",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cda1e168805cad849c7fad31187552f7f6eaf849976a20d757cbe1c6ab50c0a3",
+ "rendicoes": {
+  "png": {
+   "bytes": 56125,
+   "sha256": "cb740513697bde80cd897b87cd33acf9539721ff0ac64cacc8c1a319d857facf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18697,
+   "sha256": "cef3ca0f8d552f331f25cdecd071d4963e9578020382a0e2cd5d156167bb02b9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5201405.jpg",
+  "bytes": 17416,
+  "sha256": "cda1e168805cad849c7fad31187552f7f6eaf849976a20d757cbe1c6ab50c0a3"
+ },
+ "sha1_origem": "dc54e78788483248ebb1ad49ac6e5f031d9ca4d7",
+ "bytes_origem": 17416,
+ "capturado_em": "2026-11-08T07:16:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Aparecida_de_Goiânia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "dc54e78788483248ebb1ad49ac6e5f031d9ca4d7"
+ }
+}

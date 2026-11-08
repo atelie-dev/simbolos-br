@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3540101",
+ "uf": "SP",
+ "municipio": "Pongaí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bras%C3%A3o_Ponga%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2f344fce52a9ff535fd91df82eefadd438595d00e8fed7504b401d5973e7439e",
+ "rendicoes": {
+  "png": {
+   "bytes": 425564,
+   "sha256": "e5c62cc3a1d0e7887fc164c8779e8cb6da9e09ea78b40154a4566ba851a498d5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 73478,
+   "sha256": "6ad396471510a9754f020c22d8e92301148c015a618f6aa181b0ba6a9878cfad",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3540101.jpg",
+  "bytes": 61252,
+  "sha256": "2f344fce52a9ff535fd91df82eefadd438595d00e8fed7504b401d5973e7439e"
+ },
+ "sha1_origem": "86eb4e4ff2de25d6261906ac8d2fc234728833d6",
+ "bytes_origem": 61252,
+ "capturado_em": "2026-11-08T06:35:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Pongaí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:53Z",
+  "estado": "igual",
+  "sha1_commons": "86eb4e4ff2de25d6261906ac8d2fc234728833d6"
+ }
+}

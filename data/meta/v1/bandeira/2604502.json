@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2604502",
+ "uf": "PE",
+ "municipio": "Chã Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_de_ch%C3%A3_grande.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a1718f8696fd57a639f8513d312b135751743c955a24e0214008f194ac947481",
+ "rendicoes": {
+  "png": {
+   "bytes": 92210,
+   "sha256": "2daf0be5ad0a7231276bfcfbd2b27ec496881ec719fa1fc785b9e1b31289dcf4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27004,
+   "sha256": "4f0293f17ff12f7e3ae3ad82c84e1a10f35cddb968b90437ca23089fbe5b465b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2604502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2604502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2604502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2604502.jpg",
+  "bytes": 55172,
+  "sha256": "a1718f8696fd57a639f8513d312b135751743c955a24e0214008f194ac947481"
+ },
+ "sha1_origem": "a6822b3bc245be4892640b4fd6d88c9966dac794",
+ "bytes_origem": 55172,
+ "capturado_em": "2026-11-08T05:44:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_chã_grande.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "a6822b3bc245be4892640b4fd6d88c9966dac794"
+ }
+}

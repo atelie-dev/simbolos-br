@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4311502",
+ "uf": "RS",
+ "municipio": "Lavras do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bandeiralavras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Lavras do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1d0b5e08a2a3aec84fbef3d83f1ac5c5148eb666b4aef624dfa8a25828c4f06a",
+ "rendicoes": {
+  "png": {
+   "bytes": 35739,
+   "sha256": "eb49fde99d86026adb4e3f44f37e6e609d4e0ef85e931feaa775eb35935ab1d0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9701,
+   "sha256": "494b7ed20f57e8975b440ab56254e4629f345ec485972de94922e16282307f36",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4311502.jpg",
+  "bytes": 7874,
+  "sha256": "1d0b5e08a2a3aec84fbef3d83f1ac5c5148eb666b4aef624dfa8a25828c4f06a"
+ },
+ "sha1_origem": "260bd008f8b24f418e5e4210321040da8b82875f",
+ "bytes_origem": 7874,
+ "capturado_em": "2026-11-08T07:05:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiralavras.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "260bd008f8b24f418e5e4210321040da8b82875f"
+ }
+}

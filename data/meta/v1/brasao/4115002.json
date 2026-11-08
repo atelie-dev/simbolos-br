@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4115002",
+ "uf": "PR",
+ "municipio": "Marilena",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/84/BrasaoMarilena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Eltongongora",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7c519cd0d236666a263f187ab384b199a8e5b2eb228f02aaeb06079f5410dc20",
+ "rendicoes": {
+  "png": {
+   "bytes": 68728,
+   "sha256": "3f3fd67e54b1df29e0eaa0b3294f4d37b65983a8970da9fa751a7dd10162aa0b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14492,
+   "sha256": "a0bdbc3f1d9c4167fa98917b6a41e00193aca08299563ccc95e395cf5bd6329c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4115002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4115002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4115002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4115002.jpg",
+  "bytes": 62547,
+  "sha256": "7c519cd0d236666a263f187ab384b199a8e5b2eb228f02aaeb06079f5410dc20"
+ },
+ "sha1_origem": "ed6de14972313bc4c69cab015f35ade6a7366509",
+ "bytes_origem": 62547,
+ "capturado_em": "2026-11-08T06:46:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoMarilena.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "ed6de14972313bc4c69cab015f35ade6a7366509"
+ }
+}

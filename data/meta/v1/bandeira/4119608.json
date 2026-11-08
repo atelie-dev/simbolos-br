@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4119608",
+ "uf": "PR",
+ "municipio": "Pitanga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bandeira_de_Pitanga_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "54ccce08608087a743679b0937fdbb6087fce1312db53c7d4416f973a7fd0506",
+ "rendicoes": {
+  "png": {
+   "bytes": 23679,
+   "sha256": "d4257f234835a848a81cbe4fca9d49ffbb4851c52497868143d01e212fbce2fe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18680,
+   "sha256": "5040f816bcb55b55d6b12b62f5dbb73a03c3f051815a8ca3f83699159e985cc6",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 40669,
+   "sha256": "54ccce08608087a743679b0937fdbb6087fce1312db53c7d4416f973a7fd0506"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119608.jpg"
+ },
+ "sha1_origem": "308e692a8134d3dea2c6bbdf940cf1591443fb0a",
+ "bytes_origem": 40669,
+ "capturado_em": "2026-11-08T04:30:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pitanga_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "308e692a8134d3dea2c6bbdf940cf1591443fb0a"
+ }
+}

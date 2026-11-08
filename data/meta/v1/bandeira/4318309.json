@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4318309",
+ "uf": "RS",
+ "municipio": "São Gabriel",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bandeira_de_S%C3%A3o_Gabriel_%28Rio_Grande_do_Sul%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Giovaniperlin",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "04f6b433d76e3d9fc8c425dadba7c442a666e1e90c53235516e6819db4ba0fcf",
+ "rendicoes": {
+  "png": {
+   "bytes": 32771,
+   "sha256": "009975a88fa72f42e9243ff7c236bccee3106c5e52a359560f2a37eb8e8dbc04",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11074,
+   "sha256": "f05943df8b51224d3e59893e44cf9b4c2882677e958ab9cb91aa644f8a244a0e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4318309.jpg",
+  "bytes": 8591,
+  "sha256": "04f6b433d76e3d9fc8c425dadba7c442a666e1e90c53235516e6819db4ba0fcf"
+ },
+ "sha1_origem": "919b66bcb7506b8ce0e19999056d763a32829773",
+ "bytes_origem": 8591,
+ "capturado_em": "2026-11-08T07:09:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Gabriel_(Rio_Grande_do_Sul).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "919b66bcb7506b8ce0e19999056d763a32829773"
+ }
+}

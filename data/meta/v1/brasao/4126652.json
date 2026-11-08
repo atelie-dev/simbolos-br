@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4126652",
+ "uf": "PR",
+ "municipio": "Sulina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Braz%C3%A3o_Sulina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "afc7b10c3b77cfa3bf1eeeec6eab3f2267d829b3f44ea904bfd2ac8da406401f",
+ "rendicoes": {
+  "png": {
+   "bytes": 154060,
+   "sha256": "2c8adbe14a89a3c5716f9f2680523324f97965f6f7b6bbea03a5eb5efe0d7f5d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32356,
+   "sha256": "63bc584e0cdfd0cd137fdd36b1225d3bab53be82d7b265297c4a86f711460445",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126652.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126652.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126652.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4126652.jpg",
+  "bytes": 137024,
+  "sha256": "afc7b10c3b77cfa3bf1eeeec6eab3f2267d829b3f44ea904bfd2ac8da406401f"
+ },
+ "sha1_origem": "9a8485e7e59917d45226705ed52f9ff944ec1e73",
+ "bytes_origem": 137024,
+ "capturado_em": "2026-11-08T06:50:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brazão_Sulina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "9a8485e7e59917d45226705ed52f9ff944ec1e73"
+ }
+}

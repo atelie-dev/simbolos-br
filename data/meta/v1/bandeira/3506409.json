@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3506409",
+ "uf": "SP",
+ "municipio": "Bilac",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bandeira_de_Bilac.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "595c00eecf191f5d19d5718e57f657e6a57821b3bc1b689c8a6ca34b74299985",
+ "rendicoes": {
+  "png": {
+   "bytes": 215061,
+   "sha256": "70394f6d329c2001984f26f569d5ffadea82f58c26401d935067b602e2e2db05",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34324,
+   "sha256": "c8057d58809ee8d47d94ceaf4188816e6e17bbadd4a574558d394a6b6c31adc5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506409.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3506409.jpg",
+  "bytes": 91167,
+  "sha256": "595c00eecf191f5d19d5718e57f657e6a57821b3bc1b689c8a6ca34b74299985"
+ },
+ "sha1_origem": "4c10dc4398a7d09c20caf47e588beaa501dea66d",
+ "bytes_origem": 91167,
+ "capturado_em": "2026-11-08T06:24:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bilac.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "4c10dc4398a7d09c20caf47e588beaa501dea66d"
+ }
+}

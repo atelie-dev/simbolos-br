@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2412500",
+ "uf": "RN",
+ "municipio": "São Miguel",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bras%C3%A3o_de_S%C3%A3o_Miguel_%28RN%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2dff4f89e6739eed78ba69f21b06e6636de065523c555efb66eeb174833244ef",
+ "rendicoes": {
+  "png": {
+   "bytes": 96313,
+   "sha256": "366e03cc4d671330dcf5c7e6ceff8f591f8c2bc02a8b2c0e2ee3660a586438f5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20411,
+   "sha256": "a650cd3db45c04637883d48fd37d711434382822814c35bd8b7756f3ea80a1d5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2412500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2412500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2412500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2412500.png",
+  "bytes": 117546,
+  "sha256": "2dff4f89e6739eed78ba69f21b06e6636de065523c555efb66eeb174833244ef"
+ },
+ "sha1_origem": "50fcf9727d5f46783a2a7bc5fbd6c207a9c2853d",
+ "bytes_origem": 117546,
+ "capturado_em": "2026-11-08T05:38:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_Miguel_(RN).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:13Z",
+  "estado": "igual",
+  "sha1_commons": "50fcf9727d5f46783a2a7bc5fbd6c207a9c2853d"
+ }
+}

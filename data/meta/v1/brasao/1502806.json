@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1502806",
+ "uf": "PA",
+ "municipio": "Curralinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Brasao_kurralinho.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Curralinho.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0328bbb3afb9c95aa0bce37b0ba5249d91df8c1f8b6e91434cd652d52aa1a88c",
+ "rendicoes": {
+  "png": {
+   "bytes": 27571,
+   "sha256": "a11070b374243ad8a0355f760fb4177c7d31f563135f2c760ef7a5f259af9e86",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6800,
+   "sha256": "b0de039d8efcba9a9367c5f6104990dad735ad24a835f242eec61b016ba0d4ac",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1502806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1502806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1502806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1502806.jpg",
+  "bytes": 4302,
+  "sha256": "0328bbb3afb9c95aa0bce37b0ba5249d91df8c1f8b6e91434cd652d52aa1a88c"
+ },
+ "sha1_origem": "b2056d04ddc9149e7e7dd6abd3bee7cac10c62d4",
+ "bytes_origem": 4302,
+ "capturado_em": "2026-11-08T05:24:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_kurralinho.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "b2056d04ddc9149e7e7dd6abd3bee7cac10c62d4"
+ }
+}

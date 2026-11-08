@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4319109",
+ "uf": "RS",
+ "municipio": "São Martinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bras%C3%A3o_de_S%C3%A3o_Martinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Martinho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "abb7eaa87509ca5335de56ba46b594b694c79046fa160ee933e4c5b1a1e71c9a",
+ "rendicoes": {
+  "png": {
+   "bytes": 290830,
+   "sha256": "3e3043982945ba35df3d42de191e40b415ac81af2e150b982650f23b8a46d386",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 51880,
+   "sha256": "73b598b23643fc94ed7007a20afa712d47ff12d4153a3288f0553cd5be9f8d46",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4319109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4319109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4319109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4319109.jpg",
+  "bytes": 81011,
+  "sha256": "abb7eaa87509ca5335de56ba46b594b694c79046fa160ee933e4c5b1a1e71c9a"
+ },
+ "sha1_origem": "fb2c1bdef51ccdfd892649f3056d014e1f597a81",
+ "bytes_origem": 81011,
+ "capturado_em": "2026-11-08T07:09:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_Martinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:13Z",
+  "estado": "igual",
+  "sha1_commons": "fb2c1bdef51ccdfd892649f3056d014e1f597a81"
+ }
+}

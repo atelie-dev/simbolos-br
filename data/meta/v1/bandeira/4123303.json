@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4123303",
+ "uf": "PR",
+ "municipio": "Santa Cruz de Monte Castelo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bandeira_Santa_Cruz_de_Monte_Castelo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b492762c9dbb6071796986883ed1496f9754002bbf35d148929427d79d22262f",
+ "rendicoes": {
+  "png": {
+   "bytes": 143117,
+   "sha256": "cdd44ef7312db055e0594586ee046abaebb338abe577035630e49bf9e37de9da",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27808,
+   "sha256": "700de2f375c0a38bbfdd2b4958bd03072d6e6b35720ccb1fc2b0ae1eebb94bfe",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4123303.jpg",
+  "bytes": 25911,
+  "sha256": "b492762c9dbb6071796986883ed1496f9754002bbf35d148929427d79d22262f"
+ },
+ "sha1_origem": "62e2200df36f0f94ddfbb79f50c5cc7f75336d17",
+ "bytes_origem": 25911,
+ "capturado_em": "2026-11-08T06:49:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Santa_Cruz_de_Monte_Castelo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "62e2200df36f0f94ddfbb79f50c5cc7f75336d17"
+ }
+}

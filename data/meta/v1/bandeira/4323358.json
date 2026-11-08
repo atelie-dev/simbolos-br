@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4323358",
+ "uf": "RS",
+ "municipio": "Vila Lângaro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Vila_L%C3%A2ngarorsbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Vila Lângaro",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1f01f553683974ec01e343a886a99081fc6607d1e6eefb5b3952c942e815f7d6",
+ "rendicoes": {
+  "png": {
+   "bytes": 9625,
+   "sha256": "fac3cb07beff8330b8384bd76e60363a1ff0b7c009e8468dfd54016d04c1b3ab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8025,
+   "sha256": "9a6843b941b0c6f78830499c0b531b4e786d5ad337f73ca57bfc236e2641234d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323358.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323358.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323358.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4323358.png",
+  "bytes": 7503,
+  "sha256": "1f01f553683974ec01e343a886a99081fc6607d1e6eefb5b3952c942e815f7d6"
+ },
+ "sha1_origem": "a07b5584184323f7ce034723be3f2da8828c04f1",
+ "bytes_origem": 7503,
+ "capturado_em": "2026-11-08T07:11:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Vila_Lângarorsbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "a07b5584184323f7ce034723be3f2da8828c04f1"
+ }
+}

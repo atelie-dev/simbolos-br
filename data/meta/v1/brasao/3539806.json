@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3539806",
+ "uf": "SP",
+ "municipio": "Poá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Po%C3%A1.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0b25b83a4f7e6f8763b6b3381c67dacdad5be7a2eb13b4938d23f2cc7b6cb37f",
+ "rendicoes": {
+  "png": {
+   "bytes": 177099,
+   "sha256": "458e22a84ecb6a05d236d65031a7d0b0f45d23e23a86811ba27f256d29170da5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 68368,
+   "sha256": "b858573f328116229c0af7c2bd980da29eaf99c97acdba6ca54f34bd8789df8d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3539806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3539806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3539806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3539806.png",
+  "bytes": 121221,
+  "sha256": "0b25b83a4f7e6f8763b6b3381c67dacdad5be7a2eb13b4938d23f2cc7b6cb37f"
+ },
+ "sha1_origem": "f613809796ea826f0d349301a2215f65997100dc",
+ "bytes_origem": 121221,
+ "capturado_em": "2026-11-08T06:35:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Poá.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "f613809796ea826f0d349301a2215f65997100dc"
+ }
+}

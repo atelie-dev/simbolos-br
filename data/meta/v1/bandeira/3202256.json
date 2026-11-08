@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3202256",
+ "uf": "ES",
+ "municipio": "Governador Lindenberg",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bandeira_Governador_Lindenberg.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "bdc48bf8cc2f03cf5b26e62e63ed3a599b247f4b4afb15605622bca38c628e1e",
+ "rendicoes": {
+  "png": {
+   "bytes": 32290,
+   "sha256": "b3d0014d12cfa511f08b878d5c38fbe6c99189275fdabd8e053b2d422d212518",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14078,
+   "sha256": "7bab8bc746f1566608dffd5df8a76019ec4edc081dc336db1c9f0bf6414b351d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 3021,
+   "sha256": "bdc48bf8cc2f03cf5b26e62e63ed3a599b247f4b4afb15605622bca38c628e1e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202256.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202256.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202256.jpg"
+ },
+ "sha1_origem": "42a5e492763be4059b079735dd60579a7de14958",
+ "bytes_origem": 3021,
+ "capturado_em": "2026-11-08T03:51:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Governador_Lindenberg.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "42a5e492763be4059b079735dd60579a7de14958"
+ }
+}

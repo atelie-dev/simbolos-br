@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3129608",
+ "uf": "MG",
+ "municipio": "Ibiaí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ibia%C3%ADmgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ibiaí",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "564aa5eda9d1cb76bd16ae17e74d78b623871ef4b3b06f5bc09cdf6bd6721232",
+ "rendicoes": {
+  "png": {
+   "bytes": 217757,
+   "sha256": "3b2e924de13557523e38b45ac1622ac69604e83a31d788a2f4de96eed4c3fb6b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33970,
+   "sha256": "83aa24ece2612b00f7c8ca5e7d7d674e438e8fd1b7b5680bd8882bb9d2715765",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3129608.jpg",
+  "bytes": 42189,
+  "sha256": "564aa5eda9d1cb76bd16ae17e74d78b623871ef4b3b06f5bc09cdf6bd6721232"
+ },
+ "sha1_origem": "af65547cb3e49454332817e0bf40de21cdfa36e6",
+ "bytes_origem": 42189,
+ "capturado_em": "2026-11-08T06:08:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ibiaímgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "af65547cb3e49454332817e0bf40de21cdfa36e6"
+ }
+}

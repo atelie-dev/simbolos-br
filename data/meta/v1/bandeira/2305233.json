@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2305233",
+ "uf": "CE",
+ "municipio": "Horizonte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bandeira_de_Horizonte_%28Cear%C3%A1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Horizonte",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8419e48d7731c2390d0b64be3ea341c255ffe92d10077571c865d4a11725e816",
+ "rendicoes": {
+  "png": {
+   "bytes": 51431,
+   "sha256": "f1b99b95c9c7e8076a0bc07b7c2010d7000ca0ec43f64bf36f4fc861db29acc8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12377,
+   "sha256": "7536e61d2a79bd067502f094ca8a84f2f0e2e840458b9c0f103ac80324828bba",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2305233.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2305233.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2305233.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2305233.jpg",
+  "bytes": 27021,
+  "sha256": "8419e48d7731c2390d0b64be3ea341c255ffe92d10077571c865d4a11725e816"
+ },
+ "sha1_origem": "f9666acbba5e19ef65f5ed3bb26f8c438afd5866",
+ "bytes_origem": 27021,
+ "capturado_em": "2026-11-08T05:33:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Horizonte_(Ceará).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "f9666acbba5e19ef65f5ed3bb26f8c438afd5866"
+ }
+}

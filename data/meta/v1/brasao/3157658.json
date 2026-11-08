@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3157658",
+ "uf": "MG",
+ "municipio": "Santa Helena de Minas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Brasaostahelenamg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santa Helena de Minas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e149a66cdd97232b3e57da5a55d392fb9cf289486d76dedd4df510e103c9b43c",
+ "rendicoes": {
+  "png": {
+   "bytes": 143749,
+   "sha256": "bec78691cf0b85a1e672d865b61d838fdea905b77e781b355dbaf15b9045e7bc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21977,
+   "sha256": "6b847090b70aa7346fb927d15e9ebcd67f7eb77a878a0d520a7281a68607306d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3157658.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3157658.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3157658.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3157658.jpg",
+  "bytes": 21745,
+  "sha256": "e149a66cdd97232b3e57da5a55d392fb9cf289486d76dedd4df510e103c9b43c"
+ },
+ "sha1_origem": "05ecc4fafb354aefe4626640e0b83edba95db58b",
+ "bytes_origem": 21745,
+ "capturado_em": "2026-11-08T06:15:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaostahelenamg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "05ecc4fafb354aefe4626640e0b83edba95db58b"
+ }
+}

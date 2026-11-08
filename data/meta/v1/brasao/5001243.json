@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5001243",
+ "uf": "MS",
+ "municipio": "Aral Moreira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bras%C3%A3o_de_Aral_Moreira_-_MS.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "21b8810382b5a34503c498a931fa5b78dd1b4210dc2853488cdc8389ddc5cd74",
+ "rendicoes": {
+  "png": {
+   "bytes": 205529,
+   "sha256": "f06439f2a121b69f836414509303aa75c04db2746ea96677062ebd612f379791",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61091,
+   "sha256": "ce67d144ad4c233d665191c6896328134426686550dad4bc120c4b7c3ba0a8c5",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 544236,
+   "sha256": "21b8810382b5a34503c498a931fa5b78dd1b4210dc2853488cdc8389ddc5cd74"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5001243.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5001243.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5001243.jpg"
+ },
+ "sha1_origem": "607e3c2e318a35f97e24551c3421ad9a26befbc3",
+ "bytes_origem": 544236,
+ "capturado_em": "2026-11-08T05:03:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Aral_Moreira_-_MS.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "607e3c2e318a35f97e24551c3421ad9a26befbc3"
+ }
+}

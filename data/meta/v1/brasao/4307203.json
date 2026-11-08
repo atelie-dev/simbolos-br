@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4307203",
+ "uf": "RS",
+ "municipio": "Erval Grande",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bras%C3%A3o_Erval_Grande.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Erval Grande",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "daf7906f8b4a05da9518e6ee5ad8112062d34d8461954de6ba78778814389327",
+ "rendicoes": {
+  "png": {
+   "bytes": 33787,
+   "sha256": "bd302d8159eeb86fd85264c33ca86a577ebe14996d60359814d2cc92519dd376",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9681,
+   "sha256": "dfdf20bbad70ff4a81bf526f4f11b6e08df1e6476b65f23c88f57de03937e7ad",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4307203.jpg",
+  "bytes": 45831,
+  "sha256": "daf7906f8b4a05da9518e6ee5ad8112062d34d8461954de6ba78778814389327"
+ },
+ "sha1_origem": "34ac8778c7d4516c7e45aeb438d6bca93e497c5d",
+ "bytes_origem": 45831,
+ "capturado_em": "2026-11-08T07:02:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Erval_Grande.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "34ac8778c7d4516c7e45aeb438d6bca93e497c5d"
+ }
+}

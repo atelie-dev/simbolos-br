@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5213400",
+ "uf": "GO",
+ "municipio": "Moiporá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bandeira_Moipor%C3%A1-GO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Moiporá, Goiás.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fc16b113f119d3720bec831a97bf13b3ded37b5882659664214ee375184e047d",
+ "rendicoes": {
+  "png": {
+   "bytes": 21975,
+   "sha256": "d5fea1c7705c562cd2978e59556551df73a218f7939d967f6633e80b9e175ac3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12055,
+   "sha256": "282448934437f112b403c5777dd9fe7eb1a4b90229a5f9267b5fd0de08c34d5e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5213400.png",
+  "bytes": 54865,
+  "sha256": "fc16b113f119d3720bec831a97bf13b3ded37b5882659664214ee375184e047d"
+ },
+ "sha1_origem": "683522a18b131bb4b985782595633bc8331ac331",
+ "bytes_origem": 54865,
+ "capturado_em": "2026-11-08T07:19:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Moiporá-GO.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "683522a18b131bb4b985782595633bc8331ac331"
+ }
+}

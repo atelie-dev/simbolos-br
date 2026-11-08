@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3100203",
+ "uf": "MG",
+ "municipio": "Abaeté",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Brasaoabaete.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Abaeté",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c5436e84ed0942a2267fcedc33167f2bfb5d2d800b8502bc18ec25b489877014",
+ "rendicoes": {
+  "png": {
+   "bytes": 27462,
+   "sha256": "2925b12e0a43e4deabad9c925350c4282955097a3f65264aee196c0a33a4a80f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11253,
+   "sha256": "c679d272d8b9d7ca088b0dcc534a2d12d617c8ecbcfeb2fe40a21adba38bb4d2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3100203.png",
+  "bytes": 17942,
+  "sha256": "c5436e84ed0942a2267fcedc33167f2bfb5d2d800b8502bc18ec25b489877014"
+ },
+ "sha1_origem": "32cc30cc8eb1291013136cebe34eef7b39b83450",
+ "bytes_origem": 17942,
+ "capturado_em": "2026-11-08T05:58:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoabaete.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "32cc30cc8eb1291013136cebe34eef7b39b83450"
+ }
+}

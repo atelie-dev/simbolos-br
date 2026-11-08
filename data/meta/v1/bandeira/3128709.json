@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3128709",
+ "uf": "MG",
+ "municipio": "Guaxupé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Brasaoguaxupe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Guaxupé",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0bf50190d98f68b6456ea8d472568ddad4528255e5124c9ae4d3cbccc4e3a690",
+ "rendicoes": {
+  "png": {
+   "bytes": 26094,
+   "sha256": "d67d9f18d87957f9bdf2801f771bded79f0003162ad2a28a6df12f9feb0403bd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6750,
+   "sha256": "24c10e5df5abcbae7f15a6cf1f700653cd67cd292dfa1a94009324e5dc51c25c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128709.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3128709.jpg",
+  "bytes": 4051,
+  "sha256": "0bf50190d98f68b6456ea8d472568ddad4528255e5124c9ae4d3cbccc4e3a690"
+ },
+ "sha1_origem": "211cd5d2b207b41c66c9609deec80d27e7cad837",
+ "bytes_origem": 4051,
+ "capturado_em": "2026-11-08T06:08:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoguaxupe.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "211cd5d2b207b41c66c9609deec80d27e7cad837"
+ }
+}

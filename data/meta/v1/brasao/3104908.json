@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3104908",
+ "uf": "MG",
+ "municipio": "Baependi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/BrasaoBaependi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Leandro Pereira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "93349bb988d853644c23ce853cd8684370174b93ff565ca3b25a8d24c7e9e4e2",
+ "rendicoes": {
+  "png": {
+   "bytes": 63732,
+   "sha256": "17dca6cd80ce89137851eebb4c4abf561617fafe780b75739044c042a7df505c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14826,
+   "sha256": "37606bd65e24aba9a4cd45cbda3c25ab492b0c18c78d7ef040fd42fbaf01a7f6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3104908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3104908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3104908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3104908.jpg",
+  "bytes": 17238,
+  "sha256": "93349bb988d853644c23ce853cd8684370174b93ff565ca3b25a8d24c7e9e4e2"
+ },
+ "sha1_origem": "19a7066267876ec4260aa64fe81d95373850bc16",
+ "bytes_origem": 17238,
+ "capturado_em": "2026-11-08T06:00:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoBaependi.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "19a7066267876ec4260aa64fe81d95373850bc16"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2400109",
+ "uf": "RN",
+ "municipio": "Acari",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bras%C3%A3o_Acari.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown / Desconhecido",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8bef0a265cf8b1d3bd4667837f05f5eb58beac27904a92dfeee5b52d75d57443",
+ "rendicoes": {
+  "png": {
+   "bytes": 24591,
+   "sha256": "3c7a9b1821aedd3c09683e6a6944658bf9cf034bdfe88263bc9bf225204eab61",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8095,
+   "sha256": "ddf3f0686a215bd5d694d7fa847a661b52a244f1ce2a197ca57a91f531c938fd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2400109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2400109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2400109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2400109.png",
+  "bytes": 9898,
+  "sha256": "8bef0a265cf8b1d3bd4667837f05f5eb58beac27904a92dfeee5b52d75d57443"
+ },
+ "sha1_origem": "cba02b9ef654d3f3a2b5959fd012257280480bd6",
+ "bytes_origem": 9898,
+ "capturado_em": "2026-11-08T05:35:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Acari.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "cba02b9ef654d3f3a2b5959fd012257280480bd6"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3109105",
+ "uf": "MG",
+ "municipio": "Bueno Brandão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bandeira_Bueno_Brand%C3%A3o_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Bueneo Brandão_MG",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bbe67a55399a5452b497e3b3243e75dbea9f70c365ac623780b80dde5a45a347",
+ "rendicoes": {
+  "png": {
+   "bytes": 10048,
+   "sha256": "7f62a4c8b354bb43c5c7cb51aa24bf470d2f22b6be3605bd6e7f46f1ca6d85dd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6433,
+   "sha256": "04dcac9f2054d744a7223e821e42da3afb035bc5e04fb0171f14f45b58178d2b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109105.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3109105.png",
+  "bytes": 4187,
+  "sha256": "bbe67a55399a5452b497e3b3243e75dbea9f70c365ac623780b80dde5a45a347"
+ },
+ "sha1_origem": "23da10a7e3bf07198cdd5fab3e0be84690c0701d",
+ "bytes_origem": 4187,
+ "capturado_em": "2026-11-08T06:01:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Bueno_Brandão_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "23da10a7e3bf07198cdd5fab3e0be84690c0701d"
+ }
+}

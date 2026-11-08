@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3148707",
+ "uf": "MG",
+ "municipio": "Pedra Azul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandeira_Pedra_Azul.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "88b2242c2e47ad0a800aae86dc04e97310e9f3063190efe8e3462ba6df809ace",
+ "rendicoes": {
+  "png": {
+   "bytes": 44153,
+   "sha256": "944764e4c1e319867cfc009d63e6a6742f1d582a418f5ed78c74afd5c9b0d04c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17568,
+   "sha256": "03675dc900122d0c165f7b5ce8611d72f35742e4c925c5d5bb9ca24fdf8fd920",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3148707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3148707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3148707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3148707.png",
+  "bytes": 153973,
+  "sha256": "88b2242c2e47ad0a800aae86dc04e97310e9f3063190efe8e3462ba6df809ace"
+ },
+ "sha1_origem": "fdd6fc30f163c6186cdfac30d6f69ae16c5dc85d",
+ "bytes_origem": 153973,
+ "capturado_em": "2026-11-08T06:13:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Pedra_Azul.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "fdd6fc30f163c6186cdfac30d6f69ae16c5dc85d"
+ }
+}

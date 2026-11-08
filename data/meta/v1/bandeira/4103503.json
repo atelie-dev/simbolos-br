@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4103503",
+ "uf": "PR",
+ "municipio": "Califórnia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bandeira_de_Calif%C3%B3rnia%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Califórnia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "214f19d988570b7b88a714f1959a91e1c6679b52435c10c374e95391b7a99a10",
+ "rendicoes": {
+  "png": {
+   "bytes": 49183,
+   "sha256": "789a20b31d1b6110fcb0cad167581b5047227e4ebad051f6fbab9dbe12baa7f9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15316,
+   "sha256": "738b356d69f6bd8205fe2fd8e118c44976ff057fce404730e269491f6822cccc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4103503.jpg",
+  "bytes": 18643,
+  "sha256": "214f19d988570b7b88a714f1959a91e1c6679b52435c10c374e95391b7a99a10"
+ },
+ "sha1_origem": "a8544e08dc00523cbdc7ef6059844b52cc088674",
+ "bytes_origem": 18643,
+ "capturado_em": "2026-11-08T06:42:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Califórnia,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "a8544e08dc00523cbdc7ef6059844b52cc088674"
+ }
+}

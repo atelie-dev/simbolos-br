@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5103502",
+ "uf": "MT",
+ "municipio": "Diamantino",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Brasao_Diamantino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "http://www.diamantino.mt.gov.br",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2f5c847be794dc60458f73cae9708ed739bc3e943369f81472c0c70239998fe4",
+ "rendicoes": {
+  "png": {
+   "bytes": 135449,
+   "sha256": "371f73d8845d447daff76ac33e54e85f7393cd8f0c7e4d7e08b1617d5ef5bdf1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24894,
+   "sha256": "6a3b658db13b4ca96c2df55b85ee73ffc62220d9964e46df2a8f2ac6477fac77",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5103502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5103502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5103502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5103502.jpg",
+  "bytes": 30725,
+  "sha256": "2f5c847be794dc60458f73cae9708ed739bc3e943369f81472c0c70239998fe4"
+ },
+ "sha1_origem": "ca10131b983199001dfebb54b64bd95d32f236aa",
+ "bytes_origem": 30725,
+ "capturado_em": "2026-11-08T07:14:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Diamantino.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:32Z",
+  "estado": "igual",
+  "sha1_commons": "ca10131b983199001dfebb54b64bd95d32f236aa"
+ }
+}

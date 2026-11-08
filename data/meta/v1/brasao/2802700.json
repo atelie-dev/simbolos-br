@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2802700",
+ "uf": "SE",
+ "municipio": "Ilha das Flores",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Brasao_ilhadasflores.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal Ilha das Flores - SE",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "934fb4c8e59750e6f4ce039fc5498efad2b19e7fc0e2a120e514a3b2f602bd95",
+ "rendicoes": {
+  "png": {
+   "bytes": 97090,
+   "sha256": "46b2f8d60a783726959775510033458e7e9e292ef7aaf4da6aca2f121014adb1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33546,
+   "sha256": "bd7388db9e57068ecf23f239f7908aa2f4208c331d2417350e4c16e65611e29c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 70904,
+   "sha256": "934fb4c8e59750e6f4ce039fc5498efad2b19e7fc0e2a120e514a3b2f602bd95"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2802700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2802700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2802700.jpg"
+ },
+ "sha1_origem": "7304ef519b11442c296561e7070c62adb081a9d9",
+ "bytes_origem": 70904,
+ "capturado_em": "2026-11-08T03:12:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_ilhadasflores.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "7304ef519b11442c296561e7070c62adb081a9d9"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3123502",
+ "uf": "MG",
+ "municipio": "Douradoquara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Douradoquaramgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Douradoquara",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3cb3aaefdfeff1f7d38bcc147372172549960b19ab2cccbe29d686090026b36b",
+ "rendicoes": {
+  "png": {
+   "bytes": 23321,
+   "sha256": "de84c5d3dea53ea8e7f1bd33d3b1d465066b306b988f2c1d7b467964f865fc99",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10332,
+   "sha256": "85e2a5def5b024690bbfffcb5180eed0a150e9236901aa5c3da3df2a0ea3dbf7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3123502.png",
+  "bytes": 19353,
+  "sha256": "3cb3aaefdfeff1f7d38bcc147372172549960b19ab2cccbe29d686090026b36b"
+ },
+ "sha1_origem": "57217d2752e2af06acabaa999212629dbfc0794b",
+ "bytes_origem": 19353,
+ "capturado_em": "2026-11-08T06:06:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Douradoquaramgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "57217d2752e2af06acabaa999212629dbfc0794b"
+ }
+}

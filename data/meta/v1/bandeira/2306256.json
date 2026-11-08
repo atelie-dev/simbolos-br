@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2306256",
+ "uf": "CE",
+ "municipio": "Itaitinga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bandeira_de_Itaitinga%2C_CE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Márcio Moreira, Clistenes Uchôa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "63cb56da91deea18f9e3eb6cf803ce613ab3ff17866277742ad7df6193d0b359",
+ "rendicoes": {
+  "png": {
+   "bytes": 64931,
+   "sha256": "8463f1ba40ebdf17f62cc1b36a09e22176dcf48e864cfe8c3c7dfbb0a4ac43a3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17596,
+   "sha256": "72a248feb2b4e24275d476da3e5d31474f0df555684b4fa7984478235bcf9815",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2306256.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2306256.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2306256.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2306256.jpg",
+  "bytes": 19019,
+  "sha256": "63cb56da91deea18f9e3eb6cf803ce613ab3ff17866277742ad7df6193d0b359"
+ },
+ "sha1_origem": "eda809e29e08295e8e49c323a050370b9cb6da37",
+ "bytes_origem": 19019,
+ "capturado_em": "2026-11-08T05:33:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itaitinga,_CE.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "eda809e29e08295e8e49c323a050370b9cb6da37"
+ }
+}

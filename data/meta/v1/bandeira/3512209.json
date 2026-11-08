@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3512209",
+ "uf": "SP",
+ "municipio": "Conchal",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bandeiradeconchal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura do Município de Conchal - SP |Upload: Ademirazevedo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "29095ad7a7ebfe096cc5e49708b5716abea89cc19cf993f15357734d9078b334",
+ "rendicoes": {
+  "png": {
+   "bytes": 118978,
+   "sha256": "edc8a5b42dc95ddcae0444475d937b9f322cf42ed3ce3d02b035929d7056d984",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28618,
+   "sha256": "bf47bfd8841bfd40db188bc140308f652437b7f7b6e0f96220b6c71ddff93823",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3512209.jpg",
+  "bytes": 19197,
+  "sha256": "29095ad7a7ebfe096cc5e49708b5716abea89cc19cf993f15357734d9078b334"
+ },
+ "sha1_origem": "176d581a24b76f39982c8a331c146469aec58c79",
+ "bytes_origem": 19197,
+ "capturado_em": "2026-11-08T06:26:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiradeconchal.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "176d581a24b76f39982c8a331c146469aec58c79"
+ }
+}

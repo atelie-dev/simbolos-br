@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5206602",
+ "uf": "GO",
+ "municipio": "Cumari",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bandeira_de_Cumari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cumari",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b4453845b93f48c1871214e67cedd4cd7f9e0b2306699d97f552cb985b74fb59",
+ "rendicoes": {
+  "png": {
+   "bytes": 100982,
+   "sha256": "e6e52a48bc47266ed4e4edf04019eeb5142ee7a16dd15805b3ef0f26c41456fa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26728,
+   "sha256": "a9c4b94ebd563873105e92d1c57d3390eee2ab4d1b34ac4b1482bb9a59a24747",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5206602.jpg",
+  "bytes": 75873,
+  "sha256": "b4453845b93f48c1871214e67cedd4cd7f9e0b2306699d97f552cb985b74fb59"
+ },
+ "sha1_origem": "f75f95a66c100782d6d65c775dacc097a0c15dc0",
+ "bytes_origem": 75873,
+ "capturado_em": "2026-11-08T07:17:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cumari.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "f75f95a66c100782d6d65c775dacc097a0c15dc0"
+ }
+}

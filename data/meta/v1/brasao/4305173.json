@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305173",
+ "uf": "RS",
+ "municipio": "Cerro Grande do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Cerrogsbrasao.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Cerro Grande do Sul.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3c1d679d7a766e7ac42bdeb20229669436e0438d37bc56db8f85d988c855752c",
+ "rendicoes": {
+  "png": {
+   "bytes": 208784,
+   "sha256": "8512af469ae5d759426f730254212c443c56e86b0b5ada91216666def48fa3f0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42955,
+   "sha256": "527b466a5fa673882fcafecd59dbe7ad69ff1a65e57493ac01c4e5205ddec896",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305173.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305173.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305173.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4305173.jpg",
+  "bytes": 120577,
+  "sha256": "3c1d679d7a766e7ac42bdeb20229669436e0438d37bc56db8f85d988c855752c"
+ },
+ "sha1_origem": "2a203373a28f755397004801e95535967144af7f",
+ "bytes_origem": 120577,
+ "capturado_em": "2026-11-08T07:01:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cerrogsbrasao.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:22Z",
+  "estado": "igual",
+  "sha1_commons": "2a203373a28f755397004801e95535967144af7f"
+ }
+}

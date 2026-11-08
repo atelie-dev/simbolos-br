@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4215059",
+ "uf": "SC",
+ "municipio": "Rio Rufino",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bras%C3%A3o_de_Rio_Rufino%2C_SC.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Gui gerber",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0dd7464fb27b5d550bf34bae3b85142176d5385fc8f88119a1d309e687205957",
+ "rendicoes": {
+  "png": {
+   "bytes": 303380,
+   "sha256": "006a65809635b139e7e8645c636e12d73ef76e6d57a79319104f7cdbf9366652",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53312,
+   "sha256": "f573d97ac8be176312f8ed1bd39fd0066386dd68152e5980c934e0dbe9e72b4a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4215059.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4215059.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4215059.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4215059.png",
+  "bytes": 2798320,
+  "sha256": "0dd7464fb27b5d550bf34bae3b85142176d5385fc8f88119a1d309e687205957"
+ },
+ "sha1_origem": "86515802dcce68631a709be7f3f73f08f2ad15a1",
+ "bytes_origem": 2798320,
+ "capturado_em": "2026-11-08T06:56:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Rio_Rufino,_SC.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "86515802dcce68631a709be7f3f73f08f2ad15a1"
+ }
+}

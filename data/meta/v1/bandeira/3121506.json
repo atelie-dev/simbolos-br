@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3121506",
+ "uf": "MG",
+ "municipio": "Desterro do Melo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Desterro_do_Melo_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CNM",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "681af5f5215bad29b2b7afdd0701ca9d9f8895b297003b7c7a2d1605a38c3057",
+ "rendicoes": {
+  "png": {
+   "bytes": 66723,
+   "sha256": "ac52ae2dd4c83b5f45b917312b44b4631e38b401633c35c8ae1bbb7ac3e12be7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15129,
+   "sha256": "22cfb8a1187bf358c33875f6a21080402c17816fa50a12af970b7da62b8e6b9b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3121506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3121506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3121506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3121506.png",
+  "bytes": 317410,
+  "sha256": "681af5f5215bad29b2b7afdd0701ca9d9f8895b297003b7c7a2d1605a38c3057"
+ },
+ "sha1_origem": "8a0434674ee185b56638151d2a9b7da109cd284b",
+ "bytes_origem": 317410,
+ "capturado_em": "2026-11-08T06:05:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Desterro_do_Melo_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "8a0434674ee185b56638151d2a9b7da109cd284b"
+ }
+}

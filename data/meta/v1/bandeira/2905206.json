@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2905206",
+ "uf": "BA",
+ "municipio": "Caetité",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bandeira_caetite.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "André Koehne (by the law)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "e773126fd667d1cff440e434127624f708a3185c656e25cd323a7637e689b062",
+ "rendicoes": {
+  "png": {
+   "bytes": 22061,
+   "sha256": "9f11b217c1a8d6d0d49b863e91e52f3f1e1eb87745a6b484ee29ea49dc239c1d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14763,
+   "sha256": "02054d4cc6cf4d8216c84ec33506d5a6b023e1c535aea69bcc7762569d063d09",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 15641,
+   "sha256": "e773126fd667d1cff440e434127624f708a3185c656e25cd323a7637e689b062"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2905206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2905206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2905206.jpg"
+ },
+ "sha1_origem": "00c279c72a487078b0c0054518e8243b812c404b",
+ "bytes_origem": 15641,
+ "capturado_em": "2026-11-08T03:16:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_caetite.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "00c279c72a487078b0c0054518e8243b812c404b"
+ }
+}

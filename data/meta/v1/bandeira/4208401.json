@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4208401",
+ "uf": "SC",
+ "municipio": "Itapiranga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira_itapiranga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e3dd703f9a717c1667d63c82895b50f6a41133875c09a82deec604dff8d5c3ab",
+ "rendicoes": {
+  "png": {
+   "bytes": 29721,
+   "sha256": "1645c4145cd5c23f038e3c1b037a46b09e6c39c709f871f4d36b325211bbc749",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12845,
+   "sha256": "ab4e637e3b9a655932490eab5a5c5cfac5d19aa4fe7f5ed7e24ad188dbf1e63d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4208401.jpg",
+  "bytes": 11479,
+  "sha256": "e3dd703f9a717c1667d63c82895b50f6a41133875c09a82deec604dff8d5c3ab"
+ },
+ "sha1_origem": "24b42a67110c9d91aa538fb51b4903a70dfcc3ea",
+ "bytes_origem": 11479,
+ "capturado_em": "2026-11-08T06:54:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_itapiranga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "24b42a67110c9d91aa538fb51b4903a70dfcc3ea"
+ }
+}

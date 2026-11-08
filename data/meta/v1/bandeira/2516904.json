@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2516904",
+ "uf": "PB",
+ "municipio": "Uiraúna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bandeira_UIRAUNA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Uiraúna",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4e76e1cec437f30983abcdc4b46e331da0099bed7805afc6aec6f984146904f5",
+ "rendicoes": {
+  "png": {
+   "bytes": 113923,
+   "sha256": "8986344febfb7f66148cbcf1f706b43f16763a305a1d202f3119e7c004886f97",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25357,
+   "sha256": "2c33ea9ff0750eb4343efd57b3f0c140e8d6e1861440cadbb20fbae92ca25b0f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2516904.jpg",
+  "bytes": 17961,
+  "sha256": "4e76e1cec437f30983abcdc4b46e331da0099bed7805afc6aec6f984146904f5"
+ },
+ "sha1_origem": "87184117dc209c477a97d664b164da2624b4e5d4",
+ "bytes_origem": 17961,
+ "capturado_em": "2026-11-08T05:44:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_UIRAUNA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "87184117dc209c477a97d664b164da2624b4e5d4"
+ }
+}

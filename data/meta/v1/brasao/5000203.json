@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5000203",
+ "uf": "MS",
+ "municipio": "Água Clara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Brasao_agua_clara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Água Clara",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "df2cc7db9c850c0e961db4daa0bfc32002b7503d5f8ae93db423c775f34d822d",
+ "rendicoes": {
+  "png": {
+   "bytes": 86729,
+   "sha256": "6a763fd7d036cb71a9e92df82e193b7afbfaf925950ed442b6195140b879292d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17349,
+   "sha256": "57bb6c619073e7903fa4e5af575a9f4ce2a8165858822b53f0ad407c1204e8b4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5000203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5000203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5000203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5000203.jpg",
+  "bytes": 52179,
+  "sha256": "df2cc7db9c850c0e961db4daa0bfc32002b7503d5f8ae93db423c775f34d822d"
+ },
+ "sha1_origem": "4c0520109854882e5854435db21fe0cc77034c19",
+ "bytes_origem": 52179,
+ "capturado_em": "2026-11-08T07:12:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_agua_clara.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "4c0520109854882e5854435db21fe0cc77034c19"
+ }
+}

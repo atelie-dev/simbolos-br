@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1503606",
+ "uf": "PA",
+ "municipio": "Itaituba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Brazao_itaituba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Jonilson Costa de Oliveira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "36949d6ae77bc6914562a8cb95c3326d8555d5cd605e39165d5f2a61455029df",
+ "rendicoes": {
+  "png": {
+   "bytes": 40489,
+   "sha256": "6f6ebfd6acea948855ca3242770728043c8282b2b98222d09364978147648bfa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8867,
+   "sha256": "e64d10fc2858d1118e3026615daf3f76ca1ad921243d0076f5ccf71d13f5d634",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1503606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1503606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1503606.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1503606.jpg",
+  "bytes": 8526,
+  "sha256": "36949d6ae77bc6914562a8cb95c3326d8555d5cd605e39165d5f2a61455029df"
+ },
+ "sha1_origem": "34bf2e5d6c4c5ab0fd9cf7b9b43c418a315a1de0",
+ "bytes_origem": 8526,
+ "capturado_em": "2026-11-08T05:24:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brazao_itaituba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "34bf2e5d6c4c5ab0fd9cf7b9b43c418a315a1de0"
+ }
+}

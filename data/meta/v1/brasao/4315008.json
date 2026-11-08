@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4315008",
+ "uf": "RS",
+ "municipio": "Porto Lucena",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Porto_Lucenarsbras%C3%B5es.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Porto Lucena",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fd38914a521200eb6a44c5ab2be14a24e3473e4841c1aae3d0ff61caca737a0c",
+ "rendicoes": {
+  "png": {
+   "bytes": 34337,
+   "sha256": "25df27c1bf504be52cc985c0b2166c7e88bb8ad326be88b6d847d0fba1385b38",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9888,
+   "sha256": "cd907e096219a8c79e42ec689ef82f0c1c2c2d2b7837956cfcbbed62c2f8cec7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4315008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4315008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4315008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4315008.jpg",
+  "bytes": 25860,
+  "sha256": "fd38914a521200eb6a44c5ab2be14a24e3473e4841c1aae3d0ff61caca737a0c"
+ },
+ "sha1_origem": "c68a276a3035a37b9fc0b28614bfa76c561ea346",
+ "bytes_origem": 25860,
+ "capturado_em": "2026-11-08T07:07:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Porto_Lucenarsbrasões.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "c68a276a3035a37b9fc0b28614bfa76c561ea346"
+ }
+}

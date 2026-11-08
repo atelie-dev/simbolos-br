@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3540754",
+ "uf": "SP",
+ "municipio": "Potim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Potim_bandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c5f42a0ae5be6e5b09a87d97a83c25a891afa159d210176f53510aacbdc858b6",
+ "rendicoes": {
+  "png": {
+   "bytes": 15231,
+   "sha256": "7d4446ad062da99ccc6e2dec81209ef1036b3f3ad3c7532dd473190bbd871a98",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10018,
+   "sha256": "2c92da2e29696b8e70c98545d58f0e3745c3718c21db3c8f19ffb1a9b6ea0a2d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3540754.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3540754.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3540754.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3540754.png",
+  "bytes": 4399,
+  "sha256": "c5f42a0ae5be6e5b09a87d97a83c25a891afa159d210176f53510aacbdc858b6"
+ },
+ "sha1_origem": "872ffc8a406540fd33c0da6cacb78eb3b4883ebb",
+ "bytes_origem": 4399,
+ "capturado_em": "2026-11-08T06:35:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Potim_bandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "872ffc8a406540fd33c0da6cacb78eb3b4883ebb"
+ }
+}

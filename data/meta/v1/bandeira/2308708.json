@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2308708",
+ "uf": "CE",
+ "municipio": "Morada Nova",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bandeira_de_Morada_Nova_CE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camervan",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "364381e4a4bb5db070d5c886b1f63e5fa3d49814bc76b32371a19d4f472d0bdc",
+ "rendicoes": {
+  "png": {
+   "bytes": 18083,
+   "sha256": "bad0c89620c493cf1c1b3ff6c8ac56bb80c5215555921289cecd5466b64be571",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19479,
+   "sha256": "293f945e4b260abb40d3673f23145d69908ae7396b3bd11a0d97bb4e0ee4a284",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 6082,
+   "sha256": "364381e4a4bb5db070d5c886b1f63e5fa3d49814bc76b32371a19d4f472d0bdc"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2308708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2308708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2308708.jpg"
+ },
+ "sha1_origem": "730c59973945dc24444d88e94a91f5e4e11898ea",
+ "bytes_origem": 6082,
+ "capturado_em": "2026-11-08T02:47:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Morada_Nova_CE.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "730c59973945dc24444d88e94a91f5e4e11898ea"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5003900",
+ "uf": "MS",
+ "municipio": "Figueirão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bandeira_de_Figueir%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Figueirão",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "187887c0021c6483afc5e47ab81f8928f53b8379a0d2e5c1ae8d4f1ef472e249",
+ "rendicoes": {
+  "png": {
+   "bytes": 110651,
+   "sha256": "a89ea18ea5942d04402e6dfb15cf8505632b8a3f7a58c8a8c72dc77f055e63fd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34935,
+   "sha256": "9eea1ae6cdb9a57a19812ba6ab7d87cba40d0ad3b72e0a469b18a63bbe9522f8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5003900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5003900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5003900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5003900.jpg",
+  "bytes": 200767,
+  "sha256": "187887c0021c6483afc5e47ab81f8928f53b8379a0d2e5c1ae8d4f1ef472e249"
+ },
+ "sha1_origem": "74dc4c53abfa6b0ba999153c513ed650bf6adcd0",
+ "bytes_origem": 200767,
+ "capturado_em": "2026-11-08T07:12:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Figueirão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "74dc4c53abfa6b0ba999153c513ed650bf6adcd0"
+ }
+}

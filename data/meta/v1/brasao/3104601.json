@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3104601",
+ "uf": "MG",
+ "municipio": "Astolfo Dutra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bras%C3%A3o_de_astolfo_dutra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "acde63fb5b82ff11201facff231a5b0dc26df09d375512c55ed50dd6ce58022e",
+ "rendicoes": {
+  "png": {
+   "bytes": 154773,
+   "sha256": "4b7aa90b15088cd4cd1198f311f74c937d8427f086fd85db2804224db1a8d66d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34777,
+   "sha256": "f5684a71fd05a7d34720bc3964bebcc5c2fc2e0b1fd5e1ce4827d82086e05a47",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3104601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3104601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3104601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3104601.jpg",
+  "bytes": 25965,
+  "sha256": "acde63fb5b82ff11201facff231a5b0dc26df09d375512c55ed50dd6ce58022e"
+ },
+ "sha1_origem": "42dd8de092820a34c313551eb1e4f50e9dc2e071",
+ "bytes_origem": 25965,
+ "capturado_em": "2026-11-08T05:59:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_astolfo_dutra.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "42dd8de092820a34c313551eb1e4f50e9dc2e071"
+ }
+}

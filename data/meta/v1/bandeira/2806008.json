@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2806008",
+ "uf": "SE",
+ "municipio": "Ribeirópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bandeira_ribeiropolis.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c1049fa5bb8478ea0ffe39583e0f455300fda53665b9971b82b8ced28e8a1379",
+ "rendicoes": {
+  "png": {
+   "bytes": 15509,
+   "sha256": "67c4c93be6aa628b8dbf2475ba247563803bfdb730096d844d91e518cdfd57c2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12501,
+   "sha256": "860273503d2d490a74d20379eaae367b5c3196596eb86d1677e9d88156e005d0",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 301214,
+   "sha256": "c1049fa5bb8478ea0ffe39583e0f455300fda53665b9971b82b8ced28e8a1379"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2806008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2806008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2806008.jpg"
+ },
+ "sha1_origem": "07694cf5da822410850d0d3e25c42a9aec139ba2",
+ "bytes_origem": 301214,
+ "capturado_em": "2026-11-08T03:13:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_ribeiropolis.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "07694cf5da822410850d0d3e25c42a9aec139ba2"
+ }
+}

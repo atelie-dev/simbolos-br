@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2806503",
+ "uf": "SE",
+ "municipio": "Santa Rosa de Lima",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bandeira_starosalima.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santa Rosa de Lima - SE",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b929a9f9671073923d67adfc8889fae86999ae58ac9b78a2c823c1c747ba1245",
+ "rendicoes": {
+  "png": {
+   "bytes": 75049,
+   "sha256": "854f2ee1a69f34c2847a765b0d043c8dda60f5baf82a879f54814b0b47b797f2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30761,
+   "sha256": "1cb185d90065accecd7c83b6db6821664e7822d709c925a8f71ed75a3f79777b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 59910,
+   "sha256": "b929a9f9671073923d67adfc8889fae86999ae58ac9b78a2c823c1c747ba1245"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2806503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2806503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2806503.jpg"
+ },
+ "sha1_origem": "259716267babb085ad658fc08ea4f4d7c5faa14e",
+ "bytes_origem": 59910,
+ "capturado_em": "2026-11-08T03:14:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_starosalima.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "259716267babb085ad658fc08ea4f4d7c5faa14e"
+ }
+}

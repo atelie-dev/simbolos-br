@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1504976",
+ "uf": "PA",
+ "municipio": "Nova Ipixuna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bandeira_de_Nova_Ipixuna.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMNI",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "28f95d87924a1e7d22121e07cfd8936a5e3314aef420764d50e029481310f9dc",
+ "rendicoes": {
+  "png": {
+   "bytes": 4321,
+   "sha256": "e0594f7dded8c53a1e845f03a632adcff7a4ed193b688196f91a6ef498eeab05",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 3953,
+   "sha256": "bdf2e618ae25e02424fb3ce8aaf6285a5fa07c7864a4197f76483af9dd880d8f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1504976.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1504976.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1504976.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1504976.png",
+  "bytes": 2981,
+  "sha256": "28f95d87924a1e7d22121e07cfd8936a5e3314aef420764d50e029481310f9dc"
+ },
+ "sha1_origem": "a54f796908238ecaa13333f5913f111ca522cf50",
+ "bytes_origem": 2981,
+ "capturado_em": "2026-11-08T05:24:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nova_Ipixuna.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "a54f796908238ecaa13333f5913f111ca522cf50"
+ }
+}

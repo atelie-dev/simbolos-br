@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2506400",
+ "uf": "PB",
+ "municipio": "Gurinhém",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bras%C3%A3oGurinh%C3%A9m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Flaviano de F. Cavalcante",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "33afed516e0e47076c0075cc0a8b1b2ba5e40e478191544e70eac746a6e7c6a3",
+ "rendicoes": {
+  "png": {
+   "bytes": 152539,
+   "sha256": "ecc7461f2f3645c9e0608b4929d32914d1805b8c507243d424ff5b9d3ea2f5f6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39007,
+   "sha256": "44f9b8e4129af09e10725a9242ac7a72d0593c861cf42e90e4f70e5cfb440829",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2506400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2506400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2506400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2506400.jpg",
+  "bytes": 30125,
+  "sha256": "33afed516e0e47076c0075cc0a8b1b2ba5e40e478191544e70eac746a6e7c6a3"
+ },
+ "sha1_origem": "edc722002f13fd93daa11ab00baa9cb5152baa39",
+ "bytes_origem": 30125,
+ "capturado_em": "2026-11-08T05:41:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasãoGurinhém.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "edc722002f13fd93daa11ab00baa9cb5152baa39"
+ }
+}

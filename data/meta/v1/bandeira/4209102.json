@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4209102",
+ "uf": "SC",
+ "municipio": "Joinville",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bandeira_de_Joinville.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Great Brightstar; Prefeitura de Joinville",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "dec4ee2b5b5b14aac15441cbb082933480e580eb28e7051959f4a6cb76b1789e",
+ "rendicoes": {
+  "png": {
+   "bytes": 72441,
+   "sha256": "c70921d9804ca6254214933fcb2c56d9ef894e516f2b13e2db8ee812f08e9b66",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27746,
+   "sha256": "287975332a867f504da4f9729510bafa6505a9f83217b1bea9b77eca22af6e99",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 447342,
+   "sha256": "dec4ee2b5b5b14aac15441cbb082933480e580eb28e7051959f4a6cb76b1789e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209102.jpg"
+ },
+ "sha1_origem": "e09f2a865022dfc7d0225fb15b1be5c96239845d",
+ "bytes_origem": 447342,
+ "capturado_em": "2026-11-08T04:40:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Joinville.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "e09f2a865022dfc7d0225fb15b1be5c96239845d"
+ }
+}

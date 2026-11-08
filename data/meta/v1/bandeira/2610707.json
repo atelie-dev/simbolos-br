@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2610707",
+ "uf": "PE",
+ "municipio": "Paulista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/BandeiraPaulistaPE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura do Paulista",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5255ec0de638901e93a298eb36b7320efa01b691c34cb232d14472e40cd70db3",
+ "rendicoes": {
+  "png": {
+   "bytes": 75626,
+   "sha256": "317f07de2e481bcedf4009a4cec710367bb22b620a3d54a67d4454bec59f6a2b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28506,
+   "sha256": "68274e249fbc3df564e11f5a8979a62958a5f87bfff622dc103f9d1687c1f0d8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2610707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2610707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2610707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2610707.png",
+  "bytes": 36034,
+  "sha256": "5255ec0de638901e93a298eb36b7320efa01b691c34cb232d14472e40cd70db3"
+ },
+ "sha1_origem": "96f2556d1516a277c137a7c67fe4e12059ff78fc",
+ "bytes_origem": 36034,
+ "capturado_em": "2026-11-08T05:46:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraPaulistaPE.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:41Z",
+  "estado": "igual",
+  "sha1_commons": "96f2556d1516a277c137a7c67fe4e12059ff78fc"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4117909",
+ "uf": "PR",
+ "municipio": "Palotina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Flag_of_Palotina%2C_Paran%C3%A1%2C_Brazil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Mysid",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "563f79de42f895c587ab214879eb17ea8ce9635ba90b5af61fd4bd52675dfbbe",
+ "rendicoes": {
+  "png": {
+   "bytes": 8483,
+   "sha256": "5afa06609cbce50e632d603de57b68b39fe92ad6d85fdf7cbfc6b55bc495ec0f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11782,
+   "sha256": "f3f2d4f04f366b82bef275a8ce1399d52af8408ae515c16fd855e55adf5150e8",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1180,
+   "sha256": "563f79de42f895c587ab214879eb17ea8ce9635ba90b5af61fd4bd52675dfbbe"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117909.jpg"
+ },
+ "sha1_origem": "dc74e4437ce0c4cb5e01abb528c9447b5a4d3105",
+ "bytes_origem": 1180,
+ "capturado_em": "2026-11-08T04:29:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Palotina,_Paraná,_Brazil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "dc74e4437ce0c4cb5e01abb528c9447b5a4d3105"
+ }
+}

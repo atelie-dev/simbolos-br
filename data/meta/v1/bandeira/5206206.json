@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5206206",
+ "uf": "GO",
+ "municipio": "Cristalina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bandeira_de_Cristalina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cristalina, GO",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bec2edb79a16471b9821efd5376d96d49647673243ec30479e0f2c1aa3ea1b0f",
+ "rendicoes": {
+  "png": {
+   "bytes": 17522,
+   "sha256": "b54a137ab84ea9102285e57e13fdff5939ec72df210e9f24bbd8ee91496105d9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10938,
+   "sha256": "3588305c8bd872ada4efecf396faa0a1351440c0aaf80e638c1e0788ae5903d1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206206.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5206206.jpg",
+  "bytes": 12161,
+  "sha256": "bec2edb79a16471b9821efd5376d96d49647673243ec30479e0f2c1aa3ea1b0f"
+ },
+ "sha1_origem": "400047f632412e91250490878b3341c9c99f095d",
+ "bytes_origem": 12161,
+ "capturado_em": "2026-11-08T07:17:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cristalina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "400047f632412e91250490878b3341c9c99f095d"
+ }
+}

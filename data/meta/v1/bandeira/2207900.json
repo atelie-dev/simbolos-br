@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2207900",
+ "uf": "PI",
+ "municipio": "Pedro II",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bandeira_de_Pedro_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Pedro II",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4cbc74ba975802ad5c6fc1551c49d2b403c1cdec63402234997ca1278b84c2d1",
+ "rendicoes": {
+  "png": {
+   "bytes": 31661,
+   "sha256": "563f50adf2ab44bb91282053626b342ae00147e5392f4d403ece2db1fd9267b7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7502,
+   "sha256": "ef2fe6a0458736d9619e4056421bd87f98c70c80be812d2b8bc5b0f4fec25deb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2207900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2207900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2207900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2207900.jpg",
+  "bytes": 6379,
+  "sha256": "4cbc74ba975802ad5c6fc1551c49d2b403c1cdec63402234997ca1278b84c2d1"
+ },
+ "sha1_origem": "1550e28154f07072e75fb868250f84bbdad9e4c0",
+ "bytes_origem": 6379,
+ "capturado_em": "2026-11-08T05:31:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pedro_II.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "1550e28154f07072e75fb868250f84bbdad9e4c0"
+ }
+}

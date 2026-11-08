@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5211008",
+ "uf": "GO",
+ "municipio": "Itapirapuã",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bras%C3%A3o_de_Itapirapu%C3%A3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Itapirapuã",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "263695ddb12e4c8eb09a3645ff44679c90ad511b8254bac9518091b7a79b4c2f",
+ "rendicoes": {
+  "png": {
+   "bytes": 35646,
+   "sha256": "109a9ef48b03f4d572cb6d32dc3a1ea07c7620a9ecbfdb9b064a0845b21c4bc2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8947,
+   "sha256": "3453ff831c496eae8b74958e31e53d633741575c4685283effc9a785e62de9b8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5211008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5211008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5211008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5211008.jpg",
+  "bytes": 9006,
+  "sha256": "263695ddb12e4c8eb09a3645ff44679c90ad511b8254bac9518091b7a79b4c2f"
+ },
+ "sha1_origem": "2e190e3f049655ae02222ef8a2bcc9db399647ac",
+ "bytes_origem": 9006,
+ "capturado_em": "2026-11-08T07:18:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Itapirapuã.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "2e190e3f049655ae02222ef8a2bcc9db399647ac"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5105903",
+ "uf": "MT",
+ "municipio": "Nobres",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bandeira_de_Nobres.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "MKBRA",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "47aa0373e2dcfe8343ba32972dbe0669e7e96144c539774089576074b0938770",
+ "rendicoes": {
+  "png": {
+   "bytes": 33410,
+   "sha256": "23de0b3b415c30d983585656ce28356a716878d14ae62c0586178c7709504636",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13997,
+   "sha256": "d6a6285a14850793c76cd11ce5626e7645e73a3c00d62f5562e60ed8ae87a677",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5105903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5105903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5105903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5105903.png",
+  "bytes": 273338,
+  "sha256": "47aa0373e2dcfe8343ba32972dbe0669e7e96144c539774089576074b0938770"
+ },
+ "sha1_origem": "6bf054ce3d15ed684ce36714ab6c917b09deeb00",
+ "bytes_origem": 273338,
+ "capturado_em": "2026-11-08T07:15:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nobres.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "6bf054ce3d15ed684ce36714ab6c917b09deeb00"
+ }
+}

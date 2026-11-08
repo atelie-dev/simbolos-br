@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2706448",
+ "uf": "AL",
+ "municipio": "Paripueira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bandeira-paripueira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Paripueira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "01db8603ed1346f9b09a7b62a0a2d90656d9c0114935f81635616e8e99aea347",
+ "rendicoes": {
+  "png": {
+   "bytes": 46600,
+   "sha256": "5051417bce61b71adbb381fa8b90a4777e143ad50ba84ba2f8ee635b0d4e28de",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10185,
+   "sha256": "d45e8eb8cbe7f978756e7debf1e6c05674ef3a1e31c55cb00a0bbd446cf7fc6f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2706448.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2706448.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2706448.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2706448.jpg",
+  "bytes": 5420,
+  "sha256": "01db8603ed1346f9b09a7b62a0a2d90656d9c0114935f81635616e8e99aea347"
+ },
+ "sha1_origem": "9d5063bdb1e2750c290fda402b34e65f835f028a",
+ "bytes_origem": 5420,
+ "capturado_em": "2026-11-08T05:48:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-paripueira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "9d5063bdb1e2750c290fda402b34e65f835f028a"
+ }
+}

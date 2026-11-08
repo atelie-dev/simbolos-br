@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3549706",
+ "uf": "SP",
+ "municipio": "São José do Rio Pardo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Brasaosaojosedoriopardo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "56e2848d4a8576cbc4ea69c6bf5779893dcc9b3d932462de0c22cd61079cfbb8",
+ "rendicoes": {
+  "png": {
+   "bytes": 55744,
+   "sha256": "d14b181fb6a09068836c5bb63a1d81008ef266e7d09556c42a155646f33a1d53",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13810,
+   "sha256": "02d6ddf2968d20fc6c65084866a2be842bb13e4f70bc85e6aa3fa2f7d3d36c45",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3549706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3549706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3549706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3549706.jpg",
+  "bytes": 9249,
+  "sha256": "56e2848d4a8576cbc4ea69c6bf5779893dcc9b3d932462de0c22cd61079cfbb8"
+ },
+ "sha1_origem": "dee27e544131ab6ce138a0381593a180c235a3f9",
+ "bytes_origem": 9249,
+ "capturado_em": "2026-11-08T06:38:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaosaojosedoriopardo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "dee27e544131ab6ce138a0381593a180c235a3f9"
+ }
+}

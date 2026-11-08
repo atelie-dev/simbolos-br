@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4109203",
+ "uf": "PR",
+ "municipio": "Guaraci",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bandeira_de_Guaraci%2C_PR.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura Municipal de Guaraci",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "736994dd4b3f1e170835c3d1d5c97476f02e68cd608c73393c0784f470dddb11",
+ "rendicoes": {
+  "png": {
+   "bytes": 49538,
+   "sha256": "9c154620f881f17c69c7338e82bd45629689fb0dda269b0a7595a5e031b25e8e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15926,
+   "sha256": "ae48ea602cc44fb960ace725f5b43bc8c1c4a725337dd99704674fc0fc97c43a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4109203.png",
+  "bytes": 164289,
+  "sha256": "736994dd4b3f1e170835c3d1d5c97476f02e68cd608c73393c0784f470dddb11"
+ },
+ "sha1_origem": "e775fc9381eff7a2d95615cfdc268ae0c7e1326c",
+ "bytes_origem": 164289,
+ "capturado_em": "2026-11-08T06:44:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Guaraci,_PR.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "e775fc9381eff7a2d95615cfdc268ae0c7e1326c"
+ }
+}

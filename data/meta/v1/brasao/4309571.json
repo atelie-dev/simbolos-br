@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4309571",
+ "uf": "RS",
+ "municipio": "Herveiras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bras%C3%A3o_Herveiras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Herveiras",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fa63ff3231d805acb48676f4103754a12f5c43ad295b040067853cb4a8f32940",
+ "rendicoes": {
+  "png": {
+   "bytes": 121405,
+   "sha256": "2d64d5039a5360b4a4bb79aa4d76d91f1beffcaef840f84203d87345bd8622d0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23369,
+   "sha256": "b7d8b55be11364b73b722e0122324470048bc473686a467e62eb14e6e09e5b0d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309571.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309571.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309571.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4309571.jpg",
+  "bytes": 21800,
+  "sha256": "fa63ff3231d805acb48676f4103754a12f5c43ad295b040067853cb4a8f32940"
+ },
+ "sha1_origem": "209a02d01c1a19b6536c3b220818ee07caed9601",
+ "bytes_origem": 21800,
+ "capturado_em": "2026-11-08T07:03:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Herveiras.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "209a02d01c1a19b6536c3b220818ee07caed9601"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305405",
+ "uf": "RS",
+ "municipio": "Chiapetta",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bras%C3%A3o_Chiapetta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Chiapetta",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c1f8628ee739a74a211fc2233b15b2044be7f602cd7eeb4ec6db270c11c3605b",
+ "rendicoes": {
+  "png": {
+   "bytes": 55425,
+   "sha256": "d3e8b0ac0183544bd319d25047369be2f1481397a9301cca6ee5e31b1faa3a6f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11624,
+   "sha256": "d287cca1c1a772d957d35aa37f9156c3b23e4399e282224438b2c2e9cf56ec50",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4305405.jpg",
+  "bytes": 9026,
+  "sha256": "c1f8628ee739a74a211fc2233b15b2044be7f602cd7eeb4ec6db270c11c3605b"
+ },
+ "sha1_origem": "a764c8c140fb0738ec75a194cb668df08e70f1d7",
+ "bytes_origem": 9026,
+ "capturado_em": "2026-11-08T07:01:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Chiapetta.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:48Z",
+  "estado": "igual",
+  "sha1_commons": "a764c8c140fb0738ec75a194cb668df08e70f1d7"
+ }
+}

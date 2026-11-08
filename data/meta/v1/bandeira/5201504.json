@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5201504",
+ "uf": "GO",
+ "municipio": "Aporé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bandeira_de_Apor%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Aporé",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2be769fd2b668dbee56a30e56f3022598cc14731f4614807287247e921ad4197",
+ "rendicoes": {
+  "png": {
+   "bytes": 26317,
+   "sha256": "8c70d8cd01ca6f60bbdafadd973fc3291f0f1bf161e074ed9cccb445b376cae4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8378,
+   "sha256": "4f906af2543e56cef24ecdf658c482efc6fba79dd9e1250d32660b5260801097",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5201504.jpg",
+  "bytes": 6611,
+  "sha256": "2be769fd2b668dbee56a30e56f3022598cc14731f4614807287247e921ad4197"
+ },
+ "sha1_origem": "fbe141b511ab1d9038bcef9c79912d4652cfb4a7",
+ "bytes_origem": 6611,
+ "capturado_em": "2026-11-08T07:16:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Aporé.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "fbe141b511ab1d9038bcef9c79912d4652cfb4a7"
+ }
+}

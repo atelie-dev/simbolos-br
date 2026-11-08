@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4304309",
+ "uf": "RS",
+ "municipio": "Cândido Godói",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bandeira_C%C3%A2ndido_God%C3%B3i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0e33af97bbca2056d728fbd45a6e5f0605b3065574650c6d418a581d78ddbf45",
+ "rendicoes": {
+  "png": {
+   "bytes": 20428,
+   "sha256": "9e03664c50106e62790383cd167dc409ba12eaed71c4de7b43dadf545954c439",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7175,
+   "sha256": "be1caea6fb3cdd4718a77f510520adeb74db669f0c28594f882d1486c8a6497b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4304309.jpg",
+  "bytes": 5921,
+  "sha256": "0e33af97bbca2056d728fbd45a6e5f0605b3065574650c6d418a581d78ddbf45"
+ },
+ "sha1_origem": "c690cf0f787cf2cb80ee43e5f00306e8ebcba6bd",
+ "bytes_origem": 5921,
+ "capturado_em": "2026-11-08T07:00:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Cândido_Godói.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "c690cf0f787cf2cb80ee43e5f00306e8ebcba6bd"
+ }
+}

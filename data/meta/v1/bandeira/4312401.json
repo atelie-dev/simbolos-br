@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312401",
+ "uf": "RS",
+ "municipio": "Montenegro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bandeira_de_Montenegro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Montenegro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e2d60f319d8e9b23c644e7aa14c53301f726198b8524f55be1feff6e10f137a9",
+ "rendicoes": {
+  "png": {
+   "bytes": 54625,
+   "sha256": "4ed5e053b96d667334e2f5dc9c08116efba7abc860ff97c00654bb09f45e7ce2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21746,
+   "sha256": "083c607dc841b249c009e622eede76751819b01a442d675c31ebce29b4bf71c7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4312401.jpg",
+  "bytes": 325142,
+  "sha256": "e2d60f319d8e9b23c644e7aa14c53301f726198b8524f55be1feff6e10f137a9"
+ },
+ "sha1_origem": "9756779e9d3bfa06a70fc4ca905c38bab35aaadb",
+ "bytes_origem": 325142,
+ "capturado_em": "2026-11-08T07:05:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Montenegro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "9756779e9d3bfa06a70fc4ca905c38bab35aaadb"
+ }
+}

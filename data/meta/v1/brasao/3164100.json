@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3164100",
+ "uf": "MG",
+ "municipio": "São Pedro do Suaçuí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Brasaospedrosuacui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Pedro do Suaçuí",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4013337ea8c30efc4d440c793298eda74446a5d04c609534a3cea972543f5d60",
+ "rendicoes": {
+  "png": {
+   "bytes": 91488,
+   "sha256": "26fb061e8c5d1468483f343e46075d323a6de90ba40cd101ff843569483cdea4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18005,
+   "sha256": "bb3c5418b342dc41567ac5dd0a4b845f5a5ad13944ec1a5ae039a731145941e9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3164100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3164100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3164100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3164100.jpg",
+  "bytes": 15143,
+  "sha256": "4013337ea8c30efc4d440c793298eda74446a5d04c609534a3cea972543f5d60"
+ },
+ "sha1_origem": "f27e1abe1328f4c29effa3edb92dcb2ef578bf13",
+ "bytes_origem": 15143,
+ "capturado_em": "2026-11-08T06:16:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaospedrosuacui.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "f27e1abe1328f4c29effa3edb92dcb2ef578bf13"
+ }
+}

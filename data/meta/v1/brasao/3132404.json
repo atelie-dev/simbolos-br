@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3132404",
+ "uf": "MG",
+ "municipio": "Itajubá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bras%C3%A3o_Itajub%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "89cbbe91489c175dea0fd27830792d46c42281bbb743cb35f47f1d53e4f14658",
+ "rendicoes": {
+  "png": {
+   "bytes": 162045,
+   "sha256": "a11bd8a5dba5e9c259ae443f9ced0af35f1fec8f842bc8752f5889c490feb927",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30595,
+   "sha256": "bdee7ccdf376f0f922797bf5dc550f3c906735b55945a394040a3da759fe93c1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3132404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3132404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3132404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3132404.jpg",
+  "bytes": 34929,
+  "sha256": "89cbbe91489c175dea0fd27830792d46c42281bbb743cb35f47f1d53e4f14658"
+ },
+ "sha1_origem": "50e0d13afabe2c83b4884cd90cb88b004cffeb4c",
+ "bytes_origem": 34929,
+ "capturado_em": "2026-11-08T06:09:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Itajubá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "50e0d13afabe2c83b4884cd90cb88b004cffeb4c"
+ }
+}

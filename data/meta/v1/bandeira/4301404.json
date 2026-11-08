@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4301404",
+ "uf": "RS",
+ "municipio": "Arvorezinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bandeira_Arvorezinha.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Arvorezinha - RS.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a49f950a21c6729791c49361e7bdc57abdb9f811299d4ef941e006b76f8b6d16",
+ "rendicoes": {
+  "png": {
+   "bytes": 10295,
+   "sha256": "ddd693cf1e19b6ae81b6f6e9c2e305a49a483615c78ed62090cb6932fdeadb03",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10687,
+   "sha256": "d99b4928adac564ebc521ebb729430c38aae8d229987063ed728bfc53358a973",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4301404.png",
+  "bytes": 8412,
+  "sha256": "a49f950a21c6729791c49361e7bdc57abdb9f811299d4ef941e006b76f8b6d16"
+ },
+ "sha1_origem": "098fc1c539c653715983a4a5bb56597789990b98",
+ "bytes_origem": 8412,
+ "capturado_em": "2026-11-08T06:59:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Arvorezinha.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "098fc1c539c653715983a4a5bb56597789990b98"
+ }
+}

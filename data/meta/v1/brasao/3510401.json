@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3510401",
+ "uf": "SP",
+ "municipio": "Capivari",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bras%C3%A3o_Capivari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Capivari",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "958bcb6fd238b53e285c81a9b72d1d997ac47c19bca922b2cb0e0b14aa2af5df",
+ "rendicoes": {
+  "png": {
+   "bytes": 104359,
+   "sha256": "3d280c8af34ed84dcfa0be8d1479e07b95c0858e11a9302171211f1da50a9ac0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34432,
+   "sha256": "5da76b3f875fb62ce597ea32c9fd64bfe15e9210e9a8652cf72e55ef78223df3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3510401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3510401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3510401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3510401.jpg",
+  "bytes": 155728,
+  "sha256": "958bcb6fd238b53e285c81a9b72d1d997ac47c19bca922b2cb0e0b14aa2af5df"
+ },
+ "sha1_origem": "bdb794b5570de3ef4f9829bc7fcf497d51f899f4",
+ "bytes_origem": 155728,
+ "capturado_em": "2026-11-08T06:25:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Capivari.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:47Z",
+  "estado": "igual",
+  "sha1_commons": "bdb794b5570de3ef4f9829bc7fcf497d51f899f4"
+ }
+}

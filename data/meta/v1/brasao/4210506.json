@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4210506",
+ "uf": "SC",
+ "municipio": "Maravilha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/25/BrasaoMH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://www.maravilha.sc.gov.br",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3a05bc74b3d8af335e1f31fec50072bb5655ff8fc9008d540cdcd19cd15e1d48",
+ "rendicoes": {
+  "png": {
+   "bytes": 345206,
+   "sha256": "ac488678695f9216b96da0e8a8e232b6df7d179dce1d124e393d2bf222095de8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 80432,
+   "sha256": "115643e79d7cabeac8877e256d3782caf18b010c0821b7166b601eee2dae3929",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4210506.jpg",
+  "bytes": 284978,
+  "sha256": "3a05bc74b3d8af335e1f31fec50072bb5655ff8fc9008d540cdcd19cd15e1d48"
+ },
+ "sha1_origem": "188af586dbb58ac9602469e0239ed29265dbb9b9",
+ "bytes_origem": 284978,
+ "capturado_em": "2026-11-08T06:54:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoMH.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "188af586dbb58ac9602469e0239ed29265dbb9b9"
+ }
+}

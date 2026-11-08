@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3111002",
+ "uf": "MG",
+ "municipio": "Campestre",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Brasaocampestre.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Conrado",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5bcb85bd9432489accf69d1dff596d06e23113cc214c70d7518592e17fe2a2f6",
+ "rendicoes": {
+  "png": {
+   "bytes": 26680,
+   "sha256": "7a31b39ac34239b1f898a7fac5f9bec2f1190e0af874f664e4933e2eb8cbe87c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9545,
+   "sha256": "448a1fa2ae628c09fd69981be17c50652a16ac1cf489e0d920a9f475924d9c99",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3111002.png",
+  "bytes": 12766,
+  "sha256": "5bcb85bd9432489accf69d1dff596d06e23113cc214c70d7518592e17fe2a2f6"
+ },
+ "sha1_origem": "447e95034cc609cdbf22c591924508647353de59",
+ "bytes_origem": 12766,
+ "capturado_em": "2026-11-08T06:02:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaocampestre.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "447e95034cc609cdbf22c591924508647353de59"
+ }
+}

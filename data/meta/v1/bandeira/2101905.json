@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2101905",
+ "uf": "MA",
+ "municipio": "Bequimão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/86/Bandeira_de_Bequim%C3%A3o_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Bequimão MA",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ee40466e954141e7663acca84c96b935c00e9e2a04b9f30d52ed1cfa2d6d2490",
+ "rendicoes": {
+  "png": {
+   "bytes": 47812,
+   "sha256": "d736dc5840dffba9d1429b6d797e9c853de3cc3c814858342a95725a88b7a38e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11104,
+   "sha256": "02ce15ed75954cbdc773fbadccbea45782cacc789ddeb6a3a359361db71cc6a9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2101905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2101905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2101905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2101905.jpg",
+  "bytes": 8939,
+  "sha256": "ee40466e954141e7663acca84c96b935c00e9e2a04b9f30d52ed1cfa2d6d2490"
+ },
+ "sha1_origem": "52996d01b81bdd57058659ff06ae099cf3b9449b",
+ "bytes_origem": 8939,
+ "capturado_em": "2026-11-08T05:27:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bequimão_MA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "52996d01b81bdd57058659ff06ae099cf3b9449b"
+ }
+}

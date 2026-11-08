@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2906873",
+ "uf": "BA",
+ "municipio": "Capim Grosso",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Brasaocapimgrosso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Fabio Andrade",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "afa39894beddfea673bfd4c47fc51271082c4161b083014240a2a5e3054b9221",
+ "rendicoes": {
+  "png": {
+   "bytes": 25328,
+   "sha256": "0c92b0a00c294b6f2696470e4dd00ef3aee26cdbad945fa5c6522a1913cbd10c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7098,
+   "sha256": "55d8fdc6f7e063e61955a6b0b787bfb67959e748556705d65a5d0380a98575d8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2906873.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2906873.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2906873.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2906873.jpg",
+  "bytes": 4065,
+  "sha256": "afa39894beddfea673bfd4c47fc51271082c4161b083014240a2a5e3054b9221"
+ },
+ "sha1_origem": "2964345907414f7574b618a84f2da36bddc9626d",
+ "bytes_origem": 4065,
+ "capturado_em": "2026-11-08T05:52:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaocapimgrosso.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "2964345907414f7574b618a84f2da36bddc9626d"
+ }
+}

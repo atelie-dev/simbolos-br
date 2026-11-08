@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3155801",
+ "uf": "MG",
+ "municipio": "Rio Pomba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Brasao-de-rio-pomba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Site prefeitura municipal Rio Pomba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "37c1af19d3a03e1ec4e8464b29797cd8bedde78bdae7bc62c2c81e2925441619",
+ "rendicoes": {
+  "png": {
+   "bytes": 40617,
+   "sha256": "4d3cd676cb2e50fdbd710b2fe13a3e6d4e637b9c30536488519bb27fee459147",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11580,
+   "sha256": "97af9776c530f644a3e840471762cb4a90e36f8893522ae2ff562b0845da55f1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3155801.jpg",
+  "bytes": 26330,
+  "sha256": "37c1af19d3a03e1ec4e8464b29797cd8bedde78bdae7bc62c2c81e2925441619"
+ },
+ "sha1_origem": "d481bd8e44e2fce28d192eb9a5406125ec0a3c6d",
+ "bytes_origem": 26330,
+ "capturado_em": "2026-11-08T06:14:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-de-rio-pomba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "d481bd8e44e2fce28d192eb9a5406125ec0a3c6d"
+ }
+}

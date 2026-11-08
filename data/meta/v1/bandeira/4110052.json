@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4110052",
+ "uf": "PR",
+ "municipio": "Iguatu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bandeira_Iguatu_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d15f4b5c6750777d2d5e6f69b62ec286c82af57067bd22a0ede2b53715402030",
+ "rendicoes": {
+  "png": {
+   "bytes": 106003,
+   "sha256": "1e338f477656f26db4898def46549c7852944c76dd59e1188de2b4b2780ef769",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21758,
+   "sha256": "8731b06534d99fca7b305da259da733dc7fb40ec756541b4456e1c27306fd0df",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4110052.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4110052.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4110052.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4110052.jpg",
+  "bytes": 15296,
+  "sha256": "d15f4b5c6750777d2d5e6f69b62ec286c82af57067bd22a0ede2b53715402030"
+ },
+ "sha1_origem": "c7dbefadfd2e6d4522bd42e3fae53c2d40ce6cdd",
+ "bytes_origem": 15296,
+ "capturado_em": "2026-11-08T06:44:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Iguatu_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "c7dbefadfd2e6d4522bd42e3fae53c2d40ce6cdd"
+ }
+}

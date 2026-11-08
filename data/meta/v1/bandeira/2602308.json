@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2602308",
+ "uf": "PE",
+ "municipio": "Bonito",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bandeira_Bonito_PE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "74a2655eb557293f858c8546cbf77dd2163faaa5e3639edcdd3f8e40e96b7536",
+ "rendicoes": {
+  "png": {
+   "bytes": 52827,
+   "sha256": "c2755d6a36dbca6077f379ff4217dafdc66ff8d80d6ba705470cbd2ab90daf55",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20204,
+   "sha256": "60b1da5be8772fc2f8211ddaa9332b4536ae59137c2cf711763d0061154ab64e",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 37459,
+   "sha256": "74a2655eb557293f858c8546cbf77dd2163faaa5e3639edcdd3f8e40e96b7536"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602308.jpg"
+ },
+ "sha1_origem": "93a592e750e6fdc48c451c20286907d0566ed3ed",
+ "bytes_origem": 37459,
+ "capturado_em": "2026-11-08T03:04:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Bonito_PE.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "93a592e750e6fdc48c451c20286907d0566ed3ed"
+ }
+}

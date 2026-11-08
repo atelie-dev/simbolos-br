@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2202703",
+ "uf": "PI",
+ "municipio": "Cocal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bras%C3%A3o_de_Cocal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Gs brito",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8a811bfafac17c856af0870b22869e763d82a86f861cbc30f62044a26971b8d7",
+ "rendicoes": {
+  "png": {
+   "bytes": 320480,
+   "sha256": "96b1646bbb33bb0a6aadc4d07c18e8519d978214febd9d82257e628453415466",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 73099,
+   "sha256": "32116e8770de03fdc48051d9bf2b016439052b4eb453d2e9830d5dba63b67cf2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2202703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2202703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2202703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2202703.jpg",
+  "bytes": 539628,
+  "sha256": "8a811bfafac17c856af0870b22869e763d82a86f861cbc30f62044a26971b8d7"
+ },
+ "sha1_origem": "f2f38a5a085eade5d9f88616e9d5323917f782ba",
+ "bytes_origem": 539628,
+ "capturado_em": "2026-11-08T05:30:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cocal.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "f2f38a5a085eade5d9f88616e9d5323917f782ba"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3126208",
+ "uf": "MG",
+ "municipio": "Formoso",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Formosomgbrasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Formoso",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "19b9984eb5070d9d42b0cc64df0c13d834a1160f4fdab1f3a098041e90bc7217",
+ "rendicoes": {
+  "png": {
+   "bytes": 12318,
+   "sha256": "9e5da238cef6d3c5bd840383d4210bbfa8152cc4be0f84e2f2bda0fdf2a74a1c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5207,
+   "sha256": "8021784b49ce6bddb1b298abd536623b3befe4524ec6d06eb68c29f6f00a3c52",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3126208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3126208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3126208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3126208.png",
+  "bytes": 24355,
+  "sha256": "19b9984eb5070d9d42b0cc64df0c13d834a1160f4fdab1f3a098041e90bc7217"
+ },
+ "sha1_origem": "248a4951a21b45509288d7b884374631e24b8642",
+ "bytes_origem": 24355,
+ "capturado_em": "2026-11-08T06:07:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Formosomgbrasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:30Z",
+  "estado": "igual",
+  "sha1_commons": "248a4951a21b45509288d7b884374631e24b8642"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2400109",
+ "uf": "RN",
+ "municipio": "Acari",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bandeira_Acari.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown / Desconhecido",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1abd4fc029730de63b9332b0d4e44eeaa2da43891e94bac6dc78dc806cabe63e",
+ "rendicoes": {
+  "png": {
+   "bytes": 11813,
+   "sha256": "004b6c284d65f3c5593a9467f27c53fa8070cbb6c534c9efa8d85e2fe47436c1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5959,
+   "sha256": "5db13aca3173910767fe2bc6181e35bd684aaf59b140f97a96f20dd35d4c5757",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2400109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2400109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2400109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2400109.png",
+  "bytes": 4603,
+  "sha256": "1abd4fc029730de63b9332b0d4e44eeaa2da43891e94bac6dc78dc806cabe63e"
+ },
+ "sha1_origem": "e9f9aeecd434c9c570d1ffcd780ab093be676f86",
+ "bytes_origem": 4603,
+ "capturado_em": "2026-11-08T05:35:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Acari.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "e9f9aeecd434c9c570d1ffcd780ab093be676f86"
+ }
+}

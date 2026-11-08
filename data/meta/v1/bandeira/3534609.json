@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3534609",
+ "uf": "SP",
+ "municipio": "Osvaldo Cruz",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bandeira_do_Municipio_de_Osvaldo_Cruz-SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municípal de Osvaldo Cruz-SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9a1192181f69828ce520a3f4c59539de10f97e57425d039061334dbd5b32a1f2",
+ "rendicoes": {
+  "png": {
+   "bytes": 83089,
+   "sha256": "0a946a908d13ea6c8d906705279cf974274d3fc45becee028f5beefea10c7ddd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24466,
+   "sha256": "dabca6fe00c377f9288a99aff55dee0943ffc5c1110c6d471f244fc676dd9015",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3534609.jpg",
+  "bytes": 99886,
+  "sha256": "9a1192181f69828ce520a3f4c59539de10f97e57425d039061334dbd5b32a1f2"
+ },
+ "sha1_origem": "c800c3a4cf37ee7bf8a206f6206278a06dc3c35f",
+ "bytes_origem": 99886,
+ "capturado_em": "2026-11-08T06:33:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_Municipio_de_Osvaldo_Cruz-SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "c800c3a4cf37ee7bf8a206f6206278a06dc3c35f"
+ }
+}

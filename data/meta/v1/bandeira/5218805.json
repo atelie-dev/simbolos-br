@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5218805",
+ "uf": "GO",
+ "municipio": "Rio Verde",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bandeira_Rio_Verde%28Goi%C3%A1s%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f173b278e8f7ca19ac0ca9035da5a56fb54ce97e1ecd63365ebd79f65cdceb72",
+ "rendicoes": {
+  "png": {
+   "bytes": 46634,
+   "sha256": "e7b1810f4e658b5ab7d569225ef1ae0d646f9caeddb1626b1095427c234ed3e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17402,
+   "sha256": "07619da1cd0ec90475d1d93b21841287fdd31b339fd363a5a34aec0c3c4a4c0d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5218805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5218805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5218805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5218805.jpg",
+  "bytes": 67522,
+  "sha256": "f173b278e8f7ca19ac0ca9035da5a56fb54ce97e1ecd63365ebd79f65cdceb72"
+ },
+ "sha1_origem": "c0ef55404a8583b47e816a58d628efc213a438d2",
+ "bytes_origem": 67522,
+ "capturado_em": "2026-11-08T07:20:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Rio_Verde(Goiás).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "c0ef55404a8583b47e816a58d628efc213a438d2"
+ }
+}

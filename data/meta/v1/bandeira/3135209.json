@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3135209",
+ "uf": "MG",
+ "municipio": "Januária",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bandeira_de_Janu%C3%A1ria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "028f1c7c822f38b328893ee255efa202a8b550051894dd3e66512e213d429831",
+ "rendicoes": {
+  "png": {
+   "bytes": 45880,
+   "sha256": "e042613e76c79eeada357f5a08776e8d920550c178f243b580a7667a4ef01506",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15780,
+   "sha256": "50b8d86488310b0bdc18fcfc46e9e7583ce8c5734df4611b8964b9ac75072cf6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3135209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3135209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3135209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3135209.jpg",
+  "bytes": 16073,
+  "sha256": "028f1c7c822f38b328893ee255efa202a8b550051894dd3e66512e213d429831"
+ },
+ "sha1_origem": "85d2dfc9178bb5e7bc57cca8797e56205b1c4d38",
+ "bytes_origem": 16073,
+ "capturado_em": "2026-11-08T06:09:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Januária.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "85d2dfc9178bb5e7bc57cca8797e56205b1c4d38"
+ }
+}

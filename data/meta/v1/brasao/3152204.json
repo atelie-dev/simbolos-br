@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3152204",
+ "uf": "MG",
+ "municipio": "Porteirinha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bras%C3%A3o_de_Porteirinha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Denis Conrado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8e9163d5cddd74b880677fb5f2d4b1861baa877dde9813ba93bdc64c1563dff2",
+ "rendicoes": {
+  "png": {
+   "bytes": 266912,
+   "sha256": "ee45a152d7fac65fd40654f196ca5c7955d60f37eb660b15967557f2c1f67110",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45044,
+   "sha256": "ce4fbafe29c1c4d3a23d650e4649be444b7604fe17516ef29a8dc9c1c83b101e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3152204.jpg",
+  "bytes": 111099,
+  "sha256": "8e9163d5cddd74b880677fb5f2d4b1861baa877dde9813ba93bdc64c1563dff2"
+ },
+ "sha1_origem": "c9320f6aeaa19af081a5e38157c21e8e980f009a",
+ "bytes_origem": 111099,
+ "capturado_em": "2026-11-08T06:13:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Porteirinha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:09Z",
+  "estado": "igual",
+  "sha1_commons": "c9320f6aeaa19af081a5e38157c21e8e980f009a"
+ }
+}

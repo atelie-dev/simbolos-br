@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3200904",
+ "uf": "ES",
+ "municipio": "Barra de São Francisco",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bras%C3%A3o_de_Barra_de_S%C3%A3o_Francisco.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "CleberSC",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0d749b9a7818ec4fb82828de563dc6207e6bce3ad45b9ecb90486b16583586dc",
+ "rendicoes": {
+  "png": {
+   "bytes": 112490,
+   "sha256": "9c3cf8d55376cd781553a0899336b951bd6cf2917cee76501d7d9fe41bb94296",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17468,
+   "sha256": "fd28d39136437c1eaa07b07e9c8433cb6a2ee86d59a9d17ce15d55f589f57e63",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3200904.png",
+  "bytes": 155811,
+  "sha256": "0d749b9a7818ec4fb82828de563dc6207e6bce3ad45b9ecb90486b16583586dc"
+ },
+ "sha1_origem": "9c7766e3f89bf3d100e906def9c1b18755d5255e",
+ "bytes_origem": 155811,
+ "capturado_em": "2026-11-08T06:18:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Barra_de_São_Francisco.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "9c7766e3f89bf3d100e906def9c1b18755d5255e"
+ }
+}

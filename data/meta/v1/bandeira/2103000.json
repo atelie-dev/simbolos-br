@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2103000",
+ "uf": "MA",
+ "municipio": "Caxias",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bandeira_do_Municipio_de_Caxias_Maranhao.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Bandeira do Município de Caxias",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "6e3556bea91e884aa01be32485444eedc04079f32e543ae6aecfbf23b7aebde3",
+ "rendicoes": {
+  "png": {
+   "bytes": 55379,
+   "sha256": "84dbdea3f05ad47d23302474bb4dc0a09b67b358f88bb47514d8419912b35ce3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26625,
+   "sha256": "10043a270aa48c2483f9caf60d4ff047a0539d988103011ff87360731f49dfb6",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 23266,
+   "sha256": "6e3556bea91e884aa01be32485444eedc04079f32e543ae6aecfbf23b7aebde3"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2103000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2103000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2103000.jpg"
+ },
+ "sha1_origem": "8ecbf1fb50b2f6a4f53ec6d1fb8da66d0df1cf4a",
+ "bytes_origem": 23266,
+ "capturado_em": "2026-11-08T02:38:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_Municipio_de_Caxias_Maranhao.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "8ecbf1fb50b2f6a4f53ec6d1fb8da66d0df1cf4a"
+ }
+}

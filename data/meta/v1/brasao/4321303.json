@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4321303",
+ "uf": "RS",
+ "municipio": "Taquari",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bras%C3%A3o_de_Taquari.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Taquari",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d4cd344da8c1ceca10e5df2b86f4703116bddd352cbf73f8e22bf73ea3334345",
+ "rendicoes": {
+  "png": {
+   "bytes": 131867,
+   "sha256": "57a68001ccfceae8b7f122b1c27fa7a82cd3cc1d60006d54c651738408475357",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47278,
+   "sha256": "aa015b7ee0a4ca4aac5377ffad4b0d5b1fb67224291c5c556370461353bee1ec",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 352099,
+   "sha256": "d4cd344da8c1ceca10e5df2b86f4703116bddd352cbf73f8e22bf73ea3334345"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321303.jpg"
+ },
+ "sha1_origem": "9ad71fc9dc99997abb378fd7fcfeeacb943ebde5",
+ "bytes_origem": 352099,
+ "capturado_em": "2026-11-08T05:01:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Taquari.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:13Z",
+  "estado": "igual",
+  "sha1_commons": "9ad71fc9dc99997abb378fd7fcfeeacb943ebde5"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3534203",
+ "uf": "SP",
+ "municipio": "Orindiúva",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bras%C3%A3o_de_Orindi%C3%BAva%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Orindiúva/SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8a6e689d03f0fa19662f196b71ff5c04e4f325371b6ee4895af0b807cf9b734c",
+ "rendicoes": {
+  "png": {
+   "bytes": 41896,
+   "sha256": "6a19224310d39052e321600c25d6877379776abf2d0a65931b972b4d2fa450e3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8841,
+   "sha256": "758a88d92d6ae1670465431253c74a9d743a52ddcab7f17b854c2fd07722eabb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3534203.jpg",
+  "bytes": 5419,
+  "sha256": "8a6e689d03f0fa19662f196b71ff5c04e4f325371b6ee4895af0b807cf9b734c"
+ },
+ "sha1_origem": "af6a103ecef14d6a0956c8fa2bb2a523b9fbc261",
+ "bytes_origem": 5419,
+ "capturado_em": "2026-11-08T06:33:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Orindiúva,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "af6a103ecef14d6a0956c8fa2bb2a523b9fbc261"
+ }
+}

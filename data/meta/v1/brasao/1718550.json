@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1718550",
+ "uf": "TO",
+ "municipio": "Riachinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/86/Riachinho_bras%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Riachinho-TO",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "632ff91c42871bdcbdf7b4c68c95290b37c37da0754decb070b8d000e424dfe2",
+ "rendicoes": {
+  "png": {
+   "bytes": 239325,
+   "sha256": "7c903150e70ad4221d5c04729eea2e48701fb219aedcac281d08e35c89889944",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47951,
+   "sha256": "4ef6fc159ad4ddf91d2c3eb832127bf88ea5a326a9e5dd158e3462cd700a99b5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1718550.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1718550.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1718550.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1718550.jpg",
+  "bytes": 51668,
+  "sha256": "632ff91c42871bdcbdf7b4c68c95290b37c37da0754decb070b8d000e424dfe2"
+ },
+ "sha1_origem": "a434b123104e97818fb799039821c2b5d05fccd1",
+ "bytes_origem": 51668,
+ "capturado_em": "2026-11-08T05:26:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Riachinho_brasão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "a434b123104e97818fb799039821c2b5d05fccd1"
+ }
+}

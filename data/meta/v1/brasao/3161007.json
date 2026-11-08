@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3161007",
+ "uf": "MG",
+ "municipio": "São Domingos do Prata",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Brasao-saodomingosdoprata-mg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMSDP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2fb89ce5d49aabb9dd0d3da5763ec23d2842445d9d47270fe22831eed0d2906f",
+ "rendicoes": {
+  "png": {
+   "bytes": 81888,
+   "sha256": "95d005127f09e4649e57a8c548322fad7e7418abc4d64e0c354b5a14d0f40aef",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17920,
+   "sha256": "eafbaf15a7c5ac81ba6dc04985f21ee18f665071c1ecbe00683eb4041c96a253",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3161007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3161007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3161007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3161007.jpg",
+  "bytes": 74917,
+  "sha256": "2fb89ce5d49aabb9dd0d3da5763ec23d2842445d9d47270fe22831eed0d2906f"
+ },
+ "sha1_origem": "bd6d41929ccd8f4ce68f8287f5394e3c953b32bf",
+ "bytes_origem": 74917,
+ "capturado_em": "2026-11-08T06:15:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-saodomingosdoprata-mg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "bd6d41929ccd8f4ce68f8287f5394e3c953b32bf"
+ }
+}

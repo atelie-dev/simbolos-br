@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1101401",
+ "uf": "RO",
+ "municipio": "Monte Negro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Brasao_Monte_Negro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Monte Negro.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9bc4f7e9c52f55d4f7233d6847dda6e4490058c24f0a0dc55b2e9c7d1d351585",
+ "rendicoes": {
+  "png": {
+   "bytes": 193388,
+   "sha256": "0113b21358166bd3fb426f46f3509aee295d995bf483804e1cbbe926a6ac28d8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39555,
+   "sha256": "00425d09e17b3ccf24ca00c3c002e2c24c6aea174f2026bd8d7cd8af5acc2ac3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1101401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1101401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1101401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1101401.jpg",
+  "bytes": 66747,
+  "sha256": "9bc4f7e9c52f55d4f7233d6847dda6e4490058c24f0a0dc55b2e9c7d1d351585"
+ },
+ "sha1_origem": "b37cbbcb79c3fd85004fba5dcdcf907729b7a1b7",
+ "bytes_origem": 66747,
+ "capturado_em": "2026-11-08T05:21:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Monte_Negro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "b37cbbcb79c3fd85004fba5dcdcf907729b7a1b7"
+ }
+}

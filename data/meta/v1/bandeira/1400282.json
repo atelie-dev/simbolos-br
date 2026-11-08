@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1400282",
+ "uf": "RR",
+ "municipio": "Iracema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bandeira_Iracema_RR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Iracema.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8077df5768dd61e80994d7c2d41ece0a51291747660e075d2ba1341a1e1e41fc",
+ "rendicoes": {
+  "png": {
+   "bytes": 17842,
+   "sha256": "e8cf4b10672fb7cf87a7c33af5a9d01bbf36f309b42d1e45531e6ba542b4ad0b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6624,
+   "sha256": "bbe6d6a043b084c7900849bc51ae97c4b796e1cbc0226cddd034279d90b79d3a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400282.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400282.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400282.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1400282.jpg",
+  "bytes": 30495,
+  "sha256": "8077df5768dd61e80994d7c2d41ece0a51291747660e075d2ba1341a1e1e41fc"
+ },
+ "sha1_origem": "72bd4dd75ec5494ff9a3d6493f6e479040b08a19",
+ "bytes_origem": 30495,
+ "capturado_em": "2026-11-08T05:23:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Iracema_RR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "72bd4dd75ec5494ff9a3d6493f6e479040b08a19"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4110508",
+ "uf": "PR",
+ "municipio": "Ipiranga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bras%C3%A3o_ipiranga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "João Carlos Rodrigues",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c5751b0937d989ee08c95b4600861f07606195914ea9bbfa5f0b3b3321e520e6",
+ "rendicoes": {
+  "png": {
+   "bytes": 299665,
+   "sha256": "fa1367bb95026b37c2856253f26b7b412ce5f78edfd55bf55efbc2e148a50bc4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 52101,
+   "sha256": "e4409780f60b23127f8410a4dc6fa18d8078a0e1db4f1059317b0e5c3d17159d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4110508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4110508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4110508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4110508.jpg",
+  "bytes": 43961,
+  "sha256": "c5751b0937d989ee08c95b4600861f07606195914ea9bbfa5f0b3b3321e520e6"
+ },
+ "sha1_origem": "a4361871f10d63ce36973d7b4cdad479e1f7383f",
+ "bytes_origem": 43961,
+ "capturado_em": "2026-11-08T06:44:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_ipiranga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:18Z",
+  "estado": "igual",
+  "sha1_commons": "a4361871f10d63ce36973d7b4cdad479e1f7383f"
+ }
+}

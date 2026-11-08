@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2510204",
+ "uf": "PB",
+ "municipio": "Nova Olinda",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bandeira_de_Nova_Olinda_-_PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "37181583e693080c413ff5c2cbe141bdcea09bbdff8ac555364c7b5c824b03ed",
+ "rendicoes": {
+  "png": {
+   "bytes": 33578,
+   "sha256": "4899f12b91cf94806d122941884c1b00f071e194f7062e64ed66f6151916e9b1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16900,
+   "sha256": "fb493842f933da37d48e5168452c80defa3550f7417180159d839d250e08fdaf",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 58186,
+   "sha256": "37181583e693080c413ff5c2cbe141bdcea09bbdff8ac555364c7b5c824b03ed"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510204.jpg"
+ },
+ "sha1_origem": "5dfe0b2fbd6c23fec74fe1207f668b58c4690c5a",
+ "bytes_origem": 58186,
+ "capturado_em": "2026-11-08T03:00:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nova_Olinda_-_PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "5dfe0b2fbd6c23fec74fe1207f668b58c4690c5a"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3303609",
+ "uf": "RJ",
+ "municipio": "Paracambi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bandeira-paracambi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "82dbd8fff014823256503e8905d7ca33d982e840ff57b59559ed97f66b6e7a9d",
+ "rendicoes": {
+  "png": {
+   "bytes": 13493,
+   "sha256": "04b37517a0c29e77d4a66bc0dbdba65dd1a07f9940339afaf0aadb61cca49e88",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5501,
+   "sha256": "585a53b247f1d6f4c60961203faa644e5b0c03d4e1fa34eda1003938ace9ffba",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3303609.jpg",
+  "bytes": 2955,
+  "sha256": "82dbd8fff014823256503e8905d7ca33d982e840ff57b59559ed97f66b6e7a9d"
+ },
+ "sha1_origem": "0c9618e0689b61ad91938d9e0a6cf9b9fbaecf5c",
+ "bytes_origem": 2955,
+ "capturado_em": "2026-11-08T06:21:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-paracambi.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "0c9618e0689b61ad91938d9e0a6cf9b9fbaecf5c"
+ }
+}

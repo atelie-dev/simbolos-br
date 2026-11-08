@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5008404",
+ "uf": "MS",
+ "municipio": "Vicentina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Brasao_de_vicentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c5a95d7b7fc464b1559bcd280ee7d124ae0241b14e936e155df33854345f86a5",
+ "rendicoes": {
+  "png": {
+   "bytes": 89375,
+   "sha256": "abaf91397f39c1b26823066b1208cd626e9f52de6f1184533e0f98d5cb37b9d6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21752,
+   "sha256": "3d60ee3a31d0d8e2ca57ea6a78bd399c8d0ee3922edebbc142ef4df79417adb8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5008404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5008404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5008404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5008404.jpg",
+  "bytes": 23718,
+  "sha256": "c5a95d7b7fc464b1559bcd280ee7d124ae0241b14e936e155df33854345f86a5"
+ },
+ "sha1_origem": "ca46ea9afca44c80ec7aedcf7cae74facfab9e76",
+ "bytes_origem": 23718,
+ "capturado_em": "2026-11-08T07:13:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_de_vicentina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "ca46ea9afca44c80ec7aedcf7cae74facfab9e76"
+ }
+}

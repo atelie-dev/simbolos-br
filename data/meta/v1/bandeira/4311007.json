@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4311007",
+ "uf": "RS",
+ "municipio": "Jaguarão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bandeira_Jaguar%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ricardo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "15b60f0c5b9ef20a001ac47aa2e87947706705aee71e8b03ea885de00a5040ec",
+ "rendicoes": {
+  "png": {
+   "bytes": 106630,
+   "sha256": "64142289b09fa1c0af38e037016eefc155e5e6bbbc5c3404d45b45c58f18fcf9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22413,
+   "sha256": "863b30b11ff55967070bf60a5a54a067de5a234522d66cde16af516c082dcf21",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4311007.jpg",
+  "bytes": 43978,
+  "sha256": "15b60f0c5b9ef20a001ac47aa2e87947706705aee71e8b03ea885de00a5040ec"
+ },
+ "sha1_origem": "338a3177dfaf7798f7fde454c02ee59f9bae7cdf",
+ "bytes_origem": 43978,
+ "capturado_em": "2026-11-08T07:04:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Jaguarão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "338a3177dfaf7798f7fde454c02ee59f9bae7cdf"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3304607",
+ "uf": "RJ",
+ "municipio": "Santa Maria Madalena",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Brasao-santamariamadalena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0aaad09d7f1586b7f6e8fe7286b7ddbfa0feaf80a7a60aedb0931401b8689a16",
+ "rendicoes": {
+  "png": {
+   "bytes": 144106,
+   "sha256": "12f928a9cdd362b25d6163fdcd6a00747e8330b89b9fe9188be90863ec7c6da7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26026,
+   "sha256": "27cafd50a9e2f64d4974faf4b1343b242fef4de4de6723054f778aaf7837fed7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304607.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304607.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304607.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3304607.jpg",
+  "bytes": 27335,
+  "sha256": "0aaad09d7f1586b7f6e8fe7286b7ddbfa0feaf80a7a60aedb0931401b8689a16"
+ },
+ "sha1_origem": "6af7843bda284ba6f5e5f022e1afd11f498f56a3",
+ "bytes_origem": 27335,
+ "capturado_em": "2026-11-08T06:22:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-santamariamadalena.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "6af7843bda284ba6f5e5f022e1afd11f498f56a3"
+ }
+}

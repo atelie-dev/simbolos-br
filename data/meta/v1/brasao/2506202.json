@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2506202",
+ "uf": "PB",
+ "municipio": "Frei Martinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Brasao_frei_martinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Frei Martinho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "83df9fc8a7ad2789fdcf4edbb418684d536813545bc264fe0edfb9acd77ac581",
+ "rendicoes": {
+  "png": {
+   "bytes": 45653,
+   "sha256": "089f1fac079afb41e9dbdd5c793333a4d8d233ca25ed7bf0b5b4d32446edc822",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11641,
+   "sha256": "a620ce2a716ce40ff78b51e05d0418f8bc66192b739949e2fc82f01be4da0a41",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2506202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2506202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2506202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2506202.jpg",
+  "bytes": 11632,
+  "sha256": "83df9fc8a7ad2789fdcf4edbb418684d536813545bc264fe0edfb9acd77ac581"
+ },
+ "sha1_origem": "7ce1490dfd089420ec082069b8073cd180e86cca",
+ "bytes_origem": 11632,
+ "capturado_em": "2026-11-08T05:41:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_frei_martinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "7ce1490dfd089420ec082069b8073cd180e86cca"
+ }
+}

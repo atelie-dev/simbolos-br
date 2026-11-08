@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2301703",
+ "uf": "CE",
+ "municipio": "Aurora",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bandeira_de_Aurora%2C_CE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Andreymito",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "aae67a5d39c3263e166cea605400bdae9738c7830633ca107c3e2c05ea2eecfd",
+ "rendicoes": {
+  "png": {
+   "bytes": 82299,
+   "sha256": "475b43abd224951f51725d9b1f85fda71deb1894382f99813d3ab4167c6121d6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13792,
+   "sha256": "f2c80efe124db3ff9cd340dc0c557c8529e29ca3fb9c830d488b02375d79623d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2301703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2301703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2301703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2301703.jpg",
+  "bytes": 9994,
+  "sha256": "aae67a5d39c3263e166cea605400bdae9738c7830633ca107c3e2c05ea2eecfd"
+ },
+ "sha1_origem": "3b949a7f72a18d22291315029393f705adc5a26c",
+ "bytes_origem": 9994,
+ "capturado_em": "2026-11-08T05:32:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Aurora,_CE.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "3b949a7f72a18d22291315029393f705adc5a26c"
+ }
+}

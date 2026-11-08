@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3205101",
+ "uf": "ES",
+ "municipio": "Viana",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Brasao-viana-es.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Viana City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3aefea1ed8172de88bd6ce7bc68fb3ee83c14bfad9488caa7d4785c81a0b2a87",
+ "rendicoes": {
+  "png": {
+   "bytes": 36485,
+   "sha256": "70a8f0df6d6abfc51d48711ede60b62eaad445f2e86649953dbc23d256bfcdcd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8994,
+   "sha256": "f4287ce48d61d46491937d039ac48e8e4ec46ca4fdaaf2f99fab2a7873dca549",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3205101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3205101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3205101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3205101.jpg",
+  "bytes": 5942,
+  "sha256": "3aefea1ed8172de88bd6ce7bc68fb3ee83c14bfad9488caa7d4785c81a0b2a87"
+ },
+ "sha1_origem": "0e383f18e3daf9b52f4e0d5392fb396357a28b90",
+ "bytes_origem": 5942,
+ "capturado_em": "2026-11-08T06:20:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-viana-es.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "0e383f18e3daf9b52f4e0d5392fb396357a28b90"
+ }
+}

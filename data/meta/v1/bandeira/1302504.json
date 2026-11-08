@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1302504",
+ "uf": "AM",
+ "municipio": "Manacapuru",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bandeira-manacapuru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Manacapuru City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "84a9179bad218f2a29e2aa1a80fbadfd7ec7f114292c556493964055c5ee18be",
+ "rendicoes": {
+  "png": {
+   "bytes": 9760,
+   "sha256": "17539ebdbebc19e6a5179a41e898dee17550a97fac8bf8b41be1eef2b7d8f4ce",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4425,
+   "sha256": "b2ec4e0cb1bb444c4bd2e165ac90572d9608af21aa8d2559e12390adaed7f738",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1302504.jpg",
+  "bytes": 23387,
+  "sha256": "84a9179bad218f2a29e2aa1a80fbadfd7ec7f114292c556493964055c5ee18be"
+ },
+ "sha1_origem": "fa321292e955f09e0882544db40f66773ee50aaa",
+ "bytes_origem": 23387,
+ "capturado_em": "2026-11-08T05:23:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-manacapuru.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "fa321292e955f09e0882544db40f66773ee50aaa"
+ }
+}

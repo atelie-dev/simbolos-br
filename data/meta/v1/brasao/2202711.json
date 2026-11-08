@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2202711",
+ "uf": "PI",
+ "municipio": "Cocal de Telha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/98/CoA_Cocal_de_Telha.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Cocal de Telha",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "02a19e810e3bb2752869ad6c706b25ce66a83b081c00192e6abe3cfa3c85e9d4",
+ "rendicoes": {
+  "png": {
+   "bytes": 185012,
+   "sha256": "a900f99a6aa50e318941dec4ec95f2d977a40c76e69d32ae93a252931f83ed84",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45617,
+   "sha256": "6091cf04a3338098729926891b54398412e3e72d12398d806b1e90c597a231b0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2202711.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2202711.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2202711.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2202711.png",
+  "bytes": 1772149,
+  "sha256": "02a19e810e3bb2752869ad6c706b25ce66a83b081c00192e6abe3cfa3c85e9d4"
+ },
+ "sha1_origem": "ae86a3c910328606fead40c1c48cb442e825f961",
+ "bytes_origem": 1772149,
+ "capturado_em": "2026-11-08T05:30:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:CoA_Cocal_de_Telha.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:22Z",
+  "estado": "igual",
+  "sha1_commons": "ae86a3c910328606fead40c1c48cb442e825f961"
+ }
+}

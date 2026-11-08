@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2108603",
+ "uf": "MA",
+ "municipio": "Pinheiro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bras%C3%A3o_de_Pinheiro_-_MA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5d9fcd70eaf19f8d9b6dda44bd082fd0e8323ec58e429e3f5f61ab2001575211",
+ "rendicoes": {
+  "png": {
+   "bytes": 123551,
+   "sha256": "53246f81e679b200059a5591fbeaddeab4feef94f14e73ff09a247a3c9ba7a04",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37530,
+   "sha256": "4a00c7f67ad89f48219a5751d48c77db71443ed0c4577284653ca318e3b2c914",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 198787,
+   "sha256": "5d9fcd70eaf19f8d9b6dda44bd082fd0e8323ec58e429e3f5f61ab2001575211"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2108603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2108603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2108603.jpg"
+ },
+ "sha1_origem": "139a865be116da1ed7fae7cb7330593b339b1dc5",
+ "bytes_origem": 198787,
+ "capturado_em": "2026-11-08T02:39:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Pinheiro_-_MA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:09Z",
+  "estado": "igual",
+  "sha1_commons": "139a865be116da1ed7fae7cb7330593b339b1dc5"
+ }
+}

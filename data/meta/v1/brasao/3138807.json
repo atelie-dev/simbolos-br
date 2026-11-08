@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3138807",
+ "uf": "MG",
+ "municipio": "Luz",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bras%C3%A3o_-_Munic%C3%ADpio_de_Luz_-_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura Municipal de Luz",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "20e6434206a1adf3aec444a4cfaa528114b25d708b597b15fde832cbccb8dd48",
+ "rendicoes": {
+  "png": {
+   "bytes": 147565,
+   "sha256": "a5a181c5b66731950c4c4c7a024f79dcd4697ef20f877c1557df50cfdb624c43",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42409,
+   "sha256": "fa807d061ed9793e748110a61c48e1bae57d3e80169ce0e0c358ca05418e4bd2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3138807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3138807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3138807.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3138807.jpg",
+  "bytes": 300509,
+  "sha256": "20e6434206a1adf3aec444a4cfaa528114b25d708b597b15fde832cbccb8dd48"
+ },
+ "sha1_origem": "726b07858a3417e39cad36fed562160ffea67031",
+ "bytes_origem": 300509,
+ "capturado_em": "2026-11-08T06:10:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_-_Município_de_Luz_-_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "726b07858a3417e39cad36fed562160ffea67031"
+ }
+}

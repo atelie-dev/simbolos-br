@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2503753",
+ "uf": "PB",
+ "municipio": "Cajazeirinhas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bandeira_Cajazeirinhas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cajazeirinhas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f4a02ec5ec810283a7c011ee13d453398fbe7be3b3e7241c8a4df3a89ca9b415",
+ "rendicoes": {
+  "png": {
+   "bytes": 118152,
+   "sha256": "cd978f357e59a15e2319b78a9ea3d59cd7814bc19e347062bb2e0d68aebdb884",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29653,
+   "sha256": "59672b989e56b8d127174009207ba3a362a331eb3b4b860724791aad6da1d18b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503753.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503753.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503753.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2503753.jpg",
+  "bytes": 48284,
+  "sha256": "f4a02ec5ec810283a7c011ee13d453398fbe7be3b3e7241c8a4df3a89ca9b415"
+ },
+ "sha1_origem": "bf6ed0302d2a9fca6cb428b7010a240b61168782",
+ "bytes_origem": 48284,
+ "capturado_em": "2026-11-08T05:40:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Cajazeirinhas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "bf6ed0302d2a9fca6cb428b7010a240b61168782"
+ }
+}

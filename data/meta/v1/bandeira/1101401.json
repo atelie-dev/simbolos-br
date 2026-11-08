@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1101401",
+ "uf": "RO",
+ "municipio": "Monte Negro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bandeira_Monte_Negro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Monte Negro.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bcc746c5d04cfed7aaf3813123880cfbe6ffdf1ac90f47c4a85b06c9f6f61645",
+ "rendicoes": {
+  "png": {
+   "bytes": 132495,
+   "sha256": "9558a9633eff16a037cc9f7b889f2aeb92713836f392c34af0883b050957e6b7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24309,
+   "sha256": "5c1f8acc75c6e105a8f0c9fb78800e3397086c018f825ae2a9adce2706a4ac9a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1101401.jpg",
+  "bytes": 112436,
+  "sha256": "bcc746c5d04cfed7aaf3813123880cfbe6ffdf1ac90f47c4a85b06c9f6f61645"
+ },
+ "sha1_origem": "014979ee32336a0298e855962e5c12b6be8b5e01",
+ "bytes_origem": 112436,
+ "capturado_em": "2026-11-08T05:21:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Monte_Negro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "014979ee32336a0298e855962e5c12b6be8b5e01"
+ }
+}

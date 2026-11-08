@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4112306",
+ "uf": "PR",
+ "municipio": "Japira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Japira_Bras%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "27add898f3ce21bb339293fd8ca24168fcb00d33c6e3c996776d07ba8f13aa15",
+ "rendicoes": {
+  "png": {
+   "bytes": 23485,
+   "sha256": "a0344cf7be49b9dac4182cc145612caae88a1669cd48f6685d9954d5d393bf4d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6521,
+   "sha256": "3a844ddcdeb1afe4fcb3ec163e1692f588fdf0d408fe4d0661ce5a5eea43a055",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4112306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4112306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4112306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4112306.jpg",
+  "bytes": 3243,
+  "sha256": "27add898f3ce21bb339293fd8ca24168fcb00d33c6e3c996776d07ba8f13aa15"
+ },
+ "sha1_origem": "e96ff4f5389cd9391fa3428c9cb40bff63292e86",
+ "bytes_origem": 3243,
+ "capturado_em": "2026-11-08T06:45:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Japira_Brasão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "e96ff4f5389cd9391fa3428c9cb40bff63292e86"
+ }
+}

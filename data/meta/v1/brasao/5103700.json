@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5103700",
+ "uf": "MT",
+ "municipio": "Feliz Natal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Brasao_feliz_natal.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Feliz Natal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b989466305475f1839f38abadb9cbfce1cca90d58445f36384616f79e489c1d3",
+ "rendicoes": {
+  "png": {
+   "bytes": 31940,
+   "sha256": "916baaf39a84369460d32431bb4ed7cc0cd53b8a474573a35c8baf0622b8cc6b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11785,
+   "sha256": "15c4e08fc8150c97d43e19f5a1856ed122e157c381a56507fb6b17449810aa31",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5103700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5103700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5103700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5103700.png",
+  "bytes": 35422,
+  "sha256": "b989466305475f1839f38abadb9cbfce1cca90d58445f36384616f79e489c1d3"
+ },
+ "sha1_origem": "af4250b088dd4603601592a5a4a8d5801d07de28",
+ "bytes_origem": 35422,
+ "capturado_em": "2026-11-08T07:14:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_feliz_natal.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "af4250b088dd4603601592a5a4a8d5801d07de28"
+ }
+}

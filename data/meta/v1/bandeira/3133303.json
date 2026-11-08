@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3133303",
+ "uf": "MG",
+ "municipio": "Itaobim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bandeira_Itaobim_SVG_001.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Felipe mézio",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d72e689276bed03e11c17bbce48778100fc529298ae65baed0f8f1d78994a299",
+ "rendicoes": {
+  "png": {
+   "bytes": 63708,
+   "sha256": "6c14f5a668a4d2c0f13927a24768e37a1771f9adb71da8843fe45c47a49b6aed",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30655,
+   "sha256": "b57c5f57613dedbfaa1d150ddd5c9d40b63915c8b419fd3e3e79ac8b646e7abe",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 13456,
+   "sha256": "d72e689276bed03e11c17bbce48778100fc529298ae65baed0f8f1d78994a299"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3133303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3133303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3133303.jpg"
+ },
+ "sha1_origem": "a40309f12ec830cd2f1551d2bae28886498e168d",
+ "bytes_origem": 13456,
+ "capturado_em": "2026-11-08T03:39:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itaobim_SVG_001.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "a40309f12ec830cd2f1551d2bae28886498e168d"
+ }
+}

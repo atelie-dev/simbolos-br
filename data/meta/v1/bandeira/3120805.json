@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3120805",
+ "uf": "MG",
+ "municipio": "Cruzília",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Flag_of_Cruz%C3%ADlia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Rogério Junqueira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "17810c99d9af126105abdf87a99d30f1b055b8b7646e3ea1d626356dab24c418",
+ "rendicoes": {
+  "png": {
+   "bytes": 1981,
+   "sha256": "6213c6f075d06bbd8862001120978bac1044cd9baa275dfe9f96796a5abfe017",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8933,
+   "sha256": "da8e2986583152b16fdd65f83c99a8ea2741fa8aefb1f12bbfa726bf04f62e85",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3120805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3120805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3120805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3120805.jpg",
+  "bytes": 49127,
+  "sha256": "17810c99d9af126105abdf87a99d30f1b055b8b7646e3ea1d626356dab24c418"
+ },
+ "sha1_origem": "374d2609a74923d768a85e1b1f9606ef888eb0e4",
+ "bytes_origem": 49127,
+ "capturado_em": "2026-11-08T06:05:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Cruzília.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "374d2609a74923d768a85e1b1f9606ef888eb0e4"
+ }
+}

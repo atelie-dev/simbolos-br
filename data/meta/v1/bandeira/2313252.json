@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2313252",
+ "uf": "CE",
+ "municipio": "Tarrafas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bandeira_de_Tarrafas.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "fe9680235c633ef8e52c671553d5ffe2ea2449c4226aeaabd186bf1259846468",
+ "rendicoes": {
+  "png": {
+   "bytes": 45811,
+   "sha256": "db770ba562646a393784a6a74e69928f22e79cb3b69b0cb80ff6ccf2569a49ee",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18284,
+   "sha256": "ca7210331df6f78160cae2febdd510156cf5d194ccd0bcd3275777aeb3d0f4a3",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 118528,
+   "sha256": "fe9680235c633ef8e52c671553d5ffe2ea2449c4226aeaabd186bf1259846468"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2313252.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2313252.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2313252.jpg"
+ },
+ "sha1_origem": "9da538a775491ffb234e486378d4a8b962d72805",
+ "bytes_origem": 118528,
+ "capturado_em": "2026-11-08T02:49:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Tarrafas.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "9da538a775491ffb234e486378d4a8b962d72805"
+ }
+}

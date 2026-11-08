@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4117107",
+ "uf": "PR",
+ "municipio": "Nova Londrina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bandeira_de_Nova_Londrina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "eab2245b0dcfa7c2512fd5ec0738842e245489193468410f0c7263ea557b1290",
+ "rendicoes": {
+  "png": {
+   "bytes": 77486,
+   "sha256": "31096b9ae8fe152d946391a423a30f0b68e0b3dbe2a65f8a96bee48233c1eeef",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19968,
+   "sha256": "3c1d7bb3f8d31da5a358a80c13f346241d2a6773aa4a4f8b3244f40b9a5b74c2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4117107.jpg",
+  "bytes": 26975,
+  "sha256": "eab2245b0dcfa7c2512fd5ec0738842e245489193468410f0c7263ea557b1290"
+ },
+ "sha1_origem": "72845aa111df26df7a8f41647e8cdf56ba597843",
+ "bytes_origem": 26975,
+ "capturado_em": "2026-11-08T06:47:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nova_Londrina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "72845aa111df26df7a8f41647e8cdf56ba597843"
+ }
+}

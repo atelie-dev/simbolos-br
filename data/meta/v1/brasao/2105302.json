@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2105302",
+ "uf": "MA",
+ "municipio": "Imperatriz",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bras%C3%A3o_de_Imperatriz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Antônio Carlos da Silva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "686784dfd049ed49cae7fc2ab3f8a1329090ccb028a31b4c0faa0a6d2aa4324d",
+ "rendicoes": {
+  "png": {
+   "bytes": 230634,
+   "sha256": "ea1df309dd10da53946807205e74419d297455ccf7c3a98e62d09ba8eba34a32",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38967,
+   "sha256": "14625d8547db5f937ec3bb3bea0f97bd85b51c0d93281e98d03a47b111e93757",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2105302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2105302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2105302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2105302.jpg",
+  "bytes": 141591,
+  "sha256": "686784dfd049ed49cae7fc2ab3f8a1329090ccb028a31b4c0faa0a6d2aa4324d"
+ },
+ "sha1_origem": "4e7270bc99ef6faba9f1d3acaa975056f138c132",
+ "bytes_origem": 141591,
+ "capturado_em": "2026-11-08T05:28:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Imperatriz.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "4e7270bc99ef6faba9f1d3acaa975056f138c132"
+ }
+}

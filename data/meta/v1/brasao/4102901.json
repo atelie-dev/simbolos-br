@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4102901",
+ "uf": "PR",
+ "municipio": "Bituruna",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Brasaobituruna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9fac1d7bb8034d75af50a8476659dbc2b1047b2534278030ae0402d0a005c32d",
+ "rendicoes": {
+  "png": {
+   "bytes": 192236,
+   "sha256": "30b3faf84aab8eb37b0fc6f285f4ebc64c69bb243596a1d805aa39ea01c6fa25",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34396,
+   "sha256": "7f43874d023922e6abdad0b3e1689325ac3d2c738f861e9b701b364035639b5f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4102901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4102901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4102901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4102901.jpg",
+  "bytes": 34902,
+  "sha256": "9fac1d7bb8034d75af50a8476659dbc2b1047b2534278030ae0402d0a005c32d"
+ },
+ "sha1_origem": "6df069e5840c039a5ad3f2130e4331e7481ea7fa",
+ "bytes_origem": 34902,
+ "capturado_em": "2026-11-08T06:41:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaobituruna.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "6df069e5840c039a5ad3f2130e4331e7481ea7fa"
+ }
+}

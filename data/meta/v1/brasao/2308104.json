@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2308104",
+ "uf": "CE",
+ "municipio": "Mauriti",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bras%C3%A3o_de_Mauriti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "José Wilton Montenegro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9caef0d88a492c91a244e02ff5eb259a76ba9d20a0793af104250e2e2142f223",
+ "rendicoes": {
+  "png": {
+   "bytes": 174770,
+   "sha256": "b5284b23bb5f15b03a2df171d09150bcdde375222d3159716fa4db21982b0ba6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33825,
+   "sha256": "32a2b09f3df0155432ad4926c66e64bcdcff18a5da5045316161f907c64ac317",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2308104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2308104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2308104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2308104.jpg",
+  "bytes": 37977,
+  "sha256": "9caef0d88a492c91a244e02ff5eb259a76ba9d20a0793af104250e2e2142f223"
+ },
+ "sha1_origem": "abe01078f288f698ae827e28d3531d180af4b025",
+ "bytes_origem": 37977,
+ "capturado_em": "2026-11-08T05:34:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Mauriti.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:06Z",
+  "estado": "igual",
+  "sha1_commons": "abe01078f288f698ae827e28d3531d180af4b025"
+ }
+}

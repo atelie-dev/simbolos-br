@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2903201",
+ "uf": "BA",
+ "municipio": "Barreiras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bras%C3%A3o_Barreiras_Bahia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Unknown",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0ed25f50dc06158a05174c3ea4bb59a9ad2358d10a8737631912a0dd1b03becb",
+ "rendicoes": {
+  "png": {
+   "bytes": 381842,
+   "sha256": "adee57073f552e4b718fefcc0fca1014d11191eab20b48c1caaf8b9183f7406c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 79455,
+   "sha256": "db6a46e20120ec044565a1c6d3b860ccaa3dbfdd6ec0f4834b80829fdf56c3de",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2903201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2903201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2903201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2903201.jpg",
+  "bytes": 449499,
+  "sha256": "0ed25f50dc06158a05174c3ea4bb59a9ad2358d10a8737631912a0dd1b03becb"
+ },
+ "sha1_origem": "40f72e61d785defdd3aa61319a8246f6001ff240",
+ "bytes_origem": 449499,
+ "capturado_em": "2026-11-08T05:51:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Barreiras_Bahia.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "40f72e61d785defdd3aa61319a8246f6001ff240"
+ }
+}

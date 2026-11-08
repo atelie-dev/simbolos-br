@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3545100",
+ "uf": "SP",
+ "municipio": "Salmourão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_Salmour%C3%A3o_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "City Hall of Salmourão",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bd13d29fced09f955589e38c4e635baf88c24dcf09c97788a25978e6256d9931",
+ "rendicoes": {
+  "png": {
+   "bytes": 63020,
+   "sha256": "bbda2502caaa099489629ad5a420ba3b43581e9466b6118bc3b0f54c1c5a13ae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19689,
+   "sha256": "f51b253124e4f3b1dc378a71f5185061fcf4740a5f98c5b809265e2d5b99b804",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3545100.png",
+  "bytes": 29134,
+  "sha256": "bd13d29fced09f955589e38c4e635baf88c24dcf09c97788a25978e6256d9931"
+ },
+ "sha1_origem": "96f5443a15c46d4fd34efdeb75b9c4b8e67c2cdd",
+ "bytes_origem": 29134,
+ "capturado_em": "2026-11-08T06:36:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Salmourão_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "96f5443a15c46d4fd34efdeb75b9c4b8e67c2cdd"
+ }
+}

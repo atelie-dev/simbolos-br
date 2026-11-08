@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3539608",
+ "uf": "SP",
+ "municipio": "Planalto",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Brasao_planalto_sp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Planalto-SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "55297b8f132e2d0a1a49fa8833b06b67280c07ff6e380894c3a653bd53a75ff5",
+ "rendicoes": {
+  "png": {
+   "bytes": 187419,
+   "sha256": "3cbfac4f7b3c7d400571b0d62a3a02b6ca3fef4a4fa3c0d75ef73dfb05355607",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 50107,
+   "sha256": "59a3254d4ff50908c20eb0ba5a68b6083427f22b5d88ec51ae1a0542654c3fb5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3539608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3539608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3539608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3539608.jpg",
+  "bytes": 136726,
+  "sha256": "55297b8f132e2d0a1a49fa8833b06b67280c07ff6e380894c3a653bd53a75ff5"
+ },
+ "sha1_origem": "be2a37f5db51f4a7eb31f5a0b54a41e1b451882d",
+ "bytes_origem": 136726,
+ "capturado_em": "2026-11-08T06:35:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_planalto_sp.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "be2a37f5db51f4a7eb31f5a0b54a41e1b451882d"
+ }
+}

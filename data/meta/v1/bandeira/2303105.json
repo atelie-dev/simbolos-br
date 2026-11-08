@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2303105",
+ "uf": "CE",
+ "municipio": "Cariré",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bandeira_de_Carir%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cido Gonçalves",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d2a4b57686a9ecb3c04709251ec9cc1421fc548f0dbe3ff160c187e4d1c2b652",
+ "rendicoes": {
+  "png": {
+   "bytes": 82838,
+   "sha256": "e3c3e3bde76dff04e8943e8c70645ea4b03a9be5579943998e91fdded5482b78",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20682,
+   "sha256": "acd9a6937c984e19cfbbb36136fcb75c045a80e0da8eb22c04da28f96b908242",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303105.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2303105.jpg",
+  "bytes": 264538,
+  "sha256": "d2a4b57686a9ecb3c04709251ec9cc1421fc548f0dbe3ff160c187e4d1c2b652"
+ },
+ "sha1_origem": "a06b671b306051ea14e68c0e07373c93008ef684",
+ "bytes_origem": 264538,
+ "capturado_em": "2026-11-08T05:32:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cariré.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "a06b671b306051ea14e68c0e07373c93008ef684"
+ }
+}

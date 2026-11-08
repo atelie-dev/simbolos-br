@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1720309",
+ "uf": "TO",
+ "municipio": "São Sebastião do Tocantins",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/P.M._de_S%C3%A3o_Sebasti%C3%A3o_do_Tocantins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Joniclair Carneiro da Silva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4281495a42517bf0eee9d10ef1621f00f4efe53090ee27529ee9876fbd00cc58",
+ "rendicoes": {
+  "png": {
+   "bytes": 89738,
+   "sha256": "10dc82bd53661dcae676b23020b525465545406adcc683f9425308186003f515",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16619,
+   "sha256": "3c0d5d328bba77e408d411bb4496f42d260cab36e5dcb7ce2deff91d1aebb8aa",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1720309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1720309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1720309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1720309.jpg",
+  "bytes": 8665,
+  "sha256": "4281495a42517bf0eee9d10ef1621f00f4efe53090ee27529ee9876fbd00cc58"
+ },
+ "sha1_origem": "de665b430cae1e814dd4c18688636bb64d5aa967",
+ "bytes_origem": 8665,
+ "capturado_em": "2026-11-08T05:26:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:P.M._de_São_Sebastião_do_Tocantins.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:34Z",
+  "estado": "igual",
+  "sha1_commons": "de665b430cae1e814dd4c18688636bb64d5aa967"
+ }
+}

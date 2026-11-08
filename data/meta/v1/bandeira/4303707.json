@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4303707",
+ "uf": "RS",
+ "municipio": "Campina das Missões",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bandeiracampina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "02be1463391f73e3a6ccbd982a446dc9a6720d0b6463f5e80424d9e3ad7fe3de",
+ "rendicoes": {
+  "png": {
+   "bytes": 244405,
+   "sha256": "3f4cfc22867c93649b4ba5192cda6977362fd3b592580048d56dbc114b197478",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28398,
+   "sha256": "0c292d2066ebf5f5ed6619f9b5c7dd9ebf3623cdd0b9ae6cd5c5a904c6f33372",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4303707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4303707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4303707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4303707.jpg",
+  "bytes": 103916,
+  "sha256": "02be1463391f73e3a6ccbd982a446dc9a6720d0b6463f5e80424d9e3ad7fe3de"
+ },
+ "sha1_origem": "986c3fdaa18014f024f5e76f97e4501473acfc5c",
+ "bytes_origem": 103916,
+ "capturado_em": "2026-11-08T07:00:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiracampina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "986c3fdaa18014f024f5e76f97e4501473acfc5c"
+ }
+}

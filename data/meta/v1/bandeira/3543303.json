@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3543303",
+ "uf": "SP",
+ "municipio": "Ribeirão Pires",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bandeira-ribeiraopires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ribeirão Pires City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "67437c49515736f38031868d55e5122c702b6dd90c465a95a4b31d9ff4394f7d",
+ "rendicoes": {
+  "png": {
+   "bytes": 25226,
+   "sha256": "6b57fdc12be833276391a72075f73aefa0d28d205927a844dda1fea95745a6d2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10268,
+   "sha256": "d6bb041ad0a9d537ee11fcb2a3651c7a497d3dc33883b18393a59632e3c806d2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3543303.jpg",
+  "bytes": 10392,
+  "sha256": "67437c49515736f38031868d55e5122c702b6dd90c465a95a4b31d9ff4394f7d"
+ },
+ "sha1_origem": "3cc796d3d1f5f31fb8e95bfc1c10f98ba02671aa",
+ "bytes_origem": 10392,
+ "capturado_em": "2026-11-08T06:36:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-ribeiraopires.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "3cc796d3d1f5f31fb8e95bfc1c10f98ba02671aa"
+ }
+}

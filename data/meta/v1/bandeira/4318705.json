@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4318705",
+ "uf": "RS",
+ "municipio": "São Leopoldo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bandeira_Sao_Leopoldo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of São Leopoldo.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5b17eb7e621698e1d77a7b1a65df19555153a78af5da253bacc92e0c258c968f",
+ "rendicoes": {
+  "png": {
+   "bytes": 23495,
+   "sha256": "9c7b5b9b9f7a2ecebd5beab33b1eddda8ee853de3b5607522fd62ec0b782d8c7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8329,
+   "sha256": "9931690ecca5eb16c8cc7147a3eddd1e9263084b54a16a3d11170dcdc8bb5ccf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318705.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4318705.jpg",
+  "bytes": 33240,
+  "sha256": "5b17eb7e621698e1d77a7b1a65df19555153a78af5da253bacc92e0c258c968f"
+ },
+ "sha1_origem": "9173816d2b64f2c97c74def6bf661a5183743fc9",
+ "bytes_origem": 33240,
+ "capturado_em": "2026-11-08T07:09:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Sao_Leopoldo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "9173816d2b64f2c97c74def6bf661a5183743fc9"
+ }
+}

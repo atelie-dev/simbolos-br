@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4309902",
+ "uf": "RS",
+ "municipio": "Ibiraiaras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bras%C3%A3o_Ibiraiaras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ibiraiaras",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2776130951116a371477fb9d15197ece67898177e24c1f0629cbb589d4d6d3bf",
+ "rendicoes": {
+  "png": {
+   "bytes": 182701,
+   "sha256": "abb440e33e751889327d69904e57436235056f398fe6d00525ad52a3502de561",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33555,
+   "sha256": "eda15aee2d1cde90798983c03c12db64fd1e7953df25560b319311443cdbbb11",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4309902.jpg",
+  "bytes": 27137,
+  "sha256": "2776130951116a371477fb9d15197ece67898177e24c1f0629cbb589d4d6d3bf"
+ },
+ "sha1_origem": "9d4233f7ff184bddcb8ba10d2019e7206a8116a3",
+ "bytes_origem": 27137,
+ "capturado_em": "2026-11-08T07:04:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Ibiraiaras.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "9d4233f7ff184bddcb8ba10d2019e7206a8116a3"
+ }
+}

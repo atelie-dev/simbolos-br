@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5209606",
+ "uf": "GO",
+ "municipio": "Heitoraí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bandeira_de_Heitora%C3%AD-GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Heitoraí, Goiás.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "908f8669c656894c199f4fc661b9f9c06e318eaa381d57c0db946dfe57f23a61",
+ "rendicoes": {
+  "png": {
+   "bytes": 38400,
+   "sha256": "5a82ab0759e3346eaab3bf6888bf76bdf2148379995db75bb72efe6b523c4076",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14658,
+   "sha256": "227157e019f81791c0904ee77dcc14b42f7d3442f20d8dcd6f57ea61bf4eec49",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5209606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5209606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5209606.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5209606.jpg",
+  "bytes": 15225,
+  "sha256": "908f8669c656894c199f4fc661b9f9c06e318eaa381d57c0db946dfe57f23a61"
+ },
+ "sha1_origem": "572e37720e96dbe40c0376354f780427eef30ab3",
+ "bytes_origem": 15225,
+ "capturado_em": "2026-11-08T07:18:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Heitoraí-GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "572e37720e96dbe40c0376354f780427eef30ab3"
+ }
+}

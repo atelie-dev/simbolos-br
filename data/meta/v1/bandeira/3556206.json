@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3556206",
+ "uf": "SP",
+ "municipio": "Valinhos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira-Valinhos.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "victorwestmann",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "6d84af08036fba4001f5263fe4272ef16c6a2781926f135188b18c45c267714b",
+ "rendicoes": {
+  "png": {
+   "bytes": 57450,
+   "sha256": "6c6776b27f983fa9576667e29fa82373df65493cfd360efaf76de768ca47e9f5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28581,
+   "sha256": "de3d0b1b71dba5ce8fedbe694579ce87faea6542df0f1dd3ce7644c9dd2a5454",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 363198,
+   "sha256": "6d84af08036fba4001f5263fe4272ef16c6a2781926f135188b18c45c267714b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556206.jpg"
+ },
+ "sha1_origem": "1b849e29c57e7081603eee4bd54280542ae0292a",
+ "bytes_origem": 363198,
+ "capturado_em": "2026-11-08T04:19:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-Valinhos.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "1b849e29c57e7081603eee4bd54280542ae0292a"
+ }
+}

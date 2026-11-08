@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3204351",
+ "uf": "ES",
+ "municipio": "Rio Bananal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Brasao-riobananal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Rio Bananal City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d9270b7e1cd7a3a479796a992943189bd3bccb95d67872714a259c2132b7a346",
+ "rendicoes": {
+  "png": {
+   "bytes": 135860,
+   "sha256": "60604cffa0321d53208bb56a21fcc63db3ae26d98b3c2294400769f558bcca78",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27974,
+   "sha256": "7c50ad957e10995acc1e1aeaa0c6f367606f1c8cfec2848034215ef5393c09b6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3204351.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3204351.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3204351.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3204351.jpg",
+  "bytes": 20886,
+  "sha256": "d9270b7e1cd7a3a479796a992943189bd3bccb95d67872714a259c2132b7a346"
+ },
+ "sha1_origem": "401aeea38be9ecefc16d71a69485538ada28aa81",
+ "bytes_origem": 20886,
+ "capturado_em": "2026-11-08T06:20:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-riobananal.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "401aeea38be9ecefc16d71a69485538ada28aa81"
+ }
+}

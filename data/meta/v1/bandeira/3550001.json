@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3550001",
+ "uf": "SP",
+ "municipio": "São Luiz do Paraitinga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saoluizdoparaitinga_bandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "53f3388fa35be5e670c3a29d017e67c37a6215e63593f6dda9e0a158ed5299c3",
+ "rendicoes": {
+  "png": {
+   "bytes": 14378,
+   "sha256": "332ccb374579e5b996465703b491c9f62021059a114946150cc10ef47f81a212",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9893,
+   "sha256": "6068b46549f7ee7887449c54406f4f7f81b9aecfaf58722cb9003bd29984c600",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3550001.png",
+  "bytes": 5532,
+  "sha256": "53f3388fa35be5e670c3a29d017e67c37a6215e63593f6dda9e0a158ed5299c3"
+ },
+ "sha1_origem": "f86ea4e26b8d219f451bb31ff17d13f05562b356",
+ "bytes_origem": 5532,
+ "capturado_em": "2026-11-08T06:38:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Saoluizdoparaitinga_bandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:36Z",
+  "estado": "igual",
+  "sha1_commons": "f86ea4e26b8d219f451bb31ff17d13f05562b356"
+ }
+}

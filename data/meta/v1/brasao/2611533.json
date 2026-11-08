@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2611533",
+ "uf": "PE",
+ "municipio": "Quixaba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Quixaba_PE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "http://www.quixaba.pe.gov.br/",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f64ba3b8656809169e5ae43791a7320a2ca990d8b9c1fb612aab78ed807830cb",
+ "rendicoes": {
+  "png": {
+   "bytes": 41714,
+   "sha256": "52cb8f4766d8a62e0f6f2c23ce888b21896a3d51274c958f656081b2cb2b60ca",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10911,
+   "sha256": "0d7986597b64d0138fc48b4613f208fbe86edfc513f4449f83d027d1615267a8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2611533.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2611533.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2611533.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2611533.jpg",
+  "bytes": 38295,
+  "sha256": "f64ba3b8656809169e5ae43791a7320a2ca990d8b9c1fb612aab78ed807830cb"
+ },
+ "sha1_origem": "243db23c93d193086ddf0e8ce1a098fc019980de",
+ "bytes_origem": 38295,
+ "capturado_em": "2026-11-08T05:46:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Quixaba_PE.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "243db23c93d193086ddf0e8ce1a098fc019980de"
+ }
+}

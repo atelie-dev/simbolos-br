@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4213203",
+ "uf": "SC",
+ "municipio": "Pomerode",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Brasao-pomerode.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a454ecbaf994dda069a85fbbadc7b35cba2bef399110fdbdd3826a7fd4b9440a",
+ "rendicoes": {
+  "png": {
+   "bytes": 204934,
+   "sha256": "626f1bb687751f19a05879067dd3d68ad268f7835f7b3d0eed55df373a69dafd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39709,
+   "sha256": "78fd263ddffa57c9d01bcf07c71c3bfc9af937bd5d8da27a1ca39f4d7f7acf43",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4213203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4213203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4213203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4213203.png",
+  "bytes": 200246,
+  "sha256": "a454ecbaf994dda069a85fbbadc7b35cba2bef399110fdbdd3826a7fd4b9440a"
+ },
+ "sha1_origem": "0875d33e67519cfbd0eb74e1a12cabf9961904ee",
+ "bytes_origem": 200246,
+ "capturado_em": "2026-11-08T06:56:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-pomerode.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "0875d33e67519cfbd0eb74e1a12cabf9961904ee"
+ }
+}

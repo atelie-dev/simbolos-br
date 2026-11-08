@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3512803",
+ "uf": "SP",
+ "municipio": "Cosmópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Cosmopolis-brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "015a524b7cfe0a18b121b058f9058591cfa25e44d706fad695c7f16944342826",
+ "rendicoes": {
+  "png": {
+   "bytes": 53757,
+   "sha256": "2efc40c7703cc84b92c10c27ec620ecbcab090187623df97f31103bf341239d4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31821,
+   "sha256": "b7b4018515dffe8c03d9be23de6f963318b07e02087e15d004e20ec143093503",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3512803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3512803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3512803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3512803.png",
+  "bytes": 30943,
+  "sha256": "015a524b7cfe0a18b121b058f9058591cfa25e44d706fad695c7f16944342826"
+ },
+ "sha1_origem": "4224e4ec835a923882804a2b219e1cf10ec208ac",
+ "bytes_origem": 30943,
+ "capturado_em": "2026-11-08T06:26:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cosmopolis-brasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "4224e4ec835a923882804a2b219e1cf10ec208ac"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4323309",
+ "uf": "RS",
+ "municipio": "Vila Flores",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Vila_Floresrsbrasoes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Vila Flores",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "73de91b649cb2f05f40abb2d08c00f6ff3bbffb1ed112a19d4f6f57168831ea5",
+ "rendicoes": {
+  "png": {
+   "bytes": 64012,
+   "sha256": "31abbcfa4c9c9705a57bd9d1de96ab8a0ad39039a4dcac09e87ef64eebf48f97",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14625,
+   "sha256": "cf85c0f5f0b1458cddcfb343b2ea8dba2b128cfe5295cc31b71ca096bb7a43b2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4323309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4323309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4323309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4323309.jpg",
+  "bytes": 15471,
+  "sha256": "73de91b649cb2f05f40abb2d08c00f6ff3bbffb1ed112a19d4f6f57168831ea5"
+ },
+ "sha1_origem": "41fb3c8d9c732aa86d063a43aa769391d191c6e9",
+ "bytes_origem": 15471,
+ "capturado_em": "2026-11-08T07:11:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Vila_Floresrsbrasoes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "41fb3c8d9c732aa86d063a43aa769391d191c6e9"
+ }
+}

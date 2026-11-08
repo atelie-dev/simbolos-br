@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5004809",
+ "uf": "MS",
+ "municipio": "Japorã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bandeira_de_Japor%C3%A3%2C_MS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c623e19f77ed30f846851a6ed3034d9568b20a053e27397379a1a78313078f45",
+ "rendicoes": {
+  "png": {
+   "bytes": 35597,
+   "sha256": "1b40aeadfbf5f70a1f6c3bf7c2a78e9068d054122c06c0e6e91c423d2614418d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15172,
+   "sha256": "cdabe92c3bffaca13669a3ba0e0a769e46ac55f4cd6953b0004e34b2f41cafa0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5004809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5004809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5004809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5004809.png",
+  "bytes": 38236,
+  "sha256": "c623e19f77ed30f846851a6ed3034d9568b20a053e27397379a1a78313078f45"
+ },
+ "sha1_origem": "82560754ed5c67fbfef88052f9a4c70aeb987bb4",
+ "bytes_origem": 38236,
+ "capturado_em": "2026-11-08T07:13:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Japorã,_MS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "82560754ed5c67fbfef88052f9a4c70aeb987bb4"
+ }
+}

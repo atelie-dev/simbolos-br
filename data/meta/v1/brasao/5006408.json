@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5006408",
+ "uf": "MS",
+ "municipio": "Pedro Gomes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Pedro_Gomes.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b3e4facdcba4104807f2fa548c10ef55e80d32c9771aa14f2d5c1fb3f47541a8",
+ "rendicoes": {
+  "png": {
+   "bytes": 252240,
+   "sha256": "41b1ce1db3cf226b290642a79aa5df176b78d6b17d958445d4c013a6bd8816b6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 73934,
+   "sha256": "d221c725c6676dd9d79faec0316e120f5fdf2594f7cc5f9b63b835f333797165",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5006408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5006408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5006408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5006408.png",
+  "bytes": 71824,
+  "sha256": "b3e4facdcba4104807f2fa548c10ef55e80d32c9771aa14f2d5c1fb3f47541a8"
+ },
+ "sha1_origem": "53330717fa02f9d5e6ff96ad7f2f97eec1d38b39",
+ "bytes_origem": 71824,
+ "capturado_em": "2026-11-08T07:13:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Pedro_Gomes.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "53330717fa02f9d5e6ff96ad7f2f97eec1d38b39"
+ }
+}

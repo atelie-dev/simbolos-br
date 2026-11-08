@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4320677",
+ "uf": "RS",
+ "municipio": "Sinimbu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bras%C3%A3o_Sinimbu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Sinimbu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e1fa543aea5add69e872529100fdce843f49308bd785ef1618736f79f1fa5512",
+ "rendicoes": {
+  "png": {
+   "bytes": 440775,
+   "sha256": "941df724a28f85a612857c8932fe0a676e3cb43097f27a99bba7b675dd0df13e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63829,
+   "sha256": "6274b81b92349b2940831ab753ef9425710e2c53f8b79d2b40d4e802f73ace6f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320677.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320677.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320677.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4320677.jpg",
+  "bytes": 1127541,
+  "sha256": "e1fa543aea5add69e872529100fdce843f49308bd785ef1618736f79f1fa5512"
+ },
+ "sha1_origem": "d338103e62b1b03bf7b162bc16fe22ba6e8d0578",
+ "bytes_origem": 1127541,
+ "capturado_em": "2026-11-08T07:10:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Sinimbu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "d338103e62b1b03bf7b162bc16fe22ba6e8d0578"
+ }
+}

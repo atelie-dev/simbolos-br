@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1721000",
+ "uf": "TO",
+ "municipio": "Palmas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Brasao_palmas_tocantins.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Palmas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "dc66053d4797316018dd5392d4df8dc074b05999d0b55658910c07956c8e18ac",
+ "rendicoes": {
+  "png": {
+   "bytes": 209777,
+   "sha256": "f90186f3bf60c42b8fae23b121e13b7384a22b53e99cf5c30ff109e74d535a78",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44100,
+   "sha256": "1670479efc9efe845c440142508ed15239a3a1553315ac619352bf79d03fd152",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1721000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1721000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1721000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1721000.png",
+  "bytes": 392748,
+  "sha256": "dc66053d4797316018dd5392d4df8dc074b05999d0b55658910c07956c8e18ac"
+ },
+ "sha1_origem": "8671bd4e799defbac0b6d45a3cc098f07967b64e",
+ "bytes_origem": 392748,
+ "capturado_em": "2026-11-08T05:27:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_palmas_tocantins.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "8671bd4e799defbac0b6d45a3cc098f07967b64e"
+ }
+}

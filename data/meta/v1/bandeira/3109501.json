@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3109501",
+ "uf": "MG",
+ "municipio": "Cabo Verde",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bandeira_do_munic%C3%ADpio_de_Cabo_Verde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ernani Zimmermann",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "740fad670f41c5a5e738ea81eb9ef2a761184a8ee07aba24d84aa08dc80c0502",
+ "rendicoes": {
+  "png": {
+   "bytes": 46787,
+   "sha256": "a47cb246d11edec449a3921195dd40906f4e33c9e8d076a9bdbf0f6aa7b81788",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15554,
+   "sha256": "533cf7c595c6b0b2d5b506eb2ad769a939536cf599ace979cef65c0d81f7adb9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3109501.jpg",
+  "bytes": 10988,
+  "sha256": "740fad670f41c5a5e738ea81eb9ef2a761184a8ee07aba24d84aa08dc80c0502"
+ },
+ "sha1_origem": "751ded0ae784a844ed2ed2382cd485745a9037fa",
+ "bytes_origem": 10988,
+ "capturado_em": "2026-11-08T06:01:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Cabo_Verde.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "751ded0ae784a844ed2ed2382cd485745a9037fa"
+ }
+}

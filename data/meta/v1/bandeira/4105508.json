@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4105508",
+ "uf": "PR",
+ "municipio": "Cianorte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bandeira_de_Cianorte%2C_PR.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "prefeitura de cianorte",
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "117f70fbeca7af906c44955788993527e72c1af547bc847c5eeec21ab76dd7d1",
+ "rendicoes": {
+  "png": {
+   "bytes": 10592,
+   "sha256": "1d7e9c6197195362ab694194442e480aa0cd28a58e41ee710ba13c034c70a184",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7335,
+   "sha256": "59a4ee26c87bf2ff1619aeec4ee1207e36da433406bb9cbf5369fb06e58c6214",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4105508.gif",
+  "bytes": 2755,
+  "sha256": "117f70fbeca7af906c44955788993527e72c1af547bc847c5eeec21ab76dd7d1"
+ },
+ "sha1_origem": "d0a5ddd6d91fd335f23cdc922ee46b920eacf3dd",
+ "bytes_origem": 2755,
+ "capturado_em": "2026-11-08T06:42:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cianorte,_PR.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "d0a5ddd6d91fd335f23cdc922ee46b920eacf3dd"
+ }
+}

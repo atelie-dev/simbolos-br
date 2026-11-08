@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4310579",
+ "uf": "RS",
+ "municipio": "Itapuca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bandeira_Itapuca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Itapuca",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8e5f22d3f073eaf1b1610bb1ec64126270d1ee8d9ef5f8681ad63f7f8facae68",
+ "rendicoes": {
+  "png": {
+   "bytes": 30819,
+   "sha256": "78552a8d03242b4a5f0353c21482cafc313cd9ccbd63f59775919d029b89238a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7524,
+   "sha256": "bb39048777e0be63548647ee30daa24b5d8ce58437343d006026fcdbf9783f63",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310579.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310579.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310579.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4310579.jpg",
+  "bytes": 4345,
+  "sha256": "8e5f22d3f073eaf1b1610bb1ec64126270d1ee8d9ef5f8681ad63f7f8facae68"
+ },
+ "sha1_origem": "0efe401840bf97232ec049e298a5f74e7a7e6af1",
+ "bytes_origem": 4345,
+ "capturado_em": "2026-11-08T07:04:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itapuca.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "0efe401840bf97232ec049e298a5f74e7a7e6af1"
+ }
+}

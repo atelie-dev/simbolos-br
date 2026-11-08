@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2501906",
+ "uf": "PB",
+ "municipio": "Belém",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Brasao_belem_paraiba.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura Municipal de Belém (Paraíba)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fabd23841f617bf55f0b164244fd9625d7332fc79773e472aee1ccc81b70059c",
+ "rendicoes": {
+  "png": {
+   "bytes": 194012,
+   "sha256": "a3874583039cb7f0b65c3e27466aa279ee183e50ae770d092c15ecdb705a0189",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 50724,
+   "sha256": "fae41d94198ca8e812ecb7d84b06ff4f3bd312fc3dc7a0bfe730d1e564b72b11",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501906.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501906.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501906.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2501906.png",
+  "bytes": 1563874,
+  "sha256": "fabd23841f617bf55f0b164244fd9625d7332fc79773e472aee1ccc81b70059c"
+ },
+ "sha1_origem": "c93a4aab8780c42508e4192ec3944655480fd259",
+ "bytes_origem": 1563874,
+ "capturado_em": "2026-11-08T05:40:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_belem_paraiba.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:36Z",
+  "estado": "igual",
+  "sha1_commons": "c93a4aab8780c42508e4192ec3944655480fd259"
+ }
+}

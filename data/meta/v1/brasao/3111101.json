@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3111101",
+ "uf": "MG",
+ "municipio": "Campina Verde",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Campina_Verdemgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Campina Verde",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "48ba5778f2aa94167670057ac2b90e490f0ee598ae93370128bfb7ef6ab4547f",
+ "rendicoes": {
+  "png": {
+   "bytes": 143345,
+   "sha256": "85057a462c918f81ae9de23e5a73e53551bf5bbff96340c6a5124956b5c42844",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28969,
+   "sha256": "0169732e85df52a9a513ffd65d7189f201cfee8bfa8718e67874a6e7a0b6c6c0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3111101.jpg",
+  "bytes": 18306,
+  "sha256": "48ba5778f2aa94167670057ac2b90e490f0ee598ae93370128bfb7ef6ab4547f"
+ },
+ "sha1_origem": "4eb231553f6db26b2b77f7cd20d7f48cc1a67e86",
+ "bytes_origem": 18306,
+ "capturado_em": "2026-11-08T06:02:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Campina_Verdemgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "4eb231553f6db26b2b77f7cd20d7f48cc1a67e86"
+ }
+}

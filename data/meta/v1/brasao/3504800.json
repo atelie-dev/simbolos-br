@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3504800",
+ "uf": "SP",
+ "municipio": "Bálsamo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bras%C3%A3o_de_B%C3%A1lsamo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d876b4322a13fb58b38540fca18bd94e2f283da7ac4457d79eecb6474935a511",
+ "rendicoes": {
+  "png": {
+   "bytes": 288618,
+   "sha256": "7d130b750159679e681aebda4e690b530ca20cb502dde3a228908e710cc70d5f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48347,
+   "sha256": "51de0e46ed8f07824aa85681e757833fbf8e39abf11d7f005a5a14c9c96a1ee8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3504800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3504800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3504800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3504800.jpg",
+  "bytes": 218617,
+  "sha256": "d876b4322a13fb58b38540fca18bd94e2f283da7ac4457d79eecb6474935a511"
+ },
+ "sha1_origem": "7cf19bc11095f18c4eae37019fd63568d7ec3abc",
+ "bytes_origem": 218617,
+ "capturado_em": "2026-11-08T06:24:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Bálsamo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "7cf19bc11095f18c4eae37019fd63568d7ec3abc"
+ }
+}

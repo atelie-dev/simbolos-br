@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5210109",
+ "uf": "GO",
+ "municipio": "Ipameri",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bandeira-ipameri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ipameri City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "75cf425817bd706596a56062cdb95fbe5f32da880fb948aaced699bb421095b7",
+ "rendicoes": {
+  "png": {
+   "bytes": 72429,
+   "sha256": "05c20a14a1189e88eed6770e0f459844a7c5dd9225cb6b2178b651434e6aacef",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20806,
+   "sha256": "506352aafeddc1fd354b96daa706b8d45e24f6963bfd5c19456e2b59b0acd220",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5210109.jpg",
+  "bytes": 20333,
+  "sha256": "75cf425817bd706596a56062cdb95fbe5f32da880fb948aaced699bb421095b7"
+ },
+ "sha1_origem": "4a361bfbe605ba525035ca2726f2c8a18086733b",
+ "bytes_origem": 20333,
+ "capturado_em": "2026-11-08T07:18:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-ipameri.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "4a361bfbe605ba525035ca2726f2c8a18086733b"
+ }
+}

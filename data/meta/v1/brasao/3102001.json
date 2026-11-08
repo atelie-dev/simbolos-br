@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3102001",
+ "uf": "MG",
+ "municipio": "Alterosa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bras%C3%A3o_de_Alterosa_-_MG.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "81da9f227937f5827e2ce4d45f64d9278d2c47fc55a250e93e59797e8de91eaa",
+ "rendicoes": {
+  "png": {
+   "bytes": 148612,
+   "sha256": "d115ff43d62288c17ea19ecdcd0d5c9e12ce800c215fc2bb53d90d1206c3df0c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48425,
+   "sha256": "7326ab731003896fe69675d808d625e13586207d06edce197ae9f749ab4aaf23",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 220967,
+   "sha256": "81da9f227937f5827e2ce4d45f64d9278d2c47fc55a250e93e59797e8de91eaa"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3102001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3102001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3102001.jpg"
+ },
+ "sha1_origem": "164c5558e302399b876ac0df2f5a819a74482c20",
+ "bytes_origem": 220967,
+ "capturado_em": "2026-11-08T03:25:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Alterosa_-_MG.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "164c5558e302399b876ac0df2f5a819a74482c20"
+ }
+}

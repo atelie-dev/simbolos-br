@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5105259",
+ "uf": "MT",
+ "municipio": "Lucas do Rio Verde",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bras%C3%A3o_de_Lucas_do_Rio_Verde.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "João Aparecido Hernando de Mattos",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bb4963c99eb826ee2ef08b8b5403f85dbdf3bfb7bd52e4e726493c0b49bb0d0a",
+ "rendicoes": {
+  "png": {
+   "bytes": 227069,
+   "sha256": "f3241b4d5baf7f45729377d7f59a3905b747a7abf5e37d477ada62038726f7ad",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 68844,
+   "sha256": "e0018e91cfa52816215fa2550d92136db0d07640836f17df2d6aa8f1c6059552",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5105259.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5105259.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5105259.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5105259.png",
+  "bytes": 260146,
+  "sha256": "bb4963c99eb826ee2ef08b8b5403f85dbdf3bfb7bd52e4e726493c0b49bb0d0a"
+ },
+ "sha1_origem": "b425970a70eb9a326836089b3c5184c5a5712806",
+ "bytes_origem": 260146,
+ "capturado_em": "2026-11-08T07:14:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Lucas_do_Rio_Verde.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:05Z",
+  "estado": "igual",
+  "sha1_commons": "b425970a70eb9a326836089b3c5184c5a5712806"
+ }
+}

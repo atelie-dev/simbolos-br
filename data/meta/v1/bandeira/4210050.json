@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4210050",
+ "uf": "SC",
+ "municipio": "Macieira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bandeira_do_munic%C3%ADpio_de_Macieira_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Macieira (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fb1e358c275a84c1b01ab221100a9cc53a4281d8978b3913f57c15be7d8755e2",
+ "rendicoes": {
+  "png": {
+   "bytes": 32713,
+   "sha256": "5336d615e90dbb6e9711981f182f3d309e8c99ee0620482133b061775fe231e1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17025,
+   "sha256": "6bc667d5fdb7ddaf6b45d9a9aa531133d8184bdc96d67cfd4249b96a182e3b0d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210050.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210050.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210050.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4210050.png",
+  "bytes": 663737,
+  "sha256": "fb1e358c275a84c1b01ab221100a9cc53a4281d8978b3913f57c15be7d8755e2"
+ },
+ "sha1_origem": "f7cd683075761deafe77ee70140fac89a1f4da91",
+ "bytes_origem": 663737,
+ "capturado_em": "2026-11-08T06:54:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Macieira_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "f7cd683075761deafe77ee70140fac89a1f4da91"
+ }
+}

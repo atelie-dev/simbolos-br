@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3109709",
+ "uf": "MG",
+ "municipio": "Cachoeira de Minas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bandeira_de_Cachoeira_de_Minas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d6d56d0c8d9678464817ceaf2941644a1a4ebc718b206a3a071e4b694d20e1f3",
+ "rendicoes": {
+  "png": {
+   "bytes": 99619,
+   "sha256": "de2b53472c72a73b08376914e68ff150c4151f545915cb93368e9a3d502138bd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21405,
+   "sha256": "43da3acbd53355a55cd5adf4df71c7d03b19312138798bb9ac10193dff99920a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109709.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3109709.jpg",
+  "bytes": 27100,
+  "sha256": "d6d56d0c8d9678464817ceaf2941644a1a4ebc718b206a3a071e4b694d20e1f3"
+ },
+ "sha1_origem": "f150672c52884408706aedb23f3f63b9d4ea8bc1",
+ "bytes_origem": 27100,
+ "capturado_em": "2026-11-08T06:01:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cachoeira_de_Minas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "f150672c52884408706aedb23f3f63b9d4ea8bc1"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1502400",
+ "uf": "PA",
+ "municipio": "Castanhal",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bandcast.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "The original uploader was Infern0s at Portuguese Wikipedia.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "feb615f1cd130f4782d5f82faa4d82c8463691212db3055469136f4b89cb2282",
+ "rendicoes": {
+  "png": {
+   "bytes": 16839,
+   "sha256": "f91c367778c56670310e6305907bc6b089277122c55e0d141821c51d7cc9026f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5255,
+   "sha256": "b87a40d0b50206be9044ab8483f08591c6f63e370c3e7e2b3cdb5fd52ba25a20",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1502400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1502400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1502400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1502400.jpg",
+  "bytes": 5410,
+  "sha256": "feb615f1cd130f4782d5f82faa4d82c8463691212db3055469136f4b89cb2282"
+ },
+ "sha1_origem": "f946bcefa078e4fd6ea2d8733f763f8545985bfc",
+ "bytes_origem": 5410,
+ "capturado_em": "2026-11-08T05:24:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandcast.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "f946bcefa078e4fd6ea2d8733f763f8545985bfc"
+ }
+}

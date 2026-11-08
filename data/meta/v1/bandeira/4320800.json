@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4320800",
+ "uf": "RS",
+ "municipio": "Soledade",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Bandeira_Soledade.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Soledade.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3d295bbf713c95d53500e271606193124409652df5c7ed7d16001f1c73a3a0d2",
+ "rendicoes": {
+  "png": {
+   "bytes": 35348,
+   "sha256": "f4bddee802feb332a65123dbb92d5c86c3fec072168c638e50a93b0aff989d27",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25022,
+   "sha256": "377f3e9c8e1b33a42d057dddffb495bc8a01e3d6b771668564f6d96144286f0b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4320800.png",
+  "bytes": 48561,
+  "sha256": "3d295bbf713c95d53500e271606193124409652df5c7ed7d16001f1c73a3a0d2"
+ },
+ "sha1_origem": "a8c9d31d2d1932ee195c15b9defde38647384b4a",
+ "bytes_origem": 48561,
+ "capturado_em": "2026-11-08T07:10:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Soledade.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "a8c9d31d2d1932ee195c15b9defde38647384b4a"
+ }
+}

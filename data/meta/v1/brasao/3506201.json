@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3506201",
+ "uf": "SP",
+ "municipio": "Bento de Abreu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bento_de_Abreu.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "921f88b2591b1f7fbd686f3b8b318ba05a71e8a86f86de96dec72a13d8e06f72",
+ "rendicoes": {
+  "png": {
+   "bytes": 463058,
+   "sha256": "f9b0103231e0dbc3eb6ff307a3e05bf769d64b3fca832ee659ad7636b5544060",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 80703,
+   "sha256": "665f1e12c3793254d12bcc8f1cb6f03d50e5050b788c7e30f869cca5001bde13",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3506201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3506201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3506201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3506201.png",
+  "bytes": 426299,
+  "sha256": "921f88b2591b1f7fbd686f3b8b318ba05a71e8a86f86de96dec72a13d8e06f72"
+ },
+ "sha1_origem": "a95aaf0dbbddda49023faf17e7cd210f75bb8c09",
+ "bytes_origem": 426299,
+ "capturado_em": "2026-11-08T06:24:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bento_de_Abreu.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "a95aaf0dbbddda49023faf17e7cd210f75bb8c09"
+ }
+}

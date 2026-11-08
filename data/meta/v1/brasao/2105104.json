@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2105104",
+ "uf": "MA",
+ "municipio": "Icatu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Icatu_Brasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Icatu, MA",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "63e7ec7469c84c5900b66f82b45edd1cb2d865c83cbfc22569a46bdf34fae295",
+ "rendicoes": {
+  "png": {
+   "bytes": 114357,
+   "sha256": "1b0e53a7ac6c8ff378e3ac0a874e1230a540eb2d669245496dba3c360a418e8f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24088,
+   "sha256": "24aaae547467a805d6ab5a0710065a189615039ebd79f9ee5b3e197dffba1a3f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2105104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2105104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2105104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2105104.jpg",
+  "bytes": 35446,
+  "sha256": "63e7ec7469c84c5900b66f82b45edd1cb2d865c83cbfc22569a46bdf34fae295"
+ },
+ "sha1_origem": "3a597af15c917cd835674d3930320ce3419c205c",
+ "bytes_origem": 35446,
+ "capturado_em": "2026-11-08T05:28:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Icatu_Brasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "3a597af15c917cd835674d3930320ce3419c205c"
+ }
+}

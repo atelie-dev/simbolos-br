@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532405",
+ "uf": "SP",
+ "municipio": "Nazaré Paulista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Nazar%C3%A9_Paulista.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Paulo Vinicius da Silva",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ea499e8e457d5c41103aa1a71db006fe0ee5ffc98330d05e31bed08fd0b87c7b",
+ "rendicoes": {
+  "png": {
+   "bytes": 39771,
+   "sha256": "0d8569c53fefad9bfd38217dc25681a62393f91a199bb244f451f2441f4864f2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11363,
+   "sha256": "12526aa553ac9180e2efe49ae101e0c3e9451618eaf770ae58683036a148baa8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3532405.png",
+  "bytes": 37700,
+  "sha256": "ea499e8e457d5c41103aa1a71db006fe0ee5ffc98330d05e31bed08fd0b87c7b"
+ },
+ "sha1_origem": "86de4505a2412083d03e490b88cb2b8c200cb7ee",
+ "bytes_origem": 37700,
+ "capturado_em": "2026-11-08T06:32:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Nazaré_Paulista.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:34Z",
+  "estado": "igual",
+  "sha1_commons": "86de4505a2412083d03e490b88cb2b8c200cb7ee"
+ }
+}

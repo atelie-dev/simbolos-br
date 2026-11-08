@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3300407",
+ "uf": "RJ",
+ "municipio": "Barra Mansa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Barra_Mansa-Prefeitura-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "54940173eea88277395c49c09b1115cd51346b997b79a835561a1d90db14abe3",
+ "rendicoes": {
+  "png": {
+   "bytes": 54880,
+   "sha256": "3ce3662fb394fe9edf0bfc4c41cf5d78160e740862f46266591950cd9cfbfdf0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12532,
+   "sha256": "26e198717ff38045d61a4c6a657459672f9feb07ad918f7783cdd86bbd5242d2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3300407.jpg",
+  "bytes": 12501,
+  "sha256": "54940173eea88277395c49c09b1115cd51346b997b79a835561a1d90db14abe3"
+ },
+ "sha1_origem": "e419a668caab630563144c445751c08c7b482650",
+ "bytes_origem": 12501,
+ "capturado_em": "2026-11-08T06:20:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Barra_Mansa-Prefeitura-2.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "e419a668caab630563144c445751c08c7b482650"
+ }
+}

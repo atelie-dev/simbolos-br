@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2306603",
+ "uf": "CE",
+ "municipio": "Itatira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bandeira_Itatira.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9ac6f1bff3d64a58da2a14fc9a10e9233362b590b8799754863ec6dfdbc84925",
+ "rendicoes": {
+  "png": {
+   "bytes": 7594,
+   "sha256": "526e5daa7fc8724a34aca72173065bd69730a8948f7660f31f88c2074cd57c56",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10300,
+   "sha256": "8a2345e3577691a8f3e797d11aa0acb7cee548a0a042b9b1a2ad474f785c4276",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 7320,
+   "sha256": "9ac6f1bff3d64a58da2a14fc9a10e9233362b590b8799754863ec6dfdbc84925"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2306603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2306603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2306603.jpg"
+ },
+ "sha1_origem": "2307df15daa4e52883695facfc63cc9770ab74b1",
+ "bytes_origem": 7320,
+ "capturado_em": "2026-11-08T02:46:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itatira.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "2307df15daa4e52883695facfc63cc9770ab74b1"
+ }
+}

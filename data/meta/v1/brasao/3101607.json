@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3101607",
+ "uf": "MG",
+ "municipio": "Alfenas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bras%C3%A3o_Alfenas_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Alfenas_MG",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3b4b149f5c2b1999c287d221fccbd3a148b888098ef35f6da2db99a3de915a17",
+ "rendicoes": {
+  "png": {
+   "bytes": 32432,
+   "sha256": "3a9e15903b94e9864ede3cf123a9cfc1701b1592a769c4d72677dd37de0328e6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10576,
+   "sha256": "a5c76660466d2f0e47cfe156346717db576bb2ce9c4526d70be703c28b7309b5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101607.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101607.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101607.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3101607.png",
+  "bytes": 29605,
+  "sha256": "3b4b149f5c2b1999c287d221fccbd3a148b888098ef35f6da2db99a3de915a17"
+ },
+ "sha1_origem": "31da84d7fd0c6dbace703866f77906b2f01d89de",
+ "bytes_origem": 29605,
+ "capturado_em": "2026-11-08T05:58:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Alfenas_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "31da84d7fd0c6dbace703866f77906b2f01d89de"
+ }
+}

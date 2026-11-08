@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3524204",
+ "uf": "SP",
+ "municipio": "Jaborandi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bandeira_Jaborandi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5c2e03f6f3d41d9e1c232252e5b7fdb1815fe4856293da03823cb44853f620a5",
+ "rendicoes": {
+  "png": {
+   "bytes": 25863,
+   "sha256": "440a00db9100f071d28c87f2e9c2566b07bc86ef69ea6b21e2715003fe54c589",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11900,
+   "sha256": "2eb04b1261b8733af8450ebb8dfe061b217373427fca892b4459a02054526d0c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3524204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3524204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3524204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3524204.png",
+  "bytes": 26682,
+  "sha256": "5c2e03f6f3d41d9e1c232252e5b7fdb1815fe4856293da03823cb44853f620a5"
+ },
+ "sha1_origem": "f711db73c278fd45461df48a1b28d9251d018cde",
+ "bytes_origem": 26682,
+ "capturado_em": "2026-11-08T06:30:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Jaborandi.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "f711db73c278fd45461df48a1b28d9251d018cde"
+ }
+}

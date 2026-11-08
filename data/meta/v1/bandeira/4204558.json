@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4204558",
+ "uf": "SC",
+ "municipio": "Correia Pinto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bandeira_CorreiaPinto_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Correia Pinto",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d6813258e8d54cedc80efa71d44fec1d89d2ceee4249cc230967b0f9c2210181",
+ "rendicoes": {
+  "png": {
+   "bytes": 18049,
+   "sha256": "823e4b822cebfc1c4c96ef462bf6e8491ced9535431a6b5bdd0a3c6e9cac1522",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6123,
+   "sha256": "899af505be36c77ae88e25c829da910e527f20029251d53b97a35f42a5250378",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204558.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204558.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204558.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4204558.jpg",
+  "bytes": 23331,
+  "sha256": "d6813258e8d54cedc80efa71d44fec1d89d2ceee4249cc230967b0f9c2210181"
+ },
+ "sha1_origem": "6a04860bd24ddfe98214128d23037a6a7121e458",
+ "bytes_origem": 23331,
+ "capturado_em": "2026-11-08T06:52:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_CorreiaPinto_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "6a04860bd24ddfe98214128d23037a6a7121e458"
+ }
+}

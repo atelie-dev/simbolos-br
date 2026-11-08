@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4115200",
+ "uf": "PR",
+ "municipio": "Maringá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bandeira_de_Maring%C3%A1_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5c669d522e6857e60d0c116bdebd33f83a57679a98565d1272f44130378b2c1e",
+ "rendicoes": {
+  "png": {
+   "bytes": 33407,
+   "sha256": "b27377101e9478ed316e75d413fd73974c6248a7a61eba5f46f7dbda1974282b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15414,
+   "sha256": "a3b67abd012857d4010f4e9e43928fa5739200f771d109fb5a7c9dd8573f1195",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 297649,
+   "sha256": "5c669d522e6857e60d0c116bdebd33f83a57679a98565d1272f44130378b2c1e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115200.jpg"
+ },
+ "sha1_origem": "6a95dfcd81a4726c258f460d6b07918257f4065f",
+ "bytes_origem": 297649,
+ "capturado_em": "2026-11-08T04:28:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Maringá_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "6a95dfcd81a4726c258f460d6b07918257f4065f"
+ }
+}

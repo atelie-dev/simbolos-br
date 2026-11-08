@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4120101",
+ "uf": "PR",
+ "municipio": "Porto Amazonas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bras%C3%A3o_Porto_Amazonas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Porto Amazonas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "de3ff4d0e27288c73292f16854b9a49e4647dbbc714ec69f2223875bba880418",
+ "rendicoes": {
+  "png": {
+   "bytes": 112830,
+   "sha256": "a68a36c4c9629c0a08ccc290d865d67140cb10d680e494b50f6d788f7a830e79",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24232,
+   "sha256": "60ded8c461941a5db6a000f574aaae91c00da144130d0d70733b249eb7a7e7a6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4120101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4120101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4120101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4120101.jpg",
+  "bytes": 24789,
+  "sha256": "de3ff4d0e27288c73292f16854b9a49e4647dbbc714ec69f2223875bba880418"
+ },
+ "sha1_origem": "a164972dbecd8a0339b2406b272206c81d4552dc",
+ "bytes_origem": 24789,
+ "capturado_em": "2026-11-08T06:48:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Porto_Amazonas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:53Z",
+  "estado": "igual",
+  "sha1_commons": "a164972dbecd8a0339b2406b272206c81d4552dc"
+ }
+}

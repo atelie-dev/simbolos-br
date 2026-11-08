@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3120300",
+ "uf": "MG",
+ "municipio": "Cristália",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Crist%C3%A1liamgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cristália",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3629280618abb5830241baba025cf2e40df0adfc3f4dc3e69a72fc755c27acac",
+ "rendicoes": {
+  "png": {
+   "bytes": 39481,
+   "sha256": "3bdc2f8f5700ead72a9d22cfacc3068491871d891d72c3a69bea39d56234c3cd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7234,
+   "sha256": "672255b34d75607d54cee6753bf0fa4eaa7bbaa1f669bc957c7259a391519ce0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3120300.jpg",
+  "bytes": 3365,
+  "sha256": "3629280618abb5830241baba025cf2e40df0adfc3f4dc3e69a72fc755c27acac"
+ },
+ "sha1_origem": "9f97a0f111454788913f229afd523030df71f478",
+ "bytes_origem": 3365,
+ "capturado_em": "2026-11-08T06:05:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cristáliamgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "9f97a0f111454788913f229afd523030df71f478"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4213005",
+ "uf": "SC",
+ "municipio": "Pinheiro Preto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bandeira_do_munic%C3%ADpio_de_Pinheiro_Preto_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pinheiro Preto (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3dcf600d41d6cfbea9e9081e3d7b6eefa86f133c90b70b533dc1d4acbc9d596c",
+ "rendicoes": {
+  "png": {
+   "bytes": 41904,
+   "sha256": "a403f2445e82bb79fddfcd750fccc9a669ab8a1b898c9b6c8413df09cf4ce967",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14194,
+   "sha256": "15b49698ff4f839360d5bbc8a377a155332b36b93026cafd8afae5c0528a7514",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 148880,
+   "sha256": "3dcf600d41d6cfbea9e9081e3d7b6eefa86f133c90b70b533dc1d4acbc9d596c"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4213005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4213005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4213005.jpg"
+ },
+ "sha1_origem": "5d914766531b861786eff38e6657a88fc40a72b5",
+ "bytes_origem": 148880,
+ "capturado_em": "2026-11-08T04:42:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Pinheiro_Preto_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "5d914766531b861786eff38e6657a88fc40a72b5"
+ }
+}

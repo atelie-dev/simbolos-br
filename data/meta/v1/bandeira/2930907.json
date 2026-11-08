@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2930907",
+ "uf": "BA",
+ "municipio": "Tabocas do Brejo Velho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bandeira_deTabocas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Adjanderson",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a3db892269e9086bd1b7d462937c167d5c81be66ad5bbc6fd07edd371f18c4d5",
+ "rendicoes": {
+  "png": {
+   "bytes": 55317,
+   "sha256": "c3620f393b0cc427122ffe625b6f09bc1457fce933b0ba0e9e3fa569772783b6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22473,
+   "sha256": "6a0af11f5e0af44e944bfaf1f130194a94a98db112c13aba4e8ad2d2c224c7a8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2930907.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2930907.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2930907.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2930907.jpg",
+  "bytes": 660992,
+  "sha256": "a3db892269e9086bd1b7d462937c167d5c81be66ad5bbc6fd07edd371f18c4d5"
+ },
+ "sha1_origem": "91eacb7f8518e7d35c82b87c756fb7a35d896dd7",
+ "bytes_origem": 660992,
+ "capturado_em": "2026-11-08T05:57:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_deTabocas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "91eacb7f8518e7d35c82b87c756fb7a35d896dd7"
+ }
+}

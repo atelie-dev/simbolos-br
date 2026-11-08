@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3513306",
+ "uf": "SP",
+ "municipio": "Cruzália",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/BandeiraCruzalia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cruzália",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "99a7a27a15fd8da54be2c1f11ad8bf426dc354f7c9f5937945976e691faee636",
+ "rendicoes": {
+  "png": {
+   "bytes": 59223,
+   "sha256": "b482034ee3d25bfd42c7303e492783ee8cc8ca9fd2797b55f78e2a6ad0ebec10",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19293,
+   "sha256": "5b6184033ed253e81bca3b053d79ef839fadee5f54c88bdd9333f85e0e055d34",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3513306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3513306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3513306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3513306.jpg",
+  "bytes": 58960,
+  "sha256": "99a7a27a15fd8da54be2c1f11ad8bf426dc354f7c9f5937945976e691faee636"
+ },
+ "sha1_origem": "32eac7d839860e673af765d2bbfd65a73093464e",
+ "bytes_origem": 58960,
+ "capturado_em": "2026-11-08T06:26:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraCruzalia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:41Z",
+  "estado": "igual",
+  "sha1_commons": "32eac7d839860e673af765d2bbfd65a73093464e"
+ }
+}

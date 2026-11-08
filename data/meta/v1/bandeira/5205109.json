@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5205109",
+ "uf": "GO",
+ "municipio": "Catalão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bandeira_de_Catal%C3%A3o.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Lei orgânica do Município de Catalão",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1832324adf65b820dd23daba633a344dbc5bd38230973643f3ef7b61468faba5",
+ "rendicoes": {
+  "png": {
+   "bytes": 45016,
+   "sha256": "cb919c5751461d5e27d8249ca8810fba118dd1eb73ceb8067505f5f39caf359c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12667,
+   "sha256": "7636d57b50117a694bd3598dafeecfa3e1ab65a097ecb09d856cc29adc0e1850",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5205109.jpg",
+  "bytes": 20260,
+  "sha256": "1832324adf65b820dd23daba633a344dbc5bd38230973643f3ef7b61468faba5"
+ },
+ "sha1_origem": "4b464d46e0749c55e26218bac1b7d83ff3555d81",
+ "bytes_origem": 20260,
+ "capturado_em": "2026-11-08T07:17:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Catalão.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "4b464d46e0749c55e26218bac1b7d83ff3555d81"
+ }
+}

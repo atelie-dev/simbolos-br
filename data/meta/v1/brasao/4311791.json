@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4311791",
+ "uf": "RS",
+ "municipio": "Maratá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bras%C3%A3o_Marat%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Maratá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "089b52b8b632a2fe921ffb4b366d2d53a546010a7969d630b1f6fc40fe77eafe",
+ "rendicoes": {
+  "png": {
+   "bytes": 141976,
+   "sha256": "1984b07d52ff87fcad1db8d8157be04866c5ba7cf698c30f41436ffe046485d1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22801,
+   "sha256": "f66ed3eaa9f84d46bd42d3c7906b545270954accf2488ce183497edf8d7de299",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311791.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311791.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311791.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4311791.jpg",
+  "bytes": 19705,
+  "sha256": "089b52b8b632a2fe921ffb4b366d2d53a546010a7969d630b1f6fc40fe77eafe"
+ },
+ "sha1_origem": "cf2bddbabf1c8454647f6f8e8b14fbb702dfc1b0",
+ "bytes_origem": 19705,
+ "capturado_em": "2026-11-08T07:05:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Maratá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "cf2bddbabf1c8454647f6f8e8b14fbb702dfc1b0"
+ }
+}

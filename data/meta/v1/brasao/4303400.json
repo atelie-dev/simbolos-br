@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4303400",
+ "uf": "RS",
+ "municipio": "Caiçara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bras%C3%A3o_Cai%C3%A7ara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Caiçara",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "01ff4e9371ee068020c1b20232cec3e751b942a9a808494c7878b8e4ae1649a6",
+ "rendicoes": {
+  "png": {
+   "bytes": 25793,
+   "sha256": "f3c7bf563663a86e3cce4751d17783a245c256a08b14f57b9688392c83f4117d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6276,
+   "sha256": "597aeef540ccef279c749c0a58d029c338293977ceea8b569f272ffe3dfb8d55",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4303400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4303400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4303400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4303400.jpg",
+  "bytes": 11008,
+  "sha256": "01ff4e9371ee068020c1b20232cec3e751b942a9a808494c7878b8e4ae1649a6"
+ },
+ "sha1_origem": "a489ce5aec246e24389a0a5df154d149ffad4206",
+ "bytes_origem": 11008,
+ "capturado_em": "2026-11-08T07:00:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Caiçara.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:47Z",
+  "estado": "igual",
+  "sha1_commons": "a489ce5aec246e24389a0a5df154d149ffad4206"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3303104",
+ "uf": "RJ",
+ "municipio": "Natividade",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bandeira-natividade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PM Natividade",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d16d4d5d4c8edb2b17a1faeef8970a4c0403c6bbb6574aac096f3544d7cf82e2",
+ "rendicoes": {
+  "png": {
+   "bytes": 29408,
+   "sha256": "c41b6df98b26662be4ba8950ef5b9c050e9cb17b0dd230dfbbd8b376d7be5515",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9316,
+   "sha256": "68dfe8b08ed2e6f07531ef75de26eb6d2204a393d5ebc4d9e4940a043fb29d20",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3303104.jpg",
+  "bytes": 6147,
+  "sha256": "d16d4d5d4c8edb2b17a1faeef8970a4c0403c6bbb6574aac096f3544d7cf82e2"
+ },
+ "sha1_origem": "9af107774532c13fe8fbee52e94f0fbe3187c458",
+ "bytes_origem": 6147,
+ "capturado_em": "2026-11-08T06:21:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-natividade.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "9af107774532c13fe8fbee52e94f0fbe3187c458"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3516705",
+ "uf": "SP",
+ "municipio": "Garça",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Brasaogarca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Garça",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f4496a4992bc32893d6e150fa609ac5ab0ca5a846f8c14e1de7049d3d210b5e4",
+ "rendicoes": {
+  "png": {
+   "bytes": 49889,
+   "sha256": "9609e51a628fd45a8bcddd4486916ad1b5a6bf746678093ac6f21cc687abb510",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10746,
+   "sha256": "dd067952531fc753895a4d0ff8113d7afe2b031bb31fbb205bd6b0d2a6e9c0d3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516705.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3516705.jpg",
+  "bytes": 6905,
+  "sha256": "f4496a4992bc32893d6e150fa609ac5ab0ca5a846f8c14e1de7049d3d210b5e4"
+ },
+ "sha1_origem": "74bf9005c316f5d57c46bcaa7cd979aa4196fa9f",
+ "bytes_origem": 6905,
+ "capturado_em": "2026-11-08T06:28:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaogarca.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "74bf9005c316f5d57c46bcaa7cd979aa4196fa9f"
+ }
+}

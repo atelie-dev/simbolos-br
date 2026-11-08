@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1101492",
+ "uf": "RO",
+ "municipio": "São Francisco do Guaporé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bandeira_de_S%C3%A3o_Francisco_do_Guapor%C3%A9.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camervan",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a7e2dbb1582ea49d37f372469e64df51a6d644a81ef6583e90e129114d83b661",
+ "rendicoes": {
+  "png": {
+   "bytes": 32018,
+   "sha256": "314331e01e87470158524ff409bb5e9c8c73cf9933ae2e576fca3de04fcacee9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19234,
+   "sha256": "16da158b261fa5418d7cfbd8f412d70c9f2b7ddc577a61706596e49ee6747555",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 4746,
+   "sha256": "a7e2dbb1582ea49d37f372469e64df51a6d644a81ef6583e90e129114d83b661"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101492.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101492.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101492.jpg"
+ },
+ "sha1_origem": "5dcb32ffadef5d2177f4139c0abfd8baab26a238",
+ "bytes_origem": 4746,
+ "capturado_em": "2026-11-08T02:29:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Francisco_do_Guaporé.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "5dcb32ffadef5d2177f4139c0abfd8baab26a238"
+ }
+}

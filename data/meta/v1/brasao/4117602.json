@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4117602",
+ "uf": "PR",
+ "municipio": "Palmas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bras%C3%A3o_de_Palmas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Palmas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d20aa99887f1aaea079aa8254d4fc50043c8144d990fd4ea14f11d393dae59d4",
+ "rendicoes": {
+  "png": {
+   "bytes": 137766,
+   "sha256": "51c613bee84887725904cfba84f659ca2b53452e54c10d857f99a395ee19687d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49455,
+   "sha256": "92ff30c58533cd8d855c2372d3144558b073b0225991bb97c5e191b223ff4218",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4117602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4117602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4117602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4117602.png",
+  "bytes": 143222,
+  "sha256": "d20aa99887f1aaea079aa8254d4fc50043c8144d990fd4ea14f11d393dae59d4"
+ },
+ "sha1_origem": "9c6265b62183bf81ee9a7b0217dcf6798d9e2069",
+ "bytes_origem": 143222,
+ "capturado_em": "2026-11-08T06:47:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Palmas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "9c6265b62183bf81ee9a7b0217dcf6798d9e2069"
+ }
+}

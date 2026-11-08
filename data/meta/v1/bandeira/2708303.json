@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2708303",
+ "uf": "AL",
+ "municipio": "São José da Laje",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bandeirasaojosedalaje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São José da Laje",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "235e1a69a89665efefd97b652c60c2a62a0b61df33b75a29f95f389697de31f4",
+ "rendicoes": {
+  "png": {
+   "bytes": 52377,
+   "sha256": "87e29cc5e3da59b9149a83e03721f353acde5b269655ea0176485a4fffedc947",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18581,
+   "sha256": "7605fd64a6aa01c4caba3015b0c39cd03cd5643833a2d86ae1c53bd89add1a96",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2708303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2708303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2708303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2708303.jpg",
+  "bytes": 16299,
+  "sha256": "235e1a69a89665efefd97b652c60c2a62a0b61df33b75a29f95f389697de31f4"
+ },
+ "sha1_origem": "371d09b32f497b87130342671c8ca78bc4af3e56",
+ "bytes_origem": 16299,
+ "capturado_em": "2026-11-08T05:48:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeirasaojosedalaje.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "371d09b32f497b87130342671c8ca78bc4af3e56"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3170107",
+ "uf": "MG",
+ "municipio": "Uberaba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/BandeiraUberaba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c56cccd9df08ba2b5667087f690491c056481a398acc94b3fa8b41ad07ce8f20",
+ "rendicoes": {
+  "png": {
+   "bytes": 99544,
+   "sha256": "293252ce1b22745ce36114e2fe72c78040206cc61890557c57ac7618e7c46040",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20712,
+   "sha256": "421b88243e63403b71669b3d5063ad3dc665d7a70d23324f5b295e579fa3f080",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3170107.jpg",
+  "bytes": 74603,
+  "sha256": "c56cccd9df08ba2b5667087f690491c056481a398acc94b3fa8b41ad07ce8f20"
+ },
+ "sha1_origem": "f896831275064fbd5ccccc4e5384dff8fe4d265a",
+ "bytes_origem": 74603,
+ "capturado_em": "2026-11-08T06:18:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraUberaba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "f896831275064fbd5ccccc4e5384dff8fe4d265a"
+ }
+}

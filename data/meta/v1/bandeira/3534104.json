@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3534104",
+ "uf": "SP",
+ "municipio": "Oriente",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bandeira_de_Oriente.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Oriente",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1f0b89373a9b76b2a16cdff1db62a9e57b5b1134a71b508fdc3b75a595367da1",
+ "rendicoes": {
+  "png": {
+   "bytes": 10106,
+   "sha256": "fb005eb8011d98cbf70c9d8a4f9e8382ee80d87a60c7789e21d19eb6b616f452",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9540,
+   "sha256": "a1d5daa809d532525d790b9214facbf41edafdbc832faa7cfbf5f5658ac0ae28",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3534104.png",
+  "bytes": 7980,
+  "sha256": "1f0b89373a9b76b2a16cdff1db62a9e57b5b1134a71b508fdc3b75a595367da1"
+ },
+ "sha1_origem": "9af85ca264274947ee85e3655bcb973814dd91cf",
+ "bytes_origem": 7980,
+ "capturado_em": "2026-11-08T06:33:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Oriente.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "9af85ca264274947ee85e3655bcb973814dd91cf"
+ }
+}

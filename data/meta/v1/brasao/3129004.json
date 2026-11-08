@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3129004",
+ "uf": "MG",
+ "municipio": "Guiricema",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Guiricemamgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Guiricema",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b1a1070f9fa93b0d6f13143f5aee55f863bdd5235f0d9db6d32b7d7d066980f3",
+ "rendicoes": {
+  "png": {
+   "bytes": 219902,
+   "sha256": "785090840037fd292e05e3a67988d44596f0c88c66ae793fd06db14f81f18a98",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41131,
+   "sha256": "26e4a4ffbf292a3d5dd9a8c2d96e5aa09af0aee9647e4c8c9603e557183fa0f4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3129004.jpg",
+  "bytes": 27333,
+  "sha256": "b1a1070f9fa93b0d6f13143f5aee55f863bdd5235f0d9db6d32b7d7d066980f3"
+ },
+ "sha1_origem": "8127f714e96808b73a1fe884c97f3d2f18a8188e",
+ "bytes_origem": 27333,
+ "capturado_em": "2026-11-08T06:08:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Guiricemamgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "8127f714e96808b73a1fe884c97f3d2f18a8188e"
+ }
+}

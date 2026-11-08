@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3546702",
+ "uf": "SP",
+ "municipio": "Santa Gertrudes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bandeira_Santa_Gertrudes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ab4ccb7ab542e5f27037b104727e354a7f418c33caf22deea038eecb7d1461b4",
+ "rendicoes": {
+  "png": {
+   "bytes": 48049,
+   "sha256": "185ede6220a8e770f439790b73f8b0e9a885594db13b991177e52c871ee46a97",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13301,
+   "sha256": "fe65f085cd1729b0f2f1b09d98b794f02bcbe0d49bdd152309753f0e683ae93c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3546702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3546702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3546702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3546702.jpg",
+  "bytes": 33214,
+  "sha256": "ab4ccb7ab542e5f27037b104727e354a7f418c33caf22deea038eecb7d1461b4"
+ },
+ "sha1_origem": "cb41aea8cbf77bf63fccf8ebd7c745cc3ff28d70",
+ "bytes_origem": 33214,
+ "capturado_em": "2026-11-08T06:37:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Santa_Gertrudes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "cb41aea8cbf77bf63fccf8ebd7c745cc3ff28d70"
+ }
+}

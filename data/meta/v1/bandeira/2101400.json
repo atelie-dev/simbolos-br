@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2101400",
+ "uf": "MA",
+ "municipio": "Balsas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bandeira_Balsas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Irmã Capuchinha Luiza Rodrigues da Costa",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f2e50dc23e68e6e6ac9e968cf3328357d59726e7482d5605a66029197632bec5",
+ "rendicoes": {
+  "png": {
+   "bytes": 21284,
+   "sha256": "bed97d69fceaee18d3ee09bcf684ab2a4c6935139f88de8fb894585729842201",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11116,
+   "sha256": "5cf75d126396e2e204f72ad96374aa1f0a44235527fc8c2dc4de52807359346f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2101400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2101400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2101400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2101400.png",
+  "bytes": 9103,
+  "sha256": "f2e50dc23e68e6e6ac9e968cf3328357d59726e7482d5605a66029197632bec5"
+ },
+ "sha1_origem": "934f92ac3e50a7870d7098e3893dfcc3be834dec",
+ "bytes_origem": 9103,
+ "capturado_em": "2026-11-08T05:27:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Balsas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "934f92ac3e50a7870d7098e3893dfcc3be834dec"
+ }
+}

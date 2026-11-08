@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3161650",
+ "uf": "MG",
+ "municipio": "São Geraldo do Baixio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_S%C3%A3o_Geraldo_do_Baixio_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7069b9252296e2892920f456533b2d36feb5098b24ed0b88e99c5fffbff8fcd1",
+ "rendicoes": {
+  "png": {
+   "bytes": 112518,
+   "sha256": "6d8b6a59797ed485cd9c7b8adbc76c0565777507852567e8e3a60c91fe6a5733",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24135,
+   "sha256": "ca91ae5a2168ecd4c309b2f2d723cae6587bc676b87447ee34d114e17e962cd0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3161650.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3161650.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3161650.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3161650.png",
+  "bytes": 556839,
+  "sha256": "7069b9252296e2892920f456533b2d36feb5098b24ed0b88e99c5fffbff8fcd1"
+ },
+ "sha1_origem": "c015fed50f60054541647beeb84e7d2a7cc07ba1",
+ "bytes_origem": 556839,
+ "capturado_em": "2026-11-08T06:16:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_São_Geraldo_do_Baixio_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "c015fed50f60054541647beeb84e7d2a7cc07ba1"
+ }
+}

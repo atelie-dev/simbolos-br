@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4113700",
+ "uf": "PR",
+ "municipio": "Londrina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Brasao_Londrina_Parana_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "6257eab66c1b097d55449c8b3841a245c36c6c016f40a93594138ba2073146bf",
+ "rendicoes": {
+  "png": {
+   "bytes": 177134,
+   "sha256": "0699365690b143a10f3841b0e22eb82f206343510baf1c2454045438bb4f3c66",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54314,
+   "sha256": "604bf2047d3da0df8808d470f787d35fce425ec360771c77f32f46fd24a05033",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1123270,
+   "sha256": "6257eab66c1b097d55449c8b3841a245c36c6c016f40a93594138ba2073146bf"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4113700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4113700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4113700.jpg"
+ },
+ "sha1_origem": "7f2507fdaa50e250c064c5bb93bc9eac52990635",
+ "bytes_origem": 1123270,
+ "capturado_em": "2026-11-08T04:27:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Londrina_Parana_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:33Z",
+  "estado": "igual",
+  "sha1_commons": "7f2507fdaa50e250c064c5bb93bc9eac52990635"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4301925",
+ "uf": "RS",
+ "municipio": "Barra do Rio Azul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bandeira_de_Barra_do_Rio_Azul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Barra do Rio Azul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f7da657233522576a18a0ea0789f939e430fb3a127182ccabc9346dcd42f06c8",
+ "rendicoes": {
+  "png": {
+   "bytes": 74433,
+   "sha256": "ff0b9f09d56efe69def35fe3bd95dc7b76bcf4ae1ce783f7432d7ce114ead110",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16200,
+   "sha256": "d956426e98fe2fb0a90e66dff499c9ab273bbd227c26a49f60d727191349b8df",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301925.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301925.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301925.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4301925.jpg",
+  "bytes": 147069,
+  "sha256": "f7da657233522576a18a0ea0789f939e430fb3a127182ccabc9346dcd42f06c8"
+ },
+ "sha1_origem": "e76ee9a6bdffe4af40fd663e0a756eb4dbe3f1d8",
+ "bytes_origem": 147069,
+ "capturado_em": "2026-11-08T06:59:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Barra_do_Rio_Azul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "e76ee9a6bdffe4af40fd663e0a756eb4dbe3f1d8"
+ }
+}

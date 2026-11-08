@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3143906",
+ "uf": "MG",
+ "municipio": "Muriaé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Flag_of_Muria%C3%A9_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d288837650993d702107d3b630fdd234ecb3a495d2a0962f7bf65c89520cef62",
+ "rendicoes": {
+  "png": {
+   "bytes": 82475,
+   "sha256": "aae16e04fd2fb16acd95d51351229884bf0a5aa1198d9a6c3853189e8fb8209d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33622,
+   "sha256": "6c916bb2f78a968416f4d5f2cf4e09ddd9a29afc22c446ee307d833accb7fc94",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3143906.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3143906.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3143906.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3143906.png",
+  "bytes": 291890,
+  "sha256": "d288837650993d702107d3b630fdd234ecb3a495d2a0962f7bf65c89520cef62"
+ },
+ "sha1_origem": "96033efaf089b9516fcb8e2eb42f1067dc6d3792",
+ "bytes_origem": 291890,
+ "capturado_em": "2026-11-08T06:11:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Muriaé_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "96033efaf089b9516fcb8e2eb42f1067dc6d3792"
+ }
+}

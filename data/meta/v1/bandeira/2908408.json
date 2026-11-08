@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2908408",
+ "uf": "BA",
+ "municipio": "Conceição do Coité",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bandeira-de-coit%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Uknow",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fb14c9db3491b04e6e796c7e8dfbb4ab1589e81c13e28ba943c5f69852596a14",
+ "rendicoes": {
+  "png": {
+   "bytes": 30688,
+   "sha256": "dab55601aa6221e06a1ea62f676ca1514755f21b8096c575eb01f388ea053905",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8950,
+   "sha256": "70f8423b2887b810b3cd0679887e9ffe5125eb4749439fd6b520ee8d9a61c91e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2908408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2908408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2908408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2908408.jpg",
+  "bytes": 5472,
+  "sha256": "fb14c9db3491b04e6e796c7e8dfbb4ab1589e81c13e28ba943c5f69852596a14"
+ },
+ "sha1_origem": "6fd669874539c139305b984749d6aec0ae018045",
+ "bytes_origem": 5472,
+ "capturado_em": "2026-11-08T05:52:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-de-coité.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "6fd669874539c139305b984749d6aec0ae018045"
+ }
+}

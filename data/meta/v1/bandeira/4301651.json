@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4301651",
+ "uf": "RS",
+ "municipio": "Barão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bandeira_de_Bar%C3%A3o_%28Rio_Grande_do_Sul%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unavailable",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "48f15faf303e398ef2ac1025a977840937cf6b47a8d721c458dc8c4753262bd9",
+ "rendicoes": {
+  "png": {
+   "bytes": 86003,
+   "sha256": "cf2eaad09d4847a70bf660c767858066818da9252354e671ed4f38d8b61ea4eb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13842,
+   "sha256": "8e8d0fa5ce83b84b142d3058be04bc6f5067e4ab0a2464ec99716e607918b4af",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301651.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301651.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301651.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4301651.png",
+  "bytes": 199514,
+  "sha256": "48f15faf303e398ef2ac1025a977840937cf6b47a8d721c458dc8c4753262bd9"
+ },
+ "sha1_origem": "59b18e0220d760d84d416c43881d57e623cada56",
+ "bytes_origem": 199514,
+ "capturado_em": "2026-11-08T06:59:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Barão_(Rio_Grande_do_Sul).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "59b18e0220d760d84d416c43881d57e623cada56"
+ }
+}

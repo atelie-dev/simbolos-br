@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4217709",
+ "uf": "SC",
+ "municipio": "Sombrio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Band_sombrio_sc2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Brenner Cardoso",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ff800e3325d58c2656b5bc4483332f1b9471def4d26fdf4124044bd014bf8f25",
+ "rendicoes": {
+  "png": {
+   "bytes": 111529,
+   "sha256": "6edf986fb784b89eac6af1997a08af172bac633f2e588ec49c5e1be4c6929d51",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19375,
+   "sha256": "c7e95f7191e0e7413431930e951e0e6e9954dcebac712c61641884d2d1f468a3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217709.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4217709.jpg",
+  "bytes": 17530,
+  "sha256": "ff800e3325d58c2656b5bc4483332f1b9471def4d26fdf4124044bd014bf8f25"
+ },
+ "sha1_origem": "7bfc2771cff7e89e2ba0fd7c733cc3a733822280",
+ "bytes_origem": 17530,
+ "capturado_em": "2026-11-08T06:57:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_sombrio_sc2.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "7bfc2771cff7e89e2ba0fd7c733cc3a733822280"
+ }
+}

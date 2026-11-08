@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2500536",
+ "uf": "PB",
+ "municipio": "Alcantil",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Alcantil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Alcantil, Mysid (SVG)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9aee79889c40b657ab8ebff532049434735bd7a727c9a06a775c6e5500878e02",
+ "rendicoes": {
+  "png": {
+   "bytes": 23728,
+   "sha256": "3d856aa9693c54d6909e734eb335df4eb15dda087205a5a47f59b89af792aced",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12965,
+   "sha256": "55b8807803a6fa284d16c868786eefc8994087c5747afa0cb5871e8cad1002f4",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 35747,
+   "sha256": "9aee79889c40b657ab8ebff532049434735bd7a727c9a06a775c6e5500878e02"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500536.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500536.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500536.jpg"
+ },
+ "sha1_origem": "01dedcb1cabac1a30d7a6a51e9c68d955c55e513",
+ "bytes_origem": 35747,
+ "capturado_em": "2026-11-08T02:55:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Alcantil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "01dedcb1cabac1a30d7a6a51e9c68d955c55e513"
+ }
+}

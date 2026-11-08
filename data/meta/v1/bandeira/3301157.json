@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3301157",
+ "uf": "RJ",
+ "municipio": "Cardoso Moreira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_de_Cardoso_Moreira_-_RJ.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3a10d395141f149f68ba57e7318341aa47ac5aceaeba018a4b4e6a61d4a4efb0",
+ "rendicoes": {
+  "png": {
+   "bytes": 38518,
+   "sha256": "dc4635492eaaf52eae54dd751f2a87aae230754e67faf803a81a4ac13dae25b1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16950,
+   "sha256": "a2628228584931518ac4c1c4d3b8eb04f1c4436e892145d02950b9cb2ae2364c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 271469,
+   "sha256": "3a10d395141f149f68ba57e7318341aa47ac5aceaeba018a4b4e6a61d4a4efb0"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301157.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301157.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301157.jpg"
+ },
+ "sha1_origem": "192f9d839d076cc49886e37b3acf361c65674482",
+ "bytes_origem": 271469,
+ "capturado_em": "2026-11-08T03:54:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cardoso_Moreira_-_RJ.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "192f9d839d076cc49886e37b3acf361c65674482"
+ }
+}

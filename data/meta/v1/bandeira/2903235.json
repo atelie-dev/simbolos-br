@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2903235",
+ "uf": "BA",
+ "municipio": "Barro Alto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bandeira_de_Barro_Alto.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Barro Alto",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "951d2a3a0ddd621c99bcc873292e1708d1b4e8bdba9305df86f604536e98d92d",
+ "rendicoes": {
+  "png": {
+   "bytes": 34147,
+   "sha256": "29332fe4eceeec1a076afe3c833105f2d75a4ce8a472300300743adf4feae9e5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17322,
+   "sha256": "f3f1e53b9cf7ea1e1d61598816a9ef3a73236cd3674b24046704c85acd0f2397",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2903235.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2903235.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2903235.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2903235.png",
+  "bytes": 266858,
+  "sha256": "951d2a3a0ddd621c99bcc873292e1708d1b4e8bdba9305df86f604536e98d92d"
+ },
+ "sha1_origem": "dbfba007a15fd902aea53b48148bc84138f581eb",
+ "bytes_origem": 266858,
+ "capturado_em": "2026-11-08T05:51:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Barro_Alto.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "dbfba007a15fd902aea53b48148bc84138f581eb"
+ }
+}

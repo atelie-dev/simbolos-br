@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4204400",
+ "uf": "SC",
+ "municipio": "Coronel Freitas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bandeira_coronelfreitas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Coronel Freitas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4c036cc6bb059ef920eae837244080c0f9fc4fd98b2d4c2e1396254f466528aa",
+ "rendicoes": {
+  "png": {
+   "bytes": 78634,
+   "sha256": "0c49a01dfc3b17189650a44c604cdf9264638effdf623445385977a7fbe359a1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18141,
+   "sha256": "480e5487816ff80c5a7798ea645eb1f744d70516e65b115ba84b8d416e4c7bb7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4204400.jpg",
+  "bytes": 19718,
+  "sha256": "4c036cc6bb059ef920eae837244080c0f9fc4fd98b2d4c2e1396254f466528aa"
+ },
+ "sha1_origem": "0e7fe74801d2842e1208e689b27c4880bb76de3c",
+ "bytes_origem": 19718,
+ "capturado_em": "2026-11-08T06:52:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_coronelfreitas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "0e7fe74801d2842e1208e689b27c4880bb76de3c"
+ }
+}

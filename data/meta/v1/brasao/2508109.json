@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2508109",
+ "uf": "PB",
+ "municipio": "Lagoa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Lagoa%2C_PB_-_Bras%C3%A3o.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cidade de Lagoa",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1e46c01ba7b90e5bbc456b4b36ed15d67abf544ea5f920e00153262a21d6050f",
+ "rendicoes": {
+  "png": {
+   "bytes": 148883,
+   "sha256": "0ffccd700d0bdf0c81b3415f9bf8522e8d761b2e26d523dc89caadd2058b14e4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48208,
+   "sha256": "0cf62f1bf14037037ac884e63150e3129f4cd282b7792c541ca8bf9ce4befc46",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 40694,
+   "sha256": "1e46c01ba7b90e5bbc456b4b36ed15d67abf544ea5f920e00153262a21d6050f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2508109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2508109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2508109.jpg"
+ },
+ "sha1_origem": "49e967737e2ddae4180c3488d2a51a1568b75e99",
+ "bytes_origem": 40694,
+ "capturado_em": "2026-11-08T02:59:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Lagoa,_PB_-_Brasão.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "49e967737e2ddae4180c3488d2a51a1568b75e99"
+ }
+}

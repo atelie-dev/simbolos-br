@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4320503",
+ "uf": "RS",
+ "municipio": "Sertão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sert%C3%A3orsbras%C3%B5es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Sertão",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "16a2bafd8d92ed6d32f6650aec23a8ea26ea178d2f0f654275fa465578e32177",
+ "rendicoes": {
+  "png": {
+   "bytes": 51640,
+   "sha256": "c133d533feda94d19e6498bc59957c53b819b68764c07eef81c143cde382575b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21872,
+   "sha256": "3ea08aee1ce0046c072b1a770ad996af0a41a6b7e84aa0a9eb71ea649e759c82",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4320503.png",
+  "bytes": 15976,
+  "sha256": "16a2bafd8d92ed6d32f6650aec23a8ea26ea178d2f0f654275fa465578e32177"
+ },
+ "sha1_origem": "60dc67150758edffedce480d8060745110aa966e",
+ "bytes_origem": 15976,
+ "capturado_em": "2026-11-08T07:10:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Sertãorsbrasões.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:37Z",
+  "estado": "igual",
+  "sha1_commons": "60dc67150758edffedce480d8060745110aa966e"
+ }
+}

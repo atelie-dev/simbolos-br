@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3128204",
+ "uf": "MG",
+ "municipio": "Guaraciaba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Guaraciabamgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Guaraciaba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bbf57d0f37e1c6c35b77ad2bbbac1ba789a6af365ea60b8653d50cbc16e30a2e",
+ "rendicoes": {
+  "png": {
+   "bytes": 73944,
+   "sha256": "01f5c1388d3bf03eadbb3bab3387e067b4a16821ab7dfc6ebe0900c7e47c70ba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20837,
+   "sha256": "88cc984721b2df8f8ffa834ba01b0cf5873766877fcfd65596b790f4d74641c4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3128204.jpg",
+  "bytes": 16742,
+  "sha256": "bbf57d0f37e1c6c35b77ad2bbbac1ba789a6af365ea60b8653d50cbc16e30a2e"
+ },
+ "sha1_origem": "9733e359e761397ef014c84cd5ce5eae36ba149e",
+ "bytes_origem": 16742,
+ "capturado_em": "2026-11-08T06:08:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Guaraciabamgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "9733e359e761397ef014c84cd5ce5eae36ba149e"
+ }
+}

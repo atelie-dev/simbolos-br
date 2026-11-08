@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3521101",
+ "uf": "SP",
+ "municipio": "Ipeúna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bandeira_de_Ipe%C3%BAna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8805d31337939f0844e72060bf4f945a47470d668e17b90d046e391dd9c1273f",
+ "rendicoes": {
+  "png": {
+   "bytes": 81604,
+   "sha256": "d85ac0c50ab16815e3f794303f567ab077bfc3a48520f52ac8e21265a681c0d9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17964,
+   "sha256": "3c51b935c2540894470268dec1b4312b6195731a1ef2409861c6308bc59bef8a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3521101.jpg",
+  "bytes": 20163,
+  "sha256": "8805d31337939f0844e72060bf4f945a47470d668e17b90d046e391dd9c1273f"
+ },
+ "sha1_origem": "aa8869f715ebc8d8ad51873bb52cc6313a4eb425",
+ "bytes_origem": 20163,
+ "capturado_em": "2026-11-08T06:29:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ipeúna.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "aa8869f715ebc8d8ad51873bb52cc6313a4eb425"
+ }
+}

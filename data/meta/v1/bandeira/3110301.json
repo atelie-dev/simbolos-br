@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3110301",
+ "uf": "MG",
+ "municipio": "Caldas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/17/BANDEIRA_DE_CALDAS_20X14-01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Jauch",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d2450f131969ca608975845d68a2c8d652dfc1b640646a42d7e8996795d52904",
+ "rendicoes": {
+  "png": {
+   "bytes": 49633,
+   "sha256": "be9b7e0d20fb9817a4c5b9de5a458f3dad9e9d61a18e16535193edd4c4852e46",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20992,
+   "sha256": "b61556f648b6514592a21212061bee70d621f4de42540a9dd668ae5008f82aa3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3110301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3110301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3110301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3110301.png",
+  "bytes": 225189,
+  "sha256": "d2450f131969ca608975845d68a2c8d652dfc1b640646a42d7e8996795d52904"
+ },
+ "sha1_origem": "c92a9cd0b1ce19c51c1ce0b6b19efcad6182d424",
+ "bytes_origem": 225189,
+ "capturado_em": "2026-11-08T06:01:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BANDEIRA_DE_CALDAS_20X14-01.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "c92a9cd0b1ce19c51c1ce0b6b19efcad6182d424"
+ }
+}

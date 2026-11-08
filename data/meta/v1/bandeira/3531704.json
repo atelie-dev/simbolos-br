@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3531704",
+ "uf": "SP",
+ "municipio": "Monteiro Lobato",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bandeira_Monteiro_Lobato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Monteiro Lobato, Brasil",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4c2414af34743274eb892d2854587d687701c39b5438731a225cd3eb67d12c6b",
+ "rendicoes": {
+  "png": {
+   "bytes": 24996,
+   "sha256": "1cbd36084497c3322ed606ab19bc0fd6bd3dc6746364cab975e10d52217d871e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10294,
+   "sha256": "1a15b5f38675461463a39ce8a31f19d94256f3022d38ceaf787df9f5077e99d0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3531704.jpg",
+  "bytes": 49139,
+  "sha256": "4c2414af34743274eb892d2854587d687701c39b5438731a225cd3eb67d12c6b"
+ },
+ "sha1_origem": "d46c9abe6d15f71261df027d90236c543719202b",
+ "bytes_origem": 49139,
+ "capturado_em": "2026-11-08T06:32:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Monteiro_Lobato.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "d46c9abe6d15f71261df027d90236c543719202b"
+ }
+}

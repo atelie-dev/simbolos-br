@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321204",
+ "uf": "RS",
+ "municipio": "Taquara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_taquara.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Taquara.",
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "d3434c5b3f7c2c59dc96426cbe0bb4fe8b68c9f509883e5299c45b64c74ad371",
+ "rendicoes": {
+  "png": {
+   "bytes": 99705,
+   "sha256": "db482b170baa6c0c9ddf81c469c324c9817a2b3fb3dc708adbcf778b0c5d4cde",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22045,
+   "sha256": "1e49f278ddc9c6de6df3fac3aea800ea5ad782d4ff3a987412dd8293bd64223c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4321204.gif",
+  "bytes": 123425,
+  "sha256": "d3434c5b3f7c2c59dc96426cbe0bb4fe8b68c9f509883e5299c45b64c74ad371"
+ },
+ "sha1_origem": "207ea93f1de31501a2021550f79009a388405f6b",
+ "bytes_origem": 123425,
+ "capturado_em": "2026-11-08T07:10:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_taquara.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "207ea93f1de31501a2021550f79009a388405f6b"
+ }
+}

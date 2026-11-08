@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3165552",
+ "uf": "MG",
+ "municipio": "Setubinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Setubinha_-_MG_-_Brazil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pcgomes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5e601888edc17aa77d3eddac13029703c393bcd466c18d91fffa282ae65d32f7",
+ "rendicoes": {
+  "png": {
+   "bytes": 107486,
+   "sha256": "ddb8b75b315e2e583a5066595023207bcdec12843f0306738fc4bf1fda7959b6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27376,
+   "sha256": "6e1d5c18cda9dc61f2ecba8db1eea279f093aac441555328443bb0c828246634",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3165552.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3165552.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3165552.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3165552.png",
+  "bytes": 180302,
+  "sha256": "5e601888edc17aa77d3eddac13029703c393bcd466c18d91fffa282ae65d32f7"
+ },
+ "sha1_origem": "afdd71090c894dd3d2058f20772ff87d2a762e59",
+ "bytes_origem": 180302,
+ "capturado_em": "2026-11-08T06:16:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Setubinha_-_MG_-_Brazil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "afdd71090c894dd3d2058f20772ff87d2a762e59"
+ }
+}

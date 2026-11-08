@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1501501",
+ "uf": "PA",
+ "municipio": "Benevides",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bandeira_de_Benevides.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "No machine-readable author provided. Leonan Faro assumed (based on copyright claims).",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c33b78d23d88047212246638734f0078e24e67e3df63bec3e433dfbe0df01124",
+ "rendicoes": {
+  "png": {
+   "bytes": 127902,
+   "sha256": "6f12515f38d454528a4ae531bd1d6330eba6f23baee67741594c7757fe1909b4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37604,
+   "sha256": "d6b336c6ce5d6dc3b4aab74a3e41242a74db41c5b00a86474611a27f884b9050",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1501501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1501501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1501501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1501501.jpg",
+  "bytes": 167662,
+  "sha256": "c33b78d23d88047212246638734f0078e24e67e3df63bec3e433dfbe0df01124"
+ },
+ "sha1_origem": "f86cf92d7ac95968a411aa2297314de89ffceee9",
+ "bytes_origem": 167662,
+ "capturado_em": "2026-11-08T05:24:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Benevides.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "f86cf92d7ac95968a411aa2297314de89ffceee9"
+ }
+}

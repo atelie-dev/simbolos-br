@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4322400",
+ "uf": "RS",
+ "municipio": "Uruguaiana",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Brazao_Uruguaiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "addde951350402ba60663148ec62b8e882f59ad1b7e9c6c2a025b953c03cd80c",
+ "rendicoes": {
+  "png": {
+   "bytes": 146988,
+   "sha256": "30a0e11029f6b38ab8026bf39fbe7173b49a71d831956c1991e375ad36aae814",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34201,
+   "sha256": "b2c43a4b22147b8a92a96186e3d3e85bd60614a8a999c76156c38acb0f775778",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4322400.jpg",
+  "bytes": 22184,
+  "sha256": "addde951350402ba60663148ec62b8e882f59ad1b7e9c6c2a025b953c03cd80c"
+ },
+ "sha1_origem": "3c856e8a28f960699078434388c6d3f0e71b36b2",
+ "bytes_origem": 22184,
+ "capturado_em": "2026-11-08T07:11:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brazao_Uruguaiana.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "3c856e8a28f960699078434388c6d3f0e71b36b2"
+ }
+}

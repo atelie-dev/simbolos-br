@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3515707",
+ "uf": "SP",
+ "municipio": "Ferraz de Vasconcelos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bandeira_ferrazdevasconcelos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "323e21505d0a3831925d6d72a30c10940a385a529092ac654fe757efa3374743",
+ "rendicoes": {
+  "png": {
+   "bytes": 50202,
+   "sha256": "6a8a847eff08d7b53cfee56e45cf09262219e024a829f2e6d8c730c84a92d56d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13445,
+   "sha256": "3e3d4a9aef4f2dc451b6cb385d4c711aa380b5914019f46550973039f2e34bc6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3515707.jpg",
+  "bytes": 11406,
+  "sha256": "323e21505d0a3831925d6d72a30c10940a385a529092ac654fe757efa3374743"
+ },
+ "sha1_origem": "9c85b776ea5a94c6c85d39d9c3c02b1d066388c8",
+ "bytes_origem": 11406,
+ "capturado_em": "2026-11-08T06:27:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_ferrazdevasconcelos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "9c85b776ea5a94c6c85d39d9c3c02b1d066388c8"
+ }
+}

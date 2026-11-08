@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3521309",
+ "uf": "SP",
+ "municipio": "Ipuã",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bras%C3%A3o_Ipu%C3%A3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c2527a534d4fbfe137772c0e96f53562099184016f019f3594fd207da70b20b3",
+ "rendicoes": {
+  "png": {
+   "bytes": 14243,
+   "sha256": "6706af475647785c3c0f5f624238f5dfce8648f7b1e37d7297c581cbb55de95d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4403,
+   "sha256": "4f5f77e15f447081d09aded38ee642d40797e3810f839854bfa2a77c2230c294",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3521309.jpg",
+  "bytes": 1856,
+  "sha256": "c2527a534d4fbfe137772c0e96f53562099184016f019f3594fd207da70b20b3"
+ },
+ "sha1_origem": "4cbc441e08f032fe23f038d68795445fe36d7fd6",
+ "bytes_origem": 1856,
+ "capturado_em": "2026-11-08T06:29:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Ipuã.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "4cbc441e08f032fe23f038d68795445fe36d7fd6"
+ }
+}

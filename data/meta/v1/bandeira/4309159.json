@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4309159",
+ "uf": "RS",
+ "municipio": "Gramado Xavier",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bandeira_Gramado_Xavier.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Gramado Xavier",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "312f00d210fdd6158ee84290d57b20074d2e199f482e94a7bf7f885ad39fdb94",
+ "rendicoes": {
+  "png": {
+   "bytes": 34562,
+   "sha256": "661a0253151318adad97e8fb4c764c0a0c965b0a545908cb9665da53a82d0e9d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14134,
+   "sha256": "1ffc23fd6836730c19e9509b97ac2787aa84c21779f9754b9fd360b3dc9e80fb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4309159.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4309159.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4309159.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4309159.jpg",
+  "bytes": 13121,
+  "sha256": "312f00d210fdd6158ee84290d57b20074d2e199f482e94a7bf7f885ad39fdb94"
+ },
+ "sha1_origem": "ad6a5ea7cde177c62988c020b16660bb04033a86",
+ "bytes_origem": 13121,
+ "capturado_em": "2026-11-08T07:03:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Gramado_Xavier.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "ad6a5ea7cde177c62988c020b16660bb04033a86"
+ }
+}

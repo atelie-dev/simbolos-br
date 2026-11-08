@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4103701",
+ "uf": "PR",
+ "municipio": "Cambé",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Brasao_Cambe_Parana_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "820530eeea2be1920da82bb167d8bafebacecb9a3f5b6c902d0afab9433ee738",
+ "rendicoes": {
+  "png": {
+   "bytes": 38099,
+   "sha256": "31fe6da6954c678f2191b2fdda7b124b2c774bb523604e4a45c38751a7bb7ac8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22670,
+   "sha256": "99d84b1bc570ce06d2208c8b9cef69d64257d5c1b2e67271b468bd4be3c0be77",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 3107,
+   "sha256": "820530eeea2be1920da82bb167d8bafebacecb9a3f5b6c902d0afab9433ee738"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4103701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4103701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4103701.jpg"
+ },
+ "sha1_origem": "c3aaa961d4fd2a985b5576e33b7d65f0096d232e",
+ "bytes_origem": 3107,
+ "capturado_em": "2026-11-08T04:22:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Cambe_Parana_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "c3aaa961d4fd2a985b5576e33b7d65f0096d232e"
+ }
+}

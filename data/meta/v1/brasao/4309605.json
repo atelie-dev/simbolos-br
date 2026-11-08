@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4309605",
+ "uf": "RS",
+ "municipio": "Horizontina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bras%C3%A3o_de_Horizontina%2C_RS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Horizontina",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4e153fab96eb86e67fb455d4bfc8b7b7ab1b85802707626657e31aeca1d4e9a6",
+ "rendicoes": {
+  "png": {
+   "bytes": 24280,
+   "sha256": "9bddd5d4fc4d7addb492a74dbedf0b1a46cfa1843942691409a014ab69ab92cf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10779,
+   "sha256": "65b65d5c51c2f21b1f7a0f554532614887226cbbbd099aebf5260d2c7801b83f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4309605.png",
+  "bytes": 8020,
+  "sha256": "4e153fab96eb86e67fb455d4bfc8b7b7ab1b85802707626657e31aeca1d4e9a6"
+ },
+ "sha1_origem": "885987c07357cdeec3ad6afb20c781e9c5e18987",
+ "bytes_origem": 8020,
+ "capturado_em": "2026-11-08T07:03:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Horizontina,_RS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:03Z",
+  "estado": "igual",
+  "sha1_commons": "885987c07357cdeec3ad6afb20c781e9c5e18987"
+ }
+}

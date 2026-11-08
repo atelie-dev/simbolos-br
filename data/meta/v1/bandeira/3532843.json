@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532843",
+ "uf": "SP",
+ "municipio": "Nova Canaã Paulista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bandeira_de_Nova_Cana%C3%A3_Paulista.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nova Canaã Paulista",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f0642c9d356c222340c1ab6b47a94c51130c0609cb3459206b3bdcdfd37e6de5",
+ "rendicoes": {
+  "png": {
+   "bytes": 29621,
+   "sha256": "80accb6985472d3de92bb70ac80b8d9cd5064730037bd70b8a2b09a90b6f0d19",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16315,
+   "sha256": "85c1ca881b14e802f5f1311d59450d0838126644625f910a589ef1ec0c972029",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532843.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532843.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532843.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3532843.png",
+  "bytes": 25339,
+  "sha256": "f0642c9d356c222340c1ab6b47a94c51130c0609cb3459206b3bdcdfd37e6de5"
+ },
+ "sha1_origem": "53e6629e9335b15349bf1a3645456aba830c81ed",
+ "bytes_origem": 25339,
+ "capturado_em": "2026-11-08T06:33:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nova_Canaã_Paulista.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "53e6629e9335b15349bf1a3645456aba830c81ed"
+ }
+}

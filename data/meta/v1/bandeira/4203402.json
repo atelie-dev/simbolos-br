@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4203402",
+ "uf": "SC",
+ "municipio": "Campo Belo do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bandeira_do_munic%C3%ADpio_de_Campo_Belo_do_Sul_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Campo Belo do Sul (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2f5d032d1a5e8a5d1bee961c60239de4cb8a550af0beff17b99a7590d263a83f",
+ "rendicoes": {
+  "png": {
+   "bytes": 51117,
+   "sha256": "be5512fe935b05c4522873fed499a608cab414a46c60fdbc669d6e8f37d9bee4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20939,
+   "sha256": "dbe9bf162e13333c4942607fcea61b22a13c35d2aed80fc699720ffaf23e09a7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4203402.png",
+  "bytes": 1565020,
+  "sha256": "2f5d032d1a5e8a5d1bee961c60239de4cb8a550af0beff17b99a7590d263a83f"
+ },
+ "sha1_origem": "be075c284b185acb9c8a78544d3d28b2cf5552d4",
+ "bytes_origem": 1565020,
+ "capturado_em": "2026-11-08T06:52:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Campo_Belo_do_Sul_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "be075c284b185acb9c8a78544d3d28b2cf5552d4"
+ }
+}

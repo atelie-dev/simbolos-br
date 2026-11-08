@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3531605",
+ "uf": "SP",
+ "municipio": "Monte Castelo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bras%C3%A3o_Monte_Castelo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "362d0a2b1879c049643df8c71c1333c623c0fd4fb735a0953e888d793da88ef6",
+ "rendicoes": {
+  "png": {
+   "bytes": 49427,
+   "sha256": "608d6f36c5da3a8e7e0d566fb6e17e4853f9947a66fcbd93d7c7b6f6e61c5514",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12206,
+   "sha256": "6f0f9afe8d3143bfe406faea67fbf92d1152d3e9b4f9bfa6db3e55182f7bfd99",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3531605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3531605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3531605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3531605.jpg",
+  "bytes": 12824,
+  "sha256": "362d0a2b1879c049643df8c71c1333c623c0fd4fb735a0953e888d793da88ef6"
+ },
+ "sha1_origem": "090387704b3a88050439fb3397e80b766050df20",
+ "bytes_origem": 12824,
+ "capturado_em": "2026-11-08T06:32:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Monte_Castelo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "090387704b3a88050439fb3397e80b766050df20"
+ }
+}

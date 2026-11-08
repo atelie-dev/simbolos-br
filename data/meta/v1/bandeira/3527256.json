@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3527256",
+ "uf": "SP",
+ "municipio": "Lourdes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bandeira_Lourdes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "53a3987317e82f7129511675612a82ffe2f1a7c72bff7844a3d614990f60c2a5",
+ "rendicoes": {
+  "png": {
+   "bytes": 19433,
+   "sha256": "8a63d1e0f5cffeac4aac4b2245b9fdd4f58590ed7f24e24d906df0d54d21ae44",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12428,
+   "sha256": "662db66c090e89320b8fd7941ec2a9a870085addd9d8a2d1e3754efddfca689a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527256.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527256.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527256.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3527256.png",
+  "bytes": 17808,
+  "sha256": "53a3987317e82f7129511675612a82ffe2f1a7c72bff7844a3d614990f60c2a5"
+ },
+ "sha1_origem": "7c808e2671d0decb2a6a8682ce961089eb128962",
+ "bytes_origem": 17808,
+ "capturado_em": "2026-11-08T06:31:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Lourdes.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "7c808e2671d0decb2a6a8682ce961089eb128962"
+ }
+}

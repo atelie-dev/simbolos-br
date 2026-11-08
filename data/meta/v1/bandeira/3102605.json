@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3102605",
+ "uf": "MG",
+ "municipio": "Andradas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bandeiraandradas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "688e62c9059539cc52e355baac64ef3c76cb3b423dee99c2b603188d9c7cda59",
+ "rendicoes": {
+  "png": {
+   "bytes": 22836,
+   "sha256": "a118a38484475a5096b02c6bdf04509a3d04f08cc10c75d274f3e99f8207dbae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9203,
+   "sha256": "46516cf1238cbf22fa1efef628de9dd2c50fa59ff5302358cd1459ae84e9acc0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3102605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3102605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3102605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3102605.jpg",
+  "bytes": 10255,
+  "sha256": "688e62c9059539cc52e355baac64ef3c76cb3b423dee99c2b603188d9c7cda59"
+ },
+ "sha1_origem": "1b42f52489a6e49e5a2284530355485e4f74a0a6",
+ "bytes_origem": 10255,
+ "capturado_em": "2026-11-08T05:59:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraandradas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "1b42f52489a6e49e5a2284530355485e4f74a0a6"
+ }
+}

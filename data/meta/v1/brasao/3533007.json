@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3533007",
+ "uf": "SP",
+ "municipio": "Nova Granada",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bras%C3%A3o_Nova_Granada_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9beecd390683d49b03c30b6a814855f95833de9bf490583f7e5a05316527ed2b",
+ "rendicoes": {
+  "png": {
+   "bytes": 230479,
+   "sha256": "0fc42b5158a14af7422f8c1f929b2193b64757400a2ded88974b158de5f3445e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40114,
+   "sha256": "ee5e3d249b443f1ae08e9f4ae90a7f86ed46d50d62623435b4dd53f8cb05efe9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3533007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3533007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3533007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3533007.jpg",
+  "bytes": 121910,
+  "sha256": "9beecd390683d49b03c30b6a814855f95833de9bf490583f7e5a05316527ed2b"
+ },
+ "sha1_origem": "ab7c8c50f1a5cec19997aeeac74f806256556910",
+ "bytes_origem": 121910,
+ "capturado_em": "2026-11-08T06:33:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Nova_Granada_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "ab7c8c50f1a5cec19997aeeac74f806256556910"
+ }
+}

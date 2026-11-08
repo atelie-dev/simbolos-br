@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5005681",
+ "uf": "MS",
+ "municipio": "Mundo Novo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bandeira-mundo_novo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Mundo Novo City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "68187ee87ac25590a54c70372311d0881d8541140e0de4e6703e93e172b1564e",
+ "rendicoes": {
+  "png": {
+   "bytes": 15707,
+   "sha256": "f0b9496c5ed1f073a2951a814a295e69eae1d45a0d7395476147e90537c72702",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9600,
+   "sha256": "cf4e9a96f520614d2b6a6db0be12ee61d2bdc011b9ea3172d44a86dd7fa0bbc9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005681.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005681.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005681.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5005681.png",
+  "bytes": 6249,
+  "sha256": "68187ee87ac25590a54c70372311d0881d8541140e0de4e6703e93e172b1564e"
+ },
+ "sha1_origem": "291b1ba0688366ae177cc86fc6eb312932a265bb",
+ "bytes_origem": 6249,
+ "capturado_em": "2026-11-08T07:13:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-mundo_novo.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "291b1ba0688366ae177cc86fc6eb312932a265bb"
+ }
+}

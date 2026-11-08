@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4115101",
+ "uf": "PR",
+ "municipio": "Mariluz",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bandeira_de_Mariluz_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "IdrabmoL",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "f86a5d3c76a757197cfdbcd6b50feba5765b2e451c95185e638a7e34f6c6195d",
+ "rendicoes": {
+  "png": {
+   "bytes": 44393,
+   "sha256": "02615e3e56a058d327674355826f1cf73d871cdc3d4f17f4fae7bec2d375ccb7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22566,
+   "sha256": "b9a92a697aff534b238293a49237611fb65c4b5ec4d0fb013551514a9481b5e5",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 767880,
+   "sha256": "f86a5d3c76a757197cfdbcd6b50feba5765b2e451c95185e638a7e34f6c6195d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115101.jpg"
+ },
+ "sha1_origem": "43e17f649d4ed8c48750cad683849a00d405a580",
+ "bytes_origem": 767880,
+ "capturado_em": "2026-11-08T04:28:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Mariluz_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "43e17f649d4ed8c48750cad683849a00d405a580"
+ }
+}

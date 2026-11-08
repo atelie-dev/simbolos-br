@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4114609",
+ "uf": "PR",
+ "municipio": "Marechal Cândido Rondon",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bandeira_de_Marechal_C%C3%A2ndido_Rondon%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6b5871c2f45463103093b3df836c57ba719167b2236310a729f4dc47ca3f9257",
+ "rendicoes": {
+  "png": {
+   "bytes": 67892,
+   "sha256": "e61566500ed2b643c28918ff2d027368e652c4090b8148676822b0049983f6bf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18964,
+   "sha256": "f166458dc2a6f12e9e70be9e77e337a762fddf3876673832a6d49bc85daa1ab8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4114609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4114609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4114609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4114609.jpg",
+  "bytes": 54600,
+  "sha256": "6b5871c2f45463103093b3df836c57ba719167b2236310a729f4dc47ca3f9257"
+ },
+ "sha1_origem": "f35cea21d0b26d104f5df1f24d9f7b15afbf58ad",
+ "bytes_origem": 54600,
+ "capturado_em": "2026-11-08T06:46:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Marechal_Cândido_Rondon,_PR.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "f35cea21d0b26d104f5df1f24d9f7b15afbf58ad"
+ }
+}

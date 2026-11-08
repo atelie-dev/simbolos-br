@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3552502",
+ "uf": "SP",
+ "municipio": "Suzano",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/50/Bandeira_Suzano.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ba01f3e0ba6331252a693a9123b62d34475664e84270ed84150c5bdd218db762",
+ "rendicoes": {
+  "png": {
+   "bytes": 5638,
+   "sha256": "1c1bcd4eef55074acb90b71966c9af21bc29d86504990508a692f1572bac11f4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4833,
+   "sha256": "d6c0d51385126a1d0ac38c04ed6f7d227f51ebe476bbdebc5994d64e5c625320",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3552502.png",
+  "bytes": 2471,
+  "sha256": "ba01f3e0ba6331252a693a9123b62d34475664e84270ed84150c5bdd218db762"
+ },
+ "sha1_origem": "27b51159f8c2be861a0ad84e80b5ec64ce3b77eb",
+ "bytes_origem": 2471,
+ "capturado_em": "2026-11-08T06:39:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Suzano.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "27b51159f8c2be861a0ad84e80b5ec64ce3b77eb"
+ }
+}

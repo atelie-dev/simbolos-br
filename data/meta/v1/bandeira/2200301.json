@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2200301",
+ "uf": "PI",
+ "municipio": "Alto Longá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BANDEIRA_DE_ALTO_LONG%C3%81_-_PI.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Adriano Silva",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "caf4cec95868e6dfa153cd477bc374aa54323ddabc69ef567095285f061f7e26",
+ "rendicoes": {
+  "png": {
+   "bytes": 35544,
+   "sha256": "1685794c9ff021c8deb073acf568895b3c51d6c52f459c76d985e7e8ec335cae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15447,
+   "sha256": "a525449a9c7d584bd195551137e0af40b546ea36630122fde30fd94148bd85df",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 662449,
+   "sha256": "caf4cec95868e6dfa153cd477bc374aa54323ddabc69ef567095285f061f7e26"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2200301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2200301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2200301.jpg"
+ },
+ "sha1_origem": "e60f13f80f166665dd81558ad2ef10990411b8e9",
+ "bytes_origem": 662449,
+ "capturado_em": "2026-11-08T02:40:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BANDEIRA_DE_ALTO_LONGÁ_-_PI.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "e60f13f80f166665dd81558ad2ef10990411b8e9"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3117702",
+ "uf": "MG",
+ "municipio": "Conceição do Rio Verde",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bandeira_conceicao_rio_verde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "18e69d2269928a2bad19340790fe7ad6d40bd6830403be9124e19088af1d06d5",
+ "rendicoes": {
+  "png": {
+   "bytes": 127043,
+   "sha256": "a4370cdc377fc68a8ebe97d5c2b9fb88096a650c5b838687ce61819e0a8e773c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25976,
+   "sha256": "5c2d1b7269d4b5f20ad47d30c628f03e6eefb060b99b79604ed1dd0f92d59cfc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3117702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3117702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3117702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3117702.jpg",
+  "bytes": 42195,
+  "sha256": "18e69d2269928a2bad19340790fe7ad6d40bd6830403be9124e19088af1d06d5"
+ },
+ "sha1_origem": "6c89e56745b9c60c3d514dde1852741ca61f5e0d",
+ "bytes_origem": 42195,
+ "capturado_em": "2026-11-08T06:04:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_conceicao_rio_verde.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "6c89e56745b9c60c3d514dde1852741ca61f5e0d"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3303401",
+ "uf": "RJ",
+ "municipio": "Nova Friburgo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bras%C3%A3o_de_Nova_Friburgo_-_RJ.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1d412f53ad2549829185998115e5fa06ae23c1485d07364c800a7ffb74a64c13",
+ "rendicoes": {
+  "png": {
+   "bytes": 144331,
+   "sha256": "a54dc80788f90fc47b4109d3049ad9aaa45a4ba3b8f7de5fb8785a5e68333f75",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 46366,
+   "sha256": "ed48e5f391b2fbc2aad5f74094bd6349edece86dd53a3c79a2dead6eaa212b48",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 217725,
+   "sha256": "1d412f53ad2549829185998115e5fa06ae23c1485d07364c800a7ffb74a64c13"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303401.jpg"
+ },
+ "sha1_origem": "0caa92d837b4d46c9c098958f6876228da71f86a",
+ "bytes_origem": 217725,
+ "capturado_em": "2026-11-08T03:55:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Nova_Friburgo_-_RJ.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "0caa92d837b4d46c9c098958f6876228da71f86a"
+ }
+}

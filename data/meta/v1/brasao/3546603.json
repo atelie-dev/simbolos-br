@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3546603",
+ "uf": "SP",
+ "municipio": "Santa Fé do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Brasao_santafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Santa Fé do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ad0c2d940014b94e8f3133a40612698d1c5edf50915db5d5b57d98a8ee9085e3",
+ "rendicoes": {
+  "png": {
+   "bytes": 205329,
+   "sha256": "dc1469d7c245f03ef3304113c739c19dcfa46a7f0c85b0e3b8255e47626eedbd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47510,
+   "sha256": "e3919c2b67710efc4845e53913bfd8b9b352cea1ddd8e143e9db30e90369d9cc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3546603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3546603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3546603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3546603.jpg",
+  "bytes": 71158,
+  "sha256": "ad0c2d940014b94e8f3133a40612698d1c5edf50915db5d5b57d98a8ee9085e3"
+ },
+ "sha1_origem": "9b6544b404b3bc4fde08d854f1b0c6e9ccc39409",
+ "bytes_origem": 71158,
+ "capturado_em": "2026-11-08T06:37:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_santafe.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "9b6544b404b3bc4fde08d854f1b0c6e9ccc39409"
+ }
+}

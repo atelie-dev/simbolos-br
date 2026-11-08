@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5005004",
+ "uf": "MS",
+ "municipio": "Jardim",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bras%C3%A3o_da_cidade_de_Jardim%2C_Mato_Grosso_do_Sul.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Jardim",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ecce82ae76375e14509fb031ccc975792e0c5b1f46771108364e61be64055978",
+ "rendicoes": {
+  "png": {
+   "bytes": 61783,
+   "sha256": "9911c7dfc2ee0455e8304b86420ebf6e9a168f7faeec06729ecfdbcfba397963",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19992,
+   "sha256": "b9b9197a4e8bb61bba54df3866819bbce86482e25cd242fc73fb2e50a6ea0e7a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5005004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5005004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5005004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5005004.png",
+  "bytes": 25167,
+  "sha256": "ecce82ae76375e14509fb031ccc975792e0c5b1f46771108364e61be64055978"
+ },
+ "sha1_origem": "686379f2ec9f98cf947321e1fcfd678c67e968f9",
+ "bytes_origem": 25167,
+ "capturado_em": "2026-11-08T07:13:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_da_cidade_de_Jardim,_Mato_Grosso_do_Sul.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "686379f2ec9f98cf947321e1fcfd678c67e968f9"
+ }
+}

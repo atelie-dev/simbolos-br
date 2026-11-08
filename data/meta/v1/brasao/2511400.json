@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2511400",
+ "uf": "PB",
+ "municipio": "Picuí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Brasao_picui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Picui",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a825ec52eb4cbbd8a1122fc5dd462e11c20381cdc4df3ff06af1fd24070c6a6c",
+ "rendicoes": {
+  "png": {
+   "bytes": 71365,
+   "sha256": "14a626c67367deb066add24f860e80c07344be6b0188d5ede2e115d6b9ca0019",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15321,
+   "sha256": "6bfe10d8d01d659d4652e3a466d1af0b1977bc78b9d04393653f60bd1b601081",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2511400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2511400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2511400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2511400.jpg",
+  "bytes": 37569,
+  "sha256": "a825ec52eb4cbbd8a1122fc5dd462e11c20381cdc4df3ff06af1fd24070c6a6c"
+ },
+ "sha1_origem": "6a248d77519ae2b87bdf1ea7e683a02dac0d8ad1",
+ "bytes_origem": 37569,
+ "capturado_em": "2026-11-08T05:42:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_picui.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "6a248d77519ae2b87bdf1ea7e683a02dac0d8ad1"
+ }
+}

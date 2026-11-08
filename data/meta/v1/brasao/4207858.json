@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4207858",
+ "uf": "SC",
+ "municipio": "Irati",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bras%C3%A3o_do_munic%C3%ADpio_de_Irati_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Irati (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f8b11167176a9048f2db6ca006abf7668af209ef3e851a846916ed7c91cf7526",
+ "rendicoes": {
+  "png": {
+   "bytes": 296050,
+   "sha256": "ba7f01064490f305982fa6ff145f3d0fa00b108c8f90ef452771125289f322ba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 70054,
+   "sha256": "268f503f3b0da6f5ccdc1c1e6475c17ddb783cb0da953d27cb209246263edda9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4207858.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4207858.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4207858.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4207858.png",
+  "bytes": 3882274,
+  "sha256": "f8b11167176a9048f2db6ca006abf7668af209ef3e851a846916ed7c91cf7526"
+ },
+ "sha1_origem": "48a3ffd0f03da556bffcc25a391cf88503906aea",
+ "bytes_origem": 3882274,
+ "capturado_em": "2026-11-08T06:54:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Irati_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "48a3ffd0f03da556bffcc25a391cf88503906aea"
+ }
+}

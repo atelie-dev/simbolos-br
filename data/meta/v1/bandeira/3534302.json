@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3534302",
+ "uf": "SP",
+ "municipio": "Orlândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/BandeiraOrlandia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ViniciusBR11, Prefeitura de Orlândia",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "f53e6687172b7dade0601964a5d01518f7ce214d119c793bc20a5db877a4da2a",
+ "rendicoes": {
+  "png": {
+   "bytes": 24835,
+   "sha256": "c1f4a438114a97bc4290598c5dd70e93df0154189d4ec9318a69e5ef4308ea7d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15192,
+   "sha256": "9743d0da587941ccd31b5a7648c8abf4b686e9267bd78f751d0007332c3e2bd1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 73452,
+   "sha256": "f53e6687172b7dade0601964a5d01518f7ce214d119c793bc20a5db877a4da2a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534302.jpg"
+ },
+ "sha1_origem": "1922fa7b6eb5c698ae176bdfa568176dd0379720",
+ "bytes_origem": 73452,
+ "capturado_em": "2026-11-08T04:10:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraOrlandia.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:41Z",
+  "estado": "igual",
+  "sha1_commons": "1922fa7b6eb5c698ae176bdfa568176dd0379720"
+ }
+}

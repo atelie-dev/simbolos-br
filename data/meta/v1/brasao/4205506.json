@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4205506",
+ "uf": "SC",
+ "municipio": "Fraiburgo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Brasao_de_Fraiburgo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Fraiburgo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dd6c8bf2238adddc1eb254e32c05535775f572d47f01c42e3d1cdd76d046e300",
+ "rendicoes": {
+  "png": {
+   "bytes": 76500,
+   "sha256": "da4400ab1e46e8ae572e0e8e14052521e1c55e54840861005b7871da52507183",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20072,
+   "sha256": "054821419429f15b3750fd8e90a005ed1f68b622462a4d6b6fb25ee01348835b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4205506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4205506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4205506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4205506.jpg",
+  "bytes": 52642,
+  "sha256": "dd6c8bf2238adddc1eb254e32c05535775f572d47f01c42e3d1cdd76d046e300"
+ },
+ "sha1_origem": "bddade6e5ded19cbc52ea4a8163c4564f6f02be4",
+ "bytes_origem": 52642,
+ "capturado_em": "2026-11-08T06:53:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_de_Fraiburgo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "bddade6e5ded19cbc52ea4a8163c4564f6f02be4"
+ }
+}

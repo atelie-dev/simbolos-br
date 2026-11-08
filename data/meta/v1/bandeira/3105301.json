@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3105301",
+ "uf": "MG",
+ "municipio": "Bandeira do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bandeira_de_Bandeira_do_Sul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Andrelina Silva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2eb1b3319c6e7e2817d264d38e4b5cf81a8ae37751273458df040a91ed59cc39",
+ "rendicoes": {
+  "png": {
+   "bytes": 83515,
+   "sha256": "b33c36511e05b532dba8387109a11f6fe42d65fe7a633a84451ff9d129dedbf3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26602,
+   "sha256": "5d8e7b43872f59d5221814749c9639b4000ff50240b4aa992099378838bbc75a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3105301.jpg",
+  "bytes": 681148,
+  "sha256": "2eb1b3319c6e7e2817d264d38e4b5cf81a8ae37751273458df040a91ed59cc39"
+ },
+ "sha1_origem": "083bb84a26b2a87c89282877984fd9c06e61de37",
+ "bytes_origem": 681148,
+ "capturado_em": "2026-11-08T06:00:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bandeira_do_Sul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "083bb84a26b2a87c89282877984fd9c06e61de37"
+ }
+}

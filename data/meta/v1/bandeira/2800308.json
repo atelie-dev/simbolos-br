@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2800308",
+ "uf": "SE",
+ "municipio": "Aracaju",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bandeira_de_Aracaju.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Bruno Coutinho Araújo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ebc35449fa4013b4f15fd9227d741746b3797ac84a0f1c14d08add712dc9d669",
+ "rendicoes": {
+  "png": {
+   "bytes": 27360,
+   "sha256": "d22d2a7c8216986290d2fae882eca3af19413d89e2e0eca0cd7f84baa15d7332",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15841,
+   "sha256": "e474de8607c47025537b55240f50e6991ec33ce50abc84740f6d928894c7d60c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 392379,
+   "sha256": "ebc35449fa4013b4f15fd9227d741746b3797ac84a0f1c14d08add712dc9d669"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2800308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2800308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2800308.jpg"
+ },
+ "sha1_origem": "a7bd56e026e3cf8df3eb8091abb31d60212bf4e5",
+ "bytes_origem": 392379,
+ "capturado_em": "2026-11-08T03:11:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Aracaju.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "a7bd56e026e3cf8df3eb8091abb31d60212bf4e5"
+ }
+}

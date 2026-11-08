@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5207600",
+ "uf": "GO",
+ "municipio": "Fazenda Nova",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bras%C3%A3o_de_Fazenda_Nova.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Fazenda Nova",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0587a4bde90b52cd09f0c8b32ac210212d5ffcd75fae6fafe343fc9abe44afc3",
+ "rendicoes": {
+  "png": {
+   "bytes": 105306,
+   "sha256": "761ed4352fb84850690c16453784bc0f9b82c495cda40269eacadbb7d0510974",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27654,
+   "sha256": "ae4619de24b2f220c6c5d29eac4c72d873cbe24bc9d1411318d3bc6a3a7b2bce",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5207600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5207600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5207600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5207600.png",
+  "bytes": 103532,
+  "sha256": "0587a4bde90b52cd09f0c8b32ac210212d5ffcd75fae6fafe343fc9abe44afc3"
+ },
+ "sha1_origem": "df0d29ea022d1c87513ba80fdd0494ace68f27dd",
+ "bytes_origem": 103532,
+ "capturado_em": "2026-11-08T07:17:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Fazenda_Nova.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:02Z",
+  "estado": "igual",
+  "sha1_commons": "df0d29ea022d1c87513ba80fdd0494ace68f27dd"
+ }
+}

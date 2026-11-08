@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3127503",
+ "uf": "MG",
+ "municipio": "Gonzaga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Gonzagamgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Gonzaga",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7d309e559fc3f87325f220bc6701cc8a4174ff04d527ca9315f1dc4cacf37aa3",
+ "rendicoes": {
+  "png": {
+   "bytes": 252896,
+   "sha256": "2bb4f79fc4ee5c112b343424a326228d81abb5f8e2689c4e3ab90509a5a00841",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 51868,
+   "sha256": "e05c27340151267b8eb2959afbd43d585407d6303e94a29710f3bfae939a0ebe",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3127503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3127503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3127503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3127503.jpg",
+  "bytes": 127738,
+  "sha256": "7d309e559fc3f87325f220bc6701cc8a4174ff04d527ca9315f1dc4cacf37aa3"
+ },
+ "sha1_origem": "eba65f0a32048f3f90c01addfa8bb32313d82c9f",
+ "bytes_origem": 127738,
+ "capturado_em": "2026-11-08T06:07:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Gonzagamgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "eba65f0a32048f3f90c01addfa8bb32313d82c9f"
+ }
+}

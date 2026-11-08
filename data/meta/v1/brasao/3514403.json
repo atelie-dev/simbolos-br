@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3514403",
+ "uf": "SP",
+ "municipio": "Dracena",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Dracena_Brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6646e393ff301b5336bf68b4a74d8402b6fa95f41324076369c537b66769d93c",
+ "rendicoes": {
+  "png": {
+   "bytes": 57285,
+   "sha256": "8ef62bf80968048e5962511eef866977c42f09d8c1be8012650101caeb86e89f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16616,
+   "sha256": "897288abeea5bfa75021f88cf576b532a167fbe1be7dd6a7566a878e7f1cf384",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3514403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3514403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3514403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3514403.png",
+  "bytes": 23277,
+  "sha256": "6646e393ff301b5336bf68b4a74d8402b6fa95f41324076369c537b66769d93c"
+ },
+ "sha1_origem": "ed2f4cc376523ba4f86e3313cbde368ca1f7788f",
+ "bytes_origem": 23277,
+ "capturado_em": "2026-11-08T06:27:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Dracena_Brasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "ed2f4cc376523ba4f86e3313cbde368ca1f7788f"
+ }
+}

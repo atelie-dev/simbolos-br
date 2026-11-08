@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3161908",
+ "uf": "MG",
+ "municipio": "São Gonçalo do Rio Abaixo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bandeira-saogon%C3%A7alodorioabaixo-mg.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMSGRA",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "935e5c96fc4f6a0309152dae1a080821b6365620d069a621848d4f2343aa0a67",
+ "rendicoes": {
+  "png": {
+   "bytes": 27537,
+   "sha256": "d343db15c2d409625d620805cde035b6a1207385ba10d55012b7059e89cd69b1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10065,
+   "sha256": "fee20b9feef61fadba448ca9af5cb25743da05f2c34df96baacbfc3cd08f6355",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3161908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3161908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3161908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3161908.jpg",
+  "bytes": 18900,
+  "sha256": "935e5c96fc4f6a0309152dae1a080821b6365620d069a621848d4f2343aa0a67"
+ },
+ "sha1_origem": "22ec45d0964227668019d1cb210baa287726c636",
+ "bytes_origem": 18900,
+ "capturado_em": "2026-11-08T06:16:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-saogonçalodorioabaixo-mg.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "22ec45d0964227668019d1cb210baa287726c636"
+ }
+}

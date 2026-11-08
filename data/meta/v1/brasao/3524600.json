@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3524600",
+ "uf": "SP",
+ "municipio": "Jacupiranga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Bras%C3%A3o_Jacupiranga.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8f26f682c6067046083ad134e05ccd631d0fd11c3263b4549874e48685ee3ef3",
+ "rendicoes": {
+  "png": {
+   "bytes": 63592,
+   "sha256": "b188a7ce0070162c7b09d97ef3a6c0fc2ccb59a5c35318dfde2b1af9dfb7e796",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26711,
+   "sha256": "d1b36ad0f2b819c4d50def3123b65a08f9d159ad380f9f0c74f8a5d3ba03bdf4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3524600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3524600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3524600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3524600.png",
+  "bytes": 30864,
+  "sha256": "8f26f682c6067046083ad134e05ccd631d0fd11c3263b4549874e48685ee3ef3"
+ },
+ "sha1_origem": "55106811a60eec08a214af0453920d3a59922ba1",
+ "bytes_origem": 30864,
+ "capturado_em": "2026-11-08T06:30:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Jacupiranga.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "55106811a60eec08a214af0453920d3a59922ba1"
+ }
+}

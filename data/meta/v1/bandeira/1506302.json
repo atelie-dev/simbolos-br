@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1506302",
+ "uf": "PA",
+ "municipio": "Salvaterra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bandeira_de_Salvaterra%2C_PA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Salvaterra.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f570e93e80963af9dfabbf28bdeafc631413200283ec0d4f59d5372bbcf9de71",
+ "rendicoes": {
+  "png": {
+   "bytes": 13530,
+   "sha256": "611598f5fed68c3a1d9e4803920ec03e795d6be036e873eead630c7403bce4f5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4713,
+   "sha256": "29734d6eb7e633958d5b9b9c759e36b95d090779babe7990af69b36be0e49ad0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1506302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1506302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1506302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1506302.jpg",
+  "bytes": 1885,
+  "sha256": "f570e93e80963af9dfabbf28bdeafc631413200283ec0d4f59d5372bbcf9de71"
+ },
+ "sha1_origem": "1d4ab2978a8ecae5fcca40f6cef0c27750005264",
+ "bytes_origem": 1885,
+ "capturado_em": "2026-11-08T05:25:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Salvaterra,_PA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "1d4ab2978a8ecae5fcca40f6cef0c27750005264"
+ }
+}

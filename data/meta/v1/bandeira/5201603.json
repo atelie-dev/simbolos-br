@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5201603",
+ "uf": "GO",
+ "municipio": "Araçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Bandeira_de_Ara%C3%A7u.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Araçu",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ee64c4dc1078171afe370d75c494c6aaf3bb3a23fde68c0f3af6bcec1bac7061",
+ "rendicoes": {
+  "png": {
+   "bytes": 6620,
+   "sha256": "8c325d193d1396670d736267a0b54e4f1a9589bc34a3e73b41da80c5d1cdbb50",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6029,
+   "sha256": "f9552bf5f812d364c190df66bf5e04cc71de69dce8a31df00a74bedd77c708e4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5201603.png",
+  "bytes": 4649,
+  "sha256": "ee64c4dc1078171afe370d75c494c6aaf3bb3a23fde68c0f3af6bcec1bac7061"
+ },
+ "sha1_origem": "30a7a0c5c036ce0590b13e6e2a9ad8ba00d944d6",
+ "bytes_origem": 4649,
+ "capturado_em": "2026-11-08T07:16:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Araçu.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "30a7a0c5c036ce0590b13e6e2a9ad8ba00d944d6"
+ }
+}

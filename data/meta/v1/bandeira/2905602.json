@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2905602",
+ "uf": "BA",
+ "municipio": "Camacan",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bandeira_de_Camacan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Renatozumaeta",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7a770bcb66b85fa9a1b474ed12d9dbddeade737409e132c94e1007da380a193d",
+ "rendicoes": {
+  "png": {
+   "bytes": 68615,
+   "sha256": "724d687216409a91663d362a09f8022553fc0bdc8d1aadf64426bbd94db0b7c1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21265,
+   "sha256": "9d5c49e3e148a1a11cb7de5d2499448f6a44dacc38294e8afef89ae8b0023a62",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2905602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2905602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2905602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2905602.jpg",
+  "bytes": 78103,
+  "sha256": "7a770bcb66b85fa9a1b474ed12d9dbddeade737409e132c94e1007da380a193d"
+ },
+ "sha1_origem": "a87961dd2466ccbba57fd77a08efd3649082476d",
+ "bytes_origem": 78103,
+ "capturado_em": "2026-11-08T05:51:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Camacan.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "a87961dd2466ccbba57fd77a08efd3649082476d"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2303303",
+ "uf": "CE",
+ "municipio": "Cariús",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bandeira_de_Cari%C3%BAs.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Erick Emanuel 1",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c1505fef432e7e19b04621f4691ac98aa09b7ab0326f3ec17544632848b40039",
+ "rendicoes": {
+  "png": {
+   "bytes": 9286,
+   "sha256": "05f1b381197a2b2387d72b80710be635fb6d3b728508f8b9a5fdc74f1d5ffad5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15306,
+   "sha256": "598c00e87fa48e2467309121f3fbe69797e6263a834715a17028fd0d5916bf0f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2303303.png",
+  "bytes": 4047,
+  "sha256": "c1505fef432e7e19b04621f4691ac98aa09b7ab0326f3ec17544632848b40039"
+ },
+ "sha1_origem": "c84cf74be1b59e80ecb76633f76c778b8265160a",
+ "bytes_origem": 4047,
+ "capturado_em": "2026-11-08T05:32:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cariús.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "c84cf74be1b59e80ecb76633f76c778b8265160a"
+ }
+}

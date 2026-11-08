@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3118601",
+ "uf": "MG",
+ "municipio": "Contagem",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bras%C3%A3o_de_Contagem_-_MG.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "30552244b8d296786de1c2a03f614ebee3edc1e06f0a1ef0586bf5bc852aad7b",
+ "rendicoes": {
+  "png": {
+   "bytes": 103416,
+   "sha256": "670fa0a500764fa5b2a252d2e7a4095df5099692a30296ae1787fddd9b651cd9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49404,
+   "sha256": "de7c0239200c215b6d6e59fe5e98d07f35432aac286a4cce61003874e1613df6",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 96967,
+   "sha256": "30552244b8d296786de1c2a03f614ebee3edc1e06f0a1ef0586bf5bc852aad7b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3118601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3118601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3118601.jpg"
+ },
+ "sha1_origem": "a7c314d3b74af3d0cd04bd326ef9efef003e7594",
+ "bytes_origem": 96967,
+ "capturado_em": "2026-11-08T03:32:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Contagem_-_MG.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "a7c314d3b74af3d0cd04bd326ef9efef003e7594"
+ }
+}

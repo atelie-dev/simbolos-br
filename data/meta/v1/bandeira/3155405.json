@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3155405",
+ "uf": "MG",
+ "municipio": "Rio Novo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bandeira_de_Rio_Novo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Rio Novo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7fc6350e8a419108074fa671ab9bf2b69d17b8e11e1287e2b2b18fab544101bf",
+ "rendicoes": {
+  "png": {
+   "bytes": 107697,
+   "sha256": "0cc7c58e4024bbb4477a08250c5494ddf5b85e96e2867d790faf5ea3ec12be0f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36068,
+   "sha256": "ebc1b1d4bd78838d351766b7a0df247b3ed3c744fc75b2b20b5d072bd9cb147e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3155405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3155405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3155405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3155405.jpg",
+  "bytes": 84810,
+  "sha256": "7fc6350e8a419108074fa671ab9bf2b69d17b8e11e1287e2b2b18fab544101bf"
+ },
+ "sha1_origem": "aa35c5921d3c4acc7f671e4623de5b47b1e492ec",
+ "bytes_origem": 84810,
+ "capturado_em": "2026-11-08T06:14:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Rio_Novo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "aa35c5921d3c4acc7f671e4623de5b47b1e492ec"
+ }
+}

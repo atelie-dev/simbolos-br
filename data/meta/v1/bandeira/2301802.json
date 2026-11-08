@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2301802",
+ "uf": "CE",
+ "municipio": "Baixio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bandeira_de_Baixio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cineziofarias",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d0ef7fc19564c4dc57a9f14f2bc487f31fcab1d9344e6a6f968b2890247157d2",
+ "rendicoes": {
+  "png": {
+   "bytes": 51393,
+   "sha256": "b18730df96e8fef6158993c4e0f497e0ddd3d58598b79de29f365fe0c59e973e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17978,
+   "sha256": "0a8ec96d43db2451671b4a198a55065fe9a7207b1837aee77e38fd0d85fe2c48",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2301802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2301802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2301802.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2301802.jpg",
+  "bytes": 20270,
+  "sha256": "d0ef7fc19564c4dc57a9f14f2bc487f31fcab1d9344e6a6f968b2890247157d2"
+ },
+ "sha1_origem": "02aad8a333fc25baf4a84a387892bfa1072c61cc",
+ "bytes_origem": 20270,
+ "capturado_em": "2026-11-08T05:32:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Baixio.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "02aad8a333fc25baf4a84a387892bfa1072c61cc"
+ }
+}

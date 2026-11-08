@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3504800",
+ "uf": "SP",
+ "municipio": "Bálsamo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bandeira_B%C3%A1lsamo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Bálsamo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f3eae8fc4ded2362b84f44d7f3072bfc41dafb9b307b7cf1474c53e85dc0c814",
+ "rendicoes": {
+  "png": {
+   "bytes": 29052,
+   "sha256": "478c2f796b5238d31f251addc483daa641d510e997e481fc2959e28f0ecfaf74",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19572,
+   "sha256": "26d21d11006b6c2d61ede9c1058c391368ffa009219ca4ca8986cb0a5bb8d6cc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3504800.png",
+  "bytes": 25063,
+  "sha256": "f3eae8fc4ded2362b84f44d7f3072bfc41dafb9b307b7cf1474c53e85dc0c814"
+ },
+ "sha1_origem": "20a268560fb699208121b09b9e55bfa4dc392f2b",
+ "bytes_origem": 25063,
+ "capturado_em": "2026-11-08T06:24:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Bálsamo.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "20a268560fb699208121b09b9e55bfa4dc392f2b"
+ }
+}

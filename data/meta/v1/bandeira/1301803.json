@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1301803",
+ "uf": "AM",
+ "municipio": "Ipixuna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bandeira_de_Ipixuna_AM.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camervan",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a562af185bb4bd6c0a084e5e5a07fae79c735fdf8cbaac711340a7a5929d27f3",
+ "rendicoes": {
+  "png": {
+   "bytes": 17724,
+   "sha256": "addcba3fd54d38792c6cf6d19f189c5eaa8e9bbf4ce730d9553a0f064ea5cb10",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13242,
+   "sha256": "52a55fe8c2989fc667618d56138f46a47ccd093f35ea9a48ecd8408834d29082",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 208,
+   "sha256": "a562af185bb4bd6c0a084e5e5a07fae79c735fdf8cbaac711340a7a5929d27f3"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301803.jpg"
+ },
+ "sha1_origem": "87872446eaccce7afeeca98a78a72952a67ebbfd",
+ "bytes_origem": 208,
+ "capturado_em": "2026-11-08T02:31:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ipixuna_AM.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "87872446eaccce7afeeca98a78a72952a67ebbfd"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1100023",
+ "uf": "RO",
+ "municipio": "Ariquemes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Brasao-ariquemes-ro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pref. Mun. Ariquemes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "22964325f16df84ee23d8dd805b85a17ce5b2f1b027e1c0c10b1b975af91fa96",
+ "rendicoes": {
+  "png": {
+   "bytes": 278342,
+   "sha256": "95b68ca24766bfdba22b42bf47718dedf0f0b62c9b2d1b13ac640326c8c260c1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44277,
+   "sha256": "ec3134e17d26af72837c047dd55baf9c115943a035ad4a31d1086f0bd3d43060",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100023.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100023.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100023.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1100023.jpg",
+  "bytes": 76870,
+  "sha256": "22964325f16df84ee23d8dd805b85a17ce5b2f1b027e1c0c10b1b975af91fa96"
+ },
+ "sha1_origem": "1769bc8a125034b12ee01388d745593794dc7855",
+ "bytes_origem": 76870,
+ "capturado_em": "2026-11-08T05:21:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-ariquemes-ro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "1769bc8a125034b12ee01388d745593794dc7855"
+ }
+}

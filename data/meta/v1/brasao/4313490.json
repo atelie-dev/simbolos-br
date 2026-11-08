@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4313490",
+ "uf": "RS",
+ "municipio": "Novo Barreiro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bras%C3%A3o_Novo_Barreiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Novo Barreiro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c2757d1832c25423849953cdd181f8b138b163231eb8c8b999bd88f8a832fa40",
+ "rendicoes": {
+  "png": {
+   "bytes": 277193,
+   "sha256": "2669a309956624c60f1305365659c362fb40b02820ec91cd96c2dfdb2a3887cd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47075,
+   "sha256": "00345559f61f4316c02af77d9d64de31065d4c2f42d06020e339bdb30c587026",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313490.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313490.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313490.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4313490.jpg",
+  "bytes": 46614,
+  "sha256": "c2757d1832c25423849953cdd181f8b138b163231eb8c8b999bd88f8a832fa40"
+ },
+ "sha1_origem": "c8b296a7ced2301f9de4822d8c90561dd45724d1",
+ "bytes_origem": 46614,
+ "capturado_em": "2026-11-08T07:06:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Novo_Barreiro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "c8b296a7ced2301f9de4822d8c90561dd45724d1"
+ }
+}

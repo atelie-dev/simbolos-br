@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314498",
+ "uf": "RS",
+ "municipio": "Pinheirinho do Vale",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bras%C3%A3o_de_Pinheirinho_do_Vale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pinheirinho do Vale",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "aa813ddddc51a4bf3f0572922370dd70161539078ca8aec27776f022fa3803c8",
+ "rendicoes": {
+  "png": {
+   "bytes": 379304,
+   "sha256": "08964413fc196d74b36d1c268bddb3ab247b72dd7a553631632be772456b27d9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58175,
+   "sha256": "b6744babcdd7173d9ac5e1ef09a1218f84d752815ae766d8e257bf66a9aaa245",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314498.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314498.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314498.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4314498.jpg",
+  "bytes": 101150,
+  "sha256": "aa813ddddc51a4bf3f0572922370dd70161539078ca8aec27776f022fa3803c8"
+ },
+ "sha1_origem": "201371112913a88b3d1de5bbddfa25ae6d7ada7d",
+ "bytes_origem": 101150,
+ "capturado_em": "2026-11-08T07:07:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Pinheirinho_do_Vale.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:09Z",
+  "estado": "igual",
+  "sha1_commons": "201371112913a88b3d1de5bbddfa25ae6d7ada7d"
+ }
+}

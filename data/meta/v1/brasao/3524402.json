@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3524402",
+ "uf": "SP",
+ "municipio": "Jacareí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bras%C3%A3o_do_Municipio_de_Jacare%C3%AD-SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municípal de Jacareí",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1fc79a11264547556ef1715a269dbc0fd005ffc76099d4d1e0905727d0d2b39d",
+ "rendicoes": {
+  "png": {
+   "bytes": 34138,
+   "sha256": "e5d76c88195ac0def73ee4e69b5d9c8e926810993259272de37a3ff55e16d36b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14837,
+   "sha256": "ea09986671c997efe791217cdc8ee58d45bc48d0bfc25a37312ed3d74747b296",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3524402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3524402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3524402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3524402.png",
+  "bytes": 13801,
+  "sha256": "1fc79a11264547556ef1715a269dbc0fd005ffc76099d4d1e0905727d0d2b39d"
+ },
+ "sha1_origem": "15bb643ee82f66285816c7e80d6bf4aebd55407d",
+ "bytes_origem": 13801,
+ "capturado_em": "2026-11-08T06:30:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_Municipio_de_Jacareí-SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:15Z",
+  "estado": "igual",
+  "sha1_commons": "15bb643ee82f66285816c7e80d6bf4aebd55407d"
+ }
+}

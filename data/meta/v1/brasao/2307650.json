@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2307650",
+ "uf": "CE",
+ "municipio": "Maracanaú",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bras%C3%A3o_de_Maracana%C3%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Maracanaú",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "db226128a77ac52968c76e7524dbe23e3c99d0ec0a58c2705886e265d328c503",
+ "rendicoes": {
+  "png": {
+   "bytes": 109645,
+   "sha256": "fa2dcfd79c0ecfd9c7d4e545b85eb129676e6c68b055d55e83b99bd3c7acf855",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19373,
+   "sha256": "ca4a8af3276a9f145ab79533e1bda374eb05010815e1c9a7cd7d3223dc44208c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2307650.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2307650.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2307650.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2307650.jpg",
+  "bytes": 53138,
+  "sha256": "db226128a77ac52968c76e7524dbe23e3c99d0ec0a58c2705886e265d328c503"
+ },
+ "sha1_origem": "6cf20747cd00f06e884eb35a71a77430f1059c01",
+ "bytes_origem": 53138,
+ "capturado_em": "2026-11-08T05:33:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Maracanaú.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:06Z",
+  "estado": "igual",
+  "sha1_commons": "6cf20747cd00f06e884eb35a71a77430f1059c01"
+ }
+}

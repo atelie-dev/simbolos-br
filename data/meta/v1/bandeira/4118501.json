@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4118501",
+ "uf": "PR",
+ "municipio": "Pato Branco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bandeira_de_Pato_Branco.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ViniciusBR11, Prefeitura de Pato Branco",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3dfac70e79815edf5ea9be0e119dbf04d99277ceaca5d27e2739388387099568",
+ "rendicoes": {
+  "png": {
+   "bytes": 42599,
+   "sha256": "89c36d4ee7ecc3d3c5fc6250ba258ce08934472b7738032d13e1d594d5cd7430",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20479,
+   "sha256": "061520b2cf269f4df9d73916904631b65846636a1b403a6bf968ccbc50238a30",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 6761,
+   "sha256": "3dfac70e79815edf5ea9be0e119dbf04d99277ceaca5d27e2739388387099568"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4118501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4118501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4118501.jpg"
+ },
+ "sha1_origem": "c13eaa23f985679a436b00e834d5dcc24d44965e",
+ "bytes_origem": 6761,
+ "capturado_em": "2026-11-08T04:30:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pato_Branco.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "c13eaa23f985679a436b00e834d5dcc24d44965e"
+ }
+}

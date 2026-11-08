@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5207535",
+ "uf": "GO",
+ "municipio": "Faina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bras%C3%A3o_de_Faina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Faina",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b8ced8a5e8907afdf08d5261bb2ad668d3237d5fe58040da2cef30989221be85",
+ "rendicoes": {
+  "png": {
+   "bytes": 213157,
+   "sha256": "84896605d6b845c8f4a7c599a0ccbd858600d7af8824fadd0288663df86ed027",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49357,
+   "sha256": "c4019f95cc615bfc0ca7a0b8a64591188b418a346ac0202fea87d07a7a9f8aa4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5207535.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5207535.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5207535.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5207535.jpg",
+  "bytes": 94498,
+  "sha256": "b8ced8a5e8907afdf08d5261bb2ad668d3237d5fe58040da2cef30989221be85"
+ },
+ "sha1_origem": "b0f5e324c58eff0ad54b8d49c43e5c33147986d2",
+ "bytes_origem": 94498,
+ "capturado_em": "2026-11-08T07:17:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Faina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:02Z",
+  "estado": "igual",
+  "sha1_commons": "b0f5e324c58eff0ad54b8d49c43e5c33147986d2"
+ }
+}

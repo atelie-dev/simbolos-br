@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3520400",
+ "uf": "SP",
+ "municipio": "Ilhabela",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Brasao-Ilhabela.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Henriquebachelor",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "00f46ec9658de6fa90bde8174bc9ac2cce30865b649007d7f33e46e778c233b0",
+ "rendicoes": {
+  "png": {
+   "bytes": 154742,
+   "sha256": "1a83895cfd6322d7bc678e9e8396027d6e58533cc9fbc932cb88a5153ed0848e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58564,
+   "sha256": "e42cbc2a89045c88d8a341b0b20d8d4586ea073aa0e4de52971dc34ebedfc4fd",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 103576,
+   "sha256": "00f46ec9658de6fa90bde8174bc9ac2cce30865b649007d7f33e46e778c233b0"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520400.jpg"
+ },
+ "sha1_origem": "a2d48f345143bc58c6f396768c20da98727a70e3",
+ "bytes_origem": 103576,
+ "capturado_em": "2026-11-08T04:05:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-Ilhabela.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "a2d48f345143bc58c6f396768c20da98727a70e3"
+ }
+}

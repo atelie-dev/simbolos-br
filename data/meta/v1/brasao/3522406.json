@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3522406",
+ "uf": "SP",
+ "municipio": "Itapeva",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/82/BrasaoItapeva-sp.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Tiago Russo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0a5e153bff2c4e32295dbbea926e64fc557a7b5122127bb6d11a318e04068c5f",
+ "rendicoes": {
+  "png": {
+   "bytes": 80877,
+   "sha256": "65c5cfe25e0b1354d588d42eee219d86d82ecf4f606f3e339e109166c330066d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22892,
+   "sha256": "1673ab0fcccffcfd17c222f3367605530536c9d0bb6a163e7c6a632bab0c00e3",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 167312,
+   "sha256": "0a5e153bff2c4e32295dbbea926e64fc557a7b5122127bb6d11a318e04068c5f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522406.jpg"
+ },
+ "sha1_origem": "fd026116e04f25cf5a282a28ee7240b7b889039a",
+ "bytes_origem": 167312,
+ "capturado_em": "2026-11-08T04:05:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoItapeva-sp.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "fd026116e04f25cf5a282a28ee7240b7b889039a"
+ }
+}

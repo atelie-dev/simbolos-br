@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3105301",
+ "uf": "MG",
+ "municipio": "Bandeira do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bras%C3%A3o_de_Bandeira_do_Sul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Andrelina Silva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3ccec2fca38694d1ed13358988bb7b170b090f3b0acc79b7368f0c324d3829a8",
+ "rendicoes": {
+  "png": {
+   "bytes": 218460,
+   "sha256": "40aae0ef3258ec278d182f29911218da7b3f682b6c7aa5298dfe49dc04b14e75",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 69885,
+   "sha256": "b06b0586f5a5a950c0ed64ab1cb13eb2a0a2c7710313c3cfe821ded7e6f099c0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3105301.jpg",
+  "bytes": 467270,
+  "sha256": "3ccec2fca38694d1ed13358988bb7b170b090f3b0acc79b7368f0c324d3829a8"
+ },
+ "sha1_origem": "0c26f35f80168c6947b21224682eb9f60abf9ce6",
+ "bytes_origem": 467270,
+ "capturado_em": "2026-11-08T06:00:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Bandeira_do_Sul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "0c26f35f80168c6947b21224682eb9f60abf9ce6"
+ }
+}

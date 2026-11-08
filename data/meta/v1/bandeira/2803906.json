@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2803906",
+ "uf": "SE",
+ "municipio": "Malhador",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bandeira_malhador.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Malhador",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c4142bff0f47d45fac89badfa1abb9f924d7ba35f4156ac7a76340a6131b7d80",
+ "rendicoes": {
+  "png": {
+   "bytes": 54125,
+   "sha256": "3deafbabd0b265ee7e58a685d416c2521cb1137703eb61a61e41e9afb9906b1b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23416,
+   "sha256": "8508ad6ee01f3ee2850d5971c97c708919e8617d2cf411e752e7fb7a6e35ce7d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 76946,
+   "sha256": "c4142bff0f47d45fac89badfa1abb9f924d7ba35f4156ac7a76340a6131b7d80"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2803906.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2803906.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2803906.jpg"
+ },
+ "sha1_origem": "22afd4fdf7b820e58543091c8abadd937bb093b7",
+ "bytes_origem": 76946,
+ "capturado_em": "2026-11-08T03:13:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_malhador.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "22afd4fdf7b820e58543091c8abadd937bb093b7"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305454",
+ "uf": "RS",
+ "municipio": "Cidreira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Cidreirars_bras%C3%A3o.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cidreira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "196bb7c61067caaf0fe10aba792e8c9e54669a556c917528ec6b5759c12e4c7d",
+ "rendicoes": {
+  "png": {
+   "bytes": 87128,
+   "sha256": "bcf9b2690d7faf9b9c3651ff7a1d8df3672c548a9e8d1e39c754be0b49f3107d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21632,
+   "sha256": "29ef4592ee72ffefed9e50aa05587534516e19dee3f8a24905f6c5d2c798e748",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305454.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305454.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305454.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4305454.jpg",
+  "bytes": 15906,
+  "sha256": "196bb7c61067caaf0fe10aba792e8c9e54669a556c917528ec6b5759c12e4c7d"
+ },
+ "sha1_origem": "f998eb57b84ee40c800d8c30bf2c2c1e5318db17",
+ "bytes_origem": 15906,
+ "capturado_em": "2026-11-08T07:01:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cidreirars_brasão.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:22Z",
+  "estado": "igual",
+  "sha1_commons": "f998eb57b84ee40c800d8c30bf2c2c1e5318db17"
+ }
+}

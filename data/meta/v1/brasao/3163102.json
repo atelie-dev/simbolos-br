@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3163102",
+ "uf": "MG",
+ "municipio": "São José da Varginha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Brasaosjosevarginha.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São José da Varginha",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3e107f510089c75b46ba77e72897ad0f3901a435618827dca97f6c7324de6162",
+ "rendicoes": {
+  "png": {
+   "bytes": 56435,
+   "sha256": "d957478355dcc293f7a73beeb89015208abbc30746fac0b631c2780d621144d1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28715,
+   "sha256": "6e2edf51a096b98b2a0f1e97b1953d0e9bae9eb7741be17cc4c9bc1910bc0682",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3163102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3163102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3163102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3163102.png",
+  "bytes": 23069,
+  "sha256": "3e107f510089c75b46ba77e72897ad0f3901a435618827dca97f6c7324de6162"
+ },
+ "sha1_origem": "8af9ec9e47a7f0459e3682dcb4328ceccbb384e8",
+ "bytes_origem": 23069,
+ "capturado_em": "2026-11-08T06:16:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaosjosevarginha.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "8af9ec9e47a7f0459e3682dcb4328ceccbb384e8"
+ }
+}

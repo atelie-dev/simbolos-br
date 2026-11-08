@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5106240",
+ "uf": "MT",
+ "municipio": "Nova Ubiratã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bandeira_de_Nova_Ubirat%C3%A3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Nova Ubiratã",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d5be4515174b9734ce03ed2849221e7b44d035566d684027c4f77919b3292f25",
+ "rendicoes": {
+  "png": {
+   "bytes": 19445,
+   "sha256": "148c938e43672d81d94cd69f77593699c840e27357de012592a169985f96cbc2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11087,
+   "sha256": "d5b40c03473d4cd0e7094a7fb482ccfb5cc2797a29c6c313a77a88662e40c2fb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106240.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106240.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106240.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5106240.png",
+  "bytes": 7111,
+  "sha256": "d5be4515174b9734ce03ed2849221e7b44d035566d684027c4f77919b3292f25"
+ },
+ "sha1_origem": "c58f879c0952344d5df87fd91d3242113a961719",
+ "bytes_origem": 7111,
+ "capturado_em": "2026-11-08T07:15:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nova_Ubiratã.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "c58f879c0952344d5df87fd91d3242113a961719"
+ }
+}

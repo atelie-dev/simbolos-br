@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314159",
+ "uf": "RS",
+ "municipio": "Paverama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Paveramabandeirars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Paverama",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "18ff0d8b658fa4909c72976f21a2b6cccf792e47344a25b95b84e888884a9d27",
+ "rendicoes": {
+  "png": {
+   "bytes": 98471,
+   "sha256": "5363963009d17bf376c5f073e2dd247f161e7e3c2f9a1344492eaf9ee355dcd4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22335,
+   "sha256": "ab55fa4a19a9932dac30308cdf720f4dda927d482c607c7af9a35e431c5b0bf0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314159.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314159.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314159.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4314159.jpg",
+  "bytes": 26034,
+  "sha256": "18ff0d8b658fa4909c72976f21a2b6cccf792e47344a25b95b84e888884a9d27"
+ },
+ "sha1_origem": "e27ced624538289daccdb55be6fbdeb390de3271",
+ "bytes_origem": 26034,
+ "capturado_em": "2026-11-08T07:07:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Paveramabandeirars.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "e27ced624538289daccdb55be6fbdeb390de3271"
+ }
+}

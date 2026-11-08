@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4320263",
+ "uf": "RS",
+ "municipio": "Segredo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Segredorsbras%C3%B5es.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Segredo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c5b31a7ac344941636cfd842207b98f5d8358283c121ea29f9bf96c8d32a6fe9",
+ "rendicoes": {
+  "png": {
+   "bytes": 96726,
+   "sha256": "4848373c766d909c502e3f9f4ea1cc3ef79e4a84accc84f0f9c1e356d459b7f7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20458,
+   "sha256": "468ee104d09b8764c456c8ef2e1c7a9ab91f6bf2795c5eb3a8bca31cc97afad3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320263.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320263.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320263.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4320263.jpg",
+  "bytes": 12106,
+  "sha256": "c5b31a7ac344941636cfd842207b98f5d8358283c121ea29f9bf96c8d32a6fe9"
+ },
+ "sha1_origem": "03d391c032c705138f090bc650ec81a93234ec08",
+ "bytes_origem": 12106,
+ "capturado_em": "2026-11-08T07:10:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Segredorsbrasões.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:37Z",
+  "estado": "igual",
+  "sha1_commons": "03d391c032c705138f090bc650ec81a93234ec08"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2701001",
+ "uf": "AL",
+ "municipio": "Boca da Mata",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bandeira_Boca_da_Mata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d88e99cf89f1bb6c423e2ea8d15b469bd92c0a074a6a8acee82d1b0a83deabfd",
+ "rendicoes": {
+  "png": {
+   "bytes": 24085,
+   "sha256": "af4ddfdad75cf3dcf155d2a10946c11194fdc1f0238ecff6f9a366d56954d131",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10315,
+   "sha256": "ce9b4e3cac7d1b59f5206b2316ee431f9ca1c32f80372f81cf2cd800231d5b2a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2701001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2701001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2701001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2701001.jpg",
+  "bytes": 5191,
+  "sha256": "d88e99cf89f1bb6c423e2ea8d15b469bd92c0a074a6a8acee82d1b0a83deabfd"
+ },
+ "sha1_origem": "4e52cee00b85a589e56e9a9168c205f55aff9ea0",
+ "bytes_origem": 5191,
+ "capturado_em": "2026-11-08T05:47:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Boca_da_Mata.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "4e52cee00b85a589e56e9a9168c205f55aff9ea0"
+ }
+}

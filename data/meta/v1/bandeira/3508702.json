@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3508702",
+ "uf": "SP",
+ "municipio": "Caconde",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/BandeiradeCaconde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3c4423639359483c5863d75d0f6357b62f63b19f5740a0ef8650989c4e749424",
+ "rendicoes": {
+  "png": {
+   "bytes": 32036,
+   "sha256": "f7b8de92139501230abdc536e87572b17ee899917f88f243356205cdd619149f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9746,
+   "sha256": "36e2187bbd0e66ce37f954a571d3dedabcb0e9509eaf6291a2fd825cb07ed6f9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3508702.jpg",
+  "bytes": 22782,
+  "sha256": "3c4423639359483c5863d75d0f6357b62f63b19f5740a0ef8650989c4e749424"
+ },
+ "sha1_origem": "4d32018e7685d0e42e2224da72602980ca4f739a",
+ "bytes_origem": 22782,
+ "capturado_em": "2026-11-08T06:25:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiradeCaconde.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "4d32018e7685d0e42e2224da72602980ca4f739a"
+ }
+}

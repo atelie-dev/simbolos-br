@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2201507",
+ "uf": "PI",
+ "municipio": "Batalha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Bandeira_de_Batalha-PI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Mesquitamusic",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bfc8ece8e0712708e5b4a8b83142736d7a408f8c86afe9930ca140cd87d205b2",
+ "rendicoes": {
+  "png": {
+   "bytes": 49369,
+   "sha256": "911f1a1bf6055cff33d4886118257a2ff7cb09d89e68b34b28f6564cd14db069",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11549,
+   "sha256": "579781ea8df42059ceb0ab6a06ca6edaf09328983d1aa24b11cf4f6f9b62b97a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2201507.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2201507.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2201507.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2201507.jpg",
+  "bytes": 4941,
+  "sha256": "bfc8ece8e0712708e5b4a8b83142736d7a408f8c86afe9930ca140cd87d205b2"
+ },
+ "sha1_origem": "564359daab230ebeed42c8853ea3b0fa1533e876",
+ "bytes_origem": 4941,
+ "capturado_em": "2026-11-08T05:29:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Batalha-PI.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "564359daab230ebeed42c8853ea3b0fa1533e876"
+ }
+}

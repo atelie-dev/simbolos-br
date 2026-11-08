@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3542602",
+ "uf": "SP",
+ "municipio": "Registro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bandeiraregistro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e13236f5c32b487e6d534aba197cf5ab7e746448f30fbad48b558e718c403270",
+ "rendicoes": {
+  "png": {
+   "bytes": 75440,
+   "sha256": "60e132e170cc0c3ca23cb9e1749d93cc0dcdbff30eb87e97b4d2575a0a50cc1f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26842,
+   "sha256": "fcf975b16fae270d09e73104e4726a04fd877c651dff26c42527747c8dbcb23d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3542602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3542602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3542602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3542602.png",
+  "bytes": 24828,
+  "sha256": "e13236f5c32b487e6d534aba197cf5ab7e746448f30fbad48b558e718c403270"
+ },
+ "sha1_origem": "37131bb6d8ed32d4ffdc6d43ce41793128683dd7",
+ "bytes_origem": 24828,
+ "capturado_em": "2026-11-08T06:36:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraregistro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "37131bb6d8ed32d4ffdc6d43ce41793128683dd7"
+ }
+}

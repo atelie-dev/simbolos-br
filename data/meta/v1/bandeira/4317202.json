@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4317202",
+ "uf": "RS",
+ "municipio": "Santa Rosa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bandeira_de_Santa_Rosa%2C_RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santa Rosa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e5d703dfe537bad6f4902212c8330ed22cb49a1612f7b327f5a029b6dde938e8",
+ "rendicoes": {
+  "png": {
+   "bytes": 20196,
+   "sha256": "6f19a38973cad95f80a2b88d60299be56d2a8de5334f9647f0eade4ab7ded4ac",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7204,
+   "sha256": "651a4270156f3479ea1c0bb22d8786677395a6e09f2a2d400caf011d16c8a8d4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4317202.jpg",
+  "bytes": 6267,
+  "sha256": "e5d703dfe537bad6f4902212c8330ed22cb49a1612f7b327f5a029b6dde938e8"
+ },
+ "sha1_origem": "2178a1be4ed08f18d576bd00504e1c8f7b05be6f",
+ "bytes_origem": 6267,
+ "capturado_em": "2026-11-08T07:08:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santa_Rosa,_RS.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "2178a1be4ed08f18d576bd00504e1c8f7b05be6f"
+ }
+}

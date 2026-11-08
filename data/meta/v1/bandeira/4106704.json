@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4106704",
+ "uf": "PR",
+ "municipio": "Cruzeiro do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bandeira_de_Cruzeiro_do_Sul_%28PR%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "67f6c43e17580ec0880ae7677cdba6511ea4a5743295be12a0a141eeffd1be3d",
+ "rendicoes": {
+  "png": {
+   "bytes": 48316,
+   "sha256": "b1b515029d772304681b99d979283d287aaa86011523a32d80c333c764b11af3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18444,
+   "sha256": "9457f373f57d5990824ce1042ada6567b4423a26b8a8d0e79bba4c1ab49b959f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4106704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4106704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4106704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4106704.jpg",
+  "bytes": 12850,
+  "sha256": "67f6c43e17580ec0880ae7677cdba6511ea4a5743295be12a0a141eeffd1be3d"
+ },
+ "sha1_origem": "724c6535a0c1c137d35dd4463f5205d84ae3997b",
+ "bytes_origem": 12850,
+ "capturado_em": "2026-11-08T06:43:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cruzeiro_do_Sul_(PR).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "724c6535a0c1c137d35dd4463f5205d84ae3997b"
+ }
+}

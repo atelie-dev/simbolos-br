@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3305000",
+ "uf": "RJ",
+ "municipio": "São João da Barra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/S%C3%A3o_Jo%C3%A3o_da_Barra.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São João da Barra",
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "759df1faefa4f30e8a6c8cc999fa88ce215fbadf60a75ce04cca5cbe405a7b4f",
+ "rendicoes": {
+  "png": {
+   "bytes": 2056,
+   "sha256": "d40c1253d0c12e4837a63f3891edeba9bb738a9e276988da7ebdcc6956fe27f5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10647,
+   "sha256": "0e1a074371c90c8299a46329e7f39f2d53502ec761307b079f3bac7eccbc3758",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3305000.gif",
+  "bytes": 2295,
+  "sha256": "759df1faefa4f30e8a6c8cc999fa88ce215fbadf60a75ce04cca5cbe405a7b4f"
+ },
+ "sha1_origem": "01c18183db52bcdbc9a99973b5b5a49b55727bc1",
+ "bytes_origem": 2295,
+ "capturado_em": "2026-11-08T06:22:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:São_João_da_Barra.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:37Z",
+  "estado": "igual",
+  "sha1_commons": "01c18183db52bcdbc9a99973b5b5a49b55727bc1"
+ }
+}

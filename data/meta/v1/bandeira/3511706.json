@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3511706",
+ "uf": "SP",
+ "municipio": "Charqueada",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/86/Bandeira_Charqueada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Charqueada municipality.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9a8fed562312809fc0c93a9afb5d2a5b2eacf30ebe6b6248f6c90c8b680a2fe6",
+ "rendicoes": {
+  "png": {
+   "bytes": 88591,
+   "sha256": "67cfde3d17979f1ff47da306ce27e332b60e85a2162ea9905b0f95fafcdbbb77",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25583,
+   "sha256": "54bbbb76c20451a1de737f1f54fb9f3a7053f01184e436ece691661a93ae6a8d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3511706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3511706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3511706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3511706.jpg",
+  "bytes": 27893,
+  "sha256": "9a8fed562312809fc0c93a9afb5d2a5b2eacf30ebe6b6248f6c90c8b680a2fe6"
+ },
+ "sha1_origem": "846e70e17492b44ae8a877509766ac381806e30b",
+ "bytes_origem": 27893,
+ "capturado_em": "2026-11-08T06:26:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Charqueada.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "846e70e17492b44ae8a877509766ac381806e30b"
+ }
+}

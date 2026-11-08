@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5005251",
+ "uf": "MS",
+ "municipio": "Laguna Carapã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bandeira_de_Laguna_Carap%C3%A3%2C_MS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Laguna Carapã",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8d0e69357edefe39bf83e7656cb12b12f2c5f84abf1768dea1f7ea2f687f852b",
+ "rendicoes": {
+  "png": {
+   "bytes": 18906,
+   "sha256": "2a57cff4ee2d0da93947209d58d8ef79795e299eebc3c4aa06fe8d7a644408c2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11611,
+   "sha256": "cd774d821b6cfa0f862b6023a4e3c0a6187eb2ff2de9838e1a1d95fa4d1da758",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005251.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005251.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005251.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5005251.png",
+  "bytes": 7451,
+  "sha256": "8d0e69357edefe39bf83e7656cb12b12f2c5f84abf1768dea1f7ea2f687f852b"
+ },
+ "sha1_origem": "d53308506e5be4dd7374fd46391cc7b80364132b",
+ "bytes_origem": 7451,
+ "capturado_em": "2026-11-08T07:13:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Laguna_Carapã,_MS.png",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "d53308506e5be4dd7374fd46391cc7b80364132b"
+ }
+}

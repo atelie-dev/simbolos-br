@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2401305",
+ "uf": "RN",
+ "municipio": "Campo Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bandeira_de_Campo_Grande-RN%2C_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Thiago Gondim",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "00aaa13768f612e981e4897cfa6a05c24bdd5f0a435c86e4194cd9d07d760ffb",
+ "rendicoes": {
+  "png": {
+   "bytes": 20031,
+   "sha256": "0a2a2562b326551a46d6570106399b8a13caae4ac25761278536fa59e9258c5e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8901,
+   "sha256": "b47a5c7841551f2a81085b7d6b11f27b3c76c963b8af83905bc9a675f75d7f85",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2401305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2401305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2401305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2401305.jpg",
+  "bytes": 6579,
+  "sha256": "00aaa13768f612e981e4897cfa6a05c24bdd5f0a435c86e4194cd9d07d760ffb"
+ },
+ "sha1_origem": "ccae0c6e2032d1d3ed4858691ad50d49d8facfec",
+ "bytes_origem": 6579,
+ "capturado_em": "2026-11-08T05:35:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Campo_Grande-RN,_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "ccae0c6e2032d1d3ed4858691ad50d49d8facfec"
+ }
+}

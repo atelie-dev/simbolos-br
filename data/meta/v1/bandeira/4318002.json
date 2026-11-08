@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4318002",
+ "uf": "RS",
+ "municipio": "São Borja",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bandeira_de_S%C3%A3o_Borja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Borja",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c1230ba2c338a0539c89fb0259048b86e8b4be969913725b3fb33450b9bd589d",
+ "rendicoes": {
+  "png": {
+   "bytes": 123293,
+   "sha256": "d34598d86c14d0513cc3779551c2d3312d75e6a9873246d4697ecbcd1f133130",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25643,
+   "sha256": "c65627b89ef8161d6eb49a48c26b5ab247ab59be43efa0b8db4e9db1f10fcdd6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4318002.jpg",
+  "bytes": 96621,
+  "sha256": "c1230ba2c338a0539c89fb0259048b86e8b4be969913725b3fb33450b9bd589d"
+ },
+ "sha1_origem": "989af43772a65229fa748ca468350df030323ce3",
+ "bytes_origem": 96621,
+ "capturado_em": "2026-11-08T07:08:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Borja.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "989af43772a65229fa748ca468350df030323ce3"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5208400",
+ "uf": "GO",
+ "municipio": "Goianápolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bras%C3%A3o_de_Goian%C3%A1polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Goianápolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d4a1d83512907e96a586cad20d033baa6f3089a791195840bc0998653c6ca501",
+ "rendicoes": {
+  "png": {
+   "bytes": 148009,
+   "sha256": "a4e275822bffd235a9e62e5bd76f90960afbb6c30af3822e2099b5c6f8706798",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29579,
+   "sha256": "68af5981c3d6f177f34075068c417c96f768624c9f29da182815fac66aa05e53",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5208400.jpg",
+  "bytes": 33062,
+  "sha256": "d4a1d83512907e96a586cad20d033baa6f3089a791195840bc0998653c6ca501"
+ },
+ "sha1_origem": "ca2fa8234054e19b781dee1cb19826506899c2f8",
+ "bytes_origem": 33062,
+ "capturado_em": "2026-11-08T07:18:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Goianápolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:03Z",
+  "estado": "igual",
+  "sha1_commons": "ca2fa8234054e19b781dee1cb19826506899c2f8"
+ }
+}

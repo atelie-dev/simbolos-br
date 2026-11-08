@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2517100",
+ "uf": "PB",
+ "municipio": "Várzea",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bandeira_de_Varzea_PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ccf46188eb2e2294053f19f6c32aa38b5213775a491a1e824a395c0944606158",
+ "rendicoes": {
+  "png": {
+   "bytes": 29318,
+   "sha256": "21f625a8c34f0cf2af9b6cf2dcedd9455f27ae5daf27cc456cb9fb7e3459ca0f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14465,
+   "sha256": "5ec27df6c4c3791f4cd1ff758e38dab93a8c9222d793601b7e0b05a60de382e6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2517100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2517100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2517100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2517100.jpg",
+  "bytes": 300686,
+  "sha256": "ccf46188eb2e2294053f19f6c32aa38b5213775a491a1e824a395c0944606158"
+ },
+ "sha1_origem": "7c0824a7ea0261ca980caa68425885521dc5f1ac",
+ "bytes_origem": 300686,
+ "capturado_em": "2026-11-08T05:44:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Varzea_PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "7c0824a7ea0261ca980caa68425885521dc5f1ac"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5001003",
+ "uf": "MS",
+ "municipio": "Aparecida do Taboado",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/19/ApTaboadoBandeira.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "07b6076b5de243b433a5973ba0e3199f9c791134d7d88a7e219fbc568925eb82",
+ "rendicoes": {
+  "png": {
+   "bytes": 44887,
+   "sha256": "9f229810c9e48dac602930a72425305a25923b3e8218ba4a163a1d192ce58ff4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15144,
+   "sha256": "5c36797921d24510c3891c244a5bbd4ef40b4472d9465923890c7ea76b390fc9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 13302,
+   "sha256": "07b6076b5de243b433a5973ba0e3199f9c791134d7d88a7e219fbc568925eb82"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5001003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5001003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5001003.jpg"
+ },
+ "sha1_origem": "0093d278b42edff7d032480c162961ba4ddaacb8",
+ "bytes_origem": 13302,
+ "capturado_em": "2026-11-08T05:03:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:ApTaboadoBandeira.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "0093d278b42edff7d032480c162961ba4ddaacb8"
+ }
+}

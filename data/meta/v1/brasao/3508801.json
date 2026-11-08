@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3508801",
+ "uf": "SP",
+ "municipio": "Cafelândia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bras%C3%A3o_de_Cafel%C3%A2ndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cafelândia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "09d257f2d07ab46b7a1ade490613ce697dee76fbf2a3a223c8d7c8b86cdcd11c",
+ "rendicoes": {
+  "png": {
+   "bytes": 360848,
+   "sha256": "c3bbcd114b825d69afcb63f8562b1c3dae724197db2f1f6a9aa1701d66951545",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 66379,
+   "sha256": "0f3c10f6800d59787eea7ef6b39817ab99c350e3c3f09dad8e73c40d51a1fcdf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3508801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3508801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3508801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3508801.jpg",
+  "bytes": 299700,
+  "sha256": "09d257f2d07ab46b7a1ade490613ce697dee76fbf2a3a223c8d7c8b86cdcd11c"
+ },
+ "sha1_origem": "7d51f2d5fe48aed0aac8132932c86c0129918f9d",
+ "bytes_origem": 299700,
+ "capturado_em": "2026-11-08T06:25:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cafelândia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "7d51f2d5fe48aed0aac8132932c86c0129918f9d"
+ }
+}

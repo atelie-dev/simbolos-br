@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3544806",
+ "uf": "SP",
+ "municipio": "Sales",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bras%C3%A3o_Sales_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c9eba786e22e935347e812604658c514fb45e8b17a9d160ab92b222ffc3e8aa3",
+ "rendicoes": {
+  "png": {
+   "bytes": 21155,
+   "sha256": "db913b4eab5e274536ce68a96dd3b460cec7a8cbe6c38a5ba264e8f4d3247235",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6749,
+   "sha256": "6ad7825f9a226dfd4edd88a07c041489027ce4f1896ce227afdd5ea6ceb0d942",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3544806.png",
+  "bytes": 18165,
+  "sha256": "c9eba786e22e935347e812604658c514fb45e8b17a9d160ab92b222ffc3e8aa3"
+ },
+ "sha1_origem": "5954d1d5bea4eb6287dd1591d91631876d5565e6",
+ "bytes_origem": 18165,
+ "capturado_em": "2026-11-08T06:36:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Sales_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "5954d1d5bea4eb6287dd1591d91631876d5565e6"
+ }
+}

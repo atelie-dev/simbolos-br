@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2905800",
+ "uf": "BA",
+ "municipio": "Camamu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bras%C3%A3o_de_Camamu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fbf4518babe2be1fb17f4cda587dab6eef35b6ec0a18730be73d166731930815",
+ "rendicoes": {
+  "png": {
+   "bytes": 51533,
+   "sha256": "2b65caa2aff1c312a6e8d2d2e3404abe3daef2befe76dc1a77fc032c919f8853",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11432,
+   "sha256": "a0e95d6ed11101203e87e000c9901da00b10b069b62050d5904d7512bd5d2f1b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2905800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2905800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2905800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2905800.png",
+  "bytes": 46493,
+  "sha256": "fbf4518babe2be1fb17f4cda587dab6eef35b6ec0a18730be73d166731930815"
+ },
+ "sha1_origem": "c2c1716de017ed873e422ddcc5007c5e05e9a568",
+ "bytes_origem": 46493,
+ "capturado_em": "2026-11-08T05:51:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Camamu.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "c2c1716de017ed873e422ddcc5007c5e05e9a568"
+ }
+}

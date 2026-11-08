@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3514700",
+ "uf": "SP",
+ "municipio": "Echaporã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bandeira_de_Echapor%C3%A3-SP%2CBrasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Echaporã",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e753392ff07fc7708bf33921a344be3218ec1d3ee1c9da4a276e8f9d77fdb233",
+ "rendicoes": {
+  "png": {
+   "bytes": 36205,
+   "sha256": "a1748e7779057d0c966885c8294e3fe6cf12b1ad893edfd323b21a5ce253c9ec",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14972,
+   "sha256": "58a6c386a84cef8b2f995b5516c04616e8bc2d12e7080d0c5ba0e5f30fe8ff05",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3514700.jpg",
+  "bytes": 33985,
+  "sha256": "e753392ff07fc7708bf33921a344be3218ec1d3ee1c9da4a276e8f9d77fdb233"
+ },
+ "sha1_origem": "31a5e6ace313b6f98f88c7057eee465da772d284",
+ "bytes_origem": 33985,
+ "capturado_em": "2026-11-08T06:27:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Echaporã-SP,Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "31a5e6ace313b6f98f88c7057eee465da772d284"
+ }
+}

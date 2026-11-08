@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4323101",
+ "uf": "RS",
+ "municipio": "Vicente Dutra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Vicente_Dutrarsbrasoes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Vicente Dutra",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "84086f9fdabe5e92089c31b79b2edaea63a5cba1ec1c58ecff8f1ff29a3f4a1d",
+ "rendicoes": {
+  "png": {
+   "bytes": 72284,
+   "sha256": "33cd8a6677291787a928972a1998a30a8993bed1e5ce3c8b02ed069c7162ecdd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14387,
+   "sha256": "d01f68411dd98c53670b09d2d06559474d14f631cd073dcc06dc418a9b665d7e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4323101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4323101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4323101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4323101.jpg",
+  "bytes": 17613,
+  "sha256": "84086f9fdabe5e92089c31b79b2edaea63a5cba1ec1c58ecff8f1ff29a3f4a1d"
+ },
+ "sha1_origem": "eb954e8fac9ebda2fc1e6bfc26a256f7c8efc1ee",
+ "bytes_origem": 17613,
+ "capturado_em": "2026-11-08T07:11:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Vicente_Dutrarsbrasoes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "eb954e8fac9ebda2fc1e6bfc26a256f7c8efc1ee"
+ }
+}

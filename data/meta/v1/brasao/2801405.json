@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2801405",
+ "uf": "SE",
+ "municipio": "Carira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Brasao_carira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Carira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "25f616a28822f31c5faa3fea408c9bb1513dfe5ae6b539cd866bb1feecc3dce8",
+ "rendicoes": {
+  "png": {
+   "bytes": 318088,
+   "sha256": "1e0f03c04ba39646570a24db14577cb8ff0581bc08163c477b6f7319bbf08b1e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 71542,
+   "sha256": "7ea0008eebdf9061992bf67c5298805cad2f6b67c1040568ad18ee387288b54b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2801405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2801405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2801405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2801405.jpg",
+  "bytes": 280932,
+  "sha256": "25f616a28822f31c5faa3fea408c9bb1513dfe5ae6b539cd866bb1feecc3dce8"
+ },
+ "sha1_origem": "c181befd85e13e91874e9fe586dfe041d5152e9e",
+ "bytes_origem": 280932,
+ "capturado_em": "2026-11-08T05:49:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_carira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:36Z",
+  "estado": "igual",
+  "sha1_commons": "c181befd85e13e91874e9fe586dfe041d5152e9e"
+ }
+}

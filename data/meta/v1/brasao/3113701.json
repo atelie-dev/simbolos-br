@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3113701",
+ "uf": "MG",
+ "municipio": "Carlos Chagas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/BrasaoCarlosChagasMG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bebb3b492c466e460b17eee6ecec5bc20a4e21040b1ad4337e2247b8e2b12bae",
+ "rendicoes": {
+  "png": {
+   "bytes": 37908,
+   "sha256": "ecaa9d257cbae0b715e0508248fc63a3aed5849ac148d0e8f9b72e4dc99e7429",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10477,
+   "sha256": "eead273dc8169a879adbbbf6e67905cf37db35907dfdab7a10f5dfecf75125d2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3113701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3113701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3113701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3113701.jpg",
+  "bytes": 21503,
+  "sha256": "bebb3b492c466e460b17eee6ecec5bc20a4e21040b1ad4337e2247b8e2b12bae"
+ },
+ "sha1_origem": "dd91f9f6b23005efd1152689f4383b7105b7e2ef",
+ "bytes_origem": 21503,
+ "capturado_em": "2026-11-08T06:02:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoCarlosChagasMG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "dd91f9f6b23005efd1152689f4383b7105b7e2ef"
+ }
+}

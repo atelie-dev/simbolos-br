@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3543600",
+ "uf": "SP",
+ "municipio": "Rifaina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bandeira_de_Rifaina.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Rifaina.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "20456cb8f5be42787af9730aef8d6b7df22079470ffe1ccebc184ba27ff235dc",
+ "rendicoes": {
+  "png": {
+   "bytes": 66119,
+   "sha256": "7e7c88d540cc80499d6ba9bcaa38652b5842fa7f5a45d5de8f23c98b72d17b5e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24109,
+   "sha256": "d74afe47baefa92892486acd54587b2437c29f181cc7caad2e6852876d04ecfd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3543600.png",
+  "bytes": 152610,
+  "sha256": "20456cb8f5be42787af9730aef8d6b7df22079470ffe1ccebc184ba27ff235dc"
+ },
+ "sha1_origem": "d3abe68617a9a5f2ffcff7b3678ca37d44e2abc5",
+ "bytes_origem": 152610,
+ "capturado_em": "2026-11-08T06:36:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Rifaina.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "d3abe68617a9a5f2ffcff7b3678ca37d44e2abc5"
+ }
+}

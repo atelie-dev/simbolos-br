@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4319802",
+ "uf": "RS",
+ "municipio": "São Vicente do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bras%C3%A3o_de_S%C3%A3o_Vicente_do_Sul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Vicente do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4181ea9b5879dc049fd1f3d2b4c162ca84865dd79c63c801f1bd7a42e3fdae8f",
+ "rendicoes": {
+  "png": {
+   "bytes": 136952,
+   "sha256": "2e516081f01442f68e4d25d241d10f9bd9f18a20470a0b651b6b5eb87b871155",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25891,
+   "sha256": "fe779539c6725a90e4742f658caa6930592a217bae9ae364b2e851dc570bfd34",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4319802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4319802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4319802.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4319802.jpg",
+  "bytes": 23597,
+  "sha256": "4181ea9b5879dc049fd1f3d2b4c162ca84865dd79c63c801f1bd7a42e3fdae8f"
+ },
+ "sha1_origem": "b5413580dbe3231466fdae74d560f340ad35a641",
+ "bytes_origem": 23597,
+ "capturado_em": "2026-11-08T07:10:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_Vicente_do_Sul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:13Z",
+  "estado": "igual",
+  "sha1_commons": "b5413580dbe3231466fdae74d560f340ad35a641"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2918555",
+ "uf": "BA",
+ "municipio": "Jussari",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bras%C3%A3o_de_Jussari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "192a6345eecfbe6ab9de5725ef2dc9b776a91dcaf612eaff67724cad7311e2ab",
+ "rendicoes": {
+  "png": {
+   "bytes": 193671,
+   "sha256": "123e3fa00c64a02d0956ecdaf6272a8580d370200cb03d527495c94d1c79cf22",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38579,
+   "sha256": "02e1ed2b1cbf3a167e4ccf1a273238554170a634b2654a5ac45bbf4841b84826",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2918555.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2918555.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2918555.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2918555.jpg",
+  "bytes": 103844,
+  "sha256": "192a6345eecfbe6ab9de5725ef2dc9b776a91dcaf612eaff67724cad7311e2ab"
+ },
+ "sha1_origem": "dc15fd2603842897baa43a8def092edded1046fa",
+ "bytes_origem": 103844,
+ "capturado_em": "2026-11-08T05:55:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Jussari.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:05Z",
+  "estado": "igual",
+  "sha1_commons": "dc15fd2603842897baa43a8def092edded1046fa"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3155702",
+ "uf": "MG",
+ "municipio": "Rio Piracicaba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Brasao_rio_piracicaba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Rio Piracicaba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "285ed5e925da162d6d053251ce3082f1b055f5c883d30407db7c27e59aa6b4f9",
+ "rendicoes": {
+  "png": {
+   "bytes": 101328,
+   "sha256": "5a35b07118ba9214c8bff9e35b2e839230c11b11bd2e8f52cadc15ff9d72ddf8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21019,
+   "sha256": "168bf47c82478c997f1e337995af7bd7ac3bdceee1f50fa530d25612d3154cda",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3155702.jpg",
+  "bytes": 14235,
+  "sha256": "285ed5e925da162d6d053251ce3082f1b055f5c883d30407db7c27e59aa6b4f9"
+ },
+ "sha1_origem": "8ddbc11ef72c375cad4c28c2397cdaf963b91442",
+ "bytes_origem": 14235,
+ "capturado_em": "2026-11-08T06:14:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_rio_piracicaba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "8ddbc11ef72c375cad4c28c2397cdaf963b91442"
+ }
+}

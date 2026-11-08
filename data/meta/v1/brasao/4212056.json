@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4212056",
+ "uf": "SC",
+ "municipio": "Palmeira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bras%C3%A3o_do_munic%C3%ADpio_de_Palmeira_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Palmeira (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d07e416401406ce9c36da0c1139f36e940ffc442bac8095bb69cd16ccf946e91",
+ "rendicoes": {
+  "png": {
+   "bytes": 100506,
+   "sha256": "999f03c057516923e5448d7fccaf1bcc84bd7c674f6dea3a4312b780cee4f0f2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35498,
+   "sha256": "d0b44a1468011b96494d7b7e5e686b460166445b2c8fb4fb61bd7e8968257952",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4212056.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4212056.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4212056.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4212056.png",
+  "bytes": 82901,
+  "sha256": "d07e416401406ce9c36da0c1139f36e940ffc442bac8095bb69cd16ccf946e91"
+ },
+ "sha1_origem": "6a2372ef6f3c6a58c3f0b0d2908e3207f10ad60a",
+ "bytes_origem": 82901,
+ "capturado_em": "2026-11-08T06:55:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Palmeira_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "6a2372ef6f3c6a58c3f0b0d2908e3207f10ad60a"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4213609",
+ "uf": "SC",
+ "municipio": "Porto União",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pu_coat.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a839f21c13d2b519cc69106ba377d728658198a32e6eadcdd8e319fb0cf66bd6",
+ "rendicoes": {
+  "png": {
+   "bytes": 174367,
+   "sha256": "46e01b73e99b405e9ec6c72e706ef33eb1a210405aea17c21c41a718b5728115",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43860,
+   "sha256": "a17bf72954a498e193b3510e497bfe180be8a1c6414d066085d537b07e059a42",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4213609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4213609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4213609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4213609.jpg",
+  "bytes": 140122,
+  "sha256": "a839f21c13d2b519cc69106ba377d728658198a32e6eadcdd8e319fb0cf66bd6"
+ },
+ "sha1_origem": "2f843704fa46a43e858a5bf546f4ac50ae078abd",
+ "bytes_origem": 140122,
+ "capturado_em": "2026-11-08T06:56:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Pu_coat.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "2f843704fa46a43e858a5bf546f4ac50ae078abd"
+ }
+}

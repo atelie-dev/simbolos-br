@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3123007",
+ "uf": "MG",
+ "municipio": "Dores de Campos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Brasaodoresdecampos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Dores de Campos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "037edd5c481c323a4cc5b1cf7dc48fa4267df6f3fe9c9b36987e317ad644efc3",
+ "rendicoes": {
+  "png": {
+   "bytes": 301383,
+   "sha256": "665ca8a54c9003efd1a6a74ceceeeff5cac69c8c2b16b1e4986aca41d79d625a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 57337,
+   "sha256": "6d39ccd904ea3526be8ce21836ad727bab4ccb0055e72b4965114cd94b53eb19",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3123007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3123007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3123007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3123007.jpg",
+  "bytes": 39269,
+  "sha256": "037edd5c481c323a4cc5b1cf7dc48fa4267df6f3fe9c9b36987e317ad644efc3"
+ },
+ "sha1_origem": "50c4b9efd7685c12f993445ca2b747f3f716e3a4",
+ "bytes_origem": 39269,
+ "capturado_em": "2026-11-08T06:06:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaodoresdecampos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "50c4b9efd7685c12f993445ca2b747f3f716e3a4"
+ }
+}

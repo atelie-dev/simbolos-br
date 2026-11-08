@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2610004",
+ "uf": "PE",
+ "municipio": "Palmares",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bras%C3%A3o_de_Palmares_PE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Palmares PE",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "79b9b007abc1fcc5dcab8de060c67a3812ebbc56ec6a0a04df9fca869d86f9db",
+ "rendicoes": {
+  "png": {
+   "bytes": 192714,
+   "sha256": "4e0cabfc47cbaa34eb73787878d234590d7e1e62c4d52133557a1d146366b200",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38839,
+   "sha256": "42ee5f0ead9e41dda298306652d02391ce094e75b2f9573d38c2120874fdf372",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2610004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2610004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2610004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2610004.png",
+  "bytes": 1302456,
+  "sha256": "79b9b007abc1fcc5dcab8de060c67a3812ebbc56ec6a0a04df9fca869d86f9db"
+ },
+ "sha1_origem": "a695aae4768a7ea9ff2fb00807c624a210481cc1",
+ "bytes_origem": 1302456,
+ "capturado_em": "2026-11-08T05:46:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Palmares_PE.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "a695aae4768a7ea9ff2fb00807c624a210481cc1"
+ }
+}

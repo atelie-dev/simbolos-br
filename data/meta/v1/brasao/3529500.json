@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3529500",
+ "uf": "SP",
+ "municipio": "Mendonça",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bras%C3%A3o_de_Mendon%C3%A7a%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Mendonça/SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "206e135cb0bb3049d57d45235b2416d7995789359ad12d01acb695df26cdd1ec",
+ "rendicoes": {
+  "png": {
+   "bytes": 48836,
+   "sha256": "b0cab70de14e5b8b47794c11824b7f1ce599e1900f5181c932c78f3c2253f0b4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12217,
+   "sha256": "197c30bffac1a4189fc2ab39a98a0a949dd586cdff50d3f042f9a498fd99471f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3529500.jpg",
+  "bytes": 11452,
+  "sha256": "206e135cb0bb3049d57d45235b2416d7995789359ad12d01acb695df26cdd1ec"
+ },
+ "sha1_origem": "1efdbbc1bddcc456789f6b85f56e9c0bdf3e8463",
+ "bytes_origem": 11452,
+ "capturado_em": "2026-11-08T06:31:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Mendonça,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "1efdbbc1bddcc456789f6b85f56e9c0bdf3e8463"
+ }
+}

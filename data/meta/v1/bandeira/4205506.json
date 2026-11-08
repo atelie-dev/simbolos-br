@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4205506",
+ "uf": "SC",
+ "municipio": "Fraiburgo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bandeira_de_Fraiburgo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Fraiburgo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7232a7af2dc4f0ddafc0f23ff6f1274aaf13a6464b20934c583a1b3955b67101",
+ "rendicoes": {
+  "png": {
+   "bytes": 59494,
+   "sha256": "0258b9b5ea8459190df1cba16986feb3e66203a7cf93e00982b11ad82d488442",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17558,
+   "sha256": "4fb5940f3552b5a3d015001eaa375576b97a2f5dd48a3392d0fa22ea874e5c62",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4205506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4205506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4205506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4205506.jpg",
+  "bytes": 42580,
+  "sha256": "7232a7af2dc4f0ddafc0f23ff6f1274aaf13a6464b20934c583a1b3955b67101"
+ },
+ "sha1_origem": "c77c2d77f953c981554b3819960342cc692cff5c",
+ "bytes_origem": 42580,
+ "capturado_em": "2026-11-08T06:53:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Fraiburgo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "c77c2d77f953c981554b3819960342cc692cff5c"
+ }
+}

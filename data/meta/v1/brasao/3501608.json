@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3501608",
+ "uf": "SP",
+ "municipio": "Americana",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bras%C3%A3o_de_Americana_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3475ee5658d03926b03398ff681ef2a0b49db9511876f614f5efa3f083ce1867",
+ "rendicoes": {
+  "png": {
+   "bytes": 205545,
+   "sha256": "f3f54433e02f37137d883b4515813b5aec8ee0412fd7de62bec46bd8f7e75737",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63562,
+   "sha256": "c5d2e7341340bb935cb8c197f777c5d36e24155e2032df907b72e9da920126ce",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 221743,
+   "sha256": "3475ee5658d03926b03398ff681ef2a0b49db9511876f614f5efa3f083ce1867"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501608.jpg"
+ },
+ "sha1_origem": "2dcd804380b0f6aeaeaa590544b7b30592c63291",
+ "bytes_origem": 221743,
+ "capturado_em": "2026-11-08T03:56:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Americana_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "2dcd804380b0f6aeaeaa590544b7b30592c63291"
+ }
+}

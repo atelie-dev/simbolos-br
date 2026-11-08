@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2306504",
+ "uf": "CE",
+ "municipio": "Itapiúna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bandeira_de_Itapi%C3%BAna.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7c7e3d009c5a3044a0892d96cd9762911e66f713ea6f101e97bb96434a21a79a",
+ "rendicoes": {
+  "png": {
+   "bytes": 60813,
+   "sha256": "fae1a44cdb73433c1502c61756da0e5602b062728484845df95e052ab6788a69",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22201,
+   "sha256": "ffce126172584494d1d176d0573864fe23e7e6643b8d3ad88b41a1b2fbb77608",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 117688,
+   "sha256": "7c7e3d009c5a3044a0892d96cd9762911e66f713ea6f101e97bb96434a21a79a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2306504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2306504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2306504.jpg"
+ },
+ "sha1_origem": "732bb9abd12c46fd8f9d80009e6950bd51e82aea",
+ "bytes_origem": 117688,
+ "capturado_em": "2026-11-08T02:46:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itapiúna.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "732bb9abd12c46fd8f9d80009e6950bd51e82aea"
+ }
+}

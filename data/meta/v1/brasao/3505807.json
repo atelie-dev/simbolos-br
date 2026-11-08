@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3505807",
+ "uf": "SP",
+ "municipio": "Bastos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bastos.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "64f6f3d6de498221d31333c7f220b74a8a4d1e6c258fb86de3855fddb5c0ef2e",
+ "rendicoes": {
+  "png": {
+   "bytes": 405298,
+   "sha256": "bc32c5a6bfbbd4ed040c85d9e59203b10ac4e2cf9387ad2e9d355bfb730d7b69",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63590,
+   "sha256": "b6bcb5e66d87c9dc0aea82bb00f2327a3e08ed196a846495a66c7d2b3241bef0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505807.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3505807.png",
+  "bytes": 485124,
+  "sha256": "64f6f3d6de498221d31333c7f220b74a8a4d1e6c258fb86de3855fddb5c0ef2e"
+ },
+ "sha1_origem": "39be0b832a76dea43445db9b2035ace523d08ba9",
+ "bytes_origem": 485124,
+ "capturado_em": "2026-11-08T06:24:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bastos.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "39be0b832a76dea43445db9b2035ace523d08ba9"
+ }
+}

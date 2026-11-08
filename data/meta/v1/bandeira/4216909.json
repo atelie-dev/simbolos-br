@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4216909",
+ "uf": "SC",
+ "municipio": "São Lourenço do Oeste",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bandeira_saolourencodooeste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0b5bb8822162b4eb8cccbc7841869624592089e4cc505c4873a7f5d4c8f01f13",
+ "rendicoes": {
+  "png": {
+   "bytes": 23801,
+   "sha256": "ca29c8537b336710955499d2131b2852e656e7a31ad8b4a42323055ff0c2e371",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8182,
+   "sha256": "892b0f7b29a9bfeebc43e6b072e7c936028d7cde7dd048a59af15d1ea6c9eb9f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4216909.jpg",
+  "bytes": 7171,
+  "sha256": "0b5bb8822162b4eb8cccbc7841869624592089e4cc505c4873a7f5d4c8f01f13"
+ },
+ "sha1_origem": "8e698f724270bc6ccfe17b384a0645f8a6027abc",
+ "bytes_origem": 7171,
+ "capturado_em": "2026-11-08T06:57:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_saolourencodooeste.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "8e698f724270bc6ccfe17b384a0645f8a6027abc"
+ }
+}

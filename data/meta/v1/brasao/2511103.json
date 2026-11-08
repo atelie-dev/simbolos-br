@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2511103",
+ "uf": "PB",
+ "municipio": "Pedra Lavrada",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Brasao_pedra_lavada.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pedra Lavrada",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ff8ff9f4ae257593ed908b85177542f1c82bf480cc73a90e0822780fd758afc1",
+ "rendicoes": {
+  "png": {
+   "bytes": 14807,
+   "sha256": "72346174bc43a8a3c4a8286dba74ae651bc783c4cefee37bed3d66d4125e8f0a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6106,
+   "sha256": "72d97f51af3fbbe58e9fcfac5bb34c6925fbdb35805d3ec79397dbfaa1bfdb7f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2511103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2511103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2511103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2511103.png",
+  "bytes": 12402,
+  "sha256": "ff8ff9f4ae257593ed908b85177542f1c82bf480cc73a90e0822780fd758afc1"
+ },
+ "sha1_origem": "0261265d8c28044553a091ae57d4ba0c313c9fdc",
+ "bytes_origem": 12402,
+ "capturado_em": "2026-11-08T05:42:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_pedra_lavada.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "0261265d8c28044553a091ae57d4ba0c313c9fdc"
+ }
+}

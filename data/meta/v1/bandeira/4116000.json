@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4116000",
+ "uf": "PR",
+ "municipio": "Miraselva",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bandeira_Miraselva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3328ce7e53dbf31e7053e18f8e064d010187d7fec54d485aa4dea77a15dd4a0e",
+ "rendicoes": {
+  "png": {
+   "bytes": 45054,
+   "sha256": "423fe8b54ac53cedee9f53a1315a7221a1cac4f86741275550fda9073ae40e7e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11050,
+   "sha256": "36fb9eb1bc2d3ed7d1d6ee90870c25c26cbaa6cfa35d5363e359aadf9b917342",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4116000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4116000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4116000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4116000.jpg",
+  "bytes": 12213,
+  "sha256": "3328ce7e53dbf31e7053e18f8e064d010187d7fec54d485aa4dea77a15dd4a0e"
+ },
+ "sha1_origem": "7d306e224e34cf93c09e84912275fe21f91f4733",
+ "bytes_origem": 12213,
+ "capturado_em": "2026-11-08T06:46:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Miraselva.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "7d306e224e34cf93c09e84912275fe21f91f4733"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3538600",
+ "uf": "SP",
+ "municipio": "Piracaia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/80/Brasao_de_Piracaia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ad582f64a28709c484055ee0aa27ec09f584f9fc624a9866ef6bef343d0d9744",
+ "rendicoes": {
+  "png": {
+   "bytes": 234206,
+   "sha256": "685a14ac242d34ff15263a345b803e2cdaeb034b048d487a7c14b78b5d94a217",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43524,
+   "sha256": "4e9e2f19c2328cfe256220aa98074feee844513a8577347410e6410ee2c6c849",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3538600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3538600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3538600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3538600.jpg",
+  "bytes": 54397,
+  "sha256": "ad582f64a28709c484055ee0aa27ec09f584f9fc624a9866ef6bef343d0d9744"
+ },
+ "sha1_origem": "7af5d9be1ddd00563ee9c7cbb137675727b88c12",
+ "bytes_origem": 54397,
+ "capturado_em": "2026-11-08T06:34:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_de_Piracaia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "7af5d9be1ddd00563ee9c7cbb137675727b88c12"
+ }
+}

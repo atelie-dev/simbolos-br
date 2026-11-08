@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4122107",
+ "uf": "PR",
+ "municipio": "Rio Bom",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bandeira_Rio_Bom.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/webp",
+ "sha256_origem": "3da9dfee033dc89daa0456514ca1a70caa51230aeb3c42c0c989769c3fae8cb1",
+ "rendicoes": {
+  "png": {
+   "bytes": 69661,
+   "sha256": "025c2f1afac11b74b2bc2a7f1371eaf4a3d98595a094ad2b626b614ddcc89970",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18619,
+   "sha256": "64d76bfa53e51598d5963dbb5bc1c69cf0624f7d94e58e156b9973e635a9e8a5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4122107.webp",
+  "bytes": 13534,
+  "sha256": "3da9dfee033dc89daa0456514ca1a70caa51230aeb3c42c0c989769c3fae8cb1"
+ },
+ "sha1_origem": "e445a83f4f26d118f904179dce3e8557b0e9ba18",
+ "bytes_origem": 13534,
+ "capturado_em": "2026-11-08T06:48:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Rio_Bom.webp",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "e445a83f4f26d118f904179dce3e8557b0e9ba18"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4212601",
+ "uf": "SC",
+ "municipio": "Peritiba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Brasao_peritiba.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "84e6db697ce9e832492f3cc27e73750843f5cc3151c159a7933b4cb0c08d6a9e",
+ "rendicoes": {
+  "png": {
+   "bytes": 128545,
+   "sha256": "bd31c70fc46c9889e70410a5dac3f079aeb75baf85f5d56f3e845e1ae978611e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35152,
+   "sha256": "3d9d03f9aab309b95079e92f75b562b32a9542dd1a56adb2b08f4a9bc9a2cb6e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4212601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4212601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4212601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4212601.png",
+  "bytes": 49598,
+  "sha256": "84e6db697ce9e832492f3cc27e73750843f5cc3151c159a7933b4cb0c08d6a9e"
+ },
+ "sha1_origem": "5f49f1f26b44797ebbf078b06d48de30b2921a50",
+ "bytes_origem": 49598,
+ "capturado_em": "2026-11-08T06:55:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_peritiba.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "5f49f1f26b44797ebbf078b06d48de30b2921a50"
+ }
+}

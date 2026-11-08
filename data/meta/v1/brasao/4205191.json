@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4205191",
+ "uf": "SC",
+ "municipio": "Ermo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bras%C3%A3o_de_Ermo_-_SC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Heitor Fonseca Amaro (Armação do Itapocorói)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "35051ce00c071ed3d95eb68e421b88c95ecff2c5aad7e67d70a5bda26f384d4a",
+ "rendicoes": {
+  "png": {
+   "bytes": 111448,
+   "sha256": "71fe3b275bbfd6ac7d0d2b1276b7d4ea038f79bae42eb1e5a6d703a45ef2ec44",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20459,
+   "sha256": "3c1aa28d1b4703afbb36081db61b4bf495a4886518a9b331c28a52ff1d4035c2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4205191.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4205191.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4205191.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4205191.jpg",
+  "bytes": 39076,
+  "sha256": "35051ce00c071ed3d95eb68e421b88c95ecff2c5aad7e67d70a5bda26f384d4a"
+ },
+ "sha1_origem": "3faf153c41a17b52c662ca5f0f7366ef01efed7e",
+ "bytes_origem": 39076,
+ "capturado_em": "2026-11-08T06:53:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Ermo_-_SC.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "3faf153c41a17b52c662ca5f0f7366ef01efed7e"
+ }
+}

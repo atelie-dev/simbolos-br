@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3551108",
+ "uf": "SP",
+ "municipio": "Sarapuí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bras%C3%A3o_Sarapu%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e800ba0757a0f7513bfc0daf4a67f2242007b386e6f11c428d6128a0ace1611f",
+ "rendicoes": {
+  "png": {
+   "bytes": 267135,
+   "sha256": "ccb960330b1f97fb037463733e1058139be7950e5bb3f96c588dc1ad61052fd3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 52989,
+   "sha256": "4fa65aace5743506ef506e030754d580fee8a8787c92fe526515ca287d39b747",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3551108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3551108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3551108.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3551108.jpg",
+  "bytes": 39564,
+  "sha256": "e800ba0757a0f7513bfc0daf4a67f2242007b386e6f11c428d6128a0ace1611f"
+ },
+ "sha1_origem": "17e9035c86e9505fc406d2fc62b2007f204d967d",
+ "bytes_origem": 39564,
+ "capturado_em": "2026-11-08T06:38:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Sarapuí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "17e9035c86e9505fc406d2fc62b2007f204d967d"
+ }
+}

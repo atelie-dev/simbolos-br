@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4104402",
+ "uf": "PR",
+ "municipio": "Cândido de Abreu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Brasao_candidodeabreu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://www.candidodeabreu.pr.gov.br/",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "838c6941f5afe5cfddcb3c751eb9ddba614a1ca283f7e82646ebddda2ff09c28",
+ "rendicoes": {
+  "png": {
+   "bytes": 58515,
+   "sha256": "bbb4720883191fcc5f7b22b712c2ec0689e0697bb2d9ad24f6bc412930e8f86a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10736,
+   "sha256": "cb298230f6a7f3ca1830e276138ac69b367d7957b6297511549d206c67a8e166",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4104402.jpg",
+  "bytes": 9661,
+  "sha256": "838c6941f5afe5cfddcb3c751eb9ddba614a1ca283f7e82646ebddda2ff09c28"
+ },
+ "sha1_origem": "93fb26cc3e5c972731227035a1229a82218b611f",
+ "bytes_origem": 9661,
+ "capturado_em": "2026-11-08T06:42:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_candidodeabreu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:36Z",
+  "estado": "igual",
+  "sha1_commons": "93fb26cc3e5c972731227035a1229a82218b611f"
+ }
+}

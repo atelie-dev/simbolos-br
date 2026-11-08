@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4108007",
+ "uf": "PR",
+ "municipio": "Florestópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bandeira_de_Florest%C3%B3polis%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMF",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "780b4580a659a103ac29682837ffbce0267888b83b11303e3b5f939c7e85c0c1",
+ "rendicoes": {
+  "png": {
+   "bytes": 194389,
+   "sha256": "0a078b7c7fa1f62b760925012d5f5345416aaa980fd91d3368ca7634527b30e5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37942,
+   "sha256": "ed319cbcf408ccf8254124a524174e5ea4b9b5631e7e0eb5b76f0c61c2a2235b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4108007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4108007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4108007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4108007.jpg",
+  "bytes": 45760,
+  "sha256": "780b4580a659a103ac29682837ffbce0267888b83b11303e3b5f939c7e85c0c1"
+ },
+ "sha1_origem": "5cb72f6b40281f85611e69ff56a304061c873c06",
+ "bytes_origem": 45760,
+ "capturado_em": "2026-11-08T06:43:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Florestópolis,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "5cb72f6b40281f85611e69ff56a304061c873c06"
+ }
+}

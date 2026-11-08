@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2105302",
+ "uf": "MA",
+ "municipio": "Imperatriz",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bandeira_imperatriz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Etevaldo Moreno de Araújo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7ccb7e0d3c9c91c47b1fab7067f2c7f2d18b16ea86c97aad4d219beedc369c4e",
+ "rendicoes": {
+  "png": {
+   "bytes": 15423,
+   "sha256": "6dcbdee343e58bbdc0e8178c05dfedf88ab7d5cee860c2a5c10b6d8ae16d6375",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8120,
+   "sha256": "ce013d816e36b21ad6aa516ad2f60b8f32ea344ea2902fb2c9640fa62772828c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2105302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2105302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2105302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2105302.jpg",
+  "bytes": 27844,
+  "sha256": "7ccb7e0d3c9c91c47b1fab7067f2c7f2d18b16ea86c97aad4d219beedc369c4e"
+ },
+ "sha1_origem": "5838c72deeaf5a7f33459aa1a64c2c4a9501ac80",
+ "bytes_origem": 27844,
+ "capturado_em": "2026-11-08T05:28:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_imperatriz.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "5838c72deeaf5a7f33459aa1a64c2c4a9501ac80"
+ }
+}

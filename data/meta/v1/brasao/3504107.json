@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3504107",
+ "uf": "SP",
+ "municipio": "Atibaia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bras%C3%A3o_de_Atibaia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "FernandoOASJacinto",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fc865aa064036083bc56a538634403304b6cf1e5453311b67061d4af3ef6d386",
+ "rendicoes": {
+  "png": {
+   "bytes": 248787,
+   "sha256": "322eec6f648bf6d99f2780749af2f578225068b8fdb97a5257eba07646aac80b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 65423,
+   "sha256": "e6d3602a81a04fbba7a0d98a53f26d7f519685792abad142fc6aa3001a8fc9c6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3504107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3504107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3504107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3504107.png",
+  "bytes": 260538,
+  "sha256": "fc865aa064036083bc56a538634403304b6cf1e5453311b67061d4af3ef6d386"
+ },
+ "sha1_origem": "5ebe28e61ced4a63ec7145d30e5d882eb8df9bb7",
+ "bytes_origem": 260538,
+ "capturado_em": "2026-11-08T06:24:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Atibaia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "5ebe28e61ced4a63ec7145d30e5d882eb8df9bb7"
+ }
+}

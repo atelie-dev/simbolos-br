@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3535804",
+ "uf": "SP",
+ "municipio": "Paranapanema",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bras%C3%A3o_Paranapanema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "18482985d70d7dc1112857946d1bdb522224cb5a2879786822ec44af9964955d",
+ "rendicoes": {
+  "png": {
+   "bytes": 27080,
+   "sha256": "b4c67950f3259674635e5a3b272cbb12b78d301e6bf78fc36c31e95cb492e3a0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6844,
+   "sha256": "d745f63618efd55d81b9e885cac7fc6a518dd62fab991a7f48ccaebbbf1efc06",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535804.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3535804.jpg",
+  "bytes": 14543,
+  "sha256": "18482985d70d7dc1112857946d1bdb522224cb5a2879786822ec44af9964955d"
+ },
+ "sha1_origem": "50b5b20203fa08bb1e1ad4e820d2dc13abaa57ff",
+ "bytes_origem": 14543,
+ "capturado_em": "2026-11-08T06:33:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Paranapanema.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "50b5b20203fa08bb1e1ad4e820d2dc13abaa57ff"
+ }
+}

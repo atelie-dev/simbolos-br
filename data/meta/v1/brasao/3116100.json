@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3116100",
+ "uf": "MG",
+ "municipio": "Chapada do Norte",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Chapada_do_Nortemgbrasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Chapada do Norte",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "730f82390284ca1a3272f0b6d42376be2542b3809c5a229b3a44e08075582df8",
+ "rendicoes": {
+  "png": {
+   "bytes": 43363,
+   "sha256": "0e402fcf04c1651343549af4022261beb76fe7fc2a1d8a4150075bef01d81286",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12041,
+   "sha256": "4d75dd49204ec378feff1cc800f38e67dbe51cd71e534fefba5500b6d5bbaf13",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3116100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3116100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3116100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3116100.png",
+  "bytes": 36082,
+  "sha256": "730f82390284ca1a3272f0b6d42376be2542b3809c5a229b3a44e08075582df8"
+ },
+ "sha1_origem": "ba0920cffbc6a314f5c6e7a59dd0ed78fbf26134",
+ "bytes_origem": 36082,
+ "capturado_em": "2026-11-08T06:03:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Chapada_do_Nortemgbrasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:22Z",
+  "estado": "igual",
+  "sha1_commons": "ba0920cffbc6a314f5c6e7a59dd0ed78fbf26134"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4100608",
+ "uf": "PR",
+ "municipio": "Alto Paraná",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bandeira_do_municipio_de_alto_parana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Valcir Guandalini Gomes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c919879980ab6d6486ab17ef67b8de8175317e85f9a020356421af4eb6bcda18",
+ "rendicoes": {
+  "png": {
+   "bytes": 285848,
+   "sha256": "49d574ab0b4dac5f0b784a82ec67509eeb010602cd05bc1f2ada00bdaa4ac8ea",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43855,
+   "sha256": "261b414473677fe83ab01972e0d0fc0aae33249d330e2fbb53044444e27112d7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4100608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4100608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4100608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4100608.jpg",
+  "bytes": 94838,
+  "sha256": "c919879980ab6d6486ab17ef67b8de8175317e85f9a020356421af4eb6bcda18"
+ },
+ "sha1_origem": "316075eafb79a6edfc128d53a0fa559918c06dba",
+ "bytes_origem": 94838,
+ "capturado_em": "2026-11-08T06:41:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_municipio_de_alto_parana.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "316075eafb79a6edfc128d53a0fa559918c06dba"
+ }
+}

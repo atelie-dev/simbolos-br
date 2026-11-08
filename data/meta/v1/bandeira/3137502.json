@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3137502",
+ "uf": "MG",
+ "municipio": "Lagoa Formosa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bandeiralagoaformosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Lagoa Formosa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "30405c0eff05c87366731253e1ce92af4884766b12887ca74435c020ea86f3ee",
+ "rendicoes": {
+  "png": {
+   "bytes": 53258,
+   "sha256": "d1278c3ad35ca24035e401d2ed1ccc01c68c6d034f2b300d0f306262f20130f7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16044,
+   "sha256": "4c6392ed42a7cebc00007fa7c7373f68d914124ee485b36fabb3ef105dd85ecb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3137502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3137502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3137502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3137502.jpg",
+  "bytes": 18671,
+  "sha256": "30405c0eff05c87366731253e1ce92af4884766b12887ca74435c020ea86f3ee"
+ },
+ "sha1_origem": "59984a928ec1dcf5fd917c5afeb60992987028af",
+ "bytes_origem": 18671,
+ "capturado_em": "2026-11-08T06:10:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiralagoaformosa.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "59984a928ec1dcf5fd917c5afeb60992987028af"
+ }
+}

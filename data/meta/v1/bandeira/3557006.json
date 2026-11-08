@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3557006",
+ "uf": "SP",
+ "municipio": "Votorantim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Votorantim_Bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Votorantim",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "34f2dc58e343f295b30730ec6de464b60221fde8e6353e1b58f8a036a0435024",
+ "rendicoes": {
+  "png": {
+   "bytes": 72131,
+   "sha256": "ca146b1375370aedadd43529df5a35f2b4197345935eaeff03270f081f6a81ad",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16901,
+   "sha256": "28531d6268fc76a6e3365a7b60b078fe52441cdadca7ba83b356f570b3d6d5ca",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3557006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3557006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3557006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3557006.jpg",
+  "bytes": 10350,
+  "sha256": "34f2dc58e343f295b30730ec6de464b60221fde8e6353e1b58f8a036a0435024"
+ },
+ "sha1_origem": "f0a92f56441f8d38b5f24d4b2413a7ce30d8466d",
+ "bytes_origem": 10350,
+ "capturado_em": "2026-11-08T06:40:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Votorantim_Bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "f0a92f56441f8d38b5f24d4b2413a7ce30d8466d"
+ }
+}

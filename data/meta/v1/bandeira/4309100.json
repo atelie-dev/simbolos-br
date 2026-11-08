@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4309100",
+ "uf": "RS",
+ "municipio": "Gramado",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bandeira_de_Gramado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Gramado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1f7651b4a011d78f156d8dba8092c9a794609aee37fff4f752c112edd0e0a86b",
+ "rendicoes": {
+  "png": {
+   "bytes": 57881,
+   "sha256": "85634bc4bb85a5c75fa2e26fd18807d7ade81ff34b15ff2f6d838e789abc0739",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21157,
+   "sha256": "32e58f7ac9035e00a5681034f3fb654b2003318833972606a3dce32ba62a11f8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4309100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4309100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4309100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4309100.jpg",
+  "bytes": 127081,
+  "sha256": "1f7651b4a011d78f156d8dba8092c9a794609aee37fff4f752c112edd0e0a86b"
+ },
+ "sha1_origem": "28a96f54e3e6bc6fc2b8ddfb04ed0bba7bab7469",
+ "bytes_origem": 127081,
+ "capturado_em": "2026-11-08T07:03:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Gramado.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "28a96f54e3e6bc6fc2b8ddfb04ed0bba7bab7469"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2516003",
+ "uf": "PB",
+ "municipio": "Solânea",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bandeirasolanea.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Solânea",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bfe2c1c0f59814468ecbe9d9ed6726914338bf026f304d7b1c7bb7167b7ce406",
+ "rendicoes": {
+  "png": {
+   "bytes": 25127,
+   "sha256": "178efc4dbf9ce8ce3eda2bde2530ac42f018ecf1136cb2fcc7812853f49d958a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20852,
+   "sha256": "8bc167acb57e5195c02e23774ecf020536d4d521b6e4ff13d78bf8e261a841a4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2516003.png",
+  "bytes": 349324,
+  "sha256": "bfe2c1c0f59814468ecbe9d9ed6726914338bf026f304d7b1c7bb7167b7ce406"
+ },
+ "sha1_origem": "fa25261e47a00ec89f4cafe8c242bbf6da24c64b",
+ "bytes_origem": 349324,
+ "capturado_em": "2026-11-08T05:44:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeirasolanea.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "fa25261e47a00ec89f4cafe8c242bbf6da24c64b"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3547106",
+ "uf": "SP",
+ "municipio": "Santa Mercedes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bandeira_santa_mercedes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Santa Mercedes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "20334acabcf1c7857c4275877331edff1b809eb83d6d875556ddf1f2838e30e4",
+ "rendicoes": {
+  "png": {
+   "bytes": 51525,
+   "sha256": "7f32fea5001eea2fde95dd6b67a33b2e31b3b92ab083c46edf536e7e9a3055ba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12424,
+   "sha256": "7c1b603bde6e55dce1b741aebfd558561becc69c52966252b2a4b2b7a481c3e6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3547106.jpg",
+  "bytes": 7044,
+  "sha256": "20334acabcf1c7857c4275877331edff1b809eb83d6d875556ddf1f2838e30e4"
+ },
+ "sha1_origem": "d60ed9c6f34cf96ce069345d3c6741980a9590b4",
+ "bytes_origem": 7044,
+ "capturado_em": "2026-11-08T06:37:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_santa_mercedes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "d60ed9c6f34cf96ce069345d3c6741980a9590b4"
+ }
+}

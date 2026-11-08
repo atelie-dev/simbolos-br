@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4216800",
+ "uf": "SC",
+ "municipio": "São José do Cerrito",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_S%C3%A3o_Jos%C3%A9_do_Serrito_SC.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HVL",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ffc6ca2857e1aacbc318476a148a8459d69dacc5ebd25d5835037bac0a1408d9",
+ "rendicoes": {
+  "png": {
+   "bytes": 41149,
+   "sha256": "93b9e024394388fb8e08131e0065059b37286ff0151d8a43b86e7a6987107732",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16338,
+   "sha256": "7ddd7cd96524d8c292284c4e67901b4eb854e0ae37ea8a914987917c8ceb4b23",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4216800.png",
+  "bytes": 79319,
+  "sha256": "ffc6ca2857e1aacbc318476a148a8459d69dacc5ebd25d5835037bac0a1408d9"
+ },
+ "sha1_origem": "4c6be47269510cc51c43dc6eca911d3188ccd5b1",
+ "bytes_origem": 79319,
+ "capturado_em": "2026-11-08T06:57:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_São_José_do_Serrito_SC.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "4c6be47269510cc51c43dc6eca911d3188ccd5b1"
+ }
+}

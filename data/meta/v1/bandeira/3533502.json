@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3533502",
+ "uf": "SP",
+ "municipio": "Novo Horizonte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Novo_Horizonte_Flag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Jonas Faccio",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f453b5492d50cad51ef17548d4db888f6b8ac68b0a6e3a0ad62a3d61ef263ac5",
+ "rendicoes": {
+  "png": {
+   "bytes": 31464,
+   "sha256": "8884b90c35d73863837db7b84eaac392b3da11020251993f80880a4bb4a5c41a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11758,
+   "sha256": "b9f1e09752401af16ff66a45efeeedc918e035a3510d66537c26e7ba2b08d2cc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3533502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3533502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3533502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3533502.jpg",
+  "bytes": 11368,
+  "sha256": "f453b5492d50cad51ef17548d4db888f6b8ac68b0a6e3a0ad62a3d61ef263ac5"
+ },
+ "sha1_origem": "c5e16120e3ff3c6ce6cc397935478ca77f6d3ae7",
+ "bytes_origem": 11368,
+ "capturado_em": "2026-11-08T06:33:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Novo_Horizonte_Flag.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:34Z",
+  "estado": "igual",
+  "sha1_commons": "c5e16120e3ff3c6ce6cc397935478ca77f6d3ae7"
+ }
+}

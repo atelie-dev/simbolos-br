@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5200100",
+ "uf": "GO",
+ "municipio": "Abadiânia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bandeira_de_Abadi%C3%A2nia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Abadiânia",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "83abd26432b70c23c561fd8a511a7d3542de95357257e2578359fea91c761c83",
+ "rendicoes": {
+  "png": {
+   "bytes": 42407,
+   "sha256": "7b82b8f3735d0c926bb400d778988ae722858eaded5b57ca55ae7e83947d0803",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19584,
+   "sha256": "2367c7d4f468c9b2815de13485dfbdfa14f41bc6accb9a4f5dd0972ac6177ecb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5200100.png",
+  "bytes": 689299,
+  "sha256": "83abd26432b70c23c561fd8a511a7d3542de95357257e2578359fea91c761c83"
+ },
+ "sha1_origem": "16959b16db99deae92546cb56dd591e63d7f2b4a",
+ "bytes_origem": 689299,
+ "capturado_em": "2026-11-08T07:16:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Abadiânia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "16959b16db99deae92546cb56dd591e63d7f2b4a"
+ }
+}

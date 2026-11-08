@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3523404",
+ "uf": "SP",
+ "municipio": "Itatiba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bras%C3%A3o_do_Munic%C3%ADpio_de_Itatiba-SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Nilson Silva",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "032aa207c5961f539ba3fe6657a6d0e18ca96a5912ffd95252aca173d0755107",
+ "rendicoes": {
+  "png": {
+   "bytes": 137754,
+   "sha256": "2ed3b086a93b84ef73ccc775abe27308d1b6a0d7faf7efae674fd43a6e402ab0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45029,
+   "sha256": "484e2da63c74dbecc8f6cde9e641ae980adcec03d854d4dc41fcb23a2ccd576b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 5429721,
+   "sha256": "032aa207c5961f539ba3fe6657a6d0e18ca96a5912ffd95252aca173d0755107"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3523404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3523404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3523404.jpg"
+ },
+ "sha1_origem": "c76d85bd2776491566e018ffae193842a6d623c6",
+ "bytes_origem": 5429721,
+ "capturado_em": "2026-11-08T04:06:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_Município_de_Itatiba-SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:16Z",
+  "estado": "igual",
+  "sha1_commons": "c76d85bd2776491566e018ffae193842a6d623c6"
+ }
+}

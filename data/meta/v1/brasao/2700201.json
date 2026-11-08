@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2700201",
+ "uf": "AL",
+ "municipio": "Anadia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Bras%C3%A3o_Anadia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b5e4db9eecf3b249e4de05daa0661a8769a01bc52d7effcf030855fe3a28f671",
+ "rendicoes": {
+  "png": {
+   "bytes": 77147,
+   "sha256": "ae2195849ad6d4aafb3da7bc91fbd80da467937fb672a9f57ff1f586256a0d16",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16664,
+   "sha256": "ac6e7d15e314163cd838306f6190959f7e6c8ca47ffd20d01ec5df590c0358aa",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2700201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2700201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2700201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2700201.png",
+  "bytes": 71622,
+  "sha256": "b5e4db9eecf3b249e4de05daa0661a8769a01bc52d7effcf030855fe3a28f671"
+ },
+ "sha1_origem": "826464a1a1ddea23888e609488551f416a3fd5af",
+ "bytes_origem": 71622,
+ "capturado_em": "2026-11-08T05:47:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Anadia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "826464a1a1ddea23888e609488551f416a3fd5af"
+ }
+}

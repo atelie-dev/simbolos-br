@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3120706",
+ "uf": "MG",
+ "municipio": "Cruzeiro da Fortaleza",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Cruzeiro_da_Fortalezamgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cruzeiro da Fortaleza",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7ffbc4babc4838743dce53ce7966ff1447f5fed1b9a40cd9c0d82f307b1244cd",
+ "rendicoes": {
+  "png": {
+   "bytes": 33196,
+   "sha256": "f45172d68f983b226a64b824fe814d57aca56bddfd42af5b17591869c5930149",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9764,
+   "sha256": "fe3dfaf52c7049dd41d6cebaa4e2ad68fbf5ae20920ae76f7d5cdadbcb11b6a2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3120706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3120706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3120706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3120706.png",
+  "bytes": 27961,
+  "sha256": "7ffbc4babc4838743dce53ce7966ff1447f5fed1b9a40cd9c0d82f307b1244cd"
+ },
+ "sha1_origem": "6532e65fc7d6b49cf7545e272d1496b977f16709",
+ "bytes_origem": 27961,
+ "capturado_em": "2026-11-08T06:05:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cruzeiro_da_Fortalezamgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "6532e65fc7d6b49cf7545e272d1496b977f16709"
+ }
+}

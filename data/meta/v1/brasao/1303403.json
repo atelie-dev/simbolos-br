@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1303403",
+ "uf": "AM",
+ "municipio": "Parintins",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Brasao-parintins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Parintins City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ab267b4c14f953a5d7cdf1421a140bb5adf7f6b6230b1d9431f0c42d5d8b6b33",
+ "rendicoes": {
+  "png": {
+   "bytes": 221000,
+   "sha256": "a98d8af5fe3d8de61c191d1a51d367d7fc03920979338cdd577486a46da9d532",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34712,
+   "sha256": "d9987aa18c84236f78184bc82fc8108ac9c03e47b1bf8d0ea2ebed3dc66094d5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1303403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1303403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1303403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1303403.jpg",
+  "bytes": 28933,
+  "sha256": "ab267b4c14f953a5d7cdf1421a140bb5adf7f6b6230b1d9431f0c42d5d8b6b33"
+ },
+ "sha1_origem": "5581cc58ca19d01d6a02c795bf43683cc75cc938",
+ "bytes_origem": 28933,
+ "capturado_em": "2026-11-08T05:23:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-parintins.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "5581cc58ca19d01d6a02c795bf43683cc75cc938"
+ }
+}

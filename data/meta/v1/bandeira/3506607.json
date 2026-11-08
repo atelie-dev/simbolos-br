@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3506607",
+ "uf": "SP",
+ "municipio": "Biritiba Mirim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bandeira_de_Biritiba-Mirim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "03d8f3397566f042795cca3f7ca0de41e32cb8a15dd5379979c7f250b315064f",
+ "rendicoes": {
+  "png": {
+   "bytes": 62828,
+   "sha256": "7c26c46cb36e93943eb46d769f783c35f4a7e826146041022c3ad81124b7f139",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13533,
+   "sha256": "039f8449ebb82f8b7b1d6be380d5add8771b5aa156847a536fd8c47671e6d870",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506607.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506607.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506607.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3506607.jpg",
+  "bytes": 57395,
+  "sha256": "03d8f3397566f042795cca3f7ca0de41e32cb8a15dd5379979c7f250b315064f"
+ },
+ "sha1_origem": "e3f99f29245730d28a51a4a129ea5536c1a1c9da",
+ "bytes_origem": 57395,
+ "capturado_em": "2026-11-08T06:24:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Biritiba-Mirim.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "e3f99f29245730d28a51a4a129ea5536c1a1c9da"
+ }
+}

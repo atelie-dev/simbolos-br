@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3138203",
+ "uf": "MG",
+ "municipio": "Lavras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bandeira-lavras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Lavras",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f2fcc104889c63793ae93bb0590c8c8a739517c7d4fa6e6e1791c79ddf790438",
+ "rendicoes": {
+  "png": {
+   "bytes": 40723,
+   "sha256": "257f31c4fffd2747cb0d8e81532fa8a2c548ab1ca34fc29c9f90469284a0a162",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13623,
+   "sha256": "d87c7f833f80b06b3e143aaaf754243a91caa270602173540ace5dd1927f8e86",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3138203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3138203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3138203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3138203.jpg",
+  "bytes": 8863,
+  "sha256": "f2fcc104889c63793ae93bb0590c8c8a739517c7d4fa6e6e1791c79ddf790438"
+ },
+ "sha1_origem": "cd1a5062ef390789278a2471c7819ad0dacad341",
+ "bytes_origem": 8863,
+ "capturado_em": "2026-11-08T06:10:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-lavras.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "cd1a5062ef390789278a2471c7819ad0dacad341"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3519055",
+ "uf": "SP",
+ "municipio": "Holambra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bandeira_de_Holambra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8a2b35f73aed7e1373aac591f10552d80c16da44f3dbad64dd51aa409f4f2097",
+ "rendicoes": {
+  "png": {
+   "bytes": 41223,
+   "sha256": "ee5fbb4df70fd383fdde5be21fe8702ba7170e3a25e23c82a432a3df85556e11",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17257,
+   "sha256": "9a1a45ac8b2db507aa686aa291a4692eadfdd01d10906d526fe64306cdaeb9c7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3519055.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3519055.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3519055.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3519055.jpg",
+  "bytes": 309224,
+  "sha256": "8a2b35f73aed7e1373aac591f10552d80c16da44f3dbad64dd51aa409f4f2097"
+ },
+ "sha1_origem": "681bf949ddc916c4ac949d7959fe6c0e693222b5",
+ "bytes_origem": 309224,
+ "capturado_em": "2026-11-08T06:28:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Holambra.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "681bf949ddc916c4ac949d7959fe6c0e693222b5"
+ }
+}

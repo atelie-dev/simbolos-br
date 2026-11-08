@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3541059",
+ "uf": "SP",
+ "municipio": "Pratânia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandeira_Prat%C3%A2nia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "959a5221c8823b420ff51de7d48ef3c8024a565e336762c341b62c5c0efe2e6b",
+ "rendicoes": {
+  "png": {
+   "bytes": 27564,
+   "sha256": "53717331b5f16c9caeb5907784737e1d4d84565a281d1a2180d7f8d0a6e460a0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12381,
+   "sha256": "d1aad05a0527e3002aa9300abf6325b014d05fc7953159c13708dd7e526e1579",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541059.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541059.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541059.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3541059.png",
+  "bytes": 27537,
+  "sha256": "959a5221c8823b420ff51de7d48ef3c8024a565e336762c341b62c5c0efe2e6b"
+ },
+ "sha1_origem": "625d3430c911ca867c6043646dc59c4743587a5e",
+ "bytes_origem": 27537,
+ "capturado_em": "2026-11-08T06:35:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Pratânia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "625d3430c911ca867c6043646dc59c4743587a5e"
+ }
+}

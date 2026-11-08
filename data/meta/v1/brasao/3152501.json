@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3152501",
+ "uf": "MG",
+ "municipio": "Pouso Alegre",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/BRAS%C3%83O_POUSO_ALEGRE_2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Rogerio Miranda",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0cd8b7e5d01d39a33d86f6141f63371f5ea5ab72584dfaf1055dbb1405390be9",
+ "rendicoes": {
+  "png": {
+   "bytes": 215772,
+   "sha256": "15fc04667c7e655d11f993d0279628f5628f22b2a713c5bf0e89ef7d5dd1480c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60943,
+   "sha256": "bbb6178ae408c4b63147d1a8ed33aff700f2d60a27647cf134f908faf4f52149",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3152501.jpg",
+  "bytes": 606243,
+  "sha256": "0cd8b7e5d01d39a33d86f6141f63371f5ea5ab72584dfaf1055dbb1405390be9"
+ },
+ "sha1_origem": "acecd939ae1670e1b1c20739b5fa370691181c51",
+ "bytes_origem": 606243,
+ "capturado_em": "2026-11-08T06:13:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BRASÃO_POUSO_ALEGRE_2009.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "acecd939ae1670e1b1c20739b5fa370691181c51"
+ }
+}

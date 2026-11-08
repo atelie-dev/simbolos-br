@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5300108",
+ "uf": "DF",
+ "municipio": "Brasília",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Governo do Distrito Federal; [ Decreto 1090 de 25/08/1969 Sem Revogação Expressa https://www.sinj.df.gov.br/sinj/Diario/97b57569-dff4-35b9-878b-80769812c242/00fcaf81.pdf]",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "8de53e895617ecb586a60f556a1af2092e6da64d7ac57771a6fae81dab1e33fa",
+ "rendicoes": {
+  "png": {
+   "bytes": 7655,
+   "sha256": "515c314d55e3888418b43c414d04d158f8b9654a729d0eef093b4fad23575f24",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7352,
+   "sha256": "082d3f4ddfe14185fe25a3bb1214e7adbf7343f1b4ffc969198ae7b8d285f6d0",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1773,
+   "sha256": "8de53e895617ecb586a60f556a1af2092e6da64d7ac57771a6fae81dab1e33fa"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5300108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5300108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5300108.jpg"
+ },
+ "sha1_origem": "dd66f1bad4dfb5426308f0982d7cd71637a55efe",
+ "bytes_origem": 1773,
+ "capturado_em": "2026-11-08T05:14:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_Distrito_Federal_(Brasil).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "dd66f1bad4dfb5426308f0982d7cd71637a55efe"
+ }
+}

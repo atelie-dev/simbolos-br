@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2408102",
+ "uf": "RN",
+ "municipio": "Natal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Bras%C3%A3o_de_Natal.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ViniciusBR11, Prefeitura de Natal",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9d1008cf8193a712e7408c047289b71f768285829f4fcff5e4a64954dec15bab",
+ "rendicoes": {
+  "png": {
+   "bytes": 64589,
+   "sha256": "a356a721d501a877f420fb8717224ad164b625d9b3bf07358e791de69184ce66",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29858,
+   "sha256": "ec56819c18da8521ff92992131e1b41324315112cde9a88b71cd0105ec217e31",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 10733,
+   "sha256": "9d1008cf8193a712e7408c047289b71f768285829f4fcff5e4a64954dec15bab"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2408102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2408102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2408102.jpg"
+ },
+ "sha1_origem": "959802c10aed9ce0f0119a2afebcd14885ae1af9",
+ "bytes_origem": 10733,
+ "capturado_em": "2026-11-08T02:52:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Natal.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "959802c10aed9ce0f0119a2afebcd14885ae1af9"
+ }
+}

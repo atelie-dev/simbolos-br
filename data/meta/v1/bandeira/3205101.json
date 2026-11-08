@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3205101",
+ "uf": "ES",
+ "municipio": "Viana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bandeira-viana-es.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Viana City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7b68feba3cb655ff59544b814f2309f9b4d166a996381061660e83f4aed4e224",
+ "rendicoes": {
+  "png": {
+   "bytes": 59313,
+   "sha256": "9b86e358b5fe14a26fc2170481a42c5ae350515094224d244a25547458f0e2db",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12077,
+   "sha256": "acd4f59fc9f552a0fb05811e819ffa25affb59743fa534c476e489b0bd65640e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3205101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3205101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3205101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3205101.jpg",
+  "bytes": 7838,
+  "sha256": "7b68feba3cb655ff59544b814f2309f9b4d166a996381061660e83f4aed4e224"
+ },
+ "sha1_origem": "ecbf4d1649aa0bff1963aae2cff8a8240130937f",
+ "bytes_origem": 7838,
+ "capturado_em": "2026-11-08T06:20:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-viana-es.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "ecbf4d1649aa0bff1963aae2cff8a8240130937f"
+ }
+}

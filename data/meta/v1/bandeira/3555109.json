@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3555109",
+ "uf": "SP",
+ "municipio": "Tupi Paulista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Bandeiratupi_paulista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Sgoncalves",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b6371fb7af58ffbec08d7953527f3158bde8fc9c890f5f6ad20d0102a0f94cee",
+ "rendicoes": {
+  "png": {
+   "bytes": 94467,
+   "sha256": "74df18f3b5a274f76a48e4fe3e6bd0d89611583c2b34d332dd7b5ee8c9e7fd37",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25373,
+   "sha256": "4d2a87e25619878182f13a6f419d101a212b53a046f63ebc83ab880a5d47c547",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3555109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3555109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3555109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3555109.jpg",
+  "bytes": 63217,
+  "sha256": "b6371fb7af58ffbec08d7953527f3158bde8fc9c890f5f6ad20d0102a0f94cee"
+ },
+ "sha1_origem": "aea5dcaa9c14114f2b5add2caa9eb9ddb0d29ec5",
+ "bytes_origem": 63217,
+ "capturado_em": "2026-11-08T06:40:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiratupi_paulista.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "aea5dcaa9c14114f2b5add2caa9eb9ddb0d29ec5"
+ }
+}

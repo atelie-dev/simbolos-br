@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3546009",
+ "uf": "SP",
+ "municipio": "Santa Branca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/50/Bandeira_do_Municipio_de_Santa_Branca-SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santa Branca",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d6297288593c448f62143dbaf4880a5309cc85f726792a266c7343a5b070b6ff",
+ "rendicoes": {
+  "png": {
+   "bytes": 9560,
+   "sha256": "646b1a9f1d84bb52cee6c6739b2994578f9200c4427014fb1af80b1e329a5da4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9819,
+   "sha256": "518b462005d98ace49a43b82c53e79feb73ecad4e57dbe24f0a65e37263ab3f6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3546009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3546009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3546009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3546009.png",
+  "bytes": 4117,
+  "sha256": "d6297288593c448f62143dbaf4880a5309cc85f726792a266c7343a5b070b6ff"
+ },
+ "sha1_origem": "2dda0c2f436bd195e98658fe32a661e1ea5cc9ba",
+ "bytes_origem": 4117,
+ "capturado_em": "2026-11-08T06:37:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_Municipio_de_Santa_Branca-SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "2dda0c2f436bd195e98658fe32a661e1ea5cc9ba"
+ }
+}

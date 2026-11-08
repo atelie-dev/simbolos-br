@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2404606",
+ "uf": "RN",
+ "municipio": "Ielmo Marinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bandeira_de_Ielmo_Marinho%2C_Rio_Grande_do_Norte%2C_Brasil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Portal Ielmo Marinho",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "310d0f47ddf8f551a33c8cd68ab61703622dd3e7d00407107bb451fe3dd5e208",
+ "rendicoes": {
+  "png": {
+   "bytes": 52755,
+   "sha256": "aeeef30a6bf619be18ab502b3b6ef0a099e75ee18bd20a4e265d842700058309",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18012,
+   "sha256": "1baae63b6ba79211ae966dfa484cb992435607cba6d0fed95e89f047408d8cbe",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2404606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2404606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2404606.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2404606.png",
+  "bytes": 302007,
+  "sha256": "310d0f47ddf8f551a33c8cd68ab61703622dd3e7d00407107bb451fe3dd5e208"
+ },
+ "sha1_origem": "81000ec584b971898d9ce668992f599e29879ce9",
+ "bytes_origem": 302007,
+ "capturado_em": "2026-11-08T05:36:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ielmo_Marinho,_Rio_Grande_do_Norte,_Brasil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "81000ec584b971898d9ce668992f599e29879ce9"
+ }
+}

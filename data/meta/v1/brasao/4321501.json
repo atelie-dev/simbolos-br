@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321501",
+ "uf": "RS",
+ "municipio": "Torres",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Torres_%28RS%29_-_Brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Torres Municipality.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3d4bbdc396b73e74e43ca9048d42b3e306632f1eefbddaafce5ed9a5f7f916ad",
+ "rendicoes": {
+  "png": {
+   "bytes": 69134,
+   "sha256": "8df67acf7aaf73642af3d48740be9754ac8a19144b233662d9f22500c5e39d35",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20016,
+   "sha256": "fe2dcd10c81982685c9c60d15cd8497a8d33b0c7f0793ffdfb03241bf4dc7e7f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4321501.png",
+  "bytes": 69450,
+  "sha256": "3d4bbdc396b73e74e43ca9048d42b3e306632f1eefbddaafce5ed9a5f7f916ad"
+ },
+ "sha1_origem": "c0ec6182fe42a1e7d0927ddc2deb2980bec7ba70",
+ "bytes_origem": 69450,
+ "capturado_em": "2026-11-08T07:11:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Torres_(RS)_-_Brasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:38Z",
+  "estado": "igual",
+  "sha1_commons": "c0ec6182fe42a1e7d0927ddc2deb2980bec7ba70"
+ }
+}

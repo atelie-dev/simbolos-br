@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4114401",
+ "uf": "PR",
+ "municipio": "Mangueirinha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bras%C3%A3o_mangueirinha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "josé eurides lauefer passos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "989eb12a73d2fcc881bf04875c3babd5c07e8ee2ab2d9b4204d5a57857cd1aa1",
+ "rendicoes": {
+  "png": {
+   "bytes": 104002,
+   "sha256": "18b683db53b630f15fcb05d678f25daa4c63acabef89dd3504ac736b07bd4dc5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20306,
+   "sha256": "68b261fcc824952213cceb9691f96286d2523fedc3872a12a283125e6e1e3d15",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4114401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4114401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4114401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4114401.jpg",
+  "bytes": 69416,
+  "sha256": "989eb12a73d2fcc881bf04875c3babd5c07e8ee2ab2d9b4204d5a57857cd1aa1"
+ },
+ "sha1_origem": "b58e15e0f04c3021d7ee1e8d63f4ee0f9b021d82",
+ "bytes_origem": 69416,
+ "capturado_em": "2026-11-08T06:46:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_mangueirinha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:18Z",
+  "estado": "igual",
+  "sha1_commons": "b58e15e0f04c3021d7ee1e8d63f4ee0f9b021d82"
+ }
+}

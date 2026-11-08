@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3517604",
+ "uf": "SP",
+ "municipio": "Guapiara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bras%C3%A3o_Guapiara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f01c61d03b3f27fb31980a2c2e3ffc05c7c303e4e81c8eb1a350ec1284eaf0d3",
+ "rendicoes": {
+  "png": {
+   "bytes": 205432,
+   "sha256": "0334cff02abf1a267e3679e5a8cdf4e6ddb414b260d0e4e546e9c1374d3528f8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67455,
+   "sha256": "1542e9667af72facaf8be692b9c4d37b8a0403172be6c5c56e1ec3aba8a25763",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3517604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3517604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3517604.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3517604.jpg",
+  "bytes": 823009,
+  "sha256": "f01c61d03b3f27fb31980a2c2e3ffc05c7c303e4e81c8eb1a350ec1284eaf0d3"
+ },
+ "sha1_origem": "ea3622f233ce87253f83d3eea82df90ee030059a",
+ "bytes_origem": 823009,
+ "capturado_em": "2026-11-08T06:28:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Guapiara.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "ea3622f233ce87253f83d3eea82df90ee030059a"
+ }
+}

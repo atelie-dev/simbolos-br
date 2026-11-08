@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4204509",
+ "uf": "SC",
+ "municipio": "Corupá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bandeira_do_munic%C3%ADpio_de_Corup%C3%A1_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Corupá (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "dd95e78f38b9306acc4ee1952513cc906d9737549c21f2d76992aa6d6e7e71f2",
+ "rendicoes": {
+  "png": {
+   "bytes": 48846,
+   "sha256": "560d0519df1828b7953181ec923c6e83f9e8e6b78893cb27fecfaa5c7c3a1776",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13809,
+   "sha256": "40978aab3478d963a25b18c530ca260ff75a11df7a2c14532048a13900de6c67",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4204509.png",
+  "bytes": 2079775,
+  "sha256": "dd95e78f38b9306acc4ee1952513cc906d9737549c21f2d76992aa6d6e7e71f2"
+ },
+ "sha1_origem": "ae181614c540118711a28de45276bada8566a40f",
+ "bytes_origem": 2079775,
+ "capturado_em": "2026-11-08T06:52:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Corupá_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:19Z",
+  "estado": "igual",
+  "sha1_commons": "ae181614c540118711a28de45276bada8566a40f"
+ }
+}

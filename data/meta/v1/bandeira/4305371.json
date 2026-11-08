@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4305371",
+ "uf": "RS",
+ "municipio": "Charrua",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bandeira_Charrua.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Charrua",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0d2f34f53308771e0054164c58ea27814cefc984dd2db31adef9f9b73a9f50b0",
+ "rendicoes": {
+  "png": {
+   "bytes": 29512,
+   "sha256": "6447d61e5ba795903f5b53e8900da25988df1106ae09023307de749688339efa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18717,
+   "sha256": "08856a54428e9703e1a8d4951ebe3bb0b17188d21575bc0b66aa62c9200e20c7",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 3388,
+   "sha256": "0d2f34f53308771e0054164c58ea27814cefc984dd2db31adef9f9b73a9f50b0"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305371.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305371.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305371.jpg"
+ },
+ "sha1_origem": "fbabcecfa64de99b787e3783f2d95cad3fb8c196",
+ "bytes_origem": 3388,
+ "capturado_em": "2026-11-08T04:50:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Charrua.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "fbabcecfa64de99b787e3783f2d95cad3fb8c196"
+ }
+}

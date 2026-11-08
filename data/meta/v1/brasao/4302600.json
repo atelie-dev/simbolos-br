@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4302600",
+ "uf": "RS",
+ "municipio": "Braga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bras%C3%A3o_do_Munic%C3%ADpio_de_Braga_-_RS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Braga",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cbd7ee4e8f6a7b6b2723f7febd69da83b83da381f81c1b72e0335ab151414e1f",
+ "rendicoes": {
+  "png": {
+   "bytes": 76933,
+   "sha256": "4ed471a8e216719261a3cabfdd2a7413a3db5c5d4ebf1db6c9fa1482a33ec14b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17454,
+   "sha256": "3bf2991a796b4ec8784475a10ef332bc4227eabbc90de5f8e785b1616adc9b12",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4302600.png",
+  "bytes": 68299,
+  "sha256": "cbd7ee4e8f6a7b6b2723f7febd69da83b83da381f81c1b72e0335ab151414e1f"
+ },
+ "sha1_origem": "bb3a0d822ac2c2e512fc38712c837caa29e19fb2",
+ "bytes_origem": 68299,
+ "capturado_em": "2026-11-08T06:59:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_Município_de_Braga_-_RS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:15Z",
+  "estado": "igual",
+  "sha1_commons": "bb3a0d822ac2c2e512fc38712c837caa29e19fb2"
+ }
+}

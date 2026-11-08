@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3548708",
+ "uf": "SP",
+ "municipio": "São Bernardo do Campo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Flag_SBC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "89b42e2e1630e95f00233e1d5a57fb157006b8c2c90bc2143495f30971909e85",
+ "rendicoes": {
+  "png": {
+   "bytes": 41463,
+   "sha256": "d4dd1f337a876f13f5b9aaa34f3697750d9b2918165579f5fce4ce3441597a22",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12024,
+   "sha256": "e788b68162898056d849e193ad612a0c19a13708cada8f084079ee5233252cb3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3548708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3548708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3548708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3548708.jpg",
+  "bytes": 12838,
+  "sha256": "89b42e2e1630e95f00233e1d5a57fb157006b8c2c90bc2143495f30971909e85"
+ },
+ "sha1_origem": "89d5c991c0fc6d56c4576c251c6426a9b7df4d0f",
+ "bytes_origem": 12838,
+ "capturado_em": "2026-11-08T06:38:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_SBC.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "89d5c991c0fc6d56c4576c251c6426a9b7df4d0f"
+ }
+}

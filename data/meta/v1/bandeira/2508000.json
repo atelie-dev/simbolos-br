@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2508000",
+ "uf": "PB",
+ "municipio": "Juru",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bandeira_Juru-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Juru",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "230892757f5026d0584ebdd4d6f0bbd18fb7b39156dd1c4bbaf7cdd53317fdfe",
+ "rendicoes": {
+  "png": {
+   "bytes": 116532,
+   "sha256": "1b6f8927514cbcac9362aa67b23c5b9da40000e7c6d02586ee8d19007849c309",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29369,
+   "sha256": "d2e4773aa49227ceea2717afea067c1f8156340862e4160622c15901fa7eb011",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2508000.jpg",
+  "bytes": 83921,
+  "sha256": "230892757f5026d0584ebdd4d6f0bbd18fb7b39156dd1c4bbaf7cdd53317fdfe"
+ },
+ "sha1_origem": "1289e54a60b6d75743a8fb2ebf5d4921ea27108d",
+ "bytes_origem": 83921,
+ "capturado_em": "2026-11-08T05:41:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Juru-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "1289e54a60b6d75743a8fb2ebf5d4921ea27108d"
+ }
+}

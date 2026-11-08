@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4119202",
+ "uf": "PR",
+ "municipio": "Pinhalão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/BAND_PINHAL%C3%83O.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6fab733a686f4b14d1dbe45210b6a719f6adfaf668b077fe79619b9ad65f3e74",
+ "rendicoes": {
+  "png": {
+   "bytes": 288773,
+   "sha256": "457163d0303270dd1d859ecf176e1aad8c434d17fda1314a344f3bd09e2f6d1c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35876,
+   "sha256": "7bbcd09bce3523a915d39dcd6c988d2d337f6e5a2b4dc5b3219802f9d1b2fbb6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4119202.jpg",
+  "bytes": 126240,
+  "sha256": "6fab733a686f4b14d1dbe45210b6a719f6adfaf668b077fe79619b9ad65f3e74"
+ },
+ "sha1_origem": "b462df9be8ce67fcd8d018fe6a143ab9265f1ba4",
+ "bytes_origem": 126240,
+ "capturado_em": "2026-11-08T06:47:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BAND_PINHALÃO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:36Z",
+  "estado": "igual",
+  "sha1_commons": "b462df9be8ce67fcd8d018fe6a143ab9265f1ba4"
+ }
+}

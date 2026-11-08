@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3555901",
+ "uf": "SP",
+ "municipio": "Uru",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bandeira_Uru.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "16ea0e8a98895384d60257617ccb60c237ca8b838115a13525bb131435b08800",
+ "rendicoes": {
+  "png": {
+   "bytes": 28839,
+   "sha256": "4497463f914bfbc87351cc760fa936c88740615f4446cb908c1e81d6bf1de1a8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11813,
+   "sha256": "21fa9fa8ab632b3024b09fbb98603f7f04664b990cd632508de37dd00580e2c3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3555901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3555901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3555901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3555901.png",
+  "bytes": 27671,
+  "sha256": "16ea0e8a98895384d60257617ccb60c237ca8b838115a13525bb131435b08800"
+ },
+ "sha1_origem": "b1dff79ff1db32dcf878e772783477980b5ab7da",
+ "bytes_origem": 27671,
+ "capturado_em": "2026-11-08T06:40:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Uru.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "b1dff79ff1db32dcf878e772783477980b5ab7da"
+ }
+}

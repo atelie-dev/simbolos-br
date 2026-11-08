@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5218003",
+ "uf": "GO",
+ "municipio": "Porangatu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bras%C3%A3o_Municipal_de_Porangatu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Porangatu",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fc49e8c6ac554a90847dfd2334d7cc982f5cf378fc91a0b013f5fbb3ce0d2fbb",
+ "rendicoes": {
+  "png": {
+   "bytes": 216327,
+   "sha256": "7e54e026513fb98ca874f3ded8e1bd209ec8f291e47d069488df611efd0b3a6f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33008,
+   "sha256": "6fae70b038faf7a4f07a78d64913d2afc2cc2a832fa870f6b203abb2706d2eb3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5218003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5218003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5218003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5218003.png",
+  "bytes": 544650,
+  "sha256": "fc49e8c6ac554a90847dfd2334d7cc982f5cf378fc91a0b013f5fbb3ce0d2fbb"
+ },
+ "sha1_origem": "bbc2327f13d4875a345bf1a5513dab7a79b9aa14",
+ "bytes_origem": 544650,
+ "capturado_em": "2026-11-08T07:20:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Municipal_de_Porangatu.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "bbc2327f13d4875a345bf1a5513dab7a79b9aa14"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5108600",
+ "uf": "MT",
+ "municipio": "Vila Rica",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Brasao_pm_vila_rica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Vila Rica MT",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0f1447032a94bf5319cedd646fe1c3229c48524aef2ae365e59189d40fc929cd",
+ "rendicoes": {
+  "png": {
+   "bytes": 13318,
+   "sha256": "ce4f8c846dd4f80bb7e2dc0e87fda23d10b181c089f71967c021f501009a16ed",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4969,
+   "sha256": "ebe977debf124db51c38f1c2cc6f5f448bdbf4fe54f69580d248e75406044b59",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5108600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5108600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5108600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5108600.jpg",
+  "bytes": 4948,
+  "sha256": "0f1447032a94bf5319cedd646fe1c3229c48524aef2ae365e59189d40fc929cd"
+ },
+ "sha1_origem": "77606e0129fc3954937b9136a7f7474197313ae9",
+ "bytes_origem": 4948,
+ "capturado_em": "2026-11-08T07:16:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_pm_vila_rica.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "77606e0129fc3954937b9136a7f7474197313ae9"
+ }
+}

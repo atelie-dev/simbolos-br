@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3540002",
+ "uf": "SP",
+ "municipio": "Pompéia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bandeira_de_Pompeia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e9e161a1d0107b0bdedc7d8c243960db740bbccccffe10a34bf1c9c52e4cf03a",
+ "rendicoes": {
+  "png": {
+   "bytes": 24474,
+   "sha256": "48a8567b201f20f0ead67a58c93178c5aeaa9e393f83fe3bf67f203690dec1d8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15507,
+   "sha256": "bef0e7b56f5cc4f2f9da0cc978ec06e9a1cdf2ea6633ce06d66c10f256f51de2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3540002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3540002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3540002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3540002.png",
+  "bytes": 22602,
+  "sha256": "e9e161a1d0107b0bdedc7d8c243960db740bbccccffe10a34bf1c9c52e4cf03a"
+ },
+ "sha1_origem": "8b18719ac1c028f76b8abdbc6e8d2d8b3274ca6c",
+ "bytes_origem": 22602,
+ "capturado_em": "2026-11-08T06:35:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pompeia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "8b18719ac1c028f76b8abdbc6e8d2d8b3274ca6c"
+ }
+}

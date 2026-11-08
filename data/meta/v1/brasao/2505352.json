@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2505352",
+ "uf": "PB",
+ "municipio": "Damião",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bras%C3%A3o_Dami%C3%A3o_%28PB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Damião",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "75e64eccf569503929a1ad3bbe5ddbc7d0affe4ae0be9b15f3eab56dcf0c5003",
+ "rendicoes": {
+  "png": {
+   "bytes": 257593,
+   "sha256": "321e5882c15e87e38444d2eb24781bccb267cdbd6c93238fed98d57c42b9cfb3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 52948,
+   "sha256": "f3e1a7c0202e602e64715ab5a1ea9548614210366874f65521acf65617a38cdd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2505352.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2505352.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2505352.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2505352.jpg",
+  "bytes": 80645,
+  "sha256": "75e64eccf569503929a1ad3bbe5ddbc7d0affe4ae0be9b15f3eab56dcf0c5003"
+ },
+ "sha1_origem": "34285248103ca65935058c18929eb0c0d45a3da6",
+ "bytes_origem": 80645,
+ "capturado_em": "2026-11-08T05:40:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Damião_(PB).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:48Z",
+  "estado": "igual",
+  "sha1_commons": "34285248103ca65935058c18929eb0c0d45a3da6"
+ }
+}

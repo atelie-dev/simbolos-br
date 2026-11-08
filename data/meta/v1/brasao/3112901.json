@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3112901",
+ "uf": "MG",
+ "municipio": "Caputira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bras%C3%A3o_de_Caputira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d9132ffea37d26e5594e038e8c9d06e278be335fb39b2df889725a49de5683f0",
+ "rendicoes": {
+  "png": {
+   "bytes": 50738,
+   "sha256": "84c0e8b953dbf4faebf18e29b071949e2173aa84b2383a4d95e24b95107cbb69",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12288,
+   "sha256": "c07adcb723d2016bc55f43fb705756926eb4083d681d09024752c1ce211a2320",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3112901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3112901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3112901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3112901.png",
+  "bytes": 40614,
+  "sha256": "d9132ffea37d26e5594e038e8c9d06e278be335fb39b2df889725a49de5683f0"
+ },
+ "sha1_origem": "609307b94bbb8782c0f5d095d067e3ebc7d504ce",
+ "bytes_origem": 40614,
+ "capturado_em": "2026-11-08T06:02:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Caputira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "609307b94bbb8782c0f5d095d067e3ebc7d504ce"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1101484",
+ "uf": "RO",
+ "municipio": "São Felipe D'Oeste",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/BANDEIRA_SAO_FELIPE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Juscelino Alves Batista",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e9abe6e209c29b259910c971c7a63fe1046a2428d4d13b1d3c45754599708dec",
+ "rendicoes": {
+  "png": {
+   "bytes": 61024,
+   "sha256": "8132c50206c6a52fc0e26d8d90e92d9fa0899ac7f41e71a4c8c0d0a46d3bb440",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23944,
+   "sha256": "a8b517631a21c1b522c8abef577b32e9c255bef6b7bcd6ac0f31312cf746155a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101484.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101484.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101484.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1101484.png",
+  "bytes": 227325,
+  "sha256": "e9abe6e209c29b259910c971c7a63fe1046a2428d4d13b1d3c45754599708dec"
+ },
+ "sha1_origem": "2ef342c11bc16806083bc9db9d5ce712246aebc1",
+ "bytes_origem": 227325,
+ "capturado_em": "2026-11-08T05:21:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BANDEIRA_SAO_FELIPE.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:36Z",
+  "estado": "igual",
+  "sha1_commons": "2ef342c11bc16806083bc9db9d5ce712246aebc1"
+ }
+}

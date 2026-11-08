@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4214805",
+ "uf": "SC",
+ "municipio": "Rio do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bras%C3%A3o_do_munic%C3%ADpio_de_Rio_do_Sul_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Rio do Sul (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ff3a49f074cf2bc59e3fa987294d95723bd2898eaea762723cb81dfc144325eb",
+ "rendicoes": {
+  "png": {
+   "bytes": 151420,
+   "sha256": "960f1f59b796f31cf316f1c76033fdcc7259ff0c5b4ba4d7c33d0f9e2baa99ca",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54984,
+   "sha256": "a403af1235c64ce25c33926680de90bc28a9704b1f4036ae64318d4ad529b46c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1177023,
+   "sha256": "ff3a49f074cf2bc59e3fa987294d95723bd2898eaea762723cb81dfc144325eb"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4214805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4214805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4214805.jpg"
+ },
+ "sha1_origem": "52cad32331e473a6455edf70a919c957d69e794f",
+ "bytes_origem": 1177023,
+ "capturado_em": "2026-11-08T04:43:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Rio_do_Sul_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "52cad32331e473a6455edf70a919c957d69e794f"
+ }
+}

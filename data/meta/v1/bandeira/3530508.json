@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3530508",
+ "uf": "SP",
+ "municipio": "Mococa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flagmococa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Mococa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "29624e3ecb4e24afb557c2ae4b70dcc521b2c0e36a95a164b4776956d1ff18ae",
+ "rendicoes": {
+  "png": {
+   "bytes": 89138,
+   "sha256": "96ac3beebe30c9699865bba5a0df3335af0dc81f49738826664be3c35d392cbe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22156,
+   "sha256": "a56c15f089b53492112d364cec1fef14e88a0209e5087f0d62089cf36d539acf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3530508.jpg",
+  "bytes": 26318,
+  "sha256": "29624e3ecb4e24afb557c2ae4b70dcc521b2c0e36a95a164b4776956d1ff18ae"
+ },
+ "sha1_origem": "3d6b2aba0f35d4078f9e39276eb67cda2a501cb2",
+ "bytes_origem": 26318,
+ "capturado_em": "2026-11-08T06:32:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flagmococa.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "3d6b2aba0f35d4078f9e39276eb67cda2a501cb2"
+ }
+}

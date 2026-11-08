@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4320859",
+ "uf": "RS",
+ "municipio": "Tabaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandeirataba%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Tadeu de Paula",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "992e85f14b48e3e4b68a6bfc57bba5f0fb5a2dc6ed154589a4b6f5976dbb8c90",
+ "rendicoes": {
+  "png": {
+   "bytes": 129041,
+   "sha256": "36765743101397cbbe1cf03bd4856721d60d1d4a81ab18b454db774894bb9671",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27966,
+   "sha256": "5b0c27465b8dbbdd3b5d6b382d73bda918636e03036a4b05568cef0aaebcde5d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320859.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320859.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320859.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4320859.jpg",
+  "bytes": 36696,
+  "sha256": "992e85f14b48e3e4b68a6bfc57bba5f0fb5a2dc6ed154589a4b6f5976dbb8c90"
+ },
+ "sha1_origem": "1ef9f0f31bf90e4c2623f25830fb343cc0442fc3",
+ "bytes_origem": 36696,
+ "capturado_em": "2026-11-08T07:10:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiratabaí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "1ef9f0f31bf90e4c2623f25830fb343cc0442fc3"
+ }
+}

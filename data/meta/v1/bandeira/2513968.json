@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2513968",
+ "uf": "PB",
+ "municipio": "São Domingos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bandeira_S%C3%A3o_Domingos.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Domingos",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d7f56dfe3673cb59c0202bf6429f835cbecb8786e8361fc0138b508926cfce2a",
+ "rendicoes": {
+  "png": {
+   "bytes": 45745,
+   "sha256": "279d1e9ae11e8a6dae71412e0ee9d3dbdd548055ed8c357052ffd657d5aa7bc1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13677,
+   "sha256": "f13bda8df0b6fc7db1a5dffd0b19d64c5ae75895ce5ecdc7f01c6895fe7557bd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513968.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513968.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513968.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2513968.png",
+  "bytes": 2016242,
+  "sha256": "d7f56dfe3673cb59c0202bf6429f835cbecb8786e8361fc0138b508926cfce2a"
+ },
+ "sha1_origem": "dc1fc7242cc62dd04899f4687f137e712c606de5",
+ "bytes_origem": 2016242,
+ "capturado_em": "2026-11-08T05:43:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_São_Domingos.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "dc1fc7242cc62dd04899f4687f137e712c606de5"
+ }
+}

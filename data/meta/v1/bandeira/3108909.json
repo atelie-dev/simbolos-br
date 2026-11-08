@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3108909",
+ "uf": "MG",
+ "municipio": "Brazópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bandeira-bras%C3%B3polis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Brasópolis City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "67a28ec56812c444e984a5cbd96007772f58a4a7a21d3b53e8b57d188a1be32b",
+ "rendicoes": {
+  "png": {
+   "bytes": 6301,
+   "sha256": "1acd86060dcf225d678c9a7174d371a6769444b15044b174ff2becfb6f32f84c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13414,
+   "sha256": "cf9d35798ed9a0a4cc4457766c5f720eadd28b25d9d5fc3da9805b334c6e5bd5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3108909.png",
+  "bytes": 3450,
+  "sha256": "67a28ec56812c444e984a5cbd96007772f58a4a7a21d3b53e8b57d188a1be32b"
+ },
+ "sha1_origem": "4a3655cf76b0707df4950fa95c502dac9695fb49",
+ "bytes_origem": 3450,
+ "capturado_em": "2026-11-08T06:01:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-brasópolis.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "4a3655cf76b0707df4950fa95c502dac9695fb49"
+ }
+}

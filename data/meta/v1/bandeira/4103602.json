@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4103602",
+ "uf": "PR",
+ "municipio": "Cambará",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/BAND_CAMBARA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b301982af2599cc8969ead8a31152b69bbd3f712b7209209fcc26ae345cd915d",
+ "rendicoes": {
+  "png": {
+   "bytes": 338782,
+   "sha256": "de2d96ce7d691cbfbeee54a0c82319bd33171fa902a629abe00d40a50ad3c19c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43151,
+   "sha256": "d0527245fb328420ab8521206878a08c32fd781739a28ceb1ec8d0d26573ba4b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4103602.jpg",
+  "bytes": 103768,
+  "sha256": "b301982af2599cc8969ead8a31152b69bbd3f712b7209209fcc26ae345cd915d"
+ },
+ "sha1_origem": "56d2803f139dbe2ca24a2fff8eca0bd060ea5883",
+ "bytes_origem": 103768,
+ "capturado_em": "2026-11-08T06:42:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BAND_CAMBARA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:36Z",
+  "estado": "igual",
+  "sha1_commons": "56d2803f139dbe2ca24a2fff8eca0bd060ea5883"
+ }
+}

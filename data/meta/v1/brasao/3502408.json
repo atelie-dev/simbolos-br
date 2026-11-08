@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3502408",
+ "uf": "SP",
+ "municipio": "Anhumas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bras%C3%A3o_de_Anhumas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Anhumas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4eec57638437a4e830f47336fc54c1e09eda6623226163b5aed158f144da18cb",
+ "rendicoes": {
+  "png": {
+   "bytes": 194146,
+   "sha256": "8a5d87b6112238ccd24289b33c1a9ddf877487520b357422a5cbd8537a2f833e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58702,
+   "sha256": "5ee6ecadd1363af860782f4ab57b998ee3875fe67f4ddad25658c32d7b8e79e4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3502408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3502408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3502408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3502408.png",
+  "bytes": 320388,
+  "sha256": "4eec57638437a4e830f47336fc54c1e09eda6623226163b5aed158f144da18cb"
+ },
+ "sha1_origem": "22ad7b3d8a15435be6294a7e3769679caa13db4b",
+ "bytes_origem": 320388,
+ "capturado_em": "2026-11-08T06:23:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Anhumas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "22ad7b3d8a15435be6294a7e3769679caa13db4b"
+ }
+}

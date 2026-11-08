@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2505600",
+ "uf": "PB",
+ "municipio": "Diamante",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bandeira_diamante.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Diamante",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "610f1ee8637c68bed72b3aedcfe210f2b22e20cd9cdc4b8505977b2f7087419f",
+ "rendicoes": {
+  "png": {
+   "bytes": 33511,
+   "sha256": "40aef9e64f6a8b3df63a71e0b9c7cbdf4d0c162bf1c0e7ce44c2b4f3907b1703",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17633,
+   "sha256": "0efeaae8b7667e3c4c328e3ef368a3600f68c220f33ab559c8af5d512e588eb7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2505600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2505600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2505600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2505600.png",
+  "bytes": 13508,
+  "sha256": "610f1ee8637c68bed72b3aedcfe210f2b22e20cd9cdc4b8505977b2f7087419f"
+ },
+ "sha1_origem": "c67695b3e0abfeb6763bc275894ccbe3c17ea036",
+ "bytes_origem": 13508,
+ "capturado_em": "2026-11-08T05:41:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_diamante.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "c67695b3e0abfeb6763bc275894ccbe3c17ea036"
+ }
+}

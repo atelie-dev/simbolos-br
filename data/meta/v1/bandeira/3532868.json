@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532868",
+ "uf": "SP",
+ "municipio": "Nova Castilho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandeira_do_Municipio_de_Nova_Castilho-SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municípal de Nova Castilho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cbf83a9e975aeb4e58025df541afe2b4e0c89cdecc483abe15c55f662ea1912e",
+ "rendicoes": {
+  "png": {
+   "bytes": 14583,
+   "sha256": "2d8fdaf8981ec89f4ca1b0f3bf8b6d1d5258e473390b9d5b2753d95290ff2d95",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5190,
+   "sha256": "7061460530345df7778a98f01243c8f2239f217207adc2defcdda13c69e176ce",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532868.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532868.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532868.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3532868.jpg",
+  "bytes": 5808,
+  "sha256": "cbf83a9e975aeb4e58025df541afe2b4e0c89cdecc483abe15c55f662ea1912e"
+ },
+ "sha1_origem": "497b581457af0709bbb4427d0f54e5d9a0e1c71c",
+ "bytes_origem": 5808,
+ "capturado_em": "2026-11-08T06:33:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_Municipio_de_Nova_Castilho-SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "497b581457af0709bbb4427d0f54e5d9a0e1c71c"
+ }
+}

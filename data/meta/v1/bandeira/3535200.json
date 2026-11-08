@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3535200",
+ "uf": "SP",
+ "municipio": "Palmeira d'Oeste",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bandeira_Palmeira_d%27Oeste.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "051b56bc0269e096478b24f277883d8364c576d8490f87994cfe08941acacf14",
+ "rendicoes": {
+  "png": {
+   "bytes": 30457,
+   "sha256": "6cd872e2fc0e4c47537c235fa1ce937c340a9834e3c3da74d0835163e511d461",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17959,
+   "sha256": "789a9a789e0ddc8bb075ae1384226e18cbd1e6109a4de8246766a175dc1995f6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3535200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3535200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3535200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3535200.png",
+  "bytes": 25584,
+  "sha256": "051b56bc0269e096478b24f277883d8364c576d8490f87994cfe08941acacf14"
+ },
+ "sha1_origem": "ab323f5a760038db8f0e583643de0059e8db8c61",
+ "bytes_origem": 25584,
+ "capturado_em": "2026-11-08T06:33:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Palmeira_d'Oeste.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "ab323f5a760038db8f0e583643de0059e8db8c61"
+ }
+}

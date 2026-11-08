@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4215059",
+ "uf": "SC",
+ "municipio": "Rio Rufino",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bandeira_de_Rio_Rufino%2C_SC.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Gui gerber",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a1c62905719a921e8be59ad5f85d82e7254ff26bc6351ce81e5bc13778c2fec0",
+ "rendicoes": {
+  "png": {
+   "bytes": 79525,
+   "sha256": "d999db6c35ef9a91aeca7a98e9a618aa6810f88f45efd054e3c912323d47f10f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26988,
+   "sha256": "6a263b0bf4ed79b4e6bd2bb0f3c821187bb35efff82b5c64572d4acb8ffe30e9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215059.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215059.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215059.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4215059.png",
+  "bytes": 1416157,
+  "sha256": "a1c62905719a921e8be59ad5f85d82e7254ff26bc6351ce81e5bc13778c2fec0"
+ },
+ "sha1_origem": "d61fb8560454bbe4fec33a1bfabb377da6538700",
+ "bytes_origem": 1416157,
+ "capturado_em": "2026-11-08T06:56:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Rio_Rufino,_SC.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "d61fb8560454bbe4fec33a1bfabb377da6538700"
+ }
+}

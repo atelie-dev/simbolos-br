@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2900306",
+ "uf": "BA",
+ "municipio": "Acajutiba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bandeira-Acajutiba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Acajutiba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6f6608b867c853433f41fe4f9e4fc9da0d4d63751af57a2f7e266372dc241918",
+ "rendicoes": {
+  "png": {
+   "bytes": 45171,
+   "sha256": "36fcd30425afb05aa7279f967cc2dc88b0dc7030bbe1d8baf528cb92947a6dd4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13809,
+   "sha256": "a41b935e2b10c01a2bd334a75c2732816989bb380afbd4a88b57725f4c92ef5c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2900306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2900306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2900306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2900306.jpg",
+  "bytes": 31087,
+  "sha256": "6f6608b867c853433f41fe4f9e4fc9da0d4d63751af57a2f7e266372dc241918"
+ },
+ "sha1_origem": "e991b9d0a0e68bc0e9b681c114854b4dc332d541",
+ "bytes_origem": 31087,
+ "capturado_em": "2026-11-08T05:50:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-Acajutiba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "e991b9d0a0e68bc0e9b681c114854b4dc332d541"
+ }
+}

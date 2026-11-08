@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2210052",
+ "uf": "PI",
+ "municipio": "São José do Divino",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bandeira_sao_jose_divino.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "pm sao jose do divino",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ca65b1df130582fe2972f7439f17e9af941ed1a6378498ed9a5eb8ac11a3c524",
+ "rendicoes": {
+  "png": {
+   "bytes": 177609,
+   "sha256": "3901b78cf9730cdf839a4eb9b48b170d216dfd7d44dcab39c212410d8a622c05",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29821,
+   "sha256": "27b5cd1b0083c9b4ffb80dc45e605269e0c35bcf6974dbd711397ca1ed04043c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210052.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210052.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210052.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2210052.jpg",
+  "bytes": 23181,
+  "sha256": "ca65b1df130582fe2972f7439f17e9af941ed1a6378498ed9a5eb8ac11a3c524"
+ },
+ "sha1_origem": "1b13afe96ee9a8155923dcebc9c890995187c67a",
+ "bytes_origem": 23181,
+ "capturado_em": "2026-11-08T05:31:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_sao_jose_divino.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "1b13afe96ee9a8155923dcebc9c890995187c67a"
+ }
+}

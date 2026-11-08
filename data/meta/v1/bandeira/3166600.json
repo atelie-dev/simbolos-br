@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3166600",
+ "uf": "MG",
+ "municipio": "Serra da Saudade",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandeira_Serra_da_Saudade_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Serra da Saudade",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fd7ae4d73beff86670cebb69e7d6941bb26269e637aa31974721122ec9ae9548",
+ "rendicoes": {
+  "png": {
+   "bytes": 59606,
+   "sha256": "023bd54df12d9ffb4b9bad2e81e03c5720d420658a9fb2a6b69ec8fdc02517ee",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18388,
+   "sha256": "b6bd59bc8fa8481c7bb8a07e1cda5ee20203f62e500d07916afdd6474fe3df5f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3166600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3166600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3166600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3166600.png",
+  "bytes": 52079,
+  "sha256": "fd7ae4d73beff86670cebb69e7d6941bb26269e637aa31974721122ec9ae9548"
+ },
+ "sha1_origem": "c8af4b467ee7484d9669ff0e7ec4628dbac227a6",
+ "bytes_origem": 52079,
+ "capturado_em": "2026-11-08T06:17:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Serra_da_Saudade_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "c8af4b467ee7484d9669ff0e7ec4628dbac227a6"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532827",
+ "uf": "SP",
+ "municipio": "Nova Campina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bandeira_Nova_Campina.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "18b40fd85531c59b156e5d703b236b2c5398a470a4f73cb2f85773d61bb55ba2",
+ "rendicoes": {
+  "png": {
+   "bytes": 22044,
+   "sha256": "d6dc1e1e90b1d01e3a1690e2140b966ed604336489534d7fc0bbe1ae2a8eeb33",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10657,
+   "sha256": "fd570311e94111f705f6ebd1bcf3f684cc0cadcbec35ea6f4f1cdcc9ad7fe21a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532827.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532827.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532827.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3532827.png",
+  "bytes": 22741,
+  "sha256": "18b40fd85531c59b156e5d703b236b2c5398a470a4f73cb2f85773d61bb55ba2"
+ },
+ "sha1_origem": "a80003f5221e6d43c4eccbd19345a766a9218231",
+ "bytes_origem": 22741,
+ "capturado_em": "2026-11-08T06:33:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Nova_Campina.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "a80003f5221e6d43c4eccbd19345a766a9218231"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4121604",
+ "uf": "PR",
+ "municipio": "Renascença",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bandeira_de_Renascen%C3%A7a%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "WFHack",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0f185ef834342f758017401d50e0113195ad2e71a2717b872b299065f1439dbf",
+ "rendicoes": {
+  "png": {
+   "bytes": 99096,
+   "sha256": "60b53ceef91e5074c5f515ade53ec3ba09457b96a50d1bc37f6361bc1ef6777c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22861,
+   "sha256": "f38ed88d1293a76962c1bb1844e094bf55ecf06d59a702405c21852ffb7b3e25",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121604.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4121604.jpg",
+  "bytes": 81868,
+  "sha256": "0f185ef834342f758017401d50e0113195ad2e71a2717b872b299065f1439dbf"
+ },
+ "sha1_origem": "6329c5f1856e5505bc17fa1cbdb0bfca047b7865",
+ "bytes_origem": 81868,
+ "capturado_em": "2026-11-08T06:48:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Renascença,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "6329c5f1856e5505bc17fa1cbdb0bfca047b7865"
+ }
+}

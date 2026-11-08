@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5006903",
+ "uf": "MS",
+ "municipio": "Porto Murtinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Band_Porto_Murtinho.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Temp1980",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7ed666ff6fafcb198861c4af361b736c7c1f09bd8ef0172a734287fdd9f0485a",
+ "rendicoes": {
+  "png": {
+   "bytes": 15113,
+   "sha256": "143551bc0c60e50d6301dc5d2599f612406ac6914a611158e7a5eec4c47bdd85",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19832,
+   "sha256": "2710336fd62592ca5a94ca8addde35e1b33b304da6007e705681dca4c944969b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5006903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5006903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5006903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5006903.png",
+  "bytes": 6770,
+  "sha256": "7ed666ff6fafcb198861c4af361b736c7c1f09bd8ef0172a734287fdd9f0485a"
+ },
+ "sha1_origem": "adfaabc0f6e6bc3480f78ce6196ec57dc10c8eb8",
+ "bytes_origem": 6770,
+ "capturado_em": "2026-11-08T07:13:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_Porto_Murtinho.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "adfaabc0f6e6bc3480f78ce6196ec57dc10c8eb8"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1501709",
+ "uf": "PA",
+ "municipio": "Bragança",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Bandeira_de_Bragan%C3%A7a_%28Par%C3%A1%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Bragança",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "dffc693441b83afac525537ecda1be18362508fd1dec50d6700b36df8b393719",
+ "rendicoes": {
+  "png": {
+   "bytes": 33265,
+   "sha256": "ead35ea46eabbb16f374aee0009e4d0529b64202b69020352dd7f678bad94fd2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17194,
+   "sha256": "c9ad8f4673d16a40b077c7f7025092eb70f8baf12f50cfecff6fa673fde8ee65",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1277,
+   "sha256": "dffc693441b83afac525537ecda1be18362508fd1dec50d6700b36df8b393719"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1501709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1501709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1501709.jpg"
+ },
+ "sha1_origem": "5ef9cebeb868d7b2eaef8b0281283b547416b2d7",
+ "bytes_origem": 1277,
+ "capturado_em": "2026-11-08T02:33:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bragança_(Pará).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "5ef9cebeb868d7b2eaef8b0281283b547416b2d7"
+ }
+}

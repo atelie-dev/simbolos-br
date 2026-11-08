@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4118808",
+ "uf": "PR",
+ "municipio": "Peabiru",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bras%C3%A2o_do_Munic%C3%ADpio_de_Peabiru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Sexugi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8df7a05f76f6ec61a504f20c32de2457f4b6dbed649fa20dda36f1a0a4e54f16",
+ "rendicoes": {
+  "png": {
+   "bytes": 245235,
+   "sha256": "80f1f96ace7a8f95006ae89f9dd46cb980f63aa991751b20b8bd42ea2568c24e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60811,
+   "sha256": "eea19a20b2a255c39cd6989aa3f90abfcce6ab0da2538c8cba9af01d09f5ae28",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4118808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4118808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4118808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4118808.jpg",
+  "bytes": 559407,
+  "sha256": "8df7a05f76f6ec61a504f20c32de2457f4b6dbed649fa20dda36f1a0a4e54f16"
+ },
+ "sha1_origem": "c5844b7fd37302229a10dfc09a01752a68c14c18",
+ "bytes_origem": 559407,
+ "capturado_em": "2026-11-08T06:47:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasâo_do_Município_de_Peabiru.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "c5844b7fd37302229a10dfc09a01752a68c14c18"
+ }
+}

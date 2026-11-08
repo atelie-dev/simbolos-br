@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2922904",
+ "uf": "BA",
+ "municipio": "Nova Soure",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bras%C3%A3o_Nova_Soure_BA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Nova Soure_BA",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "484f65459ce01ab1c2348a09c6e13813a4e1485196cd22a08585a008924ea6d6",
+ "rendicoes": {
+  "png": {
+   "bytes": 22210,
+   "sha256": "3251bd6c65183ae7a76b07579e128f4fb762594532fa4cbb03d637d291936cec",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8541,
+   "sha256": "4ec6804286b34f34b4ab480d4a2418045ccd08824ce672ac03674440fefc3964",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2922904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2922904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2922904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2922904.png",
+  "bytes": 8544,
+  "sha256": "484f65459ce01ab1c2348a09c6e13813a4e1485196cd22a08585a008924ea6d6"
+ },
+ "sha1_origem": "962be847fcf068ca369395e59cf58d07cee832bd",
+ "bytes_origem": 8544,
+ "capturado_em": "2026-11-08T05:56:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Nova_Soure_BA.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "962be847fcf068ca369395e59cf58d07cee832bd"
+ }
+}

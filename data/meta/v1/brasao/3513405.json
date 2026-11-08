@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3513405",
+ "uf": "SP",
+ "municipio": "Cruzeiro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bras%C3%A3o_de_Cruzeiro_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d1c927ffc9d70a86567dcf64d50199d0213bdea9972a55dd1b594a09472555b2",
+ "rendicoes": {
+  "png": {
+   "bytes": 120743,
+   "sha256": "b653d00138d79ef48a5801d0e37b08fcdaac03cc1a80cf5896a7d5d5f901edc0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45814,
+   "sha256": "e21e322aef20c06cdaba5649c9e4628d88fb71fa9b4c184289ac148f7e061c55",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 200364,
+   "sha256": "d1c927ffc9d70a86567dcf64d50199d0213bdea9972a55dd1b594a09472555b2"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3513405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3513405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3513405.jpg"
+ },
+ "sha1_origem": "c777480a343b2f2789ce669ff1c47c15513d5774",
+ "bytes_origem": 200364,
+ "capturado_em": "2026-11-08T04:01:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cruzeiro_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "c777480a343b2f2789ce669ff1c47c15513d5774"
+ }
+}

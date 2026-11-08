@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2611101",
+ "uf": "PE",
+ "municipio": "Petrolina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bandeira_petrolina.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Rodrigo Melo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "89562fec9546d4e41cb9bcbd485f812e9ac6dbafcc58aad15e967b3b80abd46a",
+ "rendicoes": {
+  "png": {
+   "bytes": 20175,
+   "sha256": "f9d2134a0c20ec4a1b981d4020eea1ddbdd129ba98ce2b836450580767690373",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17086,
+   "sha256": "b256b670738e8c7ddcc1fecb25463b8e1a2069b0cc216b616c42189afb5d5634",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 3290,
+   "sha256": "89562fec9546d4e41cb9bcbd485f812e9ac6dbafcc58aad15e967b3b80abd46a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2611101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2611101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2611101.jpg"
+ },
+ "sha1_origem": "9354bc450cbad68303dc1614d81c2d865e25c840",
+ "bytes_origem": 3290,
+ "capturado_em": "2026-11-08T03:07:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_petrolina.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:22Z",
+  "estado": "igual",
+  "sha1_commons": "9354bc450cbad68303dc1614d81c2d865e25c840"
+ }
+}

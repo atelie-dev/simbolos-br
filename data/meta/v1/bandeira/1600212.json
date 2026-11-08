@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1600212",
+ "uf": "AP",
+ "municipio": "Cutias",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bandeira_de_Cutias%2C_AP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cutias",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e198295efb76ea8408cb092f106ba592c72c9d5b8e46bd5dcb7153febc03af2b",
+ "rendicoes": {
+  "png": {
+   "bytes": 27178,
+   "sha256": "e80f95c09dd24b2ccc68f394082cce553468dfb62e151354668e579259ebcbd6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9320,
+   "sha256": "a63e2d239a2a3a7955af74dcceb5bf5b3aa3c240c9aea1eef66e874efab4895b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600212.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600212.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600212.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1600212.jpg",
+  "bytes": 8751,
+  "sha256": "e198295efb76ea8408cb092f106ba592c72c9d5b8e46bd5dcb7153febc03af2b"
+ },
+ "sha1_origem": "5b375a17ff42cfdd069f60fde2eb049b7e91d24f",
+ "bytes_origem": 8751,
+ "capturado_em": "2026-11-08T05:26:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cutias,_AP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "5b375a17ff42cfdd069f60fde2eb049b7e91d24f"
+ }
+}

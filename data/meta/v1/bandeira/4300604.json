@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4300604",
+ "uf": "RS",
+ "municipio": "Alvorada",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/BandeiraAlvoradaRS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Alvorada",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f7858a3ac1bfe92738ebf81baa6cb4e72f1839d7d48f2bb975ff995b08a1a33a",
+ "rendicoes": {
+  "png": {
+   "bytes": 66857,
+   "sha256": "97d1a968ebe24c10d5b808565ddb05bff3069ceef3ded22716df42eb3ae77add",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24950,
+   "sha256": "0d586730c0072f6b1c843a8b05d3bb949545385ea45aa9b9be64a42b488dbc69",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300604.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4300604.png",
+  "bytes": 586448,
+  "sha256": "f7858a3ac1bfe92738ebf81baa6cb4e72f1839d7d48f2bb975ff995b08a1a33a"
+ },
+ "sha1_origem": "94b5b1b7b010ac1f2e28ce76bc5e22c174843ea4",
+ "bytes_origem": 586448,
+ "capturado_em": "2026-11-08T06:58:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraAlvoradaRS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "94b5b1b7b010ac1f2e28ce76bc5e22c174843ea4"
+ }
+}

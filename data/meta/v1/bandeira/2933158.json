@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2933158",
+ "uf": "BA",
+ "municipio": "Várzea Nova",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bandeira_de_V%C3%A1rzea_Nova_BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de VN",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "09148b2a7195b5e7b792aefd3193d0dfa30d02214a361693f9c568c91dcc8b88",
+ "rendicoes": {
+  "png": {
+   "bytes": 86533,
+   "sha256": "3202b937e91d49b2ce8b53aa67873384c236d1a58730a74df5f2786eeb531c60",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25605,
+   "sha256": "4dd7f74108436906f2c7cfc2c6a99502af4b053a82754719e8e7192e9dd7af71",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2933158.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2933158.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2933158.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2933158.jpg",
+  "bytes": 82616,
+  "sha256": "09148b2a7195b5e7b792aefd3193d0dfa30d02214a361693f9c568c91dcc8b88"
+ },
+ "sha1_origem": "b4398193d2b25cb4b8eaf4308d85a84da7d1ed26",
+ "bytes_origem": 82616,
+ "capturado_em": "2026-11-08T05:58:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Várzea_Nova_BA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "b4398193d2b25cb4b8eaf4308d85a84da7d1ed26"
+ }
+}

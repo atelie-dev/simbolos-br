@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5106257",
+ "uf": "MT",
+ "municipio": "Nova Xavantina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bandeira_de_Nova_Xavantina.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "vectorization by Anzee",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "55156a5979b706462fb98533432893e99551ca485caec1ef6260737d6ab5bb65",
+ "rendicoes": {
+  "png": {
+   "bytes": 11941,
+   "sha256": "51182ef84de9c764b1852a5d814ded97125f84df6133853eca608885c7014586",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10809,
+   "sha256": "b4fe47dd150b9232f81a9c133b2ebd0d3dc2ad9cacfb8b3f0d8b456fdf416c36",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2722,
+   "sha256": "55156a5979b706462fb98533432893e99551ca485caec1ef6260737d6ab5bb65"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106257.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106257.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106257.jpg"
+ },
+ "sha1_origem": "2d545e68a7a8c8a40439560a247d5f4df93485e0",
+ "bytes_origem": 2722,
+ "capturado_em": "2026-11-08T05:06:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nova_Xavantina.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "2d545e68a7a8c8a40439560a247d5f4df93485e0"
+ }
+}

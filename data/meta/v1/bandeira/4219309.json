@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4219309",
+ "uf": "SC",
+ "municipio": "Videira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bandeira_videira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "(domínio público)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b042f0384d46c8299df42bc1d548628f8364f0ae6d2287c4f6ff566f27cfbee2",
+ "rendicoes": {
+  "png": {
+   "bytes": 75616,
+   "sha256": "76bed358bc38c5275d741ffbcfa2f2c8b927b6993fafbce345badbd76b094732",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24755,
+   "sha256": "1039465f1f2830db631d5f601c59b0b86ffa9f8fd550283a4032b31baea15b81",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4219309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4219309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4219309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4219309.jpg",
+  "bytes": 98123,
+  "sha256": "b042f0384d46c8299df42bc1d548628f8364f0ae6d2287c4f6ff566f27cfbee2"
+ },
+ "sha1_origem": "6a2bbdf7592c7c1153d9eca18d6eebe46543d571",
+ "bytes_origem": 98123,
+ "capturado_em": "2026-11-08T06:58:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_videira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "6a2bbdf7592c7c1153d9eca18d6eebe46543d571"
+ }
+}

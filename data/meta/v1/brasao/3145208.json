@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3145208",
+ "uf": "MG",
+ "municipio": "Nova Serrana",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bras%C3%A3oNovaSerrana.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura de Nova Serrana",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7df6faab6feeaec59d769b597fb62850eeff24b4728c68662f382993b83445d3",
+ "rendicoes": {
+  "png": {
+   "bytes": 121839,
+   "sha256": "b5c36ba66ba6f8f91971e7c8b54fbd35a0d2230d90b208015faefefb6ab76279",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40591,
+   "sha256": "eb01346d346000aca3b07313e48868f192d12bef51b93c62cbac136822e74660",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3145208.png",
+  "bytes": 349378,
+  "sha256": "7df6faab6feeaec59d769b597fb62850eeff24b4728c68662f382993b83445d3"
+ },
+ "sha1_origem": "a9f2dc471350bac9b5e0d947a7c7deaf621cf39d",
+ "bytes_origem": 349378,
+ "capturado_em": "2026-11-08T06:12:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasãoNovaSerrana.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "a9f2dc471350bac9b5e0d947a7c7deaf621cf39d"
+ }
+}

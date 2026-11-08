@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3122454",
+ "uf": "MG",
+ "municipio": "Divisópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Divis%C3%B3polismgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Divisópolis",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5aa956324ad8f6479199e8a3d6402c65fb49b048fb71792d009690d6498368ab",
+ "rendicoes": {
+  "png": {
+   "bytes": 8120,
+   "sha256": "0966855eafda21fc4aa155fe67fa563eddb219a0ac5fb16f4be50de06fb9bc13",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8365,
+   "sha256": "3ce2fba7a9c3c0176aa7b89302f6ed0a691c94868f58fdbac3d12fefec66771a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3122454.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3122454.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3122454.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3122454.png",
+  "bytes": 6619,
+  "sha256": "5aa956324ad8f6479199e8a3d6402c65fb49b048fb71792d009690d6498368ab"
+ },
+ "sha1_origem": "fd155b20f08edde1e1e687fbd58643ae88772919",
+ "bytes_origem": 6619,
+ "capturado_em": "2026-11-08T06:06:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Divisópolismgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "fd155b20f08edde1e1e687fbd58643ae88772919"
+ }
+}

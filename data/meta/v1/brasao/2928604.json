@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2928604",
+ "uf": "BA",
+ "municipio": "Santo Amaro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bras%C3%A3o_de_Santo_Amaro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "39daeed36f576779bd6b2e9e5d781936bad10f6faf9e5cf953d8bf03963b10e7",
+ "rendicoes": {
+  "png": {
+   "bytes": 287012,
+   "sha256": "9a969a389c96a762db0200eef1bc3ff105b5334c46bb6a8a1135a78865c656ec",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56234,
+   "sha256": "ae24676fd1dd51ba76e1d7dd9e92ccba277733eedd7b9c966841b5aff06874eb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2928604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2928604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2928604.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2928604.jpg",
+  "bytes": 52984,
+  "sha256": "39daeed36f576779bd6b2e9e5d781936bad10f6faf9e5cf953d8bf03963b10e7"
+ },
+ "sha1_origem": "e57f385714a60682631b24dd5d9b243f7da62c42",
+ "bytes_origem": 52984,
+ "capturado_em": "2026-11-08T05:57:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Santo_Amaro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "e57f385714a60682631b24dd5d9b243f7da62c42"
+ }
+}

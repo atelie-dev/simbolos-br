@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4121802",
+ "uf": "PR",
+ "municipio": "Ribeirão Claro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bandeira_de_Ribeir%C3%A3o_Claro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d88d8e7b19190063aa9b5ed1f721511c5170fdbce8d742c6da3cae7f6bac51aa",
+ "rendicoes": {
+  "png": {
+   "bytes": 43233,
+   "sha256": "401c94f6a90b14788c543b7aa6921cc8d44df31d414e5f9769ee623bf244faf5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16450,
+   "sha256": "f86d740f0504d50cf6fa4a82dfee8578dd1e1044fe304abb2631af3095422163",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121802.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4121802.png",
+  "bytes": 195915,
+  "sha256": "d88d8e7b19190063aa9b5ed1f721511c5170fdbce8d742c6da3cae7f6bac51aa"
+ },
+ "sha1_origem": "acfb0dd4824e6268eea8e0fd0695a27723d0553d",
+ "bytes_origem": 195915,
+ "capturado_em": "2026-11-08T06:48:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ribeirão_Claro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "acfb0dd4824e6268eea8e0fd0695a27723d0553d"
+ }
+}

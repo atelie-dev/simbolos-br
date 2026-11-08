@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2907509",
+ "uf": "BA",
+ "municipio": "Catu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bandeira_de_Catu_-_BA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "97bb43f1ce356997f98ae850c62572ae5a7de433a7eb0bdc0ad10f14a5c2d3c8",
+ "rendicoes": {
+  "png": {
+   "bytes": 36199,
+   "sha256": "40ad5d0db48f13faef560ac7414157e825cb3a1596572ca0a986fe06bdcb2a18",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22787,
+   "sha256": "c204f3e3c62a597996e7e4752773e394150b36b205fd27260b7857f73a0a93e3",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 15425,
+   "sha256": "97bb43f1ce356997f98ae850c62572ae5a7de433a7eb0bdc0ad10f14a5c2d3c8"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2907509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2907509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2907509.jpg"
+ },
+ "sha1_origem": "da3920a8cfc8324fcf44252bd3c2b3ad3a5dc613",
+ "bytes_origem": 15425,
+ "capturado_em": "2026-11-08T03:16:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Catu_-_BA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "da3920a8cfc8324fcf44252bd3c2b3ad3a5dc613"
+ }
+}

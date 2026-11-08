@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3530003",
+ "uf": "SP",
+ "municipio": "Mira Estrela",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Mira_Estrela_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "City Hall of Mira Estrela",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "db487d4c9df0301f81195220b80dbb5a51f694046a2c57564158a8e8ed013387",
+ "rendicoes": {
+  "png": {
+   "bytes": 85114,
+   "sha256": "d0b0e6b8c7197766b5e698bf89e6588116ed808fd2c7e2bc263220930e9856ae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22767,
+   "sha256": "02fe7ce70fc3b4637c5ea155947d69da0a5eb321ea13ccbe1ffea3dd17eab9e8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3530003.png",
+  "bytes": 77258,
+  "sha256": "db487d4c9df0301f81195220b80dbb5a51f694046a2c57564158a8e8ed013387"
+ },
+ "sha1_origem": "49834956993915f8f1248de8d338df4e5e561532",
+ "bytes_origem": 77258,
+ "capturado_em": "2026-11-08T06:32:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Mira_Estrela_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "49834956993915f8f1248de8d338df4e5e561532"
+ }
+}

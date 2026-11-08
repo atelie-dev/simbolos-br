@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1502202",
+ "uf": "PA",
+ "municipio": "Capanema",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bras%C3%A3o_de_Capanema%2C_PA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Capanema",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "43c6aeac28b5fffbe77afbed78eee34677ad41d8ebf1d2de7b67cceecb2a1c5c",
+ "rendicoes": {
+  "png": {
+   "bytes": 170207,
+   "sha256": "7f6b703df32d9f7cba5652e24ddd31f5439723930df0581cb54de447e2f874b7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30283,
+   "sha256": "8e2d9c2d0d6b5137cf1b881c37ae74672477501105e81a7edf84f6d5d74885dc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1502202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1502202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1502202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1502202.jpg",
+  "bytes": 84309,
+  "sha256": "43c6aeac28b5fffbe77afbed78eee34677ad41d8ebf1d2de7b67cceecb2a1c5c"
+ },
+ "sha1_origem": "1552db1d649ba760d5616b6039d1255158a790e9",
+ "bytes_origem": 84309,
+ "capturado_em": "2026-11-08T05:24:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Capanema,_PA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "1552db1d649ba760d5616b6039d1255158a790e9"
+ }
+}

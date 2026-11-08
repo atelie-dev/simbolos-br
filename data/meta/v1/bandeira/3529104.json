@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3529104",
+ "uf": "SP",
+ "municipio": "Marinópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira_Marin%C3%B3polis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "eb8ad06b49cb8a3cd269e51dfb04ae14c2562c0b9b39c8a8b441d885ae8d9aed",
+ "rendicoes": {
+  "png": {
+   "bytes": 20186,
+   "sha256": "d0316404c174a58515ac97a11e997ab12f1cb34bf603a51854d86236222afb3e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12583,
+   "sha256": "abe414e3c3388258807e9ce144e06f733e8c4c5160a9f9df6fc149610ca52894",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3529104.png",
+  "bytes": 17857,
+  "sha256": "eb8ad06b49cb8a3cd269e51dfb04ae14c2562c0b9b39c8a8b441d885ae8d9aed"
+ },
+ "sha1_origem": "2a83dab884aa7b48862f33882ac1dc024d5abd7c",
+ "bytes_origem": 17857,
+ "capturado_em": "2026-11-08T06:31:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Marinópolis.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "2a83dab884aa7b48862f33882ac1dc024d5abd7c"
+ }
+}

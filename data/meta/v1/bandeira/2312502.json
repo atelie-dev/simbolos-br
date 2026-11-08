@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2312502",
+ "uf": "CE",
+ "municipio": "São João do Jaguaribe",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/SJJbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Gerlaniomuniz",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fc5bd3652ba97718008e9af078ccf665338a9711c207986441c82a75089e6aaa",
+ "rendicoes": {
+  "png": {
+   "bytes": 269313,
+   "sha256": "db5b036c70d960ece60f419070efa60adcff2e582809deb9ab105b6136b77806",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43204,
+   "sha256": "2410802062298e7b498e9da1e560446244ed08f1c6b06818f76f5af3451ff2f5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2312502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2312502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2312502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2312502.jpg",
+  "bytes": 41908,
+  "sha256": "fc5bd3652ba97718008e9af078ccf665338a9711c207986441c82a75089e6aaa"
+ },
+ "sha1_origem": "60280a2073476dd5b3a8acccf3ebfd9dbe6561a3",
+ "bytes_origem": 41908,
+ "capturado_em": "2026-11-08T05:35:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:SJJbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:36Z",
+  "estado": "igual",
+  "sha1_commons": "60280a2073476dd5b3a8acccf3ebfd9dbe6561a3"
+ }
+}

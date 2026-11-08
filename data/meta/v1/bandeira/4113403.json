@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4113403",
+ "uf": "PR",
+ "municipio": "Leópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bandeira_Le%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Leópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0c1e2a3d6bf1af0bed4b51a99473722119d98129870e9233add8ed7b6e8f10a5",
+ "rendicoes": {
+  "png": {
+   "bytes": 49260,
+   "sha256": "734b7bba71f9ad16b9d29dcd43dd358abad6c3bc7d78f83e7c42739865f6f6de",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15352,
+   "sha256": "fd78e49dfe7685a7632d91765e8e51c15d81c992f54c608bfd3a03d88acf39df",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4113403.jpg",
+  "bytes": 34841,
+  "sha256": "0c1e2a3d6bf1af0bed4b51a99473722119d98129870e9233add8ed7b6e8f10a5"
+ },
+ "sha1_origem": "523853db1f069247db28bbe83cf66279e4fb841f",
+ "bytes_origem": 34841,
+ "capturado_em": "2026-11-08T06:45:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Leópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "523853db1f069247db28bbe83cf66279e4fb841f"
+ }
+}

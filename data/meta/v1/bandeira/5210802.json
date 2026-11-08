@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5210802",
+ "uf": "GO",
+ "municipio": "Itajá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeiraitajago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Leogrigna",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "34c18aa608f52bebcd88806b3d4146ad259518b0b7b740a85626231d7187c6e9",
+ "rendicoes": {
+  "png": {
+   "bytes": 36772,
+   "sha256": "59223b834ce7697dd1028b46cd4d5725984de7b8e1ff70e3903f934f632efdb5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9228,
+   "sha256": "9216f284c23d44d1fa9a4493c9ee5260000a9da3b071d2388aae52e5b1aca4b7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210802.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5210802.jpg",
+  "bytes": 5373,
+  "sha256": "34c18aa608f52bebcd88806b3d4146ad259518b0b7b740a85626231d7187c6e9"
+ },
+ "sha1_origem": "0e519e264a15825f864ecfcdd4dc4b1ce1b036a9",
+ "bytes_origem": 5373,
+ "capturado_em": "2026-11-08T07:18:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraitajago.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "0e519e264a15825f864ecfcdd4dc4b1ce1b036a9"
+ }
+}

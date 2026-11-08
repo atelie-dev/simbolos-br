@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3549300",
+ "uf": "SP",
+ "municipio": "São João do Pau d'Alho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Brasao-paudalho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de São João do Pau-d'Alho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8847f913406e5db692d76fd4c3d3400869b948e9b0ab164fdf7559b272b13552",
+ "rendicoes": {
+  "png": {
+   "bytes": 195455,
+   "sha256": "40a86157445ff6a1e4a82bb207ddc514075ed1d87a4979dc749bb38a82a54f0e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38717,
+   "sha256": "3bfb11462e1754c51d7116367b973f4c5ffc7d8b8b563b7fe1efc5341ad98afe",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3549300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3549300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3549300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3549300.jpg",
+  "bytes": 35966,
+  "sha256": "8847f913406e5db692d76fd4c3d3400869b948e9b0ab164fdf7559b272b13552"
+ },
+ "sha1_origem": "d8a2c079d4e1f4f493e6791fc9692dcc74b76a42",
+ "bytes_origem": 35966,
+ "capturado_em": "2026-11-08T06:38:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-paudalho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "d8a2c079d4e1f4f493e6791fc9692dcc74b76a42"
+ }
+}

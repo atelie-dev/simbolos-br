@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4217402",
+ "uf": "SC",
+ "municipio": "Schroeder",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Schroeder_bandeira_oficial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Schroeder",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ba1b1533bea7cc875e12c58155a0b253ce38ea42a3173395b187dba7cb3e8d58",
+ "rendicoes": {
+  "png": {
+   "bytes": 98348,
+   "sha256": "8e885d735438ed88278ade72dbbcbde9ca2decbc6d28d8a86172e0b20ced738e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25096,
+   "sha256": "5d5bbc3fc417651c9022d3c10c2cca483aeb055d3d2b1af04fdd06ab87758545",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4217402.jpg",
+  "bytes": 42662,
+  "sha256": "ba1b1533bea7cc875e12c58155a0b253ce38ea42a3173395b187dba7cb3e8d58"
+ },
+ "sha1_origem": "c63f5d980e0b16f73bb9872a22d35c9543992056",
+ "bytes_origem": 42662,
+ "capturado_em": "2026-11-08T06:57:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Schroeder_bandeira_oficial.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:36Z",
+  "estado": "igual",
+  "sha1_commons": "c63f5d980e0b16f73bb9872a22d35c9543992056"
+ }
+}

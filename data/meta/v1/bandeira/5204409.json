@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5204409",
+ "uf": "GO",
+ "municipio": "Caiapônia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bandeira_de_Caiap%C3%B4nia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Caiapônia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "df6eebefe15f9f6d841816e70ef340321ba85e8acda75c9aeb03814e720e56f5",
+ "rendicoes": {
+  "png": {
+   "bytes": 17894,
+   "sha256": "76aee8f8956712f8f3561a1e49eef253c22c7b7839fde7d6aa2943e1d37cc09e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7726,
+   "sha256": "745c5d9b095707204b0988d462a45d59a06787d815b09f9dbc2af1d88c04f085",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204409.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5204409.jpg",
+  "bytes": 5597,
+  "sha256": "df6eebefe15f9f6d841816e70ef340321ba85e8acda75c9aeb03814e720e56f5"
+ },
+ "sha1_origem": "7c243d8e3d7a14322dac39ff55d6b47131479c08",
+ "bytes_origem": 5597,
+ "capturado_em": "2026-11-08T07:17:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Caiapônia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "7c243d8e3d7a14322dac39ff55d6b47131479c08"
+ }
+}

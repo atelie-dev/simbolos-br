@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5107958",
+ "uf": "MT",
+ "municipio": "Tangará da Serra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bandeira_de_Tangar%C3%A1_da_Serra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e7e0345e2018437d9746e5b3d32d4e638ab78442baee132b1f4054682df4c329",
+ "rendicoes": {
+  "png": {
+   "bytes": 32878,
+   "sha256": "0c2d2d5804c52e8e983b71049917c6c3efc97ab77072d1ed005c19d5b21f0b1b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11828,
+   "sha256": "d6744431b8d27ebf984e252d42e697274e1a507bd6c3cddd9a0a81d56a64c8f5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107958.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107958.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107958.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5107958.jpg",
+  "bytes": 7069,
+  "sha256": "e7e0345e2018437d9746e5b3d32d4e638ab78442baee132b1f4054682df4c329"
+ },
+ "sha1_origem": "538b49277be77e06f8af793194d5b2f4bab3b581",
+ "bytes_origem": 7069,
+ "capturado_em": "2026-11-08T07:16:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Tangará_da_Serra.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "538b49277be77e06f8af793194d5b2f4bab3b581"
+ }
+}

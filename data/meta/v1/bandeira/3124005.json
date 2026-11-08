@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3124005",
+ "uf": "MG",
+ "municipio": "Ervália",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Erv%C3%A1liamgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ervália",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "65b96916f1c9d1f69227f9eabce5f7542dd2e72e465cbff65bfcf2dd48832834",
+ "rendicoes": {
+  "png": {
+   "bytes": 26307,
+   "sha256": "9298df3f300bcb3121520225c7249f432c01b01051833f5d8c3bd96fc45e5da6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9397,
+   "sha256": "cac4bcb703529e1202a13e1c5a01a35b871a7c5a3a9477f91d9d1dfe5e29730d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3124005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3124005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3124005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3124005.jpg",
+  "bytes": 9077,
+  "sha256": "65b96916f1c9d1f69227f9eabce5f7542dd2e72e465cbff65bfcf2dd48832834"
+ },
+ "sha1_origem": "3ec32b902dd1727b49560856bc4ead0daf0d212a",
+ "bytes_origem": 9077,
+ "capturado_em": "2026-11-08T06:06:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Erváliamgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "3ec32b902dd1727b49560856bc4ead0daf0d212a"
+ }
+}

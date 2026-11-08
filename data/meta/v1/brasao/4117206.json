@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4117206",
+ "uf": "PR",
+ "municipio": "Nova Olímpia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bras%C3%A3o_Nova_Olimpia_Pr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Alberto Pitol",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cf10c553b3c026a8615897570ad109430cc6bf69165d5db51291fa00ebad3ef2",
+ "rendicoes": {
+  "png": {
+   "bytes": 93142,
+   "sha256": "87ddb4594ca7eb9ab072eaa242d26cdce5dd5086a8743679f9ad5ec551db78ef",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22263,
+   "sha256": "5ff6d992c5838631d87cb4bc5d257089fa836e91e9049e7fa9b18d6a86ecec3f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4117206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4117206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4117206.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4117206.jpg",
+  "bytes": 23043,
+  "sha256": "cf10c553b3c026a8615897570ad109430cc6bf69165d5db51291fa00ebad3ef2"
+ },
+ "sha1_origem": "4de63eec562d1d2089cb2cc0e71f47d4be89da68",
+ "bytes_origem": 23043,
+ "capturado_em": "2026-11-08T06:47:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Nova_Olimpia_Pr.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "4de63eec562d1d2089cb2cc0e71f47d4be89da68"
+ }
+}

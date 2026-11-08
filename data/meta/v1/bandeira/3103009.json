@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3103009",
+ "uf": "MG",
+ "municipio": "Antônio Dias",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bandeira-antoniodias-mg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMAD",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2459a2b4524f1a892c57df57f830c2d833ff9c653a63305ba144be4f88420b3f",
+ "rendicoes": {
+  "png": {
+   "bytes": 62740,
+   "sha256": "d439b085c3dd75dea0f18d8fdf52dfb73dbeb1d4aaafd973d8afa87149d75558",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12375,
+   "sha256": "01d416ff678b5f54e7aac72fd17f814d7fdb46fd493aa7230ecdd94bf91014fe",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3103009.jpg",
+  "bytes": 19810,
+  "sha256": "2459a2b4524f1a892c57df57f830c2d833ff9c653a63305ba144be4f88420b3f"
+ },
+ "sha1_origem": "1c67174521a3941300e23cf28be62d38e3b7d7ad",
+ "bytes_origem": 19810,
+ "capturado_em": "2026-11-08T05:59:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-antoniodias-mg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "1c67174521a3941300e23cf28be62d38e3b7d7ad"
+ }
+}

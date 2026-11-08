@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4301925",
+ "uf": "RS",
+ "municipio": "Barra do Rio Azul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bras%C3%A3o_Barra_do_Rio_Azul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Barra do Rio Azul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8fe2377919a613388bb073b72dc4f47e0cc82fbc5910774f73f4a5f5878e07c6",
+ "rendicoes": {
+  "png": {
+   "bytes": 12667,
+   "sha256": "d0fcb77ba13c85b6d94bdf1f427da9c2aa67a43ac7019737d54be924aad18d72",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4201,
+   "sha256": "8049945e0334489c76a8f466f549f9f1dbc5417af8231d00d9d100bde6ec7160",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4301925.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4301925.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4301925.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4301925.jpg",
+  "bytes": 2333,
+  "sha256": "8fe2377919a613388bb073b72dc4f47e0cc82fbc5910774f73f4a5f5878e07c6"
+ },
+ "sha1_origem": "189302a0debed06e6737b1ac488a808daf836772",
+ "bytes_origem": 2333,
+ "capturado_em": "2026-11-08T06:59:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Barra_do_Rio_Azul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "189302a0debed06e6737b1ac488a808daf836772"
+ }
+}

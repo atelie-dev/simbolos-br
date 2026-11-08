@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3554508",
+ "uf": "SP",
+ "municipio": "Tietê",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bras%C3%A3o_de_Tiete.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2384f533ed5f147b3600368c0eb95f5959380f7c3bcafcaf842c2e64e20db758",
+ "rendicoes": {
+  "png": {
+   "bytes": 446595,
+   "sha256": "58b7015e70ceefc81ef16709877f1acdb06afabae94b78ec4a63d03767e7805f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 79552,
+   "sha256": "880f79e764f64cc6b92fc0132208314fa1195220349fe083fe336f54ba33b05e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3554508.jpg",
+  "bytes": 473653,
+  "sha256": "2384f533ed5f147b3600368c0eb95f5959380f7c3bcafcaf842c2e64e20db758"
+ },
+ "sha1_origem": "93228180cbd04dfd9d464fabf2bd7fe30e6c7195",
+ "bytes_origem": 473653,
+ "capturado_em": "2026-11-08T06:39:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Tiete.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "93228180cbd04dfd9d464fabf2bd7fe30e6c7195"
+ }
+}

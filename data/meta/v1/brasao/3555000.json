@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3555000",
+ "uf": "SP",
+ "municipio": "Tupã",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/BrasaoTupa.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9cf0c4e1197e90a2e9bc7a794601782ace6d764b884d782c74fd972e16ca92cf",
+ "rendicoes": {
+  "png": {
+   "bytes": 155909,
+   "sha256": "330dc3292031f05e6db62ca5ac2fb3298c546e580fbdc8f6cfbd68ab32b2508e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45245,
+   "sha256": "669617c3a25a345f6b00640e59c7fd22c323fadf86b85f7abf437f4f81e5a111",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 379705,
+   "sha256": "9cf0c4e1197e90a2e9bc7a794601782ace6d764b884d782c74fd972e16ca92cf"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3555000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3555000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3555000.jpg"
+ },
+ "sha1_origem": "b65599e94a7c428f0b3a56dd9f9a57bd28cb6cd3",
+ "bytes_origem": 379705,
+ "capturado_em": "2026-11-08T04:19:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoTupa.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "b65599e94a7c428f0b3a56dd9f9a57bd28cb6cd3"
+ }
+}

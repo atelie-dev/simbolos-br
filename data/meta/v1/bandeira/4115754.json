@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4115754",
+ "uf": "PR",
+ "municipio": "Mauá da Serra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Band_Maua_da_Serra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "04be95c61666b6197a9d7876097e943c65d91447d26299b1137fc4225c62f1eb",
+ "rendicoes": {
+  "png": {
+   "bytes": 278157,
+   "sha256": "0434883a65686dc10a6d17d8cff22ca43355c0476c3a080e64041e7ab520aced",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40451,
+   "sha256": "782967ecc5816980213fcc23c5c074a1f345bea9d04acba35e391487eab5e1a3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115754.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115754.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115754.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4115754.jpg",
+  "bytes": 171821,
+  "sha256": "04be95c61666b6197a9d7876097e943c65d91447d26299b1137fc4225c62f1eb"
+ },
+ "sha1_origem": "d56030ca42fa92523a74e63219be2a97944ae768",
+ "bytes_origem": 171821,
+ "capturado_em": "2026-11-08T06:46:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_Maua_da_Serra.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "d56030ca42fa92523a74e63219be2a97944ae768"
+ }
+}

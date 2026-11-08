@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3143450",
+ "uf": "MG",
+ "municipio": "Montezuma",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Brasaomontezuma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Montezuma",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bb48946eb65ae3524ac42866f9f21b8734ea337887d774a82e78f1dc1ed7ae7f",
+ "rendicoes": {
+  "png": {
+   "bytes": 272422,
+   "sha256": "e98b17b59a2188bf4f32f17a09c495ceeaaa50d1a237b655e9e149609c1e6582",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48926,
+   "sha256": "49ced28b9c83d37518c5b24d22371d4ca30490b603c14e86d8902d885a3fece0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3143450.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3143450.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3143450.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3143450.jpg",
+  "bytes": 52860,
+  "sha256": "bb48946eb65ae3524ac42866f9f21b8734ea337887d774a82e78f1dc1ed7ae7f"
+ },
+ "sha1_origem": "6f58832b2a853ce8d183290da83c8b1a1a36fba6",
+ "bytes_origem": 52860,
+ "capturado_em": "2026-11-08T06:11:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaomontezuma.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "6f58832b2a853ce8d183290da83c8b1a1a36fba6"
+ }
+}

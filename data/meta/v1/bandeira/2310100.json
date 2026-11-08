@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2310100",
+ "uf": "CE",
+ "municipio": "Palmácia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandeira_Palm%C3%A1cia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Palmacia",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3b2e26e31ee49c591d5a7d0dbb294337b5ba4668ce446c1fd78e35aed5a4a1a9",
+ "rendicoes": {
+  "png": {
+   "bytes": 22039,
+   "sha256": "b9163722f3c602df4f43f5ac75dc87a34681cefa0da960b2d2988df4ffb537b3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12721,
+   "sha256": "e7cc6ccb1a780f782b31882537efec54ce2b768b1a244c7d0cd7ac8e1b5b514a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2889,
+   "sha256": "3b2e26e31ee49c591d5a7d0dbb294337b5ba4668ce446c1fd78e35aed5a4a1a9"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2310100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2310100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2310100.jpg"
+ },
+ "sha1_origem": "6ec3e36f3ef10b1dc889fec6a90971fbbd2a2daa",
+ "bytes_origem": 2889,
+ "capturado_em": "2026-11-08T02:48:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Palmácia.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "6ec3e36f3ef10b1dc889fec6a90971fbbd2a2daa"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3542800",
+ "uf": "SP",
+ "municipio": "Ribeira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bras%C3%A3oRibeir%C3%A3oGrandeSP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ribeirão Grande",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "336824fa46dfe761366e32917bb182be6c6b93699027f13580b710f89ca164a9",
+ "rendicoes": {
+  "png": {
+   "bytes": 253312,
+   "sha256": "ebed785e8a2689e367cee727480bfac7e740174ab2221b9751d999c1b971e8e4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49093,
+   "sha256": "1003e67227213006b448a72f747ac33de5c77bb4f3de1d9abd3482e31bfcc61b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3542800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3542800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3542800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3542800.png",
+  "bytes": 276921,
+  "sha256": "336824fa46dfe761366e32917bb182be6c6b93699027f13580b710f89ca164a9"
+ },
+ "sha1_origem": "86e553e8abc89c79f937d019c52fa64518fd7ee6",
+ "bytes_origem": 276921,
+ "capturado_em": "2026-11-08T06:36:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasãoRibeirãoGrandeSP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "86e553e8abc89c79f937d019c52fa64518fd7ee6"
+ }
+}

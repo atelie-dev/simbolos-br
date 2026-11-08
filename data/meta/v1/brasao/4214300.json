@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4214300",
+ "uf": "SC",
+ "municipio": "Rancho Queimado",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Brasao_RanchoQueimado_SantaCatarina_Brasil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Rancho Queimado",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "329d032d9a701712f8ae9ebebbb9c5a2ffeac7c6ada97868c4cc9a297f2e7ad0",
+ "rendicoes": {
+  "png": {
+   "bytes": 20960,
+   "sha256": "abde66e7b110becd8a0179b721d335fc77735fcb757d2aec9d10762c6190a155",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10019,
+   "sha256": "01e4b08c9ea9e6999a2e445c9e6955660a75fb4a296e897c5179e94d6449ac4d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4214300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4214300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4214300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4214300.png",
+  "bytes": 8683,
+  "sha256": "329d032d9a701712f8ae9ebebbb9c5a2ffeac7c6ada97868c4cc9a297f2e7ad0"
+ },
+ "sha1_origem": "96fdbc641bee04c38718f0f304a8cd138c4eccde",
+ "bytes_origem": 8683,
+ "capturado_em": "2026-11-08T06:56:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_RanchoQueimado_SantaCatarina_Brasil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "96fdbc641bee04c38718f0f304a8cd138c4eccde"
+ }
+}

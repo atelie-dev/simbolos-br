@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4216255",
+ "uf": "SC",
+ "municipio": "São João do Oeste",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bandeira_de_S%C3%A3o_Jo%C3%A3o_do_Oeste_-_SC.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d895672aadf9670cbd0c265c17d7ae796d52d3d298d05dfb8cf15213d581791d",
+ "rendicoes": {
+  "png": {
+   "bytes": 86819,
+   "sha256": "4898f515ff5a3373da783ade645910104357a097cd7c4b30dea1dc0baf943d82",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29893,
+   "sha256": "f9b601f1450e505e924dc5ef32d5bf2730582ba2835db360b59a7a6e4883a766",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 857186,
+   "sha256": "d895672aadf9670cbd0c265c17d7ae796d52d3d298d05dfb8cf15213d581791d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216255.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216255.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216255.jpg"
+ },
+ "sha1_origem": "921bcd1a2eba72178a999c7a4b119197ec0216b4",
+ "bytes_origem": 857186,
+ "capturado_em": "2026-11-08T04:44:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_João_do_Oeste_-_SC.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "921bcd1a2eba72178a999c7a4b119197ec0216b4"
+ }
+}

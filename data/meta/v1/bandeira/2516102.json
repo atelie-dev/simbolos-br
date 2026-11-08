@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2516102",
+ "uf": "PB",
+ "municipio": "Soledade",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bandeira_de_Soledade-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "97eb88791aecd6de6b25cb4dad4acb5cb354c0e0c6fe3cc2626935cc6f927c1e",
+ "rendicoes": {
+  "png": {
+   "bytes": 20354,
+   "sha256": "2fbbef48b2ef18a43dc9eafd08356cb24c3886fe92a5e0f26d6998fbe8152e2e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14174,
+   "sha256": "a10684f5e72857c69559884417f222bbbebf738905e9499c5bdff5b6167cab2f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 18079,
+   "sha256": "97eb88791aecd6de6b25cb4dad4acb5cb354c0e0c6fe3cc2626935cc6f927c1e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516102.jpg"
+ },
+ "sha1_origem": "627eb7e5acd3e7a828c24c8705d11083f7d37b15",
+ "bytes_origem": 18079,
+ "capturado_em": "2026-11-08T03:02:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Soledade-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "627eb7e5acd3e7a828c24c8705d11083f7d37b15"
+ }
+}

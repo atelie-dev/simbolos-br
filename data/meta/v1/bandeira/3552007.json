@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3552007",
+ "uf": "SP",
+ "municipio": "Silveiras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Silveiras_bandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3e91fc75ef3240e32c3f4e78c15bea55f9aee9bb719912fd384a60bbb8fe4f83",
+ "rendicoes": {
+  "png": {
+   "bytes": 15886,
+   "sha256": "7d9ad4c7f213f78e7536a88b23408579c34d5568f86686e51738ae6b0ae40d1a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9777,
+   "sha256": "229e484a4bff081a04662a6ace3cd076d4bbeb21cdb382a0d608f2977329f80a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3552007.png",
+  "bytes": 4778,
+  "sha256": "3e91fc75ef3240e32c3f4e78c15bea55f9aee9bb719912fd384a60bbb8fe4f83"
+ },
+ "sha1_origem": "33725ff1e076eb8c657faec34cc026859cd8b6f2",
+ "bytes_origem": 4778,
+ "capturado_em": "2026-11-08T06:38:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Silveiras_bandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:37Z",
+  "estado": "igual",
+  "sha1_commons": "33725ff1e076eb8c657faec34cc026859cd8b6f2"
+ }
+}

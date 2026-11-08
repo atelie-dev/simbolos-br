@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4302451",
+ "uf": "RS",
+ "municipio": "Boqueirão do Leão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Bandeira_Boqueir%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7b742e03b09bb3e0d6b6d97aab7b980a69fffbabff1a030148789ec4d8832572",
+ "rendicoes": {
+  "png": {
+   "bytes": 50713,
+   "sha256": "65d28f9aac73e8e3c3348f9bb06c3b9bba7a09545e3a56d3eaa530938e6f0a88",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18555,
+   "sha256": "11221dc5a21aa11e9b3be3c27933395370783b9c6499346095ebf5d98b02ad99",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302451.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302451.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302451.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4302451.jpg",
+  "bytes": 235488,
+  "sha256": "7b742e03b09bb3e0d6b6d97aab7b980a69fffbabff1a030148789ec4d8832572"
+ },
+ "sha1_origem": "a6dd819a5b9c3acde850833e94d376c055dac655",
+ "bytes_origem": 235488,
+ "capturado_em": "2026-11-08T06:59:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Boqueirão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "a6dd819a5b9c3acde850833e94d376c055dac655"
+ }
+}

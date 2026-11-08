@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3302858",
+ "uf": "RJ",
+ "municipio": "Mesquita",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bras%C3%A3o_de_Mesquita_%28Rio_de_Janeiro%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Giro720",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d9c9c7ed20565e9fa1162bccbff5c68a3a878546b3b3f4ca11926a83dce19682",
+ "rendicoes": {
+  "png": {
+   "bytes": 202907,
+   "sha256": "7baa0f30951242af1950e5606c586213b1505cf52fee692d59586fd1ebeca302",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58445,
+   "sha256": "79e7b0159251d690d1c580d5f4425f56b725e45f286ed0766351c4f0f093ffc9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 127840,
+   "sha256": "d9c9c7ed20565e9fa1162bccbff5c68a3a878546b3b3f4ca11926a83dce19682"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302858.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302858.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302858.jpg"
+ },
+ "sha1_origem": "870d551b116168953c3c8aab4db413a2787ae17d",
+ "bytes_origem": 127840,
+ "capturado_em": "2026-11-08T03:54:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Mesquita_(Rio_de_Janeiro).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "870d551b116168953c3c8aab4db413a2787ae17d"
+ }
+}

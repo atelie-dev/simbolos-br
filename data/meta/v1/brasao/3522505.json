@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3522505",
+ "uf": "SP",
+ "municipio": "Itapevi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bras%C3%A3o_Itapevi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3df0506d9fce11e39aeb6e0ed4c11cb35636437dc7f895cdd0f70763d1cd606c",
+ "rendicoes": {
+  "png": {
+   "bytes": 62181,
+   "sha256": "db182fbc30244a495024ce8a21b0ac58c3fab3d3f154158dbaf08cb3e581b0a5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20755,
+   "sha256": "bc7363ee01ebbafb5aef5c154fc788abfe0493c4b9bec258e86a37e2c87f9a44",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522505.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3522505.png",
+  "bytes": 24522,
+  "sha256": "3df0506d9fce11e39aeb6e0ed4c11cb35636437dc7f895cdd0f70763d1cd606c"
+ },
+ "sha1_origem": "5bcde3b51e5e720e4d50ce3a9c48c059476ef2a4",
+ "bytes_origem": 24522,
+ "capturado_em": "2026-11-08T06:29:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Itapevi.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "5bcde3b51e5e720e4d50ce3a9c48c059476ef2a4"
+ }
+}

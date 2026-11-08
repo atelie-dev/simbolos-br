@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2412005",
+ "uf": "RN",
+ "municipio": "São Gonçalo do Amarante",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bandeira_de_S%C3%A3o_Gon%C3%A7alo_do_Amarante_%28RN%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Portal São Gonçalo do Amarante",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0382b237680de651d56a72bc10c83c76f47edba9cc18f7028e40e6676226efa2",
+ "rendicoes": {
+  "png": {
+   "bytes": 149570,
+   "sha256": "8cb051655c2ed08a5ac28babe86201948c60ad376444c1f2996e27c8c3912eab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28513,
+   "sha256": "e4a67600438f0db63888625aaa1a924f1ea22354a7f0d95bfb44d6efed0494c1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2412005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2412005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2412005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2412005.png",
+  "bytes": 167150,
+  "sha256": "0382b237680de651d56a72bc10c83c76f47edba9cc18f7028e40e6676226efa2"
+ },
+ "sha1_origem": "233b9baf89fd0144225a860030d8dd153d61ebeb",
+ "bytes_origem": 167150,
+ "capturado_em": "2026-11-08T05:38:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Gonçalo_do_Amarante_(RN).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "233b9baf89fd0144225a860030d8dd153d61ebeb"
+ }
+}

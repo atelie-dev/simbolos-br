@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4301859",
+ "uf": "RS",
+ "municipio": "Barra do Guarita",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bras%C3%A3o_Barra_do_Guarita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "07d72cb47d4cc3065773cd6b2eb1b33a4dcac33ba4bf9222510662399adc05dd",
+ "rendicoes": {
+  "png": {
+   "bytes": 289927,
+   "sha256": "95273ff40f7d1069e6ad1f6d089bd3fe93a31934d84e66f700e519febd8f2588",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62843,
+   "sha256": "5c7a9ed594c16c71013402540d779cc88fd2984cb27057cdc2ae08297cef93c4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4301859.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4301859.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4301859.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4301859.jpg",
+  "bytes": 143228,
+  "sha256": "07d72cb47d4cc3065773cd6b2eb1b33a4dcac33ba4bf9222510662399adc05dd"
+ },
+ "sha1_origem": "06ee49949f893951c2390416adad0d15778e4717",
+ "bytes_origem": 143228,
+ "capturado_em": "2026-11-08T06:59:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Barra_do_Guarita.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "06ee49949f893951c2390416adad0d15778e4717"
+ }
+}

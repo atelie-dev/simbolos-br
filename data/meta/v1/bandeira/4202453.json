@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4202453",
+ "uf": "SC",
+ "municipio": "Bombinhas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Bandeira_do_munic%C3%ADpio_de_Bombinhas_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Bombinhas (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7998bc9e2b2ddc9d6c145922191cfefeb22791329919a4b720e0b688410cc3cb",
+ "rendicoes": {
+  "png": {
+   "bytes": 53217,
+   "sha256": "2057a514e934a874580aadf1fcc9cfe9ca8ec5abc049fcbe623e32b78f1b4f6d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21375,
+   "sha256": "5957b62f30cca65aa75d887e5dac911658666c5da1d67d99600412d190144e1f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1418962,
+   "sha256": "7998bc9e2b2ddc9d6c145922191cfefeb22791329919a4b720e0b688410cc3cb"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202453.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202453.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202453.jpg"
+ },
+ "sha1_origem": "dff1698bc86c80b2655215bd09b08b37877da9d4",
+ "bytes_origem": 1418962,
+ "capturado_em": "2026-11-08T04:36:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Bombinhas_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "dff1698bc86c80b2655215bd09b08b37877da9d4"
+ }
+}

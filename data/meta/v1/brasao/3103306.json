@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3103306",
+ "uf": "MG",
+ "municipio": "Aracitaba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Aracitabamgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Aracitaba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2dbf88b0e8f6c0d1db73fd02f007e8aafaca6bd0026665474c1aac79edc1bed5",
+ "rendicoes": {
+  "png": {
+   "bytes": 80796,
+   "sha256": "ce204ba911507ffb8dd6c09b27f0963f599b0fc3c0dd6027d8a38692cb683dbb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16067,
+   "sha256": "3e04b2bba2ed5a88f3fac7c0f8adb584cff2f596f014e844cd861518eed0f0d4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3103306.jpg",
+  "bytes": 19848,
+  "sha256": "2dbf88b0e8f6c0d1db73fd02f007e8aafaca6bd0026665474c1aac79edc1bed5"
+ },
+ "sha1_origem": "7318c9ca07f96bc3736d68346880b9273d0aaee4",
+ "bytes_origem": 19848,
+ "capturado_em": "2026-11-08T05:59:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Aracitabamgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "7318c9ca07f96bc3736d68346880b9273d0aaee4"
+ }
+}

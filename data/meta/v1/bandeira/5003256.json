@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5003256",
+ "uf": "MS",
+ "municipio": "Costa Rica",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bandeira_de_Costa_Rica_-_MS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Averaldo.amorim",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4d1fd726fd573f9746f3ed98cbcb8cb1d0e9a29dbd644330bffeb7f4a7b2411e",
+ "rendicoes": {
+  "png": {
+   "bytes": 65553,
+   "sha256": "765390e2d1506d0d9dce32f6103a3ea33d8dfe7d4a5aad67e1706ea497dd0c0c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18138,
+   "sha256": "728d601552171bf2437bb76dcb0969a4c3c4332890d477d52b6825bd903941c3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5003256.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5003256.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5003256.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5003256.jpg",
+  "bytes": 86015,
+  "sha256": "4d1fd726fd573f9746f3ed98cbcb8cb1d0e9a29dbd644330bffeb7f4a7b2411e"
+ },
+ "sha1_origem": "515827f18ec5db76db8f8bd3e714e5d3b56e3df9",
+ "bytes_origem": 86015,
+ "capturado_em": "2026-11-08T07:12:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Costa_Rica_-_MS.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "515827f18ec5db76db8f8bd3e714e5d3b56e3df9"
+ }
+}

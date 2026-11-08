@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2914307",
+ "uf": "BA",
+ "municipio": "Iramaia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bras%C3%A3o_de_Iramaia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "18222d20350b919efc5edfbac63369e8852b2d1b8689768db49da17236165dcc",
+ "rendicoes": {
+  "png": {
+   "bytes": 198153,
+   "sha256": "bdd58b6c3392464af488c0fc0006cb3fbc77a21d6be3128d00c71bb1077ccde2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42832,
+   "sha256": "44d467b4422ad035daba494337a22160359ae99cd77a9cc3310d0e8a693939d8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2914307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2914307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2914307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2914307.png",
+  "bytes": 305782,
+  "sha256": "18222d20350b919efc5edfbac63369e8852b2d1b8689768db49da17236165dcc"
+ },
+ "sha1_origem": "beab65aa3164348feb74cee00f05f5942070fa4a",
+ "bytes_origem": 305782,
+ "capturado_em": "2026-11-08T05:54:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Iramaia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "beab65aa3164348feb74cee00f05f5942070fa4a"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4101002",
+ "uf": "PR",
+ "municipio": "Ampére",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Pr-ampere-bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Batistussi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ba1923588e5101dad6e372839ec95f047cef7bb98c0fa794784b0cedebff33bd",
+ "rendicoes": {
+  "png": {
+   "bytes": 58284,
+   "sha256": "22e79411721a54106422072ed283c8f753bf54a4ba2f09d840305f151a4f8ddd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17219,
+   "sha256": "c154683b6ed69c914367d091d7cfe11a10e224cd81de201b5fbbb1d2b42043f9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4101002.jpg",
+  "bytes": 12780,
+  "sha256": "ba1923588e5101dad6e372839ec95f047cef7bb98c0fa794784b0cedebff33bd"
+ },
+ "sha1_origem": "3d9e3a16d327dee6819a4618be1665469fed847c",
+ "bytes_origem": 12780,
+ "capturado_em": "2026-11-08T06:41:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Pr-ampere-bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "3d9e3a16d327dee6819a4618be1665469fed847c"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2202901",
+ "uf": "PI",
+ "municipio": "Corrente",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bra-corrente.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Temp1980",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b65512566bb4bb4d7ae27f7a7800d91d773d34ffa9622c0a7f06781bc52821c1",
+ "rendicoes": {
+  "png": {
+   "bytes": 124795,
+   "sha256": "307df578ab15e3f8a5a99fda50a66e678e9c6fba7f4c2b594be134e908cc1811",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25356,
+   "sha256": "b5d74af1726b5eb7f64a8eaa508d06baf40558cf09e40bf10809f4e0cb17e6a8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2202901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2202901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2202901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2202901.jpg",
+  "bytes": 15858,
+  "sha256": "b65512566bb4bb4d7ae27f7a7800d91d773d34ffa9622c0a7f06781bc52821c1"
+ },
+ "sha1_origem": "eeda85730b575a46f975993ca627fedd986cab2a",
+ "bytes_origem": 15858,
+ "capturado_em": "2026-11-08T05:30:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bra-corrente.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:27Z",
+  "estado": "igual",
+  "sha1_commons": "eeda85730b575a46f975993ca627fedd986cab2a"
+ }
+}

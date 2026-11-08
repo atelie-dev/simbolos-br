@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2604007",
+ "uf": "PE",
+ "municipio": "Carpina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bandeiracarpinape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://www.carpina.pe.gov.br",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0a3e101c701a113d99b115dd132fd0fce3ed199556d572eaf8e03c9a6d916d09",
+ "rendicoes": {
+  "png": {
+   "bytes": 140881,
+   "sha256": "65a57ff4e55eab1e5166c57bd56fedb6f1e48c105450ba11113cd4ecf649ae73",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22367,
+   "sha256": "eb8e06e53fb0372bfd7162e444e32e354b62aa66d59937a3737e9313f82ceb0c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2604007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2604007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2604007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2604007.jpg",
+  "bytes": 102377,
+  "sha256": "0a3e101c701a113d99b115dd132fd0fce3ed199556d572eaf8e03c9a6d916d09"
+ },
+ "sha1_origem": "c3fdf439f2c9dbd4cf9a8eac2fb594ee0d4a81b6",
+ "bytes_origem": 102377,
+ "capturado_em": "2026-11-08T05:44:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiracarpinape.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "c3fdf439f2c9dbd4cf9a8eac2fb594ee0d4a81b6"
+ }
+}

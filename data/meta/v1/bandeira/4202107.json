@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4202107",
+ "uf": "SC",
+ "municipio": "Barra Velha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bandeira_do_munic%C3%ADpio_de_Barra_Velha_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Barra Velha (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b5c511664f58a1217b9a7bc0780c4abfca81d19c6c00664f3dbb75040330bb90",
+ "rendicoes": {
+  "png": {
+   "bytes": 57261,
+   "sha256": "3ba2b3bf1f63b424ff00ffc30a3ba3fb494ed196d58e47b62c7e154381514459",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23619,
+   "sha256": "cb823dacf9130b787ca7cfb1d90fe130371e38b9105ee86a3a733de5ba232923",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 131301,
+   "sha256": "b5c511664f58a1217b9a7bc0780c4abfca81d19c6c00664f3dbb75040330bb90"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202107.jpg"
+ },
+ "sha1_origem": "f6403183f58fe3f9b27fbd7e4afd68f54e060ee6",
+ "bytes_origem": 131301,
+ "capturado_em": "2026-11-08T04:36:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Barra_Velha_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "f6403183f58fe3f9b27fbd7e4afd68f54e060ee6"
+ }
+}

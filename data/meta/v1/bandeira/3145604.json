@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3145604",
+ "uf": "MG",
+ "municipio": "Oliveira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bandeira_de_Oliveira_MG.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Igor Guimarães",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8007fa0756bf2d75628739bae296f65e0fe29a6d50129918b5939381c459a3b8",
+ "rendicoes": {
+  "png": {
+   "bytes": 38038,
+   "sha256": "27a78cb1b46687dd56e85f8fe45728a11f95bbd15274258db8d3909f548768db",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8649,
+   "sha256": "4da5e45179730d54d8f498d8df0def78b5c6cce86c9ef6fa0f8c50025a4952fb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145604.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3145604.jpg",
+  "bytes": 6195,
+  "sha256": "8007fa0756bf2d75628739bae296f65e0fe29a6d50129918b5939381c459a3b8"
+ },
+ "sha1_origem": "8d65245b8f2b79c84c90db86d3067791f3260d46",
+ "bytes_origem": 6195,
+ "capturado_em": "2026-11-08T06:12:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Oliveira_MG.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "8d65245b8f2b79c84c90db86d3067791f3260d46"
+ }
+}

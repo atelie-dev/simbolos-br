@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3127107",
+ "uf": "MG",
+ "municipio": "Frutal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Brasao_Frutal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "No machine-readable author provided. Samuelpeixoto assumed (based on copyright claims).",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b2b812be11f0b60d52a6c61070f278d2f12b9ab91373ef4c5a97f81dcd6b407a",
+ "rendicoes": {
+  "png": {
+   "bytes": 216001,
+   "sha256": "4890d7cd8dbc35dccfd3f8c2b149af0d67c4921797e08eae288120aa3a7eda7f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41094,
+   "sha256": "63c121e073ba4104616376dfef74a7a672d796472c00074c231b0f59b40600bc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3127107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3127107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3127107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3127107.jpg",
+  "bytes": 48297,
+  "sha256": "b2b812be11f0b60d52a6c61070f278d2f12b9ab91373ef4c5a97f81dcd6b407a"
+ },
+ "sha1_origem": "7d67d2884fa3ddeb536dbb3de57162c663a3a02f",
+ "bytes_origem": 48297,
+ "capturado_em": "2026-11-08T06:07:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Frutal.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:32Z",
+  "estado": "igual",
+  "sha1_commons": "7d67d2884fa3ddeb536dbb3de57162c663a3a02f"
+ }
+}

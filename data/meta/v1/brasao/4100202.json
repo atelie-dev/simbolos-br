@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4100202",
+ "uf": "PR",
+ "municipio": "Adrianópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bras%C3%A3o_Adrian%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5dca78be82332027f3ca9be8725ec4e8cd52c9d1ed4963ee6579117614e6516a",
+ "rendicoes": {
+  "png": {
+   "bytes": 239136,
+   "sha256": "52c6f7b64fafef3cc1bef592404b67b36a2a159b8554f6a1756deb98acf17aac",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42460,
+   "sha256": "ea8f39a8d5ec693f6c067294c51bf09e98528709d143df99e2da55de71d88ca3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4100202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4100202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4100202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4100202.jpg",
+  "bytes": 49369,
+  "sha256": "5dca78be82332027f3ca9be8725ec4e8cd52c9d1ed4963ee6579117614e6516a"
+ },
+ "sha1_origem": "efbef0894ef8737e7aa37c666020dcb5078576a6",
+ "bytes_origem": 49369,
+ "capturado_em": "2026-11-08T06:40:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Adrianópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "efbef0894ef8737e7aa37c666020dcb5078576a6"
+ }
+}

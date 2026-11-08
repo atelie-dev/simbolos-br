@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1500800",
+ "uf": "PA",
+ "municipio": "Ananindeua",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bandeira_Ananindeua.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Ananindeua.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "af163edd176c998a2d3fbf7e7e89963135aabdcfa6a72aa28bfcd2117644c486",
+ "rendicoes": {
+  "png": {
+   "bytes": 9582,
+   "sha256": "a47d1f3a73e6176a1b95fc33a68191f604fcce7add1ffe646abe9b7b0cf6aa3b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6034,
+   "sha256": "c410f3091dbae03a80c707768c3c7f887db73a9ac90615747c686a5b08f624f3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1500800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1500800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1500800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1500800.png",
+  "bytes": 3739,
+  "sha256": "af163edd176c998a2d3fbf7e7e89963135aabdcfa6a72aa28bfcd2117644c486"
+ },
+ "sha1_origem": "12bee6cf57ed92667a00b1b9d3c525c610b38422",
+ "bytes_origem": 3739,
+ "capturado_em": "2026-11-08T05:23:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Ananindeua.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "12bee6cf57ed92667a00b1b9d3c525c610b38422"
+ }
+}

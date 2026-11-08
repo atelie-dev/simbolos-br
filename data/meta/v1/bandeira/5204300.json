@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5204300",
+ "uf": "GO",
+ "municipio": "Caçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bandeira_Cacu_Goias_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Caçu - Goiás",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d35151b27ef26f0b3994d5d263a4fd37790240ca5d78294f77379268a3f8eb90",
+ "rendicoes": {
+  "png": {
+   "bytes": 131237,
+   "sha256": "91596dafb25e33d22891abff33a91212558f14c4af3372fb354db9488bf9bac5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29584,
+   "sha256": "e82e9430b5a8228a34b0183e02a3465c7811ef5c175adf53a34ebf717eed180f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5204300.jpg",
+  "bytes": 46216,
+  "sha256": "d35151b27ef26f0b3994d5d263a4fd37790240ca5d78294f77379268a3f8eb90"
+ },
+ "sha1_origem": "6844ddc7d5de80ccadd26bd1749c9a4b636a9303",
+ "bytes_origem": 46216,
+ "capturado_em": "2026-11-08T07:17:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Cacu_Goias_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "6844ddc7d5de80ccadd26bd1749c9a4b636a9303"
+ }
+}

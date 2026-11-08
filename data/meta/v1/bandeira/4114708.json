@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4114708",
+ "uf": "PR",
+ "municipio": "Maria Helena",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bandeira_Maria_Helena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b49fba09ec5f1b3b279c48a4e1b5fd11ae3c2b2dd2a8635aee0c3e3db912550b",
+ "rendicoes": {
+  "png": {
+   "bytes": 100428,
+   "sha256": "321401dd446ebb17ad05e290bc1031dd8495722bbc16f2e2f8ff1efbe8c75899",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27762,
+   "sha256": "720d49995f75f50804597f3b1869d44fc37db6846d5b7c3a73159b9bf666d7c7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4114708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4114708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4114708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4114708.jpg",
+  "bytes": 124432,
+  "sha256": "b49fba09ec5f1b3b279c48a4e1b5fd11ae3c2b2dd2a8635aee0c3e3db912550b"
+ },
+ "sha1_origem": "50e4e2e2884508ee761e5648d1d0be7e68709c7c",
+ "bytes_origem": 124432,
+ "capturado_em": "2026-11-08T06:46:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Maria_Helena.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "50e4e2e2884508ee761e5648d1d0be7e68709c7c"
+ }
+}

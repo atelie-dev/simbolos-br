@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4306924",
+ "uf": "RS",
+ "municipio": "Engenho Velho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bras%C3%A3o_Engenho_Velho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Engenho Velho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ec85c2767a554914627d02150a15b511ddd8c384342e8e838b3171366accd1df",
+ "rendicoes": {
+  "png": {
+   "bytes": 66009,
+   "sha256": "63aaea689c161ff00dbca4be0084b954336465a82d66f490289cd84e034229ee",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14286,
+   "sha256": "4f35a723518f2c2de4a48f54fd3de438bcf1207abf483e0ca21ec1160a812617",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4306924.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4306924.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4306924.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4306924.jpg",
+  "bytes": 12217,
+  "sha256": "ec85c2767a554914627d02150a15b511ddd8c384342e8e838b3171366accd1df"
+ },
+ "sha1_origem": "364239383f6111348a481a12d08db94902131d20",
+ "bytes_origem": 12217,
+ "capturado_em": "2026-11-08T07:02:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Engenho_Velho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "364239383f6111348a481a12d08db94902131d20"
+ }
+}

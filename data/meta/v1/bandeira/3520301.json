@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3520301",
+ "uf": "SP",
+ "municipio": "Iguape",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bandeira_de_iguape.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Iguape/SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "92e5fc2c499d4ff28740d4af7a3ffe52ee01e00e88777b17cd3697116ff71156",
+ "rendicoes": {
+  "png": {
+   "bytes": 39769,
+   "sha256": "c6a8c623a4a40e76f083add008d7ac8a8680f873e25a2323795a98de2e5d4ec4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13973,
+   "sha256": "dca53375c1b42aae82e8c65eea5140de66a252fd4d0693da0b353392a5712f37",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3520301.jpg",
+  "bytes": 8694,
+  "sha256": "92e5fc2c499d4ff28740d4af7a3ffe52ee01e00e88777b17cd3697116ff71156"
+ },
+ "sha1_origem": "21990156753f4c4b38e7b2fb29eb4e25549372c1",
+ "bytes_origem": 8694,
+ "capturado_em": "2026-11-08T06:29:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_iguape.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "21990156753f4c4b38e7b2fb29eb4e25549372c1"
+ }
+}

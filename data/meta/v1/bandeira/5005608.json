@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5005608",
+ "uf": "MS",
+ "municipio": "Miranda",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bandeira_miranda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Brunozandonaide",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5c16df916970f5dba128f5312659f39ec779d4282343063a1d3444881fe900b2",
+ "rendicoes": {
+  "png": {
+   "bytes": 113536,
+   "sha256": "842990d9e9746c35533c3557c963abaab6fae304495f085fba7041539f2a90d6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23794,
+   "sha256": "69a634b5c16d192d63a2d067f8fa521b8c190b039865ded7cb59ff4fec2347c9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5005608.jpg",
+  "bytes": 15120,
+  "sha256": "5c16df916970f5dba128f5312659f39ec779d4282343063a1d3444881fe900b2"
+ },
+ "sha1_origem": "bec124be89b94bedf3802f99771a8878a5092e5e",
+ "bytes_origem": 15120,
+ "capturado_em": "2026-11-08T07:13:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_miranda.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "bec124be89b94bedf3802f99771a8878a5092e5e"
+ }
+}

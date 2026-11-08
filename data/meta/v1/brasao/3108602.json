@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3108602",
+ "uf": "MG",
+ "municipio": "Brasília de Minas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Brasilia_de_minas_-_coat_of_arms.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pcgomes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "71bfbb2fe6393276065b58ed4675a65608ca2fa470c0b79b3fec9da701f68e5a",
+ "rendicoes": {
+  "png": {
+   "bytes": 69024,
+   "sha256": "362e73fbf0259acf63ef152744b5dd262ec70b16309d2a8f7c68ab55c1178bea",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18544,
+   "sha256": "4141709bda8cabfea6651efc797f458de03f68c0e276624f855b3ae9fbcd5ef1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3108602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3108602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3108602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3108602.png",
+  "bytes": 65304,
+  "sha256": "71bfbb2fe6393276065b58ed4675a65608ca2fa470c0b79b3fec9da701f68e5a"
+ },
+ "sha1_origem": "e9a821c4cbd12a2ccebcefd3a3e6bf5c7d4f9804",
+ "bytes_origem": 65304,
+ "capturado_em": "2026-11-08T06:01:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasilia_de_minas_-_coat_of_arms.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "e9a821c4cbd12a2ccebcefd3a3e6bf5c7d4f9804"
+ }
+}

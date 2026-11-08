@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5217104",
+ "uf": "GO",
+ "municipio": "Piracanjuba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bandeira_piracanjuba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Exavier28",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a17fae34d30262a9abbdbffd20bacf3d5a448b42bbd00f9e22e8c9bdc03c0283",
+ "rendicoes": {
+  "png": {
+   "bytes": 155949,
+   "sha256": "434b900574a7488ebce81925bada74d5e4ad6bd9c86769057aaff669f0fce227",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34233,
+   "sha256": "bf44cd6fb14ca90daa19563fcfe66428ea704f796e9fbc4641d5cc2ca732e037",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5217104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5217104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5217104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5217104.jpg",
+  "bytes": 31402,
+  "sha256": "a17fae34d30262a9abbdbffd20bacf3d5a448b42bbd00f9e22e8c9bdc03c0283"
+ },
+ "sha1_origem": "eca1273827fe5d5910f1997260be21d51a07427c",
+ "bytes_origem": 31402,
+ "capturado_em": "2026-11-08T07:19:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_piracanjuba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:22Z",
+  "estado": "igual",
+  "sha1_commons": "eca1273827fe5d5910f1997260be21d51a07427c"
+ }
+}

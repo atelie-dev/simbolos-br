@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3504305",
+ "uf": "SP",
+ "municipio": "Avaí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bras%C3%A3o_Ava%C3%AD_-_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ebd7bfef5e240bc6e609d718b3877d02d91f681dd7a3ac7b31f8cbf600c78284",
+ "rendicoes": {
+  "png": {
+   "bytes": 388590,
+   "sha256": "3681785d94782138933dfa3234e1927980a2ad97071e68363ac97aef1ba6c7c1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61291,
+   "sha256": "e590776f37a3cbbff8b5e83b78ba96fd5cf788793d2f13bedb43bc69ddab8901",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3504305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3504305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3504305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3504305.jpg",
+  "bytes": 130842,
+  "sha256": "ebd7bfef5e240bc6e609d718b3877d02d91f681dd7a3ac7b31f8cbf600c78284"
+ },
+ "sha1_origem": "043be5b9ab6bc6022a48210949b434d00d4e5dd8",
+ "bytes_origem": 130842,
+ "capturado_em": "2026-11-08T06:24:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Avaí_-_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "043be5b9ab6bc6022a48210949b434d00d4e5dd8"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3548807",
+ "uf": "SP",
+ "municipio": "São Caetano do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Brasao_SaoCaetano_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "self made",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "979df61a77ad6c3e22eebe1880d4e97eaf29a7fb4b570cdb188365fe5947021e",
+ "rendicoes": {
+  "png": {
+   "bytes": 161117,
+   "sha256": "505baf48fe429c811a376074fcbac056e04b2161ae3555bbe092d4e8dc709daf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60809,
+   "sha256": "e639e1af08f96b2054a16731f36d6d43f21bc49783fc481c90350b58aceaea95",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 291241,
+   "sha256": "979df61a77ad6c3e22eebe1880d4e97eaf29a7fb4b570cdb188365fe5947021e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548807.jpg"
+ },
+ "sha1_origem": "927d6509be0f7d2cba1a980ea1c4dca86596a75d",
+ "bytes_origem": 291241,
+ "capturado_em": "2026-11-08T04:16:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_SaoCaetano_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "927d6509be0f7d2cba1a980ea1c4dca86596a75d"
+ }
+}

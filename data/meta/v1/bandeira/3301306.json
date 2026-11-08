@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3301306",
+ "uf": "RJ",
+ "municipio": "Casimiro de Abreu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bandeira_de_Casimiro_de_Abreu_%28Rio_de_Janeiro%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1c634416552bb6a209b06cb9bfe5370afeac32a9b45356970d4c7457fad15e23",
+ "rendicoes": {
+  "png": {
+   "bytes": 4078,
+   "sha256": "4a52767132bd4dc3aad9e0adb366ffbacacdc0142d012988d2729dc21178cb33",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8579,
+   "sha256": "5ab9b4394cdcf0113d044f6860faf6bb9617993523ab0bd7cdfb25db2c218c85",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3301306.png",
+  "bytes": 2646,
+  "sha256": "1c634416552bb6a209b06cb9bfe5370afeac32a9b45356970d4c7457fad15e23"
+ },
+ "sha1_origem": "19ba4f213220adb66083b2d85860d90845b93457",
+ "bytes_origem": 2646,
+ "capturado_em": "2026-11-08T06:20:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Casimiro_de_Abreu_(Rio_de_Janeiro).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "19ba4f213220adb66083b2d85860d90845b93457"
+ }
+}

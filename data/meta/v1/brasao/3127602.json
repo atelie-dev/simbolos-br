@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3127602",
+ "uf": "MG",
+ "municipio": "Gouveia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gouveiamgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Gouveia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e98b5d06a3c1af90caeb9174c3d8119746b13fb1ad210ee41f135b235296cd6e",
+ "rendicoes": {
+  "png": {
+   "bytes": 298588,
+   "sha256": "86dee9a7277b38375fd2dc6cb383f60002cf2f48e33ab4f1adcf789e534bcf4e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44586,
+   "sha256": "03e715eb355e0605a73f09d92b888c884068b9fc113770d732d8fd93bb7ad4ff",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3127602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3127602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3127602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3127602.jpg",
+  "bytes": 34250,
+  "sha256": "e98b5d06a3c1af90caeb9174c3d8119746b13fb1ad210ee41f135b235296cd6e"
+ },
+ "sha1_origem": "aba9411ca54587a5ed0d32050f3b0c3b98ff4020",
+ "bytes_origem": 34250,
+ "capturado_em": "2026-11-08T06:08:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Gouveiamgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "aba9411ca54587a5ed0d32050f3b0c3b98ff4020"
+ }
+}

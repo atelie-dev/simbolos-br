@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1508100",
+ "uf": "PA",
+ "municipio": "Tucuruí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_tucurui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "82ed1343bbc9938c2d8737a17e3e349b8b590e3b6e3a808aebc3ebc936012cb7",
+ "rendicoes": {
+  "png": {
+   "bytes": 16449,
+   "sha256": "5573bcdca55976a55fac95b4183f040c6b2da5108edeed8693895d553bc1297d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5173,
+   "sha256": "18d8533a83a99c0b74d1aa5f4af5716c82f56fbecf6b207c7e7c5cfc84fdfec2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1508100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1508100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1508100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1508100.jpg",
+  "bytes": 2789,
+  "sha256": "82ed1343bbc9938c2d8737a17e3e349b8b590e3b6e3a808aebc3ebc936012cb7"
+ },
+ "sha1_origem": "b79ce6da8adaa02dac1442804d0182a49db5ff85",
+ "bytes_origem": 2789,
+ "capturado_em": "2026-11-08T05:25:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_tucurui.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "b79ce6da8adaa02dac1442804d0182a49db5ff85"
+ }
+}

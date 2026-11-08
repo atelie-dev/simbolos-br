@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3165008",
+ "uf": "MG",
+ "municipio": "São Tiago",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bandeira_de_S%C3%A3o_Tiago-MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Mavaca8",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "db51ab1c3d48e651ceab96fbc2a897eca9871eb0ffc61c41e8a73f2e2fb99051",
+ "rendicoes": {
+  "png": {
+   "bytes": 80207,
+   "sha256": "db4398e8ced4622b5b4bdab7cd15822f8104fd9805f15f393dfe2e1ed96d0e0e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21038,
+   "sha256": "b3f63131c7171827728e13853b877df618525de806439dfd09bcb7e76e287ed2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3165008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3165008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3165008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3165008.jpg",
+  "bytes": 20643,
+  "sha256": "db51ab1c3d48e651ceab96fbc2a897eca9871eb0ffc61c41e8a73f2e2fb99051"
+ },
+ "sha1_origem": "841bbe30a2c309204756f801c10896bd4d688123",
+ "bytes_origem": 20643,
+ "capturado_em": "2026-11-08T06:16:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Tiago-MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "841bbe30a2c309204756f801c10896bd4d688123"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5003306",
+ "uf": "MS",
+ "municipio": "Coxim",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bras%C3%A3o_de_Coxim_-_MS.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7f94be87e7ecf6a552a7cca742811009777b1bdb7694b55957226b5a13a06a25",
+ "rendicoes": {
+  "png": {
+   "bytes": 210340,
+   "sha256": "ec2b0163319931b2c709ca823bd5d7ef22c8c6286ccda0dee39fb48f21adf1ec",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 66666,
+   "sha256": "f9c584e3456b306f2ed0749c1b1aaa74c2372d43627d73c02dff0752b21ffadd",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 312556,
+   "sha256": "7f94be87e7ecf6a552a7cca742811009777b1bdb7694b55957226b5a13a06a25"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5003306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5003306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5003306.jpg"
+ },
+ "sha1_origem": "ad32719d5363a93b9daadda029c16236f2cddfc6",
+ "bytes_origem": 312556,
+ "capturado_em": "2026-11-08T05:03:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Coxim_-_MS.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "ad32719d5363a93b9daadda029c16236f2cddfc6"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3170701",
+ "uf": "MG",
+ "municipio": "Varginha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bandeira_de_Varginha_%28Minas_Gerais%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f4da63ab710740309367f156652d84637ce1352508fec3efd67b3a361cdf2f59",
+ "rendicoes": {
+  "png": {
+   "bytes": 89955,
+   "sha256": "29042d8bee1767a07c8dc23db00c1db5de8bc1b20a8064fc7f61e8cb4f9065ee",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29474,
+   "sha256": "e062ea05ac8b1bae6428da10016c31db88a7f6eb756cb59c564abde8e2799f46",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3170701.jpg",
+  "bytes": 154660,
+  "sha256": "f4da63ab710740309367f156652d84637ce1352508fec3efd67b3a361cdf2f59"
+ },
+ "sha1_origem": "fef6f121d35ba8e8dd5f4600ff2cf933264005d0",
+ "bytes_origem": 154660,
+ "capturado_em": "2026-11-08T06:18:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Varginha_(Minas_Gerais).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "fef6f121d35ba8e8dd5f4600ff2cf933264005d0"
+ }
+}

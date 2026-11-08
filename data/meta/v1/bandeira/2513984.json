@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2513984",
+ "uf": "PB",
+ "municipio": "São Francisco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bandeira_de_S%C3%A3o_Francisco-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9d9030bf1d49cb9d2e9cbf0c4addea26f8fe9e6537c7e697108e98396a08c343",
+ "rendicoes": {
+  "png": {
+   "bytes": 17863,
+   "sha256": "990e7ca01605a4901deb8016ed3d3213c557c7026c3b6179c5b2825bdc5bae0a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9783,
+   "sha256": "d3c1afa0b1a1a5b787a62373fc15a4dc565e37cef374cd16ed29df7e801a866c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 984,
+   "sha256": "9d9030bf1d49cb9d2e9cbf0c4addea26f8fe9e6537c7e697108e98396a08c343"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513984.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513984.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513984.jpg"
+ },
+ "sha1_origem": "5293ad4a4e99f994245d06fc04fad891c6ac4def",
+ "bytes_origem": 984,
+ "capturado_em": "2026-11-08T03:02:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Francisco-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "5293ad4a4e99f994245d06fc04fad891c6ac4def"
+ }
+}

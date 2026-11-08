@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3202801",
+ "uf": "ES",
+ "municipio": "Itapemirim",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Brasao_Itapemirim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Itapemirim",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "14be61a9576fe0cc4b5a87b3799dff073ee1e8d0dfe89f756f93684b7d17596e",
+ "rendicoes": {
+  "png": {
+   "bytes": 178030,
+   "sha256": "3be55ebc8c2d7a4882af0e73ec19af65b108341e0ee6eb615e5f648cdf9981a5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45179,
+   "sha256": "e052168675071dbf3ff7498847c3c555b3c3d9f40bde1c1028d9d51456d01169",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3202801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3202801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3202801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3202801.jpg",
+  "bytes": 35752,
+  "sha256": "14be61a9576fe0cc4b5a87b3799dff073ee1e8d0dfe89f756f93684b7d17596e"
+ },
+ "sha1_origem": "7eb6f60bbe538d2a35017d5feb511b7976d6fd2a",
+ "bytes_origem": 35752,
+ "capturado_em": "2026-11-08T06:19:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Itapemirim.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:33Z",
+  "estado": "igual",
+  "sha1_commons": "7eb6f60bbe538d2a35017d5feb511b7976d6fd2a"
+ }
+}

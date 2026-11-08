@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5214408",
+ "uf": "GO",
+ "municipio": "Nazário",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bandeira_Naz%C3%A1rio-GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Nazário, Goiás.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fd5adb385515d87c3169de987e7224a87ba1ab1ac9a84b1da5a6f024062f1b5b",
+ "rendicoes": {
+  "png": {
+   "bytes": 29174,
+   "sha256": "5f41034fe2b77587004d036d75ab4f27077354ea66537a3feafe2fe02d732bce",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11575,
+   "sha256": "0e200d493fc4364a3a8f45bec1c6d89df0cfc2c38d52fda02fd831745ddbabb6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5214408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5214408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5214408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5214408.jpg",
+  "bytes": 11253,
+  "sha256": "fd5adb385515d87c3169de987e7224a87ba1ab1ac9a84b1da5a6f024062f1b5b"
+ },
+ "sha1_origem": "dce353cab411a276aa4759aecae15d5fe798d8f5",
+ "bytes_origem": 11253,
+ "capturado_em": "2026-11-08T07:19:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Nazário-GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "dce353cab411a276aa4759aecae15d5fe798d8f5"
+ }
+}

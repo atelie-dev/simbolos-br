@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2100600",
+ "uf": "MA",
+ "municipio": "Amarante do Maranhão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/86/Bandeira_de_amarante_do_maranh%C3%A3o.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Italo. Miranda",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "418e7f30b55cbd43cbdb0c75c412c46225d9eb3e83de84e5fa991fdaa66bd2ef",
+ "rendicoes": {
+  "png": {
+   "bytes": 288184,
+   "sha256": "d0110996a28f6c2573fefc9841005d7f2451be0ed41ed79abe8d482393002851",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41257,
+   "sha256": "d0d962f4d8302b8b94a054213174c8f0c9e03be8a5b4a6b4b63a0fbbadbe0796",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2100600.jpg",
+  "bytes": 45882,
+  "sha256": "418e7f30b55cbd43cbdb0c75c412c46225d9eb3e83de84e5fa991fdaa66bd2ef"
+ },
+ "sha1_origem": "f7452c24d7bd2093e83585b2d40f7dac3255187e",
+ "bytes_origem": 45882,
+ "capturado_em": "2026-11-08T05:27:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_amarante_do_maranhão.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "f7452c24d7bd2093e83585b2d40f7dac3255187e"
+ }
+}

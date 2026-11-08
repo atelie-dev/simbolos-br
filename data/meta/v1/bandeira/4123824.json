@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4123824",
+ "uf": "PR",
+ "municipio": "Santa Lúcia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bandeira_de_Santa_L%C3%BAcia%2C_PR.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e7c6dd71567448cde11a440cdf380a3a3acd78f5b0b6cbd9398688c6fa913d42",
+ "rendicoes": {
+  "png": {
+   "bytes": 52594,
+   "sha256": "fc84470bfad6889916f4313e5633aa0e331cab74cef9db24e62f16bc649de27a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21658,
+   "sha256": "03bed1dbe6070cd131226304989fb32c4612afd114c6ce21cd7430af8aeff02e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123824.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123824.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123824.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4123824.png",
+  "bytes": 26554,
+  "sha256": "e7c6dd71567448cde11a440cdf380a3a3acd78f5b0b6cbd9398688c6fa913d42"
+ },
+ "sha1_origem": "2bd498e3a89210a4cfd50c0e3624e083b5491b5c",
+ "bytes_origem": 26554,
+ "capturado_em": "2026-11-08T06:49:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santa_Lúcia,_PR.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "2bd498e3a89210a4cfd50c0e3624e083b5491b5c"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3170800",
+ "uf": "MG",
+ "municipio": "Várzea da Palma",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Brasaovarzeadapalma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Várzea da Palma",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a361a0e8b45272e6d084023a062ed0caea2f58258446ea61e739270efbe6dc0f",
+ "rendicoes": {
+  "png": {
+   "bytes": 282091,
+   "sha256": "cddd88a912161f19669542d316f6da49a77ef90175c2ef44220fe96431c3c68f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47358,
+   "sha256": "67fb870bfd6ac63a0fdd224e0516b04e5a21cee398d8a60b94ab6dc6ed1004f7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3170800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3170800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3170800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3170800.jpg",
+  "bytes": 37393,
+  "sha256": "a361a0e8b45272e6d084023a062ed0caea2f58258446ea61e739270efbe6dc0f"
+ },
+ "sha1_origem": "ab08ca316128ade1a374147472aa1c0c782bbedb",
+ "bytes_origem": 37393,
+ "capturado_em": "2026-11-08T06:18:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaovarzeadapalma.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "ab08ca316128ade1a374147472aa1c0c782bbedb"
+ }
+}

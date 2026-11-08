@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3141900",
+ "uf": "MG",
+ "municipio": "Minduri",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/BandeiraMinduri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Minduri",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "62012aafb6c0ff74f9f711d4218b331d702659c16289616c85de8b209d044eb6",
+ "rendicoes": {
+  "png": {
+   "bytes": 12895,
+   "sha256": "14f2d369bedd2eea6d57ac5420b6446f991ea6f26a57db4389f2a1ee906ae567",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5053,
+   "sha256": "5811dc3991f5bef242bc747f532bf9d64d72b7ee8912344b3464335c98935430",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3141900.jpg",
+  "bytes": 4058,
+  "sha256": "62012aafb6c0ff74f9f711d4218b331d702659c16289616c85de8b209d044eb6"
+ },
+ "sha1_origem": "89acfe40e563adbff8939ac53fc4726f0206eaa7",
+ "bytes_origem": 4058,
+ "capturado_em": "2026-11-08T06:11:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraMinduri.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:41Z",
+  "estado": "igual",
+  "sha1_commons": "89acfe40e563adbff8939ac53fc4726f0206eaa7"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2512721",
+ "uf": "PB",
+ "municipio": "Pedro Régis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bandeira_Pedro_R%C3%A9gis-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pedro Régis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "39dece087761b9f7dd60c1695a80b369ca4d2690c24cd044c43d52d4cad8fd0c",
+ "rendicoes": {
+  "png": {
+   "bytes": 106833,
+   "sha256": "9e72b6561d241ffed8a42cfce8dd978b6916b6ee33dc25f3bd20f74d5b276446",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20184,
+   "sha256": "07466f89af2360bf1640a0dd1e93bc03e60daaadbd84f31bb7eb7d1ea482e113",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512721.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512721.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512721.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2512721.jpg",
+  "bytes": 13892,
+  "sha256": "39dece087761b9f7dd60c1695a80b369ca4d2690c24cd044c43d52d4cad8fd0c"
+ },
+ "sha1_origem": "9207b4fef037797d081004c2a6ff33c28b97686a",
+ "bytes_origem": 13892,
+ "capturado_em": "2026-11-08T05:42:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Pedro_Régis-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "9207b4fef037797d081004c2a6ff33c28b97686a"
+ }
+}

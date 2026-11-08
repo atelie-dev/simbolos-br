@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3503109",
+ "uf": "SP",
+ "municipio": "Arandu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Arandu.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Emerson Santiago Silva",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ea91a58b4f1da41f561ee104b74663ede87080e1276b756ac1f6b21e72f6caa3",
+ "rendicoes": {
+  "png": {
+   "bytes": 374393,
+   "sha256": "9adba9a774474e9b294d999988d63668140c79968619937017860a0ff92e5354",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 79319,
+   "sha256": "e4ea5db866260710cdd1dca459b5328cbef564d9d0adeb445aae94d43555054d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3503109.png",
+  "bytes": 488064,
+  "sha256": "ea91a58b4f1da41f561ee104b74663ede87080e1276b756ac1f6b21e72f6caa3"
+ },
+ "sha1_origem": "d4ae04083a71301848567a44520b031d024b0ebd",
+ "bytes_origem": 488064,
+ "capturado_em": "2026-11-08T06:23:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Arandu.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "d4ae04083a71301848567a44520b031d024b0ebd"
+ }
+}

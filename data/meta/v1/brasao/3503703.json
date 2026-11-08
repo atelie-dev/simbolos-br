@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3503703",
+ "uf": "SP",
+ "municipio": "Ariranha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Ariranha.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ac864a5f6bd36fdcb30dc468affb035c36dd21805a1bb9f429f27f9db1adabec",
+ "rendicoes": {
+  "png": {
+   "bytes": 231909,
+   "sha256": "896420d9f08b87ca139d675491550fb5073163e4321cd903769a047c39ab0761",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 64620,
+   "sha256": "6c6e350b668ba1b6ccd6afe63ec711353a85e8b084ca9cfb286b317f58a0d04d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3503703.png",
+  "bytes": 230722,
+  "sha256": "ac864a5f6bd36fdcb30dc468affb035c36dd21805a1bb9f429f27f9db1adabec"
+ },
+ "sha1_origem": "ee22e211c899558dde07126aec012a8efc008f36",
+ "bytes_origem": 230722,
+ "capturado_em": "2026-11-08T06:23:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ariranha.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "ee22e211c899558dde07126aec012a8efc008f36"
+ }
+}

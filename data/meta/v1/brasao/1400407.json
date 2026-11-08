@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1400407",
+ "uf": "RR",
+ "municipio": "Normandia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Brasao_Normandia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Normandia.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "45958ca2bdc86bc696c2eef6f5132b02ca210277594bfc94a6741e6be6ee5c55",
+ "rendicoes": {
+  "png": {
+   "bytes": 123234,
+   "sha256": "9a47b76b166420489aef90757f6ee37e588b1f1ffabdb399be53938c638bdad0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31960,
+   "sha256": "e5702533d5f7794ca391508fc07e40370305b8d06782599a9f89c2d73818f02c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1400407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1400407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1400407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1400407.jpg",
+  "bytes": 103605,
+  "sha256": "45958ca2bdc86bc696c2eef6f5132b02ca210277594bfc94a6741e6be6ee5c55"
+ },
+ "sha1_origem": "900e24caac7db8a36c5d4f5a09ff13573450469d",
+ "bytes_origem": 103605,
+ "capturado_em": "2026-11-08T05:23:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Normandia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "900e24caac7db8a36c5d4f5a09ff13573450469d"
+ }
+}

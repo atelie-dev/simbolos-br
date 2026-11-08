@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3105103",
+ "uf": "MG",
+ "municipio": "Bambuí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_de_Bambu%C3%AD%2C_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Bambuí",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8e203ae1838f8c7c5df118c3268c5e58bf1187357142e8508e6daf17c38fdfa8",
+ "rendicoes": {
+  "png": {
+   "bytes": 26032,
+   "sha256": "95571601153290fa91d92ecde517d7ccb3ce598cb761a4a6191468b4ebc653db",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13573,
+   "sha256": "5387da82f2a744eda56ab88a7d3de2b25397f2b0aa6935c019648fdb571eefd7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3105103.jpg",
+  "bytes": 53219,
+  "sha256": "8e203ae1838f8c7c5df118c3268c5e58bf1187357142e8508e6daf17c38fdfa8"
+ },
+ "sha1_origem": "6b0139782f7f175e280b9c52118c321e128333f6",
+ "bytes_origem": 53219,
+ "capturado_em": "2026-11-08T06:00:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bambuí,_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "6b0139782f7f175e280b9c52118c321e128333f6"
+ }
+}

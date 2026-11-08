@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2103109",
+ "uf": "MA",
+ "municipio": "Cedral",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Brasao_de_cedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Fabio Lindoso",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6300dcf05eeb5cc53811334fadb509048ef699652c0f33e9fea5d36aa077f65e",
+ "rendicoes": {
+  "png": {
+   "bytes": 85060,
+   "sha256": "f0a8bde6e060e2b60953a473fe14135d3f101c90990a3520b079dd5b4894f786",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17316,
+   "sha256": "fb89916da5281e73c87e0ca931c226b5f16401e3ce97f2e3ce4e4939031b7a2b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2103109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2103109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2103109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2103109.jpg",
+  "bytes": 15946,
+  "sha256": "6300dcf05eeb5cc53811334fadb509048ef699652c0f33e9fea5d36aa077f65e"
+ },
+ "sha1_origem": "fcd80e52e56b7a3e10a4b41536a70d8433c50fad",
+ "bytes_origem": 15946,
+ "capturado_em": "2026-11-08T05:27:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_de_cedral.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "fcd80e52e56b7a3e10a4b41536a70d8433c50fad"
+ }
+}

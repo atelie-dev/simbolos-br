@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4107207",
+ "uf": "PR",
+ "municipio": "Dois Vizinhos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bandeira_de_Dois_Vizinhos%2C_PR.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "McPot",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a7ca981891e8d5cb5b26e7fac1925d2c20123ed902a1ad95c1ceb321f833d954",
+ "rendicoes": {
+  "png": {
+   "bytes": 45087,
+   "sha256": "0c2e11f96465366ca339536e691822e663fd34da2ae2abc32ad2f906763d798b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24148,
+   "sha256": "bc7a20f2cf09889c8d377329ea76ec53c87321481ce024c5312abdee4cae0a47",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4107207.png",
+  "bytes": 16142,
+  "sha256": "a7ca981891e8d5cb5b26e7fac1925d2c20123ed902a1ad95c1ceb321f833d954"
+ },
+ "sha1_origem": "d0a8ed01843ab9f125865422b1ca79b80754e13d",
+ "bytes_origem": 16142,
+ "capturado_em": "2026-11-08T06:43:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Dois_Vizinhos,_PR.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "d0a8ed01843ab9f125865422b1ca79b80754e13d"
+ }
+}

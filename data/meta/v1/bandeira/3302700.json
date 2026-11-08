@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3302700",
+ "uf": "RJ",
+ "municipio": "Maricá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bandeira_de_Maric%C3%A1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Oren neu dag",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "4971df9407548632757e313f53611425c33f64191cbf258129cc08d195bfbc53",
+ "rendicoes": {
+  "png": {
+   "bytes": 30021,
+   "sha256": "a5cf0f62719fc231d591a3c3249652b3625469b59e99bee090adaec8fa57e7f9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18802,
+   "sha256": "edb5407e34a57f5198d05fa5d7dbd30ffeaf66a5b81ef93c5ec03192da603901",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 3831,
+   "sha256": "4971df9407548632757e313f53611425c33f64191cbf258129cc08d195bfbc53"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302700.jpg"
+ },
+ "sha1_origem": "6e9afd9b249d06a7a5e93404ce1881e2e078f594",
+ "bytes_origem": 3831,
+ "capturado_em": "2026-11-08T03:54:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Maricá.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "6e9afd9b249d06a7a5e93404ce1881e2e078f594"
+ }
+}

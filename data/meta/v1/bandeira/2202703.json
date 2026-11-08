@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2202703",
+ "uf": "PI",
+ "municipio": "Cocal",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandeira_de_Cocal_Nova.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Wenddel Veras",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c08e3beaa393b96bff53adca8d19dc772629657b15bd315577c19ec871a225fe",
+ "rendicoes": {
+  "png": {
+   "bytes": 65706,
+   "sha256": "e2e9fe5a95650ea645918f3b528d66ab4629fff8d2214e8014458950ced845dd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24229,
+   "sha256": "42f2432971220181cd29ee26862f4eb20325308dd0654ae5afae2ba2d1fc0d08",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2202703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2202703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2202703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2202703.jpg",
+  "bytes": 381694,
+  "sha256": "c08e3beaa393b96bff53adca8d19dc772629657b15bd315577c19ec871a225fe"
+ },
+ "sha1_origem": "ba5785063e8eab8c7ca07019aea007ee3f7de4e1",
+ "bytes_origem": 381694,
+ "capturado_em": "2026-11-08T05:30:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cocal_Nova.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "ba5785063e8eab8c7ca07019aea007ee3f7de4e1"
+ }
+}

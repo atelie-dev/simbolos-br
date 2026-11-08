@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3166105",
+ "uf": "MG",
+ "municipio": "Senhora do Porto",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Brasaosraporto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Senhora do Porto",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "abd175136466b64a3d21046b6261af13e44673e7046177f54d8ff825f332f76a",
+ "rendicoes": {
+  "png": {
+   "bytes": 350649,
+   "sha256": "a237748d0a01243522a5efa9763f56d31aca41e305cb6745911cf2c504459f7d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67698,
+   "sha256": "3d9cba33e1e53f700df77b94cd07cfd43ce3cc14c0efacb8de75e3cd2310774f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3166105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3166105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3166105.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3166105.jpg",
+  "bytes": 105927,
+  "sha256": "abd175136466b64a3d21046b6261af13e44673e7046177f54d8ff825f332f76a"
+ },
+ "sha1_origem": "8983ef3c7b532a5cd2a18e55b508f62f37d078c2",
+ "bytes_origem": 105927,
+ "capturado_em": "2026-11-08T06:17:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaosraporto.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "8983ef3c7b532a5cd2a18e55b508f62f37d078c2"
+ }
+}

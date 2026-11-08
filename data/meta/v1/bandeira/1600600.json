@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1600600",
+ "uf": "AP",
+ "municipio": "Santana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bandeira_de_Santana%2C_AP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Kris97354",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b0950f79bdbfd1023f64b0788f22be18d02ebd447b5bbd3abf45ad8dc5b0dfc0",
+ "rendicoes": {
+  "png": {
+   "bytes": 57472,
+   "sha256": "4ebdb3ffa528dbac90661cd1a9cda427f311992f56c94ca54d272829a887168f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23573,
+   "sha256": "0e1c15db2915f69ea616b9e67bf31fc78af44da611fea02774ecfa1657c59ea2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1600600.jpg",
+  "bytes": 347166,
+  "sha256": "b0950f79bdbfd1023f64b0788f22be18d02ebd447b5bbd3abf45ad8dc5b0dfc0"
+ },
+ "sha1_origem": "c53805d8f012773cd6f8ee22dec07ec0bb3a41c7",
+ "bytes_origem": 347166,
+ "capturado_em": "2026-11-08T05:26:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santana,_AP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "c53805d8f012773cd6f8ee22dec07ec0bb3a41c7"
+ }
+}

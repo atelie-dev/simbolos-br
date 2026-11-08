@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3545100",
+ "uf": "SP",
+ "municipio": "Salmourão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bras%C3%A3o_Salmour%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ed74f6ba47b7f1229236a9d03988731ada275a4a7bcad43f2924f7aa1a47ebbe",
+ "rendicoes": {
+  "png": {
+   "bytes": 56937,
+   "sha256": "19ccc497efe85a8298db36aba96c088bf05e0ff6058c28a1c7887eccd246ce94",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12432,
+   "sha256": "cdaf3e186f22f21b9386fd4223c6e991de6074ff6b3ee134e97ab960725f82f5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3545100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3545100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3545100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3545100.jpg",
+  "bytes": 26673,
+  "sha256": "ed74f6ba47b7f1229236a9d03988731ada275a4a7bcad43f2924f7aa1a47ebbe"
+ },
+ "sha1_origem": "668b1e317f4507c7f77b5e3f062bde77bbf055b2",
+ "bytes_origem": 26673,
+ "capturado_em": "2026-11-08T06:36:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Salmourão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "668b1e317f4507c7f77b5e3f062bde77bbf055b2"
+ }
+}

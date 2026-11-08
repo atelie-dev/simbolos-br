@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3108503",
+ "uf": "MG",
+ "municipio": "Botumirim",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Botumirimmgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Botumirim",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5c9191444abce123f7a6259ddb0b57e15296d848a869527b107bce5650048bfa",
+ "rendicoes": {
+  "png": {
+   "bytes": 43297,
+   "sha256": "932e1e435b5548bdce89ff53b77599adff7257ad80dad346ab13ed5787f4bf14",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10832,
+   "sha256": "ac222a1674cc6d9a68160c3263286da2532e9f6448dec4cb5a595ba794d71994",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3108503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3108503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3108503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3108503.jpg",
+  "bytes": 7783,
+  "sha256": "5c9191444abce123f7a6259ddb0b57e15296d848a869527b107bce5650048bfa"
+ },
+ "sha1_origem": "142729192857ee3d7059fc2e536fab12cd2e07f6",
+ "bytes_origem": 7783,
+ "capturado_em": "2026-11-08T06:01:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Botumirimmgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:27Z",
+  "estado": "igual",
+  "sha1_commons": "142729192857ee3d7059fc2e536fab12cd2e07f6"
+ }
+}

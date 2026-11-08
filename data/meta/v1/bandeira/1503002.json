@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1503002",
+ "uf": "PA",
+ "municipio": "Faro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bandeira_de_Faro_-_PA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "408b9035d8d1b57426eb928ede9b53e9479738fd32936377b384f9bbffec26df",
+ "rendicoes": {
+  "png": {
+   "bytes": 43417,
+   "sha256": "1c8e86eea6b4ddf512f6bdda7550fc26297a1a22a7ddab5d961ed4972e8ea919",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20281,
+   "sha256": "e7111f7d6fb0bad054e5c840e348c9e183aa2ba0fe66c0781c5a57494653d9a4",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 131261,
+   "sha256": "408b9035d8d1b57426eb928ede9b53e9479738fd32936377b384f9bbffec26df"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1503002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1503002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1503002.jpg"
+ },
+ "sha1_origem": "e297956b1b4d324a44c9dc1abed56ec126778fc7",
+ "bytes_origem": 131261,
+ "capturado_em": "2026-11-08T02:33:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Faro_-_PA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "e297956b1b4d324a44c9dc1abed56ec126778fc7"
+ }
+}

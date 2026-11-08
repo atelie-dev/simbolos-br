@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5216452",
+ "uf": "GO",
+ "municipio": "Perolândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bandeira_de_Perol%C3%A2ndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Perolândia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dd1d4b6ba0a6b417e0e7a1bdf90a39c04d9e228a87fd3d54ae14cfd1d416113c",
+ "rendicoes": {
+  "png": {
+   "bytes": 58299,
+   "sha256": "746c5381bbf3a005becdee2378f5973e4c9c180e2cea722f91a2706d2f11ee80",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12822,
+   "sha256": "b5387746fe92c82717ec1b38c9b42ba74fc21c6a7d12faf37c0b149f32ff0997",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5216452.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5216452.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5216452.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5216452.jpg",
+  "bytes": 10080,
+  "sha256": "dd1d4b6ba0a6b417e0e7a1bdf90a39c04d9e228a87fd3d54ae14cfd1d416113c"
+ },
+ "sha1_origem": "c3e315e9440dc1b5c0bc08483c717cc5c87e1875",
+ "bytes_origem": 10080,
+ "capturado_em": "2026-11-08T07:19:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Perolândia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "c3e315e9440dc1b5c0bc08483c717cc5c87e1875"
+ }
+}

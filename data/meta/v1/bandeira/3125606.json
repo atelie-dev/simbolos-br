@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3125606",
+ "uf": "MG",
+ "municipio": "Felisburgo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bandeira_de_Felisburgo.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Felisburgo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "857be192bb3d8043072ad80ea56fdcd0e78381196920140d124efb1fd5c4e7a7",
+ "rendicoes": {
+  "png": {
+   "bytes": 163128,
+   "sha256": "99ed465563814aab8e527b536d963af5e86bb5aafcd96798d4bd13524eef8ac3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40864,
+   "sha256": "6087b24170c12975deb39ab9bc3253b9524d5e4a366caf213c80ae6a59028a18",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3125606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3125606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3125606.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3125606.jpg",
+  "bytes": 64876,
+  "sha256": "857be192bb3d8043072ad80ea56fdcd0e78381196920140d124efb1fd5c4e7a7"
+ },
+ "sha1_origem": "b1edfdb10481f10be649e4496a55c85aae0f7fa0",
+ "bytes_origem": 64876,
+ "capturado_em": "2026-11-08T06:07:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Felisburgo.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "b1edfdb10481f10be649e4496a55c85aae0f7fa0"
+ }
+}

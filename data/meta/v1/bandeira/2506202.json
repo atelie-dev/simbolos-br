@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2506202",
+ "uf": "PB",
+ "municipio": "Frei Martinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Bandeira_frei_martinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Frei Martinho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1ea2558e38cb727d1533c99ec1177b1294989791141f800651811c643614dc4e",
+ "rendicoes": {
+  "png": {
+   "bytes": 62363,
+   "sha256": "b8eed75c6da2c18e456c122c210c0209e96f59315d5fa8815ccc4ec41c292e8b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16884,
+   "sha256": "ad62627399df01074aaf7ddb8b3d23513d26f05489fe27ef429a6e2d2113d3e6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2506202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2506202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2506202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2506202.jpg",
+  "bytes": 12470,
+  "sha256": "1ea2558e38cb727d1533c99ec1177b1294989791141f800651811c643614dc4e"
+ },
+ "sha1_origem": "6c5c29cd930a26e4dba1819fc819163db075dedb",
+ "bytes_origem": 12470,
+ "capturado_em": "2026-11-08T05:41:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_frei_martinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "6c5c29cd930a26e4dba1819fc819163db075dedb"
+ }
+}

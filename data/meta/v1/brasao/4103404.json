@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4103404",
+ "uf": "PR",
+ "municipio": "Cafeara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Brasao-cafeara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cafeara City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "063d9781288fd1fc58914ec9ad1f9d933b3b1a8ec6afbd77bb1536f073bc01bf",
+ "rendicoes": {
+  "png": {
+   "bytes": 50671,
+   "sha256": "ffe9f5e4dd498d5e3906df73db0734b902a98ce57d9f3ec32b4505bf10dccf10",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11644,
+   "sha256": "044dbcf5d493424b32260087e2c48b8902dac32082b02f8bb76c45bf7fa12fbc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4103404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4103404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4103404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4103404.jpg",
+  "bytes": 29312,
+  "sha256": "063d9781288fd1fc58914ec9ad1f9d933b3b1a8ec6afbd77bb1536f073bc01bf"
+ },
+ "sha1_origem": "ef58c2d7111659dbc597c73465a00a72464c6e3e",
+ "bytes_origem": 29312,
+ "capturado_em": "2026-11-08T06:42:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-cafeara.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "ef58c2d7111659dbc597c73465a00a72464c6e3e"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5218052",
+ "uf": "GO",
+ "municipio": "Porteirão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bandeira_Porteir%C3%A3o-GO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Porteirão, Goiás.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7d9934bf74cb9bc47def7758461fde657ff0e02fb399d6f32466eb4531ffa129",
+ "rendicoes": {
+  "png": {
+   "bytes": 19483,
+   "sha256": "e6b1f403a455e21a8439e7fff28eb81a4b109a0742fafd9675ce9b991b29b37c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8992,
+   "sha256": "7c498adbaf2b38f8fe27f86f627bc32aa116ee6d458867ee76ccd334bbb7370a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5218052.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5218052.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5218052.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5218052.png",
+  "bytes": 23938,
+  "sha256": "7d9934bf74cb9bc47def7758461fde657ff0e02fb399d6f32466eb4531ffa129"
+ },
+ "sha1_origem": "206a3693d8c93be8d6669416efdd37a58dcd4314",
+ "bytes_origem": 23938,
+ "capturado_em": "2026-11-08T07:20:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Porteirão-GO.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "206a3693d8c93be8d6669416efdd37a58dcd4314"
+ }
+}

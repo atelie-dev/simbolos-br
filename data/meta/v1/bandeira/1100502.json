@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1100502",
+ "uf": "RO",
+ "municipio": "Novo Horizonte do Oeste",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bandeira_Novo_Horizonte_do_Oeste.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Valdinei de Souza Brito",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a13ccb235dd4afa5c5dff61bf8d508755f53b46f681a0ee39740d12528d8b0e2",
+ "rendicoes": {
+  "png": {
+   "bytes": 23267,
+   "sha256": "ab4870d183b98a361194af256780ac2c50fae8ea449d304273b8e5d6f45c095a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14976,
+   "sha256": "22e17992bd12c349ce7951c98d5ddb15f9b1e71cca31564f85f11a1f7017563d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 5112,
+   "sha256": "a13ccb235dd4afa5c5dff61bf8d508755f53b46f681a0ee39740d12528d8b0e2"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100502.jpg"
+ },
+ "sha1_origem": "3db3ccc2421c54545fdf6b94feee302d6deb4df3",
+ "bytes_origem": 5112,
+ "capturado_em": "2026-11-08T02:29:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Novo_Horizonte_do_Oeste.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "3db3ccc2421c54545fdf6b94feee302d6deb4df3"
+ }
+}

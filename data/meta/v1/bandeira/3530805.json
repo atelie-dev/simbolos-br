@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3530805",
+ "uf": "SP",
+ "municipio": "Mogi Mirim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bandeira_de_Mogi_Mirim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://www.nossosaopaulo.com.br/",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b2f8810748dae7e80fc57374d7e6cced9f70189755797718d973dd795e927058",
+ "rendicoes": {
+  "png": {
+   "bytes": 61111,
+   "sha256": "62dc0c9574959b7b601fb65c749daf7fb436c2838f834c3b64ca66fc674afb86",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16970,
+   "sha256": "fa96074b2adf6c0f3e259859cd8ee5be60519e1e6060db9982c50c9b08511e5b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3530805.jpg",
+  "bytes": 17773,
+  "sha256": "b2f8810748dae7e80fc57374d7e6cced9f70189755797718d973dd795e927058"
+ },
+ "sha1_origem": "d20f14cbdbcb1988b7b562833e7b429b863bf48d",
+ "bytes_origem": 17773,
+ "capturado_em": "2026-11-08T06:32:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Mogi_Mirim.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "d20f14cbdbcb1988b7b562833e7b429b863bf48d"
+ }
+}

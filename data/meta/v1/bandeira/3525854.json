@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3525854",
+ "uf": "SP",
+ "municipio": "Jumirim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bandeira_Jumirim.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "234086b18794d0c6eea38e75df4e46bb13b363dc009cad6a1aae9b0ccbc607e6",
+ "rendicoes": {
+  "png": {
+   "bytes": 50691,
+   "sha256": "e12308cbce5bb496ee8276a3997707bfb010aee0cc03b328d231e6cf4271a0f3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14655,
+   "sha256": "7f4a38a1ea524789c37f3ae658d5f61a94366d204356a9d4399c632aa5bbb49f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3525854.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3525854.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3525854.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3525854.png",
+  "bytes": 53429,
+  "sha256": "234086b18794d0c6eea38e75df4e46bb13b363dc009cad6a1aae9b0ccbc607e6"
+ },
+ "sha1_origem": "e8f461be078394bcdc2f4a2363eaf33e87c46ac9",
+ "bytes_origem": 53429,
+ "capturado_em": "2026-11-08T06:30:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Jumirim.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "e8f461be078394bcdc2f4a2363eaf33e87c46ac9"
+ }
+}

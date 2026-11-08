@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1300300",
+ "uf": "AM",
+ "municipio": "Autazes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Bras%C3%A3o_de_Autazes%2C_AM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Autazes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b299b90afd5c608e97575dd4d299ec2439d0800621c79be5e554ca1f88b14b8c",
+ "rendicoes": {
+  "png": {
+   "bytes": 22962,
+   "sha256": "18e1fbb69bd73f5aef7d80eb8ef7373514888264ef09cd2de50e80d1b92c8cb5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6314,
+   "sha256": "62cba65453ebfb1757ab4f822a6e3ded2705eb91194030f95f53919f519e01c6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1300300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1300300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1300300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1300300.jpg",
+  "bytes": 7790,
+  "sha256": "b299b90afd5c608e97575dd4d299ec2439d0800621c79be5e554ca1f88b14b8c"
+ },
+ "sha1_origem": "a7f71aa057781bb5b3b8ffb544eeae08d5aab984",
+ "bytes_origem": 7790,
+ "capturado_em": "2026-11-08T05:22:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Autazes,_AM.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "a7f71aa057781bb5b3b8ffb544eeae08d5aab984"
+ }
+}

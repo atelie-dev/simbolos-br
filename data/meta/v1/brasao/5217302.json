@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5217302",
+ "uf": "GO",
+ "municipio": "Pirenópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Brasao-Pirenopolis-1996_chapado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Keith Dalmon Ferreira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1a0573d1ac573fa3843629a894fe85cdb382fe14b183ffc7f6b83ebaf0b44937",
+ "rendicoes": {
+  "png": {
+   "bytes": 292275,
+   "sha256": "a886b089444e6d5b003a97881f1733d118b47a2b5614cd4a88f40d6e213064be",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 82552,
+   "sha256": "47734f1e8ed0e47deabdd193531710e25a8a8137c30736fdc19efaffb13fc09f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5217302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5217302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5217302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5217302.jpg",
+  "bytes": 1559270,
+  "sha256": "1a0573d1ac573fa3843629a894fe85cdb382fe14b183ffc7f6b83ebaf0b44937"
+ },
+ "sha1_origem": "46a23e42f8a7d29cacf939c3fb1e8840960f7f67",
+ "bytes_origem": 1559270,
+ "capturado_em": "2026-11-08T07:19:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-Pirenopolis-1996_chapado.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "46a23e42f8a7d29cacf939c3fb1e8840960f7f67"
+ }
+}

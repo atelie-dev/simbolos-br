@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4112900",
+ "uf": "PR",
+ "municipio": "Jundiaí do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bandeira_Jundia%C3%AD_do_Sul.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c8c15e49548f838b1533337fb7dff4d9e0394756cdc97408090675a45f2071f0",
+ "rendicoes": {
+  "png": {
+   "bytes": 9984,
+   "sha256": "bdf85952db2dd3c0690ee36074b1b9af6560070db320f794bf63027551ca45ba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7774,
+   "sha256": "2ac5518cd4ddb647c27df888572bfb5514a0d9ab03a0936c5406e8e286355307",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4112900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4112900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4112900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4112900.png",
+  "bytes": 3748,
+  "sha256": "c8c15e49548f838b1533337fb7dff4d9e0394756cdc97408090675a45f2071f0"
+ },
+ "sha1_origem": "5a23818d02bab17f2410ca8ca3a87aa05d13ab1c",
+ "bytes_origem": 3748,
+ "capturado_em": "2026-11-08T06:45:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Jundiaí_do_Sul.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "5a23818d02bab17f2410ca8ca3a87aa05d13ab1c"
+ }
+}

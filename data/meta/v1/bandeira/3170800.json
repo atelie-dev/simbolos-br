@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3170800",
+ "uf": "MG",
+ "municipio": "Várzea da Palma",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bandeira_de_V%C3%A1rzea_da_Palma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camara Municipal de Várzea da Palma",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c55cf57b2dddaece788a54c81c81bf70c616838dd3dc6dfcff86a48a723345ec",
+ "rendicoes": {
+  "png": {
+   "bytes": 23317,
+   "sha256": "d2ced483b572fb0dbd58a0f2729acc19bab12ea86d4e397cf62e08ed296f7bc1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16034,
+   "sha256": "0b225beb88a1931da596e0a7ef7d58532459b6205b895972f707483301a0fc49",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3170800.jpg",
+  "bytes": 34526,
+  "sha256": "c55cf57b2dddaece788a54c81c81bf70c616838dd3dc6dfcff86a48a723345ec"
+ },
+ "sha1_origem": "598409cfa0bd47caeb13bd9aee8cfcc34c294de4",
+ "bytes_origem": 34526,
+ "capturado_em": "2026-11-08T06:18:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Várzea_da_Palma.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "598409cfa0bd47caeb13bd9aee8cfcc34c294de4"
+ }
+}

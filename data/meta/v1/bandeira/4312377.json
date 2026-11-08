@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312377",
+ "uf": "RS",
+ "municipio": "Monte Alegre dos Campos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bandeira_Monte_Alegre_dos_Campos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Monte Alegre dos Campos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "819fa08797d0f360e005f0819cbd5c645c14ce8fe18578b14f8f1de0ace78fdb",
+ "rendicoes": {
+  "png": {
+   "bytes": 26912,
+   "sha256": "36c3c3214794c814fc399a9e83724a7d462fbe1695fc6ccdd2f54a50135dd7da",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8224,
+   "sha256": "866594a4bf35339c6c692a8ad3f6255a7032384391eac511e66336feca1783b8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312377.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312377.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312377.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4312377.jpg",
+  "bytes": 5771,
+  "sha256": "819fa08797d0f360e005f0819cbd5c645c14ce8fe18578b14f8f1de0ace78fdb"
+ },
+ "sha1_origem": "3e1a30c586236162fb598723be447d8cdcb92e49",
+ "bytes_origem": 5771,
+ "capturado_em": "2026-11-08T07:05:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Monte_Alegre_dos_Campos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "3e1a30c586236162fb598723be447d8cdcb92e49"
+ }
+}

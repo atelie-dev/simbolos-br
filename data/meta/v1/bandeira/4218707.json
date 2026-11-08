@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4218707",
+ "uf": "SC",
+ "municipio": "Tubarão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bandeira_Tubar%C3%A3o.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "71cb76d9f8bf0acb0094285ffcaf8364bad81a2d6017bdf8c88a7169db1f790d",
+ "rendicoes": {
+  "png": {
+   "bytes": 76974,
+   "sha256": "2c6f5a4e8f7358e1cdddef22f200eb09b2fb7b36015470c34e34279cbee3d33a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31516,
+   "sha256": "0b3b251789e765179142e65301a165bf1cbf616d127985401e78ad963d072948",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4218707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4218707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4218707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4218707.png",
+  "bytes": 5304603,
+  "sha256": "71cb76d9f8bf0acb0094285ffcaf8364bad81a2d6017bdf8c88a7169db1f790d"
+ },
+ "sha1_origem": "0dbd38bad97c9225ee62e4b89920b37195be3b25",
+ "bytes_origem": 5304603,
+ "capturado_em": "2026-11-08T06:57:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Tubarão.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "0dbd38bad97c9225ee62e4b89920b37195be3b25"
+ }
+}

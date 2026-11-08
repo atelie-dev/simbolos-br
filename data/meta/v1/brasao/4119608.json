@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4119608",
+ "uf": "PR",
+ "municipio": "Pitanga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Bras%C3%A3o_de_Pitanga_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "536c283c2d531c2119b20f654406de1c51a8c43f386c3eca40eb1ef83fc8942f",
+ "rendicoes": {
+  "png": {
+   "bytes": 172296,
+   "sha256": "964cc921c512ea00dc981e03c694fe7b850beddbb978264a77be66325096fb20",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 51414,
+   "sha256": "f80de9f83952ebab6b7abdbc08219313d001d3e5ba67ebb3624e9167fc0bb528",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 245693,
+   "sha256": "536c283c2d531c2119b20f654406de1c51a8c43f386c3eca40eb1ef83fc8942f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4119608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4119608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4119608.jpg"
+ },
+ "sha1_origem": "95e3b0c8f8f88b4b71016bb4fd1af91f4247285c",
+ "bytes_origem": 245693,
+ "capturado_em": "2026-11-08T04:30:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Pitanga_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:09Z",
+  "estado": "igual",
+  "sha1_commons": "95e3b0c8f8f88b4b71016bb4fd1af91f4247285c"
+ }
+}

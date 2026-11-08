@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3541307",
+ "uf": "SP",
+ "municipio": "Presidente Epitácio",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bras%C3%A3o_de_Presidente_Epit%C3%A1cio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "346710c17042c4a8e1435821f8ef9ae1fa8e4f0bf1bdb97b9a36deaa5426082c",
+ "rendicoes": {
+  "png": {
+   "bytes": 229688,
+   "sha256": "80e9408c986955e5e51ad17da51e3c7ce6bb47519a845defe14fe07f071b1033",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35841,
+   "sha256": "28194c4037e92be342a2342ed7eb77dbcc03c43645a0abfee906f4552c3c1adb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3541307.jpg",
+  "bytes": 138451,
+  "sha256": "346710c17042c4a8e1435821f8ef9ae1fa8e4f0bf1bdb97b9a36deaa5426082c"
+ },
+ "sha1_origem": "2429acfbb8dede63c16fd782c92acccd447db3c8",
+ "bytes_origem": 138451,
+ "capturado_em": "2026-11-08T06:35:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Presidente_Epitácio.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:09Z",
+  "estado": "igual",
+  "sha1_commons": "2429acfbb8dede63c16fd782c92acccd447db3c8"
+ }
+}

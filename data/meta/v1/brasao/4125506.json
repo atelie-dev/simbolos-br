@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4125506",
+ "uf": "PR",
+ "municipio": "São José dos Pinhais",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bras%C3%A3o_de_S%C3%A3o_Jos%C3%A9_dos_Pinhais%2C_PR.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a228911de93c51b02d7f1ae85f7c4eb2b81f2dc3cf65bb09efb24081fa2bcef6",
+ "rendicoes": {
+  "png": {
+   "bytes": 31591,
+   "sha256": "c40b21931e562db59c7405a1e063b994f59e0428dfa15f7ac6ca33ee2ac9e52d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18086,
+   "sha256": "a528aba4a7f76e3fcd586779b735154eb6bb3a6d3f6e01eb5228e02f6a117eec",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4125506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4125506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4125506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4125506.png",
+  "bytes": 12275,
+  "sha256": "a228911de93c51b02d7f1ae85f7c4eb2b81f2dc3cf65bb09efb24081fa2bcef6"
+ },
+ "sha1_origem": "28f4995809ba69189cb151b116d5e11fa36a018d",
+ "bytes_origem": 12275,
+ "capturado_em": "2026-11-08T06:50:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_José_dos_Pinhais,_PR.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:12Z",
+  "estado": "igual",
+  "sha1_commons": "28f4995809ba69189cb151b116d5e11fa36a018d"
+ }
+}

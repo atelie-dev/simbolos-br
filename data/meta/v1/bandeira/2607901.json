@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2607901",
+ "uf": "PE",
+ "municipio": "Jaboatão dos Guararapes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandeira_JaboataodosGuararapes_Pernambuco_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Jaboatão dos Guararapes",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1f0a343e603db5b0908f51df32c3313798e21c3d2fb7530152611849bac9d9a1",
+ "rendicoes": {
+  "png": {
+   "bytes": 86743,
+   "sha256": "5b398c4c2d9c7f77583c8e41da2983e196da41733754bd22f4ebb59e4605890a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29900,
+   "sha256": "330a01e687f7b6b4295e95ff49cce1ee39d52313a30ecd54225718ac6f727ecb",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1159348,
+   "sha256": "1f0a343e603db5b0908f51df32c3313798e21c3d2fb7530152611849bac9d9a1"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2607901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2607901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2607901.jpg"
+ },
+ "sha1_origem": "4ab31c26c68de559ae5e739ad4aea16726fc58d5",
+ "bytes_origem": 1159348,
+ "capturado_em": "2026-11-08T03:06:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_JaboataodosGuararapes_Pernambuco_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "4ab31c26c68de559ae5e739ad4aea16726fc58d5"
+ }
+}

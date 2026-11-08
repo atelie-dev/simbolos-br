@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3204005",
+ "uf": "ES",
+ "municipio": "Pancas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bandeira-pancas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pancas City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "31b942eaaa5c6f12eab4c67b9e3a98a5fc25aa65fc42613f80c9a8f4e235ae91",
+ "rendicoes": {
+  "png": {
+   "bytes": 52210,
+   "sha256": "f28047d16bbf39c8c86bb50dbcd8f5b408f75dc8f112a1502f0aa35eddf8a77d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17633,
+   "sha256": "23e789a55df256ad78565c1fd090819131078553517a23d583be747cb9fd519e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3204005.jpg",
+  "bytes": 21448,
+  "sha256": "31b942eaaa5c6f12eab4c67b9e3a98a5fc25aa65fc42613f80c9a8f4e235ae91"
+ },
+ "sha1_origem": "351c79ce227f607085441f38d96f8f5a4f872cc0",
+ "bytes_origem": 21448,
+ "capturado_em": "2026-11-08T06:19:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-pancas.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "351c79ce227f607085441f38d96f8f5a4f872cc0"
+ }
+}

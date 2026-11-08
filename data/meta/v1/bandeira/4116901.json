@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4116901",
+ "uf": "PR",
+ "municipio": "Nova Esperança",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bandeira_Nova_Esperan%C3%A7a%2C_PR%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Sandy",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "315127fe39df41abe511a33110cf874585b3f6ecc767d40f2b1be69d7b4752cb",
+ "rendicoes": {
+  "png": {
+   "bytes": 61624,
+   "sha256": "2e2f4cc862838b1073490d1617ce4617d7e14fb9b7a1bb1ec85743573c60ab6f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16242,
+   "sha256": "5b64dec501aa80bec5124119b017105ffd437ba3de9027d636f2fbc6d3787f06",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4116901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4116901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4116901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4116901.jpg",
+  "bytes": 9926,
+  "sha256": "315127fe39df41abe511a33110cf874585b3f6ecc767d40f2b1be69d7b4752cb"
+ },
+ "sha1_origem": "9d8dde9cb7e0569df13fd18f5aabc1a1f2ee11e4",
+ "bytes_origem": 9926,
+ "capturado_em": "2026-11-08T06:46:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Nova_Esperança,_PR,_Brazil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "9d8dde9cb7e0569df13fd18f5aabc1a1f2ee11e4"
+ }
+}

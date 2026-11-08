@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2915353",
+ "uf": "BA",
+ "municipio": "Itaguaçu da Bahia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bandeirairece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f1f9f149b7fba51a9b4c889b63b04cc6e344ef369d70c7244dd36eaada8501eb",
+ "rendicoes": {
+  "png": {
+   "bytes": 69360,
+   "sha256": "ab6e4449ce4a4ee41d8f552f25986778f20cc9cc26fc24a41804bda54ce07fd8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21790,
+   "sha256": "b74f37e7dadcdcc9058157d2d992b8c2b3df9d6f2d68b836264ac12df136a843",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2915353.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2915353.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2915353.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2915353.jpg",
+  "bytes": 53841,
+  "sha256": "f1f9f149b7fba51a9b4c889b63b04cc6e344ef369d70c7244dd36eaada8501eb"
+ },
+ "sha1_origem": "1ddc0811a27d81a0ca5d0ff779176d89967c52d8",
+ "bytes_origem": 53841,
+ "capturado_em": "2026-11-08T05:54:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeirairece.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "1ddc0811a27d81a0ca5d0ff779176d89967c52d8"
+ }
+}

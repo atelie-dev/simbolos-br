@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3204005",
+ "uf": "ES",
+ "municipio": "Pancas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Brasao-pancas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pancas City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "89af90a159fcc697a232e7fee4810b71803fc4108a343ec35bbbcadaddd35e51",
+ "rendicoes": {
+  "png": {
+   "bytes": 57549,
+   "sha256": "451989080b802c1c5a0bc46f94bae166a184082dac25940b991640683587f6e9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20420,
+   "sha256": "c9b7404cfdbc4fc78f5b9a7702611be1f57574e6a9a2f34018acc769caa982da",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3204005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3204005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3204005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3204005.jpg",
+  "bytes": 37562,
+  "sha256": "89af90a159fcc697a232e7fee4810b71803fc4108a343ec35bbbcadaddd35e51"
+ },
+ "sha1_origem": "9c1af936519196bc7b65db9a6bfeea1f855c5897",
+ "bytes_origem": 37562,
+ "capturado_em": "2026-11-08T06:19:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-pancas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "9c1af936519196bc7b65db9a6bfeea1f855c5897"
+ }
+}

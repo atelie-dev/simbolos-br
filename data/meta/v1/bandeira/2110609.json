@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2110609",
+ "uf": "MA",
+ "municipio": "São Bernardo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_saobernardoma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "WikiSaoBernardoMA",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ed4f78e7a8ba0792b121a7273e2495b264fd600300d528ed2ca46d82f565b036",
+ "rendicoes": {
+  "png": {
+   "bytes": 79715,
+   "sha256": "4453d9c83e80a8ce9b29512e84e3a4c82ed7cfd972c8728e97e012cbdde6837e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18291,
+   "sha256": "e7849022da3b427ee73a4067e6830fb40c68cc51872a68366f7da49d4d51f87a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2110609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2110609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2110609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2110609.jpg",
+  "bytes": 101059,
+  "sha256": "ed4f78e7a8ba0792b121a7273e2495b264fd600300d528ed2ca46d82f565b036"
+ },
+ "sha1_origem": "18573e7a8d4f537bca944844dbef467c50befd33",
+ "bytes_origem": 101059,
+ "capturado_em": "2026-11-08T05:28:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_saobernardoma.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "18573e7a8d4f537bca944844dbef467c50befd33"
+ }
+}

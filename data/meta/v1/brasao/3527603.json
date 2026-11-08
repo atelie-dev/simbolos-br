@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3527603",
+ "uf": "SP",
+ "municipio": "Luís Antônio",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bras%C3%A3o_Luis_Antonio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b250be0f4944297dee3dbbc7489d3104d0066334ea250b391ee44ee8ca2b2507",
+ "rendicoes": {
+  "png": {
+   "bytes": 363981,
+   "sha256": "d2a0e210c3420f16037a853c53d3b4e68cdf4604d2e0d96f8a0daf24a6c7d2dc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58631,
+   "sha256": "49b259c4d9edb521ff57ec056a07c87a58617584f5653c7f32190fb5f5a45539",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3527603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3527603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3527603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3527603.jpg",
+  "bytes": 99756,
+  "sha256": "b250be0f4944297dee3dbbc7489d3104d0066334ea250b391ee44ee8ca2b2507"
+ },
+ "sha1_origem": "56f23f511065a512249975fa0b66357530ab58bf",
+ "bytes_origem": 99756,
+ "capturado_em": "2026-11-08T06:31:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Luis_Antonio.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "56f23f511065a512249975fa0b66357530ab58bf"
+ }
+}

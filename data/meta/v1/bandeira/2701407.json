@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2701407",
+ "uf": "AL",
+ "municipio": "Campo Alegre",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bandeira_Campo_Alegre.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "faa430e01b6c5966b416575a765e78690d29eb19d40cc2e4584c5571e05706bd",
+ "rendicoes": {
+  "png": {
+   "bytes": 67140,
+   "sha256": "8c94c58c5b5d6beeca4820d12dd5eca97a877b07a7f98da12dc177916c919dd9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19107,
+   "sha256": "8d7fa79d2d0d7172027f4a00cb1b1a0b90dca7f49f8d6fa844a6e15b44afcbc9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2701407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2701407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2701407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2701407.jpg",
+  "bytes": 16848,
+  "sha256": "faa430e01b6c5966b416575a765e78690d29eb19d40cc2e4584c5571e05706bd"
+ },
+ "sha1_origem": "f36307069b90ff49f7ab4ec95438300e80d87b18",
+ "bytes_origem": 16848,
+ "capturado_em": "2026-11-08T05:47:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Campo_Alegre.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "f36307069b90ff49f7ab4ec95438300e80d87b18"
+ }
+}

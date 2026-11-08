@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2201101",
+ "uf": "PI",
+ "municipio": "Avelino Lopes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bandeira_de_Avelino_Lopes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Carlos.psg2016",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b878ebaa9724b04a620796f383ccada7906ed2d7370f7046183865715082bfcb",
+ "rendicoes": {
+  "png": {
+   "bytes": 49224,
+   "sha256": "8c44a46ab0e7d56629485a3afd8d29537b9081d0f27fe2af08657fcf62662782",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20280,
+   "sha256": "0e82b185d044863f6d0bb7952e11eb5590afbeb4cb3b4a77c8ec94788669a826",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2201101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2201101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2201101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2201101.jpg",
+  "bytes": 350477,
+  "sha256": "b878ebaa9724b04a620796f383ccada7906ed2d7370f7046183865715082bfcb"
+ },
+ "sha1_origem": "e4a605a04bd76ce06c0ee802b13f43c1de7de0b7",
+ "bytes_origem": 350477,
+ "capturado_em": "2026-11-08T05:29:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Avelino_Lopes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "e4a605a04bd76ce06c0ee802b13f43c1de7de0b7"
+ }
+}

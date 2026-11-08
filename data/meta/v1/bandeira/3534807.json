@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3534807",
+ "uf": "SP",
+ "municipio": "Ouro Verde",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bandeira_Ouro_Verde.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b0b08ae59c00f536231f23a7eb72cfe53c5f291ebf9ea60c53bf328d0ccb4b1f",
+ "rendicoes": {
+  "png": {
+   "bytes": 22992,
+   "sha256": "0d14e727263a463a49163a04433ea24572028d40d7498c2438302882de48d95b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12260,
+   "sha256": "e2ce8ca28560fced1769c27f11ed73467deb904769d230887c59b8d83dbfb5c1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534807.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3534807.png",
+  "bytes": 18916,
+  "sha256": "b0b08ae59c00f536231f23a7eb72cfe53c5f291ebf9ea60c53bf328d0ccb4b1f"
+ },
+ "sha1_origem": "ffda6b5f2c86bad445c07f3a70162c094a0d2e1c",
+ "bytes_origem": 18916,
+ "capturado_em": "2026-11-08T06:33:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Ouro_Verde.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "ffda6b5f2c86bad445c07f3a70162c094a0d2e1c"
+ }
+}

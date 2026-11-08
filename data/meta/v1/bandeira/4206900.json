@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4206900",
+ "uf": "SC",
+ "municipio": "Ibirama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bandeira_do_munic%C3%ADpio_de_Ibirama_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ibirama (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9d287b710e4d320400eda80ff7c95eb2cb13adc907b58ece481ad37851ca5d9c",
+ "rendicoes": {
+  "png": {
+   "bytes": 54215,
+   "sha256": "1993dd370321c1b8ca44394fa029032204ae412e5695c75e1ae0f0df0ea28801",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21185,
+   "sha256": "6670264b7b8d8332f607c6bfe9f3a71073dffb27441553ab96931c4b9d32a548",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 683851,
+   "sha256": "9d287b710e4d320400eda80ff7c95eb2cb13adc907b58ece481ad37851ca5d9c"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206900.jpg"
+ },
+ "sha1_origem": "eca6d36334a28c7b089a26699aaa0665767d4967",
+ "bytes_origem": 683851,
+ "capturado_em": "2026-11-08T04:39:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Ibirama_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:19Z",
+  "estado": "igual",
+  "sha1_commons": "eca6d36334a28c7b089a26699aaa0665767d4967"
+ }
+}

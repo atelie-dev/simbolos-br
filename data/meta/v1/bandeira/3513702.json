@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3513702",
+ "uf": "SP",
+ "municipio": "Descalvado",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Bandeira_de_Descalvado-SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Descalvado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7077fdf821e08ee30b796ef6cdd6632d5061af665e7aa47b05929d6eea19f52e",
+ "rendicoes": {
+  "png": {
+   "bytes": 84166,
+   "sha256": "eaef4fb83a3cd0214648b4539de3c92ab2a558137f5ae428adb00ff35ea7f67d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31832,
+   "sha256": "e11ba38b531065c6d96530401d00f08ca4f81581b43f5a75c100b9b92e9ea280",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3513702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3513702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3513702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3513702.jpg",
+  "bytes": 236328,
+  "sha256": "7077fdf821e08ee30b796ef6cdd6632d5061af665e7aa47b05929d6eea19f52e"
+ },
+ "sha1_origem": "000ee58ad7178d17c585f7682318189a3ed14905",
+ "bytes_origem": 236328,
+ "capturado_em": "2026-11-08T06:26:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Descalvado-SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "000ee58ad7178d17c585f7682318189a3ed14905"
+ }
+}

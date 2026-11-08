@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2901601",
+ "uf": "BA",
+ "municipio": "Antas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bras%C3%A3o_de_Antas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Antas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b25701b0fbff19676ef9a987acecf32f13126ece075e006d502a4ae84d6bd6af",
+ "rendicoes": {
+  "png": {
+   "bytes": 131578,
+   "sha256": "aadb496301944f45fbbba8fa4ee9338de88847fd2dc0eba3ec0297ce0c8ad73b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31002,
+   "sha256": "aa5ffbd8b17e41aa613e6375c4e944ddff821fdff0fa0fe46a75aaeda9690eec",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2901601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2901601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2901601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2901601.png",
+  "bytes": 155411,
+  "sha256": "b25701b0fbff19676ef9a987acecf32f13126ece075e006d502a4ae84d6bd6af"
+ },
+ "sha1_origem": "3e337df4e72d4c5f774f717fc5588952b0c36a4c",
+ "bytes_origem": 155411,
+ "capturado_em": "2026-11-08T05:50:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Antas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "3e337df4e72d4c5f774f717fc5588952b0c36a4c"
+ }
+}

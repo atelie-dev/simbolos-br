@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3534005",
+ "uf": "SP",
+ "municipio": "Onda Verde",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bandeira_Onda_Verde.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "33234cef5eea2d28072d7f9c611cc1b15f1fbed7f195d53844173febb842f653",
+ "rendicoes": {
+  "png": {
+   "bytes": 31545,
+   "sha256": "f86ac9b65e97c3adf948c59badabcd578301aa82d62ac1e5d1103be8f4f386b8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16282,
+   "sha256": "bf531984af17aa8109659392677eb9f77b76b86bb40670aac5f13cc04fe6b408",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3534005.png",
+  "bytes": 27283,
+  "sha256": "33234cef5eea2d28072d7f9c611cc1b15f1fbed7f195d53844173febb842f653"
+ },
+ "sha1_origem": "1edb66268d85158d2c9dd1ca68f848662b17af99",
+ "bytes_origem": 27283,
+ "capturado_em": "2026-11-08T06:33:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Onda_Verde.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "1edb66268d85158d2c9dd1ca68f848662b17af99"
+ }
+}

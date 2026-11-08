@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2932804",
+ "uf": "BA",
+ "municipio": "Utinga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bras%C3%A3o_de_Utinga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Utinga",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "35a5bd8ae7005c66ec87fbbe529d65dd5ba64249500232244fb7501d426920cf",
+ "rendicoes": {
+  "png": {
+   "bytes": 197508,
+   "sha256": "09b787117100ed98bc0feec35397e38f4a46aa89e8521d07eb242ee11b7d8e28",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42656,
+   "sha256": "dcb3e648ce77ec33a5c5ca6a6f4aedc584fa73511f87d70f7aea07a2658e296a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2932804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2932804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2932804.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2932804.jpg",
+  "bytes": 347232,
+  "sha256": "35a5bd8ae7005c66ec87fbbe529d65dd5ba64249500232244fb7501d426920cf"
+ },
+ "sha1_origem": "c14680dfd04e706036fbb4783f0180206bff9751",
+ "bytes_origem": 347232,
+ "capturado_em": "2026-11-08T05:58:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Utinga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "c14680dfd04e706036fbb4783f0180206bff9751"
+ }
+}

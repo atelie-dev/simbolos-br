@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3122900",
+ "uf": "MG",
+ "municipio": "Dona Euzébia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Brasaodonaeuzebia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Dona Euzébia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "db964daed21f0e6992ba5a94cb5983d84bdac76314482551a87d8b1cf888f40c",
+ "rendicoes": {
+  "png": {
+   "bytes": 119612,
+   "sha256": "df03d90c39cc5ad95561c3bebbb3b36fd6cfdb86a0b9fe9f7274a25b1efb9b86",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24848,
+   "sha256": "7c034ab2d84347b087dcac0ca7bb40420eabb104aeebe45a5e99435eca4ccf6d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3122900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3122900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3122900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3122900.jpg",
+  "bytes": 18564,
+  "sha256": "db964daed21f0e6992ba5a94cb5983d84bdac76314482551a87d8b1cf888f40c"
+ },
+ "sha1_origem": "c5087288981e4db7afcc786811602ec96845f026",
+ "bytes_origem": 18564,
+ "capturado_em": "2026-11-08T06:06:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaodonaeuzebia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "c5087288981e4db7afcc786811602ec96845f026"
+ }
+}

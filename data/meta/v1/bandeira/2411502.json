@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2411502",
+ "uf": "RN",
+ "municipio": "Santo Antônio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bandeira_de_Santo_Ant%C3%B4nio_%28RN%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Dirk Schönberger",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "39e5cd0cd9b5b4b067495f44c24f1126e2b32c647f0fabe72fcdabb0a3d06df3",
+ "rendicoes": {
+  "png": {
+   "bytes": 32335,
+   "sha256": "13a1bc3f0d1bf5bb6d4467bbfd714f71e306ee8cd0c23067f248b73f825fb60a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13329,
+   "sha256": "e3b494e60e60cef9f87c653cf04cd4fe3e168d45c224453c5f3c670db98b541b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2411502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2411502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2411502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2411502.png",
+  "bytes": 19343,
+  "sha256": "39e5cd0cd9b5b4b067495f44c24f1126e2b32c647f0fabe72fcdabb0a3d06df3"
+ },
+ "sha1_origem": "e70e9189b5d8101bb588f48a1fe9ccdd6461756b",
+ "bytes_origem": 19343,
+ "capturado_em": "2026-11-08T05:38:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santo_Antônio_(RN).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "e70e9189b5d8101bb588f48a1fe9ccdd6461756b"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2501104",
+ "uf": "PB",
+ "municipio": "Areia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Areia_-_Bras%C3%A3o_de_Armas.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Areia",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "991e0fd5f947eaca6cee03a893c66ddd4a0de99dc0d79cf0ada5f1990cbbe03a",
+ "rendicoes": {
+  "png": {
+   "bytes": 190614,
+   "sha256": "c944f9a31d8394735b061c3c2a92076285c303f25e4049e907b4d2115911d40b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53884,
+   "sha256": "ce63047795786f156442dd23009b6dc7b9018811df5601b0778f777b029e6867",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 35588,
+   "sha256": "991e0fd5f947eaca6cee03a893c66ddd4a0de99dc0d79cf0ada5f1990cbbe03a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501104.jpg"
+ },
+ "sha1_origem": "7a7dc8e5e179307695babf8ee04f73d13b0f5356",
+ "bytes_origem": 35588,
+ "capturado_em": "2026-11-08T02:55:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Areia_-_Brasão_de_Armas.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "7a7dc8e5e179307695babf8ee04f73d13b0f5356"
+ }
+}

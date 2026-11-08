@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3520509",
+ "uf": "SP",
+ "municipio": "Indaiatuba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Indaiatuba_bandeira.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Rbalieiro",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "85a5ec4ff9db5fb579309c3ac351058710695aa869edd72073fb119d3004f2b1",
+ "rendicoes": {
+  "png": {
+   "bytes": 52636,
+   "sha256": "5ceff550f29fb338d17389397ec2af3e914f258fdc37f75757fe25deccdd6378",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21721,
+   "sha256": "88e8ed96c40e9d483a918d6ac522f796fec0ba4cbce95ae2ba062b86b3b8b1f9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 385088,
+   "sha256": "85a5ec4ff9db5fb579309c3ac351058710695aa869edd72073fb119d3004f2b1"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520509.jpg"
+ },
+ "sha1_origem": "044ccb2b9a9fc19d762d0b368713b7b42aea7463",
+ "bytes_origem": 385088,
+ "capturado_em": "2026-11-08T04:05:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Indaiatuba_bandeira.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "044ccb2b9a9fc19d762d0b368713b7b42aea7463"
+ }
+}

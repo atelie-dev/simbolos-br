@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3552601",
+ "uf": "SP",
+ "municipio": "Tabapuã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Flag_of_Tabapu%C3%A3_-_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ba8d25206ae50755e79a051d6e4923abeac0118cb2bdb298c766e2d87d1e3e72",
+ "rendicoes": {
+  "png": {
+   "bytes": 86714,
+   "sha256": "259056000ea64517dd6e9148974f0253019db22216c43870e8589fdbd61c7c1c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26252,
+   "sha256": "f211222c93c737b17de6e10c2851b05b6d5af1a9a66b6476a993cea6a64f9c1c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3552601.png",
+  "bytes": 124698,
+  "sha256": "ba8d25206ae50755e79a051d6e4923abeac0118cb2bdb298c766e2d87d1e3e72"
+ },
+ "sha1_origem": "672ef8816c749568c80623cb0c728c10b3a02348",
+ "bytes_origem": 124698,
+ "capturado_em": "2026-11-08T06:39:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Tabapuã_-_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "672ef8816c749568c80623cb0c728c10b3a02348"
+ }
+}

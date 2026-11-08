@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3150703",
+ "uf": "MG",
+ "municipio": "Pirajuba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bandeira_do_Munic%C3%ADpio_de_Pirajuba_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura Municipal de Pirajuba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "53ed0b9382361dde73cc816cf70ecf830ad96c2f03ea9cfc5421507e9b9e80f1",
+ "rendicoes": {
+  "png": {
+   "bytes": 240680,
+   "sha256": "ef1ae11d8f767125c4f297e2f7946478dcdf328d7f0063fa62ec3da4193d5f6a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32603,
+   "sha256": "f62cedd2ebeb477398ab446633ccb665eb7299755d237cac2a0d1ddd751d22de",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3150703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3150703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3150703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3150703.jpg",
+  "bytes": 69619,
+  "sha256": "53ed0b9382361dde73cc816cf70ecf830ad96c2f03ea9cfc5421507e9b9e80f1"
+ },
+ "sha1_origem": "f2c6bff753bf3231a1c52f53af697eaa9572e2dc",
+ "bytes_origem": 69619,
+ "capturado_em": "2026-11-08T06:13:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_Município_de_Pirajuba_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "f2c6bff753bf3231a1c52f53af697eaa9572e2dc"
+ }
+}

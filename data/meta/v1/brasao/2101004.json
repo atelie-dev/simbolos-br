@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2101004",
+ "uf": "MA",
+ "municipio": "Arari",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bras%C3%A3o_de_Arari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "HMC²",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "efca6e3b4023fb76323bfc9b1e2f591077e3ba6d5f0612a8a72d25a71c7aa283",
+ "rendicoes": {
+  "png": {
+   "bytes": 45096,
+   "sha256": "d41788f3375f2de5a9be448af84354ce864b4a7125d21e0439831c599932b391",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10069,
+   "sha256": "d0ba981714cec74d6e10421d5e3f1ddfe422fcb2e7a2e05073e869e07d302f95",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2101004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2101004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2101004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2101004.jpg",
+  "bytes": 25760,
+  "sha256": "efca6e3b4023fb76323bfc9b1e2f591077e3ba6d5f0612a8a72d25a71c7aa283"
+ },
+ "sha1_origem": "09ed89d4b92baaf6045da409a8b0982c317fcfaa",
+ "bytes_origem": 25760,
+ "capturado_em": "2026-11-08T05:27:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Arari.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "09ed89d4b92baaf6045da409a8b0982c317fcfaa"
+ }
+}

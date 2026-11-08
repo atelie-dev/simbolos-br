@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4320701",
+ "uf": "RS",
+ "municipio": "Sobradinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bras%C3%A3o_de_Sobradinho_-_RS.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5fc9ff82f0201ad9998e3336124428f148813d04790fbfd041bfb3a01c76dd42",
+ "rendicoes": {
+  "png": {
+   "bytes": 194884,
+   "sha256": "e9c6fc9b806e48ffff07efda681399de273987d52da4be5cba35069547e32892",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56949,
+   "sha256": "a3c01edcba1c9b54ecd1da4c5894ff9f479d6b060f2f3f2817d182a2ae9eb702",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 409451,
+   "sha256": "5fc9ff82f0201ad9998e3336124428f148813d04790fbfd041bfb3a01c76dd42"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320701.jpg"
+ },
+ "sha1_origem": "63edcd4e8f41d304fa9d0d884219af19b72afa1e",
+ "bytes_origem": 409451,
+ "capturado_em": "2026-11-08T05:00:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Sobradinho_-_RS.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:12Z",
+  "estado": "igual",
+  "sha1_commons": "63edcd4e8f41d304fa9d0d884219af19b72afa1e"
+ }
+}

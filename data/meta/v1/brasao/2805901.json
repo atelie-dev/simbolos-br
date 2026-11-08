@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2805901",
+ "uf": "SE",
+ "municipio": "Riachuelo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brasao_riachuelo_se.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Riba28-maps",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "75a60a0284b584124de8e1cd3b759ee5bf77e75f9169e311c466121e01ae9ed9",
+ "rendicoes": {
+  "png": {
+   "bytes": 165666,
+   "sha256": "53888bd919ab8d742b6b109527ca156edee96015ccdfd8ee994e52ccc63fd015",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 57217,
+   "sha256": "5fef80201cf0f7adf59f70378800386bf618749320493c0a7155b070776af058",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 97516,
+   "sha256": "75a60a0284b584124de8e1cd3b759ee5bf77e75f9169e311c466121e01ae9ed9"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2805901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2805901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2805901.jpg"
+ },
+ "sha1_origem": "ca4219858c5488fbadf2717960027d2a864d5b3c",
+ "bytes_origem": 97516,
+ "capturado_em": "2026-11-08T03:13:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_riachuelo_se.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "ca4219858c5488fbadf2717960027d2a864d5b3c"
+ }
+}

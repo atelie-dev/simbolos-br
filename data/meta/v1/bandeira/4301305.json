@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4301305",
+ "uf": "RS",
+ "municipio": "Arroio Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/56/BandeiraArroiogrande.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4af38c439f702971d717e3bd6e518d7e20fb50e709c9578b7a68f8fb9b6dd415",
+ "rendicoes": {
+  "png": {
+   "bytes": 34878,
+   "sha256": "e3d191333736032ce71e9a105a811e4f4e059db309c4a61b4a9637d742b4e856",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14590,
+   "sha256": "71781bd2825dce4d6e96ec34ec01b7886b1a83fb831eb3d50c2af379f33a104a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4301305.jpg",
+  "bytes": 114864,
+  "sha256": "4af38c439f702971d717e3bd6e518d7e20fb50e709c9578b7a68f8fb9b6dd415"
+ },
+ "sha1_origem": "d19acaa20b60bb9aee56effcc75b858e885be0fd",
+ "bytes_origem": 114864,
+ "capturado_em": "2026-11-08T06:59:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraArroiogrande.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "d19acaa20b60bb9aee56effcc75b858e885be0fd"
+ }
+}

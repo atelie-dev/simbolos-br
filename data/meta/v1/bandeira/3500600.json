@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3500600",
+ "uf": "SP",
+ "municipio": "Águas de São Pedro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bandeira_%C3%81guas_de_S%C3%A3o_Pedro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Eduardo Shiroma (Agente Rolf): only edited the original image.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "da4ab0453b6f70565232d118b0327fc5cad842f0e9baf640c5e495121e0bfcc9",
+ "rendicoes": {
+  "png": {
+   "bytes": 43636,
+   "sha256": "4955673153f728a07711d08fbbf74059cf33dbfaf56016da3086eba80d5dd2d1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13778,
+   "sha256": "69333f6a4569f5980a57a69ac0103b190b37ba094922967152c762cfeb72696e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3500600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3500600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3500600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3500600.png",
+  "bytes": 284474,
+  "sha256": "da4ab0453b6f70565232d118b0327fc5cad842f0e9baf640c5e495121e0bfcc9"
+ },
+ "sha1_origem": "601330b849d6a1b8042709fd0ee374dc43bebda0",
+ "bytes_origem": 284474,
+ "capturado_em": "2026-11-08T06:22:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Águas_de_São_Pedro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "601330b849d6a1b8042709fd0ee374dc43bebda0"
+ }
+}

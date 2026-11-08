@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3509205",
+ "uf": "SP",
+ "municipio": "Cajamar",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bandeira_de_Cajamar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cajamar - SP Brazil",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f95172a2e1b94e825e227194f167afbceb8f5a5e18d659a7c290842f65d0516c",
+ "rendicoes": {
+  "png": {
+   "bytes": 110091,
+   "sha256": "b0b06b9dddbe5970138388647fa395992193786857030a3719f7959048cb8987",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32990,
+   "sha256": "2354ace46adf35a1ee0d0d6feb4a1dcf46d2ea53d3cd31a7f5c5162c2faca890",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509205.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3509205.jpg",
+  "bytes": 171151,
+  "sha256": "f95172a2e1b94e825e227194f167afbceb8f5a5e18d659a7c290842f65d0516c"
+ },
+ "sha1_origem": "e2b14820eab470d88a762b4f0b8c1eaf3f116844",
+ "bytes_origem": 171151,
+ "capturado_em": "2026-11-08T06:25:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cajamar.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "e2b14820eab470d88a762b4f0b8c1eaf3f116844"
+ }
+}

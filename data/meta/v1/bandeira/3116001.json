@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3116001",
+ "uf": "MG",
+ "municipio": "Chalé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Chal%C3%A9_MG.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HVL",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "89a2a03b3ece141598f3105ce9fa078a8b561372797ee1c1d7855042c8c2e2c2",
+ "rendicoes": {
+  "png": {
+   "bytes": 24012,
+   "sha256": "79f26d67980d3db5b59c9968d2d152c7960906cf40e4d91bcf237e3fa3089f04",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13112,
+   "sha256": "8cf82a530fd02d557bec495008d639b4523571b9164c0434f22971a64265e05e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3116001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3116001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3116001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3116001.png",
+  "bytes": 579794,
+  "sha256": "89a2a03b3ece141598f3105ce9fa078a8b561372797ee1c1d7855042c8c2e2c2"
+ },
+ "sha1_origem": "221ff36ee47202202918647ea7fd6b58969cb8e7",
+ "bytes_origem": 579794,
+ "capturado_em": "2026-11-08T06:03:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Chalé_MG.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "221ff36ee47202202918647ea7fd6b58969cb8e7"
+ }
+}

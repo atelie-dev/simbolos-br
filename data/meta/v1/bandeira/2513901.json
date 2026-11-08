@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2513901",
+ "uf": "PB",
+ "municipio": "São Bento",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bandeira_de_S%C3%A3o_Bento%2C_Para%C3%ADba%2C_Brasil.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Rodrigogomespedrosa",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "54cdff1ec59271747b81dd850be75e92b0742719713c42eecfd9032be624db1d",
+ "rendicoes": {
+  "png": {
+   "bytes": 83617,
+   "sha256": "2d4c5032d22ddddb5f49434c278703ea1a2f3f9d23ff1e9f2d27731503178cda",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22239,
+   "sha256": "8d3e5596c877b463a8968e425b570c37fbd6d6a6f43de538c932387f215255cd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2513901.png",
+  "bytes": 130760,
+  "sha256": "54cdff1ec59271747b81dd850be75e92b0742719713c42eecfd9032be624db1d"
+ },
+ "sha1_origem": "7ddd2be68b67484711f39bb6cff7d984327c30b9",
+ "bytes_origem": 130760,
+ "capturado_em": "2026-11-08T05:43:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Bento,_Paraíba,_Brasil.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "7ddd2be68b67484711f39bb6cff7d984327c30b9"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4101150",
+ "uf": "PR",
+ "municipio": "Ângulo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bandeira_%C3%82ngulo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Fotógrafo Oficial de Ângulo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "eb7bec5561abc19c435f9e55c1ad8f225f88f110500923311cfd32ea2e3d8fbd",
+ "rendicoes": {
+  "png": {
+   "bytes": 52219,
+   "sha256": "334a10ee994a8a0459191b6ee5ba90ede55f04a5f883fd6a38f05104856c6f5d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19792,
+   "sha256": "e6d011a85caabbbdfad9bc1dc2983ce7a529f1750eb0e43684df1ee276afd6cf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101150.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101150.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101150.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4101150.jpg",
+  "bytes": 152109,
+  "sha256": "eb7bec5561abc19c435f9e55c1ad8f225f88f110500923311cfd32ea2e3d8fbd"
+ },
+ "sha1_origem": "96ecf8acc77a24477e90e486b3e03dc784123b20",
+ "bytes_origem": 152109,
+ "capturado_em": "2026-11-08T06:41:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Ângulo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "96ecf8acc77a24477e90e486b3e03dc784123b20"
+ }
+}

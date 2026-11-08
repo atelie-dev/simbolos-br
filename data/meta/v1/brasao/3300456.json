@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3300456",
+ "uf": "RJ",
+ "municipio": "Belford Roxo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bras%C3%A3o_de_Belford_Roxo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Wanderson S. Dantas",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "6925118043aa9567c58d631b81d6f30b7e2d52a73a192a3be247c5d6f0cbb708",
+ "rendicoes": {
+  "png": {
+   "bytes": 216050,
+   "sha256": "c608d1f854990b6c4be0969d7cde3a306eea9f2db5042f8cbe56fbe4b6d1154b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 74111,
+   "sha256": "fba0cea1072ec6e51f02b3b432af43c752fe26613658aa383b986e9224357181",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 103679,
+   "sha256": "6925118043aa9567c58d631b81d6f30b7e2d52a73a192a3be247c5d6f0cbb708"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300456.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300456.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300456.jpg"
+ },
+ "sha1_origem": "7430a7ecc99ab38b6c4f865aca21d7d3a3d1d3de",
+ "bytes_origem": 103679,
+ "capturado_em": "2026-11-08T03:53:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Belford_Roxo.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "7430a7ecc99ab38b6c4f865aca21d7d3a3d1d3de"
+ }
+}

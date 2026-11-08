@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3504503",
+ "uf": "SP",
+ "municipio": "Avaré",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bandeira_Avar%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d0e341f1e7808d47d14862437f696503df6eeb8f88625541dee2b64f1a9d9ab7",
+ "rendicoes": {
+  "png": {
+   "bytes": 73524,
+   "sha256": "8057ff193ff9cb4d2b0ad26455193e66b8221e5a08f38a61c08ac3427ca67983",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23384,
+   "sha256": "2af2816afef828e749ab6b1e4081d7e3ebcdba1d34139f93be3bb1d3969d8228",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3504503.jpg",
+  "bytes": 206949,
+  "sha256": "d0e341f1e7808d47d14862437f696503df6eeb8f88625541dee2b64f1a9d9ab7"
+ },
+ "sha1_origem": "883d0eee3baacc3e7d1465fad930ebe124dc5d53",
+ "bytes_origem": 206949,
+ "capturado_em": "2026-11-08T06:24:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Avaré.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "883d0eee3baacc3e7d1465fad930ebe124dc5d53"
+ }
+}

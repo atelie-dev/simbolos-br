@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4109757",
+ "uf": "PR",
+ "municipio": "Ibema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bandeira_de_Ibema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "df1bea65867dba33c71dfe760ca35dd5bc4bcf304c1dbbc5b7e94688b6bb5585",
+ "rendicoes": {
+  "png": {
+   "bytes": 80386,
+   "sha256": "489ccd6a6840f39f7416c8501fa2b7e97479e0545a7917718f39085ea32048cf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19415,
+   "sha256": "08cff6a40ae5a6fdaaab9076e2538cc87b5abb45f706c17fc254b312fd67b389",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109757.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109757.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109757.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4109757.jpg",
+  "bytes": 51247,
+  "sha256": "df1bea65867dba33c71dfe760ca35dd5bc4bcf304c1dbbc5b7e94688b6bb5585"
+ },
+ "sha1_origem": "187b4a39a3c4cac2f259fe6b96821bd32ea26ef0",
+ "bytes_origem": 51247,
+ "capturado_em": "2026-11-08T06:44:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ibema.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "187b4a39a3c4cac2f259fe6b96821bd32ea26ef0"
+ }
+}

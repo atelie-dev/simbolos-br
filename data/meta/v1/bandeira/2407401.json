@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2407401",
+ "uf": "RN",
+ "municipio": "Martins",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bandeira_de_Martins_%28RN%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Russel B.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bdccec0b609982632b6e6b4fcc04fa5852b5b9aae94d574e0dfe02325500ea65",
+ "rendicoes": {
+  "png": {
+   "bytes": 54365,
+   "sha256": "dac0fbde537921ae2811173ab60cd0dd6f16ddfb07d345fcc7350fc37284917b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23456,
+   "sha256": "63db1abcb622accfb37629a1f2cdf3bc2b9f33031060d245c611bc7edcd22536",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2407401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2407401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2407401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2407401.png",
+  "bytes": 38968,
+  "sha256": "bdccec0b609982632b6e6b4fcc04fa5852b5b9aae94d574e0dfe02325500ea65"
+ },
+ "sha1_origem": "b93bbe93aafeff20de243d70ee17a5baa9f60636",
+ "bytes_origem": 38968,
+ "capturado_em": "2026-11-08T05:37:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Martins_(RN).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "b93bbe93aafeff20de243d70ee17a5baa9f60636"
+ }
+}

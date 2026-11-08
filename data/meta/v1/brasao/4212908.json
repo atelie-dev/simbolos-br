@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4212908",
+ "uf": "SC",
+ "municipio": "Pinhalzinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Brasao_pinhalzinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5bf774a150b45111df02ef12b1c669205ec63ebc045fcf7a70d786391893681f",
+ "rendicoes": {
+  "png": {
+   "bytes": 150458,
+   "sha256": "1288edb33fbb39f5f6744e264c30df49442c9acc80c526979cf1bc653280b4f6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32722,
+   "sha256": "8a18426ddb6840d58674184576cee0ce57b17496ddc28ab2d1e2586670bf77c0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4212908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4212908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4212908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4212908.jpg",
+  "bytes": 19215,
+  "sha256": "5bf774a150b45111df02ef12b1c669205ec63ebc045fcf7a70d786391893681f"
+ },
+ "sha1_origem": "07f470d329a244a34bb521d0dc058295fb059d22",
+ "bytes_origem": 19215,
+ "capturado_em": "2026-11-08T06:55:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_pinhalzinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "07f470d329a244a34bb521d0dc058295fb059d22"
+ }
+}

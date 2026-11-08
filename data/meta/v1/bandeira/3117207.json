@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3117207",
+ "uf": "MG",
+ "municipio": "Conceição das Pedras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bandeira-concei%C3%A7%C3%A3odaspedras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Conceição das Pedras",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fdb0b5d379ed3cea769c43ce11761ad7440a604335b2eb044cfdded3cb535463",
+ "rendicoes": {
+  "png": {
+   "bytes": 7749,
+   "sha256": "106bae70bdbfb6e69840fb42f7794ccbb409c8ee9caca8d90543350b000636ff",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12500,
+   "sha256": "345ccfd071ed8aaa24cad689dd6cded51478734e6fbadd307ceeceb7ec14dd47",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3117207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3117207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3117207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3117207.png",
+  "bytes": 5454,
+  "sha256": "fdb0b5d379ed3cea769c43ce11761ad7440a604335b2eb044cfdded3cb535463"
+ },
+ "sha1_origem": "f954d2d829cde2d3e9d127c0d652c8c39d2ee47a",
+ "bytes_origem": 5454,
+ "capturado_em": "2026-11-08T06:04:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-conceiçãodaspedras.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "f954d2d829cde2d3e9d127c0d652c8c39d2ee47a"
+ }
+}

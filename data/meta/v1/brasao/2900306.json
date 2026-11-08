@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2900306",
+ "uf": "BA",
+ "municipio": "Acajutiba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Brasao-Acajutiba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Acajutiba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6e314573bc96728f164224df41c2eb8ba8500dd12776fe7a22099acd97dd7811",
+ "rendicoes": {
+  "png": {
+   "bytes": 131888,
+   "sha256": "7c8454d0af5d8474067e52c78036dbfa15559a583cfd7cd0df254a0b5724a626",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48926,
+   "sha256": "effc6cb34b8c4213f69b7d579467d128b0d62e543838b65c3be4e643314f14ad",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2900306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2900306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2900306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2900306.jpg",
+  "bytes": 65073,
+  "sha256": "6e314573bc96728f164224df41c2eb8ba8500dd12776fe7a22099acd97dd7811"
+ },
+ "sha1_origem": "e5c35414b864746a581abfc8e4800207a6ff70ed",
+ "bytes_origem": 65073,
+ "capturado_em": "2026-11-08T05:50:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-Acajutiba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "e5c35414b864746a581abfc8e4800207a6ff70ed"
+ }
+}

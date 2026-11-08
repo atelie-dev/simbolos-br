@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2400505",
+ "uf": "RN",
+ "municipio": "Alexandria",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bras%C3%A3o_de_Alexandria_%28RN%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Alexandria",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "77d60285b450cceafd0bf7cd7f828b2318235ae6bc65615d7d9a36c261cabbaf",
+ "rendicoes": {
+  "png": {
+   "bytes": 90745,
+   "sha256": "8be5e1ca409b4b222a2d89d315f00c1106d2b107b21d9703957f46913e2c057a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29268,
+   "sha256": "e0983ab5f434334a2973bc14479348d1d992b338425aff85bc2db2a854fe0569",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2400505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2400505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2400505.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2400505.png",
+  "bytes": 87337,
+  "sha256": "77d60285b450cceafd0bf7cd7f828b2318235ae6bc65615d7d9a36c261cabbaf"
+ },
+ "sha1_origem": "54035f15784d2d76f523c4dadc2bd9e89c7daed8",
+ "bytes_origem": 87337,
+ "capturado_em": "2026-11-08T05:35:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Alexandria_(RN).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "54035f15784d2d76f523c4dadc2bd9e89c7daed8"
+ }
+}

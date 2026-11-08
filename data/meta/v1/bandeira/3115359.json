@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3115359",
+ "uf": "MG",
+ "municipio": "Catas Altas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bandeira-catasaltas-mg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMCA",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e4856a8e1acea17c1986d4b3ca3568b4532aa06d69fd542f345cc8c0fcb1d1e7",
+ "rendicoes": {
+  "png": {
+   "bytes": 29041,
+   "sha256": "c8164c147560c17e999a988d71b165b800dcab7cbeb0ccccb429ba95e2b06a9a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9937,
+   "sha256": "6671dcbe815315f33cf728360c208b91ca90b7b816b0863a1d495731f2253aa5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115359.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115359.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115359.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3115359.jpg",
+  "bytes": 7783,
+  "sha256": "e4856a8e1acea17c1986d4b3ca3568b4532aa06d69fd542f345cc8c0fcb1d1e7"
+ },
+ "sha1_origem": "32533edd11bf53b38fc6770eeacd448a5581cc67",
+ "bytes_origem": 7783,
+ "capturado_em": "2026-11-08T06:03:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-catasaltas-mg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "32533edd11bf53b38fc6770eeacd448a5581cc67"
+ }
+}

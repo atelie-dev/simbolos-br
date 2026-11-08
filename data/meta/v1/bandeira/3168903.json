@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3168903",
+ "uf": "MG",
+ "municipio": "Tiros",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bandeira_tiros-mg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "JD1523",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a1bd1818c5bc2dfd278298a675bd80ea1e4c2c6ec7ed706c6bc4328f6e1bc4ba",
+ "rendicoes": {
+  "png": {
+   "bytes": 187333,
+   "sha256": "b928374378c3a08ca64cbad024c760ffa38197362f4695e93bd2a715af63290a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29017,
+   "sha256": "025fd30411fe51f1c1069043e6c0a73692132c0a7e7e3d42128e720133a00242",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3168903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3168903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3168903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3168903.png",
+  "bytes": 243209,
+  "sha256": "a1bd1818c5bc2dfd278298a675bd80ea1e4c2c6ec7ed706c6bc4328f6e1bc4ba"
+ },
+ "sha1_origem": "55b62830205dc19824945283d347a011a137ed73",
+ "bytes_origem": 243209,
+ "capturado_em": "2026-11-08T06:17:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_tiros-mg.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "55b62830205dc19824945283d347a011a137ed73"
+ }
+}

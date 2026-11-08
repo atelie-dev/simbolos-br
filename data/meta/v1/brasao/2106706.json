@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2106706",
+ "uf": "MA",
+ "municipio": "Mirador",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/50/Bras%C3%A3o_de_Mirador%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Weveson1405",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c9ed575b0c2b4f833893829e1838a2d06068f1db61d50e61869aefdff9be3705",
+ "rendicoes": {
+  "png": {
+   "bytes": 240149,
+   "sha256": "bbaaee26d6f246f35a66721cf6a56a5ea58825c8dd4ddba678d7a0939c69143f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45059,
+   "sha256": "a7d87a338645ed38f74acfb7ecc7467a344f35205670d082653a63118ac37855",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2106706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2106706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2106706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2106706.jpg",
+  "bytes": 129120,
+  "sha256": "c9ed575b0c2b4f833893829e1838a2d06068f1db61d50e61869aefdff9be3705"
+ },
+ "sha1_origem": "f73f3913c5817943e38f3daff3c23f84764fa990",
+ "bytes_origem": 129120,
+ "capturado_em": "2026-11-08T05:28:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Mirador,_MA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "f73f3913c5817943e38f3daff3c23f84764fa990"
+ }
+}

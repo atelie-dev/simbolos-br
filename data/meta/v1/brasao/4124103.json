@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4124103",
+ "uf": "PR",
+ "municipio": "Santo Antônio da Platina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Brasao_sap.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Reizend",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9b1bd3843525aad804d9d04edf7ef33d3e1631bb2d8bed46f33178a7ed316115",
+ "rendicoes": {
+  "png": {
+   "bytes": 36609,
+   "sha256": "11942f4928af6bbf39b98cccf74955dd492ab8db873dea380112b4e725daea88",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12019,
+   "sha256": "111cc73773e8b745cf1bd6abe30948da2c90abd4df9fdb56f53935a7e2ecc257",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4124103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4124103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4124103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4124103.png",
+  "bytes": 14188,
+  "sha256": "9b1bd3843525aad804d9d04edf7ef33d3e1631bb2d8bed46f33178a7ed316115"
+ },
+ "sha1_origem": "29a9359b421872a71dfaef405e7a14be6e7598b8",
+ "bytes_origem": 14188,
+ "capturado_em": "2026-11-08T06:49:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_sap.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "29a9359b421872a71dfaef405e7a14be6e7598b8"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2516300",
+ "uf": "PB",
+ "municipio": "Sumé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bandeira_Oficial_da_cidade_de_Sum%C3%A9-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Sumé",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "25f054f3d03b22b71a44b96c799c4e921f81c8a2f6d1cf0ff9d4e7aa5c05c9f1",
+ "rendicoes": {
+  "png": {
+   "bytes": 50851,
+   "sha256": "733cb0eaf1c743a997f390b498ce76778e446be08de06e99ba38e4f1664af9f3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23004,
+   "sha256": "21e0d8e481f240031d91f0fb9361c0d9c5cde5fb911ddf9d583c2d624358910f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 333637,
+   "sha256": "25f054f3d03b22b71a44b96c799c4e921f81c8a2f6d1cf0ff9d4e7aa5c05c9f1"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516300.jpg"
+ },
+ "sha1_origem": "c7616691b3d91c78cfe765ec4d73be3c918d561b",
+ "bytes_origem": 333637,
+ "capturado_em": "2026-11-08T03:03:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Oficial_da_cidade_de_Sumé-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "c7616691b3d91c78cfe765ec4d73be3c918d561b"
+ }
+}

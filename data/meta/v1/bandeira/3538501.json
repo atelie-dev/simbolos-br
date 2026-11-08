@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3538501",
+ "uf": "SP",
+ "municipio": "Piquete",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Piquete_bandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8fa078eac71c6695bed309d57da5cfcd7714448bd2fe95333ae696cba13f4f99",
+ "rendicoes": {
+  "png": {
+   "bytes": 11020,
+   "sha256": "fb822d6c7b1f08d4f530463cef4c5fd02d09323e195fcf7eda0381036e8478a1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12206,
+   "sha256": "d06badab1888f0d390f3645370f9be5c56443ffec69dab6e362a12b001fb53f3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3538501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3538501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3538501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3538501.png",
+  "bytes": 3345,
+  "sha256": "8fa078eac71c6695bed309d57da5cfcd7714448bd2fe95333ae696cba13f4f99"
+ },
+ "sha1_origem": "dfe01f430ef775a43a4f96414785d4a685d3c500",
+ "bytes_origem": 3345,
+ "capturado_em": "2026-11-08T06:34:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Piquete_bandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "dfe01f430ef775a43a4f96414785d4a685d3c500"
+ }
+}

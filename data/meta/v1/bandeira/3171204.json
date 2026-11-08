@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3171204",
+ "uf": "MG",
+ "municipio": "Vespasiano",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bandeira_de_Vespasiano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Vespasiano",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e5c2d0e491a8ac616978188d8af573fadf519eb4c21cb34e548a832a3c9901f6",
+ "rendicoes": {
+  "png": {
+   "bytes": 42217,
+   "sha256": "35c3c1e40e3cc8123c092c960b547887eabb83751cc5a79922a80d53a93d609c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14006,
+   "sha256": "898ab4220faceb7c92e263639768a516e8cdf40324679c6189dfcb0fc9584060",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3171204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3171204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3171204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3171204.jpg",
+  "bytes": 56898,
+  "sha256": "e5c2d0e491a8ac616978188d8af573fadf519eb4c21cb34e548a832a3c9901f6"
+ },
+ "sha1_origem": "683cb864cafe56e52ae7ec3e6692468fbc52b8b8",
+ "bytes_origem": 56898,
+ "capturado_em": "2026-11-08T06:18:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Vespasiano.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "683cb864cafe56e52ae7ec3e6692468fbc52b8b8"
+ }
+}

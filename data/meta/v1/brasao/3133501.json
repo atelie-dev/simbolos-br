@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3133501",
+ "uf": "MG",
+ "municipio": "Itapecerica",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/47/BANDEIRA_de_ITAPECERICA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Danilo Araújo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "37c640108611732702f545c9d6fc68db5d14e16f2deaa6806cac7fdd40c43c11",
+ "rendicoes": {
+  "png": {
+   "bytes": 183341,
+   "sha256": "b6a980987aff8dd9629310c3c0fba999ee5afa75d476c484bed08a044a2099ab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29027,
+   "sha256": "dcdbc48b27787dfa9300639b69e7893a662061456911a450bb4610c26889794e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3133501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3133501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3133501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3133501.jpg",
+  "bytes": 68449,
+  "sha256": "37c640108611732702f545c9d6fc68db5d14e16f2deaa6806cac7fdd40c43c11"
+ },
+ "sha1_origem": "2b397786abd9d6e54842afef7df4abf6a1b9020a",
+ "bytes_origem": 68449,
+ "capturado_em": "2026-11-08T06:09:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BANDEIRA_de_ITAPECERICA.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:36Z",
+  "estado": "igual",
+  "sha1_commons": "2b397786abd9d6e54842afef7df4abf6a1b9020a"
+ }
+}

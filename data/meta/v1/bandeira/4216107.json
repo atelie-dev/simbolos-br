@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4216107",
+ "uf": "SC",
+ "municipio": "São Domingos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bandeira_do_munic%C3%ADpio_de_S%C3%A3o_Domingos_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Domingos (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b41ab21c9ca799af28ee110f33e0c4e440b7d4d41bb682a920719ea04619c76b",
+ "rendicoes": {
+  "png": {
+   "bytes": 51213,
+   "sha256": "457e3b791d1f8d99d5f4d81f1ce6fe0779173d82d661a451671bfe56deec33f4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20554,
+   "sha256": "a2a7ba4be5999b0c80c2755edc8ef0446dd831c44bb6ee933175314d1dfbfe61",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 199620,
+   "sha256": "b41ab21c9ca799af28ee110f33e0c4e440b7d4d41bb682a920719ea04619c76b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216107.jpg"
+ },
+ "sha1_origem": "25a9687eceb61fd9378413d2924d1916fbeda5ab",
+ "bytes_origem": 199620,
+ "capturado_em": "2026-11-08T04:44:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_São_Domingos_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "25a9687eceb61fd9378413d2924d1916fbeda5ab"
+ }
+}

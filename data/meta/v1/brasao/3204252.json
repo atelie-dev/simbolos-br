@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3204252",
+ "uf": "ES",
+ "municipio": "Ponto Belo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Brasao_ponto_belo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3e7935cff70a1054a9d4c011204b6f04363570d3b811cfd3223e862fae208c70",
+ "rendicoes": {
+  "png": {
+   "bytes": 230475,
+   "sha256": "d9528bfd5fa52fa29f2590e883f8716991f3106c26dd64b3f0079552288cebc6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 65082,
+   "sha256": "ba3dabb08efdbfaf6870f657f94f1a3c52c0fb24ceda530adcd9d46ec3f366ef",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3204252.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3204252.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3204252.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3204252.jpg",
+  "bytes": 71721,
+  "sha256": "3e7935cff70a1054a9d4c011204b6f04363570d3b811cfd3223e862fae208c70"
+ },
+ "sha1_origem": "010ce4c1eebbdef50b4d24bd791ea5187f059b31",
+ "bytes_origem": 71721,
+ "capturado_em": "2026-11-08T06:19:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_ponto_belo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "010ce4c1eebbdef50b4d24bd791ea5187f059b31"
+ }
+}

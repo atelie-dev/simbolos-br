@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2608800",
+ "uf": "PE",
+ "municipio": "Lajedo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bras%C3%A3o_de_Lajedo_-_PE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "José Erik",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d0e76a5575fed8ebb1d6c4e8ed762178b8397d04f1455233878d0d1d44c773f2",
+ "rendicoes": {
+  "png": {
+   "bytes": 105372,
+   "sha256": "4fa3b560a120b41aff4538f7366172ca73788208c4fe9ad273500690be6565df",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37235,
+   "sha256": "49b106c42e6ea09ec1568bb77f406363ee006eb86d9be3793958db6952523b6a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 147025,
+   "sha256": "d0e76a5575fed8ebb1d6c4e8ed762178b8397d04f1455233878d0d1d44c773f2"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2608800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2608800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2608800.jpg"
+ },
+ "sha1_origem": "6c89aab669047ba705fd2811651781d576a37980",
+ "bytes_origem": 147025,
+ "capturado_em": "2026-11-08T03:06:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Lajedo_-_PE.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:05Z",
+  "estado": "igual",
+  "sha1_commons": "6c89aab669047ba705fd2811651781d576a37980"
+ }
+}

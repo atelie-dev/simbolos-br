@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3125101",
+ "uf": "MG",
+ "municipio": "Extrema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bandeira_de_Extrema_MG.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camervan",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "04da4ee46a54d449d401f0d29d8afc4a1790817a57ef6420824c8dedc4809413",
+ "rendicoes": {
+  "png": {
+   "bytes": 12465,
+   "sha256": "d17c0e5f3ecbecf6f5993967b068c59d6edd3411e65b426491b53d081a515273",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10947,
+   "sha256": "1a3c19385a5f8576f18b03af02a02c14fef0be2ca4cb1cb0410da43e715fe62b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 7462,
+   "sha256": "04da4ee46a54d449d401f0d29d8afc4a1790817a57ef6420824c8dedc4809413"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3125101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3125101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3125101.jpg"
+ },
+ "sha1_origem": "0f4e8a66caad78c7774de653bdc8e3f8ece259f1",
+ "bytes_origem": 7462,
+ "capturado_em": "2026-11-08T03:36:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Extrema_MG.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "0f4e8a66caad78c7774de653bdc8e3f8ece259f1"
+ }
+}

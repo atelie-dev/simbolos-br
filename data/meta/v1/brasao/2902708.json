@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2902708",
+ "uf": "BA",
+ "municipio": "Barra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Brasaobarra.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1a73ae661eb04cf14263d02070e1a2e905fa909fb5072bf831bab0d7ae3798df",
+ "rendicoes": {
+  "png": {
+   "bytes": 18941,
+   "sha256": "583db7592774ca3e63dc10c5da4405ae28f3403206e7a58f5e1753d16f38836f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62340,
+   "sha256": "d5f0f1ef04a1d9ea0526d0bf4395290e625d5909d43dd79f5c030e212fd029ed",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2902708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2902708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2902708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2902708.png",
+  "bytes": 13352,
+  "sha256": "1a73ae661eb04cf14263d02070e1a2e905fa909fb5072bf831bab0d7ae3798df"
+ },
+ "sha1_origem": "7319db6386c9eee39217819911aed0da987a73bb",
+ "bytes_origem": 13352,
+ "capturado_em": "2026-11-08T05:51:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaobarra.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "7319db6386c9eee39217819911aed0da987a73bb"
+ }
+}

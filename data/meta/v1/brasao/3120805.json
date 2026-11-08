@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3120805",
+ "uf": "MG",
+ "municipio": "Cruzília",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bras%C3%A3o_de_Cruz%C3%ADlia_-_MG.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "6134bf79a8aa2431521f37a9afb0706e8e60881e02ce7faaf7acd9996135c46e",
+ "rendicoes": {
+  "png": {
+   "bytes": 119130,
+   "sha256": "dd76262b85720605613645b194739abefa7e74c2929985779aa6f535541dca7c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40504,
+   "sha256": "22fc4770f199f12eb7084510e1b05080aad70e4f90f0630b00d59014944d2b3b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 203698,
+   "sha256": "6134bf79a8aa2431521f37a9afb0706e8e60881e02ce7faaf7acd9996135c46e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120805.jpg"
+ },
+ "sha1_origem": "7736831acce42a10390af657fe91db7fb83757a8",
+ "bytes_origem": 203698,
+ "capturado_em": "2026-11-08T03:33:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cruzília_-_MG.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "7736831acce42a10390af657fe91db7fb83757a8"
+ }
+}

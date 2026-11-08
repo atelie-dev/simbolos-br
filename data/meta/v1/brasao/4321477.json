@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321477",
+ "uf": "RS",
+ "municipio": "Tiradentes do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Tiradentes_do_Sulbrasoes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Tiradentes do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "72e7955148195f781fbcc523bd646eb2f3502ce695157a350ddeb0ac64c552c7",
+ "rendicoes": {
+  "png": {
+   "bytes": 246634,
+   "sha256": "290701cd8698b216aad1b8e17f1c85856be0aeca43887b6f9be918da9cc30228",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49101,
+   "sha256": "23b3adb45ec4de5301946546ba63e7fe8dee4f07b59a766bb001ee679dc4f86d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321477.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321477.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321477.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4321477.jpg",
+  "bytes": 32981,
+  "sha256": "72e7955148195f781fbcc523bd646eb2f3502ce695157a350ddeb0ac64c552c7"
+ },
+ "sha1_origem": "8e757c3ea9f3b502b110d602a8ada445a1aed0b1",
+ "bytes_origem": 32981,
+ "capturado_em": "2026-11-08T07:10:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Tiradentes_do_Sulbrasoes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:38Z",
+  "estado": "igual",
+  "sha1_commons": "8e757c3ea9f3b502b110d602a8ada445a1aed0b1"
+ }
+}

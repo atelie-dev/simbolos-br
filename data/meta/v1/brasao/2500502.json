@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2500502",
+ "uf": "PB",
+ "municipio": "Alagoinha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bras%C3%A3o_Alagoinha_%28PB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Alagoinha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4b5150754b9b37bbb72bfd912698cba0533dd9a33e0e56e76f3a55c599212022",
+ "rendicoes": {
+  "png": {
+   "bytes": 321771,
+   "sha256": "4f2f90771b2101aa1a057234e8e2c5c87605b6aea567334fe5e3d7efad7e31e0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60744,
+   "sha256": "326c70b497b434897ae48e607ec0b37778d8ffc6505a133d39891df39b66c7b0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2500502.jpg",
+  "bytes": 72737,
+  "sha256": "4b5150754b9b37bbb72bfd912698cba0533dd9a33e0e56e76f3a55c599212022"
+ },
+ "sha1_origem": "1211153d9372045db6c96662ae30bb5c201ed272",
+ "bytes_origem": 72737,
+ "capturado_em": "2026-11-08T05:39:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Alagoinha_(PB).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "1211153d9372045db6c96662ae30bb5c201ed272"
+ }
+}

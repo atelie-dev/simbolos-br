@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2905503",
+ "uf": "BA",
+ "municipio": "Caldeirão Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Bandeira_de_Caldeir%C3%A3o_Grande.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "J. Kássio",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "165ae530d59ba2a7f2f9af511131cedcfa1b54d16992ad0a3fb9101937024bae",
+ "rendicoes": {
+  "png": {
+   "bytes": 14047,
+   "sha256": "09a6e0817dc90f475b47e03b59ad28704d1f8afb4b66504895638cb7510b3dce",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11433,
+   "sha256": "a2da4fdd73842af132633d85f6a8dd62d20a06c785ecfbc34bf73976a693b1a2",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 21543,
+   "sha256": "165ae530d59ba2a7f2f9af511131cedcfa1b54d16992ad0a3fb9101937024bae"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2905503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2905503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2905503.jpg"
+ },
+ "sha1_origem": "c7d823479828d389ab7f5a3e7784af3a51bea1f0",
+ "bytes_origem": 21543,
+ "capturado_em": "2026-11-08T03:16:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Caldeirão_Grande.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "c7d823479828d389ab7f5a3e7784af3a51bea1f0"
+ }
+}

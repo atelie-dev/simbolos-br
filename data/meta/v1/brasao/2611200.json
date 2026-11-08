@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2611200",
+ "uf": "PE",
+ "municipio": "Poção",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bras%C3%A3o_po%C3%A7%C3%A3o.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "José Waldeilson Galindo Bezerra",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "01a17e2473227d82f41745a26bce7c162bd5dfb9bf9736984f33dfbdbf99248b",
+ "rendicoes": {
+  "png": {
+   "bytes": 237000,
+   "sha256": "f1a1f5d47a133a55c9af7439856addb17adf2a5d275c166a845c51c28f77cb78",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45654,
+   "sha256": "a76ba0e1ddba56159b2a5c69f31eaec26334d983718ab21e11713027a3fec5ff",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2611200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2611200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2611200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2611200.png",
+  "bytes": 479522,
+  "sha256": "01a17e2473227d82f41745a26bce7c162bd5dfb9bf9736984f33dfbdbf99248b"
+ },
+ "sha1_origem": "35565cba1442b02eb4d4a1f9538ef20055fe673e",
+ "bytes_origem": 479522,
+ "capturado_em": "2026-11-08T05:46:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_poção.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "35565cba1442b02eb4d4a1f9538ef20055fe673e"
+ }
+}

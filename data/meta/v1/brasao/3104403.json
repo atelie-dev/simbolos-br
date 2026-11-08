@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3104403",
+ "uf": "MG",
+ "municipio": "Argirita",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Argiritamgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Argirita",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "532e51b0f59604005be4d7f2629bc1942db7933c0ce5263a7c1727b40414b55a",
+ "rendicoes": {
+  "png": {
+   "bytes": 240950,
+   "sha256": "fcdae53bf66a82b704ceb1d7a57134f126ef32de8ecb1c6ea9255be3d5f1e523",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 50512,
+   "sha256": "8bd133f967dc86715e304ad7689116cded941b2441c0be5c5a6124aa833e3fc7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3104403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3104403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3104403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3104403.jpg",
+  "bytes": 45365,
+  "sha256": "532e51b0f59604005be4d7f2629bc1942db7933c0ce5263a7c1727b40414b55a"
+ },
+ "sha1_origem": "51a6b7ca4b11c5e01274ffdf3d98b060ce44ae7a",
+ "bytes_origem": 45365,
+ "capturado_em": "2026-11-08T05:59:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Argiritamgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "51a6b7ca4b11c5e01274ffdf3d98b060ce44ae7a"
+ }
+}

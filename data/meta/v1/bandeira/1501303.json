@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1501303",
+ "uf": "PA",
+ "municipio": "Barcarena",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Barcarena_-_PA_-_Brazil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pcgomes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fdd402574f873c932212ba22da2eb754690ee108f41ea618aaf6db5184e2fc9f",
+ "rendicoes": {
+  "png": {
+   "bytes": 12938,
+   "sha256": "b21f5e5b6cb2d900b2f3d1c3cac406c9aea463db66e0ee8345b615585e9db1b1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17864,
+   "sha256": "676d43a5463089c0da9336360e87b9f5dc9cf433fec45cf7c2029a09d1da7c56",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1501303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1501303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1501303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1501303.png",
+  "bytes": 13287,
+  "sha256": "fdd402574f873c932212ba22da2eb754690ee108f41ea618aaf6db5184e2fc9f"
+ },
+ "sha1_origem": "3c0ca70b9e26bf829a4a74be27dffdc29d1405ca",
+ "bytes_origem": 13287,
+ "capturado_em": "2026-11-08T05:24:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Barcarena_-_PA_-_Brazil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "3c0ca70b9e26bf829a4a74be27dffdc29d1405ca"
+ }
+}

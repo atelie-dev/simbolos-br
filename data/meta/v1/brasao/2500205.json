@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2500205",
+ "uf": "PB",
+ "municipio": "Aguiar",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Brasao_aguiar.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Aguiar",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b2fd7575c143d0d9e2a64fa0c9396888b8e96719db4fd963800c543c715d5637",
+ "rendicoes": {
+  "png": {
+   "bytes": 180245,
+   "sha256": "5fd3a1d973787ea477bafa03d59efb9cbd3e79114d106a4921287a5440201d4d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32483,
+   "sha256": "6de137bbe4be0123aa7378b747b0f7bb4e6ce16169775d1a018b6886f51058ee",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500205.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2500205.png",
+  "bytes": 416769,
+  "sha256": "b2fd7575c143d0d9e2a64fa0c9396888b8e96719db4fd963800c543c715d5637"
+ },
+ "sha1_origem": "fc3a43490d184126069501dfdf5e84e3bd3c6428",
+ "bytes_origem": 416769,
+ "capturado_em": "2026-11-08T05:39:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_aguiar.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "fc3a43490d184126069501dfdf5e84e3bd3c6428"
+ }
+}

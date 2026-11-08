@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3172004",
+ "uf": "MG",
+ "municipio": "Visconde do Rio Branco",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bras%C3%A3o_Visconde_do_Rio_Branco_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "47fe075f7a876dabe27a060f27ed8a5045183af37e13cc0497dcba8f639a653d",
+ "rendicoes": {
+  "png": {
+   "bytes": 32892,
+   "sha256": "611ccee375efc5b182b1bb67accab02f10b4c0a0f8869d514d1eedede5aeb9d4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9344,
+   "sha256": "cb8c874ab53f44906f2099a1aa8d5bbe4357d5516f205823cf02a47eadde17c2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3172004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3172004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3172004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3172004.png",
+  "bytes": 12843,
+  "sha256": "47fe075f7a876dabe27a060f27ed8a5045183af37e13cc0497dcba8f639a653d"
+ },
+ "sha1_origem": "a62ea631f5ac2695bf937dd945f77d680ac244b8",
+ "bytes_origem": 12843,
+ "capturado_em": "2026-11-08T06:18:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Visconde_do_Rio_Branco_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "a62ea631f5ac2695bf937dd945f77d680ac244b8"
+ }
+}

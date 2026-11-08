@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3527801",
+ "uf": "SP",
+ "municipio": "Lupércio",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bras%C3%A3o_Lup%C3%A9rcio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "89ab51df8f86edac659d95991ab4067b835f03aa82cb346ff56c0f6448ebb489",
+ "rendicoes": {
+  "png": {
+   "bytes": 71188,
+   "sha256": "46c1dd1ac502c9dc3e74a7d5bf2614ac2e0250346f7a6f50cd0116fb13bf6b33",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16073,
+   "sha256": "5158fbe559d4a2e38e401871f46d9dc9ca54207965c845219cec9d2936c862d9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3527801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3527801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3527801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3527801.jpg",
+  "bytes": 20593,
+  "sha256": "89ab51df8f86edac659d95991ab4067b835f03aa82cb346ff56c0f6448ebb489"
+ },
+ "sha1_origem": "a3b654f6865d725a234a62919865f9d272cfade2",
+ "bytes_origem": 20593,
+ "capturado_em": "2026-11-08T06:31:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Lupércio.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "a3b654f6865d725a234a62919865f9d272cfade2"
+ }
+}

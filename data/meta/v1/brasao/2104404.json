@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2104404",
+ "uf": "MA",
+ "municipio": "Gonçalves Dias",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Brasao-gon%C3%A7alvesdiasma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Gonçalves Dias City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d5dd5e408e5fa750d50d69604cad1c3b2a60f741a17da2edf58fd506c97a3c3c",
+ "rendicoes": {
+  "png": {
+   "bytes": 264460,
+   "sha256": "eef3a86787fe4fa0a0c65112448ade19400a54ee96ec319a639865090ae33ac0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49413,
+   "sha256": "f3a8d2db6bc86c49eef18680c63d455e3edde47f960fe1d7d8fb02843eedb5fe",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2104404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2104404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2104404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2104404.jpg",
+  "bytes": 144509,
+  "sha256": "d5dd5e408e5fa750d50d69604cad1c3b2a60f741a17da2edf58fd506c97a3c3c"
+ },
+ "sha1_origem": "eccb579bb28ca30fd645d87fba2391330feb23dc",
+ "bytes_origem": 144509,
+ "capturado_em": "2026-11-08T05:28:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-gonçalvesdiasma.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "eccb579bb28ca30fd645d87fba2391330feb23dc"
+ }
+}

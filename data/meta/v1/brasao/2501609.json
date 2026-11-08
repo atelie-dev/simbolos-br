@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2501609",
+ "uf": "PB",
+ "municipio": "Barra de Santa Rosa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Bras%C3%A3o_Barra_de_Santa_Rosa-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Barra de Santa Rosa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "927295f729bd5135d48410360aa0d3b2c162ecda68682e591b2bba4d9a9508bd",
+ "rendicoes": {
+  "png": {
+   "bytes": 48941,
+   "sha256": "cc63f0d9282d60b2e871456ebb8cda87dbbc8fa72f38c70baf756c6b1f8e9058",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10047,
+   "sha256": "22ec36c86b21f176268521f5bc22c430513fc05788ee33a747bb76bd4ef83d72",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2501609.jpg",
+  "bytes": 7032,
+  "sha256": "927295f729bd5135d48410360aa0d3b2c162ecda68682e591b2bba4d9a9508bd"
+ },
+ "sha1_origem": "6027ad8293a24fd347a31b399693cbfb5ad65dbf",
+ "bytes_origem": 7032,
+ "capturado_em": "2026-11-08T05:39:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Barra_de_Santa_Rosa-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "6027ad8293a24fd347a31b399693cbfb5ad65dbf"
+ }
+}

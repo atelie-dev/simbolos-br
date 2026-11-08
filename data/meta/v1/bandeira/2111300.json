@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2111300",
+ "uf": "MA",
+ "municipio": "São Luís",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bandeira_de_S%C3%A3o_Lu%C3%ADs.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Srfortes",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0259b4717682bb0bf39d03c8f6e6d28e31ba0bab0b7fa39693c391f0421ca878",
+ "rendicoes": {
+  "png": {
+   "bytes": 38844,
+   "sha256": "933db6b68767b7ad2cc72653dc4e77055bc94a2fa39c3212e787c898d72c9290",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16480,
+   "sha256": "ff3835a246c44499db29eebff9bd8af0b195d6e00247f7856d305030f123a276",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 253501,
+   "sha256": "0259b4717682bb0bf39d03c8f6e6d28e31ba0bab0b7fa39693c391f0421ca878"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2111300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2111300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2111300.jpg"
+ },
+ "sha1_origem": "660b5e90baa0a176575f3b3807924dc3ddf5fa75",
+ "bytes_origem": 253501,
+ "capturado_em": "2026-11-08T02:40:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Luís.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "660b5e90baa0a176575f3b3807924dc3ddf5fa75"
+ }
+}

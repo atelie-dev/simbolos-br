@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3172004",
+ "uf": "MG",
+ "municipio": "Visconde do Rio Branco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bandeira_Visconde_do_Rio_Branco_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e9405af7d87a7cdc0ff1dac4c0e1dd2325afd3c4da333d72fcd95f391ba92713",
+ "rendicoes": {
+  "png": {
+   "bytes": 52649,
+   "sha256": "985e273f432d7f9f6a5924dac831075a9efafc0c8729ecaef093ce61aa038ac2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15398,
+   "sha256": "6f48b9159a023cabc9082f859f3eb3c10f3357ed838a65a19942b8385ab16e96",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3172004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3172004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3172004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3172004.jpg",
+  "bytes": 24849,
+  "sha256": "e9405af7d87a7cdc0ff1dac4c0e1dd2325afd3c4da333d72fcd95f391ba92713"
+ },
+ "sha1_origem": "b9e2089e302390d4d9da0882b755ae15627fced6",
+ "bytes_origem": 24849,
+ "capturado_em": "2026-11-08T06:18:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Visconde_do_Rio_Branco_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "b9e2089e302390d4d9da0882b755ae15627fced6"
+ }
+}

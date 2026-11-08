@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3202405",
+ "uf": "ES",
+ "municipio": "Guarapari",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Bandeira_nova_de_Guarapari.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Roger Thunger",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "699faa5219f4a52375218850087851ebc588d8d9bc0d63dc3e6cce7b6471ba0b",
+ "rendicoes": {
+  "png": {
+   "bytes": 35081,
+   "sha256": "f62a771f7a9908c2239c1fbf0bc627a4f9ace839e22ea20da9248f3000d1f0f5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14517,
+   "sha256": "5128a3a56a0ac76f6e2f4f9b51f6cc6a6a6b5aab900718ee1891c3ee4d5f2bb1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3202405.png",
+  "bytes": 931124,
+  "sha256": "699faa5219f4a52375218850087851ebc588d8d9bc0d63dc3e6cce7b6471ba0b"
+ },
+ "sha1_origem": "cd22bb778912c8577ff36db6266228d252beadc1",
+ "bytes_origem": 931124,
+ "capturado_em": "2026-11-08T06:19:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_nova_de_Guarapari.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:22Z",
+  "estado": "igual",
+  "sha1_commons": "cd22bb778912c8577ff36db6266228d252beadc1"
+ }
+}

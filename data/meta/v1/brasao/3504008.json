@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3504008",
+ "uf": "SP",
+ "municipio": "Assis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Assis.Brasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Assis, São Paulo, Brasil",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ce8cd8f202400dc59795b554c981bebebea03cb13a7e91e3ce730dfa9e7b7063",
+ "rendicoes": {
+  "png": {
+   "bytes": 154764,
+   "sha256": "d3b423f323706807cf9c347a316b7e8e335d741932068c1c6b34da9e0ab4059b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35170,
+   "sha256": "40dd49135b4e91a8f31d34925db8324f30d5a4505cee93a97896138c26fbb6ab",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3504008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3504008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3504008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3504008.jpg",
+  "bytes": 40944,
+  "sha256": "ce8cd8f202400dc59795b554c981bebebea03cb13a7e91e3ce730dfa9e7b7063"
+ },
+ "sha1_origem": "074842fe260bf73174ed78f6975878e9dffebfcf",
+ "bytes_origem": 40944,
+ "capturado_em": "2026-11-08T06:23:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Assis.Brasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "074842fe260bf73174ed78f6975878e9dffebfcf"
+ }
+}

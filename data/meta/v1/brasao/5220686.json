@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5220686",
+ "uf": "GO",
+ "municipio": "Simolândia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bras%C3%A3o_Simol%C3%A2ndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Simolândia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cb2917611cd81277bdd6261af1ac649e40b44f80631067ee7f9d1422785cda47",
+ "rendicoes": {
+  "png": {
+   "bytes": 125013,
+   "sha256": "32a9933cff3196d722da84cacad90ddcbf156d1380d3200375fc1a0ec58b57aa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23931,
+   "sha256": "78518a795b44f1fda4f053f42d0233fa42554a6af65e5c4e62361c93701c9f93",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5220686.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5220686.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5220686.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5220686.jpg",
+  "bytes": 24664,
+  "sha256": "cb2917611cd81277bdd6261af1ac649e40b44f80631067ee7f9d1422785cda47"
+ },
+ "sha1_origem": "295fea064f4d27ecf64589daec4b316037c00ac2",
+ "bytes_origem": 24664,
+ "capturado_em": "2026-11-08T07:20:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Simolândia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "295fea064f4d27ecf64589daec4b316037c00ac2"
+ }
+}

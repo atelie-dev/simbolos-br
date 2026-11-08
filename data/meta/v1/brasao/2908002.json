@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2908002",
+ "uf": "BA",
+ "municipio": "Coaraci",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bras%C3%A3o_de_Coaraci.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Coaraci",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d18f758aaeee2c7e3ba321f3e6a7d9839d91da8c3cb65ed00b129078729b481d",
+ "rendicoes": {
+  "png": {
+   "bytes": 89667,
+   "sha256": "bf6c5f91863dca6b91a1d2214f814fdec42c9b974a4e917091b18c183c7d58b6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24266,
+   "sha256": "b5907b84191bb9262784dac95d2008f85a9f569090c63c09f8efadb7f95deb0d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2908002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2908002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2908002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2908002.png",
+  "bytes": 105290,
+  "sha256": "d18f758aaeee2c7e3ba321f3e6a7d9839d91da8c3cb65ed00b129078729b481d"
+ },
+ "sha1_origem": "fd7cc4c3a19feec4742f1c843fea90fe73583724",
+ "bytes_origem": 105290,
+ "capturado_em": "2026-11-08T05:52:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Coaraci.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "fd7cc4c3a19feec4742f1c843fea90fe73583724"
+ }
+}

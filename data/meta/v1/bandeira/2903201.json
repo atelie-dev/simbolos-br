@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2903201",
+ "uf": "BA",
+ "municipio": "Barreiras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bandeira-barreiras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Barreiras",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1e6227a772b4772cb4a895fad0f2f61bea8159a4e7f3a2a3831fcfdca776b7ff",
+ "rendicoes": {
+  "png": {
+   "bytes": 27984,
+   "sha256": "6f6bcfed9612e20ec382625cb80d611a5f289a56af903a576a8702d537d44703",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9219,
+   "sha256": "13d0aec163279e454ef5b5c1f58941699af0baaf7ac7841a321aa5d8e18bd349",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2903201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2903201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2903201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2903201.jpg",
+  "bytes": 7154,
+  "sha256": "1e6227a772b4772cb4a895fad0f2f61bea8159a4e7f3a2a3831fcfdca776b7ff"
+ },
+ "sha1_origem": "98ed744fc949e1d796181bfe48a699e2a9c8cb88",
+ "bytes_origem": 7154,
+ "capturado_em": "2026-11-08T05:51:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-barreiras.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "98ed744fc949e1d796181bfe48a699e2a9c8cb88"
+ }
+}

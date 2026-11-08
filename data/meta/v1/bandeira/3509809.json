@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3509809",
+ "uf": "SP",
+ "municipio": "Campos Novos Paulista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/74/BandeiraCamposNovosPta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Campos Novos Paulista",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c7cba78dabc5b1b9d9df3e2c429de7af83e428808205fa5facc4d4df9c1d877e",
+ "rendicoes": {
+  "png": {
+   "bytes": 97713,
+   "sha256": "0d39f27a5949fd105488b1a86f085a9ac8e8f956d494f38f1c3b0d03b593956f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17593,
+   "sha256": "5ac10c0186f764cdf7284fbae5bb4ea2fcb43c6d5a5a12156043b3916aa85e8f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3509809.jpg",
+  "bytes": 11417,
+  "sha256": "c7cba78dabc5b1b9d9df3e2c429de7af83e428808205fa5facc4d4df9c1d877e"
+ },
+ "sha1_origem": "30b7d90f5ac32ec17ccb64a1081e9ed709e09f0a",
+ "bytes_origem": 11417,
+ "capturado_em": "2026-11-08T06:25:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraCamposNovosPta.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "30b7d90f5ac32ec17ccb64a1081e9ed709e09f0a"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4123204",
+ "uf": "PR",
+ "municipio": "Santa Cecília do Pavão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bandeira_SantaCeciliadoPavao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2d86fc617c5601af345714bacb3f9765c9edc0e54dc379f0d58c2a205852f83d",
+ "rendicoes": {
+  "png": {
+   "bytes": 234718,
+   "sha256": "3685c4c3f9856b824b792710b22f6853f79a17b5b37cfcd6868f64ee11741254",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30625,
+   "sha256": "6f61d96c1088671c48691aae720bf495859607a30b10fb893fe04ef86668ce27",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4123204.jpg",
+  "bytes": 72875,
+  "sha256": "2d86fc617c5601af345714bacb3f9765c9edc0e54dc379f0d58c2a205852f83d"
+ },
+ "sha1_origem": "39657963ab6462eb1431ec223926e8ad4fb238da",
+ "bytes_origem": 72875,
+ "capturado_em": "2026-11-08T06:49:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_SantaCeciliadoPavao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "39657963ab6462eb1431ec223926e8ad4fb238da"
+ }
+}

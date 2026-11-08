@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3125903",
+ "uf": "MG",
+ "municipio": "Ferros",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Brasao_Ferros-MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Maria Inês S. Dias",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6de60d5efbd6ebd7eaa5d7ab3b831f3793d3f3a2643a2df21fd897979b3890f7",
+ "rendicoes": {
+  "png": {
+   "bytes": 88385,
+   "sha256": "9661add6e61fab85b07c77272cdb1c1798b1d796b71ce12586d120ad72abd3ae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21776,
+   "sha256": "3076d86b0d8f6b25ed3bba1950929f8e9661164d21a6842077e24b5b24e8317f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3125903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3125903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3125903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3125903.jpg",
+  "bytes": 13054,
+  "sha256": "6de60d5efbd6ebd7eaa5d7ab3b831f3793d3f3a2643a2df21fd897979b3890f7"
+ },
+ "sha1_origem": "169de0266255a4e7ef4758adffb86e604d6f625b",
+ "bytes_origem": 13054,
+ "capturado_em": "2026-11-08T06:07:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Ferros-MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:32Z",
+  "estado": "igual",
+  "sha1_commons": "169de0266255a4e7ef4758adffb86e604d6f625b"
+ }
+}

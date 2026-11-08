@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2512101",
+ "uf": "PB",
+ "municipio": "Pombal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brasao_pombal.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pombal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "32d7a48a210a510ee0cdffe488c449a563fd094523df75673ca2651c747df4b7",
+ "rendicoes": {
+  "png": {
+   "bytes": 102357,
+   "sha256": "143872b0eb8d0f03dd75db9b123e0db5f734b91669adeb7f38105af73ff1e7c4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33800,
+   "sha256": "e54e433b86d9160c26f9adffbf6e6b929523cba1508800c58f4fee5dccc490c1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2512101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2512101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2512101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2512101.png",
+  "bytes": 89127,
+  "sha256": "32d7a48a210a510ee0cdffe488c449a563fd094523df75673ca2651c747df4b7"
+ },
+ "sha1_origem": "e557e88e258657c6e2ce0aec697b62ee761e7ad8",
+ "bytes_origem": 89127,
+ "capturado_em": "2026-11-08T05:42:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_pombal.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "e557e88e258657c6e2ce0aec697b62ee761e7ad8"
+ }
+}

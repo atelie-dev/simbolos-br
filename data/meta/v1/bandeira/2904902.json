@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2904902",
+ "uf": "BA",
+ "municipio": "Cachoeira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bandeira_Cachoeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Fabio Bergamo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bb6c2b50d74f70b076d8d60eb74cb5fb6d2eb718f4927de06273f76ed5c7fce8",
+ "rendicoes": {
+  "png": {
+   "bytes": 83122,
+   "sha256": "18055e0bb2ec36b08db4010dcd5bcabbbbd22b668e93c86d4aeb08d2588a088b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15942,
+   "sha256": "5f3bad736e6044038818f78530c77964f16e5ff339183c7ff69881a91a55246a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2904902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2904902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2904902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2904902.jpg",
+  "bytes": 22701,
+  "sha256": "bb6c2b50d74f70b076d8d60eb74cb5fb6d2eb718f4927de06273f76ed5c7fce8"
+ },
+ "sha1_origem": "af062d45f72505ac2b5e6c68574ea0caa500a98f",
+ "bytes_origem": 22701,
+ "capturado_em": "2026-11-08T05:51:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Cachoeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "af062d45f72505ac2b5e6c68574ea0caa500a98f"
+ }
+}

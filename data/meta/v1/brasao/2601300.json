@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2601300",
+ "uf": "PE",
+ "municipio": "Barra de Guabiraba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Brasao_Barra_de_Guabiraba.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "60f2cbbd8a92288ca7d39147b00aa62d6b4b856ada58daaa613640c88290b5e3",
+ "rendicoes": {
+  "png": {
+   "bytes": 109254,
+   "sha256": "db2623e909f67fdf7dbf4ad02e569cdc3622bcd9e087f4a6eb93663db2ddeb11",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37139,
+   "sha256": "010cc285358e169d68bb252bb51afe1719b66c1f69aa3444301ce7f5a6f51180",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 47789,
+   "sha256": "60f2cbbd8a92288ca7d39147b00aa62d6b4b856ada58daaa613640c88290b5e3"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2601300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2601300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2601300.jpg"
+ },
+ "sha1_origem": "4053a11c72ff458485e046ad9b2560f22ef3852c",
+ "bytes_origem": 47789,
+ "capturado_em": "2026-11-08T03:04:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Barra_de_Guabiraba.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "4053a11c72ff458485e046ad9b2560f22ef3852c"
+ }
+}

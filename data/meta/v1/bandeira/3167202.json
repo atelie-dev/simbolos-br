@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3167202",
+ "uf": "MG",
+ "municipio": "Sete Lagoas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/28/BandeiraSeteLagoas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Sete Lagoas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f71908a76df51840a62a16299a24427ec4945d14ce8727cd32efe44adf63dddb",
+ "rendicoes": {
+  "png": {
+   "bytes": 47256,
+   "sha256": "a790fd6204c45a86b15285fe90854f050db94c4eafdde6cd8e7534b756369e1a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12885,
+   "sha256": "6db8a03de32fe929f5dd0a21096e7a9d040436bb8d8ff51a9f5696baaf1dca93",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3167202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3167202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3167202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3167202.png",
+  "bytes": 265515,
+  "sha256": "f71908a76df51840a62a16299a24427ec4945d14ce8727cd32efe44adf63dddb"
+ },
+ "sha1_origem": "152ba76d460c37d1c429db2055ad4804f1aeb9dd",
+ "bytes_origem": 265515,
+ "capturado_em": "2026-11-08T06:17:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraSeteLagoas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "152ba76d460c37d1c429db2055ad4804f1aeb9dd"
+ }
+}

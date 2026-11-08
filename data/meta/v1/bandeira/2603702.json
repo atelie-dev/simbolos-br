@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2603702",
+ "uf": "PE",
+ "municipio": "Canhotinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/2_arquivo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura do município de Canhotinho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bdb44915903e16ad4e230dd1a68cfeffc919819c0964a10d6c72b07942f24455",
+ "rendicoes": {
+  "png": {
+   "bytes": 36066,
+   "sha256": "7b5c2e06266b503c51475037c3303d7cfa0929ab28d5d489c0edc6130434539e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20169,
+   "sha256": "131251f36a2bb782cb752e696130da1c66751c2798d7834e4c72d367a1618b24",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2603702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2603702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2603702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2603702.jpg",
+  "bytes": 176155,
+  "sha256": "bdb44915903e16ad4e230dd1a68cfeffc919819c0964a10d6c72b07942f24455"
+ },
+ "sha1_origem": "ce7995057d39e24a64515741e8e85ce893665172",
+ "bytes_origem": 176155,
+ "capturado_em": "2026-11-08T05:44:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:2_arquivo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "ce7995057d39e24a64515741e8e85ce893665172"
+ }
+}

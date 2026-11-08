@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5004106",
+ "uf": "MS",
+ "municipio": "Guia Lopes da Laguna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Band._guia_lopes_da_laguna%2C_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f6802221d8b88e8bfd36133a2787381d0b0e115aba6879ce8b068a8feb321d17",
+ "rendicoes": {
+  "png": {
+   "bytes": 79896,
+   "sha256": "ebffdca35ef64cf6fe1b17f03b1aab11a20fdc919616250e5d3d7f1f44bc6abc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22647,
+   "sha256": "e6f68119f7ef5caea66e2ec6d908778fc09c72dd591a734822d44017fdf2f4bd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5004106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5004106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5004106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5004106.jpg",
+  "bytes": 25275,
+  "sha256": "f6802221d8b88e8bfd36133a2787381d0b0e115aba6879ce8b068a8feb321d17"
+ },
+ "sha1_origem": "b68a6e6dd31e9f79e91d59e3f26d40db03e626ac",
+ "bytes_origem": 25275,
+ "capturado_em": "2026-11-08T07:12:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band._guia_lopes_da_laguna,_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "b68a6e6dd31e9f79e91d59e3f26d40db03e626ac"
+ }
+}

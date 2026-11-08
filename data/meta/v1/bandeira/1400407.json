@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1400407",
+ "uf": "RR",
+ "municipio": "Normandia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bandeira_Normandia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "vectorization by Anzee",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "77820a90173656402f7556e3e55efe11970a339d10c681d48b48acceb7cdcd74",
+ "rendicoes": {
+  "png": {
+   "bytes": 14032,
+   "sha256": "1ca6281b63416f918bd728277e59deedb5be3cef9fe40bb848cdb4ef0d6e8d0c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9929,
+   "sha256": "9fee6ede9ca015fb351613e1d5ce719f022630e12d2ece0b8ae1ca2c4d01ab7a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 308,
+   "sha256": "77820a90173656402f7556e3e55efe11970a339d10c681d48b48acceb7cdcd74"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400407.jpg"
+ },
+ "sha1_origem": "b0bfaa67251645bcf114a21bbde7b98e981eac4b",
+ "bytes_origem": 308,
+ "capturado_em": "2026-11-08T02:32:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Normandia.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "b0bfaa67251645bcf114a21bbde7b98e981eac4b"
+ }
+}

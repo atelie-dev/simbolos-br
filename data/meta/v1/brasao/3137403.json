@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3137403",
+ "uf": "MG",
+ "municipio": "Lagoa Dourada",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bras%C3%A3o_de_Lagoa_Dourada_-_JPEG_-_melhor_resolu%C3%A7%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Eduardo Resende",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0f3dbebcac3f1a3cdf4e47d88f490d6254a87c9f8580ed19c8bfce9c445dd339",
+ "rendicoes": {
+  "png": {
+   "bytes": 161092,
+   "sha256": "fcc82bf3c23b554901d84bedebd928bd04901ee8911fb755acaeb9efd50dc08e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47159,
+   "sha256": "3c32775fd349e0df09bfc7f425d99c231f5f6dfa89e9514eb90807f0bb01f3cb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3137403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3137403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3137403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3137403.jpg",
+  "bytes": 368982,
+  "sha256": "0f3dbebcac3f1a3cdf4e47d88f490d6254a87c9f8580ed19c8bfce9c445dd339"
+ },
+ "sha1_origem": "32e53b8d4586f330f09f373401ec6b81805bff09",
+ "bytes_origem": 368982,
+ "capturado_em": "2026-11-08T06:10:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Lagoa_Dourada_-_JPEG_-_melhor_resolução.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:05Z",
+  "estado": "igual",
+  "sha1_commons": "32e53b8d4586f330f09f373401ec6b81805bff09"
+ }
+}

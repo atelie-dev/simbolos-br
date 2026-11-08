@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2310407",
+ "uf": "CE",
+ "municipio": "Paramoti",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bras%C3%A3o_de_Paramoti_CE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Paramoti",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e92c9f91df3644d217e40011f3aa764a5cfa9ae5a8226326cc9e907bdea1e030",
+ "rendicoes": {
+  "png": {
+   "bytes": 204651,
+   "sha256": "f29b4510d671138f7204c88fe8d9a360e7ef233bfe93206b2e64b4c029feb30a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31700,
+   "sha256": "7109b11b14cdd85fe67362e72a8c640db7291af71994c0ff88c3e32fd765161b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2310407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2310407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2310407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2310407.jpg",
+  "bytes": 56102,
+  "sha256": "e92c9f91df3644d217e40011f3aa764a5cfa9ae5a8226326cc9e907bdea1e030"
+ },
+ "sha1_origem": "360d48f6388a68a73739e8c90d25ac94155a1fa5",
+ "bytes_origem": 56102,
+ "capturado_em": "2026-11-08T05:34:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Paramoti_CE.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "360d48f6388a68a73739e8c90d25ac94155a1fa5"
+ }
+}

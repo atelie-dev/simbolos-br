@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5000252",
+ "uf": "MS",
+ "municipio": "Alcinópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Brasao_alcinopolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Alcinópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f8eb89affdbbf2baf2db681fb1e63ca979ebc7a98d09a5979575689f30a321be",
+ "rendicoes": {
+  "png": {
+   "bytes": 92386,
+   "sha256": "9fa335507c3c710eddf799e76759a28da8d6b1ff8e385fd59b6ff31de6e8f628",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19230,
+   "sha256": "517f843b9e05a19f65aefbd5dc8534ce03737d57eabc061049db4c3f23c50939",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5000252.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5000252.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5000252.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5000252.jpg",
+  "bytes": 70196,
+  "sha256": "f8eb89affdbbf2baf2db681fb1e63ca979ebc7a98d09a5979575689f30a321be"
+ },
+ "sha1_origem": "8a79b7f03d4224b97a58c335a3c2e86d193ad377",
+ "bytes_origem": 70196,
+ "capturado_em": "2026-11-08T07:12:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_alcinopolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "8a79b7f03d4224b97a58c335a3c2e86d193ad377"
+ }
+}

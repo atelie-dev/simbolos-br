@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3517406",
+ "uf": "SP",
+ "municipio": "Guaíra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bandeiraguaira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1e4196bbc93f42a2a3f256240dc4a4e652fc167dd845975e5bce1288d5fae208",
+ "rendicoes": {
+  "png": {
+   "bytes": 41966,
+   "sha256": "f48809859942f6fe2e04a08fd4d985418b13a88676a7bb5d2f048bcb18029679",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16996,
+   "sha256": "d8378143e9ad7c6432bfba8092a1a10b9efe4d52cdc1adc1b6649593c94106ec",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517406.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3517406.jpg",
+  "bytes": 64372,
+  "sha256": "1e4196bbc93f42a2a3f256240dc4a4e652fc167dd845975e5bce1288d5fae208"
+ },
+ "sha1_origem": "0c2f34102a4a04758dd348cc5694e051315e08e9",
+ "bytes_origem": 64372,
+ "capturado_em": "2026-11-08T06:28:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraguaira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "0c2f34102a4a04758dd348cc5694e051315e08e9"
+ }
+}

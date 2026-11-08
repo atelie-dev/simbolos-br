@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2603306",
+ "uf": "PE",
+ "municipio": "Calçado",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bandeira_Cal%C3%A7ado.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Calçado",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "150d452b30af9487a699a493155d9f74288f464a538fe0f0e365ae546d743986",
+ "rendicoes": {
+  "png": {
+   "bytes": 6147,
+   "sha256": "e8e8d43eb35a99dae0216a222a2f63d99fd3f04b6be50f39490855d92bdb78b9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8936,
+   "sha256": "b0d71a593cded88835eeaee822f5b60236828d84225fe35b42f8e66ee0e2513d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2779,
+   "sha256": "150d452b30af9487a699a493155d9f74288f464a538fe0f0e365ae546d743986"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2603306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2603306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2603306.jpg"
+ },
+ "sha1_origem": "5c071e81f024c8f1dcf5ad4a1885eb8e73d44bb4",
+ "bytes_origem": 2779,
+ "capturado_em": "2026-11-08T03:05:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Calçado.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "5c071e81f024c8f1dcf5ad4a1885eb8e73d44bb4"
+ }
+}

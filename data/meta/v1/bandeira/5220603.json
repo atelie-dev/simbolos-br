@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5220603",
+ "uf": "GO",
+ "municipio": "Silvânia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bandeira_de_Silv%C3%A2nia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Silvânia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1dbfddc25e2f92ce0c1bc41bb40d9eb92093730981f5aa7d3358a3c555097f12",
+ "rendicoes": {
+  "png": {
+   "bytes": 30606,
+   "sha256": "c4fedfeee44ef484e17a365d7abe177d1945b9b2e6bd056a4e2fc248073adfaa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9539,
+   "sha256": "17ca731ed8699feaf9cad3fb889174bbcc46c88aa6016e803ef07198e5e7ea6d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5220603.jpg",
+  "bytes": 4226,
+  "sha256": "1dbfddc25e2f92ce0c1bc41bb40d9eb92093730981f5aa7d3358a3c555097f12"
+ },
+ "sha1_origem": "fb54aa7d0db5a07d0f9051f8af2c719de6e0133f",
+ "bytes_origem": 4226,
+ "capturado_em": "2026-11-08T07:20:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Silvânia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "fb54aa7d0db5a07d0f9051f8af2c719de6e0133f"
+ }
+}

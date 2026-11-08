@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3149101",
+ "uf": "MG",
+ "municipio": "Pedralva",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bandeira_pedralva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municicpal de Pedralva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "85ffd160e26f2201518ba6db77108b719bcadf9125b402dad9c3f4d4ad2e018c",
+ "rendicoes": {
+  "png": {
+   "bytes": 16054,
+   "sha256": "9f56d266a38f0de78d6d428695569a53997066b9851904d818bcf1055eb4d04e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5992,
+   "sha256": "42f47d5b3df66f4cdb1f5c84979c0e08d604b54cb97a9d2a549d70965cc8233d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3149101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3149101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3149101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3149101.jpg",
+  "bytes": 2699,
+  "sha256": "85ffd160e26f2201518ba6db77108b719bcadf9125b402dad9c3f4d4ad2e018c"
+ },
+ "sha1_origem": "059a466bf385bd1c1b4319650dcc3eadf1fe5919",
+ "bytes_origem": 2699,
+ "capturado_em": "2026-11-08T06:13:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_pedralva.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:22Z",
+  "estado": "igual",
+  "sha1_commons": "059a466bf385bd1c1b4319650dcc3eadf1fe5919"
+ }
+}

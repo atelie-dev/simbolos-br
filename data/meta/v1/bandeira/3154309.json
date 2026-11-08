@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3154309",
+ "uf": "MG",
+ "municipio": "Resplendor",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Resplendor_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HVL",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a1c260f6778f56128b84c0a428e783ea7dccd56642acd68d7a3239ae7c288132",
+ "rendicoes": {
+  "png": {
+   "bytes": 40174,
+   "sha256": "c1e052a05e1575350d4e24a88fbd9e1b3d679990f10ae166c112353f650fef47",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17902,
+   "sha256": "f8e27ee3911f943131f4c221c945368a85762ea3c522bcc4a712b30f52c77125",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3154309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3154309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3154309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3154309.png",
+  "bytes": 225006,
+  "sha256": "a1c260f6778f56128b84c0a428e783ea7dccd56642acd68d7a3239ae7c288132"
+ },
+ "sha1_origem": "d768198ba9317435824e3ebe02fd140bf39b9bf1",
+ "bytes_origem": 225006,
+ "capturado_em": "2026-11-08T06:14:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Resplendor_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "d768198ba9317435824e3ebe02fd140bf39b9bf1"
+ }
+}

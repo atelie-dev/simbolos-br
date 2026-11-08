@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1701002",
+ "uf": "TO",
+ "municipio": "Ananás",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bandeira-ananas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMA",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ffbc0c1a39eb8eaff8b5a1b2703806cd23429fff62fd7a173368fd5883e3ead3",
+ "rendicoes": {
+  "png": {
+   "bytes": 9909,
+   "sha256": "ccd98226d20a3944796c1aceb87da3dd809bbcdc673934b8beb1ee758baa6041",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5203,
+   "sha256": "433e325d1ac692e862cbc58cff8ce0224c1befc3f4c134505f427aafde86743e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1701002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1701002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1701002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1701002.jpg",
+  "bytes": 26885,
+  "sha256": "ffbc0c1a39eb8eaff8b5a1b2703806cd23429fff62fd7a173368fd5883e3ead3"
+ },
+ "sha1_origem": "c432541accf58fc4b2b16fbed527a081bd293d82",
+ "bytes_origem": 26885,
+ "capturado_em": "2026-11-08T05:26:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-ananas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "c432541accf58fc4b2b16fbed527a081bd293d82"
+ }
+}

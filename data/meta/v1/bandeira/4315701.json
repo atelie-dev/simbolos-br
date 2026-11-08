@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4315701",
+ "uf": "RS",
+ "municipio": "Rio Pardo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bandeira-rio_pardo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Rio Pardo City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "dd02ae9ce1ab912b069130e13e914b198b6d61b9770ee7c50ed6b95e9c54f26c",
+ "rendicoes": {
+  "png": {
+   "bytes": 27959,
+   "sha256": "60c5f5c8c93faba1b9e2c809c2082c96f8b195eceb6f7e6e16656c00d5a17ddd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13847,
+   "sha256": "b0e368970f884b1cf0e8e730499b06d1dc299ca619deef937b7ec2b000c918b4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4315701.png",
+  "bytes": 10728,
+  "sha256": "dd02ae9ce1ab912b069130e13e914b198b6d61b9770ee7c50ed6b95e9c54f26c"
+ },
+ "sha1_origem": "57b43f18104aa787646c7890495e97f355c6f04b",
+ "bytes_origem": 10728,
+ "capturado_em": "2026-11-08T07:08:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-rio_pardo.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "57b43f18104aa787646c7890495e97f355c6f04b"
+ }
+}

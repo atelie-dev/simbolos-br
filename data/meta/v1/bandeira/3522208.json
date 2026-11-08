@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3522208",
+ "uf": "SP",
+ "municipio": "Itapecerica da Serra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bandeira_de_Itapecerica_da_Serra.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "33a07c991016d4c0a6f315c5653bb036360bf6070fc965f4099e56e3466ff3a1",
+ "rendicoes": {
+  "png": {
+   "bytes": 6428,
+   "sha256": "73d5ccbe42d5b4ddfadedcc621a54d3d60353d3797536a74ca1e3de9c77f2b09",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10159,
+   "sha256": "a91ab85a22ac08e863fa929508d38e8008593e45203707202a9440261e869da1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1183,
+   "sha256": "33a07c991016d4c0a6f315c5653bb036360bf6070fc965f4099e56e3466ff3a1"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522208.jpg"
+ },
+ "sha1_origem": "e0f515cc0d0e460369fc5e1ba7368f282e0974fb",
+ "bytes_origem": 1183,
+ "capturado_em": "2026-11-08T04:05:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itapecerica_da_Serra.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "e0f515cc0d0e460369fc5e1ba7368f282e0974fb"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2509370",
+ "uf": "PB",
+ "municipio": "Mato Grosso",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bras%C3%A3o_Mato_Grosso_%28PB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Mato Grosso",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "12f6f122c4cb4f843159ec1f4024769717ee30b840d3a1b07d256e9624f6f00e",
+ "rendicoes": {
+  "png": {
+   "bytes": 28287,
+   "sha256": "e511cf32b1cb5e6af5dffe62cef00bf5e775060524a0c4c00f7a1ec964bdf3d6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7176,
+   "sha256": "8fc901b0bbf97a74baa134de327f807a4945e08a9eb56b11252545cd42a89770",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509370.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509370.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509370.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2509370.jpg",
+  "bytes": 4457,
+  "sha256": "12f6f122c4cb4f843159ec1f4024769717ee30b840d3a1b07d256e9624f6f00e"
+ },
+ "sha1_origem": "76593d630b7acc954be70af716e85e4b347d9646",
+ "bytes_origem": 4457,
+ "capturado_em": "2026-11-08T05:41:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Mato_Grosso_(PB).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "76593d630b7acc954be70af716e85e4b347d9646"
+ }
+}

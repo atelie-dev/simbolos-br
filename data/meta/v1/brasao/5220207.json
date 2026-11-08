@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5220207",
+ "uf": "GO",
+ "municipio": "São Miguel do Araguaia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bras%C3%A3o_de_S%C3%A3o_Miguel_do_Araguaia%2C_GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Adriana Atunes Artista",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1a3e17c29ec6fd8855a6a3494ca86c65f06453fd47a0e2cf9732bd6110271f8c",
+ "rendicoes": {
+  "png": {
+   "bytes": 157429,
+   "sha256": "d4d6329a631e8a830cda29cfad8bdbe657b2cbe01a7dbc5c0c8f4ee4ccca352e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38366,
+   "sha256": "ca054e06e5a6fc5a7de3efd507c94b53261daf3e8c5e5854f05a26e9d48788ab",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5220207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5220207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5220207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5220207.jpg",
+  "bytes": 835409,
+  "sha256": "1a3e17c29ec6fd8855a6a3494ca86c65f06453fd47a0e2cf9732bd6110271f8c"
+ },
+ "sha1_origem": "4397fd69333a88b894db8280ea40a1c78125e3e2",
+ "bytes_origem": 835409,
+ "capturado_em": "2026-11-08T07:20:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_Miguel_do_Araguaia,_GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:13Z",
+  "estado": "igual",
+  "sha1_commons": "4397fd69333a88b894db8280ea40a1c78125e3e2"
+ }
+}

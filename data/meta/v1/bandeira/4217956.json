@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4217956",
+ "uf": "SC",
+ "municipio": "Tigrinhos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tigrinhos_Bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "35dc3766e1d9a41b279b3267626380b01f8809117cddecf9d10ac35e52e39a0a",
+ "rendicoes": {
+  "png": {
+   "bytes": 68813,
+   "sha256": "d51e9aba4c2945a2dd793de1d5bfba8eb5a8f9762856f36c785ea8755452bef8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28780,
+   "sha256": "9ecace6ebad1b74b1cc61418b0b1307b0489b3cc1ad88cf7a70e2c44525ebe1b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217956.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217956.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217956.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4217956.jpg",
+  "bytes": 511969,
+  "sha256": "35dc3766e1d9a41b279b3267626380b01f8809117cddecf9d10ac35e52e39a0a"
+ },
+ "sha1_origem": "036cbd079c30e244e083c4d41859177a45e87fae",
+ "bytes_origem": 511969,
+ "capturado_em": "2026-11-08T06:57:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Tigrinhos_Bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:38Z",
+  "estado": "igual",
+  "sha1_commons": "036cbd079c30e244e083c4d41859177a45e87fae"
+ }
+}

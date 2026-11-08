@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3531803",
+ "uf": "SP",
+ "municipio": "Monte Mor",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bandeira_Monte_Mor.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Monte Mor",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "63cc388c548817f96a3d33e51a82cba2da26ae7ee069cc4883bf9908de0bcde0",
+ "rendicoes": {
+  "png": {
+   "bytes": 88767,
+   "sha256": "2a5904e4d4c8460990014ef9d3b8cd1e7a253d6bc450937bda0b5e1a653a751b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17601,
+   "sha256": "8c9c7003ba6aac2a4a11af9bc598f23258c53ae6ec4e2ff93d2ceb8e48fe4f0a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3531803.jpg",
+  "bytes": 26031,
+  "sha256": "63cc388c548817f96a3d33e51a82cba2da26ae7ee069cc4883bf9908de0bcde0"
+ },
+ "sha1_origem": "0e115190799e7fd3bd08c4fe900288fc039962f0",
+ "bytes_origem": 26031,
+ "capturado_em": "2026-11-08T06:32:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Monte_Mor.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "0e115190799e7fd3bd08c4fe900288fc039962f0"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3519709",
+ "uf": "SP",
+ "municipio": "Ibiúna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Band_ibiuna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a9d815ee909da25aea2ad396fd1fc5b825d357f76baecbdac298c4b33ba42334",
+ "rendicoes": {
+  "png": {
+   "bytes": 125824,
+   "sha256": "b69cb636478d969fc2fee74abf80d0a6cc060dff3af23265ef6f8c1508e62582",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27726,
+   "sha256": "98fd7f3575691ece25454fd3cc6d69edb2091f0063d4db5e6bee7808f2239558",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3519709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3519709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3519709.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3519709.jpg",
+  "bytes": 21720,
+  "sha256": "a9d815ee909da25aea2ad396fd1fc5b825d357f76baecbdac298c4b33ba42334"
+ },
+ "sha1_origem": "ee58584b72a2c5506ead153296149cb2fddffdb7",
+ "bytes_origem": 21720,
+ "capturado_em": "2026-11-08T06:29:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_ibiuna.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "ee58584b72a2c5506ead153296149cb2fddffdb7"
+ }
+}

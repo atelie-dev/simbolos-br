@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2208650",
+ "uf": "PI",
+ "municipio": "Queimada Nova",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bandeira_de_Queimada_Nova.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Queimada Nova",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "603612c6094c433e294c1c6916418d45e611c4e173d1d455d2c8189ff00a1386",
+ "rendicoes": {
+  "png": {
+   "bytes": 60806,
+   "sha256": "50a05fe5101eac5566257b37a31c99f6f5498b5afb2e94bd8d25a62356562a76",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22954,
+   "sha256": "0b7879efb838531b605cceaa7fae52765e085232faf6c3585f7699690cb4ac81",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2208650.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2208650.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2208650.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2208650.jpg",
+  "bytes": 54980,
+  "sha256": "603612c6094c433e294c1c6916418d45e611c4e173d1d455d2c8189ff00a1386"
+ },
+ "sha1_origem": "f2661fce688346a40ac7892814fe8cabdd45c66e",
+ "bytes_origem": 54980,
+ "capturado_em": "2026-11-08T05:31:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Queimada_Nova.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "f2661fce688346a40ac7892814fe8cabdd45c66e"
+ }
+}

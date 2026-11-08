@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3134400",
+ "uf": "MG",
+ "municipio": "Iturama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bandeiraiturama.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Iturama",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f977632eb154b2ac69586b77c7c695e3b587c3eba3dccf8dc63ad5176bcb3e49",
+ "rendicoes": {
+  "png": {
+   "bytes": 68214,
+   "sha256": "017df1343c78b72aed18ee718900733a4244023444e6dd6044ee61f032969d9a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12676,
+   "sha256": "770a4998a79b37da8996fc9e755dc78e632c438d1169e8d8c0ba7a76fbe8d5a7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3134400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3134400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3134400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3134400.png",
+  "bytes": 30173,
+  "sha256": "f977632eb154b2ac69586b77c7c695e3b587c3eba3dccf8dc63ad5176bcb3e49"
+ },
+ "sha1_origem": "248391275dcdf67ff5fae8f6d33026eec77da6bf",
+ "bytes_origem": 30173,
+ "capturado_em": "2026-11-08T06:09:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraiturama.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "248391275dcdf67ff5fae8f6d33026eec77da6bf"
+ }
+}

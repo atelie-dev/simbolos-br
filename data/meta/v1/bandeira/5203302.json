@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5203302",
+ "uf": "GO",
+ "municipio": "Bela Vista de Goiás",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bandeira_belavistadegoias.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Bela Vista de Goiás - GO",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "258c2c000b7e92a1f59f7c505da9c9fd1f6e76a75de59feb824c9eb7cbd29905",
+ "rendicoes": {
+  "png": {
+   "bytes": 102664,
+   "sha256": "9a4970baa36c8fc58d81c31e07843f44add4dd600fa2360397c1bb49139c1ad7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31042,
+   "sha256": "995a70c3c746e2c52c613e4d6fda6645a6762a624709d743facc5ef2a0a885f1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5203302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5203302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5203302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5203302.png",
+  "bytes": 43186,
+  "sha256": "258c2c000b7e92a1f59f7c505da9c9fd1f6e76a75de59feb824c9eb7cbd29905"
+ },
+ "sha1_origem": "2ee8dd93cb2d274a355d59661257063a382574a3",
+ "bytes_origem": 43186,
+ "capturado_em": "2026-11-08T07:16:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_belavistadegoias.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "2ee8dd93cb2d274a355d59661257063a382574a3"
+ }
+}

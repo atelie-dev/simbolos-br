@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2301950",
+ "uf": "CE",
+ "municipio": "Barreira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bras%C3%A3o_de_Barreira_CE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Barreira CE",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e1be43883358b8b7363d7bd112fabd89c8326516910689004c918e6ecdbf31f8",
+ "rendicoes": {
+  "png": {
+   "bytes": 157156,
+   "sha256": "a964115f53af8b392864920a0d3cf49ba49061a0b25f5b3b661618150ffc230e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36453,
+   "sha256": "70f8d96ddc30ea0188cd0901d18e98180aa46046e221e4d54debbffb6ab907b2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2301950.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2301950.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2301950.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2301950.png",
+  "bytes": 861176,
+  "sha256": "e1be43883358b8b7363d7bd112fabd89c8326516910689004c918e6ecdbf31f8"
+ },
+ "sha1_origem": "f2ca6933f2d4baa7990b898b5c90b96992dc85ff",
+ "bytes_origem": 861176,
+ "capturado_em": "2026-11-08T05:32:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Barreira_CE.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "f2ca6933f2d4baa7990b898b5c90b96992dc85ff"
+ }
+}

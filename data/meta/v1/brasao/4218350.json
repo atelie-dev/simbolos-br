@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4218350",
+ "uf": "SC",
+ "municipio": "Treviso",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bras%C3%A3o_do_munic%C3%ADpio_de_Treviso_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Treviso (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "47ab615ef0531c95b0cc953a279920208d500405076298f462380a9e0f584a29",
+ "rendicoes": {
+  "png": {
+   "bytes": 305116,
+   "sha256": "00a4f6fdc3d140e8ecc3197897f6a040e06360a4354a8090a9fb2536966e01f6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 70093,
+   "sha256": "da3fbfdbfc277451360370c9bb0f30ee0b0bd7038f32896c64a19dc3687ffa15",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4218350.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4218350.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4218350.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4218350.png",
+  "bytes": 1234385,
+  "sha256": "47ab615ef0531c95b0cc953a279920208d500405076298f462380a9e0f584a29"
+ },
+ "sha1_origem": "81508110f9e6ff7a322b3c2b23873e7f7ff4d482",
+ "bytes_origem": 1234385,
+ "capturado_em": "2026-11-08T06:57:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Treviso_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:18Z",
+  "estado": "igual",
+  "sha1_commons": "81508110f9e6ff7a322b3c2b23873e7f7ff4d482"
+ }
+}

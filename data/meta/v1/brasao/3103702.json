@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3103702",
+ "uf": "MG",
+ "municipio": "Araponga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Araponga_MG_Bras%C3%A3o.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Araponga",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6d8968c49fce138a126180f8a0f6e934b62653c44937658b27fb46d3db953256",
+ "rendicoes": {
+  "png": {
+   "bytes": 104403,
+   "sha256": "0369378a83fa5171de14f5e7a629c1b653c4cdc294c0a902f7f83cc81fec9aac",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19495,
+   "sha256": "b44f63dbdce55aa0333887963102bcc369569eadc680033e2e2458b9f9b978c8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3103702.png",
+  "bytes": 98895,
+  "sha256": "6d8968c49fce138a126180f8a0f6e934b62653c44937658b27fb46d3db953256"
+ },
+ "sha1_origem": "407a3373b7568e5984d7ef2489cc2447a881c680",
+ "bytes_origem": 98895,
+ "capturado_em": "2026-11-08T05:59:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Araponga_MG_Brasão.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "407a3373b7568e5984d7ef2489cc2447a881c680"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3529658",
+ "uf": "SP",
+ "municipio": "Mesópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Flag_of_Mes%C3%B3polis_-_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3ff0ea5b49ab6b41e3b00e93caeb01c58bee23a1eb8c30c832ecbcfa58123178",
+ "rendicoes": {
+  "png": {
+   "bytes": 99572,
+   "sha256": "fd73b322ff25999b11bcc0ba7a94b7ede8c611318665b9ccb9a143fc019ea6ac",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28859,
+   "sha256": "b6a2d7d1cb9798b73bc27b2c6e56715447abca7b7993b974fe1fce29017cfa92",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529658.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529658.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529658.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3529658.png",
+  "bytes": 129521,
+  "sha256": "3ff0ea5b49ab6b41e3b00e93caeb01c58bee23a1eb8c30c832ecbcfa58123178"
+ },
+ "sha1_origem": "717f92d7ae680d983af478c5ffbb92bf0bc232de",
+ "bytes_origem": 129521,
+ "capturado_em": "2026-11-08T06:31:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Mesópolis_-_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "717f92d7ae680d983af478c5ffbb92bf0bc232de"
+ }
+}

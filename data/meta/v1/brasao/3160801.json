@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3160801",
+ "uf": "MG",
+ "municipio": "São Bento Abade",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Brasaosaobentoabade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Bento Abade",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cc421f6ba9fedbb7eda6b502b0a420394e7acd54cfcc78c95ce71ea3faf63b47",
+ "rendicoes": {
+  "png": {
+   "bytes": 341180,
+   "sha256": "30ecabffd4114acc83515172755b88fe0d44644893e6a539e0401638fc4d56cb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53665,
+   "sha256": "3b25657bc281bca64d3388380399851347beb564a1af434e6ad031eb0b784c4c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3160801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3160801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3160801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3160801.jpg",
+  "bytes": 156319,
+  "sha256": "cc421f6ba9fedbb7eda6b502b0a420394e7acd54cfcc78c95ce71ea3faf63b47"
+ },
+ "sha1_origem": "2e041485dc91c72c5e55aeedea1f32b840520bf5",
+ "bytes_origem": 156319,
+ "capturado_em": "2026-11-08T06:15:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaosaobentoabade.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "2e041485dc91c72c5e55aeedea1f32b840520bf5"
+ }
+}

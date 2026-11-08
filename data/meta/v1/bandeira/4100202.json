@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4100202",
+ "uf": "PR",
+ "municipio": "Adrianópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bandeira_Adrian%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "efcdd0685bd7dd8db97435a6520295fb757f44cdd5c7930f04ac9b730955f234",
+ "rendicoes": {
+  "png": {
+   "bytes": 23273,
+   "sha256": "32c5ddd7fcb75cfe3842655369aa96a08968bb21c3d1c59d2939c57f16af65ee",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12619,
+   "sha256": "e02789a8b1f863d213382e8d7839f7a09752d3a72d4f6620cf8f7fb1328ee064",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4100202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4100202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4100202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4100202.jpg",
+  "bytes": 67202,
+  "sha256": "efcdd0685bd7dd8db97435a6520295fb757f44cdd5c7930f04ac9b730955f234"
+ },
+ "sha1_origem": "b8d68eb749722b307c2a42a7e1998a96b6971943",
+ "bytes_origem": 67202,
+ "capturado_em": "2026-11-08T06:40:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Adrianópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "b8d68eb749722b307c2a42a7e1998a96b6971943"
+ }
+}

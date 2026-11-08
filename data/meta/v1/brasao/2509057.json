@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2509057",
+ "uf": "PB",
+ "municipio": "Marcação",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bras%C3%A3o_Marca%C3%A7%C3%A3o-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Marcação",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "37354565a72f779174807e35d89c07dc7435d88e8e9c0e1ec6dbeeeb9b3d4312",
+ "rendicoes": {
+  "png": {
+   "bytes": 239262,
+   "sha256": "bd916435d0b97d07acf7ec74c9af3825ee120023f85484947319084d328b4625",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44060,
+   "sha256": "5bc3b2a9ef76aeacfdcf3fe44f1906b76b8a0559c8e0bccc4c9cda65e4bafa6f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509057.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509057.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509057.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2509057.jpg",
+  "bytes": 57976,
+  "sha256": "37354565a72f779174807e35d89c07dc7435d88e8e9c0e1ec6dbeeeb9b3d4312"
+ },
+ "sha1_origem": "2d3af46e61667d3e54306df9a2991350e1dd3d28",
+ "bytes_origem": 57976,
+ "capturado_em": "2026-11-08T05:41:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Marcação-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "2d3af46e61667d3e54306df9a2991350e1dd3d28"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4213203",
+ "uf": "SC",
+ "municipio": "Pomerode",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bandeira-pomerode.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "dd35001737c2bdda63d02ed0cbea411975a81fd21f42856d88d8963c94973c2c",
+ "rendicoes": {
+  "png": {
+   "bytes": 42530,
+   "sha256": "782412a87662a58de4a263c26f0ddb595c8bd27c54109a7976c0e139bb785cde",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13678,
+   "sha256": "5a407a49bec97f2baa8972f1c2e19394b4bd3d271cee21b190ca8f9102f5f095",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4213203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4213203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4213203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4213203.png",
+  "bytes": 75688,
+  "sha256": "dd35001737c2bdda63d02ed0cbea411975a81fd21f42856d88d8963c94973c2c"
+ },
+ "sha1_origem": "df54ca93effa93f52f357ff83ce56a6903ffa5e9",
+ "bytes_origem": 75688,
+ "capturado_em": "2026-11-08T06:55:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-pomerode.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "df54ca93effa93f52f357ff83ce56a6903ffa5e9"
+ }
+}

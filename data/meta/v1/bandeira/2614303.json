@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2614303",
+ "uf": "PE",
+ "municipio": "Moreilândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bandeira_de_Moreil%C3%A2ndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ed3b26f720f5824ebb288039d14be93d9aa86e2b0c831f1c774d9b3728adc442",
+ "rendicoes": {
+  "png": {
+   "bytes": 47825,
+   "sha256": "42b6af784679598f07bcb7342385e0b7d26f8d4973ae6d7c8eb3b50a5600b8c7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15538,
+   "sha256": "c36281e70598a25256f73d3283aa6d0329570e0a617d76f655e9a594bdfcdd13",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2614303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2614303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2614303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2614303.jpg",
+  "bytes": 52613,
+  "sha256": "ed3b26f720f5824ebb288039d14be93d9aa86e2b0c831f1c774d9b3728adc442"
+ },
+ "sha1_origem": "bcc8b0f8ff6554b42488302d1eae0713995f8cde",
+ "bytes_origem": 52613,
+ "capturado_em": "2026-11-08T05:47:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Moreilândia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "bcc8b0f8ff6554b42488302d1eae0713995f8cde"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4117602",
+ "uf": "PR",
+ "municipio": "Palmas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bandeira_palmaspr.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4fe5264ebcd6576f1052cb42a22a33e932613cc5aac0779bbade4aca5426941f",
+ "rendicoes": {
+  "png": {
+   "bytes": 50022,
+   "sha256": "29fb43c7931373e2a071dbe0d18946362df1d1167898336f85938d3a281b5c4c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18978,
+   "sha256": "94acdc2cc37749da76ddc614b8b07d54a86ad7cad55537a17e26efcfcfdd77ab",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4117602.png",
+  "bytes": 303706,
+  "sha256": "4fe5264ebcd6576f1052cb42a22a33e932613cc5aac0779bbade4aca5426941f"
+ },
+ "sha1_origem": "62c1e08964261e9d83d4e73955109c88ff873420",
+ "bytes_origem": 303706,
+ "capturado_em": "2026-11-08T06:47:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_palmaspr.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:22Z",
+  "estado": "igual",
+  "sha1_commons": "62c1e08964261e9d83d4e73955109c88ff873420"
+ }
+}

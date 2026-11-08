@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4126900",
+ "uf": "PR",
+ "municipio": "Tapira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Brasao_tapira_pr.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Tapira",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "de0b25c2a46da40d701a08ba27dc32d3023286321f101fbd7c2b6ef2ddd59cf2",
+ "rendicoes": {
+  "png": {
+   "bytes": 27477,
+   "sha256": "806de1954ceb2dddb67bbab043d483a6beb807d328db9205661165b435ee952a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8107,
+   "sha256": "a493fff27c1b73bff4fcd65683e63fa00b57908bf9a4db340ce945858efc1e9f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4126900.png",
+  "bytes": 9168,
+  "sha256": "de0b25c2a46da40d701a08ba27dc32d3023286321f101fbd7c2b6ef2ddd59cf2"
+ },
+ "sha1_origem": "640811abaef0d6ffc17f34d92239bf85515cd2c0",
+ "bytes_origem": 9168,
+ "capturado_em": "2026-11-08T06:50:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_tapira_pr.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "640811abaef0d6ffc17f34d92239bf85515cd2c0"
+ }
+}

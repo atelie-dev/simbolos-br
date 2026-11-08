@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1200450",
+ "uf": "AC",
+ "municipio": "Senador Guiomard",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/ba/BandeiraSenadorGuiomard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Senador Guiomard",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "26f8ddc3163ada1e06deb0492f2507ec610f850a2fc05df50eec501956bbc022",
+ "rendicoes": {
+  "png": {
+   "bytes": 59795,
+   "sha256": "d4cb207849d7e1ed674c430c67dd79c760945ca1839764662fe7faad4515c2ad",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13318,
+   "sha256": "b8af92366c009f221dd52e9bc44a45a5efd991ef063c6a03101bbffea4b31eb6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200450.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200450.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200450.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1200450.jpg",
+  "bytes": 14792,
+  "sha256": "26f8ddc3163ada1e06deb0492f2507ec610f850a2fc05df50eec501956bbc022"
+ },
+ "sha1_origem": "8622c9f3235dd2b897b67615e639ab2730b922a4",
+ "bytes_origem": 14792,
+ "capturado_em": "2026-11-08T05:22:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraSenadorGuiomard.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "8622c9f3235dd2b897b67615e639ab2730b922a4"
+ }
+}

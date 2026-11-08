@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5100250",
+ "uf": "MT",
+ "municipio": "Alta Floresta",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bandeira_de_Alta_Floresta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Alta Floresta City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a997fe9dcfc583da62c15baf8b59b288c35fd792c3a4e57628d1915bf8bff1d7",
+ "rendicoes": {
+  "png": {
+   "bytes": 149069,
+   "sha256": "53694c29f71c6b29298020adb063ecb35d0c636027db7caa7f6f198ac24dadde",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26948,
+   "sha256": "8a85e33f885a802c9a22e725e35993afeffc39ed055a9b74259677663403dcd3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5100250.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5100250.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5100250.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5100250.jpg",
+  "bytes": 87436,
+  "sha256": "a997fe9dcfc583da62c15baf8b59b288c35fd792c3a4e57628d1915bf8bff1d7"
+ },
+ "sha1_origem": "f78fc4fa8bc47015fc2a07081508d37cedcc1272",
+ "bytes_origem": 87436,
+ "capturado_em": "2026-11-08T07:13:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Alta_Floresta.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "f78fc4fa8bc47015fc2a07081508d37cedcc1272"
+ }
+}

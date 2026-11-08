@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3132503",
+ "uf": "MG",
+ "municipio": "Itamarandiba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Bandeira_de_itamarandiba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Itamarandiba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c34a8413b4eebd2810ef18edabc2bd5746806175b40bbc1227bb6a0ef2547c5d",
+ "rendicoes": {
+  "png": {
+   "bytes": 15927,
+   "sha256": "509709a4e4a3b6965849fa2df550b9793d81ccef95bf7ac8ac0ab55afc78b2a9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5272,
+   "sha256": "1aab4e90d3e1262d1a14e361a021e4de44bb0063cb0d27ece02523b12703c19f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3132503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3132503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3132503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3132503.jpg",
+  "bytes": 2679,
+  "sha256": "c34a8413b4eebd2810ef18edabc2bd5746806175b40bbc1227bb6a0ef2547c5d"
+ },
+ "sha1_origem": "d967aebe06be8d01d0dd9b8bc8e92b195655ffaf",
+ "bytes_origem": 2679,
+ "capturado_em": "2026-11-08T06:09:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_itamarandiba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "d967aebe06be8d01d0dd9b8bc8e92b195655ffaf"
+ }
+}

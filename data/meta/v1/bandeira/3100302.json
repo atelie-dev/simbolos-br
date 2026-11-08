@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3100302",
+ "uf": "MG",
+ "municipio": "Abre Campo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Flag_of_Abre_Campo_-_MG_-_Brazil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pcgomes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "535c24787d5e7aea38d62e02e11073c4fb8a758b40227816a86de4b19f3a1385",
+ "rendicoes": {
+  "png": {
+   "bytes": 84681,
+   "sha256": "3779b4043fba4ef75c6344ece0faba9da6b7da4476820b50a1b13a81491d7ade",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25423,
+   "sha256": "c5dcc7a6fe85da06ff6295fd16f58f03e04f8250ab587ce1e2f1d2c47972010b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3100302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3100302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3100302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3100302.png",
+  "bytes": 251566,
+  "sha256": "535c24787d5e7aea38d62e02e11073c4fb8a758b40227816a86de4b19f3a1385"
+ },
+ "sha1_origem": "a3b347b16ef079a297828ed9054b34d826be1c71",
+ "bytes_origem": 251566,
+ "capturado_em": "2026-11-08T05:58:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Abre_Campo_-_MG_-_Brazil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "a3b347b16ef079a297828ed9054b34d826be1c71"
+ }
+}

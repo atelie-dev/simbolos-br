@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2708006",
+ "uf": "AL",
+ "municipio": "Santana do Ipanema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bandeira_sdoipanema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "352ccfad61ae556144a766dc7aa88d3d879103f75732a7e769863fda918ddf73",
+ "rendicoes": {
+  "png": {
+   "bytes": 39780,
+   "sha256": "732ce8a2564926b0eea57edea68249d209807dba39764ebcb5b1ef2ff5d399d9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12906,
+   "sha256": "66a9a4fee3d5026b57df106e22b91b435c5154840376563ef343a92fb7a092e8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2708006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2708006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2708006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2708006.jpg",
+  "bytes": 11053,
+  "sha256": "352ccfad61ae556144a766dc7aa88d3d879103f75732a7e769863fda918ddf73"
+ },
+ "sha1_origem": "2155a91d2e75edfad493e77f2a63c3719b311375",
+ "bytes_origem": 11053,
+ "capturado_em": "2026-11-08T05:48:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_sdoipanema.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "2155a91d2e75edfad493e77f2a63c3719b311375"
+ }
+}

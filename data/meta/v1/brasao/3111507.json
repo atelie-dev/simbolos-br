@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3111507",
+ "uf": "MG",
+ "municipio": "Campos Altos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Brasaocamposaltos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Conrado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "47ac0a79be69e6394dce723b5f157158f300bc6cfcb313b8c35127b378b26d56",
+ "rendicoes": {
+  "png": {
+   "bytes": 30689,
+   "sha256": "5bbf09ddff8f9391a73e288c9209890571bd9d2a08a7e3b57950d48a3fbe6072",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7594,
+   "sha256": "549db0412cb4b33eb4ab63ecebd5e7030d26245ecf5d61836f486cb2653a976a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111507.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111507.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111507.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3111507.jpg",
+  "bytes": 13535,
+  "sha256": "47ac0a79be69e6394dce723b5f157158f300bc6cfcb313b8c35127b378b26d56"
+ },
+ "sha1_origem": "138fe0aa6cf641e3fa3335332fd4c0ab10fbed9e",
+ "bytes_origem": 13535,
+ "capturado_em": "2026-11-08T06:02:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaocamposaltos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "138fe0aa6cf641e3fa3335332fd4c0ab10fbed9e"
+ }
+}

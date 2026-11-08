@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2111706",
+ "uf": "MA",
+ "municipio": "São Vicente Ferrer",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bandeira_de_S%C3%A3o_Vicente_F%C3%A9rrer_MA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camervan",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ad9fa7b40fd26416decfe9bba52209e778f2e51e018037da0ccc48ffe715bf3b",
+ "rendicoes": {
+  "png": {
+   "bytes": 12216,
+   "sha256": "33bdad15788f040b1877617a3b2a61041117a6e8b4b53a5dbbe150a827e3f06c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11179,
+   "sha256": "2c797ed88bea3766407f6b759962f2dda6db130e144877a83d4ff5d1a7c8fc1b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 275,
+   "sha256": "ad9fa7b40fd26416decfe9bba52209e778f2e51e018037da0ccc48ffe715bf3b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2111706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2111706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2111706.jpg"
+ },
+ "sha1_origem": "53fed2bb5ecc6300e882a22e97366bfea3f94dd4",
+ "bytes_origem": 275,
+ "capturado_em": "2026-11-08T02:40:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Vicente_Férrer_MA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "53fed2bb5ecc6300e882a22e97366bfea3f94dd4"
+ }
+}

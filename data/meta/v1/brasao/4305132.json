@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305132",
+ "uf": "RS",
+ "municipio": "Cerro Branco",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bras%C3%A3o_Cerro_Branco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cerro Branco",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a0cac72a8172e0607070ea8188e0c43dc58880f5a53a16112d29942b52e40c1e",
+ "rendicoes": {
+  "png": {
+   "bytes": 43757,
+   "sha256": "6e66d4864335b0b0249e590eb3eaec57aff9fe4e8fed97533379a613bed1737c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10470,
+   "sha256": "6600bf9a1ccea24ab0148fa56211c555686c0b41e11f4edb4a21b70a82d5ea41",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305132.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305132.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305132.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4305132.jpg",
+  "bytes": 7708,
+  "sha256": "a0cac72a8172e0607070ea8188e0c43dc58880f5a53a16112d29942b52e40c1e"
+ },
+ "sha1_origem": "7eaca4d7971415a0cef688753e553b8252956a51",
+ "bytes_origem": 7708,
+ "capturado_em": "2026-11-08T07:01:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Cerro_Branco.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:48Z",
+  "estado": "igual",
+  "sha1_commons": "7eaca4d7971415a0cef688753e553b8252956a51"
+ }
+}

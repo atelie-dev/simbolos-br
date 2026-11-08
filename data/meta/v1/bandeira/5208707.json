@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5208707",
+ "uf": "GO",
+ "municipio": "Goiânia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bandeira_de_Goi%C3%A2nia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ViniciusBR11; Prefeitura de Goiânia",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "84e8d45a9d0e6891e45b64493d8672b559a549f331b9262b02df9d3307531c35",
+ "rendicoes": {
+  "png": {
+   "bytes": 72753,
+   "sha256": "bd99f5ef54e430a053e0c8348cabb8dc1e41a7ecbd699dcb00891ad69065633e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32997,
+   "sha256": "99c3f650f65bd5e6783c3225306536f09f4bff3379a7c478004e52e5f8f1864b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 68928,
+   "sha256": "84e8d45a9d0e6891e45b64493d8672b559a549f331b9262b02df9d3307531c35"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5208707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5208707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5208707.jpg"
+ },
+ "sha1_origem": "45d32044118884de61b350ac9c8fcffd5d7b7b27",
+ "bytes_origem": 68928,
+ "capturado_em": "2026-11-08T05:10:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Goiânia.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "45d32044118884de61b350ac9c8fcffd5d7b7b27"
+ }
+}

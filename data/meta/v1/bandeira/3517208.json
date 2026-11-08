@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3517208",
+ "uf": "SP",
+ "municipio": "Guaiçara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bandeira_Guai%C3%A7ara.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c1d5d2f85ddfcdaf1404db54e82feac951cb0fcb3763ef18bfa9774866c2c3b6",
+ "rendicoes": {
+  "png": {
+   "bytes": 19038,
+   "sha256": "d72c8bb75c1bc3d93e961502a9e4eaf335016f79ea5c7fe283662cdcd4c73170",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10434,
+   "sha256": "288b8d0cd8b46e0e6b4739afdc8839b2c2a5f348d76860402d483c5735e945c0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3517208.png",
+  "bytes": 17193,
+  "sha256": "c1d5d2f85ddfcdaf1404db54e82feac951cb0fcb3763ef18bfa9774866c2c3b6"
+ },
+ "sha1_origem": "29f151e578c017bdbe7c84dc9a49554b4c085374",
+ "bytes_origem": 17193,
+ "capturado_em": "2026-11-08T06:28:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Guaiçara.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "29f151e578c017bdbe7c84dc9a49554b4c085374"
+ }
+}

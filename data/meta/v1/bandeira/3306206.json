@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3306206",
+ "uf": "RJ",
+ "municipio": "Vassouras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Bandeira_de_Vassouras_%28Rio_de_Janeiro%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "917b56afa7d0cd14cb40c2112528b05d218b9b0790cd12f260d67b1919853637",
+ "rendicoes": {
+  "png": {
+   "bytes": 28886,
+   "sha256": "68c9ac519a5a8555093399b72d6c7b9576ba45f6d6a44233ba067fbf6e7c30e9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20575,
+   "sha256": "c64f0d6c8fbceefec376939b0e47e0b506cef0151debda2dabb3d0b595d65466",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3306206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3306206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3306206.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3306206.png",
+  "bytes": 18493,
+  "sha256": "917b56afa7d0cd14cb40c2112528b05d218b9b0790cd12f260d67b1919853637"
+ },
+ "sha1_origem": "0d3e5ef00fa08f512aa0ebc9aa6894b87cfe5f46",
+ "bytes_origem": 18493,
+ "capturado_em": "2026-11-08T06:22:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Vassouras_(Rio_de_Janeiro).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "0d3e5ef00fa08f512aa0ebc9aa6894b87cfe5f46"
+ }
+}

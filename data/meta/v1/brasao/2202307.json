@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2202307",
+ "uf": "PI",
+ "municipio": "Canto do Buriti",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Canto_do_Buriti.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Emerson Santiago Silva",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cd254adcd1da36aebb502beebb671adf3c139e91c24093a060bdcf48f442b3a1",
+ "rendicoes": {
+  "png": {
+   "bytes": 337251,
+   "sha256": "0a162793e5d7f8ad4db05c9a7f6b1737bce71e96b40694034a6ea212fcbdac8d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 69169,
+   "sha256": "e7ac36f0418230d17d4de7f3e51877219f3c97f65f3c567cfbc9740ec02d2036",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2202307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2202307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2202307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2202307.png",
+  "bytes": 315662,
+  "sha256": "cd254adcd1da36aebb502beebb671adf3c139e91c24093a060bdcf48f442b3a1"
+ },
+ "sha1_origem": "698237ae0d0c46f1ee9e74645fc146b320abd782",
+ "bytes_origem": 315662,
+ "capturado_em": "2026-11-08T05:29:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Canto_do_Buriti.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "698237ae0d0c46f1ee9e74645fc146b320abd782"
+ }
+}

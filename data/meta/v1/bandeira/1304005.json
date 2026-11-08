@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1304005",
+ "uf": "AM",
+ "municipio": "Silves",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bandeira_de_Silves_%28AM%29.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Silves",
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "c0a1bb2736e265b6fb04dc0e14ce595366d61f341442bbc7d5ac246bb82d0b7c",
+ "rendicoes": {
+  "png": {
+   "bytes": 6844,
+   "sha256": "1dbdcaee273e483c7184db713c29a9cfc43d92ab0f404bc7cf5a05cda59aab1a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17202,
+   "sha256": "d2e7b2912b7d453abd4db5604aed40b694ca1667ff17ebc93e243f65a469f842",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1304005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1304005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1304005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1304005.gif",
+  "bytes": 4512,
+  "sha256": "c0a1bb2736e265b6fb04dc0e14ce595366d61f341442bbc7d5ac246bb82d0b7c"
+ },
+ "sha1_origem": "04520f8d96f7ffaabd395707c01f12a1e16afb37",
+ "bytes_origem": 4512,
+ "capturado_em": "2026-11-08T05:23:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Silves_(AM).gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "04520f8d96f7ffaabd395707c01f12a1e16afb37"
+ }
+}

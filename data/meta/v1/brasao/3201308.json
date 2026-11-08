@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3201308",
+ "uf": "ES",
+ "municipio": "Cariacica",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Brasao-Cariacica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cariacica City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "532858c5ee0668d536add8446f41a914ac965ff9ee4eeecdaa90720f9c816b99",
+ "rendicoes": {
+  "png": {
+   "bytes": 193541,
+   "sha256": "1115d2b546f2b2903a1cae24473481712ec3bd4586eb36f05ead1f01653251c5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 51570,
+   "sha256": "f0ad74ae329814a1e835f38241b8b8a47a0bc0157e7658138e2f1648a938afdc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3201308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3201308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3201308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3201308.jpg",
+  "bytes": 308321,
+  "sha256": "532858c5ee0668d536add8446f41a914ac965ff9ee4eeecdaa90720f9c816b99"
+ },
+ "sha1_origem": "43e6a5f239cc20e822970d10380363820a1b03af",
+ "bytes_origem": 308321,
+ "capturado_em": "2026-11-08T06:18:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-Cariacica.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "43e6a5f239cc20e822970d10380363820a1b03af"
+ }
+}

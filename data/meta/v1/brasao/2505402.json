@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2505402",
+ "uf": "PB",
+ "municipio": "Desterro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bras%C3%A3o_Desterro_%28PB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Desterro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "16b6c19ed8877d96254db926d5a3d6476bbdf8c90837d5ffc44f0070350dfd7f",
+ "rendicoes": {
+  "png": {
+   "bytes": 293417,
+   "sha256": "e049e59b88d08f474ca019485541f5bdcdd60f082a1f383df66e0186462e20fd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55351,
+   "sha256": "d3f390c4fd09904cc0f048d3e56ab81532bbeb00a9124d32e6fc8d63e8fd8afa",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2505402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2505402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2505402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2505402.jpg",
+  "bytes": 54483,
+  "sha256": "16b6c19ed8877d96254db926d5a3d6476bbdf8c90837d5ffc44f0070350dfd7f"
+ },
+ "sha1_origem": "4626f6916a241f8354a7e4c5e32246f2ada9eb1d",
+ "bytes_origem": 54483,
+ "capturado_em": "2026-11-08T05:40:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Desterro_(PB).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:48Z",
+  "estado": "igual",
+  "sha1_commons": "4626f6916a241f8354a7e4c5e32246f2ada9eb1d"
+ }
+}

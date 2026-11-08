@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3166402",
+ "uf": "MG",
+ "municipio": "Seritinga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Brasaoseritinga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Seritinga",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bd3df6858da49cfc8f3ba173b8b39722896795a4b179d14b9ad6437af3c3c644",
+ "rendicoes": {
+  "png": {
+   "bytes": 74362,
+   "sha256": "9504ed99d185675f186030b979f6474cf344159706cab9d96eb84f06cdc534e2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15564,
+   "sha256": "bdd2a054fbebbea3b6debb496bb5cfa287807b24d02f1cb92dc99fda2a5fa5ff",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3166402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3166402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3166402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3166402.jpg",
+  "bytes": 15607,
+  "sha256": "bd3df6858da49cfc8f3ba173b8b39722896795a4b179d14b9ad6437af3c3c644"
+ },
+ "sha1_origem": "f62a665c8fc7ccadfa9e124940fb8e156a6e4e90",
+ "bytes_origem": 15607,
+ "capturado_em": "2026-11-08T06:17:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoseritinga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "f62a665c8fc7ccadfa9e124940fb8e156a6e4e90"
+ }
+}

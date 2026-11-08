@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4319356",
+ "uf": "RS",
+ "municipio": "São Pedro da Serra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bandeira_SaoPedrodaSerra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Pedro da Serra",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3949b984e6668b1ab9678bc371afb426474956cdf0450fb4a3d04118ebca3d44",
+ "rendicoes": {
+  "png": {
+   "bytes": 26311,
+   "sha256": "f5cfd503d97d9c6e99513bf00bd8d9684ee71b04bdb1a46df71c427a6d943fdb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10167,
+   "sha256": "3f11cd356a3eeebca287d83b3f8afbfd7c537915019e4b9f445a37ec1b93a1f2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319356.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319356.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319356.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4319356.jpg",
+  "bytes": 9003,
+  "sha256": "3949b984e6668b1ab9678bc371afb426474956cdf0450fb4a3d04118ebca3d44"
+ },
+ "sha1_origem": "88cbdd8c3ca1f10d5f0c792834f7bba37a6dfbb8",
+ "bytes_origem": 9003,
+ "capturado_em": "2026-11-08T07:09:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_SaoPedrodaSerra.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "88cbdd8c3ca1f10d5f0c792834f7bba37a6dfbb8"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305306",
+ "uf": "RS",
+ "municipio": "Chapada",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Brasao_Chapada_RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Chapada.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "916ef735fc76624417024bf330269bed429fb415137e948c0374a168ed573d82",
+ "rendicoes": {
+  "png": {
+   "bytes": 51342,
+   "sha256": "b67d0239e3265b0d8531a8455c9859f1678191fd75b4f6638bc851f7fc58fd94",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12339,
+   "sha256": "b59ef3fa6fc0fa86f4be7ca9844491835fc10275fe573fc24dc4dcaaac77a0db",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4305306.jpg",
+  "bytes": 35179,
+  "sha256": "916ef735fc76624417024bf330269bed429fb415137e948c0374a168ed573d82"
+ },
+ "sha1_origem": "81c40d14a0614fbc95e90347a5694fd9348dd02a",
+ "bytes_origem": 35179,
+ "capturado_em": "2026-11-08T07:01:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Chapada_RS.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:32Z",
+  "estado": "igual",
+  "sha1_commons": "81c40d14a0614fbc95e90347a5694fd9348dd02a"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5204904",
+ "uf": "GO",
+ "municipio": "Campos Belos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Bandeira_de_Campos_Belos.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Giro720",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "500ec2125a53807044e3b56b8b8b7561ced94e6a5b9c94dba9d3b151bf5b7321",
+ "rendicoes": {
+  "png": {
+   "bytes": 10835,
+   "sha256": "f29c042a60a9071bd871e8d12a511b5a80be1960adcee1e32308358eb9580b44",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10595,
+   "sha256": "a6d1a3259a042a6274e92f7f318097e92540c9d64f6d9afd2c7a25867edd297c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 846,
+   "sha256": "500ec2125a53807044e3b56b8b8b7561ced94e6a5b9c94dba9d3b151bf5b7321"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204904.jpg"
+ },
+ "sha1_origem": "0aab7cde78cd78544945534c1f85421dc5724fdc",
+ "bytes_origem": 846,
+ "capturado_em": "2026-11-08T05:09:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Campos_Belos.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "0aab7cde78cd78544945534c1f85421dc5724fdc"
+ }
+}

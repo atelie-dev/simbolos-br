@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4302303",
+ "uf": "RS",
+ "municipio": "Bom Jesus",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bandeira_Bom_Jesus_%28Rio_Grande_do_Sul%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "2338e86ab4b0431f05270f6f1d5dd4ac606490af6ec6222df8338a7168bf99a6",
+ "rendicoes": {
+  "png": {
+   "bytes": 10072,
+   "sha256": "d6df541df779d1ef76eef0f60d89078da48bd097c779e4f6f02cbc1932869e8b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10365,
+   "sha256": "c31d3bb329cda57c0524cb12c8f7459e668494b223379119262bab9d5611245e",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 8901,
+   "sha256": "2338e86ab4b0431f05270f6f1d5dd4ac606490af6ec6222df8338a7168bf99a6"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302303.jpg"
+ },
+ "sha1_origem": "b3fb378489b3c043f4bb1c136c02158d86783618",
+ "bytes_origem": 8901,
+ "capturado_em": "2026-11-08T04:48:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Bom_Jesus_(Rio_Grande_do_Sul).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "b3fb378489b3c043f4bb1c136c02158d86783618"
+ }
+}

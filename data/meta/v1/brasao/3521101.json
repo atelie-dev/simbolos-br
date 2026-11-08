@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3521101",
+ "uf": "SP",
+ "municipio": "Ipeúna",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bras%C3%A3o_Ipe%C3%BAna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "33254ec3c54598bf9ca948e0102a424967e28d810da49fc4c8813819d6cda2f9",
+ "rendicoes": {
+  "png": {
+   "bytes": 147599,
+   "sha256": "f0db23bc6be89c5abeddc9be874cf7a10f6b739bc3d76e17bceeba67911d8f23",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30630,
+   "sha256": "37ee04faf2f530235f93728904a6fb67d1ffa7ab03b7a231641235ac74e51464",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3521101.jpg",
+  "bytes": 37571,
+  "sha256": "33254ec3c54598bf9ca948e0102a424967e28d810da49fc4c8813819d6cda2f9"
+ },
+ "sha1_origem": "8e26da9e2422beee7199d70f7f09b2f7d37fa11d",
+ "bytes_origem": 37571,
+ "capturado_em": "2026-11-08T06:29:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Ipeúna.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "8e26da9e2422beee7199d70f7f09b2f7d37fa11d"
+ }
+}

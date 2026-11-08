@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4126108",
+ "uf": "PR",
+ "municipio": "São Tomé",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bras%C3%A3o_do_munic%C3%ADpio_de_S%C3%A3o_Tom%C3%A9-PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Desconhecido. Domínio público",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1c0e2e2ab01aaf8dda655ab6dc7b57029e14f520fba08f3f5ad25bee4534ff2b",
+ "rendicoes": {
+  "png": {
+   "bytes": 227095,
+   "sha256": "a976d16799c02c09d00bf6b5daa616bef971c3caff1e85c35332fef631e5dff5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41113,
+   "sha256": "4c4d93571f8597aba98e0b566fee01648202757aad927fa646300733ee9bdfcf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126108.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4126108.jpg",
+  "bytes": 38758,
+  "sha256": "1c0e2e2ab01aaf8dda655ab6dc7b57029e14f520fba08f3f5ad25bee4534ff2b"
+ },
+ "sha1_origem": "88d97d4f5f79cfbbb486ee79bd5411273816cd0f",
+ "bytes_origem": 38758,
+ "capturado_em": "2026-11-08T06:50:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_São_Tomé-PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:18Z",
+  "estado": "igual",
+  "sha1_commons": "88d97d4f5f79cfbbb486ee79bd5411273816cd0f"
+ }
+}

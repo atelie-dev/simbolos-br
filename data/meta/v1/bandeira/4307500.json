@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4307500",
+ "uf": "RS",
+ "municipio": "Espumoso",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bandeira_espumoso.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Osmaludo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1ebd0e9230eacf334574fdd046c0d97d5e27242c2cd75f7e5341e3946073b42a",
+ "rendicoes": {
+  "png": {
+   "bytes": 99561,
+   "sha256": "935a7b278ec1e2629fc1a8ca914c413faec61efd16adef2160b0b380b98e7a51",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35378,
+   "sha256": "6fd9e551f96a391da6ae5c809632b4eca08c2a684a103d85d65d718ebd284f9d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4307500.png",
+  "bytes": 1753789,
+  "sha256": "1ebd0e9230eacf334574fdd046c0d97d5e27242c2cd75f7e5341e3946073b42a"
+ },
+ "sha1_origem": "316d138c6272b794277851885f71db59e4930a00",
+ "bytes_origem": 1753789,
+ "capturado_em": "2026-11-08T07:02:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_espumoso.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "316d138c6272b794277851885f71db59e4930a00"
+ }
+}

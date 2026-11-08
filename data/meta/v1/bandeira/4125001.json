@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4125001",
+ "uf": "PR",
+ "municipio": "São João do Ivaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bandeira_de_S%C3%A3o_Jo%C3%A3o_do_Iva%C3%AD%2C_PR.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8703c46c9a25c72abdeb0aabfcae3f4e84e002302de63f4fce293846a6bb13b0",
+ "rendicoes": {
+  "png": {
+   "bytes": 16065,
+   "sha256": "d8404ba563aa6bed36422f837c563df2a35a02fd36cd3a0ca98d51d39f8ee6a4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13281,
+   "sha256": "991d3fbca15c20cfb0dc04022b9731fe26b965b03e40fcf2ce5de82e0e9e3f76",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4125001.png",
+  "bytes": 5654,
+  "sha256": "8703c46c9a25c72abdeb0aabfcae3f4e84e002302de63f4fce293846a6bb13b0"
+ },
+ "sha1_origem": "572703589cb0046b32aa8c74464e3d6fced343dd",
+ "bytes_origem": 5654,
+ "capturado_em": "2026-11-08T06:49:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_João_do_Ivaí,_PR.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "572703589cb0046b32aa8c74464e3d6fced343dd"
+ }
+}

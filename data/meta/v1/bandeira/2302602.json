@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2302602",
+ "uf": "CE",
+ "municipio": "Camocim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bandeira_de_Camocim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Camocim",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bfebf24932ccdf8f72114685763f73c206b9302d8f9d14912e5fb11604e3b6c0",
+ "rendicoes": {
+  "png": {
+   "bytes": 83331,
+   "sha256": "0ab1d8ea04d791a003e6c0e7f53a557072f7d366dd734fee0d9640037a132578",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21685,
+   "sha256": "3a84848ac9ecb8adcdafc8d7d0f7d3d6aa1a67b96b242247a3dc12dff1b510f0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2302602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2302602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2302602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2302602.jpg",
+  "bytes": 81874,
+  "sha256": "bfebf24932ccdf8f72114685763f73c206b9302d8f9d14912e5fb11604e3b6c0"
+ },
+ "sha1_origem": "230a2b8e4d60ca657b8ef5cc76f07a2180836070",
+ "bytes_origem": 81874,
+ "capturado_em": "2026-11-08T05:32:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Camocim.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "230a2b8e4d60ca657b8ef5cc76f07a2180836070"
+ }
+}

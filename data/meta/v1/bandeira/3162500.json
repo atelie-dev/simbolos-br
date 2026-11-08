@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3162500",
+ "uf": "MG",
+ "municipio": "São João del Rei",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bandeira_de_S%C3%A3o_Jo%C3%A3o_del-Rei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São João del-Rei, Minas Gerais, Brasil",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a941f8ffea8b0092b26e3164eea44d7229c2176cc11420f34cbadc349ba73256",
+ "rendicoes": {
+  "png": {
+   "bytes": 64787,
+   "sha256": "b1a4a3d4ed039ebc0d62a7fa0b72f0690454ba6055b42af7ac80d899da1e4f5e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22493,
+   "sha256": "5adea9b05fabc8b0a617b4e92f0f726222e8b4fdbfeffb0086e22aa6517541c4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3162500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3162500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3162500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3162500.jpg",
+  "bytes": 24420,
+  "sha256": "a941f8ffea8b0092b26e3164eea44d7229c2176cc11420f34cbadc349ba73256"
+ },
+ "sha1_origem": "fdef77bcc6d3ef12ae5e9d3ccb83d7d525b3d7d4",
+ "bytes_origem": 24420,
+ "capturado_em": "2026-11-08T06:16:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_João_del-Rei.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "fdef77bcc6d3ef12ae5e9d3ccb83d7d525b3d7d4"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3512803",
+ "uf": "SP",
+ "municipio": "Cosmópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cosmopolis-bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Gilson de Moura",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "52d4256d2fc4cab241205c44c952c9a7e31c4e665b0c84fcd51b2e8da076f2f3",
+ "rendicoes": {
+  "png": {
+   "bytes": 78655,
+   "sha256": "69eaed933993f437ce9e8e9d6601f271581aa1e6d244e4f7e75e64f1a81e266f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29231,
+   "sha256": "65ff12973c84a515e0305754ec472c21cce0ede4a835651dd828b3e751ec4ec8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3512803.jpg",
+  "bytes": 318152,
+  "sha256": "52d4256d2fc4cab241205c44c952c9a7e31c4e665b0c84fcd51b2e8da076f2f3"
+ },
+ "sha1_origem": "9e54ae919376325b3a6baba9eeb29d6460f67dee",
+ "bytes_origem": 318152,
+ "capturado_em": "2026-11-08T06:26:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cosmopolis-bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "9e54ae919376325b3a6baba9eeb29d6460f67dee"
+ }
+}

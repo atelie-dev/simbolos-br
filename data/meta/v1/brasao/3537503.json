@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3537503",
+ "uf": "SP",
+ "municipio": "Pereiras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Bras%C3%A3o_Pereiras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d03817233f468867401baeeb709dc0b532f94f5613773f818fafe59eea06d593",
+ "rendicoes": {
+  "png": {
+   "bytes": 116253,
+   "sha256": "b3e75b4522720f2e2824d40c15dd2c4ce705e1dbe80b81daad45d946328503dd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20678,
+   "sha256": "ef070288ca33c5a70719a8d1f4da6328bd04d56ae017f9ad07e3b143a2b82683",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3537503.jpg",
+  "bytes": 25282,
+  "sha256": "d03817233f468867401baeeb709dc0b532f94f5613773f818fafe59eea06d593"
+ },
+ "sha1_origem": "e500a8dc17b9572164fd38e88f5db8f0a44f4a3c",
+ "bytes_origem": 25282,
+ "capturado_em": "2026-11-08T06:34:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Pereiras.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "e500a8dc17b9572164fd38e88f5db8f0a44f4a3c"
+ }
+}

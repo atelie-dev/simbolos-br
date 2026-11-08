@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2404200",
+ "uf": "RN",
+ "municipio": "Goianinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bandeira_de_Goianinha_%28RN%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7c098dbdc38d783036967c75e38302ab4472f262cc544f42ffd0641080da3f38",
+ "rendicoes": {
+  "png": {
+   "bytes": 33546,
+   "sha256": "3e09864f77cd5c90e53085bb12f4b0f64d0704838a22c4b1c22aa13167a6140d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13102,
+   "sha256": "0b39fe51570f3b1d9e955af4ad82ed4ce36943b1a826899e7eae69631e346d27",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2404200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2404200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2404200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2404200.png",
+  "bytes": 35675,
+  "sha256": "7c098dbdc38d783036967c75e38302ab4472f262cc544f42ffd0641080da3f38"
+ },
+ "sha1_origem": "23831bbc420670e29ea2531707e336f0a1856282",
+ "bytes_origem": 35675,
+ "capturado_em": "2026-11-08T05:36:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Goianinha_(RN).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "23831bbc420670e29ea2531707e336f0a1856282"
+ }
+}

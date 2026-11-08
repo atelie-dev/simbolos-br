@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3500105",
+ "uf": "SP",
+ "municipio": "Adamantina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bandeira_Adamantina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Adamantina",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0f2f995c79bf2d60413e70eeee6df1cd2e20d3051b37b14ff0e9409a92e38137",
+ "rendicoes": {
+  "png": {
+   "bytes": 70474,
+   "sha256": "5c2351661db4075c11ceca13d1c1cc93620b3f0ad33d2e1ba48ba1614feb6a52",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24573,
+   "sha256": "9d0ab57e3690b29e775b1fe5914e52e09846aa3a82c6c4940cd5cb0c1a2acca7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3500105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3500105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3500105.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3500105.jpg",
+  "bytes": 57309,
+  "sha256": "0f2f995c79bf2d60413e70eeee6df1cd2e20d3051b37b14ff0e9409a92e38137"
+ },
+ "sha1_origem": "a7a08dbb9b3f0cd50ec7da877166c291fe2f5588",
+ "bytes_origem": 57309,
+ "capturado_em": "2026-11-08T06:22:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Adamantina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "a7a08dbb9b3f0cd50ec7da877166c291fe2f5588"
+ }
+}

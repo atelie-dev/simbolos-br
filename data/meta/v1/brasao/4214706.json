@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4214706",
+ "uf": "SC",
+ "municipio": "Rio dos Cedros",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Brasao_riodoscedros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d5f032ba3f7ac18faa5e83fe28e67ae9a01ce4e044b7a17b2f2d014470c0355a",
+ "rendicoes": {
+  "png": {
+   "bytes": 206467,
+   "sha256": "a9e4a9eab8665ef16a06c3cc21eaa71a65c9144506b8fc5521c42ddc665d874e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 52303,
+   "sha256": "fb5c623b11da3ca6e5ff042dbadbbc9ad893a25fc4c035f7809d6b33a8d6d315",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4214706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4214706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4214706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4214706.jpg",
+  "bytes": 115493,
+  "sha256": "d5f032ba3f7ac18faa5e83fe28e67ae9a01ce4e044b7a17b2f2d014470c0355a"
+ },
+ "sha1_origem": "bde403f53fe9280a79407d73803e19cb98358c1d",
+ "bytes_origem": 115493,
+ "capturado_em": "2026-11-08T06:56:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_riodoscedros.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "bde403f53fe9280a79407d73803e19cb98358c1d"
+ }
+}

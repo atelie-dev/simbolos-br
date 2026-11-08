@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3101805",
+ "uf": "MG",
+ "municipio": "Alpercata",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/50/Alpercatamgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Alpercata",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "dde9dd0bd43c419abb7a795e9ab09beecbe47ad5217be9eb33a976e12c5feade",
+ "rendicoes": {
+  "png": {
+   "bytes": 103119,
+   "sha256": "c2898ee886db2b5dde15c2adac7ff6485009175fe49f4472ce1cdef8b98a0b09",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24903,
+   "sha256": "5ae599f51285069d064bce6e8c8a964842d43a6f6fe54f7385c991e2f436507b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3101805.png",
+  "bytes": 184432,
+  "sha256": "dde9dd0bd43c419abb7a795e9ab09beecbe47ad5217be9eb33a976e12c5feade"
+ },
+ "sha1_origem": "4f631bc8bb3908cd66e26d32164f85f741e0a0de",
+ "bytes_origem": 184432,
+ "capturado_em": "2026-11-08T05:58:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Alpercatamgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "4f631bc8bb3908cd66e26d32164f85f741e0a0de"
+ }
+}

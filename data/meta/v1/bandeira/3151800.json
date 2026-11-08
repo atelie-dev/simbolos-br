@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3151800",
+ "uf": "MG",
+ "municipio": "Poços de Caldas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bandeira_de_Po%C3%A7os_de_Caldas_%28MG%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "425c528c20d1d1649ef423a9a31afbe70d330be8f19249e6e906c368bbe8ebbb",
+ "rendicoes": {
+  "png": {
+   "bytes": 12467,
+   "sha256": "024f83140e26c88e307996440260fbafe598bcffcbc7ff5cbfa1460bdf7b41f3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8951,
+   "sha256": "6ccee19451157537da63b76e162461d44f51a04e174b9be4dde4353643143c5c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3151800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3151800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3151800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3151800.png",
+  "bytes": 5332,
+  "sha256": "425c528c20d1d1649ef423a9a31afbe70d330be8f19249e6e906c368bbe8ebbb"
+ },
+ "sha1_origem": "24bb699400e5d21ec6eea24e9d91ec9975e9cc4b",
+ "bytes_origem": 5332,
+ "capturado_em": "2026-11-08T06:13:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Poços_de_Caldas_(MG).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "24bb699400e5d21ec6eea24e9d91ec9975e9cc4b"
+ }
+}

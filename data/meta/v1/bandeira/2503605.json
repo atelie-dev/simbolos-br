@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2503605",
+ "uf": "PB",
+ "municipio": "Caiçara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bandeira_de_Cai%C3%A7ara-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1e6658919c8355f85c51dd871bf692d5ae8b2ef3654e59934b6606ef8ea72b84",
+ "rendicoes": {
+  "png": {
+   "bytes": 65608,
+   "sha256": "1ca7ee8901a12ae5eb8ef7bd859dd72b38b6ec8f8203e226f217b019aed9d6d7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29677,
+   "sha256": "ec4c51b3adb878e9878bc0d75de674f797ed6ba38736ec4269953f2f84e1323c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 47385,
+   "sha256": "1e6658919c8355f85c51dd871bf692d5ae8b2ef3654e59934b6606ef8ea72b84"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503605.jpg"
+ },
+ "sha1_origem": "4275c11fca2ad71fbc933ff931dbccafc3727b44",
+ "bytes_origem": 47385,
+ "capturado_em": "2026-11-08T02:56:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Caiçara-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "4275c11fca2ad71fbc933ff931dbccafc3727b44"
+ }
+}

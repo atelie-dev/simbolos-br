@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3546603",
+ "uf": "SP",
+ "municipio": "Santa Fé do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bandeira_de_Santa_F%C3%A9_do_Sul-SP%2C_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Santa Fé do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "437aa7f4d9c56a9d88fcc46209ec84be984b46b3b754fe8e8b2f3e431467f6b9",
+ "rendicoes": {
+  "png": {
+   "bytes": 174851,
+   "sha256": "aea7ec956d440328d0f5abcbf649648f260f8b7883b96a7546bd3d16d0dba901",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24504,
+   "sha256": "9433fe64c52a0d09385f2883f5145a42b69d48a317980671a412ee620157e67a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3546603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3546603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3546603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3546603.jpg",
+  "bytes": 456813,
+  "sha256": "437aa7f4d9c56a9d88fcc46209ec84be984b46b3b754fe8e8b2f3e431467f6b9"
+ },
+ "sha1_origem": "637e8ea5d000b30e2dc2a9678cbeca3eabbe6d18",
+ "bytes_origem": 456813,
+ "capturado_em": "2026-11-08T06:37:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santa_Fé_do_Sul-SP,_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "637e8ea5d000b30e2dc2a9678cbeca3eabbe6d18"
+ }
+}

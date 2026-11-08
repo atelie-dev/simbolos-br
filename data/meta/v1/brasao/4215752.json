@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4215752",
+ "uf": "SC",
+ "municipio": "São Bernardino",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Saobernardinobrasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Bernardino (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d2eb81292fa5bec5e40d0c581538884ba1290f8abd9df1346c5fc33eb3877303",
+ "rendicoes": {
+  "png": {
+   "bytes": 264582,
+   "sha256": "6cb4fa3f6f3c08d07ea85c824bb08c607d8318a527bc6b8b39ec76e7f995db41",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67600,
+   "sha256": "56993ed3203e243316b3daa5c9f9207748d3f21c50ff3bf62145375f663614d6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4215752.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4215752.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4215752.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4215752.png",
+  "bytes": 347642,
+  "sha256": "d2eb81292fa5bec5e40d0c581538884ba1290f8abd9df1346c5fc33eb3877303"
+ },
+ "sha1_origem": "ec2576c701a416f6db4384553ebd5d882ea95866",
+ "bytes_origem": 347642,
+ "capturado_em": "2026-11-08T06:56:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Saobernardinobrasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:36Z",
+  "estado": "igual",
+  "sha1_commons": "ec2576c701a416f6db4384553ebd5d882ea95866"
+ }
+}

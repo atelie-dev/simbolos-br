@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2932101",
+ "uf": "BA",
+ "municipio": "Ubaíra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bras%C3%A3o_Uba%C3%ADra_by_ArnonCorado.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Arnon Corado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "64c81b4d2148b17fb9368c908692f136711d122200664c44ae759e59d57189d2",
+ "rendicoes": {
+  "png": {
+   "bytes": 286740,
+   "sha256": "80c7ba8208d6f41f6536b932da3ef7f33cded46695029633566e7c2773010c73",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54593,
+   "sha256": "aca0e91fb428489617546ab1defafbb269ee8321677ae5ac0162b5f34775c3d5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2932101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2932101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2932101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2932101.jpg",
+  "bytes": 65910,
+  "sha256": "64c81b4d2148b17fb9368c908692f136711d122200664c44ae759e59d57189d2"
+ },
+ "sha1_origem": "ca9fbc01b6c8f02c7d2b8e1fd66968cf3cfbeb8d",
+ "bytes_origem": 65910,
+ "capturado_em": "2026-11-08T05:58:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Ubaíra_by_ArnonCorado.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "ca9fbc01b6c8f02c7d2b8e1fd66968cf3cfbeb8d"
+ }
+}

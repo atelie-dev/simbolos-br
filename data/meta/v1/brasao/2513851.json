@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2513851",
+ "uf": "PB",
+ "municipio": "Santo André",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bras%C3%A3o_Santo_Andr%C3%A9_%28PB%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santo André",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "08715fdf39f780fb5568b08910106e0b57bffcb6fc8d52cca2a037b3513fb6fa",
+ "rendicoes": {
+  "png": {
+   "bytes": 262824,
+   "sha256": "3d8ed022b3aa00d8d0b279d457304dcda42467c7a73795302ea3f261598c2a31",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56729,
+   "sha256": "cacdd4ad0c850f1a4f9f2658e19fda59c91f132105cf6ed748f148e315c0ee26",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2513851.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2513851.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2513851.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2513851.png",
+  "bytes": 296560,
+  "sha256": "08715fdf39f780fb5568b08910106e0b57bffcb6fc8d52cca2a037b3513fb6fa"
+ },
+ "sha1_origem": "4d090ab399e703bc0d56a846d6cfcaa77eaed464",
+ "bytes_origem": 296560,
+ "capturado_em": "2026-11-08T05:43:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Santo_André_(PB).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "4d090ab399e703bc0d56a846d6cfcaa77eaed464"
+ }
+}

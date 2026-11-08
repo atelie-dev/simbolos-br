@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2611200",
+ "uf": "PE",
+ "municipio": "Poção",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeirapocao.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Roberval Mendes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "acd32b12d66a1acc7ecff4ef3ef52849ecda01000f12f3118c9895d450e4c1ae",
+ "rendicoes": {
+  "png": {
+   "bytes": 41686,
+   "sha256": "093861e342ee7a7d753012248f66bc98b8b5c8908cc12fc356d9559080c9d0e8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22074,
+   "sha256": "22dfa00ced9e848ab589f4446a09814045ae741592c0ccd62c0827537c8287b9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2611200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2611200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2611200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2611200.jpg",
+  "bytes": 39680,
+  "sha256": "acd32b12d66a1acc7ecff4ef3ef52849ecda01000f12f3118c9895d450e4c1ae"
+ },
+ "sha1_origem": "12bfa70b337c6742965850fd7e32cf43b5dd4bff",
+ "bytes_origem": 39680,
+ "capturado_em": "2026-11-08T05:46:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeirapocao.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "12bfa70b337c6742965850fd7e32cf43b5dd4bff"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2201200",
+ "uf": "PI",
+ "municipio": "Barras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bras%C3%A3o_Barras_PiAU%C3%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "ACS123",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "441c5c0dd5dfc1d29ae360036d31c9289f9ad2f2731af2c1616e7a53c68059c6",
+ "rendicoes": {
+  "png": {
+   "bytes": 35008,
+   "sha256": "20e697c77aa6e0567ac261d5a901a7407fac9c1e98147c4c651d567819fbb53c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8618,
+   "sha256": "847a942a82f87dcfb2418e20ca078c4c63c3cc161ecfe93c48c3b5e9b89a20c1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2201200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2201200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2201200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2201200.jpg",
+  "bytes": 10882,
+  "sha256": "441c5c0dd5dfc1d29ae360036d31c9289f9ad2f2731af2c1616e7a53c68059c6"
+ },
+ "sha1_origem": "bf324894648cbcc07b9426655df71ad9927da8c4",
+ "bytes_origem": 10882,
+ "capturado_em": "2026-11-08T05:29:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Barras_PiAUÍ.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "bf324894648cbcc07b9426655df71ad9927da8c4"
+ }
+}

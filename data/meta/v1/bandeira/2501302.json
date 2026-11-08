@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2501302",
+ "uf": "PB",
+ "municipio": "Aroeiras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bandeira_Aroeiras-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Aroeiras",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8646fb07e243a7f035a06d11e437db7d6408652a1b29c974825d23cffa127bbe",
+ "rendicoes": {
+  "png": {
+   "bytes": 47068,
+   "sha256": "0b26543c9125e88a2fa0d30d1fd9e9170a77266311e989560a8297b9d2855c91",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15337,
+   "sha256": "ef006593b4562547c8ee6a7f43260c1b3379b80512cc62dace6efa1c0535633a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2501302.jpg",
+  "bytes": 18565,
+  "sha256": "8646fb07e243a7f035a06d11e437db7d6408652a1b29c974825d23cffa127bbe"
+ },
+ "sha1_origem": "ecadb6dfa89d8c8c5df952f08ff7be59ad7b4e4b",
+ "bytes_origem": 18565,
+ "capturado_em": "2026-11-08T05:39:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Aroeiras-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "ecadb6dfa89d8c8c5df952f08ff7be59ad7b4e4b"
+ }
+}

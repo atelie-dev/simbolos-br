@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2306900",
+ "uf": "CE",
+ "municipio": "Jaguaribe",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bandeira-jagaribece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Jaguaribe City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "637f24f1dab6c3ea3e3c9ac2983ddf7226c07ed672c7ebbed544cb398b287358",
+ "rendicoes": {
+  "png": {
+   "bytes": 231739,
+   "sha256": "c3f37c4f3f717ddad0e480fdcc24f6ca5b1f85d112b4518aea0519f829b98191",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26143,
+   "sha256": "94dec99b1cee3d3159a6107eee88c5791804db008325f627ad745dd80702d9fb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2306900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2306900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2306900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2306900.jpg",
+  "bytes": 561636,
+  "sha256": "637f24f1dab6c3ea3e3c9ac2983ddf7226c07ed672c7ebbed544cb398b287358"
+ },
+ "sha1_origem": "3eb82ae216dab813165bd4379ddaf377bced9c34",
+ "bytes_origem": 561636,
+ "capturado_em": "2026-11-08T05:33:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-jagaribece.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "3eb82ae216dab813165bd4379ddaf377bced9c34"
+ }
+}

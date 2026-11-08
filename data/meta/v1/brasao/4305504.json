@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305504",
+ "uf": "RS",
+ "municipio": "Ciríaco",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bras%C3%A3o_Cir%C3%ADaco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ciríaco",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5239efe5a2a839478f45b6b2a87370498ffa810e137e8ae82e7ca883a38ed006",
+ "rendicoes": {
+  "png": {
+   "bytes": 32291,
+   "sha256": "11f1c641b542b3ef395fa77ba115a8d65d3111bade2614329f7f6ef40b7b060f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8320,
+   "sha256": "2ec3b2063346f0dd70327882822acb1212bee81743d316bbc4ddcdcc0cb573c3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4305504.jpg",
+  "bytes": 6159,
+  "sha256": "5239efe5a2a839478f45b6b2a87370498ffa810e137e8ae82e7ca883a38ed006"
+ },
+ "sha1_origem": "8851dca440636d95d0166e3be5d4df9786e0e1fa",
+ "bytes_origem": 6159,
+ "capturado_em": "2026-11-08T07:01:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Ciríaco.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:48Z",
+  "estado": "igual",
+  "sha1_commons": "8851dca440636d95d0166e3be5d4df9786e0e1fa"
+ }
+}

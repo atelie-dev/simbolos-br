@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3131703",
+ "uf": "MG",
+ "municipio": "Itabira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bandeira_de_Itabira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Itabira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c4c8a9cbacbc437ac79ffeb91483cff145dd4373cf8297dacdf77a15b421ae36",
+ "rendicoes": {
+  "png": {
+   "bytes": 113405,
+   "sha256": "6d9f0738ec8e559839876e4eadca940d5b718be52f35d13aeb88ffa121b6ea1e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25637,
+   "sha256": "ff40c2edaf7fc946283c345a331743921b1983ef13e18d17423840701a165d14",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3131703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3131703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3131703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3131703.jpg",
+  "bytes": 47727,
+  "sha256": "c4c8a9cbacbc437ac79ffeb91483cff145dd4373cf8297dacdf77a15b421ae36"
+ },
+ "sha1_origem": "8a734faefff5a892baf99c9973153d7861db37fa",
+ "bytes_origem": 47727,
+ "capturado_em": "2026-11-08T06:09:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itabira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "8a734faefff5a892baf99c9973153d7861db37fa"
+ }
+}

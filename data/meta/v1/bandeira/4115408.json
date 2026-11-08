@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4115408",
+ "uf": "PR",
+ "municipio": "Marmeleiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bandeira-marmeleiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMM",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e76db1bc279c751a53cf05c600c7b824d0cdfe932603e78e944d4238f9afd101",
+ "rendicoes": {
+  "png": {
+   "bytes": 34737,
+   "sha256": "4ad78caf276ef8fe4914df505ca51edd96c0e74727febeda9ca04f964e965a98",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12484,
+   "sha256": "f73a2599c5148366801eef1fa8923323cde47e3340e90dd021f4a9f00109a87d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4115408.jpg",
+  "bytes": 9265,
+  "sha256": "e76db1bc279c751a53cf05c600c7b824d0cdfe932603e78e944d4238f9afd101"
+ },
+ "sha1_origem": "3bbc20497669e26c21a84d71d23a34cdba1f3fa5",
+ "bytes_origem": 9265,
+ "capturado_em": "2026-11-08T06:46:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-marmeleiro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "3bbc20497669e26c21a84d71d23a34cdba1f3fa5"
+ }
+}

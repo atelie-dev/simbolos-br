@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4300455",
+ "uf": "RS",
+ "municipio": "Alegria",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bandeira_Alegria_RS.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Alegria - RS, Brasil.",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7c0b6d5b82485bbe359d1e2f889139dd718445d70417e13495c5ae64f38ed028",
+ "rendicoes": {
+  "png": {
+   "bytes": 27733,
+   "sha256": "86d9d15aed0846f874a95451d06b1be97b6b0fe59e69db061c0f0c72dd5c5d7a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19065,
+   "sha256": "747777149068fa82ebf985bcbefd1f9363dec8305fe3680a0222ac3becfbb27a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 3130,
+   "sha256": "7c0b6d5b82485bbe359d1e2f889139dd718445d70417e13495c5ae64f38ed028"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300455.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300455.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300455.jpg"
+ },
+ "sha1_origem": "bd49dbc00ba30b7eeaa94a0863d16eb5bcc65667",
+ "bytes_origem": 3130,
+ "capturado_em": "2026-11-08T04:46:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Alegria_RS.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "bd49dbc00ba30b7eeaa94a0863d16eb5bcc65667"
+ }
+}

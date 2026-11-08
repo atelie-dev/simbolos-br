@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3302205",
+ "uf": "RJ",
+ "municipio": "Itaperuna",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Brasao-itaperuna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6c12a0d8e5dbd99de31f74fe3bbeba5e8ef2f2a8cfc08fff617cbaa015112ef9",
+ "rendicoes": {
+  "png": {
+   "bytes": 162875,
+   "sha256": "1904de5db31c731de3b1ddb69a18245d4fb5ab4ec9dc49417ac1ba506ddbe19a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49703,
+   "sha256": "96e29a3d230c1e652994a5217a68157f9c335f1d1c4a311d3e19fb04e62d7947",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302205.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3302205.jpg",
+  "bytes": 487542,
+  "sha256": "6c12a0d8e5dbd99de31f74fe3bbeba5e8ef2f2a8cfc08fff617cbaa015112ef9"
+ },
+ "sha1_origem": "00ce97791baa2c3abc303529275b09d0dd970b88",
+ "bytes_origem": 487542,
+ "capturado_em": "2026-11-08T06:21:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-itaperuna.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "00ce97791baa2c3abc303529275b09d0dd970b88"
+ }
+}

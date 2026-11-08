@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3145356",
+ "uf": "MG",
+ "municipio": "Novo Oriente de Minas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bandeira_de_Novo_Oriente_de_Minas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Novo Oriente de Minas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ed6568105340bb1ac4f81bb4ec26cf944b1e20998e4e25b4339c219472cb182b",
+ "rendicoes": {
+  "png": {
+   "bytes": 94518,
+   "sha256": "51f37dca3c2c44d93969ae344643f96c4a5cafd50ea76588510daec6b1b11e00",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24368,
+   "sha256": "8de5e1b34489482c61f24072e92261446772123fc19948089d9f05db09a13829",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145356.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145356.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145356.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3145356.jpg",
+  "bytes": 33752,
+  "sha256": "ed6568105340bb1ac4f81bb4ec26cf944b1e20998e4e25b4339c219472cb182b"
+ },
+ "sha1_origem": "63492cd8112e36404a3f2e652d25b7cfe1492f5f",
+ "bytes_origem": 33752,
+ "capturado_em": "2026-11-08T06:12:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Novo_Oriente_de_Minas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "63492cd8112e36404a3f2e652d25b7cfe1492f5f"
+ }
+}

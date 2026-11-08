@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3540804",
+ "uf": "SP",
+ "municipio": "Potirendaba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Potirendaba.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2a628a49207097824d7132b7c2d84e4cc65bb51ba0d66b0dc3fc87d2951e3625",
+ "rendicoes": {
+  "png": {
+   "bytes": 402439,
+   "sha256": "c1e448333cc0c78a49b21d2a0847bce0ce42bba60da90fc8e12794d6d236ce48",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 69081,
+   "sha256": "0fc9f8eb7c845ce6f116f7e16ffacbee236369382fc4e66e475e2763e306c4ae",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540804.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3540804.png",
+  "bytes": 400506,
+  "sha256": "2a628a49207097824d7132b7c2d84e4cc65bb51ba0d66b0dc3fc87d2951e3625"
+ },
+ "sha1_origem": "9b680ea62621e15796b8d860cc516a511225a614",
+ "bytes_origem": 400506,
+ "capturado_em": "2026-11-08T06:35:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Potirendaba.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "9b680ea62621e15796b8d860cc516a511225a614"
+ }
+}

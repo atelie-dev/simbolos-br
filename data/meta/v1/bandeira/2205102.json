@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2205102",
+ "uf": "PI",
+ "municipio": "Itaueira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bandeira_Itaueira_PI.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Itaueira",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c20e1b4d31a692ed92515485367742fd5d2a036553b6fac8807d44d77d18e711",
+ "rendicoes": {
+  "png": {
+   "bytes": 10613,
+   "sha256": "6abd12484c2162f929a8fb09dac8a85e153378b810dbbac2673bb6bb67315bf6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11375,
+   "sha256": "e5fb079a871dae9fe157a1bb80dd7303197e1ba955712b0b16556af9ccb2521f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2205102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2205102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2205102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2205102.png",
+  "bytes": 17270,
+  "sha256": "c20e1b4d31a692ed92515485367742fd5d2a036553b6fac8807d44d77d18e711"
+ },
+ "sha1_origem": "3a79a97278b4f9c8912fdc188f754d1eed704a4e",
+ "bytes_origem": 17270,
+ "capturado_em": "2026-11-08T05:30:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itaueira_PI.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "3a79a97278b4f9c8912fdc188f754d1eed704a4e"
+ }
+}

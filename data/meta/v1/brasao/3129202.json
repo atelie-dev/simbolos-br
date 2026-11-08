@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3129202",
+ "uf": "MG",
+ "municipio": "Heliodora",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Heliodoramgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Heliodora",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "36a41afebd781e5c3aeaaae2a421e7e96bc474473641546a67f4d7f7e9e15b41",
+ "rendicoes": {
+  "png": {
+   "bytes": 81248,
+   "sha256": "8f8198a7ae6ac367cd826f298da77fe0f90cd242e08d2377d12412c8b566ef07",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14934,
+   "sha256": "f082ae87925d8f946b59ea773d21f1055995eeb31f61b7d42a1b59b424d05a25",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3129202.jpg",
+  "bytes": 8590,
+  "sha256": "36a41afebd781e5c3aeaaae2a421e7e96bc474473641546a67f4d7f7e9e15b41"
+ },
+ "sha1_origem": "38463a99f2c3fced7f9e421876f3bf3c0355c199",
+ "bytes_origem": 8590,
+ "capturado_em": "2026-11-08T06:08:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Heliodoramgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "38463a99f2c3fced7f9e421876f3bf3c0355c199"
+ }
+}

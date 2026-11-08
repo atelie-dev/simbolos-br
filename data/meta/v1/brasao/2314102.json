@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2314102",
+ "uf": "CE",
+ "municipio": "Viçosa do Ceará",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Brasao_vicosa_do_ceara_-_CE.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Fabiobarros",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d98bd5224469632c7548f7b3d23bb37100c9521eb7a9a19bd5c0d1686b7814e0",
+ "rendicoes": {
+  "png": {
+   "bytes": 166380,
+   "sha256": "b650f0fd7d589e181fce1d1abd904f4b2039fcc359358570591b8241f7ce3385",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32936,
+   "sha256": "d6a9be61c5b231e273f2296232f95aa454c3bda9679310f520a1c4e0d50d033b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2314102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2314102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2314102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2314102.jpg",
+  "bytes": 31964,
+  "sha256": "d98bd5224469632c7548f7b3d23bb37100c9521eb7a9a19bd5c0d1686b7814e0"
+ },
+ "sha1_origem": "39cc1568b0442cee17c2a0cecf610e38301aa80b",
+ "bytes_origem": 31964,
+ "capturado_em": "2026-11-08T05:35:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_vicosa_do_ceara_-_CE.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "39cc1568b0442cee17c2a0cecf610e38301aa80b"
+ }
+}

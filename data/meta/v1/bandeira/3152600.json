@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3152600",
+ "uf": "MG",
+ "municipio": "Pouso Alto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bandeira_de_Pouso_Alto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Thiagon2018",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "31a90292a4414908f5d8c6093daba538d63808294307f504d528b47d6c8cdbe1",
+ "rendicoes": {
+  "png": {
+   "bytes": 99360,
+   "sha256": "6b60dd9d43b06dccfcc178bfb7016c9335521e50111610f60a3c2ca6fbcce68a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26213,
+   "sha256": "ec222f0b85a13227fcce46b65c318be0c9fe739dda4909c41efc37f2621eb5af",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3152600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3152600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3152600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3152600.jpg",
+  "bytes": 51345,
+  "sha256": "31a90292a4414908f5d8c6093daba538d63808294307f504d528b47d6c8cdbe1"
+ },
+ "sha1_origem": "c2373d774ace6a4a31a1997065c24055b3a5bc1d",
+ "bytes_origem": 51345,
+ "capturado_em": "2026-11-08T06:13:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pouso_Alto.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "c2373d774ace6a4a31a1997065c24055b3a5bc1d"
+ }
+}

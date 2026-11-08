@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2514008",
+ "uf": "PB",
+ "municipio": "São João do Cariri",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bandeira_sao_joao_do_cariri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de São João do Cariri",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1e10bab69ca1c123c159a0d0defb8f02e14e565417e01424d108c17e99b1ec66",
+ "rendicoes": {
+  "png": {
+   "bytes": 4740,
+   "sha256": "e937d8c9c4e32760d6d4421385c7042011633da60c1b6b0a22899bf7bf43e848",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 3923,
+   "sha256": "6e4da1a16d3f6603b78828a244a7216cdaefef4a2c182df3155d9ef00a7c190d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2514008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2514008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2514008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2514008.jpg",
+  "bytes": 17220,
+  "sha256": "1e10bab69ca1c123c159a0d0defb8f02e14e565417e01424d108c17e99b1ec66"
+ },
+ "sha1_origem": "69317acef37be98c20ceffe9c369f3ac00e66e41",
+ "bytes_origem": 17220,
+ "capturado_em": "2026-11-08T05:43:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_sao_joao_do_cariri.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "69317acef37be98c20ceffe9c369f3ac00e66e41"
+ }
+}

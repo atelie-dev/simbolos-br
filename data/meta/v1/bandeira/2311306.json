@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2311306",
+ "uf": "CE",
+ "municipio": "Quixadá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bandeira_quixada_ce.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9b08b33d6bc612f80cea019b6384e6306a886f3cb08e4d0d12ac2bcf5a4f71b7",
+ "rendicoes": {
+  "png": {
+   "bytes": 25095,
+   "sha256": "deed8932f9255a56070a5aad0c9cfb6ffa4d603fcaf253fe5059817cd4f5cf9e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13093,
+   "sha256": "9cc10262f5e6adef90b9a707b7c4930c5cdfe30b7467c53d6e4f51b636ad9299",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2311306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2311306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2311306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2311306.png",
+  "bytes": 73847,
+  "sha256": "9b08b33d6bc612f80cea019b6384e6306a886f3cb08e4d0d12ac2bcf5a4f71b7"
+ },
+ "sha1_origem": "587e5c963ffbaeb68af73ace1c768e4df24c33f9",
+ "bytes_origem": 73847,
+ "capturado_em": "2026-11-08T05:34:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_quixada_ce.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "587e5c963ffbaeb68af73ace1c768e4df24c33f9"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3529906",
+ "uf": "SP",
+ "municipio": "Miracatu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bandeira_Miracatu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de MIracatu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d678c96c3cbf3f4521bfed7edfccf5fa5e5f1ebf885d976ce7c025f49ce9600b",
+ "rendicoes": {
+  "png": {
+   "bytes": 11142,
+   "sha256": "68f3eb045ae3195f3252c879e79e4cf7e5be038797d7119b1ea5de12d0936d53",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5363,
+   "sha256": "a7521054afc3ded28b6a6858b66a525a5974e656885ff1ff782f15c54ff02bf6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529906.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529906.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529906.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3529906.jpg",
+  "bytes": 24297,
+  "sha256": "d678c96c3cbf3f4521bfed7edfccf5fa5e5f1ebf885d976ce7c025f49ce9600b"
+ },
+ "sha1_origem": "048f83d9491990363e1615f99338ce37d8d65388",
+ "bytes_origem": 24297,
+ "capturado_em": "2026-11-08T06:31:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Miracatu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "048f83d9491990363e1615f99338ce37d8d65388"
+ }
+}

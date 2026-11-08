@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4101101",
+ "uf": "PR",
+ "municipio": "Andirá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bandeira_de_Andir%C3%A1_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3b6ba152527598d4c36beba85f5298b32a374771eefc6eab780639fad55514e9",
+ "rendicoes": {
+  "png": {
+   "bytes": 71426,
+   "sha256": "b19d5c24853cd5f16663fad131b79f5bb93b32286b9f1f357374a7446ac79e90",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30318,
+   "sha256": "5cbc0b255349b12b45b50c19abb9d85b564a71ac11ed1dd533bd08b3a0278acd",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 471300,
+   "sha256": "3b6ba152527598d4c36beba85f5298b32a374771eefc6eab780639fad55514e9"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101101.jpg"
+ },
+ "sha1_origem": "3c23b6d96e390e6ce4aee0bfe351978c99c8dee1",
+ "bytes_origem": 471300,
+ "capturado_em": "2026-11-08T04:20:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Andirá_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "3c23b6d96e390e6ce4aee0bfe351978c99c8dee1"
+ }
+}

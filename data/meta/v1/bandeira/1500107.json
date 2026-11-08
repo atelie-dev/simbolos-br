@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1500107",
+ "uf": "PA",
+ "municipio": "Abaetetuba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bandeira_Abaetetuba.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Abaetetuba.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7f83afa05bb5eaa339166b4ffbf9eb72cde3bc26bea2245c2ed899fb818cce00",
+ "rendicoes": {
+  "png": {
+   "bytes": 9598,
+   "sha256": "17642a2c2dfe66123ff3bcd6a2d6e007ba75de901e6b6ee8ced39477a9715764",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4916,
+   "sha256": "9d0bf4800568e32c7e5441583b6bd6f85f1b5f613ad5620ba452479318ae8333",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1500107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1500107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1500107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1500107.png",
+  "bytes": 3651,
+  "sha256": "7f83afa05bb5eaa339166b4ffbf9eb72cde3bc26bea2245c2ed899fb818cce00"
+ },
+ "sha1_origem": "a628a9856de786c03f98e34929075b9e02fb6eb0",
+ "bytes_origem": 3651,
+ "capturado_em": "2026-11-08T05:23:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Abaetetuba.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "a628a9856de786c03f98e34929075b9e02fb6eb0"
+ }
+}

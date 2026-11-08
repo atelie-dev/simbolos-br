@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3169208",
+ "uf": "MG",
+ "municipio": "Tombos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bandeira_de_tombos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ahcor",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3d6c4c450fa3420ca9fab5d9fc92fa17bb4299ea6b9a663c67166187b11ec6ef",
+ "rendicoes": {
+  "png": {
+   "bytes": 56901,
+   "sha256": "31c2a07a5151d9d8507d2ae8aecb068681708b2b05cbac56e8663850953bf608",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21127,
+   "sha256": "7d105cffb4b612a4aaed85efaccb3d98746c5b363213fae160b8dac4e1153481",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3169208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3169208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3169208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3169208.jpg",
+  "bytes": 31347,
+  "sha256": "3d6c4c450fa3420ca9fab5d9fc92fa17bb4299ea6b9a663c67166187b11ec6ef"
+ },
+ "sha1_origem": "86ad6563a2d62b222a3bdd7ae039c8a27ff62c38",
+ "bytes_origem": 31347,
+ "capturado_em": "2026-11-08T06:17:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_tombos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "86ad6563a2d62b222a3bdd7ae039c8a27ff62c38"
+ }
+}

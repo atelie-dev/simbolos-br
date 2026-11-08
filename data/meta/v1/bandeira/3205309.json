@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3205309",
+ "uf": "ES",
+ "municipio": "Vitória",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bandeira_de_Vit%C3%B3ria.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ViniciusBR11, Prefeitura de Vitória",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "4e4c118c53657b6bbe1475fee7628f62fc6fb30415a43935fba8736ad93d5cfe",
+ "rendicoes": {
+  "png": {
+   "bytes": 41268,
+   "sha256": "c4ce147f98d0aea4e98d5518135ebc20ffac6cadc451eb1c353b5c0cd4540c50",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12728,
+   "sha256": "eb47333bf3b74f365329636a38b2ab1c0fef6c873fd9385b95ceb6ae9bc995cf",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 37791,
+   "sha256": "4e4c118c53657b6bbe1475fee7628f62fc6fb30415a43935fba8736ad93d5cfe"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3205309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3205309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3205309.jpg"
+ },
+ "sha1_origem": "89f92fea19eed97908b4e103d1b965222e2d775a",
+ "bytes_origem": 37791,
+ "capturado_em": "2026-11-08T03:53:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Vitória.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "89f92fea19eed97908b4e103d1b965222e2d775a"
+ }
+}

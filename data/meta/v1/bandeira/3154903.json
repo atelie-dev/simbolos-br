@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3154903",
+ "uf": "MG",
+ "municipio": "Rio Casca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandeira_de_Rio_Casca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Michel Carelli",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c4e6f4009fd982914cde2645434a24a52d54b4d89c241c2b2350d7f446cf094c",
+ "rendicoes": {
+  "png": {
+   "bytes": 11463,
+   "sha256": "830a966aae45030618e39f17e08b0128c5a0d74f9b93cefe0b08144ec3ecbbc8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10441,
+   "sha256": "ebc7ef50d5c11e044b84614ceee3c43783bff84f6dda11c5c467d4996cf5713a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3154903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3154903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3154903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3154903.jpg",
+  "bytes": 14672,
+  "sha256": "c4e6f4009fd982914cde2645434a24a52d54b4d89c241c2b2350d7f446cf094c"
+ },
+ "sha1_origem": "02681eb9eb3cc788ecb8301a7666025411bce2df",
+ "bytes_origem": 14672,
+ "capturado_em": "2026-11-08T06:14:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Rio_Casca.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "02681eb9eb3cc788ecb8301a7666025411bce2df"
+ }
+}

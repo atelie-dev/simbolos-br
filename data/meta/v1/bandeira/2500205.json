@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2500205",
+ "uf": "PB",
+ "municipio": "Aguiar",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandeira_Aguiar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Aguiar",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3a5101dd630e3ea673bccb9d6faa8d4d7c166e9ea2f5f21491b95aae4357beab",
+ "rendicoes": {
+  "png": {
+   "bytes": 62306,
+   "sha256": "b53ca21849204dc379389bd627063484fc3b089ca3bd1c5bc2d54b0c98afe945",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16243,
+   "sha256": "4f577186d04da2f5cbfda60f1a11f9fea35a0c940ee96f6032845d9955cd3d99",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500205.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2500205.jpg",
+  "bytes": 48524,
+  "sha256": "3a5101dd630e3ea673bccb9d6faa8d4d7c166e9ea2f5f21491b95aae4357beab"
+ },
+ "sha1_origem": "abc4342686aa5700cfa9f48bea73a2647eeddd80",
+ "bytes_origem": 48524,
+ "capturado_em": "2026-11-08T05:39:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Aguiar.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "abc4342686aa5700cfa9f48bea73a2647eeddd80"
+ }
+}

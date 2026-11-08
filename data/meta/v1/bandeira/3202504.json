@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3202504",
+ "uf": "ES",
+ "municipio": "Ibiraçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bandeira_de_Ibira%C3%A7u.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "José Guilherme Pagiola",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "767fa996792d83486985ac26b2f6668649123d59e9d4a7c1badf8f9e0de96997",
+ "rendicoes": {
+  "png": {
+   "bytes": 14230,
+   "sha256": "c53cf526a429c547cb89df2eee03f9ad78a5a63e09e5a1dded0cb24372effead",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11633,
+   "sha256": "e70c05074fd23268cf86d58a83aec0527eb8f40711899040c472246b039adb1a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 15207,
+   "sha256": "767fa996792d83486985ac26b2f6668649123d59e9d4a7c1badf8f9e0de96997"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202504.jpg"
+ },
+ "sha1_origem": "b8bf381470d3171b61e6ca7e6ca06155ed9e7b53",
+ "bytes_origem": 15207,
+ "capturado_em": "2026-11-08T03:51:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ibiraçu.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "b8bf381470d3171b61e6ca7e6ca06155ed9e7b53"
+ }
+}

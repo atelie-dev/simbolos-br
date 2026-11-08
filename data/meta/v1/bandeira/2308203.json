@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2308203",
+ "uf": "CE",
+ "municipio": "Meruoca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bandeira_Municipal_de_Meruoca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Mr.Alc",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c3b8ddc28066c52d5890c3b5301c0727017b1aae634d6a479076af0213f93682",
+ "rendicoes": {
+  "png": {
+   "bytes": 65699,
+   "sha256": "5cdaad96d8684d2093a61609f089725859919acb3538efa944bb2d5651f07f35",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23967,
+   "sha256": "be44babc612947d53dca24e50a3dd396cdc18613cac785738e6db139cf86e851",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2308203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2308203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2308203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2308203.jpg",
+  "bytes": 131543,
+  "sha256": "c3b8ddc28066c52d5890c3b5301c0727017b1aae634d6a479076af0213f93682"
+ },
+ "sha1_origem": "e2a73b265cfea565958f631f4d6314fc49a57971",
+ "bytes_origem": 131543,
+ "capturado_em": "2026-11-08T05:34:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Municipal_de_Meruoca.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "e2a73b265cfea565958f631f4d6314fc49a57971"
+ }
+}

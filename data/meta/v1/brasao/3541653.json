@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3541653",
+ "uf": "SP",
+ "municipio": "Quadra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bras%C3%A3oMunic%C3%ADpiodeQuadra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2bd0c074002c6afb7a50d0034ce7b6e05ad6a173144da236f60bac5cef0aefe4",
+ "rendicoes": {
+  "png": {
+   "bytes": 248363,
+   "sha256": "f66adbd6f598dd56b1b25ee30ddaaf9f62c213b5a91248f1c8ba335225dec8cc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 51155,
+   "sha256": "6aa414910c07b599bfa04d35f456418d7463d91558ac69d6fad23d7b3977c3d8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541653.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541653.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541653.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3541653.jpg",
+  "bytes": 88092,
+  "sha256": "2bd0c074002c6afb7a50d0034ce7b6e05ad6a173144da236f60bac5cef0aefe4"
+ },
+ "sha1_origem": "392b9f3a86fd230df690441c863084b478b07f0b",
+ "bytes_origem": 88092,
+ "capturado_em": "2026-11-08T06:35:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasãoMunicípiodeQuadra.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "392b9f3a86fd230df690441c863084b478b07f0b"
+ }
+}

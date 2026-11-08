@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3534104",
+ "uf": "SP",
+ "municipio": "Oriente",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bras%C3%A3o_Oriente_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ea1e9b816299fd1943008f1eb65fa13ca2cb6842cbe42cd29d24420491a973e6",
+ "rendicoes": {
+  "png": {
+   "bytes": 44118,
+   "sha256": "4432f6f4bbdef7d9264b83da784924bd7f840cc9179d6924a872715a3a045dd6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10244,
+   "sha256": "ba98222d082df058e521c573e3a9c52afcebf2d52817ddc901cf1e36ba7129d0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3534104.jpg",
+  "bytes": 7425,
+  "sha256": "ea1e9b816299fd1943008f1eb65fa13ca2cb6842cbe42cd29d24420491a973e6"
+ },
+ "sha1_origem": "061f8aa338c059187b11591235e3607ab947d9b4",
+ "bytes_origem": 7425,
+ "capturado_em": "2026-11-08T06:33:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Oriente_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "061f8aa338c059187b11591235e3607ab947d9b4"
+ }
+}

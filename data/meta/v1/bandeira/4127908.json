@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4127908",
+ "uf": "PR",
+ "municipio": "Tuneiras do Oeste",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Bandeira_Tuneiras_do_Oeste.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6a373d570494f83a42762db5d3c09f061b12dbfc920f1e4e5cc71b3586f39002",
+ "rendicoes": {
+  "png": {
+   "bytes": 18430,
+   "sha256": "5ad5a97538aebead3dcc572f041f8ceef78a03e431110c041b1834dcd630b839",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7096,
+   "sha256": "1b3a0053ba5b43683436ebede9a739806b5e9dd8927334eba480d684ca56764a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4127908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4127908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4127908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4127908.png",
+  "bytes": 6370,
+  "sha256": "6a373d570494f83a42762db5d3c09f061b12dbfc920f1e4e5cc71b3586f39002"
+ },
+ "sha1_origem": "c894036eeb27754cd33afbdb29ed13890714ee54",
+ "bytes_origem": 6370,
+ "capturado_em": "2026-11-08T06:50:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Tuneiras_do_Oeste.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "c894036eeb27754cd33afbdb29ed13890714ee54"
+ }
+}

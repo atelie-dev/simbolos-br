@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4309258",
+ "uf": "RS",
+ "municipio": "Guabiju",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bandeira_Guabiju.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Guabiju",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f5a9a4e91ceba4b78c8ee840915fa71fc530b4048f0ce0acaeb3d05d7dd5073b",
+ "rendicoes": {
+  "png": {
+   "bytes": 95396,
+   "sha256": "a9e77644ddc4c40faa736c3bde62fd2936ba0d080f29043174cb22976e713634",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16200,
+   "sha256": "40c136b48dfadfd4e157887351d9645893c0cd913405d73ccb608b045784e161",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4309258.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4309258.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4309258.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4309258.jpg",
+  "bytes": 11311,
+  "sha256": "f5a9a4e91ceba4b78c8ee840915fa71fc530b4048f0ce0acaeb3d05d7dd5073b"
+ },
+ "sha1_origem": "76f20de164b45d86ff4407eb985f2eba36e9ed81",
+ "bytes_origem": 11311,
+ "capturado_em": "2026-11-08T07:03:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Guabiju.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "76f20de164b45d86ff4407eb985f2eba36e9ed81"
+ }
+}

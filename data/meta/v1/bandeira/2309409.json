@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2309409",
+ "uf": "CE",
+ "municipio": "Novo Oriente",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Bandeira_de_Novo_Oriente-CE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Novo Oriente - CE",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0bc091e9a56489a35f603edd1af027b105b4125fdf8bb006f9a9ddaadd312bf2",
+ "rendicoes": {
+  "png": {
+   "bytes": 67480,
+   "sha256": "973811167cb71abaca6147632205a405ba62b9aa590791762ae096567a672677",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23263,
+   "sha256": "6eb2f5999e2d3ac3200c5602376b41458ec8da139e8353d1a0f7af34ddbafd14",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2309409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2309409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2309409.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2309409.jpg",
+  "bytes": 189860,
+  "sha256": "0bc091e9a56489a35f603edd1af027b105b4125fdf8bb006f9a9ddaadd312bf2"
+ },
+ "sha1_origem": "38577c72f15016568206e9d00b22ae5b884e0f83",
+ "bytes_origem": 189860,
+ "capturado_em": "2026-11-08T05:34:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Novo_Oriente-CE.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "38577c72f15016568206e9d00b22ae5b884e0f83"
+ }
+}

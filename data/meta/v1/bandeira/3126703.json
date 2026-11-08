@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3126703",
+ "uf": "MG",
+ "municipio": "Francisco Sá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Francisco_S%C3%A1mgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Francisco Sá",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3dc8868c88f6235accfe52d7add0e289368937448b72cfa499e92ac98f9f693d",
+ "rendicoes": {
+  "png": {
+   "bytes": 32306,
+   "sha256": "e81a76cd32463c6c9368a6ad56af390a5acd19f17c09b8174938e91eabef9130",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6245,
+   "sha256": "dd13815b7ebaafeba6f1e9549fd91eeac34883471310da4959ed4a674c6d31cf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3126703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3126703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3126703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3126703.png",
+  "bytes": 26310,
+  "sha256": "3dc8868c88f6235accfe52d7add0e289368937448b72cfa499e92ac98f9f693d"
+ },
+ "sha1_origem": "78918a4bc217a0eafbcea722867291763419360b",
+ "bytes_origem": 26310,
+ "capturado_em": "2026-11-08T06:07:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Francisco_Sámgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:30Z",
+  "estado": "igual",
+  "sha1_commons": "78918a4bc217a0eafbcea722867291763419360b"
+ }
+}

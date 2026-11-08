@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4313102",
+ "uf": "RS",
+ "municipio": "Nova Palma",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bras%C3%A3o_Nova_Palma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nova Palma",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "69661d9993f14cf5b66aa60e2bf6452a62dde7acea043d53b51ce447b893aac1",
+ "rendicoes": {
+  "png": {
+   "bytes": 401920,
+   "sha256": "1c67358afb2a4e8532202d3a15814a7904ff2b11f409e5a65b73e946a895490c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 68488,
+   "sha256": "15065e4c2bcd4f7e3496286ec9e5cb7cfa79b3bbf95533a36e788d949c180a2c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4313102.jpg",
+  "bytes": 120566,
+  "sha256": "69661d9993f14cf5b66aa60e2bf6452a62dde7acea043d53b51ce447b893aac1"
+ },
+ "sha1_origem": "31ef2afd2b5e284a0fdf7ef6256e3d1eba36655d",
+ "bytes_origem": 120566,
+ "capturado_em": "2026-11-08T07:06:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Nova_Palma.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "31ef2afd2b5e284a0fdf7ef6256e3d1eba36655d"
+ }
+}

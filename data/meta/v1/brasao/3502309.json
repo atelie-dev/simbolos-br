@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3502309",
+ "uf": "SP",
+ "municipio": "Anhembi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Brasao_anhembi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Anhembi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ee6b7794dacf553552b1e53725f84a75c361967ef1821a3dd7384f8c1c9f9b8b",
+ "rendicoes": {
+  "png": {
+   "bytes": 309157,
+   "sha256": "47e9e34027f1eabb75943bad54609b7ff8104e29520b5e20f434a21b1f78dcbc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54386,
+   "sha256": "de4d1821e88e4dfee141a082ad419b71b321ed5ff1d8c44064f5f2146654a4f0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3502309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3502309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3502309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3502309.jpg",
+  "bytes": 45320,
+  "sha256": "ee6b7794dacf553552b1e53725f84a75c361967ef1821a3dd7384f8c1c9f9b8b"
+ },
+ "sha1_origem": "57efe0847e93af505d289076b6ea106c4ceb816c",
+ "bytes_origem": 45320,
+ "capturado_em": "2026-11-08T06:23:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_anhembi.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "57efe0847e93af505d289076b6ea106c4ceb816c"
+ }
+}

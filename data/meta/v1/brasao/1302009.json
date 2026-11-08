@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1302009",
+ "uf": "AM",
+ "municipio": "Itapiranga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bras%C3%A3o_de_Itapiranga-AM_jpeg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "No machine-readable author provided. Arthurborgesitap assumed (based on copyright claims).",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6fbd1b222ae39c6713c5df7d06f3aa788595bd181a39253ed900031638facd7d",
+ "rendicoes": {
+  "png": {
+   "bytes": 192969,
+   "sha256": "1d4603487bf00cd01fdc220604f377f8b4f5ed81710143ffc841e3718ca700a5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38591,
+   "sha256": "6f4e456d1fcb0d465004897cafe548c9ae020a616583aec7cd394b99414671fa",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1302009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1302009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1302009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1302009.jpg",
+  "bytes": 27636,
+  "sha256": "6fbd1b222ae39c6713c5df7d06f3aa788595bd181a39253ed900031638facd7d"
+ },
+ "sha1_origem": "0a62f7fad64a07ed6944c63e2253b68167d97f62",
+ "bytes_origem": 27636,
+ "capturado_em": "2026-11-08T05:22:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Itapiranga-AM_jpeg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "0a62f7fad64a07ed6944c63e2253b68167d97f62"
+ }
+}

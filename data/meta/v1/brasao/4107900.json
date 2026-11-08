@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4107900",
+ "uf": "PR",
+ "municipio": "Floresta",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Coat_of_arms_of_Floresta_PR.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1206271eab4f17cda133a40ce590bbb24222671bfe5e9e4f355c54d811cc2cbf",
+ "rendicoes": {
+  "png": {
+   "bytes": 415739,
+   "sha256": "affd0dfc27b39a9029f2fd960faa99a157fdaa4c6efadff91b70a28f2fe46a88",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54825,
+   "sha256": "2f731bfb1c5b606667c979753b1be871aff3a59e26bf6c94fc01f87b47cedfe1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4107900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4107900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4107900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4107900.png",
+  "bytes": 1574609,
+  "sha256": "1206271eab4f17cda133a40ce590bbb24222671bfe5e9e4f355c54d811cc2cbf"
+ },
+ "sha1_origem": "4288906d467078c897d01762afb40e568d177deb",
+ "bytes_origem": 1574609,
+ "capturado_em": "2026-11-08T06:43:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Coat_of_arms_of_Floresta_PR.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:23Z",
+  "estado": "igual",
+  "sha1_commons": "4288906d467078c897d01762afb40e568d177deb"
+ }
+}

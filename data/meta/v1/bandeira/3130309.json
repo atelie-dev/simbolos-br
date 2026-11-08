@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3130309",
+ "uf": "MG",
+ "municipio": "Iguatama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Iguatamamgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Iguatama",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c5d5c06d9815eafa9db59965dea9f484badd0815a423f0875b7a05b1fc6cd9c5",
+ "rendicoes": {
+  "png": {
+   "bytes": 31772,
+   "sha256": "3333fbcfe1889e71a401a22642fd48ac64609519d03815b351ec7337d6a6a48e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11531,
+   "sha256": "b0bfe91196b1935c29b867039586e44822ce6962a7e187c31c93d6080be3f627",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3130309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3130309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3130309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3130309.jpg",
+  "bytes": 13126,
+  "sha256": "c5d5c06d9815eafa9db59965dea9f484badd0815a423f0875b7a05b1fc6cd9c5"
+ },
+ "sha1_origem": "90d87f1259acddd52d7104647b9ef59ef7abb6eb",
+ "bytes_origem": 13126,
+ "capturado_em": "2026-11-08T06:08:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Iguatamamgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "90d87f1259acddd52d7104647b9ef59ef7abb6eb"
+ }
+}

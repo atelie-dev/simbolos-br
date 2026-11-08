@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3534708",
+ "uf": "SP",
+ "municipio": "Ourinhos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bras%C3%A3o_de_Ourinhos_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "e86bcb722ea079021f0b91c6264ceea20ae68ca1a2980d73150c09c0993f3155",
+ "rendicoes": {
+  "png": {
+   "bytes": 187898,
+   "sha256": "583cdf0974febc1f51df8b5c9be2cecb07fa5baa8abaed88f5c2985ef885f2a4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62565,
+   "sha256": "46b25594f3be243d8e320f4353cefe1426db14cad377fe6cb3c1707494837368",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 440179,
+   "sha256": "e86bcb722ea079021f0b91c6264ceea20ae68ca1a2980d73150c09c0993f3155"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534708.jpg"
+ },
+ "sha1_origem": "ab908bd8f0dc8f39fc6eb3bd1e9362d08db5c52b",
+ "bytes_origem": 440179,
+ "capturado_em": "2026-11-08T04:10:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Ourinhos_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "ab908bd8f0dc8f39fc6eb3bd1e9362d08db5c52b"
+ }
+}

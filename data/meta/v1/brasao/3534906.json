@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3534906",
+ "uf": "SP",
+ "municipio": "Pacaembu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bras%C3%A3o_Pacaembu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8b143f3339e7329596a11c64acc847946760e53d93c5646bebf3aae3702b24b3",
+ "rendicoes": {
+  "png": {
+   "bytes": 28021,
+   "sha256": "8f33d096e113455f24e722e66d8626360fbb6f042d34790d92558059013bba76",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7218,
+   "sha256": "50c8e0013fb15e77f3973d3e8a4fd08dfc32a0f94dd19545cb46006730d8e9b5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534906.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534906.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534906.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3534906.jpg",
+  "bytes": 6993,
+  "sha256": "8b143f3339e7329596a11c64acc847946760e53d93c5646bebf3aae3702b24b3"
+ },
+ "sha1_origem": "96fae93ee6463f3a0a372a2a76235cb6aeabd748",
+ "bytes_origem": 6993,
+ "capturado_em": "2026-11-08T06:33:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Pacaembu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "96fae93ee6463f3a0a372a2a76235cb6aeabd748"
+ }
+}

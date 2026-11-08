@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1101500",
+ "uf": "RO",
+ "municipio": "Seringueiras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Brasao-seringueiras_sm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Seringueiras",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a3ae1433f5904fc3e22e645017c8d90e3283aee313c1f146676e80317da82cc4",
+ "rendicoes": {
+  "png": {
+   "bytes": 41307,
+   "sha256": "992e9176b78740ce6cb3d36aac6ab2e9b73f0556ff994d395019c71d6ce51fc4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9730,
+   "sha256": "b2145b164a91874340539b3f1b7f9662599e9b1a37a95adf55ff37b59e8e88cf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1101500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1101500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1101500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1101500.jpg",
+  "bytes": 7875,
+  "sha256": "a3ae1433f5904fc3e22e645017c8d90e3283aee313c1f146676e80317da82cc4"
+ },
+ "sha1_origem": "e7e3d90f9f4737da06beb5c74251662bc20540da",
+ "bytes_origem": 7875,
+ "capturado_em": "2026-11-08T05:21:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-seringueiras_sm.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "e7e3d90f9f4737da06beb5c74251662bc20540da"
+ }
+}

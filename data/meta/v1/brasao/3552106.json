@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3552106",
+ "uf": "SP",
+ "municipio": "Socorro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Brasao_socorro_sp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e97c2b39ccb1ba0c20ff9a9066d3ad181d7071cb9283113ccba6ea11047ac769",
+ "rendicoes": {
+  "png": {
+   "bytes": 66027,
+   "sha256": "8982a1c75a535872adc8a0876a2bff7b27c361e09ed9dbb6693555d81e46cc91",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14011,
+   "sha256": "4c476d7cb0365e521e3cab7c74af741a90b41ee25f33d3b8cbc7eb81b5d29394",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3552106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3552106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3552106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3552106.jpg",
+  "bytes": 22472,
+  "sha256": "e97c2b39ccb1ba0c20ff9a9066d3ad181d7071cb9283113ccba6ea11047ac769"
+ },
+ "sha1_origem": "646cb6ba23419fafd9a51781c09137d006ae61f0",
+ "bytes_origem": 22472,
+ "capturado_em": "2026-11-08T06:38:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_socorro_sp.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "646cb6ba23419fafd9a51781c09137d006ae61f0"
+ }
+}

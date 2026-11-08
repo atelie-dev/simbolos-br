@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4111209",
+ "uf": "PR",
+ "municipio": "Itapejara d'Oeste",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Bandeira_de_Itapejara_d%27Oeste.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7ea3ff9034e78787334859efc7aa5788bf6da0eb429657fd57e9b8c2a37159ee",
+ "rendicoes": {
+  "png": {
+   "bytes": 7963,
+   "sha256": "74491fa7f22f1e72675bebfb6f3f3bbd5d7f23ea43b463328efcc138cbeb4fc3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4554,
+   "sha256": "5aa78060bbb021106ecbbd3240770b25038ee4e765863651cb529745f73e2e8c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4111209.png",
+  "bytes": 6063,
+  "sha256": "7ea3ff9034e78787334859efc7aa5788bf6da0eb429657fd57e9b8c2a37159ee"
+ },
+ "sha1_origem": "9ebfbd062b0930773cfdb3138dd50e9ba2574b3e",
+ "bytes_origem": 6063,
+ "capturado_em": "2026-11-08T06:44:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itapejara_d'Oeste.png",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "9ebfbd062b0930773cfdb3138dd50e9ba2574b3e"
+ }
+}

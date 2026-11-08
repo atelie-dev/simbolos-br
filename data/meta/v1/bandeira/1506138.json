@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1506138",
+ "uf": "PA",
+ "municipio": "Redenção",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/BandeiraReden%C3%A7%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Hallel",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dc148ea2a49a2f3f671ced5586f2d6f89a9f908213528559a4a93cfdb465bb5f",
+ "rendicoes": {
+  "png": {
+   "bytes": 20218,
+   "sha256": "8959a1c658976ca3d2b320c899b50367923e82caa2fee0fe24dfdc283e244c0a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5522,
+   "sha256": "1cb698d5c0d7cb0a690238add4bff4fdd7ab485b1d7876aecf8a4f4f8323132f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1506138.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1506138.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1506138.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1506138.jpg",
+  "bytes": 2395,
+  "sha256": "dc148ea2a49a2f3f671ced5586f2d6f89a9f908213528559a4a93cfdb465bb5f"
+ },
+ "sha1_origem": "3cf7175812961f686fb3407161e591e3b5add76e",
+ "bytes_origem": 2395,
+ "capturado_em": "2026-11-08T05:25:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraRedenção.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "3cf7175812961f686fb3407161e591e3b5add76e"
+ }
+}

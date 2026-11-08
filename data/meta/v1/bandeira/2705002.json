@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2705002",
+ "uf": "AL",
+ "municipio": "Mata Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bandeira_Mata_Grande.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Mata Grande.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "997da0d9a9b9e4d2b242a8db87c2e75dbdcabb865b87ffbe078ddbd7bad34246",
+ "rendicoes": {
+  "png": {
+   "bytes": 61984,
+   "sha256": "3010fae10dec7c1ad9bcf95b04275f3c2df7ff0be7e424b3582c6170b82130f4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16748,
+   "sha256": "446f5e6125dd91d47bff48ec6868c537bc21f42ac7fb1da24b5f512759e65545",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2705002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2705002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2705002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2705002.jpg",
+  "bytes": 17185,
+  "sha256": "997da0d9a9b9e4d2b242a8db87c2e75dbdcabb865b87ffbe078ddbd7bad34246"
+ },
+ "sha1_origem": "cc3715a4d475f6c432802e9f83186840b2aae255",
+ "bytes_origem": 17185,
+ "capturado_em": "2026-11-08T05:48:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Mata_Grande.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "cc3715a4d475f6c432802e9f83186840b2aae255"
+ }
+}

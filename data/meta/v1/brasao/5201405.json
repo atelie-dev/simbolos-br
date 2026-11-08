@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5201405",
+ "uf": "GO",
+ "municipio": "Aparecida de Goiânia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bras%C3%A3o_de_Aparecida_de_Goi%C3%A2nia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Junior Villela",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c933b5235fa42d7bc55533dc1052efe7eab49d8590043e73856abf1fbf2e1686",
+ "rendicoes": {
+  "png": {
+   "bytes": 179084,
+   "sha256": "8bbe67c8be7171621660a25044cac57274492682616cc5b85a4da4ad9e4cf3ac",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36545,
+   "sha256": "60f0a7495b62d0b6aee65e6dcf51ac65576f1761344f489a9f96ce3277c652a0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5201405.jpg",
+  "bytes": 37505,
+  "sha256": "c933b5235fa42d7bc55533dc1052efe7eab49d8590043e73856abf1fbf2e1686"
+ },
+ "sha1_origem": "91c99a94aca701dbfd061a575a8553b1e9ce42c1",
+ "bytes_origem": 37505,
+ "capturado_em": "2026-11-08T07:16:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Aparecida_de_Goiânia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "91c99a94aca701dbfd061a575a8553b1e9ce42c1"
+ }
+}

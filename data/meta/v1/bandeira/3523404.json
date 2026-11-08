@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3523404",
+ "uf": "SP",
+ "municipio": "Itatiba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bandeira_do_Munic%C3%ADpio_de_Itatiba-SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Nilson Silva",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9bc5ac760491e7c178ad958676aedd0869f72e813d64711c904628039802b6f3",
+ "rendicoes": {
+  "png": {
+   "bytes": 46531,
+   "sha256": "e9c732ea3f4de86f2a7463bdfbf612bee88b96936fb8b6087fc77dbc68d6dfbe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19585,
+   "sha256": "bec2fc1f1dd4fd830832c2c436ae98e684c6d3120cc219c4d7b8f263ead7cf35",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 4215799,
+   "sha256": "9bc5ac760491e7c178ad958676aedd0869f72e813d64711c904628039802b6f3"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3523404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3523404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3523404.jpg"
+ },
+ "sha1_origem": "9c721feda8f304d6e523c45ce0679c6ad17370b8",
+ "bytes_origem": 4215799,
+ "capturado_em": "2026-11-08T04:06:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_Município_de_Itatiba-SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "9c721feda8f304d6e523c45ce0679c6ad17370b8"
+ }
+}

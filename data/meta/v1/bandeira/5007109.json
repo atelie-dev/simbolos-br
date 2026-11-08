@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5007109",
+ "uf": "MS",
+ "municipio": "Ribas do Rio Pardo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandeira_de_Ribas_do_Rio_Pardo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ribas do Rio Pardo MS",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e8166375ce4c13281ed70aa244980e713c376b9d77e45e44ea06b9e01fd7c9cf",
+ "rendicoes": {
+  "png": {
+   "bytes": 34518,
+   "sha256": "e34885deeb18e595f77dbb489e15795638ff4588b3399353d785c276a154cc64",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11862,
+   "sha256": "d2179c5ee1137009e82c5b70cfb762a657dc6fd2ee37fbb65e9c274d41b81f5c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5007109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5007109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5007109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5007109.jpg",
+  "bytes": 7517,
+  "sha256": "e8166375ce4c13281ed70aa244980e713c376b9d77e45e44ea06b9e01fd7c9cf"
+ },
+ "sha1_origem": "2c2f15f9f5def8deb32fbc03cab8d483fc293043",
+ "bytes_origem": 7517,
+ "capturado_em": "2026-11-08T07:13:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ribas_do_Rio_Pardo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "2c2f15f9f5def8deb32fbc03cab8d483fc293043"
+ }
+}

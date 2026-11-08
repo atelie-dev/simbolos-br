@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3512704",
+ "uf": "SP",
+ "municipio": "Corumbataí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bandeira_Corumbata%C3%AD.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7f95148414ad09da26cc6d58d805bb05ac538f423e814b0bd54aa54e28b23c15",
+ "rendicoes": {
+  "png": {
+   "bytes": 23857,
+   "sha256": "cfb9b86b1043f331788d7b6fa88fe949df9cbcfe006ccbc95e20e23e96d5fc36",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9869,
+   "sha256": "0f51fd3f4e9b23f9d020e9b860d5863fffb7551a52e588fac47b71e1d840caa6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3512704.png",
+  "bytes": 23277,
+  "sha256": "7f95148414ad09da26cc6d58d805bb05ac538f423e814b0bd54aa54e28b23c15"
+ },
+ "sha1_origem": "c075362bd273ac07295164cedd7483547cbd57af",
+ "bytes_origem": 23277,
+ "capturado_em": "2026-11-08T06:26:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Corumbataí.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "c075362bd273ac07295164cedd7483547cbd57af"
+ }
+}

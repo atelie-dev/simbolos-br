@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3104502",
+ "uf": "MG",
+ "municipio": "Arinos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Arinosmgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Arinos",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "109118a9f44dde04e158053a236b7ac0b06e05b6e8901b2cee05659127786e36",
+ "rendicoes": {
+  "png": {
+   "bytes": 18506,
+   "sha256": "3a6f13319602bb7add5497dffb73ecc656e6dcbf2aa23c0ba424eb9afc032b9b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26872,
+   "sha256": "ed6948a7698214cfd2d44e43faf5a974439381b08fe5a7e29652af114be8c9b5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3104502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3104502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3104502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3104502.png",
+  "bytes": 15757,
+  "sha256": "109118a9f44dde04e158053a236b7ac0b06e05b6e8901b2cee05659127786e36"
+ },
+ "sha1_origem": "b80088190134ce2a57936d228f9d057bf40e57ce",
+ "bytes_origem": 15757,
+ "capturado_em": "2026-11-08T05:59:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Arinosmgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "b80088190134ce2a57936d228f9d057bf40e57ce"
+ }
+}

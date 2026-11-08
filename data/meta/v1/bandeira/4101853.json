@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4101853",
+ "uf": "PR",
+ "municipio": "Ariranha do Ivaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bandeira_Ariranha_do_Iva%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "49450312cf2a89ad28f61101ed69fbef18f4a072a774813f24661c987ad33663",
+ "rendicoes": {
+  "png": {
+   "bytes": 12136,
+   "sha256": "ed3c6798ec0afc103020a58b5b4fae9f0830ea47840d2fe16593d8f2344fc0fb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5572,
+   "sha256": "e05d7c316f3c58e888a787ae1f16785aec5249f57af6686451e2b647deb5ea87",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101853.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101853.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101853.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4101853.jpg",
+  "bytes": 3414,
+  "sha256": "49450312cf2a89ad28f61101ed69fbef18f4a072a774813f24661c987ad33663"
+ },
+ "sha1_origem": "6a48251efed24fb42f8e8345d328a0a4d53c623f",
+ "bytes_origem": 3414,
+ "capturado_em": "2026-11-08T06:41:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Ariranha_do_Ivaí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "6a48251efed24fb42f8e8345d328a0a4d53c623f"
+ }
+}

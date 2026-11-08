@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2307502",
+ "uf": "CE",
+ "municipio": "Lavras da Mangabeira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bandeira_Lavras_da_Mangabeira.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "77e520007b1a4e33a7cc7e79c46b370ff645d774f8067076dd0b5021280e9a37",
+ "rendicoes": {
+  "png": {
+   "bytes": 27578,
+   "sha256": "0be1f72a0059480d511887a0bde48ccbda2148ab1503a7344ae3875ffbb25747",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18065,
+   "sha256": "52e7fe776fcf10f00dd56d56ca3c3cc484059c6b86728ea09d3eef5876eeabac",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 8765,
+   "sha256": "77e520007b1a4e33a7cc7e79c46b370ff645d774f8067076dd0b5021280e9a37"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2307502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2307502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2307502.jpg"
+ },
+ "sha1_origem": "504ecbf1ef0baf55ef264af0acb74b2a7b51f676",
+ "bytes_origem": 8765,
+ "capturado_em": "2026-11-08T02:47:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Lavras_da_Mangabeira.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "504ecbf1ef0baf55ef264af0acb74b2a7b51f676"
+ }
+}

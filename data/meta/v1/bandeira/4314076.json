@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314076",
+ "uf": "RS",
+ "municipio": "Passo do Sobrado",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Passo_do_Sobradobandeirars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Passo do Sobrado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "21ee82973437ffe1cf25166091c4d98ab7a4ca913501caf113349039170c3f06",
+ "rendicoes": {
+  "png": {
+   "bytes": 76937,
+   "sha256": "31da226e1b93597367dd13304358abd86a93f727b5a8e65a0db01a08463c2e45",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15677,
+   "sha256": "3337e7a614751bf7ebcdd057c8924bde18d735a5785daf476b7cfc43374452f5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314076.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314076.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314076.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4314076.jpg",
+  "bytes": 7834,
+  "sha256": "21ee82973437ffe1cf25166091c4d98ab7a4ca913501caf113349039170c3f06"
+ },
+ "sha1_origem": "6504eb934997fd3a35063737069a7f8662b00481",
+ "bytes_origem": 7834,
+ "capturado_em": "2026-11-08T07:06:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Passo_do_Sobradobandeirars.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "6504eb934997fd3a35063737069a7f8662b00481"
+ }
+}

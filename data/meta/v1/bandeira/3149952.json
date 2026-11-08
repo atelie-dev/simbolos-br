@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3149952",
+ "uf": "MG",
+ "municipio": "Periquito",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Bandeira_de_Periquito_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "033624b7eba2c41ffe27c33c5cbb5f6915fc6f9433031e4ecc498ab36f8813e1",
+ "rendicoes": {
+  "png": {
+   "bytes": 268572,
+   "sha256": "839170cacdde0288193945f6c26b74957b3ec7585ae3153b2fadb26cb98c1c51",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37574,
+   "sha256": "814fcbf9b59c2925b3c0ca3ca87d9b0c8ecd0f56f6295844300a3d5fd4cc2da6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3149952.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3149952.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3149952.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3149952.png",
+  "bytes": 703650,
+  "sha256": "033624b7eba2c41ffe27c33c5cbb5f6915fc6f9433031e4ecc498ab36f8813e1"
+ },
+ "sha1_origem": "fa823aa0f38f9df1af905281a064b71cc5cc2796",
+ "bytes_origem": 703650,
+ "capturado_em": "2026-11-08T06:13:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Periquito_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "fa823aa0f38f9df1af905281a064b71cc5cc2796"
+ }
+}

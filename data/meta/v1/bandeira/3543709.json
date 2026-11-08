@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3543709",
+ "uf": "SP",
+ "municipio": "Rincão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bandeira_Rinc%C3%A3o.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "031ae12288db5dc94cae15ffd423227b7c14c125370384cd6114ffb62ddcf3e6",
+ "rendicoes": {
+  "png": {
+   "bytes": 28213,
+   "sha256": "d6b019b7033c84cc3067c4611567d71a82c5c23450bb6cbfef02423f8c76eab7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16583,
+   "sha256": "e7e970569dba7f5b5b8d9596dd1dc443356959c0df82a4c3762a0e6053534e38",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543709.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3543709.png",
+  "bytes": 24091,
+  "sha256": "031ae12288db5dc94cae15ffd423227b7c14c125370384cd6114ffb62ddcf3e6"
+ },
+ "sha1_origem": "0cdc64087d5ada5a5b2c6c71a46ca0b828f7df1c",
+ "bytes_origem": 24091,
+ "capturado_em": "2026-11-08T06:36:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Rincão.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "0cdc64087d5ada5a5b2c6c71a46ca0b828f7df1c"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4209003",
+ "uf": "SC",
+ "municipio": "Joaçaba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bras%C3%A3o_do_munic%C3%ADpio_de_Joa%C3%A7aba_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Joaçaba (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cf5d8c188c99239d465d38455ba1cad5684cd66f756b3e4b3406cda775b9ad2a",
+ "rendicoes": {
+  "png": {
+   "bytes": 197219,
+   "sha256": "3c882e5fe26dbb8e651a9e560c843ca1e063f7d5a479db15a82a39b25acab181",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61690,
+   "sha256": "4fd8db059dcfa46b135d39ad87aae8609dd609adb4b06b0dd05b98572b133633",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4209003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4209003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4209003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4209003.png",
+  "bytes": 463453,
+  "sha256": "cf5d8c188c99239d465d38455ba1cad5684cd66f756b3e4b3406cda775b9ad2a"
+ },
+ "sha1_origem": "2bed0820d99d17379796379977017ab8e83e9406",
+ "bytes_origem": 463453,
+ "capturado_em": "2026-11-08T06:54:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Joaçaba_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "2bed0820d99d17379796379977017ab8e83e9406"
+ }
+}

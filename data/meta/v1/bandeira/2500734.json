@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2500734",
+ "uf": "PB",
+ "municipio": "Amparo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bandeira_de_Amparo-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "e190fd647f9a1d52fb7879cb0159a6238cd709d477c1cbc6e370d398fd835afb",
+ "rendicoes": {
+  "png": {
+   "bytes": 35520,
+   "sha256": "553a3927ef7f7a6da33665e6c34f9e9f66a52bc0cdfdd630cbac9722722162a0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23076,
+   "sha256": "6361079649982fcb86d4df1287568a0b2a029634f74a7aee1bc1d2133521fe31",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 4148,
+   "sha256": "e190fd647f9a1d52fb7879cb0159a6238cd709d477c1cbc6e370d398fd835afb"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500734.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500734.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500734.jpg"
+ },
+ "sha1_origem": "09102d5e6e5393975adaf1e652b543cc95629224",
+ "bytes_origem": 4148,
+ "capturado_em": "2026-11-08T02:55:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Amparo-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "09102d5e6e5393975adaf1e652b543cc95629224"
+ }
+}

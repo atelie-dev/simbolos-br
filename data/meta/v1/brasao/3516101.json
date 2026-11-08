@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3516101",
+ "uf": "SP",
+ "municipio": "Florínea",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/BrasaoFlorinea.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Florínea",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e95ada7d178cef6e2583285b36ebb231c5c1c414528d2253772083bc3ec0d269",
+ "rendicoes": {
+  "png": {
+   "bytes": 32835,
+   "sha256": "e7f3719dc8f44806200d2ba475f2fc3888b818402397dcc14d9de32c1bab989c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8486,
+   "sha256": "e5a076c3636b99fd6c1cd7226dfc3e8d6cfcb4299b38bb6515cfaa1d6dbe43bc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3516101.png",
+  "bytes": 12757,
+  "sha256": "e95ada7d178cef6e2583285b36ebb231c5c1c414528d2253772083bc3ec0d269"
+ },
+ "sha1_origem": "c283c906e444f65747bd0090a9ee3e99c87f0ba3",
+ "bytes_origem": 12757,
+ "capturado_em": "2026-11-08T06:27:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoFlorinea.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "c283c906e444f65747bd0090a9ee3e99c87f0ba3"
+ }
+}

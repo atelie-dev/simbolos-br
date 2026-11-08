@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2613701",
+ "uf": "PE",
+ "municipio": "São Lourenço da Mata",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bandeira_slm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Clodoaldo Gomes de Araújo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f383604e085361b92e912fe1f6935ee060960132996939a2a08672e120698944",
+ "rendicoes": {
+  "png": {
+   "bytes": 7731,
+   "sha256": "5fd591f05caa28770d9c7a0efb8eec46d6bf168780ce39f7ff35386341829142",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6744,
+   "sha256": "5032738ce1800681d415a5193f9500e695dce6c70a909f38d8ab0ea1aa01b3ad",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2613701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2613701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2613701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2613701.jpg",
+  "bytes": 5225,
+  "sha256": "f383604e085361b92e912fe1f6935ee060960132996939a2a08672e120698944"
+ },
+ "sha1_origem": "43b455f09c7332c4145f7a7bc46c157b638512ba",
+ "bytes_origem": 5225,
+ "capturado_em": "2026-11-08T05:46:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_slm.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "43b455f09c7332c4145f7a7bc46c157b638512ba"
+ }
+}

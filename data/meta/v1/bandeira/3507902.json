@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3507902",
+ "uf": "SP",
+ "municipio": "Brotas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Bandeira_Brotas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "22824bc652f632d08e2f1e9dbeacd9250fb852703e265e7048b2457c96126d14",
+ "rendicoes": {
+  "png": {
+   "bytes": 53789,
+   "sha256": "deeb5729566771159aab2a368c148566385d690afed7b6702cb5d62bc550d4e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24545,
+   "sha256": "d97c57ae6048f3a3a4c6b4ea3dfbaa3825d6ec1c6e34b6fde127cad9be0cfcd5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3507902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3507902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3507902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3507902.png",
+  "bytes": 31213,
+  "sha256": "22824bc652f632d08e2f1e9dbeacd9250fb852703e265e7048b2457c96126d14"
+ },
+ "sha1_origem": "84eee63642ca858e63873a37dcd009d37872768c",
+ "bytes_origem": 31213,
+ "capturado_em": "2026-11-08T06:25:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Brotas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "84eee63642ca858e63873a37dcd009d37872768c"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4309902",
+ "uf": "RS",
+ "municipio": "Ibiraiaras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ibiraiarasrsbanders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ibiraiaras",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "52a3fc2a05b966aaaebfea642b9f05213a807b7565a0b440b9abb18d95c3632e",
+ "rendicoes": {
+  "png": {
+   "bytes": 24756,
+   "sha256": "40b594804bbd7d73835403e2a819a3aacb5f01f575b160291922554bb0f4c002",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9539,
+   "sha256": "932eb86570bd76b16e9ea2e00a6b9a7f3412c0694c03e2657c6c5352b805cd4f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4309902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4309902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4309902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4309902.jpg",
+  "bytes": 6067,
+  "sha256": "52a3fc2a05b966aaaebfea642b9f05213a807b7565a0b440b9abb18d95c3632e"
+ },
+ "sha1_origem": "b84ac150b27ef9f19b55e42866fe458903b52c5e",
+ "bytes_origem": 6067,
+ "capturado_em": "2026-11-08T07:04:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ibiraiarasrsbanders.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "b84ac150b27ef9f19b55e42866fe458903b52c5e"
+ }
+}

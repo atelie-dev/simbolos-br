@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2208403",
+ "uf": "PI",
+ "municipio": "Piripiri",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Piripiri%2C_Brazil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Vitor Fontenele",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "2ece8ea54137cf4efdd590c2d889d8d6c4f0493e8ab3f732b55e4b7d1b335120",
+ "rendicoes": {
+  "png": {
+   "bytes": 36286,
+   "sha256": "ed8dd2c652b3247639826624905f5ca9ee725dd791e0c1aa1b251c040281e32b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17609,
+   "sha256": "51bd58384779a63ab8391b40ffcbd6e493b3f0f601703c58ad0f87154c7bb9dd",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 23654,
+   "sha256": "2ece8ea54137cf4efdd590c2d889d8d6c4f0493e8ab3f732b55e4b7d1b335120"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2208403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2208403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2208403.jpg"
+ },
+ "sha1_origem": "636cf6357f090d123e563077ce47563f412938dc",
+ "bytes_origem": 23654,
+ "capturado_em": "2026-11-08T02:43:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Piripiri,_Brazil.svg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "baixo",
+  "motivo": [
+   "licenca_pendente",
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "636cf6357f090d123e563077ce47563f412938dc"
+ }
+}

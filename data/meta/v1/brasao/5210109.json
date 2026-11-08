@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5210109",
+ "uf": "GO",
+ "municipio": "Ipameri",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bras%C3%A3o_do_Municipio_de_Ipameri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Luiz Alberto Costa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "23383f1e9512e3361d520944b792dd0d65f27a2573e9a4f93d8f7448f420adf5",
+ "rendicoes": {
+  "png": {
+   "bytes": 273463,
+   "sha256": "b9d18a8447e6f7286726ceb4c0332894afe617009bed56fe5e2294a7bae171b3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 72430,
+   "sha256": "9c1cf731f36671fb1cfdf998bdbdcd4d912c9219e33b99820059f9e61f1c9eb2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5210109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5210109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5210109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5210109.jpg",
+  "bytes": 726041,
+  "sha256": "23383f1e9512e3361d520944b792dd0d65f27a2573e9a4f93d8f7448f420adf5"
+ },
+ "sha1_origem": "4c73d5163a1ada222541333113bfbdff1ebbd094",
+ "bytes_origem": 726041,
+ "capturado_em": "2026-11-08T07:18:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_Municipio_de_Ipameri.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:15Z",
+  "estado": "igual",
+  "sha1_commons": "4c73d5163a1ada222541333113bfbdff1ebbd094"
+ }
+}

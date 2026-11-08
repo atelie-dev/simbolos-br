@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1502202",
+ "uf": "PA",
+ "municipio": "Capanema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bandeira_de_Capanema%2C_PA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Capanema City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1afdba73afd36a76a7c5499def7e5198ad990821330727f33aeff05b3ad4a37e",
+ "rendicoes": {
+  "png": {
+   "bytes": 114469,
+   "sha256": "c4b680cd0a9de990795b721f7248c67684a5932950721bd054dc318398dfcd8f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30590,
+   "sha256": "946b58b4fdfdc9ba906b704564ecb4508cd5ec3d06b8861247ecc14f08b56334",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1502202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1502202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1502202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1502202.jpg",
+  "bytes": 81783,
+  "sha256": "1afdba73afd36a76a7c5499def7e5198ad990821330727f33aeff05b3ad4a37e"
+ },
+ "sha1_origem": "8e565693bf70e05a37bba3845f21d564a7798308",
+ "bytes_origem": 81783,
+ "capturado_em": "2026-11-08T05:24:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Capanema,_PA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "8e565693bf70e05a37bba3845f21d564a7798308"
+ }
+}

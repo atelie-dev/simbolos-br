@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2504033",
+ "uf": "PB",
+ "municipio": "Capim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bandeira_de_Capim-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d83d5a9dfc111feeca249aed49010d2ed90410f060277e3e8331ed65b9283690",
+ "rendicoes": {
+  "png": {
+   "bytes": 7154,
+   "sha256": "a706fc0d0f07141250c72bee31e52bca10e11340c432a3ce10843e2cb1a50adb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14250,
+   "sha256": "dd1bd3efabfcb61dc8fd458d65bbd23b8d2afa502dfc8b60e5c2c6a5283e003b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1496,
+   "sha256": "d83d5a9dfc111feeca249aed49010d2ed90410f060277e3e8331ed65b9283690"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2504033.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2504033.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2504033.jpg"
+ },
+ "sha1_origem": "90bb0a3feab048aa52614e5284683e1049d7c74b",
+ "bytes_origem": 1496,
+ "capturado_em": "2026-11-08T02:57:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Capim-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "90bb0a3feab048aa52614e5284683e1049d7c74b"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3541901",
+ "uf": "SP",
+ "municipio": "Queluz",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Queluz_bandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Queluz",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e8cc6e03ed108afa1c7ae8afed1c1b61ca0c65c6bdcad2757cb422fb68e1aa98",
+ "rendicoes": {
+  "png": {
+   "bytes": 9429,
+   "sha256": "33b0a85969f72f071b09dda717b80e7f719626412414e0ed4fe7e0843c231ae6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7974,
+   "sha256": "7026575d6a0075ce56977e77f50cf8880a9ea0f99e980666768ebbd8be30f20e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3541901.png",
+  "bytes": 2869,
+  "sha256": "e8cc6e03ed108afa1c7ae8afed1c1b61ca0c65c6bdcad2757cb422fb68e1aa98"
+ },
+ "sha1_origem": "6da3cab069cda482cab16a20c7082c74698e9434",
+ "bytes_origem": 2869,
+ "capturado_em": "2026-11-08T06:35:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Queluz_bandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "6da3cab069cda482cab16a20c7082c74698e9434"
+ }
+}

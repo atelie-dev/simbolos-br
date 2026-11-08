@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5003207",
+ "uf": "MS",
+ "municipio": "Corumbá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/BandeiradeCorumb%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e7939a7da008c410a9a8b9bcd15a257217db7fedec9ff484f9a3378ff5470638",
+ "rendicoes": {
+  "png": {
+   "bytes": 87297,
+   "sha256": "724e802eee1f4b22544dab99263aaa97cb3cf56a583e11bd962a3a515b19c292",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19980,
+   "sha256": "1025f7f388787b7af632c7c5d244c05c83fe2843fea95f8f6138490887ddb95e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5003207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5003207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5003207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5003207.jpg",
+  "bytes": 21249,
+  "sha256": "e7939a7da008c410a9a8b9bcd15a257217db7fedec9ff484f9a3378ff5470638"
+ },
+ "sha1_origem": "3c0da659eab6332ed238ae3401abdf4840dc49c1",
+ "bytes_origem": 21249,
+ "capturado_em": "2026-11-08T07:12:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiradeCorumbá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "3c0da659eab6332ed238ae3401abdf4840dc49c1"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4318507",
+ "uf": "RS",
+ "municipio": "São José do Norte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bandeira_Sao_Jose_do_Norte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of São José do Norte.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "485b3e07afe820484bd72dafb9fd629787b9c2bf3c2a08d87eb789eefa9c9b6d",
+ "rendicoes": {
+  "png": {
+   "bytes": 38975,
+   "sha256": "2f6f51a479c64ffa7acca0a1311f892312d41f824bace895c99551cc18e544b7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24868,
+   "sha256": "ace775764a6a9e694dab82597a4d9e851f6c941d60518a6fe1e0df70d99766b3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318507.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318507.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318507.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4318507.jpg",
+  "bytes": 179830,
+  "sha256": "485b3e07afe820484bd72dafb9fd629787b9c2bf3c2a08d87eb789eefa9c9b6d"
+ },
+ "sha1_origem": "860ef1a93465359b831e2433985cfaa06a8ccccf",
+ "bytes_origem": 179830,
+ "capturado_em": "2026-11-08T07:09:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Sao_Jose_do_Norte.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "860ef1a93465359b831e2433985cfaa06a8ccccf"
+ }
+}

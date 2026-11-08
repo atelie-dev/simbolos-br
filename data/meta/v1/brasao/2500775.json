@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2500775",
+ "uf": "PB",
+ "municipio": "Aparecida",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bras%C3%A3o_de_Aparecida_PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Aparecida PB",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2c5bbcf9c22624dbd590835905cc61bc9befdca76221ad9be2d2cfffef3e68f0",
+ "rendicoes": {
+  "png": {
+   "bytes": 166907,
+   "sha256": "427b311c3e3c1edaf10219f4f4a4079e005efb297ab1a8b904130a3e9d58c86c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40894,
+   "sha256": "103ed474cd24ca5de0d41c2b1f76e64947ad0b4eb130c24a0f0ed19d2581f786",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500775.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500775.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500775.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2500775.jpg",
+  "bytes": 111469,
+  "sha256": "2c5bbcf9c22624dbd590835905cc61bc9befdca76221ad9be2d2cfffef3e68f0"
+ },
+ "sha1_origem": "43d91f8abc7989ec9a9a53bbf88bdaf8eb2dc27b",
+ "bytes_origem": 111469,
+ "capturado_em": "2026-11-08T05:39:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Aparecida_PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "43d91f8abc7989ec9a9a53bbf88bdaf8eb2dc27b"
+ }
+}

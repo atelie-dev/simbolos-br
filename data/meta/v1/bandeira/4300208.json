@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4300208",
+ "uf": "RS",
+ "municipio": "Ajuricaba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bandeira_de_Ajuricaba.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ajuricaba",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b3c6feb2d9737bd78dbf129c4c2caf48ff5d614e895d2258e880c919e8bb4ae6",
+ "rendicoes": {
+  "png": {
+   "bytes": 76207,
+   "sha256": "afa77906d5454c45d889011a9b8cf450b2bf5e3cba84a47068b3be09f610b0e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27375,
+   "sha256": "4f1b233d67953bd2f5d1dcf8d72fce15d67c50ac9decaa2f401d1e4b387204d8",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 304938,
+   "sha256": "b3c6feb2d9737bd78dbf129c4c2caf48ff5d614e895d2258e880c919e8bb4ae6"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300208.jpg"
+ },
+ "sha1_origem": "6e77c5caaecb2a93ef34f1cfe60d8c37d2757dd9",
+ "bytes_origem": 304938,
+ "capturado_em": "2026-11-08T04:46:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ajuricaba.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "6e77c5caaecb2a93ef34f1cfe60d8c37d2757dd9"
+ }
+}

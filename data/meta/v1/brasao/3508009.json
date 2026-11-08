@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3508009",
+ "uf": "SP",
+ "municipio": "Buri",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Buri.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "51d50e87f305df44052fd42464399e187a8800ddea32ae0f72fe388a99fcf23e",
+ "rendicoes": {
+  "png": {
+   "bytes": 359707,
+   "sha256": "3eb90851dd61ccf4382c8dd46b32ba21acf81d337b9655f4867bc989ed1e2bd7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 66223,
+   "sha256": "7706226f1e460cfaaac65d7b7fb8566010bf2a0bfd4a28ad544304bad2c82ae1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3508009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3508009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3508009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3508009.png",
+  "bytes": 391082,
+  "sha256": "51d50e87f305df44052fd42464399e187a8800ddea32ae0f72fe388a99fcf23e"
+ },
+ "sha1_origem": "92ddb6a0aae135ac15f769b12b9f592444bf9fdb",
+ "bytes_origem": 391082,
+ "capturado_em": "2026-11-08T06:25:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Buri.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "92ddb6a0aae135ac15f769b12b9f592444bf9fdb"
+ }
+}

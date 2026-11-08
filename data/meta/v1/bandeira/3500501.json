@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3500501",
+ "uf": "SP",
+ "municipio": "Águas de Lindóia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira-aguasdelindoia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Águas de Lindóia City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "044049129723d462fe677f18e4fdd97a960dac0d96ccda2916ab90c8f5eb70be",
+ "rendicoes": {
+  "png": {
+   "bytes": 22898,
+   "sha256": "a1970c01910ba69fa230d69b29e0908b0b1b713045d98d32c3bdf292a6d3b372",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14243,
+   "sha256": "f144ddb4d5f9878e49efe9599749db94a197e3ec67018373ca9c075b62792824",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3500501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3500501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3500501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3500501.png",
+  "bytes": 9102,
+  "sha256": "044049129723d462fe677f18e4fdd97a960dac0d96ccda2916ab90c8f5eb70be"
+ },
+ "sha1_origem": "ad8be32ae5d0049d953f41a912a5569b6b1bc141",
+ "bytes_origem": 9102,
+ "capturado_em": "2026-11-08T06:22:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-aguasdelindoia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "ad8be32ae5d0049d953f41a912a5569b6b1bc141"
+ }
+}

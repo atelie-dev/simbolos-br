@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3546801",
+ "uf": "SP",
+ "municipio": "Santa Isabel",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bras%C3%A3o_de_Santa_Isabel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "24300c21e3cb14d8b7683029a1807ed3e81aa6f8a29ec7acf482daada3cb3ab8",
+ "rendicoes": {
+  "png": {
+   "bytes": 126064,
+   "sha256": "e4831003617cbb7d74041673c272b8e1690069db3dff835e516da4234e89a12c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40483,
+   "sha256": "e763e1d0d614ec7095b117dc90d236c35cd1d50a8089131ed4c3b3b8b8eca1c3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3546801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3546801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3546801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3546801.jpg",
+  "bytes": 155103,
+  "sha256": "24300c21e3cb14d8b7683029a1807ed3e81aa6f8a29ec7acf482daada3cb3ab8"
+ },
+ "sha1_origem": "235b3ab0e32c5a5baba724024c87dc7a3ba4784a",
+ "bytes_origem": 155103,
+ "capturado_em": "2026-11-08T06:37:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Santa_Isabel.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "235b3ab0e32c5a5baba724024c87dc7a3ba4784a"
+ }
+}

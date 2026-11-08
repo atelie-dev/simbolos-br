@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5213756",
+ "uf": "GO",
+ "municipio": "Montividiu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bandeira_de_Montividiu_GO.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camervan",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "86ecee219fd7cee3a02a1fca495e4cacf4910eff2a67ee72d9f355b6f21e371f",
+ "rendicoes": {
+  "png": {
+   "bytes": 23766,
+   "sha256": "c852fb56caf717dd50e01a577926dfb870914ae58fdc7107df3fbca67032f4a4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15596,
+   "sha256": "9e2dedefbc016686733cd7cef6be2b7ee5c0c1934074e8725dfbf9fa78466659",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 329,
+   "sha256": "86ecee219fd7cee3a02a1fca495e4cacf4910eff2a67ee72d9f355b6f21e371f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213756.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213756.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213756.jpg"
+ },
+ "sha1_origem": "b7de4d1fb836e0c2754d43517a0264f53fa0c3b0",
+ "bytes_origem": 329,
+ "capturado_em": "2026-11-08T05:11:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Montividiu_GO.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "b7de4d1fb836e0c2754d43517a0264f53fa0c3b0"
+ }
+}

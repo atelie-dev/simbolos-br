@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2209302",
+ "uf": "PI",
+ "municipio": "Santa Luz",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flago_de_Santa_Luz.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "municipa prefektejo / prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f6cc0a2c192a18efeba26847ed35673c003bb7f5bfd833b8411cd165672ffcce",
+ "rendicoes": {
+  "png": {
+   "bytes": 101440,
+   "sha256": "f967edf2c3771742b0ba2dfc9ba8d63b48da3125472765bd7857a14f8c3d4151",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33794,
+   "sha256": "9a1438b6a287d4f142a53c75fbcbac720b68022e69192f8c846077aa497fcb91",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2209302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2209302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2209302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2209302.png",
+  "bytes": 117954,
+  "sha256": "f6cc0a2c192a18efeba26847ed35673c003bb7f5bfd833b8411cd165672ffcce"
+ },
+ "sha1_origem": "b6a44eeeb1a9a9b6bb4e80b27d5a6b9b0cac9db0",
+ "bytes_origem": 117954,
+ "capturado_em": "2026-11-08T05:31:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flago_de_Santa_Luz.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:30Z",
+  "estado": "igual",
+  "sha1_commons": "b6a44eeeb1a9a9b6bb4e80b27d5a6b9b0cac9db0"
+ }
+}

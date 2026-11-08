@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3125952",
+ "uf": "MG",
+ "municipio": "Fervedouro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Fervedouromgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Fervedouro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d893cb116804655dc510a0b0e2b8c09a63870e99766b6dbca7b5a31fbade6b55",
+ "rendicoes": {
+  "png": {
+   "bytes": 113536,
+   "sha256": "33b0049af43e8cd67936ab827e6a8a26f54153ce3b4cbff81c2343b22797445a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25669,
+   "sha256": "bf2f1d5168ae75160808153a907ede146c21f31f118211fba65d7278bc656e09",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3125952.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3125952.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3125952.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3125952.jpg",
+  "bytes": 16509,
+  "sha256": "d893cb116804655dc510a0b0e2b8c09a63870e99766b6dbca7b5a31fbade6b55"
+ },
+ "sha1_origem": "aed8a22ebe502735afa100fd1d2890b23b462dd0",
+ "bytes_origem": 16509,
+ "capturado_em": "2026-11-08T06:07:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Fervedouromgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "aed8a22ebe502735afa100fd1d2890b23b462dd0"
+ }
+}

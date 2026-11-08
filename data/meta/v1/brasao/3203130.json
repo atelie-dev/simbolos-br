@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3203130",
+ "uf": "ES",
+ "municipio": "João Neiva",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Brasao_joaoneiva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "No machine-readable author provided. Alexsanderxm assumed (based on copyright claims).",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4b9f916e0131f26aea28c44fa571dd6a64fa90ae4c039e6ac2ab30c825593c39",
+ "rendicoes": {
+  "png": {
+   "bytes": 167317,
+   "sha256": "15f2cffd3a0d2da85d0e361b29f2eda31f2ffceefbdc243bf71e7ea4da467c98",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30868,
+   "sha256": "2d3701baf50087bc1fd036302de95dc987bd357a9d14453de509e3b21ac3430c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3203130.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3203130.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3203130.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3203130.jpg",
+  "bytes": 37075,
+  "sha256": "4b9f916e0131f26aea28c44fa571dd6a64fa90ae4c039e6ac2ab30c825593c39"
+ },
+ "sha1_origem": "48807e19fa93d52c97a534dd62db655873753e1c",
+ "bytes_origem": 37075,
+ "capturado_em": "2026-11-08T06:19:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_joaoneiva.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "48807e19fa93d52c97a534dd62db655873753e1c"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3518107",
+ "uf": "SP",
+ "municipio": "Guarantã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bandeira_Guarant%C3%A3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1c17a506a0325be114bb84e34e5b1449596b9c3d088e117c0d21d79066381f6c",
+ "rendicoes": {
+  "png": {
+   "bytes": 53315,
+   "sha256": "411895d3e9fe7a907f8bbbda982bd5160f840c18d81f0ca9052927f0188fca93",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13109,
+   "sha256": "5604878d5c7ff311a53e4ba02c58ee7e2de65aa1c8804b1c0da3601264743a0f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3518107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3518107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3518107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3518107.png",
+  "bytes": 54580,
+  "sha256": "1c17a506a0325be114bb84e34e5b1449596b9c3d088e117c0d21d79066381f6c"
+ },
+ "sha1_origem": "76916a5a9ab734eaa35f4ac34bd50c4d9e1e2b6e",
+ "bytes_origem": 54580,
+ "capturado_em": "2026-11-08T06:28:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Guarantã.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "76916a5a9ab734eaa35f4ac34bd50c4d9e1e2b6e"
+ }
+}

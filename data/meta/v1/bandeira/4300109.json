@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4300109",
+ "uf": "RS",
+ "municipio": "Agudo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bandeira_de_agudo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Agudo.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2a049366f329069861c5d7a2f85bad3f9d5a0f039271b56cc735385910db972b",
+ "rendicoes": {
+  "png": {
+   "bytes": 13727,
+   "sha256": "039c640b1b3ea06de53c66e79bbd5fa2a45067147d1206fc36554244d380c8bb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6263,
+   "sha256": "3f8d5eb6253d455e2b5e4e37f0f12775596c54e979da41a0802c8020615b8aab",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4300109.png",
+  "bytes": 6139,
+  "sha256": "2a049366f329069861c5d7a2f85bad3f9d5a0f039271b56cc735385910db972b"
+ },
+ "sha1_origem": "cefca39e4a6e44fd8857f2647b629cc6677dab57",
+ "bytes_origem": 6139,
+ "capturado_em": "2026-11-08T06:58:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_agudo.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "cefca39e4a6e44fd8857f2647b629cc6677dab57"
+ }
+}

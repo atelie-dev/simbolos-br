@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3152907",
+ "uf": "MG",
+ "municipio": "Pratápolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bandeira_Prat%C3%A1polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pratápolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e3c9695d3802d113e1743d4193097e1c7ebbc5326ef3c899bac2e11ccab3dc33",
+ "rendicoes": {
+  "png": {
+   "bytes": 70270,
+   "sha256": "97b003ed961578e80e8df6aef6ed618608827c8e0579e967de4632870adff43f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18507,
+   "sha256": "c4f8a18638f2d126226c98965b7a8ca6c81d067886b0504c91908ed89cb8ca86",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3152907.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3152907.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3152907.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3152907.jpg",
+  "bytes": 19528,
+  "sha256": "e3c9695d3802d113e1743d4193097e1c7ebbc5326ef3c899bac2e11ccab3dc33"
+ },
+ "sha1_origem": "9c902b6f01ff0e03582cda9c4227e43e9695c67d",
+ "bytes_origem": 19528,
+ "capturado_em": "2026-11-08T06:14:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Pratápolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "9c902b6f01ff0e03582cda9c4227e43e9695c67d"
+ }
+}

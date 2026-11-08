@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1502004",
+ "uf": "PA",
+ "municipio": "Cachoeira do Arari",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bras%C3%A3o_de_Cachoeira_do_Arari_%28Par%C3%A1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Bragança, Pará",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "779ed094d89298414a1828c39dfb8344d224d99bcd819b2b39119c99e10800c9",
+ "rendicoes": {
+  "png": {
+   "bytes": 32547,
+   "sha256": "997407376d0b8bdf7f5838ec4af6bc068213a30f46317fea77c33c8bf7e04022",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9232,
+   "sha256": "df41033216f480cd24dcb1dbd4512ef99239a30731cd66851df6dadb21e715a6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1502004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1502004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1502004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1502004.jpg",
+  "bytes": 45479,
+  "sha256": "779ed094d89298414a1828c39dfb8344d224d99bcd819b2b39119c99e10800c9"
+ },
+ "sha1_origem": "d58e28742a5545e130e1e4462bc3244012ad703e",
+ "bytes_origem": 45479,
+ "capturado_em": "2026-11-08T05:24:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cachoeira_do_Arari_(Pará).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "d58e28742a5545e130e1e4462bc3244012ad703e"
+ }
+}

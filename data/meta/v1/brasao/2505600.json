@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2505600",
+ "uf": "PB",
+ "municipio": "Diamante",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Brasao_diamante.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Diamante",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "194cf9ffb74bcb4835f8eb463a2d0571f15bfa9d56a018e71abedb168a3d38ec",
+ "rendicoes": {
+  "png": {
+   "bytes": 35636,
+   "sha256": "87fa5d2f5187580f3375e61d81fcdeebcce6743457162e22407503bece7ccbd6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13438,
+   "sha256": "3829ca5344d75b27ced10f73a3387cc5a3946f7a725d1ab93ee48f3c79cf7310",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2505600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2505600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2505600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2505600.png",
+  "bytes": 15341,
+  "sha256": "194cf9ffb74bcb4835f8eb463a2d0571f15bfa9d56a018e71abedb168a3d38ec"
+ },
+ "sha1_origem": "18e09876615610d974cb70adf39b3135964f6ba8",
+ "bytes_origem": 15341,
+ "capturado_em": "2026-11-08T05:41:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_diamante.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "18e09876615610d974cb70adf39b3135964f6ba8"
+ }
+}

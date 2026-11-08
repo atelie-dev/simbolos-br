@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4111308",
+ "uf": "PR",
+ "municipio": "Itaúna do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bandeira_Ita%C3%BAna_do_Sul.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Washington Batista de Souza",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b2c4c358aa52abf092672416f2d384a36de3e05efcd9e5b5023a5fe29f500a93",
+ "rendicoes": {
+  "png": {
+   "bytes": 12322,
+   "sha256": "dece78d30e2728b0f1bade58cc3fef00d66e76673240a716924c1a5bca40c426",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8240,
+   "sha256": "76a1bdf3c161b899cb330be74d9d16a1f7fe205b1bcae8387c71f2e4d3991931",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 7349,
+   "sha256": "b2c4c358aa52abf092672416f2d384a36de3e05efcd9e5b5023a5fe29f500a93"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111308.jpg"
+ },
+ "sha1_origem": "297e8567b9f6e2bb7921f8d32006bac91664c748",
+ "bytes_origem": 7349,
+ "capturado_em": "2026-11-08T04:26:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itaúna_do_Sul.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "297e8567b9f6e2bb7921f8d32006bac91664c748"
+ }
+}

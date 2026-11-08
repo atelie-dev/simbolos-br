@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3115904",
+ "uf": "MG",
+ "municipio": "Chácara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ch%C3%A1caramgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Chácara",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7b8f612ed9f19271d03c01ffb2e81458836b098e26bd74a440ab5d89c309df7e",
+ "rendicoes": {
+  "png": {
+   "bytes": 37003,
+   "sha256": "8967fe88bab840681396b24ca5e9a4eeb435c34b5e8b760efbc314b68417b295",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10090,
+   "sha256": "f56a0bb9ea20ad89234df6b4e642cb0043ca2a7c4aacceb9b5c7198c7fe3b2b6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3115904.jpg",
+  "bytes": 12301,
+  "sha256": "7b8f612ed9f19271d03c01ffb2e81458836b098e26bd74a440ab5d89c309df7e"
+ },
+ "sha1_origem": "9b07411d49e16aec95edc44082bcd060c1061ece",
+ "bytes_origem": 12301,
+ "capturado_em": "2026-11-08T06:03:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Chácaramgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:22Z",
+  "estado": "igual",
+  "sha1_commons": "9b07411d49e16aec95edc44082bcd060c1061ece"
+ }
+}

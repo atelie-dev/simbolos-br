@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3536901",
+ "uf": "SP",
+ "municipio": "Pedranópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Pedran%C3%B3polis.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9792a69202b6b9edb23804a0ec439248231ffa136d47f0ce9fe4202cccd1e9e5",
+ "rendicoes": {
+  "png": {
+   "bytes": 388692,
+   "sha256": "d371bfecba009f397b9db3867b5c7d84732ff068fcda6d207cdc068f3a98ca2d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 70902,
+   "sha256": "d6878cc6b68b816bebcab8d9536c22b0ed2afacf8fda0e9382cbf34d0d69418c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3536901.png",
+  "bytes": 391324,
+  "sha256": "9792a69202b6b9edb23804a0ec439248231ffa136d47f0ce9fe4202cccd1e9e5"
+ },
+ "sha1_origem": "899be12a4a8dc6e31e42d2d22a38dec82ad399ce",
+ "bytes_origem": 391324,
+ "capturado_em": "2026-11-08T06:34:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Pedranópolis.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "899be12a4a8dc6e31e42d2d22a38dec82ad399ce"
+ }
+}

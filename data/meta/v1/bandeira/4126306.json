@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4126306",
+ "uf": "PR",
+ "municipio": "Sengés",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bandeirasenges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Sengés",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8993ed6cf8f21b03426ccb3467cee2cbd03fe4c5ed63ab79c62bd86d5a9245ea",
+ "rendicoes": {
+  "png": {
+   "bytes": 54714,
+   "sha256": "5afb875ce45af4bab27ccd73085374a84a17d8129cb36dffb020154937b16525",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16724,
+   "sha256": "6cc30964a3ea2a78ccd3754471949fec8d7815c45ff1bf452d0a0f131ebb4dcf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4126306.jpg",
+  "bytes": 100629,
+  "sha256": "8993ed6cf8f21b03426ccb3467cee2cbd03fe4c5ed63ab79c62bd86d5a9245ea"
+ },
+ "sha1_origem": "60c3f746df51548aefeb1e67895732b8ab2ee900",
+ "bytes_origem": 100629,
+ "capturado_em": "2026-11-08T06:50:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeirasenges.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "60c3f746df51548aefeb1e67895732b8ab2ee900"
+ }
+}

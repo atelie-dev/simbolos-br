@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3142205",
+ "uf": "MG",
+ "municipio": "Miraí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bras%C3%A3o_de_Mira%C3%AD_-_MG.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "182e3da1cf9107383a767eecaeb22cab77d2f322ff1caebfd781871f1717e377",
+ "rendicoes": {
+  "png": {
+   "bytes": 180797,
+   "sha256": "0eb064ee6e4fc801bcad1bc91653acc057d2a17428de5401ff96cbbac568cdc8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58051,
+   "sha256": "21ca7ed856ed9b8d9453de5f28cb1ed884cae1cfaef0c00fa2a29b42d8be936b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 329155,
+   "sha256": "182e3da1cf9107383a767eecaeb22cab77d2f322ff1caebfd781871f1717e377"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3142205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3142205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3142205.jpg"
+ },
+ "sha1_origem": "0e90d8051bd81655afc2ef761c26008a82d0b608",
+ "bytes_origem": 329155,
+ "capturado_em": "2026-11-08T03:42:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Miraí_-_MG.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "0e90d8051bd81655afc2ef761c26008a82d0b608"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2312908",
+ "uf": "CE",
+ "municipio": "Sobral",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bras%C3%A3o_de_Sobral_-_CE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "126ef9d26e82da40ee10d151afad463c65df9b00327881edc6c1c4b7c5e54b53",
+ "rendicoes": {
+  "png": {
+   "bytes": 145791,
+   "sha256": "084082829388791e990f337ee19bd7f4e132ec9e83efc22c18ce6e42028eeccd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 46038,
+   "sha256": "ec8d9acc6d3f230ce884c776896665aec8580a595c94d35e0a6185569ba97e01",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 318156,
+   "sha256": "126ef9d26e82da40ee10d151afad463c65df9b00327881edc6c1c4b7c5e54b53"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2312908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2312908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2312908.jpg"
+ },
+ "sha1_origem": "cee2459091ac8413861b5b684ba45e72106bff97",
+ "bytes_origem": 318156,
+ "capturado_em": "2026-11-08T02:49:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Sobral_-_CE.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:12Z",
+  "estado": "igual",
+  "sha1_commons": "cee2459091ac8413861b5b684ba45e72106bff97"
+ }
+}

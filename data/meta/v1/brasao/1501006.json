@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1501006",
+ "uf": "PA",
+ "municipio": "Aveiro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/92/Brasao_Aveiro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Aveiro.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "838b0d003e68ee9cf2e1f94a127d08ccbd56c39bff29a60f8e57b8cabf8192fe",
+ "rendicoes": {
+  "png": {
+   "bytes": 18395,
+   "sha256": "62b6df42b0eab9dff8474b249836755cd1260955548c9de5af8a2ac1ae63b839",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7723,
+   "sha256": "865c0f493041a80173531675f520710a7124dc810eb4a3f703950ca3955706df",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1501006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1501006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1501006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1501006.png",
+  "bytes": 7824,
+  "sha256": "838b0d003e68ee9cf2e1f94a127d08ccbd56c39bff29a60f8e57b8cabf8192fe"
+ },
+ "sha1_origem": "aa5f2a5e5f6433936fa2ad6bb49e85078e76e8e7",
+ "bytes_origem": 7824,
+ "capturado_em": "2026-11-08T05:24:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Aveiro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "aa5f2a5e5f6433936fa2ad6bb49e85078e76e8e7"
+ }
+}

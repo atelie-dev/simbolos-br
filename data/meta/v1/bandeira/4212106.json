@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4212106",
+ "uf": "SC",
+ "municipio": "Palmitos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bandeira_de_Palmitos_%28Santa_Catarina%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "(domínio público)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "172fc72d2a52ed049bf8f9222784bd8ddbd1c50f2cab98df36fce1e50476fa4c",
+ "rendicoes": {
+  "png": {
+   "bytes": 57524,
+   "sha256": "4af876ad0669b578d30efb8ad8d0a2e0be87e99822bb148b11acb4a07c973374",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18572,
+   "sha256": "817b0d1258d8005479b82dd1ddc95a7af9986368996585581bc65286f9daef94",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4212106.jpg",
+  "bytes": 38539,
+  "sha256": "172fc72d2a52ed049bf8f9222784bd8ddbd1c50f2cab98df36fce1e50476fa4c"
+ },
+ "sha1_origem": "151d768b08b061ed07bf751f77fd27841d17a244",
+ "bytes_origem": 38539,
+ "capturado_em": "2026-11-08T06:55:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Palmitos_(Santa_Catarina).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "151d768b08b061ed07bf751f77fd27841d17a244"
+ }
+}

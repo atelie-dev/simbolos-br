@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211009",
+ "uf": "SC",
+ "municipio": "Mondaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandeira_Mondai_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Mondaí",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7ad1a7b6182812afcb2017e32d3cb52dcc5347f27552327b982b00a5c819cc37",
+ "rendicoes": {
+  "png": {
+   "bytes": 20099,
+   "sha256": "2d8ecb21c6f43d4c2cdcd84a1076ba9e8d6fb0a41f0fcf13139466eb193f750c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6064,
+   "sha256": "1563fae1e67177a917a65a323759c11a04a7861c70a1a39307c4f53d6446f275",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4211009.jpg",
+  "bytes": 3315,
+  "sha256": "7ad1a7b6182812afcb2017e32d3cb52dcc5347f27552327b982b00a5c819cc37"
+ },
+ "sha1_origem": "89df349ed15ccfbdb6c664ca86e966b0ce25290d",
+ "bytes_origem": 3315,
+ "capturado_em": "2026-11-08T06:55:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Mondai_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "89df349ed15ccfbdb6c664ca86e966b0ce25290d"
+ }
+}

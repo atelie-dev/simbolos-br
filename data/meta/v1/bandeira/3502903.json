@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3502903",
+ "uf": "SP",
+ "municipio": "Araçoiaba da Serra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Ara%C3%A7oiaba_da_serra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Euskadirlz",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c1aa04b18d6993ba27fc310cf5e1ba76b93da9e5a1902d499e5d5f7424b21ef4",
+ "rendicoes": {
+  "png": {
+   "bytes": 81993,
+   "sha256": "d662d1348a93e822fe43f65f2e7197dae58c398817e6bb87fb013e8d174a1c38",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16970,
+   "sha256": "3f2d09ecb27c464901ec774b019a0632296fbc82b35846c12297cdd1fdecc3f7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3502903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3502903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3502903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3502903.jpg",
+  "bytes": 11900,
+  "sha256": "c1aa04b18d6993ba27fc310cf5e1ba76b93da9e5a1902d499e5d5f7424b21ef4"
+ },
+ "sha1_origem": "7d64de61b00380b48f3bf5e5670c28e9a4392ee5",
+ "bytes_origem": 11900,
+ "capturado_em": "2026-11-08T06:23:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Araçoiaba_da_serra.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "7d64de61b00380b48f3bf5e5670c28e9a4392ee5"
+ }
+}

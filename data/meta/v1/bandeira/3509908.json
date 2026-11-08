@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3509908",
+ "uf": "SP",
+ "municipio": "Cananéia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bandeira_Cananeia_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "42e1d40e127ceffa6742623dd031f75f68127176dbf742a69bf127d98872d4ac",
+ "rendicoes": {
+  "png": {
+   "bytes": 8798,
+   "sha256": "787b2d2e4f566f7c155cdbc9b960d42789ca31b10b20ba8d038825520c491ef5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12518,
+   "sha256": "312da72c7dc2074f366238ad1cead10a3bf1d562bf25db4389a498f45a21b642",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 4637,
+   "sha256": "42e1d40e127ceffa6742623dd031f75f68127176dbf742a69bf127d98872d4ac"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509908.jpg"
+ },
+ "sha1_origem": "afc9e7858ccddd36797a2d39ea85079082c92f85",
+ "bytes_origem": 4637,
+ "capturado_em": "2026-11-08T04:00:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Cananeia_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "afc9e7858ccddd36797a2d39ea85079082c92f85"
+ }
+}

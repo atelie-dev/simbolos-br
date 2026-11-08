@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3301603",
+ "uf": "RJ",
+ "municipio": "Duas Barras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Duas_Barras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Duas Barras",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "793df901c0f6010f4d2d351a0148d32721f91dbbf1b80e067aedf3501127b198",
+ "rendicoes": {
+  "png": {
+   "bytes": 25736,
+   "sha256": "2b79985abef15c1c7797a6b39487645230e3f9aba4aa6b7f4a515edaf8ddbcbb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13000,
+   "sha256": "f1a44f8bf788d8ade875a837c6ebf049413d7b000ea78f09924a93a3493bd8b6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3301603.png",
+  "bytes": 10208,
+  "sha256": "793df901c0f6010f4d2d351a0148d32721f91dbbf1b80e067aedf3501127b198"
+ },
+ "sha1_origem": "c5285bd7a54c47d3d0dcd8635356af22376e15ec",
+ "bytes_origem": 10208,
+ "capturado_em": "2026-11-08T06:21:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Duas_Barras.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "c5285bd7a54c47d3d0dcd8635356af22376e15ec"
+ }
+}

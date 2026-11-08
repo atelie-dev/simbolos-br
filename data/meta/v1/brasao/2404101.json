@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2404101",
+ "uf": "RN",
+ "municipio": "Galinhos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bras%C3%A3o_Galinhos-RN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "O desembargador",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "033e4a70a53937c8a0dba1f2db15d15cc5f1528e2ddb14f9f1b351c051feafcb",
+ "rendicoes": {
+  "png": {
+   "bytes": 198840,
+   "sha256": "6e401a958b7f32ca78713dfe34bd718d75f415b7270576adeaa47d4c065b955c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42616,
+   "sha256": "7ab0a50198771ef64f9596053367749215a2417bbc2fa16cc024973aa2b9930b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2404101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2404101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2404101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2404101.jpg",
+  "bytes": 33082,
+  "sha256": "033e4a70a53937c8a0dba1f2db15d15cc5f1528e2ddb14f9f1b351c051feafcb"
+ },
+ "sha1_origem": "7d2c2711acd1eda97dd54f768b90a73de64bd255",
+ "bytes_origem": 33082,
+ "capturado_em": "2026-11-08T05:36:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Galinhos-RN.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "7d2c2711acd1eda97dd54f768b90a73de64bd255"
+ }
+}

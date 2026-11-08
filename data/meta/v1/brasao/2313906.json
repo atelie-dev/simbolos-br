@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2313906",
+ "uf": "CE",
+ "municipio": "Uruoca",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Brasao_de_uruoca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Uruoca",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9316c3d58d1b12cfab49de57adf7db99f5c1b23d6ddd09c09af5412b1f5da8e8",
+ "rendicoes": {
+  "png": {
+   "bytes": 168845,
+   "sha256": "19f368d5b03effd773637bf8199b9e603c9beaf128b2dc8d260e08b51fc6a114",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38923,
+   "sha256": "ec52bd4a2d34d1cebbe079510f5af078eb60f4675b5906348bd6c73e11cdb2b7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2313906.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2313906.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2313906.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2313906.jpg",
+  "bytes": 233605,
+  "sha256": "9316c3d58d1b12cfab49de57adf7db99f5c1b23d6ddd09c09af5412b1f5da8e8"
+ },
+ "sha1_origem": "48938c29c71a89c1271feebd4719a23d5257f026",
+ "bytes_origem": 233605,
+ "capturado_em": "2026-11-08T05:35:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_de_uruoca.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "48938c29c71a89c1271feebd4719a23d5257f026"
+ }
+}

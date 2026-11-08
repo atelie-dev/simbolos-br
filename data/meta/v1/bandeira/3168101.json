@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3168101",
+ "uf": "MG",
+ "municipio": "Tapira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bandeiratapiramg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Tapira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a4a11398ec46f289386620bb59539728e5999bf961409cf71871a4a19753a881",
+ "rendicoes": {
+  "png": {
+   "bytes": 88825,
+   "sha256": "b8235e3962405cfebe117457648634c3cda5eb2463c1c60516974aca0129a3b2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29536,
+   "sha256": "d8be889df5747a66ece693c0af64ad621a04c8c9b08b526a34d1cee86296ad8c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3168101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3168101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3168101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3168101.jpg",
+  "bytes": 68527,
+  "sha256": "a4a11398ec46f289386620bb59539728e5999bf961409cf71871a4a19753a881"
+ },
+ "sha1_origem": "f31fa4967f73a63cd1163e4e3a97dc5f5f5e6339",
+ "bytes_origem": 68527,
+ "capturado_em": "2026-11-08T06:17:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiratapiramg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "f31fa4967f73a63cd1163e4e3a97dc5f5f5e6339"
+ }
+}

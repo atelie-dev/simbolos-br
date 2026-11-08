@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3508900",
+ "uf": "SP",
+ "municipio": "Caiabu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bandeira_de_Caiabu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Caiabu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "66c76ee7d12a8eb86cf57fe6a0f2d9a7b428b27862c59e8bc8dcb02e4f75deb9",
+ "rendicoes": {
+  "png": {
+   "bytes": 206399,
+   "sha256": "a4a41f8d36f5c156393d408cbf3bd1086dc8716202c96f2d18ebb15e0c180932",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35566,
+   "sha256": "1a2f59495e4399f178570e9e5461cc908853c2e5e978a5affa402b1c2b0bd434",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3508900.jpg",
+  "bytes": 30686,
+  "sha256": "66c76ee7d12a8eb86cf57fe6a0f2d9a7b428b27862c59e8bc8dcb02e4f75deb9"
+ },
+ "sha1_origem": "98fe10b52327c175299759a242968f43bdb5cc6c",
+ "bytes_origem": 30686,
+ "capturado_em": "2026-11-08T06:25:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Caiabu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "98fe10b52327c175299759a242968f43bdb5cc6c"
+ }
+}

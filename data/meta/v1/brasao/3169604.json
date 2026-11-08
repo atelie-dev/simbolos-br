@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3169604",
+ "uf": "MG",
+ "municipio": "Tupaciguara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Brasaotupaciguara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Tupaciguara",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fb56948d62251e7c3b6157ed0968d863db8ba870dbc46e68f5ebeb01d812dc39",
+ "rendicoes": {
+  "png": {
+   "bytes": 121726,
+   "sha256": "0f7ae2ceb8dad5c61fdc72bbf7d2b66c2d12ed846ac061fef5dd377f00859209",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22396,
+   "sha256": "031589e47e00ca1beccee7b0c49cd85d918edf402614e8ed0ef55bc2f0e1696b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3169604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3169604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3169604.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3169604.jpg",
+  "bytes": 39299,
+  "sha256": "fb56948d62251e7c3b6157ed0968d863db8ba870dbc46e68f5ebeb01d812dc39"
+ },
+ "sha1_origem": "0d90e310cadcf5aae54e7d5e17d1739a599589a6",
+ "bytes_origem": 39299,
+ "capturado_em": "2026-11-08T06:17:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaotupaciguara.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "0d90e310cadcf5aae54e7d5e17d1739a599589a6"
+ }
+}

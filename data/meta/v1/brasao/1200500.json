@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1200500",
+ "uf": "AC",
+ "municipio": "Sena Madureira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bras%C3%A3o_de_Sena_Madureira_-_AC.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c4beb2d3c677a10183b81abb906d6c83621ed5fd750871d1b0b68b6dc0719ff6",
+ "rendicoes": {
+  "png": {
+   "bytes": 102170,
+   "sha256": "92522d992aa23288dfeb8063ac4935827f47a7600af329de67fa272599e1a4d6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38776,
+   "sha256": "bd34fd87bb03463812b368dfdaab7245105cf019c1980ddbd56a929fb4c1c03a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 39639,
+   "sha256": "c4beb2d3c677a10183b81abb906d6c83621ed5fd750871d1b0b68b6dc0719ff6"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200500.jpg"
+ },
+ "sha1_origem": "a6abfd61dd2a063d30deb6bf4c046a40a9527440",
+ "bytes_origem": 39639,
+ "capturado_em": "2026-11-08T02:30:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Sena_Madureira_-_AC.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "a6abfd61dd2a063d30deb6bf4c046a40a9527440"
+ }
+}

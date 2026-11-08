@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305108",
+ "uf": "RS",
+ "municipio": "Caxias do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bandeira_de_Caxias_do_Sul-RS%2C_Brasil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Marcos Elias de Oliveira Júnior",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "88c6a22386f19a8e188e0529ca88613cb8ce75fd6c35742248ad288cdb542ed3",
+ "rendicoes": {
+  "png": {
+   "bytes": 49084,
+   "sha256": "6374e72fbc508bd593d60d98cb8e6cf72cfb4eed2cf1194698ca6fe32778603a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12964,
+   "sha256": "fa6f51cad65ba68af1d37587ead0f300de9fdaaf00458def1c4add006cbc3797",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305108.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4305108.png",
+  "bytes": 15830,
+  "sha256": "88c6a22386f19a8e188e0529ca88613cb8ce75fd6c35742248ad288cdb542ed3"
+ },
+ "sha1_origem": "cb2a93d5a2e0cfb5a411bcfbc072a3a90f1ee4aa",
+ "bytes_origem": 15830,
+ "capturado_em": "2026-11-08T07:01:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Caxias_do_Sul-RS,_Brasil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "cb2a93d5a2e0cfb5a411bcfbc072a3a90f1ee4aa"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4100806",
+ "uf": "PR",
+ "municipio": "Alvorada do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Band_Alvorada_Sul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "da13dbe1608987c47489b45e20f8c6390d0569b964eae79e5107ca599ae8aa86",
+ "rendicoes": {
+  "png": {
+   "bytes": 11112,
+   "sha256": "09af524f009ac516f58066ff56989198705d00ccfc95bcb74bbd457f1f0540e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8931,
+   "sha256": "95b8e5703d1984ceb75c433ffe3a9924b6ed4be1d79b16e993768cb2906bdcfa",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4100806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4100806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4100806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4100806.jpg",
+  "bytes": 107680,
+  "sha256": "da13dbe1608987c47489b45e20f8c6390d0569b964eae79e5107ca599ae8aa86"
+ },
+ "sha1_origem": "0bc690c87b3417a493260f00ac583d997207885d",
+ "bytes_origem": 107680,
+ "capturado_em": "2026-11-08T06:41:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_Alvorada_Sul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "0bc690c87b3417a493260f00ac583d997207885d"
+ }
+}

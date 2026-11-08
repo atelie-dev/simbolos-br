@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4202156",
+ "uf": "SC",
+ "municipio": "Belmonte",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bras%C3%A3o_de_Belmonte_-_SC.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b89fec6f56e5c81847c47b842b5847e366e577d1301ec05dff2d5080ca3661fb",
+ "rendicoes": {
+  "png": {
+   "bytes": 151604,
+   "sha256": "c80b421c02b8b36623638ac10c794d795ad0685850604243018887bc79bb5a2f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54955,
+   "sha256": "847afa7f1f2af660c3463a5558c60b9f539b8d2732fb7a395ad1841f2975151f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 340123,
+   "sha256": "b89fec6f56e5c81847c47b842b5847e366e577d1301ec05dff2d5080ca3661fb"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202156.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202156.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202156.jpg"
+ },
+ "sha1_origem": "e6da0407db805937ab9193d10a66904a8776cdd8",
+ "bytes_origem": 340123,
+ "capturado_em": "2026-11-08T04:36:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Belmonte_-_SC.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "e6da0407db805937ab9193d10a66904a8776cdd8"
+ }
+}

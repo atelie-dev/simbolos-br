@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3101102",
+ "uf": "MG",
+ "municipio": "Aimorés",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bandeira_aimores.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Waldir de Freitas Caldas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "abebf6bc9bf8b86e61c39bd1e27bcaea209f5264275f2351a2a8a10cf0a73287",
+ "rendicoes": {
+  "png": {
+   "bytes": 9116,
+   "sha256": "3a4f792b0d0f666ef9e286f97ae1888fe652113df9b336eca1c01137e53c95e9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7107,
+   "sha256": "5b66a728973baefda01af8428406b22aac085d1935a5ca657da1a013dc954e63",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3101102.png",
+  "bytes": 7078,
+  "sha256": "abebf6bc9bf8b86e61c39bd1e27bcaea209f5264275f2351a2a8a10cf0a73287"
+ },
+ "sha1_origem": "f140311811f5fd0425d144073fa44a9777e8160c",
+ "bytes_origem": 7078,
+ "capturado_em": "2026-11-08T05:58:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_aimores.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "f140311811f5fd0425d144073fa44a9777e8160c"
+ }
+}

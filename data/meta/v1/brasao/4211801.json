@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211801",
+ "uf": "SC",
+ "municipio": "Ouro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Brasao_ouro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "60b766b7f2743196fad05a1957ee8bb2947f9562107df1ecd9793b6d58e7c68b",
+ "rendicoes": {
+  "png": {
+   "bytes": 24214,
+   "sha256": "0fe391fcad24f5b99ace4ebb4d9419876b05c070064f0615ae2890225e62ed07",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5422,
+   "sha256": "9ab1324d6351e7a2873429abc20e3f7822b8f69c49dc91d359d66ea7b84910ec",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4211801.png",
+  "bytes": 11441,
+  "sha256": "60b766b7f2743196fad05a1957ee8bb2947f9562107df1ecd9793b6d58e7c68b"
+ },
+ "sha1_origem": "9ba3707727108f48b17a0c61d9951f580f2281d0",
+ "bytes_origem": 11441,
+ "capturado_em": "2026-11-08T06:55:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_ouro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "9ba3707727108f48b17a0c61d9951f580f2281d0"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2204204",
+ "uf": "PI",
+ "municipio": "Francisco Santos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Blazono_de_Francisco_Santos.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "municipa prefektejo / prefeitura Francisco Santos",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "68b7de4865cff5ebc0191862da217e50f864b36831aa332ed8abb0efb57c41df",
+ "rendicoes": {
+  "png": {
+   "bytes": 190459,
+   "sha256": "4115943eb02ce879f95f924cc3d739c8d6883b8a7cb297696fc27d0ee5ddf8a2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60308,
+   "sha256": "f1ab4feb13d1d9c9da740e80a2d7c020f27f04ba51cf5d9d174e03119180e8f5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2204204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2204204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2204204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2204204.png",
+  "bytes": 657031,
+  "sha256": "68b7de4865cff5ebc0191862da217e50f864b36831aa332ed8abb0efb57c41df"
+ },
+ "sha1_origem": "9c7583aaee33650d396434cb22b214c5fe858a09",
+ "bytes_origem": 657031,
+ "capturado_em": "2026-11-08T05:30:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Blazono_de_Francisco_Santos.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "9c7583aaee33650d396434cb22b214c5fe858a09"
+ }
+}

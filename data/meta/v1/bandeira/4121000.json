@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4121000",
+ "uf": "PR",
+ "municipio": "Querência do Norte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bandeiraquerenciadonorte.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Querência do Norte",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "903048bff7d6ae0f0b2517f91a0a7adb441e6782425e22ca828cba3b547358ef",
+ "rendicoes": {
+  "png": {
+   "bytes": 59892,
+   "sha256": "8d061d2c2734ad44748d6310ce6be5bd1a4944cec8f74974f16308ef268287cf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22900,
+   "sha256": "47d2fa566304e10e064c74eb443399435c57a3672c22a7f40c6fb346b5e9c9b8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4121000.png",
+  "bytes": 176889,
+  "sha256": "903048bff7d6ae0f0b2517f91a0a7adb441e6782425e22ca828cba3b547358ef"
+ },
+ "sha1_origem": "0ee3f8071f58cebbf544988861ce53da0419a976",
+ "bytes_origem": 176889,
+ "capturado_em": "2026-11-08T06:48:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraquerenciadonorte.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "0ee3f8071f58cebbf544988861ce53da0419a976"
+ }
+}

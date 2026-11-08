@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3135100",
+ "uf": "MG",
+ "municipio": "Janaúba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Brasaojanauba.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Janaúba",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2385403e3c6b319a3d623d31955250c7c6dd89c614235003322f88990a9f2fe9",
+ "rendicoes": {
+  "png": {
+   "bytes": 21860,
+   "sha256": "2911cd33bc2f4a06152b4da0337a371193c01dde23e498d3c54a64f472ddb593",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7869,
+   "sha256": "a6b27168e0ed98048c28adab766844b0ce32725919ea2a0a6604dc0db7c8c644",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3135100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3135100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3135100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3135100.png",
+  "bytes": 18545,
+  "sha256": "2385403e3c6b319a3d623d31955250c7c6dd89c614235003322f88990a9f2fe9"
+ },
+ "sha1_origem": "8f2f72eff60ae4754ea8c3764577dd50c89f9c39",
+ "bytes_origem": 18545,
+ "capturado_em": "2026-11-08T06:09:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaojanauba.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "8f2f72eff60ae4754ea8c3764577dd50c89f9c39"
+ }
+}

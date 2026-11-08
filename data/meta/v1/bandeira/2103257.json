@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2103257",
+ "uf": "MA",
+ "municipio": "Cidelândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Bandeira_de_Cidel%C3%A2ndia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Allex Magnuson",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "8b75e4a0321aa33f0140ebfe617e3989a34d26de2bde4342cf0c9599b162238f",
+ "rendicoes": {
+  "png": {
+   "bytes": 32574,
+   "sha256": "dff29e1e4afd2a96de616d684f2c91045ecf134f8e90159fc148ece619700724",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18403,
+   "sha256": "e438a3b78da824d770a71023e909c1c8ac283138027f7ce8aca8d73ed4135659",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1488,
+   "sha256": "8b75e4a0321aa33f0140ebfe617e3989a34d26de2bde4342cf0c9599b162238f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2103257.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2103257.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2103257.jpg"
+ },
+ "sha1_origem": "303cc91a2a4d131b0c527c3234b8b6f6b1f24ede",
+ "bytes_origem": 1488,
+ "capturado_em": "2026-11-08T02:38:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cidelândia.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "303cc91a2a4d131b0c527c3234b8b6f6b1f24ede"
+ }
+}

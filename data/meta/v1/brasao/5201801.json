@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5201801",
+ "uf": "GO",
+ "municipio": "Aragoiânia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Bras%C3%A3o_de_Aragoi%C3%A2nia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Aragoiânia",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3f263d02f487b065ded954f06926ff4776f68fa61d8172f4b9b84f54d084c1ba",
+ "rendicoes": {
+  "png": {
+   "bytes": 15798,
+   "sha256": "83544f4be59d0ba5195e338810e73f6b4e45042a1f6de046a7c2008af1805f37",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6152,
+   "sha256": "dd852f2ee71fa56e7e1328fe15ea714f60218741709c05c6d68a398121be0770",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5201801.png",
+  "bytes": 11998,
+  "sha256": "3f263d02f487b065ded954f06926ff4776f68fa61d8172f4b9b84f54d084c1ba"
+ },
+ "sha1_origem": "d36a8e2ded68f5041a88d60b0d17972f82150051",
+ "bytes_origem": 11998,
+ "capturado_em": "2026-11-08T07:16:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Aragoiânia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "d36a8e2ded68f5041a88d60b0d17972f82150051"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2802700",
+ "uf": "SE",
+ "municipio": "Ilha das Flores",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bandeira_ilhadasflores.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ilha das Flores - SE",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d6e988de201b942a584a313dc9a6dea30767f7a262b08d8fe237f065a002455e",
+ "rendicoes": {
+  "png": {
+   "bytes": 26079,
+   "sha256": "8c76076fde8c0a031b02945b7c71803f2c569af91ea7560e06597b2323361334",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15306,
+   "sha256": "61732044ddab55ae401121149c5cced278a8d576a2ef1ffba0a8fd28cdfe7042",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 73659,
+   "sha256": "d6e988de201b942a584a313dc9a6dea30767f7a262b08d8fe237f065a002455e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2802700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2802700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2802700.jpg"
+ },
+ "sha1_origem": "76552f8e286f52d0ae352ef0e4842cec7cca2b4a",
+ "bytes_origem": 73659,
+ "capturado_em": "2026-11-08T03:12:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_ilhadasflores.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "76552f8e286f52d0ae352ef0e4842cec7cca2b4a"
+ }
+}

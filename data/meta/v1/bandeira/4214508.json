@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4214508",
+ "uf": "SC",
+ "municipio": "Rio do Campo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bandeira_RiodoCampo_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Rio do Campo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "79ff30dda1133606197993c65ce204d854a362ed4c368d773b47caf8a8f47c07",
+ "rendicoes": {
+  "png": {
+   "bytes": 35674,
+   "sha256": "1b6dd51d591cdf2602e2e264a4dcce22bb7f7cd1cdb2bd5c7ca44eaa8c974e26",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9797,
+   "sha256": "800865e89f0ead6890c4d39ea4f6c0ca7bfeb728a07381bd49ac6bd09de5e644",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4214508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4214508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4214508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4214508.jpg",
+  "bytes": 5600,
+  "sha256": "79ff30dda1133606197993c65ce204d854a362ed4c368d773b47caf8a8f47c07"
+ },
+ "sha1_origem": "a3a6aa00aab08fb4fd85956112eb048510982157",
+ "bytes_origem": 5600,
+ "capturado_em": "2026-11-08T06:56:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_RiodoCampo_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "a3a6aa00aab08fb4fd85956112eb048510982157"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5218391",
+ "uf": "GO",
+ "municipio": "Professor Jamil",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bandeira_Professor_Jamil-GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Professor Jamil, Goiás.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "32d471228f100349eed1a6330ed90a51abaef7b2fc857cdef6ac7e12fedceb5e",
+ "rendicoes": {
+  "png": {
+   "bytes": 48120,
+   "sha256": "5d217c9ada460b485815e4c675951b739366934a4f37e958e12f1c48222bb2e2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29805,
+   "sha256": "f68b76cbe5a2ed22308d5d2c8cdcdcddc710f53a36bef9301e406ed0a5ab4ad2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5218391.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5218391.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5218391.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5218391.jpg",
+  "bytes": 60458,
+  "sha256": "32d471228f100349eed1a6330ed90a51abaef7b2fc857cdef6ac7e12fedceb5e"
+ },
+ "sha1_origem": "ee96c415a739a4a867e06e711ba5fd7e8b59b43e",
+ "bytes_origem": 60458,
+ "capturado_em": "2026-11-08T07:20:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Professor_Jamil-GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "ee96c415a739a4a867e06e711ba5fd7e8b59b43e"
+ }
+}

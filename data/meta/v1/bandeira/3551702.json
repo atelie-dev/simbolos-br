@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3551702",
+ "uf": "SP",
+ "municipio": "Sertãozinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/BandeiraSertaozinhoSP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work; José Arnaldo de Azevedo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "4ddb7c76f2e6878e49fa713ad88cfa0381488ccd487d11fc358fecf1c4b387a1",
+ "rendicoes": {
+  "png": {
+   "bytes": 24281,
+   "sha256": "1afa88c77e3a686d9bb8b7280520948adfb034d486a89f56db2e9ca2b44e3057",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11113,
+   "sha256": "33b4fe67143c1cac35e2883120d534909b096d8c1ac0b94f39b959499d15edfe",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 174185,
+   "sha256": "4ddb7c76f2e6878e49fa713ad88cfa0381488ccd487d11fc358fecf1c4b387a1"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3551702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3551702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3551702.jpg"
+ },
+ "sha1_origem": "f6af1cec91848f0e1f0b4227dc0cc56c25f7f2f8",
+ "bytes_origem": 174185,
+ "capturado_em": "2026-11-08T04:17:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraSertaozinhoSP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "f6af1cec91848f0e1f0b4227dc0cc56c25f7f2f8"
+ }
+}

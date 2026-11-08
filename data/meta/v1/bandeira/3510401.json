@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3510401",
+ "uf": "SP",
+ "municipio": "Capivari",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bandeira_de_Capivari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ee4af313cc741c18dee6880f545cf4f5d1e9aade2e451477831019c623c3a1c4",
+ "rendicoes": {
+  "png": {
+   "bytes": 70853,
+   "sha256": "b15f570df5f2e368f1fd13dcf3ea9e8f6ada9b68bec34ac0d81caef318e6341b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19320,
+   "sha256": "910da2eda5a38d44f267870b86dac12695342e841fc6d16903c793eb5bcb4ecf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3510401.jpg",
+  "bytes": 51746,
+  "sha256": "ee4af313cc741c18dee6880f545cf4f5d1e9aade2e451477831019c623c3a1c4"
+ },
+ "sha1_origem": "2040ef8e9762f7ac8fea05eb17b3047acf86b36d",
+ "bytes_origem": 51746,
+ "capturado_em": "2026-11-08T06:25:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Capivari.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "2040ef8e9762f7ac8fea05eb17b3047acf86b36d"
+ }
+}

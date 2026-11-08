@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3501004",
+ "uf": "SP",
+ "municipio": "Altinópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bandeiraaltinopolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Altinópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c318169daa6ee5cf4c5830d34c3a97c93eff7b38a9adedf109b7fedd2baf7026",
+ "rendicoes": {
+  "png": {
+   "bytes": 57541,
+   "sha256": "b39128646412233f8b2352332fa01fd6211bb23b5b81a948e7a4279b3510a94d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23314,
+   "sha256": "2163ca23e5e712f6fcbff47c9428e9057f62db30918850549a21ca492c868756",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3501004.jpg",
+  "bytes": 60130,
+  "sha256": "c318169daa6ee5cf4c5830d34c3a97c93eff7b38a9adedf109b7fedd2baf7026"
+ },
+ "sha1_origem": "5121594cb00a4a65a16fcbad619c5d4b5126c319",
+ "bytes_origem": 60130,
+ "capturado_em": "2026-11-08T06:22:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraaltinopolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "5121594cb00a4a65a16fcbad619c5d4b5126c319"
+ }
+}

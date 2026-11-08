@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3517307",
+ "uf": "SP",
+ "municipio": "Guaimbê",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bandeira_Guaimb%C3%AA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5ea29633875bc7491bd0f5af5ad68060f436cf82a65c49d32411c4ae983644e2",
+ "rendicoes": {
+  "png": {
+   "bytes": 98007,
+   "sha256": "829e9ebdddf9ec196eb8019947ca38959f273e126f84c2e1b9330ad37da67196",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23594,
+   "sha256": "d76bd0170384807c7dcf012f3abe56027baaf6dbad1ed74922b21e9e7b53d84a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3517307.jpg",
+  "bytes": 35984,
+  "sha256": "5ea29633875bc7491bd0f5af5ad68060f436cf82a65c49d32411c4ae983644e2"
+ },
+ "sha1_origem": "def6a1ca467fa1be034e6012588032b03ccb5abf",
+ "bytes_origem": 35984,
+ "capturado_em": "2026-11-08T06:28:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Guaimbê.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "def6a1ca467fa1be034e6012588032b03ccb5abf"
+ }
+}

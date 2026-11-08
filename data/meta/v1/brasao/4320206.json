@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4320206",
+ "uf": "RS",
+ "municipio": "Seberi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Seberirsbras%C3%B5es.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Seberi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d34765b4d054114ec0856b83d3f2efaf67cc4b433443c8b97db762d489853cc8",
+ "rendicoes": {
+  "png": {
+   "bytes": 51886,
+   "sha256": "d154807e4c9ac4ae90977a8879e3aabfe6e27a4b54a0ec7fe9e3e2e3ac35ae70",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12538,
+   "sha256": "53e28f3abea9e0f82e37327ff6567eb66d1600ab03b053db5a387e55dd91feec",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320206.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4320206.jpg",
+  "bytes": 13394,
+  "sha256": "d34765b4d054114ec0856b83d3f2efaf67cc4b433443c8b97db762d489853cc8"
+ },
+ "sha1_origem": "f774dd857417eef0a9a864de420064f7ccd47713",
+ "bytes_origem": 13394,
+ "capturado_em": "2026-11-08T07:10:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Seberirsbrasões.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:37Z",
+  "estado": "igual",
+  "sha1_commons": "f774dd857417eef0a9a864de420064f7ccd47713"
+ }
+}

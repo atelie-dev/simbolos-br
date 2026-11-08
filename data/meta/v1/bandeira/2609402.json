@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2609402",
+ "uf": "PE",
+ "municipio": "Moreno",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bandeira_moreno.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bd8588f6742209ddee58641fa9ed861f2fd61984e242ccc6e844a8e1942451b8",
+ "rendicoes": {
+  "png": {
+   "bytes": 70561,
+   "sha256": "09d56708d21014f5a8ebda192434cf037f15daedf960fea9b7cc665e05f4650d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19978,
+   "sha256": "a6843d5f107080557a7d54efb16d857163990a0710209ec983d09b597c36baaa",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2609402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2609402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2609402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2609402.jpg",
+  "bytes": 14398,
+  "sha256": "bd8588f6742209ddee58641fa9ed861f2fd61984e242ccc6e844a8e1942451b8"
+ },
+ "sha1_origem": "21abbdbbd6dad9faebe5ab91c98b830b6f73ad7c",
+ "bytes_origem": 14398,
+ "capturado_em": "2026-11-08T05:45:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_moreno.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "21abbdbbd6dad9faebe5ab91c98b830b6f73ad7c"
+ }
+}

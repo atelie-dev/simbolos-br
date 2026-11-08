@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4202701",
+ "uf": "SC",
+ "municipio": "Botuverá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Brasao_botuvera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Botuverá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8e7c12f0be7783ca90a063f096ff07c8aeddb1d698d55678ce2132d59152b38f",
+ "rendicoes": {
+  "png": {
+   "bytes": 50447,
+   "sha256": "a2f64c3933f0206daf984078aa1129852210cfd3a56a4e40cb66272ee87645bb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13014,
+   "sha256": "9bc522cf2d2d0221fe2acd31d429086fb06902d07d5aaf93ac34f6171a31c45f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4202701.jpg",
+  "bytes": 41170,
+  "sha256": "8e7c12f0be7783ca90a063f096ff07c8aeddb1d698d55678ce2132d59152b38f"
+ },
+ "sha1_origem": "728b11fd2acf8267137651a481930dd8907f41e7",
+ "bytes_origem": 41170,
+ "capturado_em": "2026-11-08T06:52:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_botuvera.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:36Z",
+  "estado": "igual",
+  "sha1_commons": "728b11fd2acf8267137651a481930dd8907f41e7"
+ }
+}

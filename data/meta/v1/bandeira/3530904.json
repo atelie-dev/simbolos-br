@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3530904",
+ "uf": "SP",
+ "municipio": "Mombuca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bandeira_de_Mombuca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bab8b5f56ff057d822ff1a4058ca789d19ff91ed34e2e0539f3c36fb144774c3",
+ "rendicoes": {
+  "png": {
+   "bytes": 36687,
+   "sha256": "24e62af66d061fc070c4b76b07b8ac31cdffa747e84388adbc1d7cd64abe6f84",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13801,
+   "sha256": "b1bb5e2f1877014c8fece77ffc6fd3c2cf7499f377e431bfcda9fc2ebf9d3edd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3530904.jpg",
+  "bytes": 41897,
+  "sha256": "bab8b5f56ff057d822ff1a4058ca789d19ff91ed34e2e0539f3c36fb144774c3"
+ },
+ "sha1_origem": "6d5953d1675af5de9e515cc961acc55cef8bb21a",
+ "bytes_origem": 41897,
+ "capturado_em": "2026-11-08T06:32:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Mombuca.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "6d5953d1675af5de9e515cc961acc55cef8bb21a"
+ }
+}

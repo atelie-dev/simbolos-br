@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1300508",
+ "uf": "AM",
+ "municipio": "Barreirinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bandeira_de_Barreirinha%2C_AM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Marcio Benvenuto de Lima",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "11ce8cf623fe323067af8e3909cadf0acc41cb309eb19e142edff89c1c25f4de",
+ "rendicoes": {
+  "png": {
+   "bytes": 25937,
+   "sha256": "d18f87c69f3bbee5fbe0300588c190fb753fabf71fd7ed4af3c28d16759dbea2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13311,
+   "sha256": "453280dd07ba44f69cd3c7d3047e6ee4d15129647b7a4f738a42325b4523bf6a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1300508.jpg",
+  "bytes": 52460,
+  "sha256": "11ce8cf623fe323067af8e3909cadf0acc41cb309eb19e142edff89c1c25f4de"
+ },
+ "sha1_origem": "819ede9e68860b8afc81339953309870e68843f8",
+ "bytes_origem": 52460,
+ "capturado_em": "2026-11-08T05:22:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Barreirinha,_AM.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "819ede9e68860b8afc81339953309870e68843f8"
+ }
+}

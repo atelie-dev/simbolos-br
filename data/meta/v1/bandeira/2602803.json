@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2602803",
+ "uf": "PE",
+ "municipio": "Buíque",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bandeira_buique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Blésman Modesto de Albuquerque e Edmilson Soares",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f98d9175332b155d21fc6da5963587889d5bdeac7fd61e0817232ec8972f8b3f",
+ "rendicoes": {
+  "png": {
+   "bytes": 119223,
+   "sha256": "655227cad6caa962a6303a140a3bf5accb8f8e72b54438905fe3c1fe1ae70313",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24464,
+   "sha256": "1beee87054e17a2359a88077a944bd7e6ee1459302c81aaf1f3788c602d42a3e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2602803.jpg",
+  "bytes": 47132,
+  "sha256": "f98d9175332b155d21fc6da5963587889d5bdeac7fd61e0817232ec8972f8b3f"
+ },
+ "sha1_origem": "075217f82e0b8ff7caefd9aedd4fabb84b701f87",
+ "bytes_origem": 47132,
+ "capturado_em": "2026-11-08T05:44:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_buique.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "075217f82e0b8ff7caefd9aedd4fabb84b701f87"
+ }
+}

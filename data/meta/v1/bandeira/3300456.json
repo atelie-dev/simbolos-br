@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3300456",
+ "uf": "RJ",
+ "municipio": "Belford Roxo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_Belford_Roxo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Wanderson S. Dantas",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "595f8ea59d183dec8fa695d62d3b7bd56324aa8311c3471d924d9683aea0c0a7",
+ "rendicoes": {
+  "png": {
+   "bytes": 91344,
+   "sha256": "bd1141a4a8e39d0bb727be2969f0807a09736cab2dd27458797047a0f3086c7a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32644,
+   "sha256": "9dc0d7f38908c103c3c7f2e401fdb6dc2932fea8cd7bc0c0791c31c4dc05a500",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 108866,
+   "sha256": "595f8ea59d183dec8fa695d62d3b7bd56324aa8311c3471d924d9683aea0c0a7"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300456.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300456.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300456.jpg"
+ },
+ "sha1_origem": "fe1432c3962dfd833366bd56db5e5fc076563eb8",
+ "bytes_origem": 108866,
+ "capturado_em": "2026-11-08T03:53:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Belford_Roxo.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "fe1432c3962dfd833366bd56db5e5fc076563eb8"
+ }
+}

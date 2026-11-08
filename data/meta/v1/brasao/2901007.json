@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2901007",
+ "uf": "BA",
+ "municipio": "Amargosa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bras%C3%A3o_de_Amargosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Amargosa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b43b3218f17d179ffbc09c07843384a0f48aed6a309d2cab817561bb73d0b05c",
+ "rendicoes": {
+  "png": {
+   "bytes": 83527,
+   "sha256": "2c70a06cca2e268f64462076a8ce1604281567e635e2da362bdaedd75a352d29",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16057,
+   "sha256": "fb0d85f95b57b01d082ead40604ff793397ae00dac69739c90f11f05e81d7427",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2901007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2901007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2901007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2901007.jpg",
+  "bytes": 10098,
+  "sha256": "b43b3218f17d179ffbc09c07843384a0f48aed6a309d2cab817561bb73d0b05c"
+ },
+ "sha1_origem": "17747f3c0afe6b10d8d07981d0874e8fb61e1b75",
+ "bytes_origem": 10098,
+ "capturado_em": "2026-11-08T05:50:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Amargosa.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "17747f3c0afe6b10d8d07981d0874e8fb61e1b75"
+ }
+}

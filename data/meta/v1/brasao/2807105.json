@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2807105",
+ "uf": "SE",
+ "municipio": "Simão Dias",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bras%C3%A3o_sdias.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Simão Dias",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8ad2917b27a7f9ea824f8c89dee5288dc38de03990488dde40ad3bdec8353f28",
+ "rendicoes": {
+  "png": {
+   "bytes": 206404,
+   "sha256": "624117096b9ff2f15129aae6f507e513988ed46015b1a8cd8b4943c2eb4b4c87",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45157,
+   "sha256": "bb6fbc61ca23bae441fdaf525926efef1c156dd435caff63be3f4be265d57fda",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2807105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2807105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2807105.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2807105.png",
+  "bytes": 773759,
+  "sha256": "8ad2917b27a7f9ea824f8c89dee5288dc38de03990488dde40ad3bdec8353f28"
+ },
+ "sha1_origem": "ce6dfea006382f15966e1ae169d9c721d007f3e3",
+ "bytes_origem": 773759,
+ "capturado_em": "2026-11-08T05:50:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_sdias.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "ce6dfea006382f15966e1ae169d9c721d007f3e3"
+ }
+}

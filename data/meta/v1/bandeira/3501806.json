@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3501806",
+ "uf": "SP",
+ "municipio": "Américo de Campos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Bandeira_americo_de_campos.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Américo de Campos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9239aff62fa773a6a6fa1344d1859710dcabca4a1ccdb0e1ab8da12bba1b5aaf",
+ "rendicoes": {
+  "png": {
+   "bytes": 59383,
+   "sha256": "6259edd4513ef224cfa9e710f7655482ba5c42b83cdc59ab1f7a56f03ba0b78f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21496,
+   "sha256": "9e07427a71d79db23a295914939e3f77135ec23e0a6986c2bcd3319c832b982d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3501806.jpg",
+  "bytes": 74147,
+  "sha256": "9239aff62fa773a6a6fa1344d1859710dcabca4a1ccdb0e1ab8da12bba1b5aaf"
+ },
+ "sha1_origem": "fed99551f54d27a9d75d63999c27fc0b2e4272ed",
+ "bytes_origem": 74147,
+ "capturado_em": "2026-11-08T06:23:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_americo_de_campos.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "fed99551f54d27a9d75d63999c27fc0b2e4272ed"
+ }
+}

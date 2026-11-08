@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5107875",
+ "uf": "MT",
+ "municipio": "Sapezal",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bandeira_Sapezal_MT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Sapezal_MT",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "51120806bb9f60d699b4ee9b12e73c8ecf79701dbf69fe24de13ee2f0a177e7d",
+ "rendicoes": {
+  "png": {
+   "bytes": 23978,
+   "sha256": "91730bd26f87f0d375692c44f2238e9fdebe64970d85a5122821eda35fff938f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8300,
+   "sha256": "21b7d69b13ce2761611df76a9ab02a6edb0d5ee1bf2f20c840ae83acd92aef31",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107875.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107875.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107875.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5107875.jpg",
+  "bytes": 49591,
+  "sha256": "51120806bb9f60d699b4ee9b12e73c8ecf79701dbf69fe24de13ee2f0a177e7d"
+ },
+ "sha1_origem": "4880dceb026192cdafb7aea12d6fcb17f4272b85",
+ "bytes_origem": 49591,
+ "capturado_em": "2026-11-08T07:15:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Sapezal_MT.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "4880dceb026192cdafb7aea12d6fcb17f4272b85"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3303005",
+ "uf": "RJ",
+ "municipio": "Miracema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bandeira_de_Miracema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0ea673179b3d1bffb0e72048dee3f7d0fa34627f4e660f647070a63c23b7a1ab",
+ "rendicoes": {
+  "png": {
+   "bytes": 79580,
+   "sha256": "00a27afcfaae49208d9efa1048d44bcb193fc3c7d5ae3e6393f6579ea5b3925a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22296,
+   "sha256": "c86537cbca83a20fcb9a89741c7e5a0276f2253578cfd39d55e5f1181c9ff3f9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3303005.jpg",
+  "bytes": 19956,
+  "sha256": "0ea673179b3d1bffb0e72048dee3f7d0fa34627f4e660f647070a63c23b7a1ab"
+ },
+ "sha1_origem": "b14e9b6b8269a9f2cfb4f58e93640a406d8dab4f",
+ "bytes_origem": 19956,
+ "capturado_em": "2026-11-08T06:21:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Miracema.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "b14e9b6b8269a9f2cfb4f58e93640a406d8dab4f"
+ }
+}

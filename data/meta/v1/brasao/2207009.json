@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2207009",
+ "uf": "PI",
+ "municipio": "Oeiras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Blazono_de_Oeiras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "municipo / prefeitura (municipal prefecture)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6894aed0b28768d0fb8c4afaecf4525ccb9c0b64fb20f8bf8c7514a61852412a",
+ "rendicoes": {
+  "png": {
+   "bytes": 183958,
+   "sha256": "a5ad5f1ee2400c355ff16f40845f3ace889ec1e1e3b9443dc04dea152d0066d1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43952,
+   "sha256": "f86b7e924a9e5164cf672cc88154e9226f228a3bb6a2ee109091eb82b970191b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2207009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2207009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2207009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2207009.png",
+  "bytes": 296432,
+  "sha256": "6894aed0b28768d0fb8c4afaecf4525ccb9c0b64fb20f8bf8c7514a61852412a"
+ },
+ "sha1_origem": "382906bebcbb9350ebaf16790e7e4d2464df6b71",
+ "bytes_origem": 296432,
+ "capturado_em": "2026-11-08T05:30:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Blazono_de_Oeiras.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "382906bebcbb9350ebaf16790e7e4d2464df6b71"
+ }
+}

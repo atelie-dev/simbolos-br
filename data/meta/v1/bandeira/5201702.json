@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5201702",
+ "uf": "GO",
+ "municipio": "Aragarças",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Aragar%C3%A7as_Flag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Aragarças",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5fe5e2a1c624b02ad28629a204838b2ad88c24ca5362b3b45c7e50e68a47890a",
+ "rendicoes": {
+  "png": {
+   "bytes": 33665,
+   "sha256": "5eea74368f884278f383e72c1abbf3b713bd88c0acac6aa940a8e85daa6c0288",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11770,
+   "sha256": "f680be5f802f76875ed2ed74734fa249cc7328726f9042e2d00aab7d0ea848fd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5201702.jpg",
+  "bytes": 11385,
+  "sha256": "5fe5e2a1c624b02ad28629a204838b2ad88c24ca5362b3b45c7e50e68a47890a"
+ },
+ "sha1_origem": "bff1f247fb105fb3f7a850df23b39cc21c7cf4a3",
+ "bytes_origem": 11385,
+ "capturado_em": "2026-11-08T07:16:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Aragarças_Flag.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "bff1f247fb105fb3f7a850df23b39cc21c7cf4a3"
+ }
+}

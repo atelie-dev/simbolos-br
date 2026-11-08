@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1507151",
+ "uf": "PA",
+ "municipio": "São Domingos do Araguaia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Brasaosda.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3ace4b8442160405726baf0e21a1a343a0ec28a26b0001dfd9d9730e7b4605f7",
+ "rendicoes": {
+  "png": {
+   "bytes": 28895,
+   "sha256": "55ed8e83e553a18efa35ac0eb694872c97c7c5f5287bcae083c7920c71525be3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8043,
+   "sha256": "a2cbcc9b76cc6d58cfcce9facb6d39db6859ff652b727380ce96e649ea1e64c4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1507151.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1507151.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1507151.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1507151.png",
+  "bytes": 30045,
+  "sha256": "3ace4b8442160405726baf0e21a1a343a0ec28a26b0001dfd9d9730e7b4605f7"
+ },
+ "sha1_origem": "f97e80f66415279827538d776b2c7f9ab0d17001",
+ "bytes_origem": 30045,
+ "capturado_em": "2026-11-08T05:25:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaosda.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "f97e80f66415279827538d776b2c7f9ab0d17001"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3545209",
+ "uf": "SP",
+ "municipio": "Salto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bandeira_salto.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ea5d97049a70210abb9bac50ef4fa8de530a8572f4f2adf90afce5ac394a90e1",
+ "rendicoes": {
+  "png": {
+   "bytes": 38993,
+   "sha256": "047c6c36b6f49091e8d6552da63dc2b255317eb3ef2679166cd84c7af8e2bff0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18388,
+   "sha256": "76e26a27b0a8e59b16766b9007f57ac29e50796a504e637d535ff52f2e98260a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3545209.png",
+  "bytes": 16654,
+  "sha256": "ea5d97049a70210abb9bac50ef4fa8de530a8572f4f2adf90afce5ac394a90e1"
+ },
+ "sha1_origem": "640c7a736a7ef63ba25fd393fdb9abba5daf1431",
+ "bytes_origem": 16654,
+ "capturado_em": "2026-11-08T06:36:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_salto.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "640c7a736a7ef63ba25fd393fdb9abba5daf1431"
+ }
+}

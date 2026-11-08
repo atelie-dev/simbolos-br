@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532702",
+ "uf": "SP",
+ "municipio": "Nipoã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Nipo%C3%A3_-_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7ee300256bbc81ceb32952e4a635d2cb54d766c1142c0421d7dd5ca1efa2ddca",
+ "rendicoes": {
+  "png": {
+   "bytes": 61441,
+   "sha256": "09c09df110d7bedc1a6d046c4807dfa2b83bfc18a4fc748667fd6b2e4de37f68",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24475,
+   "sha256": "3fddb5578fa0afcdc24999ec7c85f6372c3d8e730176cf7bac33ca8ccb41aa43",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3532702.png",
+  "bytes": 51118,
+  "sha256": "7ee300256bbc81ceb32952e4a635d2cb54d766c1142c0421d7dd5ca1efa2ddca"
+ },
+ "sha1_origem": "988c49fe0f2620dfc062b6598974c12dc9bf18eb",
+ "bytes_origem": 51118,
+ "capturado_em": "2026-11-08T06:32:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Nipoã_-_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "988c49fe0f2620dfc062b6598974c12dc9bf18eb"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4107553",
+ "uf": "PR",
+ "municipio": "Farol",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bandeira-farolpr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Farol City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2884a16e24c69b2b7361bab21f19278f93f46a85caef0517da6ccc79d784a300",
+ "rendicoes": {
+  "png": {
+   "bytes": 102122,
+   "sha256": "9482be1c35ca93e9e015613465466022c8ee9f210e5dd8f52fb00fb09575f3a4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28255,
+   "sha256": "b2ea4fc8655452482d69e61a42592b11095f247def3bb765028814197306f502",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107553.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107553.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107553.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4107553.jpg",
+  "bytes": 201283,
+  "sha256": "2884a16e24c69b2b7361bab21f19278f93f46a85caef0517da6ccc79d784a300"
+ },
+ "sha1_origem": "2529f60a16e9ebb17ab11a8cff6ba5b0f104508a",
+ "bytes_origem": 201283,
+ "capturado_em": "2026-11-08T06:43:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-farolpr.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "2529f60a16e9ebb17ab11a8cff6ba5b0f104508a"
+ }
+}

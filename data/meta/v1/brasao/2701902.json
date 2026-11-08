@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2701902",
+ "uf": "AL",
+ "municipio": "Chã Preta",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Brasaochapreta.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Chã Preta",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1b678d81fa6e698e78ccd324b1361b634c4e9023c73310f737250c2a3a2114c3",
+ "rendicoes": {
+  "png": {
+   "bytes": 17425,
+   "sha256": "ec72a8a69c01102646a56131cc5d128d8aa858c390953f97588befbacb2de9c1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6819,
+   "sha256": "2668735180b97f042acbc03a77e5d43161bc2305d8549f51b7bb51dd78e914e7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2701902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2701902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2701902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2701902.png",
+  "bytes": 15259,
+  "sha256": "1b678d81fa6e698e78ccd324b1361b634c4e9023c73310f737250c2a3a2114c3"
+ },
+ "sha1_origem": "7fcf392971279ca0a25dddb9697f87de4678fe2b",
+ "bytes_origem": 15259,
+ "capturado_em": "2026-11-08T05:47:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaochapreta.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "7fcf392971279ca0a25dddb9697f87de4678fe2b"
+ }
+}

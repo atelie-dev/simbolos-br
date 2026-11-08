@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3139904",
+ "uf": "MG",
+ "municipio": "Maria da Fé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bandeirademariadafemg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Maria da Fé",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6c9227f9c9fd43e4872f3568daa8be7f2a98b512f89f8dd732c82ce45467e150",
+ "rendicoes": {
+  "png": {
+   "bytes": 22153,
+   "sha256": "b728e37fb93833c04d17998082568403a834eadedb6834a54bb4b7f8c0c8429f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13302,
+   "sha256": "4e99c0868250c454ff41fbb65643249cc05fce4f61f3b0f60ab8ab9a3d0a39c4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3139904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3139904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3139904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3139904.jpg",
+  "bytes": 1821276,
+  "sha256": "6c9227f9c9fd43e4872f3568daa8be7f2a98b512f89f8dd732c82ce45467e150"
+ },
+ "sha1_origem": "7cac116ddd358356aa2557ba8c4d3b577cb032df",
+ "bytes_origem": 1821276,
+ "capturado_em": "2026-11-08T06:11:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeirademariadafemg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "7cac116ddd358356aa2557ba8c4d3b577cb032df"
+ }
+}

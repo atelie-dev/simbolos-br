@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532504",
+ "uf": "SP",
+ "municipio": "Neves Paulista",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bras%C3%A3o_Neves_Paulista%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Neves Paulista/SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9d18ac1c8679be479ed600e41a47d4533c3b55b478502184b2d36e8b8d7d3fef",
+ "rendicoes": {
+  "png": {
+   "bytes": 217654,
+   "sha256": "5c6bdaca0fca96ab28c110a5341f94ff19d8e036e4f98ee6bc6b558338535589",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41825,
+   "sha256": "a20abeb54f516d9a303a9df306f8b85a01d942c919c4c29bec440ad5247fd532",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3532504.jpg",
+  "bytes": 57280,
+  "sha256": "9d18ac1c8679be479ed600e41a47d4533c3b55b478502184b2d36e8b8d7d3fef"
+ },
+ "sha1_origem": "e49bf555164b271621ae871d90fa7bb2954996c8",
+ "bytes_origem": 57280,
+ "capturado_em": "2026-11-08T06:32:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Neves_Paulista,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "e49bf555164b271621ae871d90fa7bb2954996c8"
+ }
+}

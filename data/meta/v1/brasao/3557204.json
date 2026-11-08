@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3557204",
+ "uf": "SP",
+ "municipio": "Chavantes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bras%C3%A3o_de_Chavantes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Muncipal de Chavantes - SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "684c7fef6e16fe49335b1193cbde0d02a5616c37568f745e0a0fd671a15e933a",
+ "rendicoes": {
+  "png": {
+   "bytes": 61179,
+   "sha256": "f0af90a6971be0c79f3345e96f01aa145a1a01441d67990aa39a9d4624fd11ba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12644,
+   "sha256": "374f97d33b91765e03eeba62984639adc6c6bf3266a41ce4e053aeb1d473a286",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3557204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3557204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3557204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3557204.jpg",
+  "bytes": 12963,
+  "sha256": "684c7fef6e16fe49335b1193cbde0d02a5616c37568f745e0a0fd671a15e933a"
+ },
+ "sha1_origem": "79f06bd8534c87234c6c2e0d8e69295d858f0cc4",
+ "bytes_origem": 12963,
+ "capturado_em": "2026-11-08T06:40:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Chavantes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "79f06bd8534c87234c6c2e0d8e69295d858f0cc4"
+ }
+}

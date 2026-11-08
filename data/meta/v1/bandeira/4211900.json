@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211900",
+ "uf": "SC",
+ "municipio": "Palhoça",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bandeira_Palho%C3%A7a.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9bc49c1d35ea84e416e147d28aca31cc4ddad35d53b165f3a09d9b0097f40f92",
+ "rendicoes": {
+  "png": {
+   "bytes": 6645,
+   "sha256": "99fef6c14b3bcb2f32c01afd3a3da669c0d6e727c61df920a5a0dd53e6b38e52",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5900,
+   "sha256": "65cf7c42d0005cf0289a9530f92e3691f3687baad9023bbd1b47db615e945f22",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4211900.png",
+  "bytes": 2639,
+  "sha256": "9bc49c1d35ea84e416e147d28aca31cc4ddad35d53b165f3a09d9b0097f40f92"
+ },
+ "sha1_origem": "8ec72f61385229dbb47bc6a8dd2a66c2e3f9e409",
+ "bytes_origem": 2639,
+ "capturado_em": "2026-11-08T06:55:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Palhoça.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "8ec72f61385229dbb47bc6a8dd2a66c2e3f9e409"
+ }
+}

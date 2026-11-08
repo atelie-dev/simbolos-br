@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4106571",
+ "uf": "PR",
+ "municipio": "Cruzeiro do Iguaçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bandeira_Cruzeiro_do_Igua%C3%A7u.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "47505b78373e61800e959e9b2f77195fc6702ec227161ca2f0ab14ed8787799c",
+ "rendicoes": {
+  "png": {
+   "bytes": 25305,
+   "sha256": "f69899fbe45332398544d4f1d207e09f60f2bff612d91d91cac178b2b44844af",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14100,
+   "sha256": "33a964fb57661cf27bd45952518ff117185085922fdd91f37fad297d39e1a331",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4106571.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4106571.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4106571.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4106571.gif",
+  "bytes": 9835,
+  "sha256": "47505b78373e61800e959e9b2f77195fc6702ec227161ca2f0ab14ed8787799c"
+ },
+ "sha1_origem": "1dfe43f834b31489b45716b62924df7862bf56a2",
+ "bytes_origem": 9835,
+ "capturado_em": "2026-11-08T06:43:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Cruzeiro_do_Iguaçu.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "1dfe43f834b31489b45716b62924df7862bf56a2"
+ }
+}

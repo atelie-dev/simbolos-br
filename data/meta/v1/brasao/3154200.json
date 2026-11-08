@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3154200",
+ "uf": "MG",
+ "municipio": "Resende Costa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Brasao-rc.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Michellsmr",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "abfbda0e8f9116332d2458d68021f5f0caa378432edf34c02ae9ce0f5cf273e1",
+ "rendicoes": {
+  "png": {
+   "bytes": 247462,
+   "sha256": "fbc48f39cc80518a25c0c2e951282cc4e543133a86a2b6cbc39b8bdf48f4684f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 76505,
+   "sha256": "33f1bd04ba6b802c8b760e83b6745d6627edc44c6d660dcef4c97df308c19458",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3154200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3154200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3154200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3154200.png",
+  "bytes": 103624,
+  "sha256": "abfbda0e8f9116332d2458d68021f5f0caa378432edf34c02ae9ce0f5cf273e1"
+ },
+ "sha1_origem": "c4821117830ec542db57877c76fe49eb81b6d1d6",
+ "bytes_origem": 103624,
+ "capturado_em": "2026-11-08T06:14:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-rc.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "c4821117830ec542db57877c76fe49eb81b6d1d6"
+ }
+}

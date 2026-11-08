@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2308377",
+ "uf": "CE",
+ "municipio": "Miraíma",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Bandeira_de_Mira%C3%ADma.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "749d206863e4431036d9ab63ef8c360d24f210ed6761bb7c1e98bdac0c81942d",
+ "rendicoes": {
+  "png": {
+   "bytes": 54118,
+   "sha256": "e3d47c83f110c9d8aa43128e6cc2151fd02073ab4dcd23f21bcc0684a3a78fb2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16440,
+   "sha256": "2abd691524f1aebaa27774e2a04a83a87ce94b734651e5d53d54474188386c55",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 259251,
+   "sha256": "749d206863e4431036d9ab63ef8c360d24f210ed6761bb7c1e98bdac0c81942d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2308377.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2308377.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2308377.jpg"
+ },
+ "sha1_origem": "93167f10828841c1891da6ac09f1d7526ad7c92a",
+ "bytes_origem": 259251,
+ "capturado_em": "2026-11-08T02:47:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Miraíma.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "93167f10828841c1891da6ac09f1d7526ad7c92a"
+ }
+}

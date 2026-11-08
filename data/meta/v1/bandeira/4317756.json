@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4317756",
+ "uf": "RS",
+ "municipio": "Santo Antônio do Planalto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bandeira_Santo_Antonio_do_Planalto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Santo Antônio do Planalto.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "24e426e625de9b8c85a379c3a9389dce1f845993b53e8be0e743d3de65ceb798",
+ "rendicoes": {
+  "png": {
+   "bytes": 12762,
+   "sha256": "6d3ea99f626dd99d0dadcf542db8e7ffaa2cae3cc09f9d1f851de46500561b97",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5782,
+   "sha256": "da247db7a46a632ec1aa8929e6446349c7e777dd8a62e96ffff5c3b46561d196",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317756.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317756.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317756.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4317756.jpg",
+  "bytes": 28744,
+  "sha256": "24e426e625de9b8c85a379c3a9389dce1f845993b53e8be0e743d3de65ceb798"
+ },
+ "sha1_origem": "360beec5515b38237bf3cd29d58ac3bbfef1ff41",
+ "bytes_origem": 28744,
+ "capturado_em": "2026-11-08T07:08:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Santo_Antonio_do_Planalto.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "360beec5515b38237bf3cd29d58ac3bbfef1ff41"
+ }
+}

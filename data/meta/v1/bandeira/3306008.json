@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3306008",
+ "uf": "RJ",
+ "municipio": "Três Rios",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Bandeira_de_Tr%C3%AAs_Rios.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b3c2bdd66e6184d463acbc39d71d03a1831b9f29c2947c80a279b821090af3c3",
+ "rendicoes": {
+  "png": {
+   "bytes": 71590,
+   "sha256": "98ed4d6e84bdbc0c6ecf4aa1db10b0f2d22017e9c762f4298d36d683fe0fb8ff",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25105,
+   "sha256": "96bcff62f86a0144c1872f823fff92600395c0146aed1026f84babef06438712",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3306008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3306008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3306008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3306008.jpg",
+  "bytes": 171597,
+  "sha256": "b3c2bdd66e6184d463acbc39d71d03a1831b9f29c2947c80a279b821090af3c3"
+ },
+ "sha1_origem": "74eccf9027b7084f027c6b511044162b3819f830",
+ "bytes_origem": 171597,
+ "capturado_em": "2026-11-08T06:22:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Três_Rios.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "74eccf9027b7084f027c6b511044162b3819f830"
+ }
+}

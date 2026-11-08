@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2200400",
+ "uf": "PI",
+ "municipio": "Altos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bras%C3%A3o_de_Altos.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Altos PI",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "04b16162c122fb7524aa3321b41dc35b79fe2af2c3c3cf8c2960d1f82186146d",
+ "rendicoes": {
+  "png": {
+   "bytes": 208134,
+   "sha256": "e338d271750c67ed8ae96afc28f826275f961915795b035957114ff725c2779c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34331,
+   "sha256": "b5b397e7e737bbde0216dd39dd9c0c7aa1b4d1accb3bc0553ed04c1490189422",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2200400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2200400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2200400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2200400.png",
+  "bytes": 1121731,
+  "sha256": "04b16162c122fb7524aa3321b41dc35b79fe2af2c3c3cf8c2960d1f82186146d"
+ },
+ "sha1_origem": "0642f84be764d3664977eb78dfdd02e701b2c544",
+ "bytes_origem": 1121731,
+ "capturado_em": "2026-11-08T05:29:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Altos.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "0642f84be764d3664977eb78dfdd02e701b2c544"
+ }
+}

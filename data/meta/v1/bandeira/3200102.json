@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3200102",
+ "uf": "ES",
+ "municipio": "Afonso Cláudio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_afonso_claudio.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Daniel de Souza Telles",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "cf8df77b2dc0499ff200b0e900e45a214d5ee0732c3e9aa1eb790bbbefecce26",
+ "rendicoes": {
+  "png": {
+   "bytes": 10441,
+   "sha256": "6b6909c858bed31513fad52dc268c2f69daff3345d5291561888416f07221dcf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11942,
+   "sha256": "dc6b5d9f3a7e60bacc9a5a3f2ef82fbde2d60bf573910c8147b4e69f5ee20430",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 33126,
+   "sha256": "cf8df77b2dc0499ff200b0e900e45a214d5ee0732c3e9aa1eb790bbbefecce26"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200102.jpg"
+ },
+ "sha1_origem": "15fa8afd2a956be97998286d6476f572566b5aec",
+ "bytes_origem": 33126,
+ "capturado_em": "2026-11-08T03:51:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_afonso_claudio.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "15fa8afd2a956be97998286d6476f572566b5aec"
+ }
+}

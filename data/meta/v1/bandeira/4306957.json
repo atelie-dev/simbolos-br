@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4306957",
+ "uf": "RS",
+ "municipio": "Entre Rios do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bandeira_Entre_Rios_do_Sul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Entre Rios do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "512f0b8ad41f4815007bdb66327ddc431402f1777c6c1d5c53ffc58e84df9476",
+ "rendicoes": {
+  "png": {
+   "bytes": 70897,
+   "sha256": "7fbf38dd489cb18730118b882d676679606e2f60b7993a28a425367fb936596c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14697,
+   "sha256": "49418b920b7d0c3f77bc7b2ba660d259e1059275f888b437575a7ec8b2927e96",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306957.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306957.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306957.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4306957.jpg",
+  "bytes": 11890,
+  "sha256": "512f0b8ad41f4815007bdb66327ddc431402f1777c6c1d5c53ffc58e84df9476"
+ },
+ "sha1_origem": "780669d390dc96cfe742909fd2585ecf584850ee",
+ "bytes_origem": 11890,
+ "capturado_em": "2026-11-08T07:02:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Entre_Rios_do_Sul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "780669d390dc96cfe742909fd2585ecf584850ee"
+ }
+}

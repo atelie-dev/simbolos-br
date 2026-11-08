@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2111300",
+ "uf": "MA",
+ "municipio": "São Luís",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bras%C3%A3o_de_S%C3%A3o_Lu%C3%ADs.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal prefecture of São Luís",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d8b9840750498d90fa5c93d103bd9e9cef6f72c55f6cf57ac85491ba0ac4105a",
+ "rendicoes": {
+  "png": {
+   "bytes": 95295,
+   "sha256": "9f04a6f731b00bdaf7eb53d2469e75ffb191015811f3bd78334c3b5c5dc22cb0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40983,
+   "sha256": "c524c83ef5a8683b7d6334b814206e9625994741811923e4c46555174ffcfc0a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 251054,
+   "sha256": "d8b9840750498d90fa5c93d103bd9e9cef6f72c55f6cf57ac85491ba0ac4105a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2111300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2111300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2111300.jpg"
+ },
+ "sha1_origem": "90acd0e31d3e2107fa753fb8ae5350eca0d69331",
+ "bytes_origem": 251054,
+ "capturado_em": "2026-11-08T02:40:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_Luís.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:13Z",
+  "estado": "igual",
+  "sha1_commons": "90acd0e31d3e2107fa753fb8ae5350eca0d69331"
+ }
+}

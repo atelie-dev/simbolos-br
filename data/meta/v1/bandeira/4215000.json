@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4215000",
+ "uf": "SC",
+ "municipio": "Rio Negrinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/BandeiraRioNegrinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "JMAugustin",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5d3674d9d1f07a451acad02c26532b096998723c0283b649efc95a8eb4e20254",
+ "rendicoes": {
+  "png": {
+   "bytes": 13115,
+   "sha256": "a286f65a1a96e283294ad1bc1cd16ff94f73684cc3dafc52aa57642629866f82",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6021,
+   "sha256": "33f000744a2bc80474edcb6e80efd645095ae46ff28954c41f9b22d0df9e0931",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4215000.jpg",
+  "bytes": 3327,
+  "sha256": "5d3674d9d1f07a451acad02c26532b096998723c0283b649efc95a8eb4e20254"
+ },
+ "sha1_origem": "65c00c516861554e13755a61b457ecbb1389d8e5",
+ "bytes_origem": 3327,
+ "capturado_em": "2026-11-08T06:56:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraRioNegrinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "65c00c516861554e13755a61b457ecbb1389d8e5"
+ }
+}

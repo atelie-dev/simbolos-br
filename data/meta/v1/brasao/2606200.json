@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2606200",
+ "uf": "PE",
+ "municipio": "Goiana",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Brasao_de_Goiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Própria prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "987ca47cabb835213d86973c98954d0b459403ee0afcd025983cf0d45ea3df2c",
+ "rendicoes": {
+  "png": {
+   "bytes": 242476,
+   "sha256": "f6bb37763ea3e2e48a76f8c633913ab984f9b43634992a122c8d7be2322bfbcb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 50780,
+   "sha256": "e5026af2653ca31cd0621b00d9e59b24fbefb90e88027dd66e091dd462a76c3f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2606200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2606200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2606200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2606200.jpg",
+  "bytes": 127334,
+  "sha256": "987ca47cabb835213d86973c98954d0b459403ee0afcd025983cf0d45ea3df2c"
+ },
+ "sha1_origem": "3850e3e42c08af8f72e35b4dc252ad54d386d149",
+ "bytes_origem": 127334,
+ "capturado_em": "2026-11-08T05:45:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_de_Goiana.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "3850e3e42c08af8f72e35b4dc252ad54d386d149"
+ }
+}

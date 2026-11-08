@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3130101",
+ "uf": "MG",
+ "municipio": "Igarapé",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bras%C3%A3o_Igarap%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Osvanda",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c839f9161794b501ba018e0496261cf76baab02ada971950274aad1a5e0f88f3",
+ "rendicoes": {
+  "png": {
+   "bytes": 52453,
+   "sha256": "5c34a35c290ea8f29ab51c6769fc1afe2867e2bb7fc64ebdf123a1884602361c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14339,
+   "sha256": "687a6ef9970ff343043b8e4d942c267a2395d64d906e682d5f9e62cd86028d43",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3130101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3130101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3130101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3130101.jpg",
+  "bytes": 15179,
+  "sha256": "c839f9161794b501ba018e0496261cf76baab02ada971950274aad1a5e0f88f3"
+ },
+ "sha1_origem": "59ab826c9ffcb235a329260753355ed83e084bbd",
+ "bytes_origem": 15179,
+ "capturado_em": "2026-11-08T06:08:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Igarapé.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "59ab826c9ffcb235a329260753355ed83e084bbd"
+ }
+}

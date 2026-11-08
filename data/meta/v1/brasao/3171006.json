@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3171006",
+ "uf": "MG",
+ "municipio": "Vazante",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Brasaovazante.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Vazante",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3c5710888967216685a5e9b9e125548d61533a99842fe42930a07501218609bd",
+ "rendicoes": {
+  "png": {
+   "bytes": 129184,
+   "sha256": "5724aa6edb55a99e0f2ae9af58ea40cb161ae49ff357f169f745dedfa7c30f32",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20242,
+   "sha256": "e0fa5affda97da7fda404a31f5271ed2b1394cb81b7e890a65c6a48d6db6dedf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3171006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3171006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3171006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3171006.jpg",
+  "bytes": 28496,
+  "sha256": "3c5710888967216685a5e9b9e125548d61533a99842fe42930a07501218609bd"
+ },
+ "sha1_origem": "e4db0fa7abb3aa6c06383944d01c55be98045898",
+ "bytes_origem": 28496,
+ "capturado_em": "2026-11-08T06:18:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaovazante.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "e4db0fa7abb3aa6c06383944d01c55be98045898"
+ }
+}

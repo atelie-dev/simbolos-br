@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1300706",
+ "uf": "AM",
+ "municipio": "Boca do Acre",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bandeira_de_Boca_do_Acre%2C_AM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "659a0623e0bf9eea7a6bc21d6d5c57dba1536f6798166cd0c5a207b39854d0b9",
+ "rendicoes": {
+  "png": {
+   "bytes": 42536,
+   "sha256": "05a02e0159b3c012ebb6c41819e4f6f8019b401aa1d6dc0ad7c02d92b895ce17",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12821,
+   "sha256": "cfd7fcb0d4989ac698720941fbca8537ec19ff8c531121d81e472b34f92328d9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1300706.jpg",
+  "bytes": 15303,
+  "sha256": "659a0623e0bf9eea7a6bc21d6d5c57dba1536f6798166cd0c5a207b39854d0b9"
+ },
+ "sha1_origem": "f0501485700188febac3e0c41a3c11b8d86619ca",
+ "bytes_origem": 15303,
+ "capturado_em": "2026-11-08T05:22:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Boca_do_Acre,_AM.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "f0501485700188febac3e0c41a3c11b8d86619ca"
+ }
+}

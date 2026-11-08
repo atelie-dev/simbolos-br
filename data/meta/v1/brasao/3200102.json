@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3200102",
+ "uf": "ES",
+ "municipio": "Afonso Cláudio",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bras%C3%A3o_de_Afonso_Cl%C3%A1udio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Afonso Clláudio",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "777accc12ca9c7306015f6f43bdcecb67f59874cfb21308da799ec980713c8fa",
+ "rendicoes": {
+  "png": {
+   "bytes": 191344,
+   "sha256": "11299684c58a7396b8a08d6ad2716db7fb9217b969637a92da48134ea269e43e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58051,
+   "sha256": "a61a126445441b70b6eefabf4a6a6a2246c413becf5d62f9e8c4b13571d020c3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3200102.png",
+  "bytes": 294207,
+  "sha256": "777accc12ca9c7306015f6f43bdcecb67f59874cfb21308da799ec980713c8fa"
+ },
+ "sha1_origem": "b8eac18c6a871fa7314e75580bfafe34fba405f9",
+ "bytes_origem": 294207,
+ "capturado_em": "2026-11-08T06:18:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Afonso_Cláudio.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "b8eac18c6a871fa7314e75580bfafe34fba405f9"
+ }
+}

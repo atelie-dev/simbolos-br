@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4302584",
+ "uf": "RS",
+ "municipio": "Bozano",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bandeira_Bozano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b2261907e7c4a27f4435fc3786a29b7aff223cb4c2b8842e6c4d2a2eb22fa481",
+ "rendicoes": {
+  "png": {
+   "bytes": 62108,
+   "sha256": "21895042f31e428bb40424e18de393ac7ec8cfa263ed7be87e52698bd00d8dfd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17133,
+   "sha256": "1918aba5e9caf8ee10ef5573d68fedcf6d7ff5cb8191d596c34eb5f051fea093",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302584.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302584.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302584.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4302584.jpg",
+  "bytes": 28066,
+  "sha256": "b2261907e7c4a27f4435fc3786a29b7aff223cb4c2b8842e6c4d2a2eb22fa481"
+ },
+ "sha1_origem": "f206b7d15edf4d489b7431c969e0de1c0da30eac",
+ "bytes_origem": 28066,
+ "capturado_em": "2026-11-08T06:59:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Bozano.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "f206b7d15edf4d489b7431c969e0de1c0da30eac"
+ }
+}

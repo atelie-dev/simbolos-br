@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5003207",
+ "uf": "MS",
+ "municipio": "Corumbá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bras%C3%A3o_de_Armas_de_Corumb%C3%A1%2C_MS.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Corumbá",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b22b3d73f7b9752e29b5f2b1dc400aa783820eb0f1696ef7832e8d591f6bfc57",
+ "rendicoes": {
+  "png": {
+   "bytes": 146578,
+   "sha256": "388fcdd02e3f695aa4823c3325ad46c92b95c43affe8d495d4b120e5b7d07098",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 51950,
+   "sha256": "03025d88da16384534375e8e73469638fdc6ca1c8240f356e7792507188d803f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 398299,
+   "sha256": "b22b3d73f7b9752e29b5f2b1dc400aa783820eb0f1696ef7832e8d591f6bfc57"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5003207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5003207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5003207.jpg"
+ },
+ "sha1_origem": "1392f9c4b91c871273cf4243fcae02c9eb2bf5a5",
+ "bytes_origem": 398299,
+ "capturado_em": "2026-11-08T05:03:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Armas_de_Corumbá,_MS.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "1392f9c4b91c871273cf4243fcae02c9eb2bf5a5"
+ }
+}

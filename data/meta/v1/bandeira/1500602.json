@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1500602",
+ "uf": "PA",
+ "municipio": "Altamira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bandeira_de_Altamira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d2c69573570f36811d3cfbfd2364eda22e1e5e8e44ecdf4e7002b054292ae771",
+ "rendicoes": {
+  "png": {
+   "bytes": 163495,
+   "sha256": "bd8c64b98d17379e097432a98d2a2a1a9d3407d9b3426ba1a7c0f91e4ed8c903",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26971,
+   "sha256": "f51fa03cd4d0792fd9831f2db5fb6dbd20c431b06eaf4ccd154ac46666d853ba",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1500602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1500602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1500602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1500602.jpg",
+  "bytes": 101394,
+  "sha256": "d2c69573570f36811d3cfbfd2364eda22e1e5e8e44ecdf4e7002b054292ae771"
+ },
+ "sha1_origem": "b9bfc51915037e908c82dddb0a992cb9ee2d0777",
+ "bytes_origem": 101394,
+ "capturado_em": "2026-11-08T05:23:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Altamira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "b9bfc51915037e908c82dddb0a992cb9ee2d0777"
+ }
+}

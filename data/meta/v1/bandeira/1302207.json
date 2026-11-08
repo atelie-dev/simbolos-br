@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1302207",
+ "uf": "AM",
+ "municipio": "Juruá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Juru%C3%A1_-_bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Juruá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5b18113b940b50729e4610a1ed8ca1ad228dad06567afd9f6993050813f117b2",
+ "rendicoes": {
+  "png": {
+   "bytes": 34236,
+   "sha256": "93bfbfde66906cfaeb58485809f7a3559dc272f0da2fbd6f4b651f5b5af7e64e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6758,
+   "sha256": "abfdc0d284e80404a2e91b7d49e138a99cf9c8eb1c7d21779783664a5080b67b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1302207.jpg",
+  "bytes": 32216,
+  "sha256": "5b18113b940b50729e4610a1ed8ca1ad228dad06567afd9f6993050813f117b2"
+ },
+ "sha1_origem": "b1355c1d29fdf2654024678dcd24a8de77cd439c",
+ "bytes_origem": 32216,
+ "capturado_em": "2026-11-08T05:23:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Juruá_-_bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "b1355c1d29fdf2654024678dcd24a8de77cd439c"
+ }
+}

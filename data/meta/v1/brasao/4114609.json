@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4114609",
+ "uf": "PR",
+ "municipio": "Marechal Cândido Rondon",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bras%C3%A3o_de_Marechal_C%C3%A2ndido_Rondon%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a4900cd4ca1c32300cc2187a0b0550b8bbec1eeb0bc651863b2e2566c408dec0",
+ "rendicoes": {
+  "png": {
+   "bytes": 224411,
+   "sha256": "4bae3831bcb366c5ec30f18cbd6f4e9368057ac96c5c569a5da05885ae57d7c6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62905,
+   "sha256": "f54984f1b91c65b9224eaee6db4e88eca71f48745d2649178a49f5bf9ecc1a8d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4114609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4114609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4114609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4114609.jpg",
+  "bytes": 608707,
+  "sha256": "a4900cd4ca1c32300cc2187a0b0550b8bbec1eeb0bc651863b2e2566c408dec0"
+ },
+ "sha1_origem": "0101d73a43de0fd82c16c80df481b0d5027c512d",
+ "bytes_origem": 608707,
+ "capturado_em": "2026-11-08T06:46:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Marechal_Cândido_Rondon,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:06Z",
+  "estado": "igual",
+  "sha1_commons": "0101d73a43de0fd82c16c80df481b0d5027c512d"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3505500",
+ "uf": "SP",
+ "municipio": "Barretos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bandeira_Barretos_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7f82205dce6296c6d43d02a2051d72b4d4da0dd81cd691a7ad4d267d731314bf",
+ "rendicoes": {
+  "png": {
+   "bytes": 10868,
+   "sha256": "ef9eff90d913fd44d05bd7396ec4ed617cf3a81029751f91a14e5f3b21930d30",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12301,
+   "sha256": "4ddc8e9559410577e4632bdc1560594bb6b51f5d6f0a53c62da9698c295f1789",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2860,
+   "sha256": "7f82205dce6296c6d43d02a2051d72b4d4da0dd81cd691a7ad4d267d731314bf"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505500.jpg"
+ },
+ "sha1_origem": "f9096cae3759b9a6488ed176a705e752ac923d1c",
+ "bytes_origem": 2860,
+ "capturado_em": "2026-11-08T03:58:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Barretos_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "f9096cae3759b9a6488ed176a705e752ac923d1c"
+ }
+}

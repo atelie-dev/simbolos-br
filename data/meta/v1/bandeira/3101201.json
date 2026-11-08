@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3101201",
+ "uf": "MG",
+ "municipio": "Aiuruoca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bandeira_de_Aiuruoca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Brazilian government",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d2aad7793723c1df7a167b19bc4b984949357c590e3907b4fbd61f53adb59872",
+ "rendicoes": {
+  "png": {
+   "bytes": 157909,
+   "sha256": "4f3665a37fdaeb675a5f52cda54362c00fdb1e212aaac1a955bfdb03537078c8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32107,
+   "sha256": "a0da5fd2e4f7310c5ad7e88f4d2669d0cc0a4a6bbb3ff897cf029995d5809ada",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3101201.jpg",
+  "bytes": 46811,
+  "sha256": "d2aad7793723c1df7a167b19bc4b984949357c590e3907b4fbd61f53adb59872"
+ },
+ "sha1_origem": "4469199da374777d63485ab518df60f71e6a3a52",
+ "bytes_origem": 46811,
+ "capturado_em": "2026-11-08T05:58:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Aiuruoca.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "4469199da374777d63485ab518df60f71e6a3a52"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4213153",
+ "uf": "SC",
+ "municipio": "Planalto Alegre",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bandeira_do_munic%C3%ADpio_de_Planalto_Alegre_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Planalto Alegre (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ef4979e60813bebff30955ec30663dd94d375fc9e861ef3b97512237f3df31fc",
+ "rendicoes": {
+  "png": {
+   "bytes": 50520,
+   "sha256": "e4d5f437f64b3156b205f5851da0b60ebaff2994c045bba64b89bf9746a27614",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21264,
+   "sha256": "fb8495f7fe4f9b9fefee828b1fccb94dd4a137e0971be5caea0c804c56f6ba3d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4213153.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4213153.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4213153.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4213153.png",
+  "bytes": 2544263,
+  "sha256": "ef4979e60813bebff30955ec30663dd94d375fc9e861ef3b97512237f3df31fc"
+ },
+ "sha1_origem": "c0d94337ca13a75cf9d8c8f1e1414df302edb5eb",
+ "bytes_origem": 2544263,
+ "capturado_em": "2026-11-08T06:55:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Planalto_Alegre_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "c0d94337ca13a75cf9d8c8f1e1414df302edb5eb"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4306601",
+ "uf": "RS",
+ "municipio": "Dom Pedrito",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandeira_de_Dom_Pedrito_RS.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "cc7f29abe56da12886e6d2755d5cdc7080e83a919755faedace4e49a95518074",
+ "rendicoes": {
+  "png": {
+   "bytes": 24104,
+   "sha256": "b4167f0630cbbe4ec03cd892c46011976efce32954d696bcb28363e181ebb4f1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13062,
+   "sha256": "d4297e77c38b7db2a353a8008a9a8acb0ab8e2ee941ed9e2c221a2b077b962e1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 111615,
+   "sha256": "cc7f29abe56da12886e6d2755d5cdc7080e83a919755faedace4e49a95518074"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306601.jpg"
+ },
+ "sha1_origem": "fdddd90367750dc7107902720dae756aa92441e1",
+ "bytes_origem": 111615,
+ "capturado_em": "2026-11-08T04:51:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Dom_Pedrito_RS.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "fdddd90367750dc7107902720dae756aa92441e1"
+ }
+}

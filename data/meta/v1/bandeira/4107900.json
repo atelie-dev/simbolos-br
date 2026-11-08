@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4107900",
+ "uf": "PR",
+ "municipio": "Floresta",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bandeira_de_Floresta%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura de Floresta",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3fbc2582180715ddb87c5a2823ef7924e04b9c98dd90d176fb3a976b34a0e875",
+ "rendicoes": {
+  "png": {
+   "bytes": 94702,
+   "sha256": "2916c4fbc317fb9c4a75a6ac7fc10eac7bbfcdf181dd1e3ff404f701b259c70b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23473,
+   "sha256": "78ae865371ae9829a0d42e33a9808f677840b28fdbd6bf95930fc79d6d9765ad",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4107900.jpg",
+  "bytes": 33902,
+  "sha256": "3fbc2582180715ddb87c5a2823ef7924e04b9c98dd90d176fb3a976b34a0e875"
+ },
+ "sha1_origem": "fb64af502c6ee2e74556754a06ea57671b1ba54f",
+ "bytes_origem": 33902,
+ "capturado_em": "2026-11-08T06:43:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Floresta,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "fb64af502c6ee2e74556754a06ea57671b1ba54f"
+ }
+}

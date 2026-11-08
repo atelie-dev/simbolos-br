@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2918100",
+ "uf": "BA",
+ "municipio": "Jeremoabo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bandeira_de_Jarinu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Vitor.castillo (talk)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3a149844d334ffd82529fa208e5fad591043c2fe026d588730d1645b36684dc0",
+ "rendicoes": {
+  "png": {
+   "bytes": 257132,
+   "sha256": "2596a12d7cb6d65b853d04272f1ffadf517588f4fcefc42a0d292b0ed0a9c2d4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28900,
+   "sha256": "d8c8ec5fa9c4515986c13ef98c15d3761143571c618767104643a26ca2367c3b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2918100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2918100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2918100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2918100.jpg",
+  "bytes": 144749,
+  "sha256": "3a149844d334ffd82529fa208e5fad591043c2fe026d588730d1645b36684dc0"
+ },
+ "sha1_origem": "097d2bacbabd65895fffa3de65896c9fcdb71883",
+ "bytes_origem": 144749,
+ "capturado_em": "2026-11-08T05:54:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Jarinu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "097d2bacbabd65895fffa3de65896c9fcdb71883"
+ }
+}

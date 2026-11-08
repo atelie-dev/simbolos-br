@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2905107",
+ "uf": "BA",
+ "municipio": "Caém",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bras%C3%A3o_de_Ca%C3%A9m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6ffdb6858c41556da8bd805a39602c618eac24ad0c685ebadcb4ff1e5b8059fe",
+ "rendicoes": {
+  "png": {
+   "bytes": 111349,
+   "sha256": "06ca36f41468772fd8c01dd84e16eeca724f0df1cf8baf6015cfe0bae84f9864",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21256,
+   "sha256": "1dac459eae777b5b096dbac608aee4ad6039fd5deda5b4dc12b2c96e53bfe98c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2905107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2905107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2905107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2905107.jpg",
+  "bytes": 24076,
+  "sha256": "6ffdb6858c41556da8bd805a39602c618eac24ad0c685ebadcb4ff1e5b8059fe"
+ },
+ "sha1_origem": "bf94f111f1db480ac77a965d5f2cf1929dec7e7b",
+ "bytes_origem": 24076,
+ "capturado_em": "2026-11-08T05:51:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Caém.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "bf94f111f1db480ac77a965d5f2cf1929dec7e7b"
+ }
+}

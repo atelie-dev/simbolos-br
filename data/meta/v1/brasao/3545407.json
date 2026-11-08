@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3545407",
+ "uf": "SP",
+ "municipio": "Salto Grande",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bras%C3%A3o_Salto_Grande.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "70caa3856b411e3a2e5eafbdb39e7425fde2c1448c16cc19adf69f93bf04c380",
+ "rendicoes": {
+  "png": {
+   "bytes": 306307,
+   "sha256": "0a8da7ea345e026c4c9020fe8aea6675e88e50344a545a4740a74b49a419a7cd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67542,
+   "sha256": "5199fb15ad18b705fbf8ef03eb648a721f626d908a6b1b1390007e81ffea792b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3545407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3545407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3545407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3545407.jpg",
+  "bytes": 136554,
+  "sha256": "70caa3856b411e3a2e5eafbdb39e7425fde2c1448c16cc19adf69f93bf04c380"
+ },
+ "sha1_origem": "c21c1eac5eee253e29d6304161ab1cfe946b4c5d",
+ "bytes_origem": 136554,
+ "capturado_em": "2026-11-08T06:37:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Salto_Grande.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "c21c1eac5eee253e29d6304161ab1cfe946b4c5d"
+ }
+}

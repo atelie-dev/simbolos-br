@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4313409",
+ "uf": "RS",
+ "municipio": "Novo Hamburgo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bandeira_de_Novo_Hamburgo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Novo Hamburgo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "f1c750dfd77900709d7660441746529361578e574b72e5726d6a78fc7a8eb9d5",
+ "rendicoes": {
+  "png": {
+   "bytes": 42156,
+   "sha256": "a1b2b184e7ea011181b0036bb92357ece1f79859fdba2bff6d04356fdceab933",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19052,
+   "sha256": "49b10fd4cbaf16c2b2cd995bb41c0b332fb53598e4e67f9f4c8a383b84f737f2",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 169140,
+   "sha256": "f1c750dfd77900709d7660441746529361578e574b72e5726d6a78fc7a8eb9d5"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313409.jpg"
+ },
+ "sha1_origem": "d564ff729439118c5c327e253e9e9da6a8301bc2",
+ "bytes_origem": 169140,
+ "capturado_em": "2026-11-08T04:55:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Novo_Hamburgo.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "d564ff729439118c5c327e253e9e9da6a8301bc2"
+ }
+}

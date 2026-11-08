@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3549300",
+ "uf": "SP",
+ "municipio": "São João do Pau d'Alho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bandeira-paudalho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de São João do Pau-d'Alho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c67d5f30497a8cbd023726d20b0144f245a063fb187ebec7a71dfeffaed90bde",
+ "rendicoes": {
+  "png": {
+   "bytes": 92235,
+   "sha256": "35f89c3a0db0afb938b0f92c09c06f7c17733d9e22edf048b545a84c3b782437",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26883,
+   "sha256": "43f428e54532ad905437e5dd676daf18aa8ee43d3ad43569abb0b210849dd921",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3549300.jpg",
+  "bytes": 154284,
+  "sha256": "c67d5f30497a8cbd023726d20b0144f245a063fb187ebec7a71dfeffaed90bde"
+ },
+ "sha1_origem": "c791a8ce82b3a7d5b6335b3787058794eaa2aed3",
+ "bytes_origem": 154284,
+ "capturado_em": "2026-11-08T06:38:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-paudalho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "c791a8ce82b3a7d5b6335b3787058794eaa2aed3"
+ }
+}

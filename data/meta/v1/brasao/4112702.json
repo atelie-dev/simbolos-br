@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4112702",
+ "uf": "PR",
+ "municipio": "Jataizinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Brasaojataizinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Sjulianof",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8a59062545f8bd9268d2d01c111afef03b3f65de67dc88c55f6b8282efbc29db",
+ "rendicoes": {
+  "png": {
+   "bytes": 312332,
+   "sha256": "8b0c821b81556d01e7feed3ba4a88ec24eb4cdd35a7c48091ddcfb229ea294ad",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 50241,
+   "sha256": "92b7993f6ace305daf4f047efa442b9176665d8b12d8cb39c0ecc300646a0889",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4112702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4112702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4112702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4112702.jpg",
+  "bytes": 58538,
+  "sha256": "8a59062545f8bd9268d2d01c111afef03b3f65de67dc88c55f6b8282efbc29db"
+ },
+ "sha1_origem": "6358cb353c261af2e3ed7492abb39a0470cd2863",
+ "bytes_origem": 58538,
+ "capturado_em": "2026-11-08T06:45:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaojataizinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "6358cb353c261af2e3ed7492abb39a0470cd2863"
+ }
+}

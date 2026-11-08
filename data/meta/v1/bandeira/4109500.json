@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4109500",
+ "uf": "PR",
+ "municipio": "Guaraqueçaba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bandeira_Guaraque%C3%A7aba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e3aef1d46031c8f4f8da95ae73477257ebdac14bd57abfc3ed72461a9dcedac1",
+ "rendicoes": {
+  "png": {
+   "bytes": 72074,
+   "sha256": "aee1b148a2fef730e8f3bb06400cd7e0e51b683850477d6711f657f1dcd6392a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15013,
+   "sha256": "45ca54ace0a667b571019240492cbf5f72cab019680711dad26fa50b3c97e004",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4109500.jpg",
+  "bytes": 6458,
+  "sha256": "e3aef1d46031c8f4f8da95ae73477257ebdac14bd57abfc3ed72461a9dcedac1"
+ },
+ "sha1_origem": "b1cb1d20964e24ada1d650944026dc929b040b38",
+ "bytes_origem": 6458,
+ "capturado_em": "2026-11-08T06:44:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Guaraqueçaba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "b1cb1d20964e24ada1d650944026dc929b040b38"
+ }
+}

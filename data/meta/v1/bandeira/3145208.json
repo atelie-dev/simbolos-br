@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3145208",
+ "uf": "MG",
+ "municipio": "Nova Serrana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/BandeiraNovaSerrana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura de Nova Serrana",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "504b86c2d852a94de0ce1df23f0325b1787bc805609ab0eaf130c301556ae8b8",
+ "rendicoes": {
+  "png": {
+   "bytes": 16297,
+   "sha256": "801339489ddd0f8b66193aad01da5f8c64a6e0939d402c04fff1ad9afdd36e7c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11167,
+   "sha256": "7e4b9793286987ea21a1416d5aa3cdd159ea8f8ba80a4307db2aceac723b1be9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3145208.jpg",
+  "bytes": 1163003,
+  "sha256": "504b86c2d852a94de0ce1df23f0325b1787bc805609ab0eaf130c301556ae8b8"
+ },
+ "sha1_origem": "d90cdcc6b8a2bdfa7d6c8187d386f3dff66a22b4",
+ "bytes_origem": 1163003,
+ "capturado_em": "2026-11-08T06:12:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraNovaSerrana.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:41Z",
+  "estado": "igual",
+  "sha1_commons": "d90cdcc6b8a2bdfa7d6c8187d386f3dff66a22b4"
+ }
+}

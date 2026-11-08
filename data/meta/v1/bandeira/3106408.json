@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3106408",
+ "uf": "MG",
+ "municipio": "Belo Vale",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Bandeira_de_Belo_Vale%2C_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Breno Booz Carvalho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c2e826f4ce2abdc3f15d12d586764b01ebd6fa6b25e6c050510ca24efa388d50",
+ "rendicoes": {
+  "png": {
+   "bytes": 61116,
+   "sha256": "f2ea1eec3d05d02666b189c2b68febcd379ab2b0a07c194bdb4c143fdb5a779b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24496,
+   "sha256": "d23a4a945c020d7f2801ce008915f29f141837e820cfda0cc59069cc5e8553fe",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3106408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3106408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3106408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3106408.jpg",
+  "bytes": 94775,
+  "sha256": "c2e826f4ce2abdc3f15d12d586764b01ebd6fa6b25e6c050510ca24efa388d50"
+ },
+ "sha1_origem": "f6272a3261970eaeafcd37cdb8729eb79cb01316",
+ "bytes_origem": 94775,
+ "capturado_em": "2026-11-08T06:00:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Belo_Vale,_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "f6272a3261970eaeafcd37cdb8729eb79cb01316"
+ }
+}

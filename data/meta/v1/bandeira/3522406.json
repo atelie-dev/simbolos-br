@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3522406",
+ "uf": "SP",
+ "municipio": "Itapeva",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bandeira_de_Itapeva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Itapeva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "81bd75664a6e9f52e75136c8279167ee498815cd491864f4d8bacd1b52c414d6",
+ "rendicoes": {
+  "png": {
+   "bytes": 74221,
+   "sha256": "78cbfb5a9075981ce4ecfc9cd5224c85044a48aa5eecf495694387567c034824",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18880,
+   "sha256": "b6bf5a8348fd8b5d9c2e7dc0b6442768bac02eb764b9d8388cb1ccd031e0988c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522406.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3522406.jpg",
+  "bytes": 92270,
+  "sha256": "81bd75664a6e9f52e75136c8279167ee498815cd491864f4d8bacd1b52c414d6"
+ },
+ "sha1_origem": "67dbf230dcffdd6f1c462e53c9365d7db08e5c58",
+ "bytes_origem": 92270,
+ "capturado_em": "2026-11-08T06:29:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itapeva.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "67dbf230dcffdd6f1c462e53c9365d7db08e5c58"
+ }
+}

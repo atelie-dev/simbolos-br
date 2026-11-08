@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3105608",
+ "uf": "MG",
+ "municipio": "Barbacena",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Brasaobarbacena.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Barbacena",
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "d6ef7adb291b43e02225e50c9ed1859a9dad6df031b803f391273b381020eb3c",
+ "rendicoes": {
+  "png": {
+   "bytes": 28585,
+   "sha256": "3efd8c6c41b7987a37ff6e97c1ba9d0f8bed5efa4dd51fe06917461e155c7cf3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17430,
+   "sha256": "d67dac0f9c76a42c6c690121a3467437ed4e48b2f74f95f1b13b46c1110780bc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3105608.gif",
+  "bytes": 9434,
+  "sha256": "d6ef7adb291b43e02225e50c9ed1859a9dad6df031b803f391273b381020eb3c"
+ },
+ "sha1_origem": "b6a68fccc65506cbd321d889c087a586eeb941a1",
+ "bytes_origem": 9434,
+ "capturado_em": "2026-11-08T06:00:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaobarbacena.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "b6a68fccc65506cbd321d889c087a586eeb941a1"
+ }
+}

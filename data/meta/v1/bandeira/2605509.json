@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2605509",
+ "uf": "PE",
+ "municipio": "Ferreiros",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bandeira_de_Ferreiros_-_PE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ferreiros",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "835cda07b96b1493bc58b2c4e46a8ce89c6d76161e09cc5a4d4fdd1d7082da45",
+ "rendicoes": {
+  "png": {
+   "bytes": 169101,
+   "sha256": "4125f1d3a131ff4cd955554dec781ebfa327ac5b37106ff896e19158c7ea837f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32036,
+   "sha256": "04099bc0175c4a410583aebe1f40efdc133fae313168a07e6693d00820f6ebce",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2605509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2605509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2605509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2605509.jpg",
+  "bytes": 26753,
+  "sha256": "835cda07b96b1493bc58b2c4e46a8ce89c6d76161e09cc5a4d4fdd1d7082da45"
+ },
+ "sha1_origem": "fde8058e5b9aa52e28bd76a9047f7e4fc0feb960",
+ "bytes_origem": 26753,
+ "capturado_em": "2026-11-08T05:45:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ferreiros_-_PE.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "fde8058e5b9aa52e28bd76a9047f7e4fc0feb960"
+ }
+}

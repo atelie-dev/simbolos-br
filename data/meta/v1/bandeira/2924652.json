@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2924652",
+ "uf": "BA",
+ "municipio": "Pintadas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Ban_mul_pintadas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "No machine-readable author provided. Pintadense~commonswiki assumed (based on copyright claims).",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "40d321ae7e6e65a5d74010102e0fb4fb855b08cad30bfeb3f5629a87144e0aaa",
+ "rendicoes": {
+  "png": {
+   "bytes": 32470,
+   "sha256": "43953b17f7ae329ca762b7e79c3c11ff842695b099c41db30a4669d319d2568a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16160,
+   "sha256": "790c1c4557c8fdce5e88ce0922610a060a776c494345c44990a723dd0571c25f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2924652.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2924652.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2924652.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2924652.jpg",
+  "bytes": 29573,
+  "sha256": "40d321ae7e6e65a5d74010102e0fb4fb855b08cad30bfeb3f5629a87144e0aaa"
+ },
+ "sha1_origem": "773e141e1a7ea567825d69dcd259a1457e2546ff",
+ "bytes_origem": 29573,
+ "capturado_em": "2026-11-08T05:56:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ban_mul_pintadas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "773e141e1a7ea567825d69dcd259a1457e2546ff"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3158300",
+ "uf": "MG",
+ "municipio": "Santana da Vargem",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bandeira_de_Santana_da_Vargem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Santana da Vargem",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5a075a1e7ae201624e6cf574a64aed79cfa760e13ecb4be75a0aa57c76d2e718",
+ "rendicoes": {
+  "png": {
+   "bytes": 84462,
+   "sha256": "38e43be3e5c11d258f93ca3bdac946a89ebd27974f204d365dd2602c2d00acb2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28033,
+   "sha256": "62ddd2a4d0cf1144993265c2cbbe56445e1c94e09bcc5d4168a43f5500748e6d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3158300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3158300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3158300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3158300.jpg",
+  "bytes": 62615,
+  "sha256": "5a075a1e7ae201624e6cf574a64aed79cfa760e13ecb4be75a0aa57c76d2e718"
+ },
+ "sha1_origem": "660d0797b86af0dd32a7ee5b71538a5ac1df3bf9",
+ "bytes_origem": 62615,
+ "capturado_em": "2026-11-08T06:15:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santana_da_Vargem.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "660d0797b86af0dd32a7ee5b71538a5ac1df3bf9"
+ }
+}

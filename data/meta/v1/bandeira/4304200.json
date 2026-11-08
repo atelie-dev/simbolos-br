@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4304200",
+ "uf": "RS",
+ "municipio": "Candelária",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bandeira_Candel%C3%A1ria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Candelária",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "574b93fac262ea1328c1f8edbd4a1a693f94b0e913cd72fd5c11d3cb114f78bf",
+ "rendicoes": {
+  "png": {
+   "bytes": 41795,
+   "sha256": "ab5f328732a1b21aadce6caa7e4d6fdefa1165819772b19833028e08c808183b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19101,
+   "sha256": "a3d1ea4082eb8f9536c19b5edf2891d7e4093ea1c9d588bfddf0c5e4c5252fb6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4304200.jpg",
+  "bytes": 651685,
+  "sha256": "574b93fac262ea1328c1f8edbd4a1a693f94b0e913cd72fd5c11d3cb114f78bf"
+ },
+ "sha1_origem": "fa19e1fdcd1ad81906e43d40e1f47226e9b4e726",
+ "bytes_origem": 651685,
+ "capturado_em": "2026-11-08T07:00:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Candelária.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "fa19e1fdcd1ad81906e43d40e1f47226e9b4e726"
+ }
+}

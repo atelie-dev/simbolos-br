@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2901908",
+ "uf": "BA",
+ "municipio": "Aporá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bandeira_de_Apor%C3%A1-BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "69faf023ee95c3ac33a37c099e88372983329f607206e408b45dbb66bd38d7c6",
+ "rendicoes": {
+  "png": {
+   "bytes": 108516,
+   "sha256": "600b23bec89c124d2b301c41ed6e5aaa0ca651a6dee8454602e00364e42d0154",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28729,
+   "sha256": "7b40ff1550299035ec18b8087e675dfba86351d1cbba93c53f7596046c432fba",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2901908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2901908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2901908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2901908.jpg",
+  "bytes": 58214,
+  "sha256": "69faf023ee95c3ac33a37c099e88372983329f607206e408b45dbb66bd38d7c6"
+ },
+ "sha1_origem": "ff3e91cb2935b070ea4950da564d918fedc4c36f",
+ "bytes_origem": 58214,
+ "capturado_em": "2026-11-08T05:50:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Aporá-BA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "ff3e91cb2935b070ea4950da564d918fedc4c36f"
+ }
+}

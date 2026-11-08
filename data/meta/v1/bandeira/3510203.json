@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3510203",
+ "uf": "SP",
+ "municipio": "Capão Bonito",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bandeira_de_Cap%C3%A3o_Bonito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a7ce8b962c3430081f6e2f1156e6ca5ded95ff27f669d631f2199eddd790c3db",
+ "rendicoes": {
+  "png": {
+   "bytes": 24285,
+   "sha256": "deb5c9b101e8de1e45b06005b32485b9500befda1dfbcda33d39126512ee5f2a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8807,
+   "sha256": "a12b11077b0892e2a93268f6808f4c0a42a5e766788e30facb3f90ede7ec17e0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3510203.jpg",
+  "bytes": 19252,
+  "sha256": "a7ce8b962c3430081f6e2f1156e6ca5ded95ff27f669d631f2199eddd790c3db"
+ },
+ "sha1_origem": "d2956898b6345aee30d0c0d01d3919b707246116",
+ "bytes_origem": 19252,
+ "capturado_em": "2026-11-08T06:25:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Capão_Bonito.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "d2956898b6345aee30d0c0d01d3919b707246116"
+ }
+}

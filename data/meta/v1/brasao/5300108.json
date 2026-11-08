@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5300108",
+ "uf": "DF",
+ "municipio": "Brasília",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bras%C3%A3o_do_Distrito_Federal_%28Brasil%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "tonyjeff",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "972532b38f7391a2d75da0e49b6c8da197343640988571f3b4ec199c8b49c69a",
+ "rendicoes": {
+  "png": {
+   "bytes": 38787,
+   "sha256": "f5dd9485d16c39273309f7d06bc502f2ddc2dd6ec84ee26d76244dfa46c8bb1a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20680,
+   "sha256": "4d15093ded0beb1b1aed731f9bc7ef2e54e7e158a93e9a2f04bd6818be56286b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 41198,
+   "sha256": "972532b38f7391a2d75da0e49b6c8da197343640988571f3b4ec199c8b49c69a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5300108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5300108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5300108.jpg"
+ },
+ "sha1_origem": "1d7a5a447a405756e2e2a5b0ee80b346b34577b5",
+ "bytes_origem": 41198,
+ "capturado_em": "2026-11-08T05:14:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_Distrito_Federal_(Brasil).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:15Z",
+  "estado": "igual",
+  "sha1_commons": "1d7a5a447a405756e2e2a5b0ee80b346b34577b5"
+ }
+}

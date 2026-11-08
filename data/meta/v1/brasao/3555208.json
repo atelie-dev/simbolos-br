@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3555208",
+ "uf": "SP",
+ "municipio": "Turiúba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bras%C3%A3o_Turiuba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4f0223ebac96a274759bb3ba2ee20fb3ac8b4e19356d3e9c395563152c2fa46d",
+ "rendicoes": {
+  "png": {
+   "bytes": 52796,
+   "sha256": "fd88a61c47531e585441e8ce5f0849863f1caff71fe9d81983f5bed00e65f262",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12047,
+   "sha256": "ad8457acf7e1d049af442845931c2a8d0075dcf2bfe1568bbbc4083726203f8e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3555208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3555208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3555208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3555208.jpg",
+  "bytes": 12451,
+  "sha256": "4f0223ebac96a274759bb3ba2ee20fb3ac8b4e19356d3e9c395563152c2fa46d"
+ },
+ "sha1_origem": "0dbaa1e8480c6bd1ee61705175280cb0d37486dd",
+ "bytes_origem": 12451,
+ "capturado_em": "2026-11-08T06:40:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Turiuba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "0dbaa1e8480c6bd1ee61705175280cb0d37486dd"
+ }
+}

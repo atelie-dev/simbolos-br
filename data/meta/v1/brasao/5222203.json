@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5222203",
+ "uf": "GO",
+ "municipio": "Vila Boa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bras%C3%A3o_Vila_Boa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Município de Vila Boa",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "37cf3b327462c407805243169e9e641ec06bf51d4ef250cc7d4dfbdb9ce32312",
+ "rendicoes": {
+  "png": {
+   "bytes": 126559,
+   "sha256": "3e71999587266da3e1f65269f5fe865734b8ad6e9af4c792c4286be983074cff",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42551,
+   "sha256": "9a56d673f1eae875d93fe73a977dc575d967d7fce73390008a51726bdafcaea3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5222203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5222203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5222203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5222203.png",
+  "bytes": 227930,
+  "sha256": "37cf3b327462c407805243169e9e641ec06bf51d4ef250cc7d4dfbdb9ce32312"
+ },
+ "sha1_origem": "2ef346676c33f7247916dc702da6018dc4207646",
+ "bytes_origem": 227930,
+ "capturado_em": "2026-11-08T07:21:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Vila_Boa.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "2ef346676c33f7247916dc702da6018dc4207646"
+ }
+}

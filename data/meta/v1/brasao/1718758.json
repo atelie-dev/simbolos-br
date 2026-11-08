@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1718758",
+ "uf": "TO",
+ "municipio": "Rio Sono",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Brasao-riosono.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMRS",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "93cb75f93169ebf42155badef6120886244af736b43b72b24cdc44cd14e08941",
+ "rendicoes": {
+  "png": {
+   "bytes": 73520,
+   "sha256": "1222d9038aefd0837c6beaa4edd1603842de308061ece9e80e547dad2448f839",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29983,
+   "sha256": "3236f43e64ae2add8fda95f24b2f9cca77c9bfc16dae5a8fed9cdbabd9ea9809",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1718758.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1718758.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1718758.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1718758.jpg",
+  "bytes": 81107,
+  "sha256": "93cb75f93169ebf42155badef6120886244af736b43b72b24cdc44cd14e08941"
+ },
+ "sha1_origem": "ff98ebe9824fc1ba879409888178eecbf5b609f4",
+ "bytes_origem": 81107,
+ "capturado_em": "2026-11-08T05:26:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-riosono.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "ff98ebe9824fc1ba879409888178eecbf5b609f4"
+ }
+}

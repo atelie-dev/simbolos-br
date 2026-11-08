@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3529401",
+ "uf": "SP",
+ "municipio": "Mauá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bandeira_Maua_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Srfortes",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "17a01a14634053d11698c4f719edc5707ec898642ab5dd7d92ecfa32dc3adccb",
+ "rendicoes": {
+  "png": {
+   "bytes": 30443,
+   "sha256": "ba790138cca025a8b051d307e9ac1dffb9ed006f23650803ae16d9781d908260",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13920,
+   "sha256": "3c04b91f2f26f9d7e097305a139575f8a0c1b2501a27f22ec8b772452e006fdd",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1785674,
+   "sha256": "17a01a14634053d11698c4f719edc5707ec898642ab5dd7d92ecfa32dc3adccb"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529401.jpg"
+ },
+ "sha1_origem": "c970341d65da776e02633dffe61793c6f82646ca",
+ "bytes_origem": 1785674,
+ "capturado_em": "2026-11-08T04:08:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Maua_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "c970341d65da776e02633dffe61793c6f82646ca"
+ }
+}

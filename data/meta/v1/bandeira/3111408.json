@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3111408",
+ "uf": "MG",
+ "municipio": "Campo Florido",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Campo_Floridomgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Campo Florido",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "acd77f1cbdefee16cf3092bdb6a557af15fd3a3f1df375f1b11b80dd0314b0c5",
+ "rendicoes": {
+  "png": {
+   "bytes": 9997,
+   "sha256": "bb1eed5cfa0c4a5231931cb4dd63f033778ea1b110853c71a3dedb3cb15aae2b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7701,
+   "sha256": "306b477b9768f00740a264094082e6df74737f8d7e15382f8b3267df8d6a39d5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3111408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3111408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3111408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3111408.png",
+  "bytes": 7719,
+  "sha256": "acd77f1cbdefee16cf3092bdb6a557af15fd3a3f1df375f1b11b80dd0314b0c5"
+ },
+ "sha1_origem": "1b9a62df8e4a04477e48a7ac46c48a73949a87a4",
+ "bytes_origem": 7719,
+ "capturado_em": "2026-11-08T06:02:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Campo_Floridomgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "1b9a62df8e4a04477e48a7ac46c48a73949a87a4"
+ }
+}

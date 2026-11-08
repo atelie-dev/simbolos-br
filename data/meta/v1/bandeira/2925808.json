@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2925808",
+ "uf": "BA",
+ "municipio": "Queimadas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bandeira_de_Queimadas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Queimadas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8a3b9cdf37d2ad820cfecf6de4a1b28fb6d2af1c9b4c987d089c36eff8f12258",
+ "rendicoes": {
+  "png": {
+   "bytes": 79742,
+   "sha256": "2b82e920a40ada7503f04d1feea2b43b419ad1a9dddc839d41626b7afc7154c5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21532,
+   "sha256": "e2ef5727ccf91b789a9c6a250f377a040cafc74b5306f7316a516e03f660c207",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2925808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2925808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2925808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2925808.jpg",
+  "bytes": 55172,
+  "sha256": "8a3b9cdf37d2ad820cfecf6de4a1b28fb6d2af1c9b4c987d089c36eff8f12258"
+ },
+ "sha1_origem": "97214c6c07bffb77a58dc9472a2bcd1c9515148a",
+ "bytes_origem": 55172,
+ "capturado_em": "2026-11-08T05:56:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Queimadas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "97214c6c07bffb77a58dc9472a2bcd1c9515148a"
+ }
+}

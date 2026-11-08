@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4308508",
+ "uf": "RS",
+ "municipio": "Frederico Westphalen",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Fw_bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Wetb",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "275263b74cd10a8675881343bf15c9d50fe7eea054e74ace9122a14fe7cd0496",
+ "rendicoes": {
+  "png": {
+   "bytes": 79985,
+   "sha256": "00250dac9bff33fecf76a69641823bc9c1737b2f149359886ee0ff818e9b3584",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27416,
+   "sha256": "3896d87b19318bd407b641c96cde8ad6413a1960204646344292d7a692dd834c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4308508.jpg",
+  "bytes": 299228,
+  "sha256": "275263b74cd10a8675881343bf15c9d50fe7eea054e74ace9122a14fe7cd0496"
+ },
+ "sha1_origem": "43313d4ecc1bbfe02b3dc6131531411c67cd3230",
+ "bytes_origem": 299228,
+ "capturado_em": "2026-11-08T07:03:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Fw_bandeira.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:30Z",
+  "estado": "igual",
+  "sha1_commons": "43313d4ecc1bbfe02b3dc6131531411c67cd3230"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3111705",
+ "uf": "MG",
+ "municipio": "Canaã",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Cana%C3%A3mgbrasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Canaã",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fda6c647cd261c0403619f358abd35b95f05f23650fce3d80628ccca8dea7862",
+ "rendicoes": {
+  "png": {
+   "bytes": 29928,
+   "sha256": "b373c8fb5fe9b49ea24bfec34a85fcd14770b42f6dcd4b00f4b2bd2f56774276",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8541,
+   "sha256": "511df238c80f46ca1c56852089be77c63555d7204c67ba0c43667100b816403e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111705.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3111705.png",
+  "bytes": 24425,
+  "sha256": "fda6c647cd261c0403619f358abd35b95f05f23650fce3d80628ccca8dea7862"
+ },
+ "sha1_origem": "d009ee1b6c281166de73334532d07db019fbc297",
+ "bytes_origem": 24425,
+ "capturado_em": "2026-11-08T06:02:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Canaãmgbrasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "d009ee1b6c281166de73334532d07db019fbc297"
+ }
+}

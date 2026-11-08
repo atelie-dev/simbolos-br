@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3551603",
+ "uf": "SP",
+ "municipio": "Serra Negra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bandeira-serranegra.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Serra Negra City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "319f255dd9ee0ee7219d0ea9e28b4d3829b16a490f6edeb65f7a264aafdb2037",
+ "rendicoes": {
+  "png": {
+   "bytes": 12012,
+   "sha256": "fdec58443406f99c5a112955fd2c89fa0a1177b2c392c5605accf72cd8eb2809",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12586,
+   "sha256": "17955bf4499a22edd2fe1486cb990b0a89b37be6979f07db96ab421c19392a17",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3551603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3551603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3551603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3551603.png",
+  "bytes": 7836,
+  "sha256": "319f255dd9ee0ee7219d0ea9e28b4d3829b16a490f6edeb65f7a264aafdb2037"
+ },
+ "sha1_origem": "4ba4dcf25b7ebc2bc25c2bfa73902246946e2ab0",
+ "bytes_origem": 7836,
+ "capturado_em": "2026-11-08T06:38:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-serranegra.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "4ba4dcf25b7ebc2bc25c2bfa73902246946e2ab0"
+ }
+}

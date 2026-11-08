@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5220504",
+ "uf": "GO",
+ "municipio": "Serranópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bandeira_de_Serran%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Serranópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "20de437ba81a64cb1edfa329c7d1e3eab8e742c1a3e2945a5744d8c46953d360",
+ "rendicoes": {
+  "png": {
+   "bytes": 62347,
+   "sha256": "3351f7378468e10a579069a5226743b1c6e46f42337bd221658bbf78d7a7d7c2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11734,
+   "sha256": "e5ef0da612e014f51a9f39e11b7ce8bf7f60b6a3fcd7a1ff953674cf8a32b737",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5220504.jpg",
+  "bytes": 9965,
+  "sha256": "20de437ba81a64cb1edfa329c7d1e3eab8e742c1a3e2945a5744d8c46953d360"
+ },
+ "sha1_origem": "39f2390f8598e9275e6f38a153697c798a399b30",
+ "bytes_origem": 9965,
+ "capturado_em": "2026-11-08T07:20:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Serranópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "39f2390f8598e9275e6f38a153697c798a399b30"
+ }
+}

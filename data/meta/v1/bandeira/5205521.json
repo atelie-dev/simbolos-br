@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5205521",
+ "uf": "GO",
+ "municipio": "Colinas do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bandeira_de_Colinas_do_Sul-GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Colinas do Sul, Goiás.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5a27d113a4092cef1cc6cef172ad45770905cbc810c8c332b83445e571c4d94d",
+ "rendicoes": {
+  "png": {
+   "bytes": 46127,
+   "sha256": "145e88a53bba19c4eb654df2814da5c1c2501318269fd5a9e4dee3218dbb5810",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13047,
+   "sha256": "5fd9a7ddda54c1f246485c55e830b888b2ea5744120688b0d890b5f99e3df01f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205521.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205521.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205521.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5205521.jpg",
+  "bytes": 12406,
+  "sha256": "5a27d113a4092cef1cc6cef172ad45770905cbc810c8c332b83445e571c4d94d"
+ },
+ "sha1_origem": "8b85bb3e4bc880515548cec8515ef3f93181606b",
+ "bytes_origem": 12406,
+ "capturado_em": "2026-11-08T07:17:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Colinas_do_Sul-GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "8b85bb3e4bc880515548cec8515ef3f93181606b"
+ }
+}

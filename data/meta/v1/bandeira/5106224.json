@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5106224",
+ "uf": "MT",
+ "municipio": "Nova Mutum",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bandeira_Nova_Mutum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Laismara Tasca",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "efd40367b33acd18bbec6405a3926458702c335c3c9e974319a79720f39de300",
+ "rendicoes": {
+  "png": {
+   "bytes": 56425,
+   "sha256": "ddf426523076553176d52f3a09995fcc48350f0c9c596790404418eae6e02741",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10538,
+   "sha256": "39f71ff7495f20077a494db68b47a0ea6fca7bad9d103f619b4a4537d977ed42",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106224.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106224.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106224.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5106224.jpg",
+  "bytes": 8794,
+  "sha256": "efd40367b33acd18bbec6405a3926458702c335c3c9e974319a79720f39de300"
+ },
+ "sha1_origem": "ef943dd272637851931a741de0bab6cd176e9d10",
+ "bytes_origem": 8794,
+ "capturado_em": "2026-11-08T07:15:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Nova_Mutum.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "ef943dd272637851931a741de0bab6cd176e9d10"
+ }
+}

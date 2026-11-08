@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2202307",
+ "uf": "PI",
+ "municipio": "Canto do Buriti",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Canto_do_Buriti_bandeira.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Emerson Santiago Silva",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "406d52a7e89b2e83cccfdd3a8bb87d91101c59fd73f03d7b5494a0dc721d1632",
+ "rendicoes": {
+  "png": {
+   "bytes": 87893,
+   "sha256": "238dfeddcd7a47a3b1922afc5f86fe6b551b0f59cb5588727b5acf7cad3c9dfa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23486,
+   "sha256": "80493a7e3f64405fb94d07302496f470ad5ab7a32f5ca05ec6a44681fe816021",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2202307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2202307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2202307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2202307.png",
+  "bytes": 124142,
+  "sha256": "406d52a7e89b2e83cccfdd3a8bb87d91101c59fd73f03d7b5494a0dc721d1632"
+ },
+ "sha1_origem": "b52ccdb913e1ec661ba084ad1c643792ecca9264",
+ "bytes_origem": 124142,
+ "capturado_em": "2026-11-08T05:29:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Canto_do_Buriti_bandeira.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "b52ccdb913e1ec661ba084ad1c643792ecca9264"
+ }
+}

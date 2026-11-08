@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1200401",
+ "uf": "AC",
+ "municipio": "Rio Branco",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bras%C3%A3o_de_Rio_Branco.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ViniciusBR11; Prefeitura de Rio Branco",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "dbd9bceedd39f80f437dc085d485d94324d70e78c7ee21d791a4731f8727c65a",
+ "rendicoes": {
+  "png": {
+   "bytes": 103563,
+   "sha256": "77d85f9238ee6269478f63078b0454470281b959a31bced15b97ad39b3daac03",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42246,
+   "sha256": "09daaf0bfc9c81c64b84a3ebbf2a563a734f66d1ef740ee3c9cc0eebbf7a52a5",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 67092,
+   "sha256": "dbd9bceedd39f80f437dc085d485d94324d70e78c7ee21d791a4731f8727c65a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200401.jpg"
+ },
+ "sha1_origem": "2bda4e22765827b965b68599699472ee7dcf317c",
+ "bytes_origem": 67092,
+ "capturado_em": "2026-11-08T02:30:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Rio_Branco.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "2bda4e22765827b965b68599699472ee7dcf317c"
+ }
+}

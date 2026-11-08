@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4122008",
+ "uf": "PR",
+ "municipio": "Rio Azul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bandeira_de_Rio_Azul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "453d6682d2da09b2b16542399995d30ac5b9a5535724108e5a0b9b8f66092159",
+ "rendicoes": {
+  "png": {
+   "bytes": 335730,
+   "sha256": "a83257a322a67071b0151f22a514987bb4bedde021313abdaf904ce613b90ca0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58224,
+   "sha256": "3db54da8fc74aa8cac53916f65aa3098d8656a6170e736e34cece7fbc4d9458a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4122008.jpg",
+  "bytes": 475139,
+  "sha256": "453d6682d2da09b2b16542399995d30ac5b9a5535724108e5a0b9b8f66092159"
+ },
+ "sha1_origem": "da302f8d70bd2e359c165866f6a430e5884e3601",
+ "bytes_origem": 475139,
+ "capturado_em": "2026-11-08T06:48:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Rio_Azul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "da302f8d70bd2e359c165866f6a430e5884e3601"
+ }
+}

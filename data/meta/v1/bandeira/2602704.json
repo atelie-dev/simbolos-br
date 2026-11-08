@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2602704",
+ "uf": "PE",
+ "municipio": "Buenos Aires",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bandeira_de_Buenos_Aires%2C_PE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d59f3fb9d6de8927a5c1636fef9c195ab94056f4ffba6db88e09f86aa541df86",
+ "rendicoes": {
+  "png": {
+   "bytes": 40453,
+   "sha256": "70d8165bfaf5d3c9bbf7d5dd128b0dc8bb55fc846552a9edde810ca878121c99",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23656,
+   "sha256": "98dae8b456e29964b9a2f9522efb06537092f6c13e794b0a81eeec8e02ee5381",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 63450,
+   "sha256": "d59f3fb9d6de8927a5c1636fef9c195ab94056f4ffba6db88e09f86aa541df86"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602704.jpg"
+ },
+ "sha1_origem": "7f0cef95f358ea946a91c0d4342568f83ae231ce",
+ "bytes_origem": 63450,
+ "capturado_em": "2026-11-08T03:04:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Buenos_Aires,_PE.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "7f0cef95f358ea946a91c0d4342568f83ae231ce"
+ }
+}

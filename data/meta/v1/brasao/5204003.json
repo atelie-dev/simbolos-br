@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5204003",
+ "uf": "GO",
+ "municipio": "Cabeceiras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bras%C3%A3o_de_Cabeceiras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cabeceiras",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f77c46bd1221969f2e7f58fae0a5dfdde42c5e6233366b4fcff14d7d9702c1c0",
+ "rendicoes": {
+  "png": {
+   "bytes": 27581,
+   "sha256": "ddbfc35a7c7244bbeffb0a6c57356dc10b77cbd707d57bcbd9b5ad27c91c88a4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7407,
+   "sha256": "6ac309dd1a930d1336b5e6db8762df8b6cf9078c3b6533222a56c02b7c8afbed",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5204003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5204003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5204003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5204003.png",
+  "bytes": 22218,
+  "sha256": "f77c46bd1221969f2e7f58fae0a5dfdde42c5e6233366b4fcff14d7d9702c1c0"
+ },
+ "sha1_origem": "72f1c2e1f6ebe7c54447bc51365e3f25f93e8018",
+ "bytes_origem": 22218,
+ "capturado_em": "2026-11-08T07:17:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cabeceiras.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "72f1c2e1f6ebe7c54447bc51365e3f25f93e8018"
+ }
+}

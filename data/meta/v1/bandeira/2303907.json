@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2303907",
+ "uf": "CE",
+ "municipio": "Chaval",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandeira_de_Chaval.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "4018ba87123faf38643ead660d223ec7d007d135d04cdd5d8fa976015f303e64",
+ "rendicoes": {
+  "png": {
+   "bytes": 71522,
+   "sha256": "27dd1e45cb437b2d14f5c9938d8986f0b3cecb111453305012287826b640cd47",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21370,
+   "sha256": "407bdd0e8029dffdea22fcfa3ae8c232787bf5db73917c6e800a34c24728dd68",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1153833,
+   "sha256": "4018ba87123faf38643ead660d223ec7d007d135d04cdd5d8fa976015f303e64"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303907.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303907.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303907.jpg"
+ },
+ "sha1_origem": "9bd5de772f31f06fc0ef67756bcc71b028d36d73",
+ "bytes_origem": 1153833,
+ "capturado_em": "2026-11-08T02:45:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Chaval.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "9bd5de772f31f06fc0ef67756bcc71b028d36d73"
+ }
+}

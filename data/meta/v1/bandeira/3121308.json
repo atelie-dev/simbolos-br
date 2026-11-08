@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3121308",
+ "uf": "MG",
+ "municipio": "Descoberto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Descobertomgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Descoberto",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9db24ce10c3f15cd8d0c73c8ca7f50f461c0bda19e094c056d94931753dc773e",
+ "rendicoes": {
+  "png": {
+   "bytes": 26297,
+   "sha256": "1682bc20a2f21533eb05e8aa89e6c31072dcf9e4a83b4b10ff50dd7c55dbe36f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9602,
+   "sha256": "7f1314306216813a28090ff67294b6f48ed6348464cb020ec0b9d0b9b9fb23b1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3121308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3121308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3121308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3121308.png",
+  "bytes": 21895,
+  "sha256": "9db24ce10c3f15cd8d0c73c8ca7f50f461c0bda19e094c056d94931753dc773e"
+ },
+ "sha1_origem": "6b342790de3a7106051fcf2a74a25e65ab6cdf93",
+ "bytes_origem": 21895,
+ "capturado_em": "2026-11-08T06:05:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Descobertomgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "6b342790de3a7106051fcf2a74a25e65ab6cdf93"
+ }
+}

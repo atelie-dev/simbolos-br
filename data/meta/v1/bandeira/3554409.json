@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3554409",
+ "uf": "SP",
+ "municipio": "Terra Roxa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Terra_Roxa_sao_paulo_brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Dr. Lauro Escobar",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f2e7620ae02813e6382a9e23807d8c79cb128aa70825e391eefcd11abc26369d",
+ "rendicoes": {
+  "png": {
+   "bytes": 31337,
+   "sha256": "2f75081778dddce4c11dd3cf23f1035f9d97ccbe104a8c0a74ee3259f310b9f0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10023,
+   "sha256": "63393dcc8b7e0573d7a024cc97e7a1974a2baec015c9e1e3555f7cc8391f6d3a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3554409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3554409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3554409.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3554409.jpg",
+  "bytes": 7423,
+  "sha256": "f2e7620ae02813e6382a9e23807d8c79cb128aa70825e391eefcd11abc26369d"
+ },
+ "sha1_origem": "633a49a9647af75de91af67037a0b51de67b7cab",
+ "bytes_origem": 7423,
+ "capturado_em": "2026-11-08T06:39:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Terra_Roxa_sao_paulo_brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:38Z",
+  "estado": "igual",
+  "sha1_commons": "633a49a9647af75de91af67037a0b51de67b7cab"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3124401",
+ "uf": "MG",
+ "municipio": "Espírito Santo do Dourado",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Esp%C3%ADrito_Santo_do_Douradomgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Espírito Santo do Dourado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "720c911c3ce5c9f3fa443ddf55297d30c77d80c3970f2fe3dac723f42cb445a3",
+ "rendicoes": {
+  "png": {
+   "bytes": 324207,
+   "sha256": "47617c5b26827df4139dd09ca118be3cb1bc5f585d4e22c47ca903f59be8daec",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56895,
+   "sha256": "688b10c811a537a2e687d3aaaad10621e7b4d0816e5b92e3faa734fda3240abb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3124401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3124401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3124401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3124401.jpg",
+  "bytes": 44466,
+  "sha256": "720c911c3ce5c9f3fa443ddf55297d30c77d80c3970f2fe3dac723f42cb445a3"
+ },
+ "sha1_origem": "8cc960cd078f7adedb506684d4bcd5ea2139526d",
+ "bytes_origem": 44466,
+ "capturado_em": "2026-11-08T06:06:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Espírito_Santo_do_Douradomgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "8cc960cd078f7adedb506684d4bcd5ea2139526d"
+ }
+}

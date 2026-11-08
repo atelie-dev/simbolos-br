@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2504504",
+ "uf": "PB",
+ "municipio": "Condado",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Brasao_condado2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Condado",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "aff9962c47cc49c898f874d570eba515230147a2d0fb9ab8330dcbfba19737c2",
+ "rendicoes": {
+  "png": {
+   "bytes": 108341,
+   "sha256": "eb0e5e1fa7e10a880b2ef89c67e22347205aadf829a512ff5de7590f0edfe99b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30133,
+   "sha256": "ef5195178beed904825bbcffdddcd03379e3767d2dbce421a77b8acb2cbbacb8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2504504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2504504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2504504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2504504.png",
+  "bytes": 99953,
+  "sha256": "aff9962c47cc49c898f874d570eba515230147a2d0fb9ab8330dcbfba19737c2"
+ },
+ "sha1_origem": "db64e235dedd5dd17bada6c72d4eccd3892a2568",
+ "bytes_origem": 99953,
+ "capturado_em": "2026-11-08T05:40:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_condado2.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "db64e235dedd5dd17bada6c72d4eccd3892a2568"
+ }
+}

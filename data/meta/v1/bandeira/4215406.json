@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4215406",
+ "uf": "SC",
+ "municipio": "Salto Veloso",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bandeira_Salto_Veloso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Crizan Soldi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e649fc507ac6136acf82e6dd12713a0f5e8f1b5bd1d509df0cc8aad5abd672c7",
+ "rendicoes": {
+  "png": {
+   "bytes": 31878,
+   "sha256": "51784e4334588fbfb863e446312bae8f5a74a2cb5971654b12dfddc0efa89290",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8336,
+   "sha256": "6b66ebe6991afae3ceffeb05e8aed4a03eaea277cdfb8303d2e41db91fb40a07",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215406.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4215406.jpg",
+  "bytes": 5059,
+  "sha256": "e649fc507ac6136acf82e6dd12713a0f5e8f1b5bd1d509df0cc8aad5abd672c7"
+ },
+ "sha1_origem": "5821d34954fde5bd8baeca2667236acd835f865f",
+ "bytes_origem": 5059,
+ "capturado_em": "2026-11-08T06:56:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Salto_Veloso.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "5821d34954fde5bd8baeca2667236acd835f865f"
+ }
+}

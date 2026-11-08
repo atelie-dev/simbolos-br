@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1301605",
+ "uf": "AM",
+ "municipio": "Fonte Boa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bandeira_de_Fonte_Boa_AM.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camervan",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b15389a74ca4f3942cfce33e759ad697d7beffde18dd4eeb647de7a8eb1efee2",
+ "rendicoes": {
+  "png": {
+   "bytes": 7654,
+   "sha256": "3a89feb1d64cf85993931adae2e70fc69da192b3d90e0460720a3325358a7e0d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9367,
+   "sha256": "f1a7013562cda4ce0d046052a45190dbe137f03e1489f224cee41dcfa61e4869",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 7335,
+   "sha256": "b15389a74ca4f3942cfce33e759ad697d7beffde18dd4eeb647de7a8eb1efee2"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301605.jpg"
+ },
+ "sha1_origem": "35f80a62c939602f4192d35fb13ba7bb4fcd89ae",
+ "bytes_origem": 7335,
+ "capturado_em": "2026-11-08T02:31:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Fonte_Boa_AM.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "35f80a62c939602f4192d35fb13ba7bb4fcd89ae"
+ }
+}

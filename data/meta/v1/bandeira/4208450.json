@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4208450",
+ "uf": "SC",
+ "municipio": "Itapoá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bandeira_de_Itapo%C3%A1_-_SC.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7775531377769b32eb47032eb01fb7865b208c56f3fe8bfc9b660ae5856aa302",
+ "rendicoes": {
+  "png": {
+   "bytes": 47914,
+   "sha256": "1826d9e8d4a972a343feda6172638b6fa4a0a6136298434c3f3fc8462f5df96d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19429,
+   "sha256": "332a8f5611b60643243e787075a31a16324c89412b447428db5c6149dd066f84",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 375086,
+   "sha256": "7775531377769b32eb47032eb01fb7865b208c56f3fe8bfc9b660ae5856aa302"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208450.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208450.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208450.jpg"
+ },
+ "sha1_origem": "076377987f3da30fceccf877e40b7bbbfbc910ce",
+ "bytes_origem": 375086,
+ "capturado_em": "2026-11-08T04:40:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itapoá_-_SC.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "076377987f3da30fceccf877e40b7bbbfbc910ce"
+ }
+}

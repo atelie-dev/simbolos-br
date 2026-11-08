@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4105904",
+ "uf": "PR",
+ "municipio": "Colorado",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_for_Colorado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Batistussi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c0217b553b309decb39a8d7916b0b842ea977c46f6b7960faf8a7505c4a78ab0",
+ "rendicoes": {
+  "png": {
+   "bytes": 114143,
+   "sha256": "31cc84372e562e6d887c75714fa75ee805361d9f06a53aee87297e74fbf778f1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27130,
+   "sha256": "ff6bf99ba11a69feabb4415bc565ed80399b6fe61782e6edfe3e8e455fa9fa23",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4105904.jpg",
+  "bytes": 134643,
+  "sha256": "c0217b553b309decb39a8d7916b0b842ea977c46f6b7960faf8a7505c4a78ab0"
+ },
+ "sha1_origem": "a081fc8be232330be79d7207f96e764b64d09d3b",
+ "bytes_origem": 134643,
+ "capturado_em": "2026-11-08T06:42:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_for_Colorado.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "a081fc8be232330be79d7207f96e764b64d09d3b"
+ }
+}

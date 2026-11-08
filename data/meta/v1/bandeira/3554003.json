@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3554003",
+ "uf": "SP",
+ "municipio": "Tatuí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bandeira_de_Tatu%C3%AD.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "55163ff6b0e07e21b7ca85fd634429360c5c4b842585bfbf684a7c93ba9f2373",
+ "rendicoes": {
+  "png": {
+   "bytes": 167926,
+   "sha256": "3d7782691d0df64e6f437148e8a769fd3f4811f5751c35b59719495dc71beaff",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42437,
+   "sha256": "cffa0081cf644d30635913a5112852e751c8998cd75414b2395ce4bd16f0d597",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3554003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3554003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3554003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3554003.png",
+  "bytes": 168025,
+  "sha256": "55163ff6b0e07e21b7ca85fd634429360c5c4b842585bfbf684a7c93ba9f2373"
+ },
+ "sha1_origem": "2207dee25eccc30ebe9916738779f3c398865028",
+ "bytes_origem": 168025,
+ "capturado_em": "2026-11-08T06:39:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Tatuí.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "2207dee25eccc30ebe9916738779f3c398865028"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2601300",
+ "uf": "PE",
+ "municipio": "Barra de Guabiraba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bandeira_Barra_de_Guabiraba.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5d9746c2a1b1bd5e8e2c7fde376db1664c268a68467bc47f2dbfdcfa41ebd263",
+ "rendicoes": {
+  "png": {
+   "bytes": 29236,
+   "sha256": "15d7c6468b6af5782eefcbd316250659748e9982ec5f9639295038a675b892e6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14469,
+   "sha256": "f89951714cd63386167a2dcabaff658e4e0e797f607900a9bf8f047536c8dac8",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 48657,
+   "sha256": "5d9746c2a1b1bd5e8e2c7fde376db1664c268a68467bc47f2dbfdcfa41ebd263"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601300.jpg"
+ },
+ "sha1_origem": "0d27d82fd4befb2ceddd35b13018d491ab84fd74",
+ "bytes_origem": 48657,
+ "capturado_em": "2026-11-08T03:04:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Barra_de_Guabiraba.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "0d27d82fd4befb2ceddd35b13018d491ab84fd74"
+ }
+}

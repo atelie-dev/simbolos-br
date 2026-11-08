@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3549102",
+ "uf": "SP",
+ "municipio": "São João da Boa Vista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bandeira_s%C3%A3o_jo%C3%A3o_da_boa_vista.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "160ddc26ce3dbc66f2267ed5ca7a2e2c8c0804532f827d030bc086d1d261b2fc",
+ "rendicoes": {
+  "png": {
+   "bytes": 7337,
+   "sha256": "d58b632ee105203d3f1dd1df95caac12c5f01190453ec372127ecb2989409798",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8100,
+   "sha256": "7fefad8c6c38f2a413d0882f12633600f5cee58f7b078d0648e95136ac78415b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3549102.png",
+  "bytes": 3138,
+  "sha256": "160ddc26ce3dbc66f2267ed5ca7a2e2c8c0804532f827d030bc086d1d261b2fc"
+ },
+ "sha1_origem": "6d4eec895904f22aec332fd3a6a409db9281991e",
+ "bytes_origem": 3138,
+ "capturado_em": "2026-11-08T06:38:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_são_joão_da_boa_vista.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "6d4eec895904f22aec332fd3a6a409db9281991e"
+ }
+}

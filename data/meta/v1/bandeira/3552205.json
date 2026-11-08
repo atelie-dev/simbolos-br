@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3552205",
+ "uf": "SP",
+ "municipio": "Sorocaba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/BandeiraSorocaba.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Sorocaba",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "2d4afff2e5e27812c6bd50e45a2bf4170f81d4f1585295859a36fa3161cf316e",
+ "rendicoes": {
+  "png": {
+   "bytes": 62339,
+   "sha256": "80ef366c8f64289344f24ae5a3e1c617eafce047ad0a581fbe0625ebece553bd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24984,
+   "sha256": "689a7b87db90c8fbbf7494be79ac73feee67661ff764d01e7ef2a2cbcb3257e6",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 398148,
+   "sha256": "2d4afff2e5e27812c6bd50e45a2bf4170f81d4f1585295859a36fa3161cf316e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552205.jpg"
+ },
+ "sha1_origem": "3abacf5ec26c4c806d6c9aa1df3111ab49300f5f",
+ "bytes_origem": 398148,
+ "capturado_em": "2026-11-08T04:17:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraSorocaba.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "3abacf5ec26c4c806d6c9aa1df3111ab49300f5f"
+ }
+}

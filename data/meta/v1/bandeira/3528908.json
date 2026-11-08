@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3528908",
+ "uf": "SP",
+ "municipio": "Mariápolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Bandeira_Mari%C3%A1polis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "818d7b55888a5608ffcef6b381e7f0418317df5c4d0016a1fc76e6420bf0f620",
+ "rendicoes": {
+  "png": {
+   "bytes": 24045,
+   "sha256": "efe23abcfc85d413bf8f0f8f122d785718462784bbc0887eccbfa4c0426c4b38",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12313,
+   "sha256": "3c5499aa0020085553467d002838789213bcb4210da1f149cc0a6dc158d9ea0f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3528908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3528908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3528908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3528908.png",
+  "bytes": 22460,
+  "sha256": "818d7b55888a5608ffcef6b381e7f0418317df5c4d0016a1fc76e6420bf0f620"
+ },
+ "sha1_origem": "b09ac3c2526dc774da11e6d96493728ffedbcaa7",
+ "bytes_origem": 22460,
+ "capturado_em": "2026-11-08T06:31:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Mariápolis.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "b09ac3c2526dc774da11e6d96493728ffedbcaa7"
+ }
+}

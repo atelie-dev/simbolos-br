@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3509700",
+ "uf": "SP",
+ "municipio": "Campos do Jordão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bandeira_CamposdoJordao_SaoPaulo_Brasil_2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "FORTES",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0c730a16ff4e7fc5c0f1e2020937cb1ee0ba3ee356ccad570c277b96a04b6071",
+ "rendicoes": {
+  "png": {
+   "bytes": 66411,
+   "sha256": "d3843a727b055458d31fa7aeb21d761824dfad9e14c83c512a0dc4a3ed65aef6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36096,
+   "sha256": "725f7dea22d51401086a28027dfbbd86639a655e22d7793476ada32c2f3c397c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 79442,
+   "sha256": "0c730a16ff4e7fc5c0f1e2020937cb1ee0ba3ee356ccad570c277b96a04b6071"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509700.jpg"
+ },
+ "sha1_origem": "908411c26fc06efe0b0079f0f47f13b5fc4366b2",
+ "bytes_origem": 79442,
+ "capturado_em": "2026-11-08T04:00:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_CamposdoJordao_SaoPaulo_Brasil_2.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "908411c26fc06efe0b0079f0f47f13b5fc4366b2"
+ }
+}

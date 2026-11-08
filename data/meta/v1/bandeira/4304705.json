@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4304705",
+ "uf": "RS",
+ "municipio": "Carazinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bandeira_de_Carazinho.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cidade de Carazinho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0bd7aca6020756839186fd4d2f3fad393172c5f0beb04b3dbe5c4578ee107545",
+ "rendicoes": {
+  "png": {
+   "bytes": 89765,
+   "sha256": "d0e02020337b9a871fac82c60478d5df66e090ffb7649afdc0e852b8a5c9d28b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16937,
+   "sha256": "8108262443219c668757ced6221e5f0ab5bed225ff72935597c5d471d81c459f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304705.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4304705.jpg",
+  "bytes": 29482,
+  "sha256": "0bd7aca6020756839186fd4d2f3fad393172c5f0beb04b3dbe5c4578ee107545"
+ },
+ "sha1_origem": "5f45b152ca64291a4a6a679236939075ed49dd0f",
+ "bytes_origem": 29482,
+ "capturado_em": "2026-11-08T07:00:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Carazinho.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "5f45b152ca64291a4a6a679236939075ed49dd0f"
+ }
+}

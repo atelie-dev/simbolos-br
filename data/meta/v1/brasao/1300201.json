@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1300201",
+ "uf": "AM",
+ "municipio": "Atalaia do Norte",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Atalaia_do_Norte_-_bras%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Atalaia do Norte",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "43e1d4d3565ebcfbf7c343721fdb9394b59aba359536b18e10443d7bace8f04b",
+ "rendicoes": {
+  "png": {
+   "bytes": 51387,
+   "sha256": "3ab75610dfca426241d4dcf8325a87d99804f44275d13613e797f297f4ceb697",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11170,
+   "sha256": "9a285d69d096a268043fa3cc952bbac51fda63e80b5ae8db6a4606c921c311e2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1300201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1300201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1300201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1300201.jpg",
+  "bytes": 8348,
+  "sha256": "43e1d4d3565ebcfbf7c343721fdb9394b59aba359536b18e10443d7bace8f04b"
+ },
+ "sha1_origem": "a784c89ded9a62f68eb7106043ac5df1493dfb2a",
+ "bytes_origem": 8348,
+ "capturado_em": "2026-11-08T05:22:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Atalaia_do_Norte_-_brasão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "a784c89ded9a62f68eb7106043ac5df1493dfb2a"
+ }
+}

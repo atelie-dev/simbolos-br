@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2708006",
+ "uf": "AL",
+ "municipio": "Santana do Ipanema",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Brasao_sdoipanema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "978800a9fa2ab55fe09fa2530b1e115c964bd2161fdaf24a738c6171565790a9",
+ "rendicoes": {
+  "png": {
+   "bytes": 43825,
+   "sha256": "44a24cb77a94dc7ed02d4c0523114a3db1236a5c7778388413520239201862a2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10502,
+   "sha256": "df1e197d4535f1009c71d4b25f5eb9807950ad4c9d3edb55d0c586cb350f7adf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2708006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2708006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2708006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2708006.jpg",
+  "bytes": 9829,
+  "sha256": "978800a9fa2ab55fe09fa2530b1e115c964bd2161fdaf24a738c6171565790a9"
+ },
+ "sha1_origem": "752115ab4c40a70709a86dc15d10878c425b0455",
+ "bytes_origem": 9829,
+ "capturado_em": "2026-11-08T05:48:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_sdoipanema.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "752115ab4c40a70709a86dc15d10878c425b0455"
+ }
+}

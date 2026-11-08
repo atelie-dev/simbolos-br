@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4103800",
+ "uf": "PR",
+ "municipio": "Cambira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bandeira_de_Cambira%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cambira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d25d7d2155f930fa3bf8c42da95acf1736e23ddd852c5c303318331a808cf665",
+ "rendicoes": {
+  "png": {
+   "bytes": 89800,
+   "sha256": "18ce86c42ed95856f7098e00813be59f2edbd5cad4e9f7f0d6b68b95cd62c865",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29698,
+   "sha256": "f79a1d8faf418204907467aa22a15d534564ac2b643a0ef2243deab0e28c07df",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4103800.jpg",
+  "bytes": 108833,
+  "sha256": "d25d7d2155f930fa3bf8c42da95acf1736e23ddd852c5c303318331a808cf665"
+ },
+ "sha1_origem": "c24ec59ebc1a253df6980a1a3ed73d194a2b9ccf",
+ "bytes_origem": 108833,
+ "capturado_em": "2026-11-08T06:42:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cambira,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "c24ec59ebc1a253df6980a1a3ed73d194a2b9ccf"
+ }
+}

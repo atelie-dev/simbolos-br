@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2503209",
+ "uf": "PB",
+ "municipio": "Cabedelo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bandeira_de_Cabedelo-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a2771632870b5d771c825f0a2f43756a66e8493b4fdc4c8d291d44622517f00a",
+ "rendicoes": {
+  "png": {
+   "bytes": 38351,
+   "sha256": "d4e5942c319ecc3fddcf6b8a5e37ad031732d8055d78b338ebfc33a530dd4699",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25641,
+   "sha256": "7ecdb41d8eb561aae43bd12fa8b3605225ab7174dee936c0760ec0771799ce11",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 41505,
+   "sha256": "a2771632870b5d771c825f0a2f43756a66e8493b4fdc4c8d291d44622517f00a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503209.jpg"
+ },
+ "sha1_origem": "e1230c6944ec0d602c2198036f748740811e6741",
+ "bytes_origem": 41505,
+ "capturado_em": "2026-11-08T02:56:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cabedelo-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "e1230c6944ec0d602c2198036f748740811e6741"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5000203",
+ "uf": "MS",
+ "municipio": "Água Clara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bandeira_agua_clara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Água Clara",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3e1ef0dc2af12a0aa56f273af5a0a1c1843c3320c024ad064d43b0a799d36b9b",
+ "rendicoes": {
+  "png": {
+   "bytes": 25926,
+   "sha256": "05a05e81c050a89cb845091077ee3f510ef277dd023f240f05bd6da54a97c52c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9090,
+   "sha256": "469c91aabaf74668ddd8090f9741d8c684b9f36587f0b6dca15a091279747cb7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5000203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5000203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5000203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5000203.jpg",
+  "bytes": 8053,
+  "sha256": "3e1ef0dc2af12a0aa56f273af5a0a1c1843c3320c024ad064d43b0a799d36b9b"
+ },
+ "sha1_origem": "c5e9477a3e61772cc3fcf49b1ace4be2fc61ebb9",
+ "bytes_origem": 8053,
+ "capturado_em": "2026-11-08T07:12:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_agua_clara.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "c5e9477a3e61772cc3fcf49b1ace4be2fc61ebb9"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4217709",
+ "uf": "SC",
+ "municipio": "Sombrio",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bras%C3%A3o_sombrio_sc2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "307c4e245134d55cf597e09f981baeb8f7f9e9bff8ffbc0e646398b953d0e2d5",
+ "rendicoes": {
+  "png": {
+   "bytes": 75151,
+   "sha256": "b28c510ace283f3da6d76813e41cbbb8b4af88c3feabab751e7df92d50a88d7c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15426,
+   "sha256": "6d08c45a4df0bf340e4a7e08c8e4248fed76424e30ae903d40d81150fe5c03b8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4217709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4217709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4217709.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4217709.jpg",
+  "bytes": 19488,
+  "sha256": "307c4e245134d55cf597e09f981baeb8f7f9e9bff8ffbc0e646398b953d0e2d5"
+ },
+ "sha1_origem": "7dcb40057dcf208717d84a3196ce056927f82919",
+ "bytes_origem": 19488,
+ "capturado_em": "2026-11-08T06:57:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_sombrio_sc2.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "7dcb40057dcf208717d84a3196ce056927f82919"
+ }
+}

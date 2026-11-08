@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4311502",
+ "uf": "RS",
+ "municipio": "Lavras do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/51/Brasaolavras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Murilo Góes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a1b400108d92d00abdf354c8cb0a3a94aa4b4d2cf0429ceaab3fcda37e004dfb",
+ "rendicoes": {
+  "png": {
+   "bytes": 109067,
+   "sha256": "cdf4361c9f7938866ad7337029fdd31460672814d29fc2d74218cb43cacb6fed",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19558,
+   "sha256": "de4f901b214d6112fd3eba29a87ff22b905e148e31c77cc2e67374c7cd87a495",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4311502.jpg",
+  "bytes": 19333,
+  "sha256": "a1b400108d92d00abdf354c8cb0a3a94aa4b4d2cf0429ceaab3fcda37e004dfb"
+ },
+ "sha1_origem": "af25a0ae4d75b958f1272d7ec869e8180251f91a",
+ "bytes_origem": 19333,
+ "capturado_em": "2026-11-08T07:05:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaolavras.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "af25a0ae4d75b958f1272d7ec869e8180251f91a"
+ }
+}

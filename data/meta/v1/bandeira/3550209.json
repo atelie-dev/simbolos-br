@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3550209",
+ "uf": "SP",
+ "municipio": "São Miguel Arcanjo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bandeira_do_municipio_de_s%C3%A3o_miguel_arcanjo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "antonio correa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "252d36c3406a29edbc3dc90d429bcd6866fbad9907cc3c8a5c2e7ae8c0c9105a",
+ "rendicoes": {
+  "png": {
+   "bytes": 85585,
+   "sha256": "3c22ca729eb3a56b15d42bc1c086dc34b3f8d760cc9b0d3e685499b5297adc9f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34875,
+   "sha256": "9636c0fabd8ae111743b39d5546eea8f4ce6047a484632f4a1e5d654f0c073fc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3550209.jpg",
+  "bytes": 153418,
+  "sha256": "252d36c3406a29edbc3dc90d429bcd6866fbad9907cc3c8a5c2e7ae8c0c9105a"
+ },
+ "sha1_origem": "53f0814aadb5f196f91841e08c5c6defc10822ff",
+ "bytes_origem": 153418,
+ "capturado_em": "2026-11-08T06:38:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_municipio_de_são_miguel_arcanjo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "53f0814aadb5f196f91841e08c5c6defc10822ff"
+ }
+}

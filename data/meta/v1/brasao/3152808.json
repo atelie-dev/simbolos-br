@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3152808",
+ "uf": "MG",
+ "municipio": "Prata",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Brasao_prata.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Prata",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bdc4e30116630dfc3992add66389f7dffd1f9918445c9c6baa1ae53e9e9c26f7",
+ "rendicoes": {
+  "png": {
+   "bytes": 127307,
+   "sha256": "2b1bc8835bfaebbe3c42e6dc16ea75b80a2a2c1fed6ebd09ff45abdcc58da763",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29379,
+   "sha256": "2b56138b76ad48cd836aca6cec071483bfbdf5baa60b81e1cc0f83963aa8c10a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3152808.jpg",
+  "bytes": 100416,
+  "sha256": "bdc4e30116630dfc3992add66389f7dffd1f9918445c9c6baa1ae53e9e9c26f7"
+ },
+ "sha1_origem": "843f8b9f2a94f6a6c7f74dedf005f30e828c5bf3",
+ "bytes_origem": 100416,
+ "capturado_em": "2026-11-08T06:13:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_prata.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "843f8b9f2a94f6a6c7f74dedf005f30e828c5bf3"
+ }
+}

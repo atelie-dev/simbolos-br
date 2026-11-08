@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2404903",
+ "uf": "RN",
+ "municipio": "Itaú",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandeira_de_Ita%C3%BA%2C_Rio_Grande_do_Norte%2C_Brasil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Itaú, Rio Grande do Norte",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8023e6381e986d204ca9db76addc6451d9cb8e47ed0a369ec9dd3379a199c8cd",
+ "rendicoes": {
+  "png": {
+   "bytes": 11335,
+   "sha256": "b59644307835c07882b3814efabdf58a32bdb477d1e46c66e365a9d1054ea046",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4748,
+   "sha256": "50e1ad5782b69d5064ec3c9ef81c24b55df2a743d404b8ebf152580f120ae259",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2404903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2404903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2404903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2404903.png",
+  "bytes": 10037,
+  "sha256": "8023e6381e986d204ca9db76addc6451d9cb8e47ed0a369ec9dd3379a199c8cd"
+ },
+ "sha1_origem": "c1d892b65f58504c0b2a37c4b48148b95d6e4dbd",
+ "bytes_origem": 10037,
+ "capturado_em": "2026-11-08T05:36:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itaú,_Rio_Grande_do_Norte,_Brasil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "c1d892b65f58504c0b2a37c4b48148b95d6e4dbd"
+ }
+}

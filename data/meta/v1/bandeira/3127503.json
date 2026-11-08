@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3127503",
+ "uf": "MG",
+ "municipio": "Gonzaga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Gonzagamgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Gonzaga",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "95d0ab0f562de2bf625e32ae9a0b46a646fb8e91d691b7308f5168b335e3a166",
+ "rendicoes": {
+  "png": {
+   "bytes": 45058,
+   "sha256": "6fe95290ffdadb51c34697879292f674387de965d40ad4742d44b2ed4a1d85c3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13290,
+   "sha256": "7d4bf22f641d915edf0a4e7ad2803d1ba5c3f24f35f78453dd13795c0845fd06",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3127503.jpg",
+  "bytes": 14216,
+  "sha256": "95d0ab0f562de2bf625e32ae9a0b46a646fb8e91d691b7308f5168b335e3a166"
+ },
+ "sha1_origem": "89144acfe74e7c6eade83701243f882f8d61a66e",
+ "bytes_origem": 14216,
+ "capturado_em": "2026-11-08T06:07:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Gonzagamgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "89144acfe74e7c6eade83701243f882f8d61a66e"
+ }
+}

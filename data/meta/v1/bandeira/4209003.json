@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4209003",
+ "uf": "SC",
+ "municipio": "Joaçaba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bandeira_do_munic%C3%ADpio_de_Joa%C3%A7aba_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Joaçaba (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c4c5479b80ee771783378db99708423472fed5ff96a4106c8bb4dbef5e5af7cb",
+ "rendicoes": {
+  "png": {
+   "bytes": 44490,
+   "sha256": "7ca09d6fe2afd40a106b815036f1e2c10adbc6c8bbb9761487905bbc15f3e585",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13391,
+   "sha256": "0f9023003b61fadf65c2283eba48e5f09f3971168da983aa4e16e8e8f9a328c0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4209003.png",
+  "bytes": 567539,
+  "sha256": "c4c5479b80ee771783378db99708423472fed5ff96a4106c8bb4dbef5e5af7cb"
+ },
+ "sha1_origem": "e832c5692302ed4b02baaef12d76d0204f041d4d",
+ "bytes_origem": 567539,
+ "capturado_em": "2026-11-08T06:54:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Joaçaba_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:19Z",
+  "estado": "igual",
+  "sha1_commons": "e832c5692302ed4b02baaef12d76d0204f041d4d"
+ }
+}

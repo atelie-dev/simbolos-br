@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4300877",
+ "uf": "RS",
+ "municipio": "Araricá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bras%C3%A3o_Araric%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Araricá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e545b1f6f92048b70641337869e7997e715a3914aa38ef3a0597a9dca08e0aad",
+ "rendicoes": {
+  "png": {
+   "bytes": 264276,
+   "sha256": "dd209e61106b72a2a4118949b53cbda6e76d72a1d7399a76fdfb35810f9cdcdb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 66541,
+   "sha256": "7518a7158ed4f138ac31cebada22a6453b673ca1affb8e38db07b2ea5c28178c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300877.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300877.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300877.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4300877.jpg",
+  "bytes": 70610,
+  "sha256": "e545b1f6f92048b70641337869e7997e715a3914aa38ef3a0597a9dca08e0aad"
+ },
+ "sha1_origem": "5486dac45f902a1eaa2b6ef3691ce74ef9589fc0",
+ "bytes_origem": 70610,
+ "capturado_em": "2026-11-08T06:58:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Araricá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "5486dac45f902a1eaa2b6ef3691ce74ef9589fc0"
+ }
+}

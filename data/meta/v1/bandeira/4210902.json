@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4210902",
+ "uf": "SC",
+ "municipio": "Modelo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bandeira_do_munic%C3%ADpio_de_Modelo_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Modelo (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b0694b5a2763d17de021781c27209e3c46303bdb1408dd40a2d0f7a533db4b73",
+ "rendicoes": {
+  "png": {
+   "bytes": 63144,
+   "sha256": "c6337fe4656b9f0f5bce8e65e285d7fc2ca7e3d2fb2c73df70361615dd2efd2f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28461,
+   "sha256": "e5af7f73c030937f931ded5c912b16d04ed062f1841bdc264e5a7368434d28fe",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 114295,
+   "sha256": "b0694b5a2763d17de021781c27209e3c46303bdb1408dd40a2d0f7a533db4b73"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210902.jpg"
+ },
+ "sha1_origem": "2b3b9c946a789fd42ebf04c93f02eb7c18032ae6",
+ "bytes_origem": 114295,
+ "capturado_em": "2026-11-08T04:41:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Modelo_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "2b3b9c946a789fd42ebf04c93f02eb7c18032ae6"
+ }
+}

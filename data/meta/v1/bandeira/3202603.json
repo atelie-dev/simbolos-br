@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3202603",
+ "uf": "ES",
+ "municipio": "Iconha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bandeira-iconha.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Iconha City Hall",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "70d5559c5c6e1f698984739418f2bbf50e4e7c745d4bba1f2cbe18a3e053503d",
+ "rendicoes": {
+  "png": {
+   "bytes": 16079,
+   "sha256": "4a95ed1d60e695f6bf570cae71c7549d500cd63a8bac3bd9149186c0d1ee6680",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13807,
+   "sha256": "40e73820c8bdafa566ff6f5613a44a7070b965f7bfaf1c66eb65ff342fc9cdb4",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1748,
+   "sha256": "70d5559c5c6e1f698984739418f2bbf50e4e7c745d4bba1f2cbe18a3e053503d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202603.jpg"
+ },
+ "sha1_origem": "42f8adcba7dba3a6e4407efa00733d5585f9af88",
+ "bytes_origem": 1748,
+ "capturado_em": "2026-11-08T03:52:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-iconha.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "42f8adcba7dba3a6e4407efa00733d5585f9af88"
+ }
+}

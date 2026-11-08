@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3533502",
+ "uf": "SP",
+ "municipio": "Novo Horizonte",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bras%C3%A3o_Novo_Horizonte%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefecture of Novo Horizonte, SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "da37bf9db3b541168a383f183fd86007b028f2286d72b190e728f724dc8f2d95",
+ "rendicoes": {
+  "png": {
+   "bytes": 42244,
+   "sha256": "e31a68804e255b32d38ad60e53d07eb025679fc3092e224edec100af0b1afb11",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10491,
+   "sha256": "0ac428bbdc16dadcc480baf4e5f097a86bb683e97f1594cbb7b4f45f94dc8b71",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3533502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3533502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3533502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3533502.jpg",
+  "bytes": 53565,
+  "sha256": "da37bf9db3b541168a383f183fd86007b028f2286d72b190e728f724dc8f2d95"
+ },
+ "sha1_origem": "5817182b5f832c45810a704c18558d496673548e",
+ "bytes_origem": 53565,
+ "capturado_em": "2026-11-08T06:33:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Novo_Horizonte,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "5817182b5f832c45810a704c18558d496673548e"
+ }
+}

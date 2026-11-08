@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4125704",
+ "uf": "PR",
+ "municipio": "São Miguel do Iguaçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bandeira_de_S%C3%A3o_Miguel_do_Igua%C3%A7u_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "eb4a3100fc5dbc3f4aa5dbd2c91b1e0c1eecf9a4a57c7e44d11896362811b16c",
+ "rendicoes": {
+  "png": {
+   "bytes": 28514,
+   "sha256": "05c57482d4c514f247d74297f81b359a4b26e3f5d135135cb361b538544cce4c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16158,
+   "sha256": "09c7e004821f1e8d19db97043467f2f0b89abfcf8f27c97d4caedb0d8ebac800",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 183249,
+   "sha256": "eb4a3100fc5dbc3f4aa5dbd2c91b1e0c1eecf9a4a57c7e44d11896362811b16c"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125704.jpg"
+ },
+ "sha1_origem": "7b2ddd0d7f1d37b9ec2d519057e2f7797c4373b3",
+ "bytes_origem": 183249,
+ "capturado_em": "2026-11-08T04:33:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Miguel_do_Iguaçu_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "7b2ddd0d7f1d37b9ec2d519057e2f7797c4373b3"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5107768",
+ "uf": "MT",
+ "municipio": "Santa Rita do Trivelato",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/31/BSRT.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Santa Rita do Trivelato",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2fc77b52fdaa3cecaccdee4c6f2727c976090e4232f8be15c000e60274cce449",
+ "rendicoes": {
+  "png": {
+   "bytes": 80382,
+   "sha256": "54f1d9853f7185845c0ec6ceb365ff5c83e09defd51cd8b86ae5c71bbf56484e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17968,
+   "sha256": "f3bb99b0443294ac9cc653be6b6c34db506dfbe77d1e2a888d005956f51cd357",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107768.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107768.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107768.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5107768.jpg",
+  "bytes": 32607,
+  "sha256": "2fc77b52fdaa3cecaccdee4c6f2727c976090e4232f8be15c000e60274cce449"
+ },
+ "sha1_origem": "db13f8056cf9144fc8d6ab565321bb099d509420",
+ "bytes_origem": 32607,
+ "capturado_em": "2026-11-08T07:15:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BSRT.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "db13f8056cf9144fc8d6ab565321bb099d509420"
+ }
+}

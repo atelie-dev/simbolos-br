@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2517209",
+ "uf": "PB",
+ "municipio": "Vieirópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bras%C3%A3o_Vieir%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Vieirópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6d3ab78ffa3421402ed1af763086851c4c88582b794798c131ac96332803f002",
+ "rendicoes": {
+  "png": {
+   "bytes": 119573,
+   "sha256": "3084ecd6c0c8e211aa7ff99fc62955f161ca80ccb6aa5a21f049fb62611ed414",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24108,
+   "sha256": "6588eb320be614341e9a265c2b5eadaa4d6a2084f293e8727037bec0dcc62898",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2517209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2517209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2517209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2517209.jpg",
+  "bytes": 18835,
+  "sha256": "6d3ab78ffa3421402ed1af763086851c4c88582b794798c131ac96332803f002"
+ },
+ "sha1_origem": "16d29bb871e190479cb90a639419e5d0872c108d",
+ "bytes_origem": 18835,
+ "capturado_em": "2026-11-08T05:44:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Vieirópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "16d29bb871e190479cb90a639419e5d0872c108d"
+ }
+}

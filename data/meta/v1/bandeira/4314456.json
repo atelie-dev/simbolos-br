@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314456",
+ "uf": "RS",
+ "municipio": "Pinhal",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bandeira_Pinhal_RS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pinhal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "352840c0e0f778de95f1cf7c8ae1e1e900713b1a5958e4679f9a3267ee2b203a",
+ "rendicoes": {
+  "png": {
+   "bytes": 75068,
+   "sha256": "12f205a9b3892f1b64917845bba333f119c312039662ac234ece0f9c9c551589",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28983,
+   "sha256": "a0cbbca7e40ee77f797b7854e999a8be977bb5dd3a63bdfcc421d832f5051f12",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314456.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314456.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314456.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4314456.png",
+  "bytes": 125212,
+  "sha256": "352840c0e0f778de95f1cf7c8ae1e1e900713b1a5958e4679f9a3267ee2b203a"
+ },
+ "sha1_origem": "72fcf19a7d8beac97eb5b91a701290624264b72d",
+ "bytes_origem": 125212,
+ "capturado_em": "2026-11-08T07:07:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Pinhal_RS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "72fcf19a7d8beac97eb5b91a701290624264b72d"
+ }
+}

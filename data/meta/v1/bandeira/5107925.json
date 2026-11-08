@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5107925",
+ "uf": "MT",
+ "municipio": "Sorriso",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_de_Sorriso_%28Mato_Grosso%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Sorriso (Mato Grosso)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b7ccb231e63d3c47670096614d08bc0babb33704f64bab8a1f83ddb5f9d75cfd",
+ "rendicoes": {
+  "png": {
+   "bytes": 35009,
+   "sha256": "32946d546bc108ba2e840e9584697643674d0f1864ef474331171990bd9e8262",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12249,
+   "sha256": "03377e997a0f0d10f960a0058e6f6318cbd4d903d552875d0850ebc9946fd8b8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107925.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107925.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107925.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5107925.jpg",
+  "bytes": 7441,
+  "sha256": "b7ccb231e63d3c47670096614d08bc0babb33704f64bab8a1f83ddb5f9d75cfd"
+ },
+ "sha1_origem": "48c95f9d7cc380f7545a6b9f50f0b7850d53b4f5",
+ "bytes_origem": 7441,
+ "capturado_em": "2026-11-08T07:15:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Sorriso_(Mato_Grosso).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "48c95f9d7cc380f7545a6b9f50f0b7850d53b4f5"
+ }
+}

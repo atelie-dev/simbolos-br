@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3146503",
+ "uf": "MG",
+ "municipio": "Pains",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bandeira_pains.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pains",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "278217945f590579f72baaa0c1d3733d1008d360ce58c1966f86b5dd43bc4d08",
+ "rendicoes": {
+  "png": {
+   "bytes": 9650,
+   "sha256": "c59ab37daa6405fc6bffcb72bc923bc2cd6878fdaf001563c3a2542f00751198",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5679,
+   "sha256": "4e7a05fb69b026abcaa63d2858142a1663d45c450dd0d3bedec7f7b1aaa11d75",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3146503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3146503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3146503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3146503.png",
+  "bytes": 3824,
+  "sha256": "278217945f590579f72baaa0c1d3733d1008d360ce58c1966f86b5dd43bc4d08"
+ },
+ "sha1_origem": "6f6366a6f2e4d4f228a74aab7dd81bec1077f77e",
+ "bytes_origem": 3824,
+ "capturado_em": "2026-11-08T06:12:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_pains.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:22Z",
+  "estado": "igual",
+  "sha1_commons": "6f6366a6f2e4d4f228a74aab7dd81bec1077f77e"
+ }
+}

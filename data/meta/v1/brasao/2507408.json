@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2507408",
+ "uf": "PB",
+ "municipio": "Jericó",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bras%C3%A3o_Jeric%C3%B3_PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Claudizon de Sousa Galvão",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f7c12dde9fc1d3e525651dd1b8df5fc7b292c7136d221fbf3568a8a5533f1af3",
+ "rendicoes": {
+  "png": {
+   "bytes": 241140,
+   "sha256": "f1e005f8db54308ec8a9fb0fca92a4b164f9a8d8130c2dafea55a60ca936982e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60660,
+   "sha256": "c528e8cda47dcb6e6b65b83a66b11e7a16330cabf1d5773e5063f43167dfa134",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2507408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2507408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2507408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2507408.jpg",
+  "bytes": 3260482,
+  "sha256": "f7c12dde9fc1d3e525651dd1b8df5fc7b292c7136d221fbf3568a8a5533f1af3"
+ },
+ "sha1_origem": "028522fe8f54f50069414878147771c207d63cc5",
+ "bytes_origem": 3260482,
+ "capturado_em": "2026-11-08T05:41:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Jericó_PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "028522fe8f54f50069414878147771c207d63cc5"
+ }
+}

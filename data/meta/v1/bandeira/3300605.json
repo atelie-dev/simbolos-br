@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3300605",
+ "uf": "RJ",
+ "municipio": "Bom Jesus do Itabapoana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_de_Bom_Jesus_do_Itabapoana.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4bb71a1f3d5b105757537746392d9ebdeda91fda4fc2bc596cc303033d45ba71",
+ "rendicoes": {
+  "png": {
+   "bytes": 33986,
+   "sha256": "27971ce5b12081eac1fbb8b62c32026cc7e9697e924cb47348fc1561e40db47e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13088,
+   "sha256": "de023507dbd2bc4f90d8655cb88e14a4a61a210496f47fc74ebda3bc439aa150",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3300605.png",
+  "bytes": 12470,
+  "sha256": "4bb71a1f3d5b105757537746392d9ebdeda91fda4fc2bc596cc303033d45ba71"
+ },
+ "sha1_origem": "5f4856de41f39339d5882b929d3fd37477e62000",
+ "bytes_origem": 12470,
+ "capturado_em": "2026-11-08T06:20:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bom_Jesus_do_Itabapoana.png",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "5f4856de41f39339d5882b929d3fd37477e62000"
+ }
+}

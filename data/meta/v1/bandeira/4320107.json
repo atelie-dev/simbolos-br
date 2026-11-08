@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4320107",
+ "uf": "RS",
+ "municipio": "Sarandi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bandeira.sarandi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Junior Tonello",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e795b7e2e7f50de984a4e639b5ae52bd724a49e4f253fb396461f138c739fc67",
+ "rendicoes": {
+  "png": {
+   "bytes": 45120,
+   "sha256": "ff369c4ba2e85106e48dfbab167d0fe5423a444bcc638f7be36d5c8aa5cfb048",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9266,
+   "sha256": "c5aa1ed01db1585e8a08ae76cdb6d14a33a753c4a3f5ed9d94196d4b3b3ce14f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4320107.jpg",
+  "bytes": 22412,
+  "sha256": "e795b7e2e7f50de984a4e639b5ae52bd724a49e4f253fb396461f138c739fc67"
+ },
+ "sha1_origem": "776f1eada96ee99801bb52b950db4bc479e6d3c6",
+ "bytes_origem": 22412,
+ "capturado_em": "2026-11-08T07:10:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira.sarandi.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "776f1eada96ee99801bb52b950db4bc479e6d3c6"
+ }
+}

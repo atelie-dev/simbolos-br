@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2411700",
+ "uf": "RN",
+ "municipio": "São Bento do Trairí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bandeira_de_S%C3%A3o_Bento_do_Trairi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of São Bento do Trairi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bd763081c449442ed3b61712dfce6af8a0769e71f14398cd0248321f88a5f242",
+ "rendicoes": {
+  "png": {
+   "bytes": 88117,
+   "sha256": "3b02c3be16cf7865697b825a5d335af322abfb6091168b94ea2665340b2abb19",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28648,
+   "sha256": "3794d8dfead8844795d1d07a8423df0f33b3ee5ec8089201a4423d3007e5c279",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2411700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2411700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2411700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2411700.jpg",
+  "bytes": 342344,
+  "sha256": "bd763081c449442ed3b61712dfce6af8a0769e71f14398cd0248321f88a5f242"
+ },
+ "sha1_origem": "8b94c5db65979792350b375436d4fb18504e8cf8",
+ "bytes_origem": 342344,
+ "capturado_em": "2026-11-08T05:38:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Bento_do_Trairi.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "8b94c5db65979792350b375436d4fb18504e8cf8"
+ }
+}

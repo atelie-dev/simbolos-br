@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4206801",
+ "uf": "SC",
+ "municipio": "Ibicaré",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/80/Brasao_Ibicare_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ibicaré",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bdddb4f91b2b299d1d2a92dbee54d66e8b7cddaf671fa7d8a329e39714385b8a",
+ "rendicoes": {
+  "png": {
+   "bytes": 45170,
+   "sha256": "66b6d3851e04695322eb0e8108bc6779836722fe711248fefc75720b30fc42ef",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10966,
+   "sha256": "1fa389657df1c79bed1af2419fc577d66f13c9749d07dda703690db107a701a7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4206801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4206801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4206801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4206801.jpg",
+  "bytes": 7335,
+  "sha256": "bdddb4f91b2b299d1d2a92dbee54d66e8b7cddaf671fa7d8a329e39714385b8a"
+ },
+ "sha1_origem": "54a84955f1246e42a5626477d4083fa0557c1422",
+ "bytes_origem": 7335,
+ "capturado_em": "2026-11-08T06:53:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Ibicare_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:33Z",
+  "estado": "igual",
+  "sha1_commons": "54a84955f1246e42a5626477d4083fa0557c1422"
+ }
+}

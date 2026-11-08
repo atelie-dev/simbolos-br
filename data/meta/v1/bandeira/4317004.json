@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4317004",
+ "uf": "RS",
+ "municipio": "Santana da Boa Vista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bandeira_de_Santana_da_Boa_Vista%2C_RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Lazouwnik",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c759134c94610389f92329506be902b4815d4578a7968359c15dacd4ceb097c8",
+ "rendicoes": {
+  "png": {
+   "bytes": 52886,
+   "sha256": "1d47c4144687713a7706d358fd604578e4b647f70786e8b01d62639a8e257912",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16104,
+   "sha256": "adfe1ce742d29d348625b1b8f70812d070b7d5955ee7c74b0cfda32b39e3152c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4317004.jpg",
+  "bytes": 37149,
+  "sha256": "c759134c94610389f92329506be902b4815d4578a7968359c15dacd4ceb097c8"
+ },
+ "sha1_origem": "9b87ac72c9daa0ed9465a784afe9326e9a636f6f",
+ "bytes_origem": 37149,
+ "capturado_em": "2026-11-08T07:08:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santana_da_Boa_Vista,_RS.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "9b87ac72c9daa0ed9465a784afe9326e9a636f6f"
+ }
+}

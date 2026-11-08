@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4116703",
+ "uf": "PR",
+ "municipio": "Nova Aurora",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandeira_Nova_Aurora_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Gazilion",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "76cf96543266f59858c059c15ce4ae0fcfe0e7ba2490af50cf7ca09c9148239e",
+ "rendicoes": {
+  "png": {
+   "bytes": 27953,
+   "sha256": "dd08a359a7a4db64e5a87a5d1754fe0a26f74687d864761dc009da2f6f68222a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16623,
+   "sha256": "cbc0bc97b3a12b532ae0c4362b7296ecc3d7cdf0518c13a076846440d0587c43",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 5668,
+   "sha256": "76cf96543266f59858c059c15ce4ae0fcfe0e7ba2490af50cf7ca09c9148239e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4116703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4116703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4116703.jpg"
+ },
+ "sha1_origem": "4564667b01ef4477c8dd03a10cec63ee83c18cae",
+ "bytes_origem": 5668,
+ "capturado_em": "2026-11-08T04:28:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Nova_Aurora_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "4564667b01ef4477c8dd03a10cec63ee83c18cae"
+ }
+}

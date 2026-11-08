@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4210100",
+ "uf": "SC",
+ "municipio": "Mafra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bras%C3%A3o_do_munic%C3%ADpio_de_Mafra_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Mafra (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0f453e89c737cde3e335034c9ccda5cea37ba7af3b7316725635f8e45a2d157c",
+ "rendicoes": {
+  "png": {
+   "bytes": 210114,
+   "sha256": "f8318a0c5098b5a4cccdda789d78c52f80ba5b564db192cef12f946a6e461eb7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63732,
+   "sha256": "de441545f0980276bb229d22cd3dae20c306d1cd822d0631072ab28fb6cd13f3",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 223713,
+   "sha256": "0f453e89c737cde3e335034c9ccda5cea37ba7af3b7316725635f8e45a2d157c"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210100.jpg"
+ },
+ "sha1_origem": "9dfe585a5df44fe2fe21e80166c3c40350db2544",
+ "bytes_origem": 223713,
+ "capturado_em": "2026-11-08T04:40:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Mafra_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "9dfe585a5df44fe2fe21e80166c3c40350db2544"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3511003",
+ "uf": "SP",
+ "municipio": "Castilho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Castilho.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "14f073f89dd85c97dc2abfe5e7dc42ec6d41d7aa8faecc21d606ba3969162e54",
+ "rendicoes": {
+  "png": {
+   "bytes": 327871,
+   "sha256": "d22313291dc35e982f915b3c7fe29438a045c8ec8a3737ce687edda251cfdd34",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56546,
+   "sha256": "327ed6e2c615960160724c1a916e29ff3b868569fff1627ea8b885e59ffe7d4d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3511003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3511003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3511003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3511003.png",
+  "bytes": 306421,
+  "sha256": "14f073f89dd85c97dc2abfe5e7dc42ec6d41d7aa8faecc21d606ba3969162e54"
+ },
+ "sha1_origem": "aa21d77ae1f84d29193d94a6695105e9e44a03d9",
+ "bytes_origem": 306421,
+ "capturado_em": "2026-11-08T06:26:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Castilho.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:21Z",
+  "estado": "igual",
+  "sha1_commons": "aa21d77ae1f84d29193d94a6695105e9e44a03d9"
+ }
+}

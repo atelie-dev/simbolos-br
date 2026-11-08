@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3129509",
+ "uf": "MG",
+ "municipio": "Ibiá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bandeira_de_Ibi%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ibiá.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8ead26ab5c80d0589b060d5f3924ffbf317886715895256ea6e1c62b4f026c57",
+ "rendicoes": {
+  "png": {
+   "bytes": 32161,
+   "sha256": "5f6470c9f5514314434f70fbbdb165aba363f1cc9c06aa7e61008e0af0dea15a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10635,
+   "sha256": "bf3cc1303bc26d40481138b0afa1c63aeb65a0dd8f47bb44f9e338569ec4d7f8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3129509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3129509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3129509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3129509.jpg",
+  "bytes": 27559,
+  "sha256": "8ead26ab5c80d0589b060d5f3924ffbf317886715895256ea6e1c62b4f026c57"
+ },
+ "sha1_origem": "ccc3f6e844cca8ce01e554542c29dba4e03dfeeb",
+ "bytes_origem": 27559,
+ "capturado_em": "2026-11-08T06:08:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ibiá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "ccc3f6e844cca8ce01e554542c29dba4e03dfeeb"
+ }
+}

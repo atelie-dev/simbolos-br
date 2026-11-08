@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5219506",
+ "uf": "GO",
+ "municipio": "Santa Rosa de Goiás",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bandeira_Santa_Rosa_de_Goi%C3%A1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Santa Rosa de Goiás",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9e5c4e4637c120f62eac8829d16533a42bdb5e075bf2c35e3f0f0daff3610e8c",
+ "rendicoes": {
+  "png": {
+   "bytes": 31261,
+   "sha256": "dbd8fc8622134ebf47ccaed925a333574a3cbf9157f0f2b0c9585de3f95ded6f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18064,
+   "sha256": "bb02c2526f658df2bd8ffe34f692fc8b16748dbe2ea47c0800295d5556a9bab4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5219506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5219506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5219506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5219506.jpg",
+  "bytes": 25911,
+  "sha256": "9e5c4e4637c120f62eac8829d16533a42bdb5e075bf2c35e3f0f0daff3610e8c"
+ },
+ "sha1_origem": "414ec04d4c2d168231ba1493656236088055eebf",
+ "bytes_origem": 25911,
+ "capturado_em": "2026-11-08T07:20:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Santa_Rosa_de_Goiás.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "414ec04d4c2d168231ba1493656236088055eebf"
+ }
+}

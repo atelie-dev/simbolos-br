@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3123106",
+ "uf": "MG",
+ "municipio": "Dores de Guanhães",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bandeira_de_Dores_de_Guanh%C3%A3es.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Gabriel Furbino",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a037d620b3f17bf514c1b5394c4bf2066e44d88aa8a84f1e4fc15fb35e17d66a",
+ "rendicoes": {
+  "png": {
+   "bytes": 32867,
+   "sha256": "c7bd379833259a201a1100e2c9f29e521053eb65eabae74f31b37bc1c089a38d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11321,
+   "sha256": "bd70de08271d3f10b195eba4bc90fdce64fa465ed5399815e219f53ffed790dc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3123106.jpg",
+  "bytes": 208711,
+  "sha256": "a037d620b3f17bf514c1b5394c4bf2066e44d88aa8a84f1e4fc15fb35e17d66a"
+ },
+ "sha1_origem": "9325aa10a31ac20ae2487cb842cea66c054283c1",
+ "bytes_origem": 208711,
+ "capturado_em": "2026-11-08T06:06:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Dores_de_Guanhães.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "9325aa10a31ac20ae2487cb842cea66c054283c1"
+ }
+}

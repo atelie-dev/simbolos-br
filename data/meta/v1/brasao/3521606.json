@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3521606",
+ "uf": "SP",
+ "municipio": "Irapuru",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Brasao-Irapuru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Irapuru",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1001dff451c5b4835cac6f4890ba23174db40a4ddc68da7914b0916144a9f24d",
+ "rendicoes": {
+  "png": {
+   "bytes": 110622,
+   "sha256": "616f6e094e9e880b2029c8f88ec1fba946387bafce22d46f56debd08258a0287",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23389,
+   "sha256": "63a5e063fefc7ccfb422b5d11425adf8010550886e93046371215b7226236d5f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521606.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3521606.jpg",
+  "bytes": 19008,
+  "sha256": "1001dff451c5b4835cac6f4890ba23174db40a4ddc68da7914b0916144a9f24d"
+ },
+ "sha1_origem": "7be5c8a40e139208f44ca8f1c68e76da5caebe02",
+ "bytes_origem": 19008,
+ "capturado_em": "2026-11-08T06:29:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-Irapuru.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "7be5c8a40e139208f44ca8f1c68e76da5caebe02"
+ }
+}

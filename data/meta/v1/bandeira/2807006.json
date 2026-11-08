@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2807006",
+ "uf": "SE",
+ "municipio": "São Miguel do Aleixo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bandeira_SMA-SE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Município de São Miguel do Aleixo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "27a0e9a6f774237526bec4a992ce4558a44900549945bf2bff6117b27ef748bb",
+ "rendicoes": {
+  "png": {
+   "bytes": 87896,
+   "sha256": "08738c01f9a43cd69804b4c5af88fb8d7805add4181803d09ebda5842fbdfb6b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23790,
+   "sha256": "3a100ee4238adde7c14e7f137f7f18e4dbf457f62ce2faf6355b47da3ff60818",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2807006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2807006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2807006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2807006.jpg",
+  "bytes": 39935,
+  "sha256": "27a0e9a6f774237526bec4a992ce4558a44900549945bf2bff6117b27ef748bb"
+ },
+ "sha1_origem": "cced5b15fc007d8708e69dd7699f90dd677a2321",
+ "bytes_origem": 39935,
+ "capturado_em": "2026-11-08T05:50:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_SMA-SE.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "cced5b15fc007d8708e69dd7699f90dd677a2321"
+ }
+}

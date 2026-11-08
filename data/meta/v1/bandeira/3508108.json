@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3508108",
+ "uf": "SP",
+ "municipio": "Buritama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bandeira_de_Buritama_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "79b50002e370c15f0bcc66ce2f296309f2fe128064c67218072ebfe9169f8acd",
+ "rendicoes": {
+  "png": {
+   "bytes": 47460,
+   "sha256": "b954d23eed9204ae56b554505bdfb5616f9674e65d94114f2a6650ded2868c77",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22637,
+   "sha256": "748334d4d606ca4ee83bb1a9f66f6c29cd214053f7d9132c828225d2fdd6e9de",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 361800,
+   "sha256": "79b50002e370c15f0bcc66ce2f296309f2fe128064c67218072ebfe9169f8acd"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508108.jpg"
+ },
+ "sha1_origem": "6238633a408ca4ec4892aad1fd42a57aa7ae3811",
+ "bytes_origem": 361800,
+ "capturado_em": "2026-11-08T03:59:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Buritama_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "6238633a408ca4ec4892aad1fd42a57aa7ae3811"
+ }
+}

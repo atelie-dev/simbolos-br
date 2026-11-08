@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2504207",
+ "uf": "PB",
+ "municipio": "Catingueira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bras%C3%A3o_Catingueira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Catingueira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "239787a014ca7e7059e1d34a34a21e4bf575705680a838cb59d3e8033b652efd",
+ "rendicoes": {
+  "png": {
+   "bytes": 112543,
+   "sha256": "cb151cb48d12a7eb8a18f2361ef098c6ef99e459bec45e82835cde5b2484c70a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26442,
+   "sha256": "d215be3dfaffc1499e38f4472aa7a56e3ecfffbcfb936231e57fc524886fa160",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2504207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2504207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2504207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2504207.jpg",
+  "bytes": 18381,
+  "sha256": "239787a014ca7e7059e1d34a34a21e4bf575705680a838cb59d3e8033b652efd"
+ },
+ "sha1_origem": "ab42fc7fce2cbae1c139dcbaed30dc084288ba95",
+ "bytes_origem": 18381,
+ "capturado_em": "2026-11-08T05:40:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Catingueira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:48Z",
+  "estado": "igual",
+  "sha1_commons": "ab42fc7fce2cbae1c139dcbaed30dc084288ba95"
+ }
+}

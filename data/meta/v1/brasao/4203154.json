@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4203154",
+ "uf": "SC",
+ "municipio": "Calmon",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bras%C3%A3o_do_munic%C3%ADpio_de_Calmon_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Calmon (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4f2d461c3696ec65db3bdfd3f9677df3dfcca15cc0156084272684c153b03fe6",
+ "rendicoes": {
+  "png": {
+   "bytes": 313976,
+   "sha256": "831d1b2b00d7751ba804392170a2120aa8813143e6cef0d3c41f180572d11108",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 64183,
+   "sha256": "7f22153d00c260f7976b572eb7d9437df61b9f820c6f0b76150c44368b046e32",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4203154.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4203154.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4203154.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4203154.png",
+  "bytes": 844545,
+  "sha256": "4f2d461c3696ec65db3bdfd3f9677df3dfcca15cc0156084272684c153b03fe6"
+ },
+ "sha1_origem": "9ed4f9ce9c5fb2616e3de3c29ec1efdaf1531e90",
+ "bytes_origem": 844545,
+ "capturado_em": "2026-11-08T06:52:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Calmon_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "9ed4f9ce9c5fb2616e3de3c29ec1efdaf1531e90"
+ }
+}

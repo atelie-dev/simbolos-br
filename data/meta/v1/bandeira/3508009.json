@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3508009",
+ "uf": "SP",
+ "municipio": "Buri",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bandeiraburi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "pm buri",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "66d93aab858dfd80e31c745324f863086763a8eeb4a2e9f5beb236e1afac13fb",
+ "rendicoes": {
+  "png": {
+   "bytes": 69519,
+   "sha256": "20b608b6b4595e63cf4db2ab0e79c8b47e27f513460de5c2ce1b6cc8325d52a0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22476,
+   "sha256": "4ccc264674863ec34c3aa982a9dba18b76616c069452b5d5ffe3eb247b19c60d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3508009.jpg",
+  "bytes": 142650,
+  "sha256": "66d93aab858dfd80e31c745324f863086763a8eeb4a2e9f5beb236e1afac13fb"
+ },
+ "sha1_origem": "7e27a06b7514905a5bcf6087f3a5d19d06b64217",
+ "bytes_origem": 142650,
+ "capturado_em": "2026-11-08T06:25:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraburi.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "7e27a06b7514905a5bcf6087f3a5d19d06b64217"
+ }
+}

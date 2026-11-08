@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3512902",
+ "uf": "SP",
+ "municipio": "Cosmorama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cosmorama-bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Gilson de Moura",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "40c6d8e215d1f22245e8ed4561b9040e7d37df91f2752b58749b39b1735e65e5",
+ "rendicoes": {
+  "png": {
+   "bytes": 96282,
+   "sha256": "10dc36be22dd9965f8c1a28ecb3244ef62f115e439089695bea1c959209928a2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25481,
+   "sha256": "4bda7be0054cb8f15f557dc100f598ebf1d89de38d94f195e613a682e6efcaea",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3512902.jpg",
+  "bytes": 34239,
+  "sha256": "40c6d8e215d1f22245e8ed4561b9040e7d37df91f2752b58749b39b1735e65e5"
+ },
+ "sha1_origem": "ba9e0d49faa64b4762344ac7cbd164b456449806",
+ "bytes_origem": 34239,
+ "capturado_em": "2026-11-08T06:26:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cosmorama-bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "ba9e0d49faa64b4762344ac7cbd164b456449806"
+ }
+}

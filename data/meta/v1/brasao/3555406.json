@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3555406",
+ "uf": "SP",
+ "municipio": "Ubatuba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/46/Ubatuba_brasao.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "f9a792dad3d3f770157c067ef07028415a7e13afac162dede992bf971296a907",
+ "rendicoes": {
+  "png": {
+   "bytes": 26288,
+   "sha256": "bc208823c8358599c6259e1e2e1886abaa3f55987fc59a42bfc1295ed240f002",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11986,
+   "sha256": "dc6650cf07003ca67d50c0f32edd36047f97a064edb041fe028b2fa10d3191a6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3555406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3555406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3555406.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3555406.gif",
+  "bytes": 9693,
+  "sha256": "f9a792dad3d3f770157c067ef07028415a7e13afac162dede992bf971296a907"
+ },
+ "sha1_origem": "37ba93ab126ea4a8aba85271d3d8bea4dccbb767",
+ "bytes_origem": 9693,
+ "capturado_em": "2026-11-08T06:40:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ubatuba_brasao.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "37ba93ab126ea4a8aba85271d3d8bea4dccbb767"
+ }
+}

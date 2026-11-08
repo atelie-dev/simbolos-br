@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5106851",
+ "uf": "MT",
+ "municipio": "Porto Estrela",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bandeira_Porto_Estrela.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura Municipal de Porto Estrela",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1c129ee344987693c6ad972570160e9aa290d834e5de1e8f118d0f7ac847e0aa",
+ "rendicoes": {
+  "png": {
+   "bytes": 37529,
+   "sha256": "d6557b6853c7a6a5cfef41cac1489abd0655876182fdcf40d6cc5737214c6170",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9066,
+   "sha256": "0088d611db37b952a7ab7ef986cc6ed6b9bbc929a4f854c2f66a6fa4c82f8d82",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106851.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106851.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106851.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5106851.png",
+  "bytes": 39910,
+  "sha256": "1c129ee344987693c6ad972570160e9aa290d834e5de1e8f118d0f7ac847e0aa"
+ },
+ "sha1_origem": "4db79559eb782bb5524b6510c8829b39a4c4a883",
+ "bytes_origem": 39910,
+ "capturado_em": "2026-11-08T07:15:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Porto_Estrela.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "4db79559eb782bb5524b6510c8829b39a4c4a883"
+ }
+}

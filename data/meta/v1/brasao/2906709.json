@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2906709",
+ "uf": "BA",
+ "municipio": "Cândido Sales",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bras%C3%A3o_de_C%C3%A2ndido_Sales.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Candido Sales",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "02f1282eb8c6c999634ba0f25fbf34bd89790f073e829b2264164239d4b5559f",
+ "rendicoes": {
+  "png": {
+   "bytes": 40825,
+   "sha256": "91cb22534333bccce25b5eb729a10e862d7005212ca02982bbb41fd9a5c51132",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9362,
+   "sha256": "204e79d064a3d41812b12a7ba740a6601b53b0c9d36182e7f0beaedf822addb1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2906709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2906709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2906709.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2906709.jpg",
+  "bytes": 10971,
+  "sha256": "02f1282eb8c6c999634ba0f25fbf34bd89790f073e829b2264164239d4b5559f"
+ },
+ "sha1_origem": "78cb3d056eafe0876d3f9207a783c020e0768092",
+ "bytes_origem": 10971,
+ "capturado_em": "2026-11-08T05:52:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cândido_Sales.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "78cb3d056eafe0876d3f9207a783c020e0768092"
+ }
+}

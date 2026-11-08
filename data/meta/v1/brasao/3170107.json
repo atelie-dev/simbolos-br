@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3170107",
+ "uf": "MG",
+ "municipio": "Uberaba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/BrasaoUberaba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "197668f28b33f646f3ae95066ca1a98309ade87fde9e61d87e7c8b3ba323a5c2",
+ "rendicoes": {
+  "png": {
+   "bytes": 332737,
+   "sha256": "e5764e32b786ecf80f68b9e3fdf9ae42ae7214449cdd80aa5f8bafe5cb1e70fd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 74836,
+   "sha256": "1db92980152618bebb4563f01faaf7b4771aede4230bd14c2ae2f3cf399d863d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3170107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3170107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3170107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3170107.jpg",
+  "bytes": 52308,
+  "sha256": "197668f28b33f646f3ae95066ca1a98309ade87fde9e61d87e7c8b3ba323a5c2"
+ },
+ "sha1_origem": "ec38cdc0ee828f717bbb49945207c91f021e82bb",
+ "bytes_origem": 52308,
+ "capturado_em": "2026-11-08T06:18:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoUberaba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "ec38cdc0ee828f717bbb49945207c91f021e82bb"
+ }
+}

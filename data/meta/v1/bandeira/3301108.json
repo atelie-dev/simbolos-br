@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3301108",
+ "uf": "RJ",
+ "municipio": "Cantagalo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bandeira_de_Cantagalo_%28Rio_de_Janeiro%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Cantagalo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "465dc372be1b3ef2ffd69e67bfb37695aa702b2a3b3fe0dc3ec11baca54fa407",
+ "rendicoes": {
+  "png": {
+   "bytes": 44538,
+   "sha256": "ea1287f94264accec9e81b2d40098eeeaf2dc857893a53d22f2fa6691a00bb61",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18424,
+   "sha256": "4b0d30fb7eb84aca9e72b135ebe81894eac7c79ae0a1096105fbb3a731c55346",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301108.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3301108.jpg",
+  "bytes": 16742,
+  "sha256": "465dc372be1b3ef2ffd69e67bfb37695aa702b2a3b3fe0dc3ec11baca54fa407"
+ },
+ "sha1_origem": "1220ad82d95081e5e56a9e70c450c1e5b038dfff",
+ "bytes_origem": 16742,
+ "capturado_em": "2026-11-08T06:20:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cantagalo_(Rio_de_Janeiro).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "1220ad82d95081e5e56a9e70c450c1e5b038dfff"
+ }
+}

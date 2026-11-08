@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3116704",
+ "uf": "MG",
+ "municipio": "Coimbra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Coimbramgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Coimbra",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bb3b4285faa86e9299b17c1802b572573f31de26b4d898ba793d1f939a40e45b",
+ "rendicoes": {
+  "png": {
+   "bytes": 46507,
+   "sha256": "396ebb88e6c11eb753bbb8042240e5591a1f3afc71eb2ade5a582ea51bf920f5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10843,
+   "sha256": "b39477004f0e5f0851527499f137982cfa8c54c8f384b0dbf23d49d5deb5f971",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3116704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3116704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3116704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3116704.jpg",
+  "bytes": 7612,
+  "sha256": "bb3b4285faa86e9299b17c1802b572573f31de26b4d898ba793d1f939a40e45b"
+ },
+ "sha1_origem": "5e09331a739d9341679c05b1c31b382164fded70",
+ "bytes_origem": 7612,
+ "capturado_em": "2026-11-08T06:03:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Coimbramgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:24Z",
+  "estado": "igual",
+  "sha1_commons": "5e09331a739d9341679c05b1c31b382164fded70"
+ }
+}

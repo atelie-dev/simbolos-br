@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2304004",
+ "uf": "CE",
+ "municipio": "Coreaú",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Flag_of_Corea%C3%BA_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1e5781d2575cd12a4d33be9349fe0b0d4acb189af995b95334dc24ddfb72c88a",
+ "rendicoes": {
+  "png": {
+   "bytes": 58235,
+   "sha256": "c1a3e96ee95ad038d3316f92d9ce13673546ebb7802abe67b780c435f9eb386b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21598,
+   "sha256": "04a0bc66b37f118cf1f1c39b8287a494fcc0429dcafb8af49676f90706f9f887",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2304004.jpg",
+  "bytes": 426827,
+  "sha256": "1e5781d2575cd12a4d33be9349fe0b0d4acb189af995b95334dc24ddfb72c88a"
+ },
+ "sha1_origem": "3660ec1cd4531294e34d3ea581d3ab70814aa060",
+ "bytes_origem": 426827,
+ "capturado_em": "2026-11-08T05:32:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Coreaú_Municipality_in_the_State_of_Ceará_in_Brazil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "3660ec1cd4531294e34d3ea581d3ab70814aa060"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4101200",
+ "uf": "PR",
+ "municipio": "Antonina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Band_Antonina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e509934ff1ea51c08f11315d2039d20393266747763a39f21455b4296c0fba94",
+ "rendicoes": {
+  "png": {
+   "bytes": 267177,
+   "sha256": "d94dd919bf3e1885b7117325ecbd4f32edb268cd1f0ef7ec61a64df4b8a2d1a5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28355,
+   "sha256": "e8b17865afc696711db9b4981329a577a6bf93ff25f77995ee1c8c0f1a083e24",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4101200.jpg",
+  "bytes": 146670,
+  "sha256": "e509934ff1ea51c08f11315d2039d20393266747763a39f21455b4296c0fba94"
+ },
+ "sha1_origem": "709a262e57048d1196d54e00177b3957bc793358",
+ "bytes_origem": 146670,
+ "capturado_em": "2026-11-08T06:41:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_Antonina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "709a262e57048d1196d54e00177b3957bc793358"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4317806",
+ "uf": "RS",
+ "municipio": "Santo Augusto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Santo_Augustoriograsul.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Santo Augusto",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "115ff18e9271d2543d16763b85c14efb4a03ecbe5bdd1297fb275526de18a9ab",
+ "rendicoes": {
+  "png": {
+   "bytes": 62436,
+   "sha256": "1fa87ae60b766d24fa232f9fdb98d60201d2dd256e4b3303473cae03ef5fbab1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19638,
+   "sha256": "76307ce767d1875b3ad11fda3f377f1f3fd9aab611e5ea2e352d2ea5657a40aa",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4317806.jpg",
+  "bytes": 26115,
+  "sha256": "115ff18e9271d2543d16763b85c14efb4a03ecbe5bdd1297fb275526de18a9ab"
+ },
+ "sha1_origem": "9eda4cdfd220308c245cf8ecd0cb7fb59623c671",
+ "bytes_origem": 26115,
+ "capturado_em": "2026-11-08T07:08:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Santo_Augustoriograsul.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:36Z",
+  "estado": "igual",
+  "sha1_commons": "9eda4cdfd220308c245cf8ecd0cb7fb59623c671"
+ }
+}

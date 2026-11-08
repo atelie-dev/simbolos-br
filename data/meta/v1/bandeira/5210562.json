@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5210562",
+ "uf": "GO",
+ "municipio": "Itaguari",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bandeira_de_Itaguari.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Itaguari",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a62e38b6f054c4087ea27f99cbd7b32682144b43ae4d1fbc49939d2ae4265911",
+ "rendicoes": {
+  "png": {
+   "bytes": 97032,
+   "sha256": "64537f096bca9c22efe7af0e3f9c690273f0b80ecbf1a667dd2224ba9a99b820",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40470,
+   "sha256": "c2f14fe7f3ac47b86d88ce9d783a18b49b0a269d340b3e82c3ef1c50a4f47087",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210562.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210562.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210562.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5210562.png",
+  "bytes": 78507,
+  "sha256": "a62e38b6f054c4087ea27f99cbd7b32682144b43ae4d1fbc49939d2ae4265911"
+ },
+ "sha1_origem": "98f84de46854ca69d4812efff09f87eeb84b4e2e",
+ "bytes_origem": 78507,
+ "capturado_em": "2026-11-08T07:18:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itaguari.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "98f84de46854ca69d4812efff09f87eeb84b4e2e"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1302603",
+ "uf": "AM",
+ "municipio": "Manaus",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bandeira_de_Manaus.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Manaus",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "f6c299384ca4d4c6571ea0e3bb6777dbe73b4a340dc73808b7b1909383f5f2f9",
+ "rendicoes": {
+  "png": {
+   "bytes": 55902,
+   "sha256": "d5589e361f4ee37b446cc77566a707f11aa48fff7ba0040a297085674310a397",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17684,
+   "sha256": "2653dbad5aae6aba77a0af0368b22041ffab9cdec7ed70cc2a2ae7fcfdef5390",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 175154,
+   "sha256": "f6c299384ca4d4c6571ea0e3bb6777dbe73b4a340dc73808b7b1909383f5f2f9"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302603.jpg"
+ },
+ "sha1_origem": "ee8ff41dc8aee1a5d2798423486dafd55b3c1385",
+ "bytes_origem": 175154,
+ "capturado_em": "2026-11-08T02:31:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Manaus.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "ee8ff41dc8aee1a5d2798423486dafd55b3c1385"
+ }
+}

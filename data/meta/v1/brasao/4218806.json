@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4218806",
+ "uf": "SC",
+ "municipio": "Turvo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Brasao_turvo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "88b0dfa4a7077213fd45491472b2616f9e3dff364846c3376a27ec3c05c2cc8f",
+ "rendicoes": {
+  "png": {
+   "bytes": 77894,
+   "sha256": "461a22f670975e059ea0cb2618da1a40acb994df5e47701f5bfdd46dd39fc1c1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17408,
+   "sha256": "b444f33c820bc2b901b2b64ddce68327e2450076ec34756c2b23dc4e15400c83",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4218806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4218806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4218806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4218806.jpg",
+  "bytes": 12377,
+  "sha256": "88b0dfa4a7077213fd45491472b2616f9e3dff364846c3376a27ec3c05c2cc8f"
+ },
+ "sha1_origem": "f26a30b4d7d1ebb20473d79fb5881ea2fcddce90",
+ "bytes_origem": 12377,
+ "capturado_em": "2026-11-08T06:57:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_turvo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "f26a30b4d7d1ebb20473d79fb5881ea2fcddce90"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5204003",
+ "uf": "GO",
+ "municipio": "Cabeceiras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bandeira_de_Cabeceiras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cabeceiras",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0f6ca80c0931e3781b36cfab8af768cbab905c96fd1ac06b0c27d908255867b5",
+ "rendicoes": {
+  "png": {
+   "bytes": 44833,
+   "sha256": "f37eda971d51478d701f3bcbb90a3d3a84ed8675d0ed980ab91dd12a76c5a59c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14801,
+   "sha256": "13db7d09ada022d7113520ebcf1a4327d5e2cb7febdc03feed844121b2161fd5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5204003.png",
+  "bytes": 43898,
+  "sha256": "0f6ca80c0931e3781b36cfab8af768cbab905c96fd1ac06b0c27d908255867b5"
+ },
+ "sha1_origem": "a9624c60815f50b2edb478b554ead797475d866d",
+ "bytes_origem": 43898,
+ "capturado_em": "2026-11-08T07:17:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cabeceiras.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "a9624c60815f50b2edb478b554ead797475d866d"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3140308",
+ "uf": "MG",
+ "municipio": "Marliéria",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_Marli%C3%A9ria_MG.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HVL",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f63e4e0c5ecc0f377b4686fb3492b682bcd099bc9b363e1190330dec5386b4e0",
+ "rendicoes": {
+  "png": {
+   "bytes": 39169,
+   "sha256": "5be9d0152404d95f3cd0026e098e82109678b64bc76b63396bc6f5e2de8a9f88",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14170,
+   "sha256": "edebeeee9e518c0d257934dd4ed0ad2f06ebcb8f00d22ccc3e342724ed771763",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3140308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3140308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3140308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3140308.png",
+  "bytes": 120064,
+  "sha256": "f63e4e0c5ecc0f377b4686fb3492b682bcd099bc9b363e1190330dec5386b4e0"
+ },
+ "sha1_origem": "23e57ff61bc5d416a3aa8d87191800941ce546ba",
+ "bytes_origem": 120064,
+ "capturado_em": "2026-11-08T06:11:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Marliéria_MG.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "23e57ff61bc5d416a3aa8d87191800941ce546ba"
+ }
+}

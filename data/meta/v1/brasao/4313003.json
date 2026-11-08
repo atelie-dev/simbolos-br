@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4313003",
+ "uf": "RS",
+ "municipio": "Nova Bréscia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Brasao_NB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nova Bréscia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a0f706c9f23335c5fca978d47e825b2ad0660a9ef6c6260d02a78976d2923377",
+ "rendicoes": {
+  "png": {
+   "bytes": 25805,
+   "sha256": "b62bc617b851ef7e62873ae8f619b0a38fcfd649cb9cf677caf2d0f4f5b10b26",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7085,
+   "sha256": "100b05ed2eb393aec291e38716c9b076193960af720a1c39c38e4d483d723b96",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4313003.jpg",
+  "bytes": 6488,
+  "sha256": "a0f706c9f23335c5fca978d47e825b2ad0660a9ef6c6260d02a78976d2923377"
+ },
+ "sha1_origem": "f3d595b142614d2f4a16cdc46d2b8a0c93d46677",
+ "bytes_origem": 6488,
+ "capturado_em": "2026-11-08T07:06:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_NB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "f3d595b142614d2f4a16cdc46d2b8a0c93d46677"
+ }
+}

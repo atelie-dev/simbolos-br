@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4301073",
+ "uf": "RS",
+ "municipio": "Arroio do Padre",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bras%C3%A3o_Arroio_do_Padre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Arroio do Padre",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b5498475dedf3a027eb59496297b9f0e7e348c5aa412053bbd74b4e71e881eb4",
+ "rendicoes": {
+  "png": {
+   "bytes": 178692,
+   "sha256": "8281fa8800277290db21b22aeb58777ef2af9638bd45f89ba55175e0a0f3a0a0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31289,
+   "sha256": "aae70fb4d21e6b20694442d97dc9bcdd3022d6c55001f9bb5a5c77d7fbc1e04e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4301073.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4301073.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4301073.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4301073.jpg",
+  "bytes": 95016,
+  "sha256": "b5498475dedf3a027eb59496297b9f0e7e348c5aa412053bbd74b4e71e881eb4"
+ },
+ "sha1_origem": "8c2aabc9d45e50b7b25454ec0269f889415741eb",
+ "bytes_origem": 95016,
+ "capturado_em": "2026-11-08T06:59:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Arroio_do_Padre.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "8c2aabc9d45e50b7b25454ec0269f889415741eb"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3119302",
+ "uf": "MG",
+ "municipio": "Coromandel",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Brasaocoromandel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Coromandel",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "47d2303fd63ba7fb20fc6a0dd43f4ad9fc46e30582773fbaef68cf783b1dec7a",
+ "rendicoes": {
+  "png": {
+   "bytes": 38551,
+   "sha256": "a00c2bba5b736d4f6e232cc089a5dfd3c9c19118b9cc15ff03379a8fc6ac4f84",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9070,
+   "sha256": "e4be3b50acfa730947542c1ce5f29494e1685a2b478c1fcd7e02889706f5ebb1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3119302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3119302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3119302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3119302.jpg",
+  "bytes": 8901,
+  "sha256": "47d2303fd63ba7fb20fc6a0dd43f4ad9fc46e30582773fbaef68cf783b1dec7a"
+ },
+ "sha1_origem": "e597a019a0b9e58fb411286ebab8fb1bd5940919",
+ "bytes_origem": 8901,
+ "capturado_em": "2026-11-08T06:04:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaocoromandel.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "e597a019a0b9e58fb411286ebab8fb1bd5940919"
+ }
+}

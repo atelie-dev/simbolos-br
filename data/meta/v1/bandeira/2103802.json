@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2103802",
+ "uf": "MA",
+ "municipio": "Dom Pedro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bandeira_de_Dom_Pedro_%28Maranh%C3%A3o%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "https://imageshack.com/i/nmds93j",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6f47b88d3f8d1c96d0c0bc76de82c0efc2638460f352497f11ff8e41b532ea58",
+ "rendicoes": {
+  "png": {
+   "bytes": 193036,
+   "sha256": "b6487c4fd4ab523659d8fe48d25a3c8d076bf4ef86f91fac9a2ac4b569bdd3d3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28895,
+   "sha256": "1a30ce04d6519d57a759a968476dd5f53a15aeadc86ea917a9e9f1437aaa0840",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2103802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2103802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2103802.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2103802.jpg",
+  "bytes": 23546,
+  "sha256": "6f47b88d3f8d1c96d0c0bc76de82c0efc2638460f352497f11ff8e41b532ea58"
+ },
+ "sha1_origem": "92a83e3d58ef84b8e13f85e5cde317ab9c6c4dbb",
+ "bytes_origem": 23546,
+ "capturado_em": "2026-11-08T05:28:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Dom_Pedro_(Maranhão).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "92a83e3d58ef84b8e13f85e5cde317ab9c6c4dbb"
+ }
+}

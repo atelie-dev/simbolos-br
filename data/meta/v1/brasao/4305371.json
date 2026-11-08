@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305371",
+ "uf": "RS",
+ "municipio": "Charrua",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bras%C3%A3o_Charrua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Charrua",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "be31bb0eabe156b556a3a19a125172b62cf42125a293505dce5c9d1f2de10f63",
+ "rendicoes": {
+  "png": {
+   "bytes": 436041,
+   "sha256": "d1b23536b2310032739a887a606dbc3bdcec449684112955f2503ffa70123d40",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 88386,
+   "sha256": "e7660c0f248ec6fcdbbbe3b6ad56bdb04d5ecb19a0bd3020a1db700665d12b3b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305371.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305371.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4305371.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4305371.jpg",
+  "bytes": 353545,
+  "sha256": "be31bb0eabe156b556a3a19a125172b62cf42125a293505dce5c9d1f2de10f63"
+ },
+ "sha1_origem": "0a155edcdc7f324be79992a9489d374ddb3511d1",
+ "bytes_origem": 353545,
+ "capturado_em": "2026-11-08T07:01:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Charrua.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:48Z",
+  "estado": "igual",
+  "sha1_commons": "0a155edcdc7f324be79992a9489d374ddb3511d1"
+ }
+}

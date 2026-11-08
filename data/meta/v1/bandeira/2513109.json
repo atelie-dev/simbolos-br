@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2513109",
+ "uf": "PB",
+ "municipio": "Salgado de São Félix",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bandeira_de_Salgado_de_S%C3%A3o_F%C3%A9lix-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3a58f819f60190284b7e89b9e869ed91f8026854196d700357887810b908e28b",
+ "rendicoes": {
+  "png": {
+   "bytes": 34613,
+   "sha256": "82024162788978d177c7815a255120c1709b470d35d76779f861bc6185e1bb5a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16513,
+   "sha256": "580760fec70150701c7a92026a99adbe7feced38ad3f6d1de0ac4879e3ebf332",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 60465,
+   "sha256": "3a58f819f60190284b7e89b9e869ed91f8026854196d700357887810b908e28b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513109.jpg"
+ },
+ "sha1_origem": "e296440fdfe1c3c8a49da004d6ed8a42b058109b",
+ "bytes_origem": 60465,
+ "capturado_em": "2026-11-08T03:01:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Salgado_de_São_Félix-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "e296440fdfe1c3c8a49da004d6ed8a42b058109b"
+ }
+}

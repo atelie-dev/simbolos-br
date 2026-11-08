@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3204807",
+ "uf": "ES",
+ "municipio": "São José do Calçado",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandeira_de_S%C3%A3o_Jos%C3%A9_do_Cal%C3%A7ado.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/webp",
+ "sha256_origem": "346502cae6e6c961126b04662f434f09d552d387b0998716ce988f3706a21198",
+ "rendicoes": {
+  "png": {
+   "bytes": 197328,
+   "sha256": "f3bf4f025b29720fa845c8159b68df3b3d194a86def522f73c608931b65e8600",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34725,
+   "sha256": "cb36b05bff8c60ec7d2a630b33412fa67db0d84f16abca031e6e65055926ed56",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204807.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3204807.webp",
+  "bytes": 48578,
+  "sha256": "346502cae6e6c961126b04662f434f09d552d387b0998716ce988f3706a21198"
+ },
+ "sha1_origem": "f2a6214704d738269e9c8ef20b08035554b012ca",
+ "bytes_origem": 48578,
+ "capturado_em": "2026-11-08T06:20:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_José_do_Calçado.webp",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "f2a6214704d738269e9c8ef20b08035554b012ca"
+ }
+}

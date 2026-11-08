@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3302502",
+ "uf": "RJ",
+ "municipio": "Magé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bandeira_de_Mag%C3%A9.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pcgomes",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "bf951001a9aa76c700eb034997b10c1c75d34659cfd9381f6dfe90ec9eb3b3c7",
+ "rendicoes": {
+  "png": {
+   "bytes": 38617,
+   "sha256": "53e9611e4a28a01460fef6f85abbc86e13c81a9ff789b1f49e4dd8a99acb30bb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18860,
+   "sha256": "bc35d22e84d30c699dab21799f706e286998c33fa89d9c5bb19f27ddb259c7d0",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 604459,
+   "sha256": "bf951001a9aa76c700eb034997b10c1c75d34659cfd9381f6dfe90ec9eb3b3c7"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302502.jpg"
+ },
+ "sha1_origem": "a8c68d07842ecdb45eea97dd829601fd95d273fb",
+ "bytes_origem": 604459,
+ "capturado_em": "2026-11-08T03:54:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Magé.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "a8c68d07842ecdb45eea97dd829601fd95d273fb"
+ }
+}

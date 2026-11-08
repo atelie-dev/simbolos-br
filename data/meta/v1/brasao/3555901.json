@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3555901",
+ "uf": "SP",
+ "municipio": "Uru",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bras%C3%A3o_Uru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c962aa4a9ea69de0c69ca8ddb6cfec83b87cfb373e52b5ae523e52c9867d608c",
+ "rendicoes": {
+  "png": {
+   "bytes": 160490,
+   "sha256": "bd6e45775361e0b94ba77d947bcb1dc4b26212ef92fc76ffb1831c19600822b3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30221,
+   "sha256": "c646fa1f7189844055ff45b9f3542e8450e6bfb7635a5a8af22ddafc452cbad5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3555901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3555901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3555901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3555901.jpg",
+  "bytes": 162440,
+  "sha256": "c962aa4a9ea69de0c69ca8ddb6cfec83b87cfb373e52b5ae523e52c9867d608c"
+ },
+ "sha1_origem": "98c940fd1e908fe87109014d1c76b16645681b62",
+ "bytes_origem": 162440,
+ "capturado_em": "2026-11-08T06:40:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Uru.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "98c940fd1e908fe87109014d1c76b16645681b62"
+ }
+}

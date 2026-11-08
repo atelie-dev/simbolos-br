@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1100700",
+ "uf": "RO",
+ "municipio": "Campo Novo de Rondônia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bandeira_de_Campo_Novo_de_Rond%C3%B4nia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Gmarink",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "851a5aaf8ce6c95b2a888f925b6e555f57300beeb40aaf36650c32e29eb0d54a",
+ "rendicoes": {
+  "png": {
+   "bytes": 14225,
+   "sha256": "8020a3adc4af68ff34104a1fe481cb48b0f6c4fa39b67e13f44285de95609a45",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15153,
+   "sha256": "51191a4c52a5854ffcc2093d6802a4ca8e7446feaa4faa833c4da4006ae4abb5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1100700.png",
+  "bytes": 90653,
+  "sha256": "851a5aaf8ce6c95b2a888f925b6e555f57300beeb40aaf36650c32e29eb0d54a"
+ },
+ "sha1_origem": "03c37a5faffe05f288072fe8be814dad05c6fc3b",
+ "bytes_origem": 90653,
+ "capturado_em": "2026-11-08T05:21:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Campo_Novo_de_Rondônia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "03c37a5faffe05f288072fe8be814dad05c6fc3b"
+ }
+}

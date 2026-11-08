@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3132305",
+ "uf": "MG",
+ "municipio": "Itaipé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bandeira_itaipe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0bd4143b8cfb0fc780cb47434998bdc3597bd8afe7efeebed7195b335c6bfd8d",
+ "rendicoes": {
+  "png": {
+   "bytes": 75635,
+   "sha256": "90adcfe1f0b574e66e7d68c1a3639851db184c1b692eee473acf23677568fb0c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17850,
+   "sha256": "a45d52ec83c73d863e34c66a6f61eda483f9f1e1c35298a411ed4b71d6ca0e09",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3132305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3132305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3132305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3132305.jpg",
+  "bytes": 10798,
+  "sha256": "0bd4143b8cfb0fc780cb47434998bdc3597bd8afe7efeebed7195b335c6bfd8d"
+ },
+ "sha1_origem": "8c7fc08ab9569556db53691c58c4edf6a7d28311",
+ "bytes_origem": 10798,
+ "capturado_em": "2026-11-08T06:09:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_itaipe.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "8c7fc08ab9569556db53691c58c4edf6a7d28311"
+ }
+}

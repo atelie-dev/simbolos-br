@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3130101",
+ "uf": "MG",
+ "municipio": "Igarapé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bandeira_de_Igarap%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Osvanda",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7ebc8ebee5074b914080288d9af6782db7c049c137eae819c6c2443943e90a82",
+ "rendicoes": {
+  "png": {
+   "bytes": 55212,
+   "sha256": "8378672c0740084f9685483e7bb4c5c492e11c10a61caaf5cf518c66027a392d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14028,
+   "sha256": "1fb4f8c9c25b593660cd032419fee4bfbd8c6b0e31f46550f5f442d99e83464d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3130101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3130101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3130101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3130101.jpg",
+  "bytes": 14390,
+  "sha256": "7ebc8ebee5074b914080288d9af6782db7c049c137eae819c6c2443943e90a82"
+ },
+ "sha1_origem": "f62cad5f234b3647aaaf7f1bf201e6c930e798c4",
+ "bytes_origem": 14390,
+ "capturado_em": "2026-11-08T06:08:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Igarapé.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "f62cad5f234b3647aaaf7f1bf201e6c930e798c4"
+ }
+}

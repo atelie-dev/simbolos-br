@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3516903",
+ "uf": "SP",
+ "municipio": "General Salgado",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bras%C3%A3o_de_General_Salgado%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de General Salgado/SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a4e3fef75519f4cdc72f2591c19f7bb6719dafa9e9df7216f529a749375b6be8",
+ "rendicoes": {
+  "png": {
+   "bytes": 111295,
+   "sha256": "5f3ec528d379255781dfa5609a7f09734334dbe16c3f35239e6374c8a126b29e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22728,
+   "sha256": "95a5d84b65573a4b996b9f1f808e11141dfb90f4def56c7ab974122e67b03d2f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3516903.jpg",
+  "bytes": 29618,
+  "sha256": "a4e3fef75519f4cdc72f2591c19f7bb6719dafa9e9df7216f529a749375b6be8"
+ },
+ "sha1_origem": "cce7d8ece7538af04a35d26997f46e22fc0cb3f0",
+ "bytes_origem": 29618,
+ "capturado_em": "2026-11-08T06:28:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_General_Salgado,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:02Z",
+  "estado": "igual",
+  "sha1_commons": "cce7d8ece7538af04a35d26997f46e22fc0cb3f0"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4100509",
+ "uf": "PR",
+ "municipio": "Altônia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bandeira_de_Alt%C3%B4nia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Altônia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "51639af6597c7a84b90f480d7926c8aaba85590584de223a43302a2caa49fb5d",
+ "rendicoes": {
+  "png": {
+   "bytes": 10202,
+   "sha256": "624e2868f24cfbcf756efbaa987726fdc86c409994f44397fea11781702143cc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15761,
+   "sha256": "7261a615bdd0ff6e8d57ae3028fd6236b68258146da2f8894110ae8d245dee23",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4100509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4100509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4100509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4100509.jpg",
+  "bytes": 55949,
+  "sha256": "51639af6597c7a84b90f480d7926c8aaba85590584de223a43302a2caa49fb5d"
+ },
+ "sha1_origem": "d83171326333f75befbe3c4a184854fc0db00fcb",
+ "bytes_origem": 55949,
+ "capturado_em": "2026-11-08T06:40:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Altônia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "d83171326333f75befbe3c4a184854fc0db00fcb"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3509502",
+ "uf": "SP",
+ "municipio": "Campinas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Campinas_city_flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Guilherme de Almeida",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "58f7f996c3c8d4ad1f3350d678933fd9816514f37062707b23207d4baccf6f71",
+ "rendicoes": {
+  "png": {
+   "bytes": 42851,
+   "sha256": "5d8ced402379223ab3078ec0c18d84f2cff893e7ae23b4f81a8bdf2577d0cb8c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14820,
+   "sha256": "2c658ce6f68cf0a01704008c56fbc1563ce2de32a994a9e2d4bdbbf1829dc053",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 26125,
+   "sha256": "58f7f996c3c8d4ad1f3350d678933fd9816514f37062707b23207d4baccf6f71"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509502.jpg"
+ },
+ "sha1_origem": "c96da95e2a2c9d79ad5af9c48177c3c380852718",
+ "bytes_origem": 26125,
+ "capturado_em": "2026-11-08T04:00:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Campinas_city_flag.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "c96da95e2a2c9d79ad5af9c48177c3c380852718"
+ }
+}

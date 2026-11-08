@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3516002",
+ "uf": "SP",
+ "municipio": "Flórida Paulista",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bras%C3%A3o_Fl%C3%B3rida_Paulista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9e4c680e81ab2d4bd4363ee7a5f4cb73034197ec4d39e0ed33807a6b2f5e1efb",
+ "rendicoes": {
+  "png": {
+   "bytes": 158016,
+   "sha256": "74cf16556ca8e4ceb0e7962b2990e854505f7345f9222dc43a9065d666310c7e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32512,
+   "sha256": "a08ac9380905913dee3a74556b86e9458e4b0b4152e8d94627a6b1c139e7460e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3516002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3516002.jpg",
+  "bytes": 37257,
+  "sha256": "9e4c680e81ab2d4bd4363ee7a5f4cb73034197ec4d39e0ed33807a6b2f5e1efb"
+ },
+ "sha1_origem": "882ce85c66f0ab86a1f49834047060b4c4c91604",
+ "bytes_origem": 37257,
+ "capturado_em": "2026-11-08T06:27:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Flórida_Paulista.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "882ce85c66f0ab86a1f49834047060b4c4c91604"
+ }
+}

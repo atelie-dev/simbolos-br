@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4119152",
+ "uf": "PR",
+ "municipio": "Pinhais",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bandeira_de_Pinhais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Pinhais",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8d04fe8d067084e370be58fa75e1c04bfdb1270b955ef4fec42cc95a780a4c1e",
+ "rendicoes": {
+  "png": {
+   "bytes": 55208,
+   "sha256": "4a2c17cef49f848429a92ad80996d6f85e6ec0802096862b0403685854028bd7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25173,
+   "sha256": "75f57014ca21bb6d5eaf24bcb6640c6c580af95ac8106cd730bd3fdb5c536717",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119152.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119152.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119152.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4119152.jpg",
+  "bytes": 891264,
+  "sha256": "8d04fe8d067084e370be58fa75e1c04bfdb1270b955ef4fec42cc95a780a4c1e"
+ },
+ "sha1_origem": "8202c627b60fb83e477b4ff73e8c2f6b5ef31489",
+ "bytes_origem": 891264,
+ "capturado_em": "2026-11-08T06:47:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pinhais.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "8202c627b60fb83e477b4ff73e8c2f6b5ef31489"
+ }
+}

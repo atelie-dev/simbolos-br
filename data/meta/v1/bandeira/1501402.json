@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1501402",
+ "uf": "PA",
+ "municipio": "Belém",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bandeira_de_Bel%C3%A9m.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c9e1be2212a6e2448ca5b34d25983e04ee1da17df5ab260e4c241be07af70514",
+ "rendicoes": {
+  "png": {
+   "bytes": 64453,
+   "sha256": "8b93251b1d0cc8b9000e72cba7b5d9924d15c19fb9657a923a098a51b1d81e8f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21815,
+   "sha256": "e61477af873468844a9aeb9b70b48d57a498b9601a3150c422fc59297dbf3367",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 425039,
+   "sha256": "c9e1be2212a6e2448ca5b34d25983e04ee1da17df5ab260e4c241be07af70514"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1501402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1501402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1501402.jpg"
+ },
+ "sha1_origem": "90a817e8d52e76c150054e9dc68c7340d3aeaf35",
+ "bytes_origem": 425039,
+ "capturado_em": "2026-11-08T02:33:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Belém.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "90a817e8d52e76c150054e9dc68c7340d3aeaf35"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2929503",
+ "uf": "BA",
+ "municipio": "São Sebastião do Passé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/69/BandeiraSSP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de São Sebastião do Passé",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2a099be36e2215e828900ef74147b7969b76b7c03e33ce2feaa4a3587993768b",
+ "rendicoes": {
+  "png": {
+   "bytes": 95793,
+   "sha256": "18bb9eddff1c39153ddbec18e9771f18e345d26930cc576786a100513b7eb38d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24034,
+   "sha256": "d5c89fa66c9c18e7753b9156b795f82ec695c3ef60fc0bdf4cabf25b1e67bced",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2929503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2929503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2929503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2929503.jpg",
+  "bytes": 153570,
+  "sha256": "2a099be36e2215e828900ef74147b7969b76b7c03e33ce2feaa4a3587993768b"
+ },
+ "sha1_origem": "cc27e3a48f8af5e098a10a094eb48881e1de36b1",
+ "bytes_origem": 153570,
+ "capturado_em": "2026-11-08T05:57:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraSSP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "cc27e3a48f8af5e098a10a094eb48881e1de36b1"
+ }
+}

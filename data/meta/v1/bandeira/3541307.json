@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3541307",
+ "uf": "SP",
+ "municipio": "Presidente Epitácio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bandeira_de_Presidente_Epit%C3%A1cio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f211dfef16939344e4b608b9909f3c2c8993661f7bd6508cc88596c7ccd0a892",
+ "rendicoes": {
+  "png": {
+   "bytes": 144478,
+   "sha256": "23c030a04f50f35f23e329f726e052ed59607cea2459dce90b05282be205cbf8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30192,
+   "sha256": "2e0608f1e73612594c946c75679df2bc98cc58e3d6ac33dee09ef5f6f031e190",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3541307.jpg",
+  "bytes": 51427,
+  "sha256": "f211dfef16939344e4b608b9909f3c2c8993661f7bd6508cc88596c7ccd0a892"
+ },
+ "sha1_origem": "a027e9535040ac4333741d0d92e183c6982cc297",
+ "bytes_origem": 51427,
+ "capturado_em": "2026-11-08T06:35:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Presidente_Epitácio.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "a027e9535040ac4333741d0d92e183c6982cc297"
+ }
+}

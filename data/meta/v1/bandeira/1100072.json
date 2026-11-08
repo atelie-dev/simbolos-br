@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1100072",
+ "uf": "RO",
+ "municipio": "Corumbiara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bandeira_Corumbiara.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Corumbiara.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7a35b99c77d5d2029270438c928506686d51304181c9f1770b37a8bb7f6bd20d",
+ "rendicoes": {
+  "png": {
+   "bytes": 10529,
+   "sha256": "dbab7fc9adda7eab05daa7ec47244c97cf3161f14f2bdf589d5e5d1cfb81f8c3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7346,
+   "sha256": "565caae1c4f46f84e55ae72619256090d6ea413ca24f1745a117179e4d069b3f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100072.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100072.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100072.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1100072.png",
+  "bytes": 4030,
+  "sha256": "7a35b99c77d5d2029270438c928506686d51304181c9f1770b37a8bb7f6bd20d"
+ },
+ "sha1_origem": "4c1ad6c8b222d567c7bd524df69fcc4dede6875f",
+ "bytes_origem": 4030,
+ "capturado_em": "2026-11-08T05:21:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Corumbiara.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "4c1ad6c8b222d567c7bd524df69fcc4dede6875f"
+ }
+}

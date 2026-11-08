@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3526209",
+ "uf": "SP",
+ "municipio": "Juquitiba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Juquitiba.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bb6f63c43ead93d9052dec090f77b9586bb3ec54e7ab1a8382677a352f2ef001",
+ "rendicoes": {
+  "png": {
+   "bytes": 476828,
+   "sha256": "f8627e849a8b8a8fbb1d1aefd647f6f8c59602b899e122667f74cce3b7fa3f30",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 85594,
+   "sha256": "108aa42b8c0f0274dbc5ee3d2721f3b6f3b329e28dc6abb14872e3a16ff9f1b6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3526209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3526209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3526209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3526209.png",
+  "bytes": 456382,
+  "sha256": "bb6f63c43ead93d9052dec090f77b9586bb3ec54e7ab1a8382677a352f2ef001"
+ },
+ "sha1_origem": "ac2ec0aef082e6bfe24430cc871f87392023c872",
+ "bytes_origem": 456382,
+ "capturado_em": "2026-11-08T06:31:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Juquitiba.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "ac2ec0aef082e6bfe24430cc871f87392023c872"
+ }
+}

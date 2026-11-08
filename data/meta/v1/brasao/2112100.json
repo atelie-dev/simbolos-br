@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2112100",
+ "uf": "MA",
+ "municipio": "Timbiras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Brasao_Timbiras2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura Municipal de Timbiras (MA)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "513f682dcdcb47f6b75541aecc183ef2ca24bf4d89e8bdbf8031098399d177ad",
+ "rendicoes": {
+  "png": {
+   "bytes": 34530,
+   "sha256": "ec4747452cca3038ef894851267b059079a5a4e749c9d73c7b398e549f02a538",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9374,
+   "sha256": "0ea59e1cdb0b7c53ecfc463d22d01ec5dd35da6937efdcf69e5f1dd23914566c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2112100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2112100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2112100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2112100.jpg",
+  "bytes": 9112,
+  "sha256": "513f682dcdcb47f6b75541aecc183ef2ca24bf4d89e8bdbf8031098399d177ad"
+ },
+ "sha1_origem": "799f7831dec9aa43447aa5517b0c03adb6146dab",
+ "bytes_origem": 9112,
+ "capturado_em": "2026-11-08T05:29:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Timbiras2.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "799f7831dec9aa43447aa5517b0c03adb6146dab"
+ }
+}

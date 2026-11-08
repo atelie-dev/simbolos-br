@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5214804",
+ "uf": "GO",
+ "municipio": "Nova Aurora",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bandeira_de_Nova_Aurora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Nova Aurora",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "84007b3281294eb51572880e08352ce992543d3e9d22df31bb79ae026f577c43",
+ "rendicoes": {
+  "png": {
+   "bytes": 74595,
+   "sha256": "fb704c3f1ace93d2a2d32b36f1153ce7ccf8bef1c80c9d9848c5e4cd516bce71",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16494,
+   "sha256": "92760155bb669bae4e266671ba0a600dc30cc1c3ad1a390e5d39ed8609b8323f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5214804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5214804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5214804.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5214804.jpg",
+  "bytes": 16037,
+  "sha256": "84007b3281294eb51572880e08352ce992543d3e9d22df31bb79ae026f577c43"
+ },
+ "sha1_origem": "3035555e16c611303863525a57c9d3be12a6da5e",
+ "bytes_origem": 16037,
+ "capturado_em": "2026-11-08T07:19:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nova_Aurora.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "3035555e16c611303863525a57c9d3be12a6da5e"
+ }
+}

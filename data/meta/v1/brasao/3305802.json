@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3305802",
+ "uf": "RJ",
+ "municipio": "Teresópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Brasao_teresopolis.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Dleafy",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "44d63ac60581c923e6de513d26dad863b379ef277828238e2ea29eee679cfb48",
+ "rendicoes": {
+  "png": {
+   "bytes": 132884,
+   "sha256": "5bf92202c30ed3f10e36eab7457f631ff0a70718652ddbbf70b3a13d17f50cf2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 51450,
+   "sha256": "3ce5948b2789eb8233211d11215444f4302a48ff42bde64513200e02fbf48f78",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 41995,
+   "sha256": "44d63ac60581c923e6de513d26dad863b379ef277828238e2ea29eee679cfb48"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3305802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3305802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3305802.jpg"
+ },
+ "sha1_origem": "5766e3ca5bfd74cf92ae07dedc6c03b14a08021e",
+ "bytes_origem": 41995,
+ "capturado_em": "2026-11-08T03:56:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_teresopolis.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "5766e3ca5bfd74cf92ae07dedc6c03b14a08021e"
+ }
+}

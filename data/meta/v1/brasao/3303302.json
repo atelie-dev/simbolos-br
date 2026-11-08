@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3303302",
+ "uf": "RJ",
+ "municipio": "Niterói",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bras%C3%A3o_de_Niter%C3%B3i%2C_RJ.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Guilherme Paula",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "443fc4e27aafd86031c54ea1b85662ef86fa553f8b89b5758b98506160eb8669",
+ "rendicoes": {
+  "png": {
+   "bytes": 151100,
+   "sha256": "ed23df914aaf46b2d949e327a8193f4ab763273e28370562e24d0abf1baa2b70",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59234,
+   "sha256": "71f158b873a09e13fdfc436a0c8f051d541e4e9c6ae20adfb08efbbd893d99e1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 212085,
+   "sha256": "443fc4e27aafd86031c54ea1b85662ef86fa553f8b89b5758b98506160eb8669"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303302.jpg"
+ },
+ "sha1_origem": "2069e26c27528342309c962c5fcd8e62c44338f5",
+ "bytes_origem": 212085,
+ "capturado_em": "2026-11-08T03:55:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Niterói,_RJ.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "2069e26c27528342309c962c5fcd8e62c44338f5"
+ }
+}

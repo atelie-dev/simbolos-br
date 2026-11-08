@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2902005",
+ "uf": "BA",
+ "municipio": "Aracatu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bras%C3%A3o_de_Aracatu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9417410ed0679843ed766da13758a3e5439c17b7ecba17e6615e1c11e0f37149",
+ "rendicoes": {
+  "png": {
+   "bytes": 171783,
+   "sha256": "d0258d8096c81b6698bdc8a80573be60eb034a0e5829181d28f921effe4f9452",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33621,
+   "sha256": "3c3dac86e635ec96f40b5f45f3b1bff180b6c03b062325f2dd0a04f4a56d9ebd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2902005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2902005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2902005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2902005.jpg",
+  "bytes": 72226,
+  "sha256": "9417410ed0679843ed766da13758a3e5439c17b7ecba17e6615e1c11e0f37149"
+ },
+ "sha1_origem": "078652ff83eaccedb4fbb9cbe1dc845efea42e06",
+ "bytes_origem": 72226,
+ "capturado_em": "2026-11-08T05:51:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Aracatu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "078652ff83eaccedb4fbb9cbe1dc845efea42e06"
+ }
+}

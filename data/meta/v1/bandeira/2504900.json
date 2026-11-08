@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2504900",
+ "uf": "PB",
+ "municipio": "Cruz do Espírito Santo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bandeira_Cruz_do_Esp%C3%ADrito_Santo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cruz do Espírito Santo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "f4af0e08b7234d919a0256a96993d9a68a471a7865eabbb63aba3737f8e4b741",
+ "rendicoes": {
+  "png": {
+   "bytes": 43409,
+   "sha256": "629650383d7d576d797f75fc64579deea64b36201144ed23fe6791118f745b0b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17694,
+   "sha256": "739e74608e56edf499b7b4c4b7dbf1dd7177e188819ec7aa00e86dde159856dd",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 334045,
+   "sha256": "f4af0e08b7234d919a0256a96993d9a68a471a7865eabbb63aba3737f8e4b741"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2504900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2504900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2504900.jpg"
+ },
+ "sha1_origem": "8c0bfb516ff3af0a8eb7610bd5fcc26dc239f353",
+ "bytes_origem": 334045,
+ "capturado_em": "2026-11-08T02:57:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Cruz_do_Espírito_Santo.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "8c0bfb516ff3af0a8eb7610bd5fcc26dc239f353"
+ }
+}

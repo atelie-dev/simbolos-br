@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3110103",
+ "uf": "MG",
+ "municipio": "Caiana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Caianamgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Caiana",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "53170972db33ec242a9102b67c447c2e0ec0487f64b61e43628f9f5acf13729b",
+ "rendicoes": {
+  "png": {
+   "bytes": 28002,
+   "sha256": "2c5114bd76e1dd8bd3df92e1f2860e6f001accfbdbe0c6824ba7eb3b8ee0e4ca",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8661,
+   "sha256": "cd44abf61e96b6148c22f195c15c97006f2e882a1b16935f2834927cc290432b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3110103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3110103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3110103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3110103.jpg",
+  "bytes": 6825,
+  "sha256": "53170972db33ec242a9102b67c447c2e0ec0487f64b61e43628f9f5acf13729b"
+ },
+ "sha1_origem": "76f1cfc010cd3512e415fc346d00352d758adf2e",
+ "bytes_origem": 6825,
+ "capturado_em": "2026-11-08T06:01:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Caianamgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "76f1cfc010cd3512e415fc346d00352d758adf2e"
+ }
+}

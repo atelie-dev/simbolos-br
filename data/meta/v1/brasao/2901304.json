@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2901304",
+ "uf": "BA",
+ "municipio": "Andaraí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bras%C3%A3o_de_Andara%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ae8e4a37ff43c7e891b45b77d6d6a2e8bedae7db8e1aa7dbafdf78156c582c82",
+ "rendicoes": {
+  "png": {
+   "bytes": 39215,
+   "sha256": "183e7c7c24153a8edf069ec5e09241a78f15282a2928bba685f30c59e5ff8eb0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11102,
+   "sha256": "9d50e46835a237c060541d766227a1a520962fcd5720968e1d17fe87098e3bda",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2901304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2901304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2901304.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2901304.jpg",
+  "bytes": 10975,
+  "sha256": "ae8e4a37ff43c7e891b45b77d6d6a2e8bedae7db8e1aa7dbafdf78156c582c82"
+ },
+ "sha1_origem": "9c50f1382e6e6afcec0015b00c1ab76dc0473e4e",
+ "bytes_origem": 10975,
+ "capturado_em": "2026-11-08T05:50:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Andaraí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "9c50f1382e6e6afcec0015b00c1ab76dc0473e4e"
+ }
+}

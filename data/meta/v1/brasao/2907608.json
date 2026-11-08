@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2907608",
+ "uf": "BA",
+ "municipio": "Central",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Brasao_de_Central_BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Michel_Pires",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5c67ec4b9703a1962d8b660e81a306f340d6a7ee2eae9e2bca910461e01a491b",
+ "rendicoes": {
+  "png": {
+   "bytes": 276125,
+   "sha256": "46f451eb4701ae40c0853cd810557c79c6e737c0167cf6ba60bd35b922f43983",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54762,
+   "sha256": "da8b1a7028a33031bf7c806b4aae0df9a5bfd7693404be23b9d0804a9626ec40",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2907608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2907608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2907608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2907608.jpg",
+  "bytes": 127907,
+  "sha256": "5c67ec4b9703a1962d8b660e81a306f340d6a7ee2eae9e2bca910461e01a491b"
+ },
+ "sha1_origem": "d96842ea587706d6104a74325062aa33838bc1f7",
+ "bytes_origem": 127907,
+ "capturado_em": "2026-11-08T05:52:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_de_Central_BA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "d96842ea587706d6104a74325062aa33838bc1f7"
+ }
+}

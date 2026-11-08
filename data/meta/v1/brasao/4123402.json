@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4123402",
+ "uf": "PR",
+ "municipio": "Santa Fé",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Brasaosantafepr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santa Fé",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fe10f522157418ff89889f44dfc3b5f72f287c0f46b16dba40b8f2bc3b536994",
+ "rendicoes": {
+  "png": {
+   "bytes": 206737,
+   "sha256": "81120ced7007a205ee07a0261435554fa1d50b656c996281459e83337b28afbd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43157,
+   "sha256": "19caebecfb91bb90c18c80fe8ed81b0e6f8b91aff4e3fcc44dae667922ee6d5c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4123402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4123402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4123402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4123402.jpg",
+  "bytes": 43421,
+  "sha256": "fe10f522157418ff89889f44dfc3b5f72f287c0f46b16dba40b8f2bc3b536994"
+ },
+ "sha1_origem": "9ff8bf0f30f490f12b605562cb3cb565a767f5e5",
+ "bytes_origem": 43421,
+ "capturado_em": "2026-11-08T06:49:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaosantafepr.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "9ff8bf0f30f490f12b605562cb3cb565a767f5e5"
+ }
+}

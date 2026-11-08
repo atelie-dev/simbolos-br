@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5001904",
+ "uf": "MS",
+ "municipio": "Bataguassu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bandeira_Bataguassu_MatoGrossodoSul_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ae3b6b46f4ddbfa13f66b6c27e98a456ae1a36e9c88e685084c9004aaed685aa",
+ "rendicoes": {
+  "png": {
+   "bytes": 26549,
+   "sha256": "e045322f254247f2e4d3f3f95a59dbbeb04ba381f9d0cdb29c9c21b5aba84a90",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15871,
+   "sha256": "bdbd54b73e33f309bd62c1ab19560b3fb5228e4e99b40e20cc4e16d6cad1684b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 274765,
+   "sha256": "ae3b6b46f4ddbfa13f66b6c27e98a456ae1a36e9c88e685084c9004aaed685aa"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5001904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5001904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5001904.jpg"
+ },
+ "sha1_origem": "0cf83d35dcdbdfa9e07eb9e701a21230abfde6df",
+ "bytes_origem": 274765,
+ "capturado_em": "2026-11-08T05:03:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Bataguassu_MatoGrossodoSul_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "0cf83d35dcdbdfa9e07eb9e701a21230abfde6df"
+ }
+}

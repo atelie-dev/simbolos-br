@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3128253",
+ "uf": "MG",
+ "municipio": "Guaraciama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Guaraciamamgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Guaraciama",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "28cd7ed9849a5f067bb156a13c35d0b67bd6df18481c042c28e3738bf843e685",
+ "rendicoes": {
+  "png": {
+   "bytes": 32996,
+   "sha256": "e6767efc6fdcd2ef15ffe4b7c1037503e895d3f16f500a83cc2132a200543b17",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10240,
+   "sha256": "145feea212408cc02cbd53bf70f99a1691e1b640ecd898b171f04c9cd88cc638",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128253.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128253.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128253.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3128253.jpg",
+  "bytes": 10908,
+  "sha256": "28cd7ed9849a5f067bb156a13c35d0b67bd6df18481c042c28e3738bf843e685"
+ },
+ "sha1_origem": "942773dbf8010fe618ad7f9c221943d7f429ebb4",
+ "bytes_origem": 10908,
+ "capturado_em": "2026-11-08T06:08:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Guaraciamamgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "942773dbf8010fe618ad7f9c221943d7f429ebb4"
+ }
+}

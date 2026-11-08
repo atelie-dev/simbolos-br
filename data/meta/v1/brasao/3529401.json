@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3529401",
+ "uf": "SP",
+ "municipio": "Mauá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Brasao_Maua_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0ebf0b4c11f70578c63d89a551afd8d8edb7ecba97e4a2bad8e73aa4cd021f25",
+ "rendicoes": {
+  "png": {
+   "bytes": 123513,
+   "sha256": "150d20010656ff39e6c0d856422c3faec51bfbd39bcb1914e1655290ce3037fb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49133,
+   "sha256": "332db8acaaf7c4f6e154c52453cf7eac970eb1507cf8c2b0d477aacdbcd2a791",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1417254,
+   "sha256": "0ebf0b4c11f70578c63d89a551afd8d8edb7ecba97e4a2bad8e73aa4cd021f25"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529401.jpg"
+ },
+ "sha1_origem": "a408f521a7ff0220f22988adc90c13d3056be703",
+ "bytes_origem": 1417254,
+ "capturado_em": "2026-11-08T04:08:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Maua_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "a408f521a7ff0220f22988adc90c13d3056be703"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3105004",
+ "uf": "MG",
+ "municipio": "Baldim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/BandeiradeBaldim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Marcioanreis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6b30d663fe577d7aef64cd83b807c56467a16177bdf615d116aebb460a87103d",
+ "rendicoes": {
+  "png": {
+   "bytes": 93711,
+   "sha256": "0a2bf7d6f7fec020c00d0e614c4d7751b61169355d696ef3f68f7f6ca981f4c1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22644,
+   "sha256": "392be4703ff8005400a008850ea8e16d4e415a59100b4cf838d77471d78c8e8f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3105004.jpg",
+  "bytes": 39114,
+  "sha256": "6b30d663fe577d7aef64cd83b807c56467a16177bdf615d116aebb460a87103d"
+ },
+ "sha1_origem": "183fcec314529d986346bb52926a4b442b2dd2bc",
+ "bytes_origem": 39114,
+ "capturado_em": "2026-11-08T06:00:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiradeBaldim.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "183fcec314529d986346bb52926a4b442b2dd2bc"
+ }
+}

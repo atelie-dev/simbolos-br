@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3538501",
+ "uf": "SP",
+ "municipio": "Piquete",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Piquete_brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "243b0848c10d34e3e789bd85de0629cf575d296ad251ed745be3fb63d25edd22",
+ "rendicoes": {
+  "png": {
+   "bytes": 29192,
+   "sha256": "9c2517da430495f308d1f2a1ca68d324881872a8ba720927d8e040d32684e746",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13836,
+   "sha256": "3d82cfd93676a468e7db55578242ce3840cc190548730bc12abf1f24fb22229b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3538501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3538501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3538501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3538501.png",
+  "bytes": 8844,
+  "sha256": "243b0848c10d34e3e789bd85de0629cf575d296ad251ed745be3fb63d25edd22"
+ },
+ "sha1_origem": "bb5122e8b51f82b1b2f9f39663d487f3d8c0c212",
+ "bytes_origem": 8844,
+ "capturado_em": "2026-11-08T06:34:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Piquete_brasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "bb5122e8b51f82b1b2f9f39663d487f3d8c0c212"
+ }
+}

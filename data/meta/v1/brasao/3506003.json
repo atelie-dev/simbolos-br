@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3506003",
+ "uf": "SP",
+ "municipio": "Bauru",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bras%C3%A3o_de_Bauru_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "8ea13a421f78ad6dbd3ffd44ef1d321ba9baaed733a5ffec62d3c2f9a8f237fd",
+ "rendicoes": {
+  "png": {
+   "bytes": 201173,
+   "sha256": "1c9cc18132f755560af41f0c72c6e39dd9e2ef70141dd0763e42ff562655d0d4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 64005,
+   "sha256": "f5d0849558491a29a9d6979705b34e1fc5b2953af97723211854cc5c7d7b4cac",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 456330,
+   "sha256": "8ea13a421f78ad6dbd3ffd44ef1d321ba9baaed733a5ffec62d3c2f9a8f237fd"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3506003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3506003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3506003.jpg"
+ },
+ "sha1_origem": "ef79b8d0edc808832e7cd8d2ab370c5ab4cb20bd",
+ "bytes_origem": 456330,
+ "capturado_em": "2026-11-08T03:58:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Bauru_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "ef79b8d0edc808832e7cd8d2ab370c5ab4cb20bd"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2303501",
+ "uf": "CE",
+ "municipio": "Cascavel",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Foto_-_bras%C3%A3o_de_cascavel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0c1940a7d478b9df81dcdc9753ceadd44548012bf3dae9dfe33a0c18d64f8970",
+ "rendicoes": {
+  "png": {
+   "bytes": 105883,
+   "sha256": "890cd3f3d6d4e107d31b88d89550428652fcf4087979b237b1dded57eee4dd48",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24061,
+   "sha256": "efad6853ae6e58359c9ce5af1d0de9dcaa254ecb02cbd145ec12f43a910a93ba",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2303501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2303501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2303501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2303501.jpg",
+  "bytes": 25219,
+  "sha256": "0c1940a7d478b9df81dcdc9753ceadd44548012bf3dae9dfe33a0c18d64f8970"
+ },
+ "sha1_origem": "41cbc043f4c9fbbb6df15a3d6e9bd198bab76212",
+ "bytes_origem": 25219,
+ "capturado_em": "2026-11-08T05:32:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Foto_-_brasão_de_cascavel.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:30Z",
+  "estado": "igual",
+  "sha1_commons": "41cbc043f4c9fbbb6df15a3d6e9bd198bab76212"
+ }
+}

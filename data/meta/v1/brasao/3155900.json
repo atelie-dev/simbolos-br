@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3155900",
+ "uf": "MG",
+ "municipio": "Rio Preto",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bras%C3%A3o_Rio_Preto_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e6cf2aac0a8fbc5b163894ea3f0faa83cd3c09522fb912ae72aff28b4d143fa4",
+ "rendicoes": {
+  "png": {
+   "bytes": 211891,
+   "sha256": "9492d04bfc5c5db405cbdadc9f11c466688fd405fc256ec52163b765f7237d9f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62954,
+   "sha256": "4dc3af80fca78bbafc5be0cb58bbaeb6b0187adbe9e4a0fe16e942e31447699a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3155900.png",
+  "bytes": 1267065,
+  "sha256": "e6cf2aac0a8fbc5b163894ea3f0faa83cd3c09522fb912ae72aff28b4d143fa4"
+ },
+ "sha1_origem": "8952d72fde40348f99b47060f02d5b993e5ac6d3",
+ "bytes_origem": 1267065,
+ "capturado_em": "2026-11-08T06:14:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Rio_Preto_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:53Z",
+  "estado": "igual",
+  "sha1_commons": "8952d72fde40348f99b47060f02d5b993e5ac6d3"
+ }
+}

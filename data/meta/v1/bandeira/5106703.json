@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5106703",
+ "uf": "MT",
+ "municipio": "Ponte Branca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Ponte_Branca_flag.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Bruno Luiz",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "673311dd6b45d2dc0970c55ff97e953da41ef9c7348971ad1e6e2a3cfb57e3a6",
+ "rendicoes": {
+  "png": {
+   "bytes": 76062,
+   "sha256": "1b61e19c2db9b3947ffec756672ba0658eb5d05003282d80dbde808a06769e36",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13895,
+   "sha256": "a6db9918eb1dcab92dc917315a430ce2a9f609b4cef44f2e09d8183b9ebe2886",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5106703.png",
+  "bytes": 68960,
+  "sha256": "673311dd6b45d2dc0970c55ff97e953da41ef9c7348971ad1e6e2a3cfb57e3a6"
+ },
+ "sha1_origem": "917e14dfe1c3d2171ad7ca6c03ed9e5fc05b6cb3",
+ "bytes_origem": 68960,
+ "capturado_em": "2026-11-08T07:15:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ponte_Branca_flag.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "917e14dfe1c3d2171ad7ca6c03ed9e5fc05b6cb3"
+ }
+}

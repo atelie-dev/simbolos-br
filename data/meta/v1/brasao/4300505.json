@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4300505",
+ "uf": "RS",
+ "municipio": "Alpestre",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Brasao_Alpestre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Alpestre.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8d34534f662314c5fdab33d1ca91897ef73cb1a34ac1710a7d9cbb52ba74814e",
+ "rendicoes": {
+  "png": {
+   "bytes": 27289,
+   "sha256": "80fcee398fb399bf61c71f8a50a67c19b160d65b271ce6d95e93797cc62efbfd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8756,
+   "sha256": "a4e9c6b44d8adb02d422f0b5f1d34e2c60f900fd5def3901663134c60726fa30",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300505.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4300505.jpg",
+  "bytes": 46234,
+  "sha256": "8d34534f662314c5fdab33d1ca91897ef73cb1a34ac1710a7d9cbb52ba74814e"
+ },
+ "sha1_origem": "954cf7083c76f86e6ec737170ac268c5698591ea",
+ "bytes_origem": 46234,
+ "capturado_em": "2026-11-08T06:58:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Alpestre.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "954cf7083c76f86e6ec737170ac268c5698591ea"
+ }
+}

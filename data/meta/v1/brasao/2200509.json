@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2200509",
+ "uf": "PI",
+ "municipio": "Amarante",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Blazono_de_Amarante.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "municipo / prefeitura (municipal prefecture)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8697561afe11d74827cd0fda893a602cdccfc964ff9a17455adea0d5a54f23d9",
+ "rendicoes": {
+  "png": {
+   "bytes": 182474,
+   "sha256": "f5ee5ea5d9c0121d971b8dab0660bd94b0a64c7ff5b5e972573f9f62f9c2d80f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37515,
+   "sha256": "e02debd00fcf380825c214d9a2b914fd75ed570a4a1061dc9d0c058db605c110",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2200509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2200509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2200509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2200509.png",
+  "bytes": 181782,
+  "sha256": "8697561afe11d74827cd0fda893a602cdccfc964ff9a17455adea0d5a54f23d9"
+ },
+ "sha1_origem": "c572b26c8458a5cee02ed2edfb0c12084cb43918",
+ "bytes_origem": 181782,
+ "capturado_em": "2026-11-08T05:29:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Blazono_de_Amarante.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "c572b26c8458a5cee02ed2edfb0c12084cb43918"
+ }
+}

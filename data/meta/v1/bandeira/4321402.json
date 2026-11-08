@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321402",
+ "uf": "RS",
+ "municipio": "Tenente Portela",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bandeira-tenenteportela-rs.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMTP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f9ad0f975b3a9c85cd4a91ce815b4f4dd35a7c8ec3650e5b67622033db90d6d1",
+ "rendicoes": {
+  "png": {
+   "bytes": 52169,
+   "sha256": "3c86be2047f4c845196ecab86a3945abcb9670acc3756586dc77c67bb1b96b61",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11568,
+   "sha256": "7d2dd947224403ca998562f1cb496bb2553b3bbe1602fcdb7806cd2e045820ae",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4321402.jpg",
+  "bytes": 9029,
+  "sha256": "f9ad0f975b3a9c85cd4a91ce815b4f4dd35a7c8ec3650e5b67622033db90d6d1"
+ },
+ "sha1_origem": "8ce9c65c584026312a059cea85fe50c282a57559",
+ "bytes_origem": 9029,
+ "capturado_em": "2026-11-08T07:10:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-tenenteportela-rs.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "8ce9c65c584026312a059cea85fe50c282a57559"
+ }
+}

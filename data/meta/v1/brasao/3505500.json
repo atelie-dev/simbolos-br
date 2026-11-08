@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3505500",
+ "uf": "SP",
+ "municipio": "Barretos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bras%C3%A3o_Barretos.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Maria Luiza Queiroz Barcelos / Prefeitura do Município de Barretos",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c8f2936eeca9c90c40642b0b8c579d53a7dec13c5a6d360d6beb25a12048a578",
+ "rendicoes": {
+  "png": {
+   "bytes": 26955,
+   "sha256": "ed5c25405ca9d3c174ff038bac091561c9b15fc3c6e95680e3f55611cba9b377",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14478,
+   "sha256": "5307d4620a937534a8cb108d4820650f87b1d52783d7b45d7230daeaaba6524a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3505500.png",
+  "bytes": 11739,
+  "sha256": "c8f2936eeca9c90c40642b0b8c579d53a7dec13c5a6d360d6beb25a12048a578"
+ },
+ "sha1_origem": "7f36b91e7c8df6b8681fa2fdd06fe284c12ba712",
+ "bytes_origem": 11739,
+ "capturado_em": "2026-11-08T06:24:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Barretos.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "7f36b91e7c8df6b8681fa2fdd06fe284c12ba712"
+ }
+}

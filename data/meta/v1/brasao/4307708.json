@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4307708",
+ "uf": "RS",
+ "municipio": "Esteio",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Img_brasao_esteio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "939630edd2cbac6acdb7dd47b73ea39fa3999dc2441e7dc9c7694b6d3c5666a7",
+ "rendicoes": {
+  "png": {
+   "bytes": 16906,
+   "sha256": "7ce772474fccdbe21fed9fda44a076244a3d164542d3ac712666c58248c24d5e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5287,
+   "sha256": "e3a03a1e727b46408d2527efbcb6cea1975eb2542b1c9b37f9e0f1bb2ad048d6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4307708.jpg",
+  "bytes": 3176,
+  "sha256": "939630edd2cbac6acdb7dd47b73ea39fa3999dc2441e7dc9c7694b6d3c5666a7"
+ },
+ "sha1_origem": "3a9623e9054d01986c849eaeb5e439ed7dc99494",
+ "bytes_origem": 3176,
+ "capturado_em": "2026-11-08T07:02:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Img_brasao_esteio.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "3a9623e9054d01986c849eaeb5e439ed7dc99494"
+ }
+}

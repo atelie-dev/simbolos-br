@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3502606",
+ "uf": "SP",
+ "municipio": "Aparecida d'Oeste",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bandeira_Aparecida_d%27Oeste.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "06598e03a9a39007dc61094477fd8bb85f7a7fdb97310e0f181e29548d160136",
+ "rendicoes": {
+  "png": {
+   "bytes": 17719,
+   "sha256": "41c5c71aea2b25e6cabd84c4cb747b741d9266fc1b4ddd46f83465e64292d1e6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13601,
+   "sha256": "a1f2ecb3de3ca896c80b4bd835ea230b5c1d2274fb6ad9c912175f67ebf494d9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3502606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3502606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3502606.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3502606.png",
+  "bytes": 15849,
+  "sha256": "06598e03a9a39007dc61094477fd8bb85f7a7fdb97310e0f181e29548d160136"
+ },
+ "sha1_origem": "51fd30c4a2f2f509d9ff0d5e863dd7ff9b3eb8b6",
+ "bytes_origem": 15849,
+ "capturado_em": "2026-11-08T06:23:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Aparecida_d'Oeste.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "51fd30c4a2f2f509d9ff0d5e863dd7ff9b3eb8b6"
+ }
+}

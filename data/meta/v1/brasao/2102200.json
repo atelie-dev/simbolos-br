@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2102200",
+ "uf": "MA",
+ "municipio": "Buriti",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Buriti.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Domaleixo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f5efb46960073725f2c8f74e19f217a216c8988eda507f18de2949a566a74f03",
+ "rendicoes": {
+  "png": {
+   "bytes": 266321,
+   "sha256": "751f1c65ab6bba5b2a8052edb361b7b12e6dfa5cf242af15bba40f5b4592eba8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 57035,
+   "sha256": "bde8341e4b63c9341c7e082759f9dbe9df440549aeb5e4a078715154b1fed55d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2102200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2102200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2102200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2102200.png",
+  "bytes": 710696,
+  "sha256": "f5efb46960073725f2c8f74e19f217a216c8988eda507f18de2949a566a74f03"
+ },
+ "sha1_origem": "7764614ca45a9d11910395faad6a63272661fc42",
+ "bytes_origem": 710696,
+ "capturado_em": "2026-11-08T05:27:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Buriti.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "7764614ca45a9d11910395faad6a63272661fc42"
+ }
+}

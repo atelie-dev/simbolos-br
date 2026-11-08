@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3551405",
+ "uf": "SP",
+ "municipio": "Serra Azul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bandeira_de_Serra_Azul.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Serra Azul.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9958ff76bb9d9268c91eedc9fb43a59c5b129435819c9d58933e4fdeaa01c1fc",
+ "rendicoes": {
+  "png": {
+   "bytes": 59976,
+   "sha256": "fc84c786b75ada6414abe7a4e8496893ad3b193ddaebc733684851cefceefae3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21681,
+   "sha256": "9b332aa2a9407edfe0173e52a982d04e7effa88574f36c52b3f8e4847852e30d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3551405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3551405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3551405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3551405.png",
+  "bytes": 64004,
+  "sha256": "9958ff76bb9d9268c91eedc9fb43a59c5b129435819c9d58933e4fdeaa01c1fc"
+ },
+ "sha1_origem": "d5aa401a9d89cad8014b5139f68e75df9fba0c91",
+ "bytes_origem": 64004,
+ "capturado_em": "2026-11-08T06:38:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Serra_Azul.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "d5aa401a9d89cad8014b5139f68e75df9fba0c91"
+ }
+}

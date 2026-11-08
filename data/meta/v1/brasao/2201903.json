@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2201903",
+ "uf": "PI",
+ "municipio": "Bom Jesus",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Brasao_Bom_Jesus_site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Renanbatistasal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "76d5cc559824e9b226c70fe6a44fab64b173c08e77d72d1d9dde76dccb7ee505",
+ "rendicoes": {
+  "png": {
+   "bytes": 34734,
+   "sha256": "085b68215b3a4d0056ddc041ab99f84dcf5f70f95d63bd171b13871896785fed",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8842,
+   "sha256": "3994ae400abaf4444304c0021be27e07297b2dbdd31fb164d841b0bdbfaaccb2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2201903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2201903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2201903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2201903.jpg",
+  "bytes": 26400,
+  "sha256": "76d5cc559824e9b226c70fe6a44fab64b173c08e77d72d1d9dde76dccb7ee505"
+ },
+ "sha1_origem": "cf4e188383774ee3e49bae94a4adedf61fa7c83d",
+ "bytes_origem": 26400,
+ "capturado_em": "2026-11-08T05:29:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Bom_Jesus_site.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "cf4e188383774ee3e49bae94a4adedf61fa7c83d"
+ }
+}

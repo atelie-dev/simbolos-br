@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3110301",
+ "uf": "MG",
+ "municipio": "Caldas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Caldasmgbrasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Caldas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b9336d58018e40bedaa46a0a7d4e688098aad5c8b6b8820fcfe8f99b31ed1283",
+ "rendicoes": {
+  "png": {
+   "bytes": 314207,
+   "sha256": "f5cf9c9624ebcdbf09f59d3dda4e6e0e0d6e880191d1a72f992d5fc4d8ffd641",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 66945,
+   "sha256": "c60e9a1b3a0ee5c1f67c8d05e072b0748bcf4c9ecc1b5d2f37e886b581523d7f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3110301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3110301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3110301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3110301.png",
+  "bytes": 729386,
+  "sha256": "b9336d58018e40bedaa46a0a7d4e688098aad5c8b6b8820fcfe8f99b31ed1283"
+ },
+ "sha1_origem": "8a81546ccbf7d60f7cf8d1668751054bbbe766a1",
+ "bytes_origem": 729386,
+ "capturado_em": "2026-11-08T06:01:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Caldasmgbrasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "8a81546ccbf7d60f7cf8d1668751054bbbe766a1"
+ }
+}

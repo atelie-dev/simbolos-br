@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3166006",
+ "uf": "MG",
+ "municipio": "Senhora de Oliveira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Brasaosradeoliveira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Senhora de Oliveira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "57bed36c7b91d8cdfb6a5915455415ef50b9c10ee0da67d3895d7ccf2e90d248",
+ "rendicoes": {
+  "png": {
+   "bytes": 183151,
+   "sha256": "417072c97a5d5b94979935a0b40879d75938b7710f963500f5421e32f72cd95e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43090,
+   "sha256": "d1daf1baef6a5535d1622c8371eedb91d0107afcfb7616afcdc5eeca981588e1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3166006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3166006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3166006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3166006.jpg",
+  "bytes": 140865,
+  "sha256": "57bed36c7b91d8cdfb6a5915455415ef50b9c10ee0da67d3895d7ccf2e90d248"
+ },
+ "sha1_origem": "68db9c73279cbb00ebabf442e10ba7406e84a432",
+ "bytes_origem": 140865,
+ "capturado_em": "2026-11-08T06:17:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaosradeoliveira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "68db9c73279cbb00ebabf442e10ba7406e84a432"
+ }
+}

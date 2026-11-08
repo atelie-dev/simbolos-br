@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2900900",
+ "uf": "BA",
+ "municipio": "Almadina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bras%C3%A3o_deAlmadina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7538af92053356355f8125efb3bdb9fd0c9df15b394db44e1488f172b70838cb",
+ "rendicoes": {
+  "png": {
+   "bytes": 54170,
+   "sha256": "52c4a9eeaf6f187a8275c6f3136d55e28249a8632898bcdb48c34b0157575f4c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11449,
+   "sha256": "9077edbc893a84e376e00ddc2e723d5592a2edd7e11e5ef1a97ac87e5e73a6a8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2900900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2900900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2900900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2900900.jpg",
+  "bytes": 11547,
+  "sha256": "7538af92053356355f8125efb3bdb9fd0c9df15b394db44e1488f172b70838cb"
+ },
+ "sha1_origem": "393ea8e42e3d443b2cf29412876cc229d8adbce5",
+ "bytes_origem": 11547,
+ "capturado_em": "2026-11-08T05:50:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_deAlmadina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "393ea8e42e3d443b2cf29412876cc229d8adbce5"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3537701",
+ "uf": "SP",
+ "municipio": "Piacatu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bras%C3%A3o_Piacatu.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Bruno manhani",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d5cd85a5d64009c4132488cafb3bd623111e113d33d13221ea51b348b0b8f7fe",
+ "rendicoes": {
+  "png": {
+   "bytes": 203612,
+   "sha256": "d0b0857c546c43dba29a5e220b04f4c48b0d7c6ac254c6ec242c21f97c8c16c5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47342,
+   "sha256": "d0ca3d1a786623d52f6b61023536efa79914f478d68c957596ca1d7569e112de",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3537701.jpg",
+  "bytes": 42406,
+  "sha256": "d5cd85a5d64009c4132488cafb3bd623111e113d33d13221ea51b348b0b8f7fe"
+ },
+ "sha1_origem": "fc1159c9c902dcb021762e69932c19ab94dd607e",
+ "bytes_origem": 42406,
+ "capturado_em": "2026-11-08T06:34:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Piacatu.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "fc1159c9c902dcb021762e69932c19ab94dd607e"
+ }
+}

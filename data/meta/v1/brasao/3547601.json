@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3547601",
+ "uf": "SP",
+ "municipio": "Santa Rosa de Viterbo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Brasao_Santa_Rosa_de_Viterbo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a9123119cd1dbd64d6df551ad2f27ebbe68403315204b93bfdbe4a5a6e913bbd",
+ "rendicoes": {
+  "png": {
+   "bytes": 318692,
+   "sha256": "2f2fb15343b694d2db225e75e72c9088de243bdb12b06d046d9aa0f447eb5906",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 52426,
+   "sha256": "d9d608449c4167dcc65136f3e7aaa84c89a1f68ee63419bc479495ccf236c47f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3547601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3547601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3547601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3547601.jpg",
+  "bytes": 60874,
+  "sha256": "a9123119cd1dbd64d6df551ad2f27ebbe68403315204b93bfdbe4a5a6e913bbd"
+ },
+ "sha1_origem": "91c3123ec7470f9d998c46591fab672906bf1469",
+ "bytes_origem": 60874,
+ "capturado_em": "2026-11-08T06:37:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Santa_Rosa_de_Viterbo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "91c3123ec7470f9d998c46591fab672906bf1469"
+ }
+}

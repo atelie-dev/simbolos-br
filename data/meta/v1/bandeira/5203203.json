@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5203203",
+ "uf": "GO",
+ "municipio": "Barro Alto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Barro_Alto_%28Goi%C3%A1s%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Blackcat",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1ca2c070d40cb897a162692049dcafcd20171dee45825757ac43195bb2b23d71",
+ "rendicoes": {
+  "png": {
+   "bytes": 1807,
+   "sha256": "a4b6e748910e319fd72de1d528dc92419f3200c73745c8f4efbb39fb19f0b339",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7834,
+   "sha256": "f21c72550801d68d77002f2601ff66d3becb31f04e9c94d3f6583ae3a1ee391d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 436,
+   "sha256": "1ca2c070d40cb897a162692049dcafcd20171dee45825757ac43195bb2b23d71"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5203203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5203203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5203203.jpg"
+ },
+ "sha1_origem": "342018be87887a398aac88d3951cd3229433f4f0",
+ "bytes_origem": 436,
+ "capturado_em": "2026-11-08T05:08:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Barro_Alto_(Goiás).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "342018be87887a398aac88d3951cd3229433f4f0"
+ }
+}

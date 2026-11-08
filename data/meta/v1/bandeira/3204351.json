@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3204351",
+ "uf": "ES",
+ "municipio": "Rio Bananal",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bandeira-riobananal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Rio Bananal City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "780c464f76f8ea8243b730982a56f494df3647a0fedcbfb8e013ed1801cbacf8",
+ "rendicoes": {
+  "png": {
+   "bytes": 62945,
+   "sha256": "b496beb8bc91a9ea8bf119d3b243df0f6353c5493f15902e8ed28aed66d956ff",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14994,
+   "sha256": "e4225b71bbc98be8b9afc6951a6b918574902fd77c9e622c3298522489d27eab",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204351.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204351.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204351.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3204351.jpg",
+  "bytes": 9615,
+  "sha256": "780c464f76f8ea8243b730982a56f494df3647a0fedcbfb8e013ed1801cbacf8"
+ },
+ "sha1_origem": "f7da60a02b00d3a7ffd00bd55af8c8d41fcf300f",
+ "bytes_origem": 9615,
+ "capturado_em": "2026-11-08T06:20:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-riobananal.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "f7da60a02b00d3a7ffd00bd55af8c8d41fcf300f"
+ }
+}

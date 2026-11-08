@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2806800",
+ "uf": "SE",
+ "municipio": "São Domingos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sdomingos_band.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de São Domingos",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3de60b428e2402b792dd68b5dd816424bb27a5487602a672db6124d8b0964139",
+ "rendicoes": {
+  "png": {
+   "bytes": 29728,
+   "sha256": "fb09b3eaf53307b0c6905700eb0e5d7ecdf778365343a3cc3c785f7ec89bcf04",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14681,
+   "sha256": "38e2a74e16bb780185f0d658a1dbba54061f298af7deb04e7f8a745985acb031",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2806800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2806800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2806800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2806800.png",
+  "bytes": 28754,
+  "sha256": "3de60b428e2402b792dd68b5dd816424bb27a5487602a672db6124d8b0964139"
+ },
+ "sha1_origem": "3e15db2e4e065820daf50e41da629c2011916e32",
+ "bytes_origem": 28754,
+ "capturado_em": "2026-11-08T05:50:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Sdomingos_band.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:36Z",
+  "estado": "igual",
+  "sha1_commons": "3e15db2e4e065820daf50e41da629c2011916e32"
+ }
+}

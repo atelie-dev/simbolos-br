@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2100907",
+ "uf": "MA",
+ "municipio": "Araioses",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bras%C3%A3o_de_Araioses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Aamps",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c57c00f4f88a336a4ca81dcc635deadf7ca3bb9aae4554e5ab20888710dda39f",
+ "rendicoes": {
+  "png": {
+   "bytes": 76047,
+   "sha256": "6eb3a259d3591e159f6570d57318d4bc3190995ec57181b64db915e682c86058",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16970,
+   "sha256": "68bfc0db3fe97121836950eba346d0816dd29623e333ff212f759497ff01a84a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2100907.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2100907.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2100907.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2100907.jpg",
+  "bytes": 16154,
+  "sha256": "c57c00f4f88a336a4ca81dcc635deadf7ca3bb9aae4554e5ab20888710dda39f"
+ },
+ "sha1_origem": "08c510a8b0867187aade99b69ec272c8d588ed56",
+ "bytes_origem": 16154,
+ "capturado_em": "2026-11-08T05:27:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Araioses.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "08c510a8b0867187aade99b69ec272c8d588ed56"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3111606",
+ "uf": "MG",
+ "municipio": "Campos Gerais",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Brasaogerais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Conrado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "aa01f8da762a2e4d0f37cdeca2b93762dfc01f755962b8cacb13b7433d768e25",
+ "rendicoes": {
+  "png": {
+   "bytes": 88238,
+   "sha256": "99e344a57f6af8b1d1e83d2d9c868479c4dd30247fd17f662a7bacf2d3b4212e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16094,
+   "sha256": "6d327b7e223c88a9549f86741719532e2c5adfcfc0c64eeac305bd709cf3836e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111606.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3111606.jpg",
+  "bytes": 9485,
+  "sha256": "aa01f8da762a2e4d0f37cdeca2b93762dfc01f755962b8cacb13b7433d768e25"
+ },
+ "sha1_origem": "f061f51fc2c1604987e4993e5453a9b33d4f9ca7",
+ "bytes_origem": 9485,
+ "capturado_em": "2026-11-08T06:02:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaogerais.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "f061f51fc2c1604987e4993e5453a9b33d4f9ca7"
+ }
+}

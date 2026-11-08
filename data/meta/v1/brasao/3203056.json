@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3203056",
+ "uf": "ES",
+ "municipio": "Jaguaré",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Brasao_de_Jaguar%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Thiagonegris",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fb3dedd8da1edd62fda99658f180324e21007d3b54696a70d95edb030b9e8e5f",
+ "rendicoes": {
+  "png": {
+   "bytes": 262852,
+   "sha256": "fa2da18bd224d6937cc99f1e600316c81108a1226dc16e7e195d196681995dbc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58985,
+   "sha256": "7aaad59019d4fe25c8fb2baed807ee0baa2d325dde68a4c834b2c3e16d7971dc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3203056.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3203056.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3203056.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3203056.jpg",
+  "bytes": 106489,
+  "sha256": "fb3dedd8da1edd62fda99658f180324e21007d3b54696a70d95edb030b9e8e5f"
+ },
+ "sha1_origem": "3e0b27a9b95f8c96c29076d85cef35499f91179d",
+ "bytes_origem": 106489,
+ "capturado_em": "2026-11-08T06:19:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_de_Jaguaré.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "3e0b27a9b95f8c96c29076d85cef35499f91179d"
+ }
+}

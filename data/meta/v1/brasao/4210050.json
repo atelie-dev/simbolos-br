@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4210050",
+ "uf": "SC",
+ "municipio": "Macieira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bras%C3%A3o_do_munic%C3%ADpio_de_Macieira_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Macieira (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a92808f5b146834755eea61d1e2a11518b45900a38595dc40992ed27e3c71e9e",
+ "rendicoes": {
+  "png": {
+   "bytes": 308301,
+   "sha256": "55354d18187b6210039af510d1c7f5d47b86ae981fafd5b23040925a8b4f1eb8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67781,
+   "sha256": "eb811a4b701fff8200496c575cc787ef39c2c015f4fb6e7b55de2d98312b802f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210050.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210050.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210050.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4210050.png",
+  "bytes": 607292,
+  "sha256": "a92808f5b146834755eea61d1e2a11518b45900a38595dc40992ed27e3c71e9e"
+ },
+ "sha1_origem": "51bda3b9708613bad29877dcd19a0b11c15ca951",
+ "bytes_origem": 607292,
+ "capturado_em": "2026-11-08T06:54:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Macieira_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "51bda3b9708613bad29877dcd19a0b11c15ca951"
+ }
+}

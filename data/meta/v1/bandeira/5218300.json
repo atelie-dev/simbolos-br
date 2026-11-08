@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5218300",
+ "uf": "GO",
+ "municipio": "Posse",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bandeira_de_Posse-Go.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ec7512f288f81868d0fed235ebd1dcbc4005411273f7c71e7c0feb78d57df3ce",
+ "rendicoes": {
+  "png": {
+   "bytes": 12880,
+   "sha256": "ca97e31e032e2332a214842a0b619064b04d2b9c3d1bcc59b8c382d48ca8311c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6558,
+   "sha256": "c34e0bf687b3ee3d1b07aa3ff69a442b58cc9658155f82bf90ea9a113db5d4d0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5218300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5218300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5218300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5218300.png",
+  "bytes": 12172,
+  "sha256": "ec7512f288f81868d0fed235ebd1dcbc4005411273f7c71e7c0feb78d57df3ce"
+ },
+ "sha1_origem": "fd3d462b50abc8ab954042764a6782dd50e633ce",
+ "bytes_origem": 12172,
+ "capturado_em": "2026-11-08T07:20:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Posse-Go.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "fd3d462b50abc8ab954042764a6782dd50e633ce"
+ }
+}

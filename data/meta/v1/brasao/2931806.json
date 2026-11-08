@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2931806",
+ "uf": "BA",
+ "municipio": "Tremedal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Bras%C3%A3o_de_Tremedal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Tremedal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "38f3a0d0198ab9534bf9b973729d1ea91307a7dc76817ae8542a9277cd05cd3a",
+ "rendicoes": {
+  "png": {
+   "bytes": 260404,
+   "sha256": "da6f9934ed92cf88d5019440dad428b657c84519db7933ba9f0f88cf7d502e04",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49254,
+   "sha256": "43e4e8165db25446dd41b69cdd8a63d6e8ebe465ec383f41580f1ae2155b50ba",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2931806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2931806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2931806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2931806.jpg",
+  "bytes": 73499,
+  "sha256": "38f3a0d0198ab9534bf9b973729d1ea91307a7dc76817ae8542a9277cd05cd3a"
+ },
+ "sha1_origem": "e108477e791c15d747f94faff00a443036c58df4",
+ "bytes_origem": 73499,
+ "capturado_em": "2026-11-08T05:57:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Tremedal.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "e108477e791c15d747f94faff00a443036c58df4"
+ }
+}

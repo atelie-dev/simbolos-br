@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2802304",
+ "uf": "SE",
+ "municipio": "Frei Paulo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bandeira_frei_paulo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Riba28-maps",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "12ee846855c60f755c332e272657fbb6da238e53fc8092fa6c3ea3b22f7138b9",
+ "rendicoes": {
+  "png": {
+   "bytes": 45025,
+   "sha256": "a44b6dbbe05819b7e889fb0c9c7c127f819d1ef5bcd9277f22eb8d3ddda7dfa7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21905,
+   "sha256": "5253295992eabf641fb6d1b42c1aca94dbe2150d68938c6925bd28c83708710e",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 55359,
+   "sha256": "12ee846855c60f755c332e272657fbb6da238e53fc8092fa6c3ea3b22f7138b9"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2802304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2802304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2802304.jpg"
+ },
+ "sha1_origem": "2dfcfbbab62663006f302c6627d88e435a93b835",
+ "bytes_origem": 55359,
+ "capturado_em": "2026-11-08T03:12:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_frei_paulo.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "2dfcfbbab62663006f302c6627d88e435a93b835"
+ }
+}

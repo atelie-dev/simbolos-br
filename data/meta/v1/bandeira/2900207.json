@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2900207",
+ "uf": "BA",
+ "municipio": "Abaré",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bandeira_de_Abar%C3%A9.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Abaré",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9c459c20df4552eaf7cf9021afb2fb3ec4e705c34520f151ec4dee3f37a095e3",
+ "rendicoes": {
+  "png": {
+   "bytes": 45654,
+   "sha256": "50a10d10962b8bb99e0d579642a4eb864af642c607ed7193dd70bcb7cd95cc6b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21983,
+   "sha256": "0418b6c079efec59faae67eef175d554dd2e565823007a026707d4d1e8879b82",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2900207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2900207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2900207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2900207.png",
+  "bytes": 252091,
+  "sha256": "9c459c20df4552eaf7cf9021afb2fb3ec4e705c34520f151ec4dee3f37a095e3"
+ },
+ "sha1_origem": "5a3eff0596ec5b426214340cd7840729a8084b68",
+ "bytes_origem": 252091,
+ "capturado_em": "2026-11-08T05:50:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Abaré.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "5a3eff0596ec5b426214340cd7840729a8084b68"
+ }
+}

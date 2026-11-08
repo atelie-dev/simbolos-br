@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2923605",
+ "uf": "BA",
+ "municipio": "Paramirim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bandeira_de_Paramirim_-_BA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "68ac002f09e31ea51860605904109e15ff51da879d229cb4194092af02e081d6",
+ "rendicoes": {
+  "png": {
+   "bytes": 40237,
+   "sha256": "56ff19d7ac6c172815ab705c0f1e58e83bc864304c045d2dfb350ba7d5926843",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21157,
+   "sha256": "d42c1c32e2f54bf57d819b2517506b5b2f2ab30be9b7ea23205b9b6db402eb49",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 364537,
+   "sha256": "68ac002f09e31ea51860605904109e15ff51da879d229cb4194092af02e081d6"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2923605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2923605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2923605.jpg"
+ },
+ "sha1_origem": "334be5a0e466522203d098fe79eeac4647cda687",
+ "bytes_origem": 364537,
+ "capturado_em": "2026-11-08T03:21:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Paramirim_-_BA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "334be5a0e466522203d098fe79eeac4647cda687"
+ }
+}

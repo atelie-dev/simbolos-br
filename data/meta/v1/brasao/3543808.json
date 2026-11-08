@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3543808",
+ "uf": "SP",
+ "municipio": "Rinópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bras%C3%A3o_de_Rin%C3%B3polis_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "88cef23a419dc720d37e6c10a57d0afd5fff1d02f84c25937e7cc8c1cc75f039",
+ "rendicoes": {
+  "png": {
+   "bytes": 191984,
+   "sha256": "e0465d67de2fa7a7ea189042b417c06800ebbfe0745d62d3b052631808f84e0b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60416,
+   "sha256": "dde3178727b6c48adc520070d48ec4c88d7ee756a15836490bc1efce50971c77",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 268458,
+   "sha256": "88cef23a419dc720d37e6c10a57d0afd5fff1d02f84c25937e7cc8c1cc75f039"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3543808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3543808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3543808.jpg"
+ },
+ "sha1_origem": "6605dcc2ba28e7dc2b0da5bab52834a6d54c95a0",
+ "bytes_origem": 268458,
+ "capturado_em": "2026-11-08T04:14:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Rinópolis_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:10Z",
+  "estado": "igual",
+  "sha1_commons": "6605dcc2ba28e7dc2b0da5bab52834a6d54c95a0"
+ }
+}

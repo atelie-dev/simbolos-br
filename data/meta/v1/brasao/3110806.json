@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3110806",
+ "uf": "MG",
+ "municipio": "Campanário",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Campan%C3%A1riomgbrasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Campanário",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7d40cf780f94e9989c78a73742865422d072e8c9daff068a41af9dc97bdb0518",
+ "rendicoes": {
+  "png": {
+   "bytes": 23187,
+   "sha256": "d2de84c200f73493dab86a0efb8a20a73e7d86022472b5705d45868d7377bb7c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10307,
+   "sha256": "48f98dec1fb94fbcd80024e747c680e6987d8a9372befa405bb1d3227d7d3a87",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3110806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3110806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3110806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3110806.png",
+  "bytes": 7032,
+  "sha256": "7d40cf780f94e9989c78a73742865422d072e8c9daff068a41af9dc97bdb0518"
+ },
+ "sha1_origem": "32269a7ecf8e5cfb4fe9089e61bdc567ad7059bc",
+ "bytes_origem": 7032,
+ "capturado_em": "2026-11-08T06:01:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Campanáriomgbrasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "32269a7ecf8e5cfb4fe9089e61bdc567ad7059bc"
+ }
+}

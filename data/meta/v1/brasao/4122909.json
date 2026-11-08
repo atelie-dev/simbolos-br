@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4122909",
+ "uf": "PR",
+ "municipio": "Salto do Itararé",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/BRAS%C3%83O_Salto_do_Itarar%C3%A9.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "66e7f5c2c09fe43037a13481f8cae32c50d0a563b530b41a9db9669a2c8d7cf8",
+ "rendicoes": {
+  "png": {
+   "bytes": 277966,
+   "sha256": "8506f429548ca0e2c20d9819a547a691a5d63fba1d6fb9a31e6ec3356535307e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60655,
+   "sha256": "a75e92794b822b92389a1a306fe81c61eba13fb078b9e68ed36c77212c26a15b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4122909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4122909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4122909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4122909.jpg",
+  "bytes": 78516,
+  "sha256": "66e7f5c2c09fe43037a13481f8cae32c50d0a563b530b41a9db9669a2c8d7cf8"
+ },
+ "sha1_origem": "be64df59ee536f9c6490c2f13576eccc6994079d",
+ "bytes_origem": 78516,
+ "capturado_em": "2026-11-08T06:49:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BRASÃO_Salto_do_Itararé.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "be64df59ee536f9c6490c2f13576eccc6994079d"
+ }
+}

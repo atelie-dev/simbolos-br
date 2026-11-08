@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4318002",
+ "uf": "RS",
+ "municipio": "São Borja",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bras%C3%A3o_de_S%C3%A3o_Borja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Borja",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "54d26b397a43618e911813a419c8adb20d6b056c1fe187630b50db0391ec89c7",
+ "rendicoes": {
+  "png": {
+   "bytes": 287942,
+   "sha256": "e6eddb4a846dd4263b5ac0c6905ec0e251423e4cd670a17fea75cac2ac5ecff7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53235,
+   "sha256": "f747b0a4680b5ca8c0836200f966dd3c6e3fb04d008ca0a57e43dd4892aae973",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4318002.jpg",
+  "bytes": 116617,
+  "sha256": "54d26b397a43618e911813a419c8adb20d6b056c1fe187630b50db0391ec89c7"
+ },
+ "sha1_origem": "caeb0e4eccea96d3c5344692f1ff8e1efcdd9a84",
+ "bytes_origem": 116617,
+ "capturado_em": "2026-11-08T07:09:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_Borja.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:12Z",
+  "estado": "igual",
+  "sha1_commons": "caeb0e4eccea96d3c5344692f1ff8e1efcdd9a84"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4206751",
+ "uf": "SC",
+ "municipio": "Ibiam",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bandeira_do_munic%C3%ADpio_de_Ibiam_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ibiam (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bb20d67da913b4272d138533f82e023b9d6ddb1c0e88b337c0cad8262c1a9b21",
+ "rendicoes": {
+  "png": {
+   "bytes": 35097,
+   "sha256": "0e291b488f11de2c3eea2eb99a78ab0fa9f850e8d5a2367dbeeaecbd75c78081",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16740,
+   "sha256": "2bbf296a8c123ba878d39c98f866ae0fe238416a6a109a343f23fa6a7b85d52d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206751.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206751.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206751.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4206751.png",
+  "bytes": 267599,
+  "sha256": "bb20d67da913b4272d138533f82e023b9d6ddb1c0e88b337c0cad8262c1a9b21"
+ },
+ "sha1_origem": "27bf95642274a6531212c0fd45c7d5a8319552a8",
+ "bytes_origem": 267599,
+ "capturado_em": "2026-11-08T06:53:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Ibiam_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:19Z",
+  "estado": "igual",
+  "sha1_commons": "27bf95642274a6531212c0fd45c7d5a8319552a8"
+ }
+}

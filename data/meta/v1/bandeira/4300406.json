@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4300406",
+ "uf": "RS",
+ "municipio": "Alegrete",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bandeira_de_Alegrete_%28Rio_Grande_do_Sul%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Alegrete",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "239b7bdaffb4f8cd8a4ed3214fac1ccd6b88cee9d9e9d05f37fa1e5ef334cb53",
+ "rendicoes": {
+  "png": {
+   "bytes": 69309,
+   "sha256": "63e6a10befd73b20ed58e1be5eb3cc5e01f615973a74369cc0f6c958d8de33df",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21367,
+   "sha256": "03d8fb390da71d7e495f48b3008a0fa685c25a1bfc0e60347795d05d74e5c840",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 73659,
+   "sha256": "239b7bdaffb4f8cd8a4ed3214fac1ccd6b88cee9d9e9d05f37fa1e5ef334cb53"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300406.jpg"
+ },
+ "sha1_origem": "f521219aee08cb964e5d5624a2df9d8aa376cb41",
+ "bytes_origem": 73659,
+ "capturado_em": "2026-11-08T04:46:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Alegrete_(Rio_Grande_do_Sul).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "f521219aee08cb964e5d5624a2df9d8aa376cb41"
+ }
+}

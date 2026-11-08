@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2204154",
+ "uf": "PI",
+ "municipio": "Francisco Macedo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bandeira_de_Francisco_Macedo_-_PI.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "491aed59960bf87a6e26004e346caa814fb8132694efce378cf4986811ce5a90",
+ "rendicoes": {
+  "png": {
+   "bytes": 99766,
+   "sha256": "47ca1674b93c53a315e3bbe2ae3a571455cc1a1f5f39312a014fe40f77fecf86",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23913,
+   "sha256": "8f27283b1558e416c7e70030c700b20af8e1f56f7f1d8049508f48b85f6e96ff",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2204154.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2204154.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2204154.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2204154.jpg",
+  "bytes": 16730,
+  "sha256": "491aed59960bf87a6e26004e346caa814fb8132694efce378cf4986811ce5a90"
+ },
+ "sha1_origem": "005f0e91a59be95730317c7a8bb12451b7e1321a",
+ "bytes_origem": 16730,
+ "capturado_em": "2026-11-08T05:30:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Francisco_Macedo_-_PI.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "005f0e91a59be95730317c7a8bb12451b7e1321a"
+ }
+}

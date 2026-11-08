@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2602407",
+ "uf": "PE",
+ "municipio": "Brejão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bandeira_brejao.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "67c4dfc3b92502fdf3ad7b9f924eef1c9f61b04a56a399bb053e8e624bf7aeca",
+ "rendicoes": {
+  "png": {
+   "bytes": 21415,
+   "sha256": "38bc977149c5be77cda0362da0544c88b805c9297ff137afcb97fb219eb6d74d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12842,
+   "sha256": "2f122e70c44be0a94484f5f518f327d931b0d5fe1dfc694cb91aa9d92a49dcad",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 212195,
+   "sha256": "67c4dfc3b92502fdf3ad7b9f924eef1c9f61b04a56a399bb053e8e624bf7aeca"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602407.jpg"
+ },
+ "sha1_origem": "5997a8e81df2cc95873ab2cc7b98f9ee27f2911b",
+ "bytes_origem": 212195,
+ "capturado_em": "2026-11-08T03:04:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_brejao.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "5997a8e81df2cc95873ab2cc7b98f9ee27f2911b"
+ }
+}

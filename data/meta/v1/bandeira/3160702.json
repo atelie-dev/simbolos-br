@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3160702",
+ "uf": "MG",
+ "municipio": "Santos Dumont",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bandeira_santos_dumont.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fddcca9e7d7255862a6b8bc16439e65db121f760b962bce00def4e3a799202dd",
+ "rendicoes": {
+  "png": {
+   "bytes": 10703,
+   "sha256": "5d3043ae8f95bddbf77c2505f4d062e960f58fec4605fb81170f3d34410b8f71",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6957,
+   "sha256": "458244c8e443ab8e3268068a5e549f78094ead7fba3323f2cd3f9c88491c85f9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3160702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3160702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3160702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3160702.png",
+  "bytes": 4639,
+  "sha256": "fddcca9e7d7255862a6b8bc16439e65db121f760b962bce00def4e3a799202dd"
+ },
+ "sha1_origem": "c84499689f5bd53c56ba8ae7759e3c4d835e6991",
+ "bytes_origem": 4639,
+ "capturado_em": "2026-11-08T06:15:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_santos_dumont.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "c84499689f5bd53c56ba8ae7759e3c4d835e6991"
+ }
+}

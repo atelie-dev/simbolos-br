@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5101209",
+ "uf": "MT",
+ "municipio": "Araguainha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bandeira_de_Araguainha-MT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Luucasmoreira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "141a7cbb0d8846a0b5367a62c94344e5d36ff74925c56a22d7976edd001eb47c",
+ "rendicoes": {
+  "png": {
+   "bytes": 15380,
+   "sha256": "0c451e9b01cb94a377947b366780beb4a975db9e45d18e1cd90207aaaf687556",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7660,
+   "sha256": "cfccd546f4cc8847139a50169c23429f87b91ec18180e876dbb679ef0a5f5b26",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5101209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5101209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5101209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5101209.jpg",
+  "bytes": 4968,
+  "sha256": "141a7cbb0d8846a0b5367a62c94344e5d36ff74925c56a22d7976edd001eb47c"
+ },
+ "sha1_origem": "5f97dc69dd506d89549996c58d9ee0f9ba75189b",
+ "bytes_origem": 4968,
+ "capturado_em": "2026-11-08T07:14:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Araguainha-MT.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "5f97dc69dd506d89549996c58d9ee0f9ba75189b"
+ }
+}

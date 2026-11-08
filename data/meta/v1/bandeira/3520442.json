@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3520442",
+ "uf": "SP",
+ "municipio": "Ilha Solteira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bandeira_de_Ilha_Solteira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own Work",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2a5ecb49c9a30759e664b6c681a20eaad526855903ea409f2c2811572b3c0ad5",
+ "rendicoes": {
+  "png": {
+   "bytes": 34047,
+   "sha256": "ca2405165a175fc5a9dbf358ea3b1e9f0c1e8ba8a44b6adafb6b38c017bb071e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7891,
+   "sha256": "66e071619e24cecf171d68bf7a898f82597c5065f9fca809ce91a7a01229906d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520442.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520442.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520442.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3520442.jpg",
+  "bytes": 4524,
+  "sha256": "2a5ecb49c9a30759e664b6c681a20eaad526855903ea409f2c2811572b3c0ad5"
+ },
+ "sha1_origem": "b2f15a44ddd0e31e95d2b5456ca590abfbff1eab",
+ "bytes_origem": 4524,
+ "capturado_em": "2026-11-08T06:29:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ilha_Solteira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "b2f15a44ddd0e31e95d2b5456ca590abfbff1eab"
+ }
+}

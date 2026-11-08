@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3304409",
+ "uf": "RJ",
+ "municipio": "Rio Claro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Brasao-rioclaro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f6704a7f46a6874833a36b0c2174b0935d5fdbfc4783bda85292cf5511083e69",
+ "rendicoes": {
+  "png": {
+   "bytes": 45986,
+   "sha256": "09feb28c44ffa07d55ac4e57ba204a22ed389b1a8c3a22ed7100a764b500fe48",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9880,
+   "sha256": "cedd111bfa2c951e716861a7f32a7af33e3761eee4d6a4830701c491c3a1f333",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304409.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3304409.jpg",
+  "bytes": 8644,
+  "sha256": "f6704a7f46a6874833a36b0c2174b0935d5fdbfc4783bda85292cf5511083e69"
+ },
+ "sha1_origem": "40355c2f7a7d2f4236a44b6cccd1941499b66e8f",
+ "bytes_origem": 8644,
+ "capturado_em": "2026-11-08T06:22:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-rioclaro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "40355c2f7a7d2f4236a44b6cccd1941499b66e8f"
+ }
+}

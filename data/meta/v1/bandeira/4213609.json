@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4213609",
+ "uf": "SC",
+ "municipio": "Porto União",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/BandeiraPortoUni%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Mckee",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d8b9f649637064ebd39903dffa50a1c48fd617f48421429f2de2a4b848aacf9a",
+ "rendicoes": {
+  "png": {
+   "bytes": 57456,
+   "sha256": "a45f1692fc2fac476ecf491dc97abb4e393f0f51186de2282ed01ef8dfa06e58",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17918,
+   "sha256": "63361ae82a0e74da1439022cf8693e352044aba8a53707b2849c2f837fa9ae52",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4213609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4213609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4213609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4213609.jpg",
+  "bytes": 166681,
+  "sha256": "d8b9f649637064ebd39903dffa50a1c48fd617f48421429f2de2a4b848aacf9a"
+ },
+ "sha1_origem": "be4598f48a923ab0b54403ff33870897f6831406",
+ "bytes_origem": 166681,
+ "capturado_em": "2026-11-08T06:56:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraPortoUnião.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:41Z",
+  "estado": "igual",
+  "sha1_commons": "be4598f48a923ab0b54403ff33870897f6831406"
+ }
+}

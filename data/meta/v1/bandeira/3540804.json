@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3540804",
+ "uf": "SP",
+ "municipio": "Potirendaba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bandeira_de_Potirendaba%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Potirendaba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "874fdac871e00dce68fb8b97fb2a6b33b0cc942e11d2c277ae2667395e070bcc",
+ "rendicoes": {
+  "png": {
+   "bytes": 55829,
+   "sha256": "fd5c80569b56ee2b60021a790e6d728bb35cf3a179817993275d2c1060cf3941",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12647,
+   "sha256": "362b5bb12d40cacbbcf2a7ccc195cabdf93194a79ba78a2ec96a74eadb98544d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3540804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3540804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3540804.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3540804.jpg",
+  "bytes": 47519,
+  "sha256": "874fdac871e00dce68fb8b97fb2a6b33b0cc942e11d2c277ae2667395e070bcc"
+ },
+ "sha1_origem": "b268a69233d6b28b38f17c92cecfe95cb42b770e",
+ "bytes_origem": 47519,
+ "capturado_em": "2026-11-08T06:35:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Potirendaba,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "b268a69233d6b28b38f17c92cecfe95cb42b770e"
+ }
+}

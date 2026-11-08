@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2512002",
+ "uf": "PB",
+ "municipio": "Pocinhos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bras%C3%A3o_Pocinhos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pocinhos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "88491c3e8169a6168b3ea8801753e81e16a52dabf31b5cd26c0f9740a244fa3e",
+ "rendicoes": {
+  "png": {
+   "bytes": 93557,
+   "sha256": "9acbbf0be82bdc68991285767b7fe31997a0169accd7cc81e472c84b85592a68",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20540,
+   "sha256": "30a8b34e2f8c31f3ae8afb0dca94283e1f625ef66dc454db01ac6ae941c81600",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2512002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2512002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2512002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2512002.jpg",
+  "bytes": 13162,
+  "sha256": "88491c3e8169a6168b3ea8801753e81e16a52dabf31b5cd26c0f9740a244fa3e"
+ },
+ "sha1_origem": "088b045b93b9a379ef2f5508a5365bb0ab5b73cd",
+ "bytes_origem": 13162,
+ "capturado_em": "2026-11-08T05:42:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Pocinhos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:53Z",
+  "estado": "igual",
+  "sha1_commons": "088b045b93b9a379ef2f5508a5365bb0ab5b73cd"
+ }
+}

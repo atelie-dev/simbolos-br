@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1500131",
+ "uf": "PA",
+ "municipio": "Abel Figueiredo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bandeira_Abel_Figueiredo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Abel Figueiredo.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e18e5097d9234606e3a8742599df8348d2aa30304303bf14d94d48ed68fb47b0",
+ "rendicoes": {
+  "png": {
+   "bytes": 35835,
+   "sha256": "48432cd2837ed9a8b018907764fa306e7e72bb805f43912f019298579d52b295",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8725,
+   "sha256": "4d866e957f0bc76b15c05cef1c5b538e92c45c8c1ce212054d81919ad269ba53",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1500131.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1500131.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1500131.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1500131.jpg",
+  "bytes": 8213,
+  "sha256": "e18e5097d9234606e3a8742599df8348d2aa30304303bf14d94d48ed68fb47b0"
+ },
+ "sha1_origem": "548fe7ba9ce305dc816bad7337fcfcf03a983186",
+ "bytes_origem": 8213,
+ "capturado_em": "2026-11-08T05:23:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Abel_Figueiredo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "548fe7ba9ce305dc816bad7337fcfcf03a983186"
+ }
+}

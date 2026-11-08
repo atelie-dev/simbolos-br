@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5216403",
+ "uf": "GO",
+ "municipio": "Paraúna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bandeira_Para%C3%BAna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Preifeitura de Paraúna - GO",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d4b56b1ae3769493f7a011505e6d06ac483c3f86a09e235e7d5088fccd73831a",
+ "rendicoes": {
+  "png": {
+   "bytes": 23969,
+   "sha256": "ecf468812562368b667fa4c82cfaaba96f16ad9e7517f55425a39c14d143f0d2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6986,
+   "sha256": "8698c849fcd16dda3a81c92b8de8fd74c1d520c549ff33081cfb6dbf7e6d7898",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5216403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5216403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5216403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5216403.jpg",
+  "bytes": 34268,
+  "sha256": "d4b56b1ae3769493f7a011505e6d06ac483c3f86a09e235e7d5088fccd73831a"
+ },
+ "sha1_origem": "22651e7d0bb8dc46864f10d418b633b4e35ae203",
+ "bytes_origem": 34268,
+ "capturado_em": "2026-11-08T07:19:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Paraúna.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "22651e7d0bb8dc46864f10d418b633b4e35ae203"
+ }
+}

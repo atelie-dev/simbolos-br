@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3104205",
+ "uf": "MG",
+ "municipio": "Arcos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bandeira_de_arcos_mg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ivisandrade",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2190129364b8f1fe6a85b4082c355708563feb2410e9e1a86469b3867e7d0373",
+ "rendicoes": {
+  "png": {
+   "bytes": 49639,
+   "sha256": "3820d58e0cdfe4e73cc3520556702fdf796fbf84376a6d27196a244d4fc93ceb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18273,
+   "sha256": "759320136774178c2f6e2940600390251d37155caaed77658576748a13ba0a59",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3104205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3104205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3104205.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3104205.jpg",
+  "bytes": 53621,
+  "sha256": "2190129364b8f1fe6a85b4082c355708563feb2410e9e1a86469b3867e7d0373"
+ },
+ "sha1_origem": "678cda9e1eaa3e82de105a3511ea99fb662d1f70",
+ "bytes_origem": 53621,
+ "capturado_em": "2026-11-08T05:59:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_arcos_mg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "678cda9e1eaa3e82de105a3511ea99fb662d1f70"
+ }
+}

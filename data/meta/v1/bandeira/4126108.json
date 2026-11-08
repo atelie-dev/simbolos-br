@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4126108",
+ "uf": "PR",
+ "municipio": "São Tomé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bandeira_de_S%C3%A3o_Tom%C3%A9%2C_PR.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/webp",
+ "sha256_origem": "0b88bef8df73632b1972f1a99ef3baccad890c4c7257b1b78e9bd272645bf748",
+ "rendicoes": {
+  "png": {
+   "bytes": 37037,
+   "sha256": "02e19c096453641add8fc058727e73414a7f706a78704b8df006f39c5dc0249d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8849,
+   "sha256": "bc6cf8f23930a92a40eb238ca4693c484d014a6be11716e2bf5d64ac9f805f62",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126108.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4126108.webp",
+  "bytes": 7590,
+  "sha256": "0b88bef8df73632b1972f1a99ef3baccad890c4c7257b1b78e9bd272645bf748"
+ },
+ "sha1_origem": "82b56b805c65c8a50a27154e9c05fb153916fbd9",
+ "bytes_origem": 7590,
+ "capturado_em": "2026-11-08T06:50:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Tomé,_PR.webp",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "82b56b805c65c8a50a27154e9c05fb153916fbd9"
+ }
+}

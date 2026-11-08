@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4212007",
+ "uf": "SC",
+ "municipio": "Palma Sola",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bandeira_do_munic%C3%ADpio_de_Palma_Sola_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Palma Sola (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "69d79807cb4953f59f375c4e007446b83a7c9ab80116e277c740107b5d3d5656",
+ "rendicoes": {
+  "png": {
+   "bytes": 57859,
+   "sha256": "2429a59b237c061d4f7286eadccfce0af800493567cc1755d87a8e122c562f1f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22679,
+   "sha256": "76b2919c1307191a70f43bd1444c59038d7ead93c525eda904e1f3439af2ad02",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 164519,
+   "sha256": "69d79807cb4953f59f375c4e007446b83a7c9ab80116e277c740107b5d3d5656"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212007.jpg"
+ },
+ "sha1_origem": "d25d325890ae3f9b6ac116702cb674eca92d32b5",
+ "bytes_origem": 164519,
+ "capturado_em": "2026-11-08T04:42:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Palma_Sola_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "d25d325890ae3f9b6ac116702cb674eca92d32b5"
+ }
+}

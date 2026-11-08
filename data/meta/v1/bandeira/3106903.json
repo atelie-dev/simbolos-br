@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3106903",
+ "uf": "MG",
+ "municipio": "Bicas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bandeira_de_Bicas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "André Maroco",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8a9e569fa8b233ac99f2d715139ac411130e75720ef365878f44dbe44e3172c3",
+ "rendicoes": {
+  "png": {
+   "bytes": 73961,
+   "sha256": "375b8b4ef01edea613fdbd2ff0e207cf9ce9cd1542329328b69d2cdee9dfd5e4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24980,
+   "sha256": "ac4ca49ce86228a27a48927a8285e39abf63d9c6502e3584fa204bd8e76bc990",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3106903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3106903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3106903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3106903.png",
+  "bytes": 325016,
+  "sha256": "8a9e569fa8b233ac99f2d715139ac411130e75720ef365878f44dbe44e3172c3"
+ },
+ "sha1_origem": "7adbfe38430daec82921322d7c56e1132d1bae29",
+ "bytes_origem": 325016,
+ "capturado_em": "2026-11-08T06:00:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bicas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "7adbfe38430daec82921322d7c56e1132d1bae29"
+ }
+}

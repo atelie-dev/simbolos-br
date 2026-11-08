@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3171303",
+ "uf": "MG",
+ "municipio": "Viçosa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Brasao_vicosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "José Marcondes Borges",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ee8f91e89f1a5851bbe3c1296d02df86d89ce1277fe4661cae2084de002cc453",
+ "rendicoes": {
+  "png": {
+   "bytes": 162270,
+   "sha256": "1e53df7f4c2a138d10ff56041aa339963f472a33b56f0ef686758a6143eb2978",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43365,
+   "sha256": "d64eb55759ceec094850e6d191310ddbdca8e647ac22adc04b6db33811d63094",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3171303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3171303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3171303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3171303.jpg",
+  "bytes": 245392,
+  "sha256": "ee8f91e89f1a5851bbe3c1296d02df86d89ce1277fe4661cae2084de002cc453"
+ },
+ "sha1_origem": "dd2ddfa91840d59783e85927141f904c7f8eae7d",
+ "bytes_origem": 245392,
+ "capturado_em": "2026-11-08T06:18:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_vicosa.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "dd2ddfa91840d59783e85927141f904c7f8eae7d"
+ }
+}

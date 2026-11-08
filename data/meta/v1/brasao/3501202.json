@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3501202",
+ "uf": "SP",
+ "municipio": "Álvares Florence",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bras%C3%A3o_de_%C3%81lvares_Florence%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefecture of Álvares Florence, SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "81fe7af4257037d34d8ab4540cb399f372868098ce5872382899481107e1932b",
+ "rendicoes": {
+  "png": {
+   "bytes": 347889,
+   "sha256": "ae78de5d35a8d28352a5a027b08f3e3ba0ada5c210715e502068280785924969",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67701,
+   "sha256": "73e40944d9ce410add9d8bc941d80d988813def59defbe98206edab83ecf2da7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3501202.jpg",
+  "bytes": 86661,
+  "sha256": "81fe7af4257037d34d8ab4540cb399f372868098ce5872382899481107e1932b"
+ },
+ "sha1_origem": "0c1a6baff310a753d0adcb909dc2b4f74cd2a065",
+ "bytes_origem": 86661,
+ "capturado_em": "2026-11-08T06:23:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Álvares_Florence,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:15Z",
+  "estado": "igual",
+  "sha1_commons": "0c1a6baff310a753d0adcb909dc2b4f74cd2a065"
+ }
+}

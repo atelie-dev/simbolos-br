@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1702109",
+ "uf": "TO",
+ "municipio": "Araguaína",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bras%C3%A3o_Araguaina_Tocantins_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "f2a40df24e45219ce8f79cb251bbe770c022f578158449fab56d98c7050582fa",
+ "rendicoes": {
+  "png": {
+   "bytes": 37813,
+   "sha256": "73c63ccd5afadd0a9be86b6c907f76391dc4eea696dd3de15680bffff80c2d1b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20844,
+   "sha256": "0228b28da86156cd56fca038d5de5a884bb1d07997daa509a04f64b91cafff62",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1569,
+   "sha256": "f2a40df24e45219ce8f79cb251bbe770c022f578158449fab56d98c7050582fa"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1702109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1702109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1702109.jpg"
+ },
+ "sha1_origem": "67b2ed22ef5770022614658c680171482521e890",
+ "bytes_origem": 1569,
+ "capturado_em": "2026-11-08T02:35:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Araguaina_Tocantins_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "67b2ed22ef5770022614658c680171482521e890"
+ }
+}

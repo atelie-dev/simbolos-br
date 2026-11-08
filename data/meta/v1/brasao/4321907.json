@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4321907",
+ "uf": "RS",
+ "municipio": "Três Passos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bras%C3%A3o_de_Tr%C3%AAs_Passos.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "rafaelpreuss",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b2ba67e341d06775621e36dfcea92923d6fe8de9a081d0ec690f2816398adde5",
+ "rendicoes": {
+  "png": {
+   "bytes": 102169,
+   "sha256": "7976159927226714657ef2a8e317d195427cb981304dc4ab64ed007b58a5d1a6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36292,
+   "sha256": "2f908455eefeaa3cdac93bdf5d531049f066c4115ae5ae93172a3d6994536631",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 36979,
+   "sha256": "b2ba67e341d06775621e36dfcea92923d6fe8de9a081d0ec690f2816398adde5"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321907.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321907.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321907.jpg"
+ },
+ "sha1_origem": "44ec80de191b659ae8ac32f845167fe96cd81a80",
+ "bytes_origem": 36979,
+ "capturado_em": "2026-11-08T05:01:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Três_Passos.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "44ec80de191b659ae8ac32f845167fe96cd81a80"
+ }
+}

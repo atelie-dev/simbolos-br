@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4120002",
+ "uf": "PR",
+ "municipio": "Porecatu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bandeira_Porecatu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Porecatu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6ed326fb6fc22ac6875088032f9a6fa88d679399ed13595dc27aa737b1a6d9da",
+ "rendicoes": {
+  "png": {
+   "bytes": 133265,
+   "sha256": "48ae72f8a328c452980e3b32865769b889d88f259ca86c38e084f59c6915e536",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30744,
+   "sha256": "dd9238cc982f975ec9409123fd88cc0ac416d56bd93e544434127dcd750a4961",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4120002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4120002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4120002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4120002.jpg",
+  "bytes": 58144,
+  "sha256": "6ed326fb6fc22ac6875088032f9a6fa88d679399ed13595dc27aa737b1a6d9da"
+ },
+ "sha1_origem": "497c3dad2ef99c467ab3da8856bd4750d8383516",
+ "bytes_origem": 58144,
+ "capturado_em": "2026-11-08T06:48:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Porecatu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "497c3dad2ef99c467ab3da8856bd4750d8383516"
+ }
+}

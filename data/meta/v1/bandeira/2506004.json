@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2506004",
+ "uf": "PB",
+ "municipio": "Esperança",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bandeira_esperanca.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Diego UFCG",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "13d19d71a16f4f69779023de72f0f810df1ed0b2f45b0dbfce15234232b4b455",
+ "rendicoes": {
+  "png": {
+   "bytes": 38922,
+   "sha256": "10c1daf99d7e32a891a25b01a093f45ca120af47a90970c71bb73fa07bc0adb4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17419,
+   "sha256": "a199d819ee4bf7ebf6c1f1c2c58b2dfceaffea4ab7c642c2859916c9e349abd1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2506004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2506004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2506004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2506004.png",
+  "bytes": 49107,
+  "sha256": "13d19d71a16f4f69779023de72f0f810df1ed0b2f45b0dbfce15234232b4b455"
+ },
+ "sha1_origem": "f5c9c806eaddf012a42fccb837e45b431c5262e1",
+ "bytes_origem": 49107,
+ "capturado_em": "2026-11-08T05:41:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_esperanca.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "f5c9c806eaddf012a42fccb837e45b431c5262e1"
+ }
+}

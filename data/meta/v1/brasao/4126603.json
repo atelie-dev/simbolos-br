@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4126603",
+ "uf": "PR",
+ "municipio": "Siqueira Campos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/29/SiqueiraCampos_Brasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bb77b2fea139cbd0fb56a7340ef0103f7c9d817c047c72476f2f0ec2a715d16e",
+ "rendicoes": {
+  "png": {
+   "bytes": 278706,
+   "sha256": "1321d01659d6b404b1863d2e3d1379c68081d18be41fbb08a780c138b8c3bc3a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61197,
+   "sha256": "2aa50fcd0faad7155f7af3c3ec464ef9e76b33496589eda77863d5af61c2da81",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4126603.jpg",
+  "bytes": 47593,
+  "sha256": "bb77b2fea139cbd0fb56a7340ef0103f7c9d817c047c72476f2f0ec2a715d16e"
+ },
+ "sha1_origem": "bfe9c41113a676507a91a42faa7d4041ea4ac62b",
+ "bytes_origem": 47593,
+ "capturado_em": "2026-11-08T06:50:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:SiqueiraCampos_Brasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:37Z",
+  "estado": "igual",
+  "sha1_commons": "bfe9c41113a676507a91a42faa7d4041ea4ac62b"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3147600",
+ "uf": "MG",
+ "municipio": "Passa Quatro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Passa_Quatro_flag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Alberto Lima & Maria José Borges Guedes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "80e580aa240b01c20a063ee4e55fc0e881574097076025d71576df3119e0cc50",
+ "rendicoes": {
+  "png": {
+   "bytes": 53198,
+   "sha256": "e9a8cae3aee01703034f9abe9f1ad3643f5cb6ca7c5605061c244956df78ba5a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18331,
+   "sha256": "1ee9397a19b264c7324e2540bc995e7b5c7dee372ce1c0888f575b2be2ceb360",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3147600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3147600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3147600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3147600.jpg",
+  "bytes": 73489,
+  "sha256": "80e580aa240b01c20a063ee4e55fc0e881574097076025d71576df3119e0cc50"
+ },
+ "sha1_origem": "ae89f5f4e7a01db93df045e01c150aa039167b21",
+ "bytes_origem": 73489,
+ "capturado_em": "2026-11-08T06:12:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Passa_Quatro_flag.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "ae89f5f4e7a01db93df045e01c150aa039167b21"
+ }
+}

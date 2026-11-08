@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4126652",
+ "uf": "PR",
+ "municipio": "Sulina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Bandeira_Sulina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2c812b9855e561cd9e47975c1f40ce741f5d2517c0ace5b007f6342c160a0d81",
+ "rendicoes": {
+  "png": {
+   "bytes": 78418,
+   "sha256": "ead07dc48b57160d5eb2eee7d45272f50acda12a7e8aee2ad2f62f88cb6e6d45",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24720,
+   "sha256": "f7da02025407ea5abb3e250aec21936c1e25a18243eb873c21c712bb400bdf3d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126652.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126652.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126652.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4126652.jpg",
+  "bytes": 92347,
+  "sha256": "2c812b9855e561cd9e47975c1f40ce741f5d2517c0ace5b007f6342c160a0d81"
+ },
+ "sha1_origem": "59f524a7a514350a89d404052476d80c5bdae332",
+ "bytes_origem": 92347,
+ "capturado_em": "2026-11-08T06:50:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Sulina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "59f524a7a514350a89d404052476d80c5bdae332"
+ }
+}

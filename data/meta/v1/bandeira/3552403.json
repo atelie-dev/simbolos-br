@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3552403",
+ "uf": "SP",
+ "municipio": "Sumaré",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/BandeiraSumare.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "610df756c5fa0998ea7c858488ed4d02dc4870d8d421171969611eb97bfe93b4",
+ "rendicoes": {
+  "png": {
+   "bytes": 91352,
+   "sha256": "59d258393c5302ff818d455d5dae2e5dea7f6d73efe3083a06d122d24c6264f0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22525,
+   "sha256": "71f5560259816b65becdb33d77a6cd689d3ce85f5214cb02ef053834f1a7e720",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3552403.png",
+  "bytes": 67879,
+  "sha256": "610df756c5fa0998ea7c858488ed4d02dc4870d8d421171969611eb97bfe93b4"
+ },
+ "sha1_origem": "672080d66b4f17213454aec0d92e635f321fe53a",
+ "bytes_origem": 67879,
+ "capturado_em": "2026-11-08T06:39:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraSumare.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "672080d66b4f17213454aec0d92e635f321fe53a"
+ }
+}

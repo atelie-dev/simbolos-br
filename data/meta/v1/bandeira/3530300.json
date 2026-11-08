@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3530300",
+ "uf": "SP",
+ "municipio": "Mirassol",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Br-sp-ms.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "714ee97ebded78f5cb8e5219fe00f6cad723081cab7b93fe74b4de15a06bf645",
+ "rendicoes": {
+  "png": {
+   "bytes": 5004,
+   "sha256": "e398aa83982840d5e3a37051007d3c991179b9bf25d37245e8f5dcc08a10399e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9640,
+   "sha256": "084ce7a5e30b99d8531f67965739b8f5726d601223c61d07464b3542e4ba3f69",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3530300.png",
+  "bytes": 3284,
+  "sha256": "714ee97ebded78f5cb8e5219fe00f6cad723081cab7b93fe74b4de15a06bf645"
+ },
+ "sha1_origem": "7e244571a8f4b98624f133b815ee4c9bdb621f37",
+ "bytes_origem": 3284,
+ "capturado_em": "2026-11-08T06:32:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Br-sp-ms.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:27Z",
+  "estado": "igual",
+  "sha1_commons": "7e244571a8f4b98624f133b815ee4c9bdb621f37"
+ }
+}

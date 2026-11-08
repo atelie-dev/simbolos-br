@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3511201",
+ "uf": "SP",
+ "municipio": "Catiguá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_Catigu%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Plinio Fuzaro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ebebd7cb70f16099ade700a6c9cc6aa5827a9a328b5ef6f1c1412c49def5c4a5",
+ "rendicoes": {
+  "png": {
+   "bytes": 161874,
+   "sha256": "ae9d3aa8727d5f4c2932178bac9ed9a464affe55fd9436eba2aa6713b072020d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31612,
+   "sha256": "4cd595cf1463457ec2114b3ae74f7933a844ba1fb5626042b67e7532fdc9296f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3511201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3511201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3511201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3511201.jpg",
+  "bytes": 43418,
+  "sha256": "ebebd7cb70f16099ade700a6c9cc6aa5827a9a328b5ef6f1c1412c49def5c4a5"
+ },
+ "sha1_origem": "05935572737fe5409f8c2a91cc30ced706d7b61a",
+ "bytes_origem": 43418,
+ "capturado_em": "2026-11-08T06:26:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Catiguá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "05935572737fe5409f8c2a91cc30ced706d7b61a"
+ }
+}

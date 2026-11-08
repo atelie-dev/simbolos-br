@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3106200",
+ "uf": "MG",
+ "municipio": "Belo Horizonte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bandeira_de_Belo_Horizonte.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Giro720",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "eb73010d2993334208d77c66192f0dc329f7098011098e81f977eefa83311dda",
+ "rendicoes": {
+  "png": {
+   "bytes": 9050,
+   "sha256": "dd0665fb56affa68986ddc70037575a47d1d84334ac305691cf19d8d2fe21d82",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6675,
+   "sha256": "29b18ebe1bdc3fe18ae6af506e1b14ea53e9b2516f763976c26027955bb4fca9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 40153,
+   "sha256": "eb73010d2993334208d77c66192f0dc329f7098011098e81f977eefa83311dda"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3106200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3106200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3106200.jpg"
+ },
+ "sha1_origem": "8cefe735a41775cfd84b3224d6fffcb2a2762162",
+ "bytes_origem": 40153,
+ "capturado_em": "2026-11-08T03:27:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Belo_Horizonte.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "8cefe735a41775cfd84b3224d6fffcb2a2762162"
+ }
+}

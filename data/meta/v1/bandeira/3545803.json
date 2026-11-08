@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3545803",
+ "uf": "SP",
+ "municipio": "Santa Bárbara d'Oeste",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bandeira_SantaBarbaradOeste_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "704dfbedb4f9c1ed7d0631cef5ba46ea735a001ae136011c0a4be1c67193ba20",
+ "rendicoes": {
+  "png": {
+   "bytes": 47780,
+   "sha256": "146eba0074fccaeb2da608c1eec00016bbc85340cf34a382cc37bbe87b5491e9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23698,
+   "sha256": "cb35bdc3fe2d6f474fac05930533af3bdb2277e1662709c951d543105ab2ddda",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1016017,
+   "sha256": "704dfbedb4f9c1ed7d0631cef5ba46ea735a001ae136011c0a4be1c67193ba20"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545803.jpg"
+ },
+ "sha1_origem": "a154100f25cf66d2d462dd303747c4fe569bfbc6",
+ "bytes_origem": 1016017,
+ "capturado_em": "2026-11-08T04:15:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_SantaBarbaradOeste_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "a154100f25cf66d2d462dd303747c4fe569bfbc6"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2708204",
+ "uf": "AL",
+ "municipio": "São Brás",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bras%C3%A3o_de_S%C3%A3o_Br%C3%A1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ray Duarte",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3ab0bdfdf9af17e40d8e9384f8c637d8e363d9a218a0b0863067adeb0c4631cf",
+ "rendicoes": {
+  "png": {
+   "bytes": 181841,
+   "sha256": "c5e3f369571e83cd1d4218aa2ce9a5ea3023c0d327785fe924ed902d95766036",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38077,
+   "sha256": "e95bbe1a601ad74e31eea7b39552babd72a7ebf6b0375728453604d50c9a4e72",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2708204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2708204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2708204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2708204.jpg",
+  "bytes": 30639,
+  "sha256": "3ab0bdfdf9af17e40d8e9384f8c637d8e363d9a218a0b0863067adeb0c4631cf"
+ },
+ "sha1_origem": "df4909fa528ab6e44bb9ad797c06ec5f785ddf67",
+ "bytes_origem": 30639,
+ "capturado_em": "2026-11-08T05:48:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_Brás.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:12Z",
+  "estado": "igual",
+  "sha1_commons": "df4909fa528ab6e44bb9ad797c06ec5f785ddf67"
+ }
+}

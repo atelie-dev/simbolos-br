@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2501351",
+ "uf": "PB",
+ "municipio": "Assunção",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bandeira_assuncao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Assunção",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a03fe0fd1e76a1582cd2f668b4d509ceab6d4ecd58da65a2e666d2eaca307e6d",
+ "rendicoes": {
+  "png": {
+   "bytes": 34356,
+   "sha256": "39ba6ca025902affc58e7b9db7224fef5a3c3905350b7b624bb273711f9bb7d0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10956,
+   "sha256": "75077a753907b25343cf2c07aa7d3470c13c79f188c9bdf31614278e5fd4ff2c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501351.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501351.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501351.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2501351.jpg",
+  "bytes": 11712,
+  "sha256": "a03fe0fd1e76a1582cd2f668b4d509ceab6d4ecd58da65a2e666d2eaca307e6d"
+ },
+ "sha1_origem": "027401df5f025a1fbf300df82b93a3b25abba78d",
+ "bytes_origem": 11712,
+ "capturado_em": "2026-11-08T05:39:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_assuncao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "027401df5f025a1fbf300df82b93a3b25abba78d"
+ }
+}

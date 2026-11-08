@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2900801",
+ "uf": "BA",
+ "municipio": "Alcobaça",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Alcobacabandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Andrevruas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "266a27a3265c871e4cab06e9b73cca178e4f0d1cc00728ae18a1c49c6e972169",
+ "rendicoes": {
+  "png": {
+   "bytes": 51075,
+   "sha256": "936beadcae9be8ab859877b8ae66c0e4dbb7632db1c256cc2f7aa330ec073f0f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13969,
+   "sha256": "74678f2b5bc5fc362d593db55743b1ab91c17b2a096add2e87482e4b2ea6f640",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2900801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2900801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2900801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2900801.jpg",
+  "bytes": 12881,
+  "sha256": "266a27a3265c871e4cab06e9b73cca178e4f0d1cc00728ae18a1c49c6e972169"
+ },
+ "sha1_origem": "457a4ded2684b50cb0bd11809236fc9c92bb65d5",
+ "bytes_origem": 12881,
+ "capturado_em": "2026-11-08T05:50:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Alcobacabandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "457a4ded2684b50cb0bd11809236fc9c92bb65d5"
+ }
+}

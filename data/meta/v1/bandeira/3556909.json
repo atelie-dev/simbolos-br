@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3556909",
+ "uf": "SP",
+ "municipio": "Vista Alegre do Alto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bandeira_Vista_Alegre_do_Alto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3dd94e7515a6eab784524e8a83b4d14ffe21514128e838a001b30c33aaa03e61",
+ "rendicoes": {
+  "png": {
+   "bytes": 36031,
+   "sha256": "f034b2615948b60d5ae4ad99c0700784816a938810da9f521ec245167b4b8da7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14668,
+   "sha256": "32e3251e9c8c8135e07f7bb8fcdc4f93fea5804fa2547cfc828cb64751910522",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3556909.jpg",
+  "bytes": 15279,
+  "sha256": "3dd94e7515a6eab784524e8a83b4d14ffe21514128e838a001b30c33aaa03e61"
+ },
+ "sha1_origem": "43dbbf5f28a403e2f7e29b92e04bf37361275d6d",
+ "bytes_origem": 15279,
+ "capturado_em": "2026-11-08T06:40:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Vista_Alegre_do_Alto.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "43dbbf5f28a403e2f7e29b92e04bf37361275d6d"
+ }
+}

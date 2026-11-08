@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3124302",
+ "uf": "MG",
+ "municipio": "Espinosa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Brasao_Espinosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Espinosa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "db722f57d3d7efc9450eb95a16f7e5d24bd32fd5d8621a8b6277434346b55d11",
+ "rendicoes": {
+  "png": {
+   "bytes": 93743,
+   "sha256": "d65cde2319e32b289811c7aabce399a9bb7ee19fd402d84f70e86e7210fc8a04",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19596,
+   "sha256": "83996fd9999f1bcbe4b09db74b171d83878ac872eea860e1a0c2011c383b7229",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3124302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3124302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3124302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3124302.jpg",
+  "bytes": 15728,
+  "sha256": "db722f57d3d7efc9450eb95a16f7e5d24bd32fd5d8621a8b6277434346b55d11"
+ },
+ "sha1_origem": "c88acb4f5e1eaa2b961ccaeb67203e526494fbb0",
+ "bytes_origem": 15728,
+ "capturado_em": "2026-11-08T06:06:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Espinosa.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:32Z",
+  "estado": "igual",
+  "sha1_commons": "c88acb4f5e1eaa2b961ccaeb67203e526494fbb0"
+ }
+}

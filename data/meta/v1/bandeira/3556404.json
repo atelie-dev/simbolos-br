@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3556404",
+ "uf": "SP",
+ "municipio": "Vargem Grande do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bandeira_vgsul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d1e1f3b3dd6eaac4e58ea49478fe55b800055ce5409767852bb813223b6a5f3d",
+ "rendicoes": {
+  "png": {
+   "bytes": 80583,
+   "sha256": "03196698d5dc8b2f58a6e743223b82e24d945af7ae9a7128baadd073532834b6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24592,
+   "sha256": "bf40874ef45d46b12692cc730da064313d7bc41c68e87b4b9d84fc3b0671c2e9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3556404.jpg",
+  "bytes": 30729,
+  "sha256": "d1e1f3b3dd6eaac4e58ea49478fe55b800055ce5409767852bb813223b6a5f3d"
+ },
+ "sha1_origem": "9954584425e8270164243684ad86cf8a42a90edf",
+ "bytes_origem": 30729,
+ "capturado_em": "2026-11-08T06:40:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_vgsul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "9954584425e8270164243684ad86cf8a42a90edf"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3160504",
+ "uf": "MG",
+ "municipio": "Santo Antônio do Rio Abaixo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Santo_Ant%C3%B4nio_do_Rio_Abaixo_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HVL",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d928ff4384d35488222b0532384137292dd2b51d4a0a28789a6608f735ce70ad",
+ "rendicoes": {
+  "png": {
+   "bytes": 136465,
+   "sha256": "b3f394af1fe23f0cad8dcc9d37b0437074c650aaa2e5092b825f07946f496288",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30917,
+   "sha256": "6a5e8438b703bb62e8fcabb78e89945acfbd4d15ed587bfe2826f97035250c7d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3160504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3160504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3160504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3160504.png",
+  "bytes": 1131479,
+  "sha256": "d928ff4384d35488222b0532384137292dd2b51d4a0a28789a6608f735ce70ad"
+ },
+ "sha1_origem": "555078aa709649c17aeb9d717c29007d2cb5bf43",
+ "bytes_origem": 1131479,
+ "capturado_em": "2026-11-08T06:15:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Santo_Antônio_do_Rio_Abaixo_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "555078aa709649c17aeb9d717c29007d2cb5bf43"
+ }
+}

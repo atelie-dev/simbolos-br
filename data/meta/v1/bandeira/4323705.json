@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4323705",
+ "uf": "RS",
+ "municipio": "Vista Gaúcha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bandeira_de_Vista_Ga%C3%BAcha.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Yaanub",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cedeb10333bcf6e90656176908291d3fbc98863e14eb5c6528267e02427f2b4d",
+ "rendicoes": {
+  "png": {
+   "bytes": 56712,
+   "sha256": "5bfdb61bee23383952ac690e60d1383ce570c56f7a07ec57a341ebb55246a6f8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18018,
+   "sha256": "b75e7fc9ade62ad8662cd0e063dbb79509f7909f5b97b189bebc12dd7850de92",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323705.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4323705.png",
+  "bytes": 2977834,
+  "sha256": "cedeb10333bcf6e90656176908291d3fbc98863e14eb5c6528267e02427f2b4d"
+ },
+ "sha1_origem": "bf35782197c151f56495d38641c8805d471755b9",
+ "bytes_origem": 2977834,
+ "capturado_em": "2026-11-08T07:12:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Vista_Gaúcha.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "bf35782197c151f56495d38641c8805d471755b9"
+ }
+}

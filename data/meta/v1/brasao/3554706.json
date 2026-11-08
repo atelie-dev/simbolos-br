@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3554706",
+ "uf": "SP",
+ "municipio": "Torrinha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Brasao_Torrinha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9b2d7547c7106440c5e4cfacc6c1d8e67bef4193efee32551dc7338df228668a",
+ "rendicoes": {
+  "png": {
+   "bytes": 161369,
+   "sha256": "d8b5c58aa34cd983e087d05dad22e2b068e4ed57f6b6d7cb4cc8cac9cb3f7d46",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27395,
+   "sha256": "b8f460f7f68d4be63c1b3b92916bc3127a5b79bf2777ddc20cb28c4745c83357",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3554706.jpg",
+  "bytes": 29884,
+  "sha256": "9b2d7547c7106440c5e4cfacc6c1d8e67bef4193efee32551dc7338df228668a"
+ },
+ "sha1_origem": "44858aaf48948f88a030f16f98f96e8ee23ade6f",
+ "bytes_origem": 29884,
+ "capturado_em": "2026-11-08T06:39:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Torrinha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "44858aaf48948f88a030f16f98f96e8ee23ade6f"
+ }
+}

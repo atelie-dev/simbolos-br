@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2313500",
+ "uf": "CE",
+ "municipio": "Trairi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bandeira_de_Trairi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Pedro HG",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1f4415c274f4cba7cdc635b8cfd607a1c65ccac8ae523bdc39d7903c84454954",
+ "rendicoes": {
+  "png": {
+   "bytes": 82328,
+   "sha256": "294b76ddbd25ee7da53154ca9197fc9cfebca15a320566add7691187f9bd5b95",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22243,
+   "sha256": "0bbe554d49b0cdc96a0155d4b1120c55f596c883c3ca9f4dcfa119e54f73781e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2313500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2313500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2313500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2313500.jpg",
+  "bytes": 21949,
+  "sha256": "1f4415c274f4cba7cdc635b8cfd607a1c65ccac8ae523bdc39d7903c84454954"
+ },
+ "sha1_origem": "05710da89c2f83d73f9ab00a77fb4458648a099f",
+ "bytes_origem": 21949,
+ "capturado_em": "2026-11-08T05:35:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Trairi.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "05710da89c2f83d73f9ab00a77fb4458648a099f"
+ }
+}

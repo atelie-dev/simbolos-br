@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3525300",
+ "uf": "SP",
+ "municipio": "Jaú",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bras%C3%A3o_Ja%C3%BA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a971b5556ec41084dacd3dd6bb1ef347e0b1aaa972ccdc0b3724e1d6de8635bb",
+ "rendicoes": {
+  "png": {
+   "bytes": 28550,
+   "sha256": "76268f3f812ac5ac01475be6dbc1a832db5ff6b6e120a22eef4ba58a2af9d821",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13503,
+   "sha256": "1ef4c3a4a8388fc5ec03b47ff360bcc08c4adf3ffce1e4097cf85baf5c1d32b0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3525300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3525300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3525300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3525300.png",
+  "bytes": 11983,
+  "sha256": "a971b5556ec41084dacd3dd6bb1ef347e0b1aaa972ccdc0b3724e1d6de8635bb"
+ },
+ "sha1_origem": "b14a2f367407337a0b8d62371b38628b73fbf496",
+ "bytes_origem": 11983,
+ "capturado_em": "2026-11-08T06:30:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Jaú.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "b14a2f367407337a0b8d62371b38628b73fbf496"
+ }
+}

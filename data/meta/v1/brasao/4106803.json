@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4106803",
+ "uf": "PR",
+ "municipio": "Cruz Machado",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bras%C3%A3o_Cruz_Machado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5580b392d9bd8897cae6af0317c53e4947551056350927d81a5029728b8256d4",
+ "rendicoes": {
+  "png": {
+   "bytes": 39956,
+   "sha256": "5f9ca00f4d0abccf77cef1c4c9c45b2c9c39234425a69b1069df0260dc4e7465",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8286,
+   "sha256": "aa7a8cb8f7fc55c55797fe576da1085f09a5efc1f810b4a4aefeff13fe97da8e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4106803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4106803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4106803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4106803.jpg",
+  "bytes": 24209,
+  "sha256": "5580b392d9bd8897cae6af0317c53e4947551056350927d81a5029728b8256d4"
+ },
+ "sha1_origem": "c8d578ded8120ac276208d3cca2d17fa0cfc7d21",
+ "bytes_origem": 24209,
+ "capturado_em": "2026-11-08T06:43:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Cruz_Machado.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:48Z",
+  "estado": "igual",
+  "sha1_commons": "c8d578ded8120ac276208d3cca2d17fa0cfc7d21"
+ }
+}

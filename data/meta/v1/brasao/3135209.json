@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3135209",
+ "uf": "MG",
+ "municipio": "Januária",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bras%C3%A3o_de_Janu%C3%A1ria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6a670e955de5b92314188718ccc6a5e227c025a9e18d266f188ac1a4ffbca154",
+ "rendicoes": {
+  "png": {
+   "bytes": 89074,
+   "sha256": "faf222da2bd5a2d46c97f9f1cf634e8412e12ff75e790b75be7658de2e50f37e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16984,
+   "sha256": "001849e84b13a5bcf72784b891bbcd44b17a774202b0f980db81e527bfb8e289",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3135209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3135209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3135209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3135209.jpg",
+  "bytes": 17590,
+  "sha256": "6a670e955de5b92314188718ccc6a5e227c025a9e18d266f188ac1a4ffbca154"
+ },
+ "sha1_origem": "9944077f98d607283f38853143fd929bdfc75387",
+ "bytes_origem": 17590,
+ "capturado_em": "2026-11-08T06:09:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Januária.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "9944077f98d607283f38853143fd929bdfc75387"
+ }
+}

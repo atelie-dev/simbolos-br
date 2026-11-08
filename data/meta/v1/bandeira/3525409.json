@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3525409",
+ "uf": "SP",
+ "municipio": "Jeriquara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/50/Bandeira_de_Jeriquara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "04ce4e63a57647ce3de2c962cec2942e28aa9b2857bc3ff57b3e551a4e89949b",
+ "rendicoes": {
+  "png": {
+   "bytes": 9365,
+   "sha256": "a882544a9c26cb53bbd44904439829e00b11aa3ffba72881499bb2a64da46f3d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 3812,
+   "sha256": "a37396a80c063ba45f145cf4847ea754f759ff7a5e28cb1b3550cc08e10bf1f9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3525409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3525409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3525409.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3525409.jpg",
+  "bytes": 2567,
+  "sha256": "04ce4e63a57647ce3de2c962cec2942e28aa9b2857bc3ff57b3e551a4e89949b"
+ },
+ "sha1_origem": "a4981785bc1e93844ed2bda5c8762c42513f7239",
+ "bytes_origem": 2567,
+ "capturado_em": "2026-11-08T06:30:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Jeriquara.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "a4981785bc1e93844ed2bda5c8762c42513f7239"
+ }
+}

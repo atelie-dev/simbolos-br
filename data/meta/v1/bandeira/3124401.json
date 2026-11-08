@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3124401",
+ "uf": "MG",
+ "municipio": "Espírito Santo do Dourado",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Esp%C3%ADrito_Santo_do_Douradomgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Espírito Santo do Dourado",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b7e17abaa6ca3fb5d44c31139e1ca20d9db45f0fa13f03396d3137f199ba74fc",
+ "rendicoes": {
+  "png": {
+   "bytes": 16660,
+   "sha256": "45c4cd5d5c728c450047e8f7ab45b94ccf9ac7904a937fda728bd1bbde02c2ee",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9678,
+   "sha256": "2bb836a0168b752209f9130a4b4507ecde343321491d71b8a4f98afd788a7a13",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3124401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3124401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3124401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3124401.png",
+  "bytes": 13642,
+  "sha256": "b7e17abaa6ca3fb5d44c31139e1ca20d9db45f0fa13f03396d3137f199ba74fc"
+ },
+ "sha1_origem": "f0d8580fe368e55635ccbbee54a9668a3e8c80fa",
+ "bytes_origem": 13642,
+ "capturado_em": "2026-11-08T06:06:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Espírito_Santo_do_Douradomgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "f0d8580fe368e55635ccbbee54a9668a3e8c80fa"
+ }
+}

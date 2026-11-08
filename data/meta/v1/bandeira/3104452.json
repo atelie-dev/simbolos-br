@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3104452",
+ "uf": "MG",
+ "municipio": "Aricanduva",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/80/Aricanduvamgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Aricanduva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "277a3a7b0d99d7043e3e9f4455cba5a40a323711dd4ccc7f1cf86153e7bc516c",
+ "rendicoes": {
+  "png": {
+   "bytes": 165399,
+   "sha256": "909ca4d1ac1447b9504441690aa4abbd58da79c29bafe13a9424c0d07a150843",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34908,
+   "sha256": "87b61374d8cd3ff076eec12b7d962d3a21a6c66e358612db27f26030ddb98ccd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3104452.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3104452.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3104452.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3104452.jpg",
+  "bytes": 44045,
+  "sha256": "277a3a7b0d99d7043e3e9f4455cba5a40a323711dd4ccc7f1cf86153e7bc516c"
+ },
+ "sha1_origem": "520cf3982dd22f065a438a1047fd3f48e26905fa",
+ "bytes_origem": 44045,
+ "capturado_em": "2026-11-08T05:59:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Aricanduvamgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "520cf3982dd22f065a438a1047fd3f48e26905fa"
+ }
+}

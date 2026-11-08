@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4315073",
+ "uf": "RS",
+ "municipio": "Porto Vera Cruz",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Flag_of_Porto_Vera_Cruz_RS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3dbc5f374b16aa0a1bf13918d09577d8ace30e5d54bcdc8de5bc22f392deeeac",
+ "rendicoes": {
+  "png": {
+   "bytes": 81143,
+   "sha256": "3dcb5f69c3ebf70320961aa8f2b0b10faa577085876684b8d30dc05e9e9b71e1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20027,
+   "sha256": "d810b5fbaf29634d47ab69eec6921870a6c451e8687661c000b781f1bf88cb78",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315073.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315073.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315073.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4315073.png",
+  "bytes": 365709,
+  "sha256": "3dbc5f374b16aa0a1bf13918d09577d8ace30e5d54bcdc8de5bc22f392deeeac"
+ },
+ "sha1_origem": "0e03019c68ede322e1f151a64a2585a23d0729bc",
+ "bytes_origem": 365709,
+ "capturado_em": "2026-11-08T07:07:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Porto_Vera_Cruz_RS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "0e03019c68ede322e1f151a64a2585a23d0729bc"
+ }
+}

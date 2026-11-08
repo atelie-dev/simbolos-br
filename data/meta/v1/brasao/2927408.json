@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2927408",
+ "uf": "BA",
+ "municipio": "Salvador",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bras%C3%A3o_de_Salvador.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Salvador",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a760b926abc437c7b673f60aa0e51b867ec6645e3971de83626ba978c17a3f58",
+ "rendicoes": {
+  "png": {
+   "bytes": 273302,
+   "sha256": "9e953195f169efd21ad5ae340fa46cbbaf835abe710760c776ee555d14e7135c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 79190,
+   "sha256": "89c29ace2fcbf41c9a47698c9af115449f20a852d0df62f792f1c6884c7dee22",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 120085,
+   "sha256": "a760b926abc437c7b673f60aa0e51b867ec6645e3971de83626ba978c17a3f58"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2927408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2927408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2927408.jpg"
+ },
+ "sha1_origem": "aaed36a29053842af71f54732352e9e5d4128291",
+ "bytes_origem": 120085,
+ "capturado_em": "2026-11-08T03:22:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Salvador.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "aaed36a29053842af71f54732352e9e5d4128291"
+ }
+}

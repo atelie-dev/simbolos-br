@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3156908",
+ "uf": "MG",
+ "municipio": "Sacramento",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bandeira_de_Sacramento_%28Minas_Gerais%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Giro720",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ff6993dd27bf5c0ea1a14584c18b95f63d5bb87a3e64cb0217460e0ae3091dcf",
+ "rendicoes": {
+  "png": {
+   "bytes": 30226,
+   "sha256": "14d97fbf940118ad81b89ce3816a47d8440fcb2b63e37a698f336a854732f758",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17615,
+   "sha256": "960a3f5827d20fac6522f5deab9b8fd06a7f84643ca6c1195d365521da98b6e9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 808,
+   "sha256": "ff6993dd27bf5c0ea1a14584c18b95f63d5bb87a3e64cb0217460e0ae3091dcf"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3156908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3156908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3156908.jpg"
+ },
+ "sha1_origem": "34ae855326ae4a176427e6964e0dd95917fe2413",
+ "bytes_origem": 808,
+ "capturado_em": "2026-11-08T03:46:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Sacramento_(Minas_Gerais).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "34ae855326ae4a176427e6964e0dd95917fe2413"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3170438",
+ "uf": "MG",
+ "municipio": "União de Minas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bandeira_uniao_de_minas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de União de Minas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "42fbf0100ffda5f7ff6c4928c6039820591de233af10f25a3841cf46c5162ea8",
+ "rendicoes": {
+  "png": {
+   "bytes": 11594,
+   "sha256": "999da1c689df7c91392d26a0fd92c9434fb3bca5d67ee3487a6d53647401a686",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7129,
+   "sha256": "6dd0462d52f370fae266584e305038da0343746a8275ec7c030c9fa335a8aa50",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170438.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170438.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170438.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3170438.png",
+  "bytes": 4783,
+  "sha256": "42fbf0100ffda5f7ff6c4928c6039820591de233af10f25a3841cf46c5162ea8"
+ },
+ "sha1_origem": "4402fa6e30ed0e1b1d508ed4d7f5928f02d750a1",
+ "bytes_origem": 4783,
+ "capturado_em": "2026-11-08T06:18:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_uniao_de_minas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "4402fa6e30ed0e1b1d508ed4d7f5928f02d750a1"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3540705",
+ "uf": "SP",
+ "municipio": "Porto Ferreira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Brasao_pf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Antonio Paim Vieira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bb90c629767074bf7a6f4619e615cd70aaa88d19d266fa63338a776a865ff5de",
+ "rendicoes": {
+  "png": {
+   "bytes": 111734,
+   "sha256": "9bcf59fe262b96b81d2b55362f4b3ff6001a3c018d33ed75cbe0be46e231bd55",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20604,
+   "sha256": "700c4c83bb9a051cf81e014f8a31c8c99aaef1a01279c9a5f9ee34ed3a1b36e3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540705.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3540705.jpg",
+  "bytes": 10949,
+  "sha256": "bb90c629767074bf7a6f4619e615cd70aaa88d19d266fa63338a776a865ff5de"
+ },
+ "sha1_origem": "79fbfe2d7ee4cd342a3d264101eb888822482a8c",
+ "bytes_origem": 10949,
+ "capturado_em": "2026-11-08T06:35:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_pf.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "79fbfe2d7ee4cd342a3d264101eb888822482a8c"
+ }
+}

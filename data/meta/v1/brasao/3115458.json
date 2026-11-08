@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3115458",
+ "uf": "MG",
+ "municipio": "Catuji",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Catujimgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Catuji",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5d760732e04b37c3dc59c9a899a1b079c73dee436420622ac8bbea01fb746bc6",
+ "rendicoes": {
+  "png": {
+   "bytes": 80656,
+   "sha256": "9013defc6f8e5dea92e6f27efdbff76fb7531f49f6c72b9f296962f638f95270",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19122,
+   "sha256": "e9e9e1803e6df6820972fd8c7e71525f47ad37a3e0e6636a7e2bddcca99baa88",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3115458.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3115458.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3115458.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3115458.jpg",
+  "bytes": 14838,
+  "sha256": "5d760732e04b37c3dc59c9a899a1b079c73dee436420622ac8bbea01fb746bc6"
+ },
+ "sha1_origem": "cff0a610da9c8739b2c5207b9abb02fc32d60bd3",
+ "bytes_origem": 14838,
+ "capturado_em": "2026-11-08T06:03:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Catujimgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:21Z",
+  "estado": "igual",
+  "sha1_commons": "cff0a610da9c8739b2c5207b9abb02fc32d60bd3"
+ }
+}

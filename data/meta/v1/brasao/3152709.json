@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3152709",
+ "uf": "MG",
+ "municipio": "Prados",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bras%C3%A3o_Prados.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://prados.mg.gov.br/",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e0436c8e8065aa89f97881393051bc302c32a461f9134aa441c6b30520fd7d08",
+ "rendicoes": {
+  "png": {
+   "bytes": 178742,
+   "sha256": "7ea41185443a8927e5778d2a6964a66cec5e220e2d2c0501afcb4e6b1729f823",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58240,
+   "sha256": "509786236b82aea0caa50b6d6e58f68d30bbd02820aecb1a3aadae705019ef56",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152709.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3152709.png",
+  "bytes": 358920,
+  "sha256": "e0436c8e8065aa89f97881393051bc302c32a461f9134aa441c6b30520fd7d08"
+ },
+ "sha1_origem": "3a39575dbe6d66d6d163cf7117afd7824e8fa128",
+ "bytes_origem": 358920,
+ "capturado_em": "2026-11-08T06:13:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Prados.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:53Z",
+  "estado": "igual",
+  "sha1_commons": "3a39575dbe6d66d6d163cf7117afd7824e8fa128"
+ }
+}

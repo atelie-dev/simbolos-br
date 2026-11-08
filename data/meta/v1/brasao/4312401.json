@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312401",
+ "uf": "RS",
+ "municipio": "Montenegro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bras%C3%A3o_de_Montenegro_RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Montenegro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "317bc124ba1af5f6391bdbf7fa39ffe266cc4a1c83113d966575713f8f27289f",
+ "rendicoes": {
+  "png": {
+   "bytes": 173953,
+   "sha256": "383efb5247e175eda1fdcdeae49b2e5cf36e838678a5baacdd10aefe643a5a70",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38239,
+   "sha256": "1c1ea1f8ad2b505a616eb16b4bf03fe2b9d6a99ddf119adcfbe5efe78af7030e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4312401.jpg",
+  "bytes": 94524,
+  "sha256": "317bc124ba1af5f6391bdbf7fa39ffe266cc4a1c83113d966575713f8f27289f"
+ },
+ "sha1_origem": "7d12c006cbd8147cfb657a9ffb31875db23b052a",
+ "bytes_origem": 94524,
+ "capturado_em": "2026-11-08T07:05:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Montenegro_RS.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "7d12c006cbd8147cfb657a9ffb31875db23b052a"
+ }
+}

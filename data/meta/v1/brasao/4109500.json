@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4109500",
+ "uf": "PR",
+ "municipio": "Guaraqueçaba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Brasao_de_Guaraque%C3%A7aba.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Guaraqueçaba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a388c3210f48cb77ca8a0cdb004398bb42bd25125b0156e39e71fdc61f647aa9",
+ "rendicoes": {
+  "png": {
+   "bytes": 104878,
+   "sha256": "a55df1352d297c90bc99c48b7511bcb3afa713bee771984fd986b5872ea41b4a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21860,
+   "sha256": "2b4b854fbf8ddd2395c2a5643e475674c5e676089a6f01c1e91c8dafc63e02ee",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4109500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4109500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4109500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4109500.jpg",
+  "bytes": 19809,
+  "sha256": "a388c3210f48cb77ca8a0cdb004398bb42bd25125b0156e39e71fdc61f647aa9"
+ },
+ "sha1_origem": "36a9d9aa90579bd421165126893094aa0d6bc18e",
+ "bytes_origem": 19809,
+ "capturado_em": "2026-11-08T06:44:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_de_Guaraqueçaba.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "36a9d9aa90579bd421165126893094aa0d6bc18e"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2500502",
+ "uf": "PB",
+ "municipio": "Alagoinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bandeira_Alagoinha_%28PB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Alagoinha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7db7d4b646336200cfc4b54f8f695cca50bf4f1cafb581c5fedbd29b5f654596",
+ "rendicoes": {
+  "png": {
+   "bytes": 82129,
+   "sha256": "fb52e9a3b64942189eeb909ff8fbda4d3d677615752721f461580f2130f957c0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23255,
+   "sha256": "87ed841d313d1c03fde5ef0a2581b576ab97fcbfd698edfccb7388470038b171",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2500502.jpg",
+  "bytes": 57564,
+  "sha256": "7db7d4b646336200cfc4b54f8f695cca50bf4f1cafb581c5fedbd29b5f654596"
+ },
+ "sha1_origem": "8c9968869a48c28e1c338d0d5d11a624830da231",
+ "bytes_origem": 57564,
+ "capturado_em": "2026-11-08T05:39:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Alagoinha_(PB).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "8c9968869a48c28e1c338d0d5d11a624830da231"
+ }
+}

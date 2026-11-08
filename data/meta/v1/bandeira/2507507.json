@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2507507",
+ "uf": "PB",
+ "municipio": "João Pessoa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bandeira_de_Jo%C3%A3o_Pessoa.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "593e9e5f4c6b76a6b5d11739806887cafaf15d2eea6df14dbf4b628a9581d932",
+ "rendicoes": {
+  "png": {
+   "bytes": 62975,
+   "sha256": "1b2cae0e36e447631813caa316afb3d4e2fd4e02afb6eb3f1367e9cee80b09b1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26653,
+   "sha256": "9114b782a37fb23d61fb0e4ccac35f37796e104148a9388a6de2bb04bd924165",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 35982,
+   "sha256": "593e9e5f4c6b76a6b5d11739806887cafaf15d2eea6df14dbf4b628a9581d932"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2507507.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2507507.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2507507.jpg"
+ },
+ "sha1_origem": "8b315a78f3982b2538d685c542d29b992e52f7cc",
+ "bytes_origem": 35982,
+ "capturado_em": "2026-11-08T02:58:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_João_Pessoa.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "8b315a78f3982b2538d685c542d29b992e52f7cc"
+ }
+}

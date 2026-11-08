@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2304350",
+ "uf": "CE",
+ "municipio": "Forquilha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Forquilha_%28Cear%C3%A1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura Municipal de Forquilha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8f3e270f6aa416a78e993231b79b5bc94ecc06c78cf715d8bbda75cf397edd3d",
+ "rendicoes": {
+  "png": {
+   "bytes": 53721,
+   "sha256": "43bd51491c41ae3d65b780db51d52f704a41cc0e16cba23b2dad27c0e82e28b1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17702,
+   "sha256": "ae2cc33ff91dfe2cfdbc65b2dad91ffd95607becd9a0350a1803b42217f36324",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304350.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304350.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304350.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2304350.jpg",
+  "bytes": 40977,
+  "sha256": "8f3e270f6aa416a78e993231b79b5bc94ecc06c78cf715d8bbda75cf397edd3d"
+ },
+ "sha1_origem": "4e1a03d2d61886275f635988d065622fa1dbc502",
+ "bytes_origem": 40977,
+ "capturado_em": "2026-11-08T05:32:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Forquilha_(Ceará).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "4e1a03d2d61886275f635988d065622fa1dbc502"
+ }
+}

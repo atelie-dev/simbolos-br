@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5209150",
+ "uf": "GO",
+ "municipio": "Gouvelândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Bandeira_de_Gouvel%C3%A2ndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Gouvelândia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a1ac8e90f31ec3ed69a8840f6be3231ffb6834eaaf8d099bab5744d0fd666b0d",
+ "rendicoes": {
+  "png": {
+   "bytes": 57224,
+   "sha256": "b6004620778df3a85646002562089f4e6a00c9bd5d24cd41077c1ea06771d755",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24501,
+   "sha256": "e379694d132da5ce40e5aa07fd80ce9d2e3a913c03e9748b3ec070785c043d07",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5209150.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5209150.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5209150.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5209150.jpg",
+  "bytes": 63118,
+  "sha256": "a1ac8e90f31ec3ed69a8840f6be3231ffb6834eaaf8d099bab5744d0fd666b0d"
+ },
+ "sha1_origem": "c639a3345b6716b7e1dfb93c7b8a910d8a2314ac",
+ "bytes_origem": 63118,
+ "capturado_em": "2026-11-08T07:18:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Gouvelândia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "c639a3345b6716b7e1dfb93c7b8a910d8a2314ac"
+ }
+}

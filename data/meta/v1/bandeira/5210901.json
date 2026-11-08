@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5210901",
+ "uf": "GO",
+ "municipio": "Itapaci",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bandeira_Itapaci.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Itapaci",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "269a8755d2cf6706d6b09e39a88fb66e876443498c0b0508df80a5628cd84dd1",
+ "rendicoes": {
+  "png": {
+   "bytes": 31891,
+   "sha256": "e5f84f8f606b4f9e5f2faece079aa7b50988f2da6c823df9d056dc454d75d3c2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14086,
+   "sha256": "c44cc7147e0820ef16a4e85a5bfece1c2d2880536ff85df024b6eb41c4a733b6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5210901.jpg",
+  "bytes": 11979,
+  "sha256": "269a8755d2cf6706d6b09e39a88fb66e876443498c0b0508df80a5628cd84dd1"
+ },
+ "sha1_origem": "1343aed9ec1704d5cf78e790ebf7d98725e11bcb",
+ "bytes_origem": 11979,
+ "capturado_em": "2026-11-08T07:18:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itapaci.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "1343aed9ec1704d5cf78e790ebf7d98725e11bcb"
+ }
+}

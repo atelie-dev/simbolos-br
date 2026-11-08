@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4113601",
+ "uf": "PR",
+ "municipio": "Lobato",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bras%C3%A3o_-_munic%C3%ADpio_de_lobato-pr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "domínio público",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9c3d8da87d565fb25188090902944927f242ff5466595a55c42b03938ed5fc72",
+ "rendicoes": {
+  "png": {
+   "bytes": 204210,
+   "sha256": "c91192ce2c5074a05fa3e326648cf2b1497d43d4b018bc6436ea3a68e7027bdc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35219,
+   "sha256": "1c4f37111298b04f8b6ddc1bce34d61ed7f985bfae97d0122808b118c21f007d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4113601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4113601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4113601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4113601.jpg",
+  "bytes": 107451,
+  "sha256": "9c3d8da87d565fb25188090902944927f242ff5466595a55c42b03938ed5fc72"
+ },
+ "sha1_origem": "186a90ce212979cb2e399e104e89a06f48f25992",
+ "bytes_origem": 107451,
+ "capturado_em": "2026-11-08T06:45:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_-_município_de_lobato-pr.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "186a90ce212979cb2e399e104e89a06f48f25992"
+ }
+}

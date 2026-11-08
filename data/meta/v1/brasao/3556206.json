@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3556206",
+ "uf": "SP",
+ "municipio": "Valinhos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Brasao-Valinhos.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "victorwestmann",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "be4252a9fde03e4a2be27ee7c1b32113fb75a3ee0ba1b51dab6db9efdca1e904",
+ "rendicoes": {
+  "png": {
+   "bytes": 217717,
+   "sha256": "8ce22976c9e2ae13ad059bbae14f9eddeff106e10129d9b18cef2b9cfcc9fc3a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 75455,
+   "sha256": "6cbf2959dd0bc5b8955e8a931c62d4d0642c118b142832b1ac7cae93037e6743",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1524146,
+   "sha256": "be4252a9fde03e4a2be27ee7c1b32113fb75a3ee0ba1b51dab6db9efdca1e904"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556206.jpg"
+ },
+ "sha1_origem": "5eb36e14d5911ae1bd9e53ef0be51a36a662c0dd",
+ "bytes_origem": 1524146,
+ "capturado_em": "2026-11-08T04:19:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-Valinhos.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "5eb36e14d5911ae1bd9e53ef0be51a36a662c0dd"
+ }
+}

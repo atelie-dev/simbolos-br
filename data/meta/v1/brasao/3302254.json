@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3302254",
+ "uf": "RJ",
+ "municipio": "Itatiaia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Brasao_itatiaia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9511d0d15bae8b674b2aa4ac1b51043eda9b74e8b1deee792098deb96faea81a",
+ "rendicoes": {
+  "png": {
+   "bytes": 262093,
+   "sha256": "987356a730b01d82b0ac5a7027b47960ee9267bc5369c7606840d84b11bb6c7d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61174,
+   "sha256": "0eadacaf9a13114ca400085681ad459c3f4b891b9f51e5fa415b45f49a222de2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302254.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302254.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302254.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3302254.jpg",
+  "bytes": 52906,
+  "sha256": "9511d0d15bae8b674b2aa4ac1b51043eda9b74e8b1deee792098deb96faea81a"
+ },
+ "sha1_origem": "ef26b824fec7c26f7f063fdd005ec3cd10473b96",
+ "bytes_origem": 52906,
+ "capturado_em": "2026-11-08T06:21:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_itatiaia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "ef26b824fec7c26f7f063fdd005ec3cd10473b96"
+ }
+}

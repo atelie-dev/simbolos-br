@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2515930",
+ "uf": "PB",
+ "municipio": "Sertãozinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bandeira_de_Sert%C3%A3ozinho_PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fa834fb4832a87e62afb722a88d399ce980b1079db4705c3180bfabbee615905",
+ "rendicoes": {
+  "png": {
+   "bytes": 46844,
+   "sha256": "07275d5385a523979aaade858df88731e740ec219c69ac40fc015812ded1d8f8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19844,
+   "sha256": "e32a0e2cc54cba98d257b07b4e674fb3eeefcd4bdb6f70ddbef5ac974968ea2c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2515930.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2515930.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2515930.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2515930.jpg",
+  "bytes": 246589,
+  "sha256": "fa834fb4832a87e62afb722a88d399ce980b1079db4705c3180bfabbee615905"
+ },
+ "sha1_origem": "b5543631a6b2b1dd36556ecb0f3a3d388fe425ab",
+ "bytes_origem": 246589,
+ "capturado_em": "2026-11-08T05:44:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Sertãozinho_PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "b5543631a6b2b1dd36556ecb0f3a3d388fe425ab"
+ }
+}

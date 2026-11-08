@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4322004",
+ "uf": "RS",
+ "municipio": "Triunfo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bandeira_de_Triunfo_%28RS%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "own work",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "52767d762d994454c22502b04f45d61bb6f8b83a89f463b0f43285787cdd043a",
+ "rendicoes": {
+  "png": {
+   "bytes": 31460,
+   "sha256": "6645487b1640e347334bc8fb88179b15ff467cb1adb0a6ac49c658340867bfcc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11010,
+   "sha256": "afe6e790dc597741284681759e559e02e004427075863f82ff9173492a4a5422",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4322004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4322004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4322004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4322004.jpg",
+  "bytes": 8465,
+  "sha256": "52767d762d994454c22502b04f45d61bb6f8b83a89f463b0f43285787cdd043a"
+ },
+ "sha1_origem": "05140401b68e1f39788102e0f13bcafabbeb1cea",
+ "bytes_origem": 8465,
+ "capturado_em": "2026-11-08T07:11:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Triunfo_(RS).JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "05140401b68e1f39788102e0f13bcafabbeb1cea"
+ }
+}

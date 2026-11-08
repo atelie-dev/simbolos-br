@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4319125",
+ "uf": "RS",
+ "municipio": "São Martinho da Serra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bandeira_sao_martinho_serra.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Martinho da Serra",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bbe8d8e6851c069e76d2876cbf3dd98e985469fab324c13d3e509e00e8c73f9e",
+ "rendicoes": {
+  "png": {
+   "bytes": 27241,
+   "sha256": "5296fb4627d3e8795d3c9b0d28f7dfdab5e2ab2aff66ea2b67ca1c03bad99405",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6609,
+   "sha256": "85f7d4af2238bc60adadb58c54490f10d81220fff1cbdee024afecc273f3f5e7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319125.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319125.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319125.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4319125.png",
+  "bytes": 13807,
+  "sha256": "bbe8d8e6851c069e76d2876cbf3dd98e985469fab324c13d3e509e00e8c73f9e"
+ },
+ "sha1_origem": "562e3f199abf225e1858a3fda57d05c93785ad64",
+ "bytes_origem": 13807,
+ "capturado_em": "2026-11-08T07:09:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_sao_martinho_serra.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "562e3f199abf225e1858a3fda57d05c93785ad64"
+ }
+}

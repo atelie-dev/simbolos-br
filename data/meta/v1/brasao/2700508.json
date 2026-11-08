@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2700508",
+ "uf": "AL",
+ "municipio": "Barra de Santo Antônio",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Al-barra-de-santo-antonio-brasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7b6af992b3f87cd55e6bb595c265c17cf661db35acdcaef8c4e31bc278c264f7",
+ "rendicoes": {
+  "png": {
+   "bytes": 17024,
+   "sha256": "1bfb3f7da21b8c97ac4f731771785fe13c592024b465eb71843c8e9b9cd13326",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4890,
+   "sha256": "edbb8f1d23025705e1f1a876168ac2880ea789b8acf318de7826e9a77f3852a9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2700508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2700508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2700508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2700508.jpg",
+  "bytes": 2599,
+  "sha256": "7b6af992b3f87cd55e6bb595c265c17cf661db35acdcaef8c4e31bc278c264f7"
+ },
+ "sha1_origem": "c985f323afceee4879d4b48e3caf93bf1786a0d8",
+ "bytes_origem": 2599,
+ "capturado_em": "2026-11-08T05:47:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Al-barra-de-santo-antonio-brasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "c985f323afceee4879d4b48e3caf93bf1786a0d8"
+ }
+}

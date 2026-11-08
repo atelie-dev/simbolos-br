@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3103751",
+ "uf": "MG",
+ "municipio": "Araporã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bandeira_de_Arapora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Muriloif",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5d1da6fc6c06d921cd78204577b77101c418e059e5b71255844a0b7deef6ee36",
+ "rendicoes": {
+  "png": {
+   "bytes": 158734,
+   "sha256": "5ad96507de1529b308e04f4e6f628d12b9920e4d2db4886004e9bae5137b6dab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43309,
+   "sha256": "c20e9a9db06a78b641088ab69c0a081678a229a4f579b5ad740005282389e54f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103751.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103751.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103751.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3103751.jpg",
+  "bytes": 93576,
+  "sha256": "5d1da6fc6c06d921cd78204577b77101c418e059e5b71255844a0b7deef6ee36"
+ },
+ "sha1_origem": "a12f5d72a993ff351fdac8e1f933d65d7787c89b",
+ "bytes_origem": 93576,
+ "capturado_em": "2026-11-08T05:59:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Arapora.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "a12f5d72a993ff351fdac8e1f933d65d7787c89b"
+ }
+}

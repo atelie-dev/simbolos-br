@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305009",
+ "uf": "RS",
+ "municipio": "Catuípe",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Catu%C3%ADpebanders.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Catuípe",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d7dc726e53082a50cc6dc7e864fa3a27c18ea20aefbf2bd268561ef667971ff0",
+ "rendicoes": {
+  "png": {
+   "bytes": 8274,
+   "sha256": "2297ac2302ae2a4f6ca64746a19bd1ead04f504d08f03c6c5a6ae6b5d1192df2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7240,
+   "sha256": "2cceb22c8f1580aba08568baefebeabaa78c7cd175d6ecd4990739fcf5ea8959",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4305009.png",
+  "bytes": 6317,
+  "sha256": "d7dc726e53082a50cc6dc7e864fa3a27c18ea20aefbf2bd268561ef667971ff0"
+ },
+ "sha1_origem": "9165678d836c5c69d80106adbc3188ef5e29b3a3",
+ "bytes_origem": 6317,
+ "capturado_em": "2026-11-08T07:01:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Catuípebanders.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:21Z",
+  "estado": "igual",
+  "sha1_commons": "9165678d836c5c69d80106adbc3188ef5e29b3a3"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2922003",
+ "uf": "BA",
+ "municipio": "Mucuri",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Brasaomucuri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "eb93daf327f31f0c36cd5b4bfcaba50d377d909765f0d68ad80a804e91661644",
+ "rendicoes": {
+  "png": {
+   "bytes": 163284,
+   "sha256": "fadc31aaa01034cb801d479d6664fdbab165c4ae0c04537153b991afaaa0ff27",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36807,
+   "sha256": "37860d82eb6a9a958e6d15417697be0185cc57d8357a119bd2e25175a1ce8365",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2922003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2922003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2922003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2922003.jpg",
+  "bytes": 29354,
+  "sha256": "eb93daf327f31f0c36cd5b4bfcaba50d377d909765f0d68ad80a804e91661644"
+ },
+ "sha1_origem": "87ab20a2bb0cfbd980d8229346a705b85f28933d",
+ "bytes_origem": 29354,
+ "capturado_em": "2026-11-08T05:55:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaomucuri.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "87ab20a2bb0cfbd980d8229346a705b85f28933d"
+ }
+}

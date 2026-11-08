@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4104006",
+ "uf": "PR",
+ "municipio": "Campina Grande do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bandeira_de_Campina_Grande_do_Sul.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d39ebf82c369299402c97f313b2c60a4d39b139fc9f633cb4e02b28e5bac97f9",
+ "rendicoes": {
+  "png": {
+   "bytes": 71578,
+   "sha256": "e48fe4faba2834de0a019a5319bb5a89881f9c810429d913bf9b035c97de206d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17145,
+   "sha256": "4527e29e66228cd9ca6c7f2985b1d0ced46f2259975b84211bec7e01c86f1c47",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4104006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4104006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4104006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4104006.jpg",
+  "bytes": 10975,
+  "sha256": "d39ebf82c369299402c97f313b2c60a4d39b139fc9f633cb4e02b28e5bac97f9"
+ },
+ "sha1_origem": "c1552a0208021259d8cf203a0eae788c8281aabb",
+ "bytes_origem": 10975,
+ "capturado_em": "2026-11-08T06:42:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Campina_Grande_do_Sul.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "c1552a0208021259d8cf203a0eae788c8281aabb"
+ }
+}

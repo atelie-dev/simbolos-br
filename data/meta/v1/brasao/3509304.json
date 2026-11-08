@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3509304",
+ "uf": "SP",
+ "municipio": "Cajobi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bras%C3%A3o_de_Cajobi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "46be1df07b7f885285e7ffcd66b11f458f663dec80ae91197434d65da5581c0b",
+ "rendicoes": {
+  "png": {
+   "bytes": 358187,
+   "sha256": "bbc755b4e49dedc54936dc255b4829086a68073f1969fa54d1a50f3b1e7220f9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56997,
+   "sha256": "f4f955aefa6b3283cce45ebdec03f2e4229c5f760641892a38e729b5c96cf254",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509304.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3509304.jpg",
+  "bytes": 251332,
+  "sha256": "46be1df07b7f885285e7ffcd66b11f458f663dec80ae91197434d65da5581c0b"
+ },
+ "sha1_origem": "da431ff03f7709bb55c3e0e49c3dbc2150a5ac70",
+ "bytes_origem": 251332,
+ "capturado_em": "2026-11-08T06:25:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cajobi.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "da431ff03f7709bb55c3e0e49c3dbc2150a5ac70"
+ }
+}

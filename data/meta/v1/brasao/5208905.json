@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5208905",
+ "uf": "GO",
+ "municipio": "Goiás",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Brasao_NovaVeneza_Goias.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nova Veneza",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ce19f9891c9ed0e38cc07d7f4026b8720cbd5f293fa440d7fd654f9b54b1e081",
+ "rendicoes": {
+  "png": {
+   "bytes": 25434,
+   "sha256": "92296a9a6ab46b8461282242e01e47052251cde13878f0f971295d99dfe780f9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6580,
+   "sha256": "2adb90c1a6629e77ff84ec49d4148772734e586261695bb74369066124e9dad4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5208905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5208905.png",
+  "bytes": 27610,
+  "sha256": "ce19f9891c9ed0e38cc07d7f4026b8720cbd5f293fa440d7fd654f9b54b1e081"
+ },
+ "sha1_origem": "72b262533945d4d62180af11b9224f6acec79e44",
+ "bytes_origem": 27610,
+ "capturado_em": "2026-11-08T07:18:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_NovaVeneza_Goias.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "72b262533945d4d62180af11b9224f6acec79e44"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3155900",
+ "uf": "MG",
+ "municipio": "Rio Preto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Bandeira_de_Rio_Preto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Não identificado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bdaa63fdf2e482ce6ad9cecda229cf5152c46409d47952bfe323d20cc6d1faaa",
+ "rendicoes": {
+  "png": {
+   "bytes": 85513,
+   "sha256": "3751b42fdc37a71365143e3222a361bb123f8c4ae3f480f5fd4d08fd11a190c6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18194,
+   "sha256": "d98e7f24db167ea8c42964c9d69f2d73100ca3893e1612b38e5d7fecfeed0512",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3155900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3155900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3155900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3155900.jpg",
+  "bytes": 27460,
+  "sha256": "bdaa63fdf2e482ce6ad9cecda229cf5152c46409d47952bfe323d20cc6d1faaa"
+ },
+ "sha1_origem": "d2b0a4b66de468a093d64f4147c36de47e917db6",
+ "bytes_origem": 27460,
+ "capturado_em": "2026-11-08T06:14:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Rio_Preto.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "d2b0a4b66de468a093d64f4147c36de47e917db6"
+ }
+}

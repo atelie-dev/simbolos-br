@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3556503",
+ "uf": "SP",
+ "municipio": "Várzea Paulista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bandeira_V%C3%A1rzea_Paulista.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Brazilian government",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4c84028708fb4f9138ecfd23ecb66e8cac3d10164a11f372e369f90d5dbefad6",
+ "rendicoes": {
+  "png": {
+   "bytes": 12257,
+   "sha256": "de1984d6996ae10384c35e004040a9cecb49aa706ac66df93a43a17d3599e2b2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9589,
+   "sha256": "3e9bf3c6631cd3192f8d7ca8f82bb1acf431aebbf5d3b978f1c68ae6e461421f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3556503.png",
+  "bytes": 4825,
+  "sha256": "4c84028708fb4f9138ecfd23ecb66e8cac3d10164a11f372e369f90d5dbefad6"
+ },
+ "sha1_origem": "0f426fd85676d374ca758687bfb02f25fb42b87a",
+ "bytes_origem": 4825,
+ "capturado_em": "2026-11-08T06:40:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Várzea_Paulista.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "0f426fd85676d374ca758687bfb02f25fb42b87a"
+ }
+}

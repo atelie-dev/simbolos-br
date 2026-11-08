@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2504603",
+ "uf": "PB",
+ "municipio": "Conde",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bandeira_de_Conde%2C_PB.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Conde",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b97b3774c044afd9f3416354e8b2578af482db3c64756b7458dda7202121b670",
+ "rendicoes": {
+  "png": {
+   "bytes": 7438,
+   "sha256": "26bd75f6a4c6757e33864d47335caa0d348dbe77fe74ccce4b12a2236b137398",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4412,
+   "sha256": "be5e9f9d611e2d502efe8fa7cfad3622326ade9ca467f17ce418b6648a19d485",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2504603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2504603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2504603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2504603.png",
+  "bytes": 5210,
+  "sha256": "b97b3774c044afd9f3416354e8b2578af482db3c64756b7458dda7202121b670"
+ },
+ "sha1_origem": "961948a2db987a8fc5b2d169dbdfc2859094529e",
+ "bytes_origem": 5210,
+ "capturado_em": "2026-11-08T05:40:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Conde,_PB.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "961948a2db987a8fc5b2d169dbdfc2859094529e"
+ }
+}

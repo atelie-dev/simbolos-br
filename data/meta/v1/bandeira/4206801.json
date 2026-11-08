@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4206801",
+ "uf": "SC",
+ "municipio": "Ibicaré",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bandeira_Ibicare_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ibicaré",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cf7f938cb2519f2643ac24460ae6e2fc2da4f2377e547543d4ce9aeeb6771814",
+ "rendicoes": {
+  "png": {
+   "bytes": 18092,
+   "sha256": "5da35414cacdc927568cb41194258c8a8353cabbd239f606a3f3c7b216397af7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6177,
+   "sha256": "4cba5e487305997f0e0eca3f73c2a3ec7a9a8805ed485acde881ef65e76ba756",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4206801.jpg",
+  "bytes": 3738,
+  "sha256": "cf7f938cb2519f2643ac24460ae6e2fc2da4f2377e547543d4ce9aeeb6771814"
+ },
+ "sha1_origem": "70cc5ec6c6cbc8fbf8c4e96d76294d80043e45b4",
+ "bytes_origem": 3738,
+ "capturado_em": "2026-11-08T06:53:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Ibicare_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "70cc5ec6c6cbc8fbf8c4e96d76294d80043e45b4"
+ }
+}

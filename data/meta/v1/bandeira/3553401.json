@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3553401",
+ "uf": "SP",
+ "municipio": "Tanabi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bandeira_de_Tanabi_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Antonio Caprio",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "55c59516ff4465f9b0b240efe45f1e8e7c144a680307018139d7d07c11afb5c3",
+ "rendicoes": {
+  "png": {
+   "bytes": 82332,
+   "sha256": "338480b0e989ace61b660181c2c24aa0eacf06cdf5bbd41c9a405948756f4045",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14139,
+   "sha256": "c9b46af5c14f167e5af3e07287acd94edf574a57f285593cf18df423807eb9de",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3553401.jpg",
+  "bytes": 24038,
+  "sha256": "55c59516ff4465f9b0b240efe45f1e8e7c144a680307018139d7d07c11afb5c3"
+ },
+ "sha1_origem": "cb1aee3aa14fb2fd7f6d23386f4f0e2b152470bf",
+ "bytes_origem": 24038,
+ "capturado_em": "2026-11-08T06:39:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Tanabi_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "cb1aee3aa14fb2fd7f6d23386f4f0e2b152470bf"
+ }
+}

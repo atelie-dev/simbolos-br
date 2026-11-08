@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4215679",
+ "uf": "SC",
+ "municipio": "Santa Terezinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Sc-santa-terezinha-bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "MBI",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a6ff640fa65ff50bac31c5df998b9ab55d7cc1fe1b8b4c1fd382fabd607c4e72",
+ "rendicoes": {
+  "png": {
+   "bytes": 78103,
+   "sha256": "4404883443772aaaa79b92befdda3d9648ca1320724ca27b430c9db8bc5b074e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19912,
+   "sha256": "8820fff3ca69bb36855bd61483af950caab499d890f85f3a97c93e946e4cfd64",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215679.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215679.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215679.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4215679.jpg",
+  "bytes": 38168,
+  "sha256": "a6ff640fa65ff50bac31c5df998b9ab55d7cc1fe1b8b4c1fd382fabd607c4e72"
+ },
+ "sha1_origem": "c68b69d890f29fd385a8aad6e9890e349b689814",
+ "bytes_origem": 38168,
+ "capturado_em": "2026-11-08T06:56:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Sc-santa-terezinha-bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:36Z",
+  "estado": "igual",
+  "sha1_commons": "c68b69d890f29fd385a8aad6e9890e349b689814"
+ }
+}

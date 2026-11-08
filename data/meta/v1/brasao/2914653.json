@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2914653",
+ "uf": "BA",
+ "municipio": "Itabela",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bras%C3%A3o_Itabela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Itabela",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ed46389eb79cdd6f35cbe1a2b52cbf04deb484c2e2c7d5116b124407a891337b",
+ "rendicoes": {
+  "png": {
+   "bytes": 312746,
+   "sha256": "00adf656d5dcfb1ec8da805a7eec5844871b2dc2bbdba21b8b583d19a5033dc9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48168,
+   "sha256": "8238fecc3730ba4f82836f1d1b130937fd79d0e5939911b6ef937e0d6f874abd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2914653.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2914653.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2914653.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2914653.jpg",
+  "bytes": 45211,
+  "sha256": "ed46389eb79cdd6f35cbe1a2b52cbf04deb484c2e2c7d5116b124407a891337b"
+ },
+ "sha1_origem": "2a142d379e967a77c1df365ac558176114cfce87",
+ "bytes_origem": 45211,
+ "capturado_em": "2026-11-08T05:54:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Itabela.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "2a142d379e967a77c1df365ac558176114cfce87"
+ }
+}

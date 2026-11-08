@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3109907",
+ "uf": "MG",
+ "municipio": "Caetanópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bandeira-Caetan%C3%B3polis-MG.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Arizio",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "894346533b6965f7f68ae68996d182cd0614266fe4b4e1cba6567a2682bf3103",
+ "rendicoes": {
+  "png": {
+   "bytes": 97061,
+   "sha256": "a5bc525f230481f92b0de1cbacea278c207c08e6c62d2f433f69e59cdaba8152",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20909,
+   "sha256": "8f58c79db742c3068f9b0b1fd6d361a8c87f72f5723ef77a4fe446fdfcb68074",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109907.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109907.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109907.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3109907.jpg",
+  "bytes": 32634,
+  "sha256": "894346533b6965f7f68ae68996d182cd0614266fe4b4e1cba6567a2682bf3103"
+ },
+ "sha1_origem": "a21656cf9d442b125aa43f8e2fc7cae3359095be",
+ "bytes_origem": 32634,
+ "capturado_em": "2026-11-08T06:01:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-Caetanópolis-MG.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "a21656cf9d442b125aa43f8e2fc7cae3359095be"
+ }
+}

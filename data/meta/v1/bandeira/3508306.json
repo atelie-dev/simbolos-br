@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3508306",
+ "uf": "SP",
+ "municipio": "Cabrália Paulista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bandeira_de_Cabr%C3%A1lia_Paulista.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e16d08439844d1fe1ac243f68e5c6e195a15b3fc2b1bdf720e3274e553749a32",
+ "rendicoes": {
+  "png": {
+   "bytes": 10042,
+   "sha256": "eaea700cbfe96b4c9ccdcbc0116b636d6157b65890a056927e9a2357e1df03c6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5878,
+   "sha256": "76cfc7a1811dd75cc8758411492ca85e275329db86a37368387cd8cda4b1ad31",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3508306.png",
+  "bytes": 4012,
+  "sha256": "e16d08439844d1fe1ac243f68e5c6e195a15b3fc2b1bdf720e3274e553749a32"
+ },
+ "sha1_origem": "efe5e429599263d8536c88785b2ef01bf7fb2dc8",
+ "bytes_origem": 4012,
+ "capturado_em": "2026-11-08T06:25:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cabrália_Paulista.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "efe5e429599263d8536c88785b2ef01bf7fb2dc8"
+ }
+}

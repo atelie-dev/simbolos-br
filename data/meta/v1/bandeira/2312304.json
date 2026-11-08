@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2312304",
+ "uf": "CE",
+ "municipio": "São Benedito",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bandeira_S%C3%A3o_Benedito_%28CE%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Jonas Faccio",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "25d1c1c14dce5c4c71eb796703ad64693e4b2a6314a163117eef19927a923284",
+ "rendicoes": {
+  "png": {
+   "bytes": 115378,
+   "sha256": "c307073fe84614221b3efef40645d06c773adbc79d84de70d49c3e06e904fbca",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29231,
+   "sha256": "af08ed6d31a69e97cc379cb7af5f279b225dc28b19e28e54a96d5d17c6e51885",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2312304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2312304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2312304.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2312304.png",
+  "bytes": 415510,
+  "sha256": "25d1c1c14dce5c4c71eb796703ad64693e4b2a6314a163117eef19927a923284"
+ },
+ "sha1_origem": "993e82a043bb0bd82773c0941345076e1b6b624f",
+ "bytes_origem": 415510,
+ "capturado_em": "2026-11-08T05:35:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_São_Benedito_(CE).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "993e82a043bb0bd82773c0941345076e1b6b624f"
+ }
+}

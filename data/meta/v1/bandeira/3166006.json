@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3166006",
+ "uf": "MG",
+ "municipio": "Senhora de Oliveira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bandeira_de_Senhora_de_Oliveira_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "JMR1313",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2ff6511af23c3bd4aaf27ecda2a3dd706b4fd1d3f5571fe51778b9068ad52590",
+ "rendicoes": {
+  "png": {
+   "bytes": 52752,
+   "sha256": "feb57e5f8ade12f4d43fde1fd0d45f587e57bfd9f513820bac2e986ad31b3536",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13804,
+   "sha256": "122458ec9c531d3da5604d6c43571fd528db05e1005fe2005f2506acf18fce37",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3166006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3166006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3166006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3166006.jpg",
+  "bytes": 178960,
+  "sha256": "2ff6511af23c3bd4aaf27ecda2a3dd706b4fd1d3f5571fe51778b9068ad52590"
+ },
+ "sha1_origem": "61c255397f03e52a7db646ea0f912ce12f457533",
+ "bytes_origem": 178960,
+ "capturado_em": "2026-11-08T06:17:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Senhora_de_Oliveira_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "61c255397f03e52a7db646ea0f912ce12f457533"
+ }
+}

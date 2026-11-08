@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2414100",
+ "uf": "RN",
+ "municipio": "Tenente Ananias",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bras%C3%A3o_de_Tenente_Ananias_%28RN%29.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Dirk Schönberger",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "04903e337e357a5f55f7075eb243fcf9bac62babc37136c3cf594d4b835bff8f",
+ "rendicoes": {
+  "png": {
+   "bytes": 12799,
+   "sha256": "6cc34cb938f30800d85cebac0d9af98824e5cc7cb53225b57959fb3de26ebaec",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13794,
+   "sha256": "29aeed0d8272c8b71170eaa1329fc84cb4f287ad33e5518f4c8d694dec7de838",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2414100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2414100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2414100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2414100.png",
+  "bytes": 11044,
+  "sha256": "04903e337e357a5f55f7075eb243fcf9bac62babc37136c3cf594d4b835bff8f"
+ },
+ "sha1_origem": "a01cbc994cbf85a38305c951a520582190ce0197",
+ "bytes_origem": 11044,
+ "capturado_em": "2026-11-08T05:39:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Tenente_Ananias_(RN).PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:13Z",
+  "estado": "igual",
+  "sha1_commons": "a01cbc994cbf85a38305c951a520582190ce0197"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3140001",
+ "uf": "MG",
+ "municipio": "Mariana",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mariana_Coat_of_Arms.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d02dff5d275475d0fc5fb24e51e1001c4f156be8173d10982aeb82ed8bbf982f",
+ "rendicoes": {
+  "png": {
+   "bytes": 56277,
+   "sha256": "29e3f50dd208215e02f7615073c2a478b4a9d0133be487f3a491f0e403922f94",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18597,
+   "sha256": "940693ea2bb309cd30c6373ac607406b1fabb6284eccc201f0e5dce170477c6d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3140001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3140001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3140001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3140001.png",
+  "bytes": 49921,
+  "sha256": "d02dff5d275475d0fc5fb24e51e1001c4f156be8173d10982aeb82ed8bbf982f"
+ },
+ "sha1_origem": "43632b5fd99483eb7ecddf8ef7e8a11ddb9fd8d2",
+ "bytes_origem": 49921,
+ "capturado_em": "2026-11-08T06:11:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Mariana_Coat_of_Arms.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "43632b5fd99483eb7ecddf8ef7e8a11ddb9fd8d2"
+ }
+}

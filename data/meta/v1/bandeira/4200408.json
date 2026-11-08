@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4200408",
+ "uf": "SC",
+ "municipio": "Água Doce",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bandeira_aguadoce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "be82cc2fc964d664be471c5f4d6beabe3de4273875586bd99953ecceaa724859",
+ "rendicoes": {
+  "png": {
+   "bytes": 11510,
+   "sha256": "8cd8b7645934deee107ff889fc78802a470d1f05b13b22c2b4b8777a6b2362bc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6076,
+   "sha256": "e118a68e67e3ded517463671d3887be146b793e1f1fbc6d9474fd12e93dc5ede",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4200408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4200408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4200408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4200408.jpg",
+  "bytes": 3143,
+  "sha256": "be82cc2fc964d664be471c5f4d6beabe3de4273875586bd99953ecceaa724859"
+ },
+ "sha1_origem": "1e56f7dfdb39591a7afc841ffd707e7dfff23ad4",
+ "bytes_origem": 3143,
+ "capturado_em": "2026-11-08T06:51:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_aguadoce.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "1e56f7dfdb39591a7afc841ffd707e7dfff23ad4"
+ }
+}

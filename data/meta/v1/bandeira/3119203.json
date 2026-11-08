@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3119203",
+ "uf": "MG",
+ "municipio": "Coroaci",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Coroacimgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Coroaci",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "daf89fd0fe9855250c0033806a6ef3946dda1374d43568ad3b204a661b7a0fa4",
+ "rendicoes": {
+  "png": {
+   "bytes": 32313,
+   "sha256": "bbfc97702ef879bdf594560d1d50ed46dea9e48d05c12e356ea7396ab1a01d08",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7687,
+   "sha256": "0ac427c768bd0c50590e044abf940600db9b692b72511a3b97a2786639c303a0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3119203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3119203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3119203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3119203.jpg",
+  "bytes": 9020,
+  "sha256": "daf89fd0fe9855250c0033806a6ef3946dda1374d43568ad3b204a661b7a0fa4"
+ },
+ "sha1_origem": "9d8faea3e264a38b5c0e7cb2b1929c161abc0de3",
+ "bytes_origem": 9020,
+ "capturado_em": "2026-11-08T06:04:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Coroacimgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "9d8faea3e264a38b5c0e7cb2b1929c161abc0de3"
+ }
+}

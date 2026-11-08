@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2800670",
+ "uf": "SE",
+ "municipio": "Boquim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bandeira-boquim.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Boquim City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "dc2a4b05d53055db54ac0df98276ee902910b1ead8cee4b56b0d49ea0e26011a",
+ "rendicoes": {
+  "png": {
+   "bytes": 19550,
+   "sha256": "1317c1560173347ebb5f03a24245b45d8de6aacb4dc6695c0db8f30b9118ae98",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13349,
+   "sha256": "71d8a3514ed0738f46ee2bbae9d710d2aac4c9fccba305bb36ef416d44f15332",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2800670.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2800670.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2800670.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2800670.png",
+  "bytes": 9226,
+  "sha256": "dc2a4b05d53055db54ac0df98276ee902910b1ead8cee4b56b0d49ea0e26011a"
+ },
+ "sha1_origem": "841c3978782a53609c08afb2215b7db3c371ddd3",
+ "bytes_origem": 9226,
+ "capturado_em": "2026-11-08T05:49:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-boquim.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "841c3978782a53609c08afb2215b7db3c371ddd3"
+ }
+}

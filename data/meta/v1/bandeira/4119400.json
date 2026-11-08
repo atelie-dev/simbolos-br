@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4119400",
+ "uf": "PR",
+ "municipio": "Piraí do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Piraidosul_bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Piraí do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a683a0644edb029107aac244fe96ecd3f86acafbeb3614b149fb7a16d608385a",
+ "rendicoes": {
+  "png": {
+   "bytes": 22626,
+   "sha256": "2f447a698db019d692fc6400e2f98e1625b1fd6c19fc90f3e7769fc273fa4390",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9481,
+   "sha256": "1d079e76155b9d74502d4e8fe311f66e0b049c15f6b1593ac9315a86b43a7d9f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4119400.jpg",
+  "bytes": 9329,
+  "sha256": "a683a0644edb029107aac244fe96ecd3f86acafbeb3614b149fb7a16d608385a"
+ },
+ "sha1_origem": "a59d44405125f615b27a2dedbce7561c65a7fa16",
+ "bytes_origem": 9329,
+ "capturado_em": "2026-11-08T06:47:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Piraidosul_bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "a59d44405125f615b27a2dedbce7561c65a7fa16"
+ }
+}

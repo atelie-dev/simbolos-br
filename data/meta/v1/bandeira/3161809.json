@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3161809",
+ "uf": "MG",
+ "municipio": "São Gonçalo do Pará",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bandeira_S%C3%A3o_Gon%C3%A7alo_do_Par%C3%A1%2C_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Dejair",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dba78671560c9ec6701a63d309fda5e54ce24f6c1c9f14863445e67edd44a3e1",
+ "rendicoes": {
+  "png": {
+   "bytes": 97303,
+   "sha256": "1ca7b3e6a91077d027db1b4b999e3ae122995523c3f6b21125125dd06b973e08",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26768,
+   "sha256": "58b9f6cbb78ad081a7746ad928ea385f7cd3974986e3f84e5c81e49f2e13ff00",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3161809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3161809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3161809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3161809.jpg",
+  "bytes": 59818,
+  "sha256": "dba78671560c9ec6701a63d309fda5e54ce24f6c1c9f14863445e67edd44a3e1"
+ },
+ "sha1_origem": "998e900a215af2f1cac395f03d68342089e94256",
+ "bytes_origem": 59818,
+ "capturado_em": "2026-11-08T06:16:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_São_Gonçalo_do_Pará,_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "998e900a215af2f1cac395f03d68342089e94256"
+ }
+}

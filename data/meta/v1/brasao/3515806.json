@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3515806",
+ "uf": "SP",
+ "municipio": "Flora Rica",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bras%C3%A3o_Flora_Rica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4b8162f4bbbc91fc28508a05c9dce25bcfba4156b837e594d77093d0ccb2da8e",
+ "rendicoes": {
+  "png": {
+   "bytes": 117890,
+   "sha256": "278f43a60297e3c3074745cd11780187c9cd4527e644220369b9e67835fe678e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25371,
+   "sha256": "73c79a048c2d3e10f0b24bc13cccf473015aa9e7a5d11857d1d6377cef9fa04c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3515806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3515806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3515806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3515806.jpg",
+  "bytes": 23256,
+  "sha256": "4b8162f4bbbc91fc28508a05c9dce25bcfba4156b837e594d77093d0ccb2da8e"
+ },
+ "sha1_origem": "713c83bbc80cb6036c74121b64674deb71f23bb7",
+ "bytes_origem": 23256,
+ "capturado_em": "2026-11-08T06:27:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Flora_Rica.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "713c83bbc80cb6036c74121b64674deb71f23bb7"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3124500",
+ "uf": "MG",
+ "municipio": "Estiva",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Brasaoestiva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal ed Estiva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e4f842e4173ccd5b568464dadd3f36d946a76db858c37715d1fc4a4a51e5e375",
+ "rendicoes": {
+  "png": {
+   "bytes": 96511,
+   "sha256": "4069366ee2f45c5db0084c406f467b5a64f2fd51ad42818ddb800de560278f65",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23750,
+   "sha256": "56e4f953d82201b5291dbd93e55aef138cb4a146d25ae32edc99721db8bfb260",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3124500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3124500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3124500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3124500.jpg",
+  "bytes": 22534,
+  "sha256": "e4f842e4173ccd5b568464dadd3f36d946a76db858c37715d1fc4a4a51e5e375"
+ },
+ "sha1_origem": "19da237523b79262ae136bfd5aaee4864ef7e2e2",
+ "bytes_origem": 22534,
+ "capturado_em": "2026-11-08T06:06:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoestiva.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "19da237523b79262ae136bfd5aaee4864ef7e2e2"
+ }
+}

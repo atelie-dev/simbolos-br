@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3129707",
+ "uf": "MG",
+ "municipio": "Ibiraci",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Ibiracimgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ibiraci",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "441281ccfe4985532c1f8d8bfd42667a360ca826816205a7da9e6e217a2c815d",
+ "rendicoes": {
+  "png": {
+   "bytes": 60843,
+   "sha256": "6de09c0cacbe11b5407c586dfcf833c1501ccb0ecb95f37eaa6cb45126d75448",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14764,
+   "sha256": "6a05d4938b1b2e960baecbf030abc398fd979eabfd931bf092ce9589136b6f98",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3129707.jpg",
+  "bytes": 11004,
+  "sha256": "441281ccfe4985532c1f8d8bfd42667a360ca826816205a7da9e6e217a2c815d"
+ },
+ "sha1_origem": "d5f90e9ab84c384486dbe4b5fee3229139d7dd16",
+ "bytes_origem": 11004,
+ "capturado_em": "2026-11-08T06:08:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ibiracimgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "d5f90e9ab84c384486dbe4b5fee3229139d7dd16"
+ }
+}

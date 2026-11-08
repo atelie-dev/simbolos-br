@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3538204",
+ "uf": "SP",
+ "municipio": "Pinhalzinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bandpinh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pinhal86",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8a30d4b3b6bb32c1731776a43399b53da5dd5695f04cd526c58138f5ab8eb8be",
+ "rendicoes": {
+  "png": {
+   "bytes": 55734,
+   "sha256": "c8bfe66ed645dc3624b8cd665971193f15911c3478cde5969c7347717baa9e92",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25768,
+   "sha256": "334f5c0ef985a002a85ac3916c8eabd0a1b05cff7d31939d1c384478c80ffedf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3538204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3538204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3538204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3538204.jpg",
+  "bytes": 40710,
+  "sha256": "8a30d4b3b6bb32c1731776a43399b53da5dd5695f04cd526c58138f5ab8eb8be"
+ },
+ "sha1_origem": "3ce6841498e764d1181721270dd477f874d32a76",
+ "bytes_origem": 40710,
+ "capturado_em": "2026-11-08T06:34:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandpinh.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "3ce6841498e764d1181721270dd477f874d32a76"
+ }
+}

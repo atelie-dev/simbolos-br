@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3142908",
+ "uf": "MG",
+ "municipio": "Monte Azul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bras%C3%A3o_de_Monte_Azul_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6c7539d1a8aa02b9ca46a08f30b8273f146e0c09db371b7e4f8ee13fc42e03fa",
+ "rendicoes": {
+  "png": {
+   "bytes": 312235,
+   "sha256": "c906d4bf32f461209e17f16fe63b7c2444f15aab456aa8b35a4380bd939bd032",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38246,
+   "sha256": "c1549c1f7f1c3a581b0bcf632386468ca5dbd4a69cb69bf7d17bfa653b6ee39c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3142908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3142908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3142908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3142908.png",
+  "bytes": 610126,
+  "sha256": "6c7539d1a8aa02b9ca46a08f30b8273f146e0c09db371b7e4f8ee13fc42e03fa"
+ },
+ "sha1_origem": "8d351abc2e9c9107168c3d01850a5c3ea7620073",
+ "bytes_origem": 610126,
+ "capturado_em": "2026-11-08T06:11:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Monte_Azul_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "8d351abc2e9c9107168c3d01850a5c3ea7620073"
+ }
+}

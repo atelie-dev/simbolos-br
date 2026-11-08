@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4313391",
+ "uf": "RS",
+ "municipio": "Novo Cabrais",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bras%C3%A3o_cabrais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2beb112dcc8cfff47e5c6bd23cce28716ea7269c80d97f35ac70cbbbbf18abb3",
+ "rendicoes": {
+  "png": {
+   "bytes": 50682,
+   "sha256": "df1b573edd80c165a972fe6a27f5d0e71da5b83d92d34e7ee43554cca8ad6ee1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13925,
+   "sha256": "0e2c986d3d88ffb7f1326d2287c98b1c2b56b9f0756ebd1469031acee0be8bd0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313391.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313391.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313391.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4313391.jpg",
+  "bytes": 60572,
+  "sha256": "2beb112dcc8cfff47e5c6bd23cce28716ea7269c80d97f35ac70cbbbbf18abb3"
+ },
+ "sha1_origem": "078df54fe2e88becbbaf2d241517caf5e3e2f84d",
+ "bytes_origem": 60572,
+ "capturado_em": "2026-11-08T07:06:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_cabrais.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "078df54fe2e88becbbaf2d241517caf5e3e2f84d"
+ }
+}

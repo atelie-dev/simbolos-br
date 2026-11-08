@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5108501",
+ "uf": "MT",
+ "municipio": "Vera",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Vera_Bras%C3%A3o.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://www.vera.mt.gov.br/images/brasao.png",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "50d3537c8ee8fadcbf662d3d89a695e654bbd81ba78eef14eb7db960f65ac084",
+ "rendicoes": {
+  "png": {
+   "bytes": 22160,
+   "sha256": "eedc87a1a8711ea2c5a3297eb63f8bd22734418947527f807c509736ade3a035",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6749,
+   "sha256": "f5724caebac89c12de00653d26c482d5d50e8d7a4977955941fe9efe4bd64e03",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5108501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5108501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5108501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5108501.png",
+  "bytes": 21860,
+  "sha256": "50d3537c8ee8fadcbf662d3d89a695e654bbd81ba78eef14eb7db960f65ac084"
+ },
+ "sha1_origem": "312bfccb72c24f2aed668faffe48adfbec062b89",
+ "bytes_origem": 21860,
+ "capturado_em": "2026-11-08T07:16:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Vera_Brasão.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "312bfccb72c24f2aed668faffe48adfbec062b89"
+ }
+}

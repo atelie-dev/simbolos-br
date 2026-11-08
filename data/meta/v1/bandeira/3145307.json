@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3145307",
+ "uf": "MG",
+ "municipio": "Novo Cruzeiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Bandeira_da_cidade_de_Novo_Cruzeiro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Edson Moraes Santos",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "185e620271d455d90cc1be688916cc95086e0013424ebfd3b6f962af2473a918",
+ "rendicoes": {
+  "png": {
+   "bytes": 39913,
+   "sha256": "e0f88ab9bfe10530b99d45333bba36ae52f823b516b5bfc7b3416cea19ee3cd4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16209,
+   "sha256": "9256312234582e45100036d66f3593d0e27c33501df1d571749726d9952d04b7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3145307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3145307.png",
+  "bytes": 256551,
+  "sha256": "185e620271d455d90cc1be688916cc95086e0013424ebfd3b6f962af2473a918"
+ },
+ "sha1_origem": "c6de9f1c88a7f6d59a220112dce379eec0669d09",
+ "bytes_origem": 256551,
+ "capturado_em": "2026-11-08T06:12:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_da_cidade_de_Novo_Cruzeiro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "c6de9f1c88a7f6d59a220112dce379eec0669d09"
+ }
+}

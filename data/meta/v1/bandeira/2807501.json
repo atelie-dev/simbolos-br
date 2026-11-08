@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2807501",
+ "uf": "SE",
+ "municipio": "Tomar do Geru",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/BadeiraGeru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Tomar do Geru",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8e4489afe8150b426a3dc192ec45294e7989cfe45d54d14f6194c9606ef5190e",
+ "rendicoes": {
+  "png": {
+   "bytes": 45468,
+   "sha256": "cc6dd652abd193cb9d2ff3259429e5059e8cb7bf1d87d6a3cada85d05cc0391b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19191,
+   "sha256": "406607a9c3920b8c771abba11c65f2d08e7e74b24985ab9926a2a7cf3cb5e1fd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2807501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2807501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2807501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2807501.jpg",
+  "bytes": 103324,
+  "sha256": "8e4489afe8150b426a3dc192ec45294e7989cfe45d54d14f6194c9606ef5190e"
+ },
+ "sha1_origem": "4f6a66d6e5d7a8138c6cca0d118224db4afb2dcb",
+ "bytes_origem": 103324,
+ "capturado_em": "2026-11-08T05:50:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BadeiraGeru.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "4f6a66d6e5d7a8138c6cca0d118224db4afb2dcb"
+ }
+}

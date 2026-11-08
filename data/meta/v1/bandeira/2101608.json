@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2101608",
+ "uf": "MA",
+ "municipio": "Barra do Corda",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bandeira_de_Barra_do_Corda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Galeno Edgar Brandes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "35433b4d7449ff4b0174d0df36abfa784a5d04edbc59de065842d2a2d9cfd2a1",
+ "rendicoes": {
+  "png": {
+   "bytes": 30351,
+   "sha256": "7ef994ae45583a0676d41beb95dcd32541fc5a5fc7d8eaa0c7fa424db6071e9c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12766,
+   "sha256": "75ec39603553a072b588e140984b168862a86a83feae5f42a508bd4a1dc82837",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2101608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2101608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2101608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2101608.jpg",
+  "bytes": 7113,
+  "sha256": "35433b4d7449ff4b0174d0df36abfa784a5d04edbc59de065842d2a2d9cfd2a1"
+ },
+ "sha1_origem": "451bc1c7fec9b9449edbc7d2c1356ea63f4f1986",
+ "bytes_origem": 7113,
+ "capturado_em": "2026-11-08T05:27:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Barra_do_Corda.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "451bc1c7fec9b9449edbc7d2c1356ea63f4f1986"
+ }
+}

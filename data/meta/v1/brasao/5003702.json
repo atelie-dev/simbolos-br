@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5003702",
+ "uf": "MS",
+ "municipio": "Dourados",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Brasao_Dourados_MatoGrossodoSul_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "11eccb97c43fcc35d7bd9d9eca6f0f9fc0b523b86a8a565426effc26fbc70458",
+ "rendicoes": {
+  "png": {
+   "bytes": 106212,
+   "sha256": "b1f620aaf1dab81bd3ba3cbee4800c091b38bab878ee86fe4768426660726af4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43308,
+   "sha256": "631f82fa1a9743fbdc0d47cacc79253d34ba2caa1670c4db3931c021c7dc3feb",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 203967,
+   "sha256": "11eccb97c43fcc35d7bd9d9eca6f0f9fc0b523b86a8a565426effc26fbc70458"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5003702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5003702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5003702.jpg"
+ },
+ "sha1_origem": "bae59a62fb9c1f5bcbd786c2a3f21261ee9bfd07",
+ "bytes_origem": 203967,
+ "capturado_em": "2026-11-08T05:03:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Dourados_MatoGrossodoSul_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:32Z",
+  "estado": "igual",
+  "sha1_commons": "bae59a62fb9c1f5bcbd786c2a3f21261ee9bfd07"
+ }
+}

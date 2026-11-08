@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3541208",
+ "uf": "SP",
+ "municipio": "Presidente Bernardes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bras%C3%A3o_de_Presidente_Bernardes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f97aa47a6607ffbe4cca0ca3cf919957249910dd22f8d54e16c196c732d2b264",
+ "rendicoes": {
+  "png": {
+   "bytes": 154156,
+   "sha256": "c6ff9b02562dbf5f295381d61c3e5d0b243ceded7ab7e95fa2c01b2c29936677",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39797,
+   "sha256": "0d2774059b6d7beae0da8d34714fe5a19b6984b7d00a7d96409da9046870d12e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3541208.jpg",
+  "bytes": 142943,
+  "sha256": "f97aa47a6607ffbe4cca0ca3cf919957249910dd22f8d54e16c196c732d2b264"
+ },
+ "sha1_origem": "1502a7c39167a3e610f9eeaf863a7f9fd7774c0d",
+ "bytes_origem": 142943,
+ "capturado_em": "2026-11-08T06:35:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Presidente_Bernardes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:09Z",
+  "estado": "igual",
+  "sha1_commons": "1502a7c39167a3e610f9eeaf863a7f9fd7774c0d"
+ }
+}

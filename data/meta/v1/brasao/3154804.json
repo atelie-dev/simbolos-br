@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3154804",
+ "uf": "MG",
+ "municipio": "Rio Acima",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Rioacima_new.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Jsilvestre",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a012339bcba472ca26be35e80c3fa96128c15dc6296418b7948edcf782a40cdc",
+ "rendicoes": {
+  "png": {
+   "bytes": 28888,
+   "sha256": "227e1d9842cd42f5779803d65bef12d97407f9fa2548930774516ca8f90ceb8e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6974,
+   "sha256": "8d576107c381194add3e2150001cb6d8ed93b8d8bf7b313504eb5262e73e94c9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3154804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3154804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3154804.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3154804.png",
+  "bytes": 27624,
+  "sha256": "a012339bcba472ca26be35e80c3fa96128c15dc6296418b7948edcf782a40cdc"
+ },
+ "sha1_origem": "817d1f17da0142596361e80ab8518b46e49030a9",
+ "bytes_origem": 27624,
+ "capturado_em": "2026-11-08T06:14:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Rioacima_new.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "817d1f17da0142596361e80ab8518b46e49030a9"
+ }
+}

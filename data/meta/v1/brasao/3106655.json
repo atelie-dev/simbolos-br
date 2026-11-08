@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3106655",
+ "uf": "MG",
+ "municipio": "Berizal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Berizalmgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Berizal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b8eb58feee862db38580892bb2466e16cd6a4b244aebc699024bee8a2df485f4",
+ "rendicoes": {
+  "png": {
+   "bytes": 244900,
+   "sha256": "5a6f7ba4aa3eba67ef28200ba9843d1a0227299078d4d374ecde9151f1f90306",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35201,
+   "sha256": "cf2d048c16026bee12cb82f9520201d054e933cc1a9e4fc55605c44dc1e33958",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106655.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106655.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106655.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3106655.jpg",
+  "bytes": 24666,
+  "sha256": "b8eb58feee862db38580892bb2466e16cd6a4b244aebc699024bee8a2df485f4"
+ },
+ "sha1_origem": "ffa92be71d488a058f9c7ccacb3606154c3051ac",
+ "bytes_origem": 24666,
+ "capturado_em": "2026-11-08T06:00:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Berizalmgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "ffa92be71d488a058f9c7ccacb3606154c3051ac"
+ }
+}

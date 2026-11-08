@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2404705",
+ "uf": "RN",
+ "municipio": "Ipanguaçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bandeira_de_Ipangua%C3%A7u_%28RN%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ipanguaçu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5126301cd5db7f852a5954d10e9e7358de12611b3e8ddd33700940f17a0d91f8",
+ "rendicoes": {
+  "png": {
+   "bytes": 30757,
+   "sha256": "dfa2f33260ba50ac7ba8685959b41e6a9d7e9825d04083ecb4bdfe80fe7804ed",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12042,
+   "sha256": "6cc5d358dc434402a4764ad1c0bb7437c720cd534a879ec422f45e952223b23c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2404705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2404705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2404705.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2404705.jpg",
+  "bytes": 156502,
+  "sha256": "5126301cd5db7f852a5954d10e9e7358de12611b3e8ddd33700940f17a0d91f8"
+ },
+ "sha1_origem": "ada63255ad89f97cd0bc06d358e6cd03b0667142",
+ "bytes_origem": 156502,
+ "capturado_em": "2026-11-08T05:36:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ipanguaçu_(RN).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "ada63255ad89f97cd0bc06d358e6cd03b0667142"
+ }
+}

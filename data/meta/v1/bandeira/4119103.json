@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4119103",
+ "uf": "PR",
+ "municipio": "Piên",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bandeira_de_Pi%C3%AAn.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Piên",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f0f19d602af63257b5b9cc324a2763c5c6df0d792303c0fb2178cc7543f4b3df",
+ "rendicoes": {
+  "png": {
+   "bytes": 66310,
+   "sha256": "98eaa093101a82b84d8d30b7b7809c343c81567a141c70a6c2914e7240e7f7f8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33324,
+   "sha256": "84149bbf74ecc1de61f21b642b8d042bd776d25ae31242db3e0e11cd0b4db71a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4119103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4119103.png",
+  "bytes": 212354,
+  "sha256": "f0f19d602af63257b5b9cc324a2763c5c6df0d792303c0fb2178cc7543f4b3df"
+ },
+ "sha1_origem": "a17a375327c92ef9d8af10d2d686f4c25054e7d5",
+ "bytes_origem": 212354,
+ "capturado_em": "2026-11-08T06:47:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Piên.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "a17a375327c92ef9d8af10d2d686f4c25054e7d5"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2807501",
+ "uf": "SE",
+ "municipio": "Tomar do Geru",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/BrasaoGeruG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Riba28 Maps",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "107756674a3a06e2abb6dc73e7a20eb4ab14ef899a2fbbe836ea5fb000fef346",
+ "rendicoes": {
+  "png": {
+   "bytes": 116064,
+   "sha256": "af59eaf8ab5bc8c7e28ad3666b136fd0cb02c62f15e851c52bf4fbb14b991ec3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41892,
+   "sha256": "10ecf23026cb82361499e2b6405eb0cb8230bb619ed3ba7a876c5d5de9d09fd2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2807501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2807501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2807501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2807501.jpg",
+  "bytes": 174499,
+  "sha256": "107756674a3a06e2abb6dc73e7a20eb4ab14ef899a2fbbe836ea5fb000fef346"
+ },
+ "sha1_origem": "500271046f23d319a35b066786679ada497b304d",
+ "bytes_origem": 174499,
+ "capturado_em": "2026-11-08T05:50:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoGeruG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "500271046f23d319a35b066786679ada497b304d"
+ }
+}

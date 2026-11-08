@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4317301",
+ "uf": "RS",
+ "municipio": "Santa Vitória do Palmar",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bandeira_Santa_Vitoria_do_Palmar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "305657321d072851472ce6f71a456297e25fc99a1d6849442b8627816835aab4",
+ "rendicoes": {
+  "png": {
+   "bytes": 6257,
+   "sha256": "17b09c95dc656a418d2e2e46def7c827e7fd0e089dee8c64cc08c4a443d17181",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5053,
+   "sha256": "25a1d5e3c96549886bc4608aa9d8ec9103b9422bbd991bb8a5e4f249325e885d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4317301.png",
+  "bytes": 2619,
+  "sha256": "305657321d072851472ce6f71a456297e25fc99a1d6849442b8627816835aab4"
+ },
+ "sha1_origem": "f9e649f05c888f3bd84696256024b993c6ddd90e",
+ "bytes_origem": 2619,
+ "capturado_em": "2026-11-08T07:08:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Santa_Vitoria_do_Palmar.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "f9e649f05c888f3bd84696256024b993c6ddd90e"
+ }
+}

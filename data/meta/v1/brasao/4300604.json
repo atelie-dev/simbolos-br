@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4300604",
+ "uf": "RS",
+ "municipio": "Alvorada",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bras%C3%A3o_de_Alvorada_RS.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Vanei Simon",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "4788845e2ddeaa25aff1bfbbf506d06c513ed5d5404fb6a4ca11aa2bddea485e",
+ "rendicoes": {
+  "png": {
+   "bytes": 102280,
+   "sha256": "007722e9e124828439c472e23f941f1ca1918f833e4084fa6ceb6cf1c6e79734",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45114,
+   "sha256": "2dd10c6dd027558be10827b3e873478e8cc3dde5fa33da2aeab5b173adfd90de",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 126236,
+   "sha256": "4788845e2ddeaa25aff1bfbbf506d06c513ed5d5404fb6a4ca11aa2bddea485e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300604.jpg"
+ },
+ "sha1_origem": "da151c757bae05c032bfcd77ea8a02c433adeb44",
+ "bytes_origem": 126236,
+ "capturado_em": "2026-11-08T04:46:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Alvorada_RS.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "da151c757bae05c032bfcd77ea8a02c433adeb44"
+ }
+}

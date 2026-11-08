@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3205200",
+ "uf": "ES",
+ "municipio": "Vila Velha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bandeira_de_Vila_Velha_%28Esp%C3%ADrito_Santo%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Reorganizador",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "864ebe7727c2090240187c8884e36f2936ff7b961943456ae095b8e1d9f3c8b7",
+ "rendicoes": {
+  "png": {
+   "bytes": 31778,
+   "sha256": "bf79638a1dd86af92e44d52b79975846eb2a7a4b12da563f743cf808ace715fb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15538,
+   "sha256": "6f14f778d54653022c8679a91bcd3565033c2c71592382bedd8d9a2de1835175",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 49267,
+   "sha256": "864ebe7727c2090240187c8884e36f2936ff7b961943456ae095b8e1d9f3c8b7"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3205200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3205200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3205200.jpg"
+ },
+ "sha1_origem": "28f3ddd7edd85efc13d979c5cb77e520212d4088",
+ "bytes_origem": 49267,
+ "capturado_em": "2026-11-08T03:53:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Vila_Velha_(Espírito_Santo).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "28f3ddd7edd85efc13d979c5cb77e520212d4088"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5005103",
+ "uf": "MS",
+ "municipio": "Jateí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bras%C3%A3odeJate%C3%AD0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1a1be2dad63cccc334ebf9dc86494c4330753b5f85a2660cbeac04071744cd6b",
+ "rendicoes": {
+  "png": {
+   "bytes": 262272,
+   "sha256": "a2c36bc9b7ffdc0883b9fd16539749ea46cad59d1fcd74642969cfd973781c3e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 52941,
+   "sha256": "9fa2f622ed8490115539267919deb4dda4f609109469cfbe09396b18ca33779e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5005103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5005103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5005103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5005103.jpg",
+  "bytes": 52353,
+  "sha256": "1a1be2dad63cccc334ebf9dc86494c4330753b5f85a2660cbeac04071744cd6b"
+ },
+ "sha1_origem": "3a02f50824552b3a5ea54569621e1b15505a1b88",
+ "bytes_origem": 52353,
+ "capturado_em": "2026-11-08T07:13:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasãodeJateí0.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "3a02f50824552b3a5ea54569621e1b15505a1b88"
+ }
+}

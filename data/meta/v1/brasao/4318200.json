@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4318200",
+ "uf": "RS",
+ "municipio": "São Francisco de Paula",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Brasao_sao_francisco_de_paula_rs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de São Francisco de Paula - Site da Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "59bc4e44489de4840a8abdb2202ade48bfc5ea17e49b0c1b55e9ba6e9dd26a97",
+ "rendicoes": {
+  "png": {
+   "bytes": 212464,
+   "sha256": "16947ed3e6bae5bf2459076e19837daf35e633a16bd4e51cdf14aefacd71e328",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42202,
+   "sha256": "d2406197ee654890c0fb78002e30fb4802f7d0948c4ac80f7da44fdd575ac081",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4318200.jpg",
+  "bytes": 64349,
+  "sha256": "59bc4e44489de4840a8abdb2202ade48bfc5ea17e49b0c1b55e9ba6e9dd26a97"
+ },
+ "sha1_origem": "52e2323602d7bcff2cdad037eb7d62e534c52938",
+ "bytes_origem": 64349,
+ "capturado_em": "2026-11-08T07:09:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_sao_francisco_de_paula_rs.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "52e2323602d7bcff2cdad037eb7d62e534c52938"
+ }
+}

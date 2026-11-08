@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3150604",
+ "uf": "MG",
+ "municipio": "Piracema",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bras%C3%A3o_do_Munic%C3%ADpio_de_Piracema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Danigalo (talk)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0c4648197824b043f0a14ebae5acb2735ed40a98bed85f198a5e69ed453bf845",
+ "rendicoes": {
+  "png": {
+   "bytes": 148631,
+   "sha256": "2bf03eb5a87fc021b83233e029a1fa3ee4fc0f1948dcdba3d175e5b62fa35885",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27454,
+   "sha256": "2c24f1ab0794dab2ccbb8ee93c203067aae7dfd8d72016c97e92b9f777a52d4b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3150604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3150604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3150604.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3150604.jpg",
+  "bytes": 64437,
+  "sha256": "0c4648197824b043f0a14ebae5acb2735ed40a98bed85f198a5e69ed453bf845"
+ },
+ "sha1_origem": "2b9dc63314369c8abd941da222ad324e9930b762",
+ "bytes_origem": 64437,
+ "capturado_em": "2026-11-08T06:13:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_Município_de_Piracema.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:16Z",
+  "estado": "igual",
+  "sha1_commons": "2b9dc63314369c8abd941da222ad324e9930b762"
+ }
+}

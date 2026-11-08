@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3127388",
+ "uf": "MG",
+ "municipio": "Goianá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Goian%C3%A1mgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Goianá",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d56b7b01806e332a674f3c12ce4b6097ff07a60dfd1cbf5974b9b541254d43b0",
+ "rendicoes": {
+  "png": {
+   "bytes": 34205,
+   "sha256": "c64f9d17dba6fc0c96240f59eafaefa0f64ecd5544b672a8843e272485119eef",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16770,
+   "sha256": "79a932b340736108e1c60c4916a84d5ba0213ede31f8ba40a16f5e49b0934014",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127388.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127388.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127388.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3127388.png",
+  "bytes": 29024,
+  "sha256": "d56b7b01806e332a674f3c12ce4b6097ff07a60dfd1cbf5974b9b541254d43b0"
+ },
+ "sha1_origem": "dff32a87fa52740fd1cf0f4bb5e4b0c40b0daa15",
+ "bytes_origem": 29024,
+ "capturado_em": "2026-11-08T06:07:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Goianámgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "dff32a87fa52740fd1cf0f4bb5e4b0c40b0daa15"
+ }
+}

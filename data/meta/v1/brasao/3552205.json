@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3552205",
+ "uf": "SP",
+ "municipio": "Sorocaba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/BrasaoSorocaba.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Sorocaba",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d3e74d652321ac9e9f33ff2e5fe3d1999044106ba692254b998bc9c5a7f0945d",
+ "rendicoes": {
+  "png": {
+   "bytes": 183114,
+   "sha256": "4ae31f6d6a9658e15418650d5c3320a3e35e1819c1f9dd9fd734efe41d3b9745",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 68308,
+   "sha256": "792ce1bc4b4cda6bc8ce3f648b9f428c80ad5cb992e185e863e31fcb5d49d266",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 384732,
+   "sha256": "d3e74d652321ac9e9f33ff2e5fe3d1999044106ba692254b998bc9c5a7f0945d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3552205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3552205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3552205.jpg"
+ },
+ "sha1_origem": "a28c6b467f27339680807cc8d2584d9f6c61777a",
+ "bytes_origem": 384732,
+ "capturado_em": "2026-11-08T04:17:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoSorocaba.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "a28c6b467f27339680807cc8d2584d9f6c61777a"
+ }
+}

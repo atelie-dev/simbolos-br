@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4311981",
+ "uf": "RS",
+ "municipio": "Mariana Pimentel",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bandeira_de_Mariana_Pimentel.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Mariana Pimentel",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "16677cca69aad332f14647cba8a726ee570b848478dcb977c281fbaecdefd5da",
+ "rendicoes": {
+  "png": {
+   "bytes": 16092,
+   "sha256": "b0a074a530c6fe33d865f74e885bf438daadc49fbf187e4a6e226b9e9a868017",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11250,
+   "sha256": "026ae1ba1109540920d932027379b2db84f67114a2d04c6dc8781d63a4e3a9a1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2710,
+   "sha256": "16677cca69aad332f14647cba8a726ee570b848478dcb977c281fbaecdefd5da"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311981.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311981.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311981.jpg"
+ },
+ "sha1_origem": "991ad365ee74f51d030c616e7a688bd0ec33ec51",
+ "bytes_origem": 2710,
+ "capturado_em": "2026-11-08T04:54:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Mariana_Pimentel.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "991ad365ee74f51d030c616e7a688bd0ec33ec51"
+ }
+}

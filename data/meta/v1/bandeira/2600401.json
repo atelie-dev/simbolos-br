@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2600401",
+ "uf": "PE",
+ "municipio": "Água Preta",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bandeira_de_%C3%81gua_Preta.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5d0a768daf158bc6cdd0c5c56e103f88e6ca526579b10612b5451106e927ae5d",
+ "rendicoes": {
+  "png": {
+   "bytes": 39726,
+   "sha256": "854e9fee6f839c38f66bc0aaecf589235decc00394bf3ac3dee1f040ba198095",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18189,
+   "sha256": "19f2ffb90b08ec48d81975c61e7fcc26032a004d10abd84e7c6d3c7289ca8ae1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 34494,
+   "sha256": "5d0a768daf158bc6cdd0c5c56e103f88e6ca526579b10612b5451106e927ae5d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2600401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2600401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2600401.jpg"
+ },
+ "sha1_origem": "9ba892dcc25bb1d31d1da8c1c968f99191683323",
+ "bytes_origem": 34494,
+ "capturado_em": "2026-11-08T03:03:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Água_Preta.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "9ba892dcc25bb1d31d1da8c1c968f99191683323"
+ }
+}

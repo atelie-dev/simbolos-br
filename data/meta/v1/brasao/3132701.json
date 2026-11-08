@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3132701",
+ "uf": "MG",
+ "municipio": "Itambacuri",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Brasaoitambacuri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Itambacuri",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "52301b4bdebb8baf307e28428f272d007cf759b1073c70b91264313ada177155",
+ "rendicoes": {
+  "png": {
+   "bytes": 116172,
+   "sha256": "cdcf3c29c38a747b94d674baa22c59f907213b942591765c41ac920b8c905bd8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33158,
+   "sha256": "2622245477d77e5ef8753d8728258f9dac8c85a34dfd9d47666832f51d523ddd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3132701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3132701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3132701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3132701.jpg",
+  "bytes": 43897,
+  "sha256": "52301b4bdebb8baf307e28428f272d007cf759b1073c70b91264313ada177155"
+ },
+ "sha1_origem": "83ec05f65ae2b853edc38365ace13a57534ad0af",
+ "bytes_origem": 43897,
+ "capturado_em": "2026-11-08T06:09:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoitambacuri.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "83ec05f65ae2b853edc38365ace13a57534ad0af"
+ }
+}

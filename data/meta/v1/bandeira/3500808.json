@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3500808",
+ "uf": "SP",
+ "municipio": "Alfredo Marcondes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Bandeira_Alfredo_Marcondes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0df48634bd57ada9cecf78faa787c2f0a68b07bd486e74e4101fab78bc444f27",
+ "rendicoes": {
+  "png": {
+   "bytes": 30397,
+   "sha256": "96759dcfd7b52eaf98a0715729f824b1148177177b8e79c83e39719fb6ae3c12",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10888,
+   "sha256": "13f08a077d70b92500325d97ea663855ee5c0f9375bc5c6c22073d9fb0e5616a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3500808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3500808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3500808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3500808.png",
+  "bytes": 30278,
+  "sha256": "0df48634bd57ada9cecf78faa787c2f0a68b07bd486e74e4101fab78bc444f27"
+ },
+ "sha1_origem": "6d57cbe38368a5803a366c5a41ac4029244c76ed",
+ "bytes_origem": 30278,
+ "capturado_em": "2026-11-08T06:22:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Alfredo_Marcondes.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "6d57cbe38368a5803a366c5a41ac4029244c76ed"
+ }
+}

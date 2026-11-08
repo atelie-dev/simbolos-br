@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3125200",
+ "uf": "MG",
+ "municipio": "Fama",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Famamgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Fama",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "727172a9889d02e413e125aa0d341bf51e9da7ca16a70eb5c892d013df5801f3",
+ "rendicoes": {
+  "png": {
+   "bytes": 77023,
+   "sha256": "219f36502e5a01ab04421f194531f2d715f07704f2a8eab2929742c3e786c833",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17052,
+   "sha256": "1a870f4fb9535c56cd1cd8e9d1ff636bcdc626ed61d13ab210130ce600fdc350",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3125200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3125200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3125200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3125200.jpg",
+  "bytes": 9951,
+  "sha256": "727172a9889d02e413e125aa0d341bf51e9da7ca16a70eb5c892d013df5801f3"
+ },
+ "sha1_origem": "643c8bfbbb1bfad2c27605cd164bd95406282a17",
+ "bytes_origem": 9951,
+ "capturado_em": "2026-11-08T06:07:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Famamgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "643c8bfbbb1bfad2c27605cd164bd95406282a17"
+ }
+}

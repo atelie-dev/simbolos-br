@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4122909",
+ "uf": "PR",
+ "municipio": "Salto do Itararé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bandeira_Salto_do_Itarar%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "639d0f127bb050b85d6e1530849d8d2e620c4100df64bcad52df2f80faf0c8a0",
+ "rendicoes": {
+  "png": {
+   "bytes": 38320,
+   "sha256": "31a1afc59543a0e36e51b6a27bf59ca784d97fd688794774e57fc03cf53776cb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9494,
+   "sha256": "2fb9c674a45688480d74d6475e13920c02ba50afdf80c7bb4c1a3245eb6ba1d7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4122909.jpg",
+  "bytes": 6825,
+  "sha256": "639d0f127bb050b85d6e1530849d8d2e620c4100df64bcad52df2f80faf0c8a0"
+ },
+ "sha1_origem": "f794ba08124873f755b9922dcd7645fc6439464e",
+ "bytes_origem": 6825,
+ "capturado_em": "2026-11-08T06:49:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Salto_do_Itararé.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "f794ba08124873f755b9922dcd7645fc6439464e"
+ }
+}

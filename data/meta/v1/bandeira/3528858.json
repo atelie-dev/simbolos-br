@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3528858",
+ "uf": "SP",
+ "municipio": "Marapoama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bandeira_Marapoama.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "302dad711c527662d9255d792a4fdf3e76ccd9b28d17d2e86dbf745d79e010f8",
+ "rendicoes": {
+  "png": {
+   "bytes": 23918,
+   "sha256": "f531e2938eca9e8c3cb273ddfc99839010ea62f507e61b3d010ace9f2208078a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12118,
+   "sha256": "bcfb841a7f81f7d165afe1ea53c9fa751c9aade39e5986ef5988f0fc4238cd27",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3528858.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3528858.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3528858.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3528858.png",
+  "bytes": 21838,
+  "sha256": "302dad711c527662d9255d792a4fdf3e76ccd9b28d17d2e86dbf745d79e010f8"
+ },
+ "sha1_origem": "83cd66d5f540a5a83c9f203e2b70edde31657cf5",
+ "bytes_origem": 21838,
+ "capturado_em": "2026-11-08T06:31:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Marapoama.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "83cd66d5f540a5a83c9f203e2b70edde31657cf5"
+ }
+}

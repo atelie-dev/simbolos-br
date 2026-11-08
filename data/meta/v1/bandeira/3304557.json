@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3304557",
+ "uf": "RJ",
+ "municipio": "Rio de Janeiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bandeira_da_cidade_do_Rio_de_Janeiro.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cidade do Rio de Janeiro",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "6324eb9372f4ce15ac1f34e37555ec9fae543aa20747e54fd414331bced67e62",
+ "rendicoes": {
+  "png": {
+   "bytes": 91342,
+   "sha256": "3d640ec1a0f89a91cf55d3842202611d7990740014305333652e1fc426787369",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29754,
+   "sha256": "5ecb17f35122dde19a4310fd337b64620fc79be9d585b367298df478db8f187d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 124463,
+   "sha256": "6324eb9372f4ce15ac1f34e37555ec9fae543aa20747e54fd414331bced67e62"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304557.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304557.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304557.jpg"
+ },
+ "sha1_origem": "deccd3315f3b9775ac81e0250b3fcca26bcc2600",
+ "bytes_origem": 124463,
+ "capturado_em": "2026-11-08T03:55:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_da_cidade_do_Rio_de_Janeiro.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "deccd3315f3b9775ac81e0250b3fcca26bcc2600"
+ }
+}

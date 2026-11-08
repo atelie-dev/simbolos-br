@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4101655",
+ "uf": "PR",
+ "municipio": "Arapuã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bandeira_Arapu%C3%A3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bceecd306a7eb56c860b0ef7cbbd73bd3799451eda6b5192e483a5c0d625f32a",
+ "rendicoes": {
+  "png": {
+   "bytes": 146602,
+   "sha256": "323441dc6547d3f5bf48eed22fdbf59efd7432a0f73c6a91a14cb367b0085390",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24658,
+   "sha256": "eb2af6f79e63c9638431a97388d83e996de365fe86fcd8f1a44e965ae57d4648",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101655.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101655.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101655.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4101655.jpg",
+  "bytes": 23497,
+  "sha256": "bceecd306a7eb56c860b0ef7cbbd73bd3799451eda6b5192e483a5c0d625f32a"
+ },
+ "sha1_origem": "befa7362e8c21f71f1e114b777823d61434b8881",
+ "bytes_origem": 23497,
+ "capturado_em": "2026-11-08T06:41:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Arapuã.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "befa7362e8c21f71f1e114b777823d61434b8881"
+ }
+}

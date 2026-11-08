@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4218202",
+ "uf": "SC",
+ "municipio": "Timbó",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandeira_do_munic%C3%ADpio_de_Timb%C3%B3_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Timbó (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "2620d302b4551b7d58c39e2885f56da710ea85a9217c37e5828a1b319e24e067",
+ "rendicoes": {
+  "png": {
+   "bytes": 112846,
+   "sha256": "c6f7e211aba6c36be2a1e056f1d0192c97c8072c601af5e68604f0a04b1f209e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35616,
+   "sha256": "4c0cc815df4202d44e7dc0eb35d596b74fad81c2a3a2a6dfc52ec82b01a0b810",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 762594,
+   "sha256": "2620d302b4551b7d58c39e2885f56da710ea85a9217c37e5828a1b319e24e067"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4218202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4218202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4218202.jpg"
+ },
+ "sha1_origem": "f313df6282792adc9f86305ee452233fdabcb719",
+ "bytes_origem": 762594,
+ "capturado_em": "2026-11-08T04:45:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Timbó_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "f313df6282792adc9f86305ee452233fdabcb719"
+ }
+}

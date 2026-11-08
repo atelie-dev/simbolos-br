@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4302303",
+ "uf": "RS",
+ "municipio": "Bom Jesus",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bras%C3%A3o_Bom_Jesus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Site Oficial da Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "002385bfbd9fc94615c5424cb45e816aefa5d8a67b0a02b0cf65c2271cdae2fd",
+ "rendicoes": {
+  "png": {
+   "bytes": 220789,
+   "sha256": "e2150933ae7ec92ba48e4c4d4c783d25da871889192994f966ba692cd463eef2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42816,
+   "sha256": "6563d9141d90ff3b715f77ffe083fe16b669e4b33a1c70c793688ddaa37344d1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4302303.jpg",
+  "bytes": 119483,
+  "sha256": "002385bfbd9fc94615c5424cb45e816aefa5d8a67b0a02b0cf65c2271cdae2fd"
+ },
+ "sha1_origem": "3632591f2527c0c377d73f71625ee59ff565e7a9",
+ "bytes_origem": 119483,
+ "capturado_em": "2026-11-08T06:59:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Bom_Jesus.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "3632591f2527c0c377d73f71625ee59ff565e7a9"
+ }
+}

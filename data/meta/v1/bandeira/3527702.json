@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3527702",
+ "uf": "SP",
+ "municipio": "Luiziânia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bandeira_de_Luizi%C3%A2nia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cba369d37a858a32b79e11383d618c46b3eb97d97b9560b960460f03cdc50d1b",
+ "rendicoes": {
+  "png": {
+   "bytes": 29690,
+   "sha256": "949bcced6925b9ab5a13a61b7009227a5d8fe5cbdb74e2c294672a2dee61744f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7219,
+   "sha256": "a41eaa805b3c01eda50efb944672e0604dd312e2f30b99c3bd75ff8ddd3e0e25",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3527702.jpg",
+  "bytes": 44052,
+  "sha256": "cba369d37a858a32b79e11383d618c46b3eb97d97b9560b960460f03cdc50d1b"
+ },
+ "sha1_origem": "313b448d87d0f39855cbef11d0ff076d7d12784e",
+ "bytes_origem": 44052,
+ "capturado_em": "2026-11-08T06:31:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Luiziânia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "313b448d87d0f39855cbef11d0ff076d7d12784e"
+ }
+}

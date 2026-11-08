@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1100403",
+ "uf": "RO",
+ "municipio": "Alto Paraíso",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bandeira_de_Alto_Para%C3%ADso%2C_RO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Alto Paraíso.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ab940d5f72e28ee9c1c1b9a9cc502228e3f0eb46a9a4ebf56985c3845c045ba5",
+ "rendicoes": {
+  "png": {
+   "bytes": 9171,
+   "sha256": "882011b7a09e822efe3738bf66048f8279f9b25f62f41a19f42d05e7a745378f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4949,
+   "sha256": "50830df86645600ce347ba270b1ff39ec5139dc299e9008ec4a2fce9ebc1af55",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1100403.png",
+  "bytes": 3731,
+  "sha256": "ab940d5f72e28ee9c1c1b9a9cc502228e3f0eb46a9a4ebf56985c3845c045ba5"
+ },
+ "sha1_origem": "a43556b09671b0fceec8ea621eab6ff73805245a",
+ "bytes_origem": 3731,
+ "capturado_em": "2026-11-08T05:21:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Alto_Paraíso,_RO.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "a43556b09671b0fceec8ea621eab6ff73805245a"
+ }
+}

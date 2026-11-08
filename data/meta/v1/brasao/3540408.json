@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3540408",
+ "uf": "SP",
+ "municipio": "Populina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bras%C3%A3o_de_Populina-SP%2C_Brasil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Populina",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "033ef5eb9d24de0d67dec451e781f48f5b9498cab6a5258bd1aab5bcc5c266d3",
+ "rendicoes": {
+  "png": {
+   "bytes": 60695,
+   "sha256": "ae06579c22aeab2744fa488c08c2dccb74ade08b8d7ea5c1ac4144ac31cb989f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17260,
+   "sha256": "fb7b06ed33ab28959cf87e8bd61fdd85b66c2ac586d0822dff6ff54e127970c4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3540408.png",
+  "bytes": 20774,
+  "sha256": "033ef5eb9d24de0d67dec451e781f48f5b9498cab6a5258bd1aab5bcc5c266d3"
+ },
+ "sha1_origem": "a321f7f55fce76911be2980dce864d8ba8ac7856",
+ "bytes_origem": 20774,
+ "capturado_em": "2026-11-08T06:35:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Populina-SP,_Brasil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:09Z",
+  "estado": "igual",
+  "sha1_commons": "a321f7f55fce76911be2980dce864d8ba8ac7856"
+ }
+}

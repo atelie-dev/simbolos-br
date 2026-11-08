@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3550308",
+ "uf": "SP",
+ "municipio": "São Paulo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bras%C3%A3o_da_cidade_de_S%C3%A3o_Paulo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "2a69d2ae7c6639bfe31bdb4fa52c998d62910247bd7517121bb21af3ec5521ed",
+ "rendicoes": {
+  "png": {
+   "bytes": 218628,
+   "sha256": "5463c59b12bfbdab05d8f0c0dffaf4749c219280404ecc80f0eece28e6e7735f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 75627,
+   "sha256": "256067dd1ac05e48e044d3c95cfc84cd9af88d98d97d2760e4cddbea793f40ff",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 284393,
+   "sha256": "2a69d2ae7c6639bfe31bdb4fa52c998d62910247bd7517121bb21af3ec5521ed"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550308.jpg"
+ },
+ "sha1_origem": "94056686929fc7f1efc31b16a30fea28e4e5124e",
+ "bytes_origem": 284393,
+ "capturado_em": "2026-11-08T04:17:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_da_cidade_de_São_Paulo.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "94056686929fc7f1efc31b16a30fea28e4e5124e"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4125803",
+ "uf": "PR",
+ "municipio": "São Pedro do Ivaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bandeira_de_S%C3%A3o_Pedro_do_Iva%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "61ca7bf54f4fb47b5c825d78a5a6842d765601af5723d0e72ab140ea504539b6",
+ "rendicoes": {
+  "png": {
+   "bytes": 115129,
+   "sha256": "ee5bef5b4149e91171ca2f3277c0fc51e4b004ad80234b85e5c639c2ab79026c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29252,
+   "sha256": "68707fe619ffac50049ca9763fbd704b8fc99478bc43a6341374a0b82035208d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4125803.jpg",
+  "bytes": 25239,
+  "sha256": "61ca7bf54f4fb47b5c825d78a5a6842d765601af5723d0e72ab140ea504539b6"
+ },
+ "sha1_origem": "660cae8936a2e5b527a05029cae5656c731949fc",
+ "bytes_origem": 25239,
+ "capturado_em": "2026-11-08T06:50:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Pedro_do_Ivaí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "660cae8936a2e5b527a05029cae5656c731949fc"
+ }
+}

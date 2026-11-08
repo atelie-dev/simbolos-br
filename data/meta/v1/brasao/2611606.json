@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2611606",
+ "uf": "PE",
+ "municipio": "Recife",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bras%C3%A3o_de_Recife.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a04617332c846d4259553625e19307a58587879500491068f6ddb400589621fd",
+ "rendicoes": {
+  "png": {
+   "bytes": 184386,
+   "sha256": "d33cbbc2739fcfbf7db2e55af7af39e7a57b76661902d22208fd2ac4ed592bdb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53862,
+   "sha256": "28b47067902d870aaa36ab80ac80db69e52e9003b0f6d03b4cbbf5c242d939fd",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 705880,
+   "sha256": "a04617332c846d4259553625e19307a58587879500491068f6ddb400589621fd"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2611606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2611606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2611606.jpg"
+ },
+ "sha1_origem": "8b0844d427d72b3f68a962a633acc8a9b47394fd",
+ "bytes_origem": 705880,
+ "capturado_em": "2026-11-08T03:07:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Recife.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:10Z",
+  "estado": "igual",
+  "sha1_commons": "8b0844d427d72b3f68a962a633acc8a9b47394fd"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3544301",
+ "uf": "SP",
+ "municipio": "Roseira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/80/Roseira_brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "77cf66153b0a571c3ed0d1b076a846ea14fd79abbf05c0a8773d3b71555f4986",
+ "rendicoes": {
+  "png": {
+   "bytes": 26438,
+   "sha256": "348742e2d48a6f03c902540287ed6b04e89010763bf32c4bb8638b87454e1747",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12949,
+   "sha256": "5699d8fbb873dc355acab78daf299790f0b69e52fb6e6f5f53eb055b18b5b41e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3544301.png",
+  "bytes": 8005,
+  "sha256": "77cf66153b0a571c3ed0d1b076a846ea14fd79abbf05c0a8773d3b71555f4986"
+ },
+ "sha1_origem": "50a247b17085352f11906d2bf3e49e353c6eb9a8",
+ "bytes_origem": 8005,
+ "capturado_em": "2026-11-08T06:36:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Roseira_brasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:36Z",
+  "estado": "igual",
+  "sha1_commons": "50a247b17085352f11906d2bf3e49e353c6eb9a8"
+ }
+}

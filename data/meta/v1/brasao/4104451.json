@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4104451",
+ "uf": "PR",
+ "municipio": "Cantagalo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bras%C3%A3o_de_Cantagalo-PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5cf72156f93524790e9b17baf1e8c95c811a29f8563e79c4c71ef0feffad288e",
+ "rendicoes": {
+  "png": {
+   "bytes": 425888,
+   "sha256": "6681a214e6ae4fee8f1a55de7174934faed658f541025c0ec849679d53493fbc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 84844,
+   "sha256": "a278c8a31b749ef1b77c0aa83361969cb9cd430558c50ac3417258670d8f17b7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104451.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104451.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104451.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4104451.jpg",
+  "bytes": 123620,
+  "sha256": "5cf72156f93524790e9b17baf1e8c95c811a29f8563e79c4c71ef0feffad288e"
+ },
+ "sha1_origem": "08a3fdec3f9e5e22a76484dae565a043c021bd5a",
+ "bytes_origem": 123620,
+ "capturado_em": "2026-11-08T06:42:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cantagalo-PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "08a3fdec3f9e5e22a76484dae565a043c021bd5a"
+ }
+}

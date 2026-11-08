@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1508084",
+ "uf": "PA",
+ "municipio": "Tucumã",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Brasao_Tucuma_%28Par%C3%A1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Hallel",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6ec08a8301299521177b480f8a03762d3d8a6b6b76bf4b9ce9405ec3d6f6d9f0",
+ "rendicoes": {
+  "png": {
+   "bytes": 116334,
+   "sha256": "9d45d59929682f6dca7d20fe1905d5e1a7d05ba42b2ac2bb55af3f4244f28142",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20767,
+   "sha256": "d31b66c28a1f4576132adab7b9f806d56ddfed9ad0bc40b90f3486a8932f7990",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1508084.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1508084.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1508084.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1508084.jpg",
+  "bytes": 14713,
+  "sha256": "6ec08a8301299521177b480f8a03762d3d8a6b6b76bf4b9ce9405ec3d6f6d9f0"
+ },
+ "sha1_origem": "4efb9c09849018c22b75b9d62715015b83516000",
+ "bytes_origem": 14713,
+ "capturado_em": "2026-11-08T05:25:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Tucuma_(Pará).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "4efb9c09849018c22b75b9d62715015b83516000"
+ }
+}

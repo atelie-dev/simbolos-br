@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3162104",
+ "uf": "MG",
+ "municipio": "São Gotardo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bandeira_sao_gotardo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Alemão",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2854709a77aeac47ac257723e31a6bce4996bb4289d27b3c7db3550eadd3e317",
+ "rendicoes": {
+  "png": {
+   "bytes": 60620,
+   "sha256": "37dc7466e7a18cb7e2b008562c62cc1112c296001dc493c99a6fa100164b93ac",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20856,
+   "sha256": "89619bd3700f10d5c9f77756d9f49e78ffcd67b8b661508f95269f18f00d3260",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3162104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3162104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3162104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3162104.jpg",
+  "bytes": 125210,
+  "sha256": "2854709a77aeac47ac257723e31a6bce4996bb4289d27b3c7db3550eadd3e317"
+ },
+ "sha1_origem": "29cae66ef5a7823453dbf83d5f86e64485ba445a",
+ "bytes_origem": 125210,
+ "capturado_em": "2026-11-08T06:16:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_sao_gotardo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "29cae66ef5a7823453dbf83d5f86e64485ba445a"
+ }
+}

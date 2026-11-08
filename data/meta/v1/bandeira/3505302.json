@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3505302",
+ "uf": "SP",
+ "municipio": "Barra Bonita",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bandeira_de_Barra_Bonita_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Barra Bonita",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "04010b67f98c3188801813d43ca1b7d256781cfa93c00e7a50b6d5c01ca8dc58",
+ "rendicoes": {
+  "png": {
+   "bytes": 34510,
+   "sha256": "d3f859db5608b75095dc1961f28758c8e25f17159c1ba61035369fb6d0c5eaf2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17003,
+   "sha256": "9f311b10161815dc49dcb326e9d3dd840f7039fa064b16a0c20794924fd1f69e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3505302.jpg",
+  "bytes": 116764,
+  "sha256": "04010b67f98c3188801813d43ca1b7d256781cfa93c00e7a50b6d5c01ca8dc58"
+ },
+ "sha1_origem": "ca8af395c64839421725aa2fc9a4e64d474d0fd9",
+ "bytes_origem": 116764,
+ "capturado_em": "2026-11-08T06:24:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Barra_Bonita_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "ca8af395c64839421725aa2fc9a4e64d474d0fd9"
+ }
+}

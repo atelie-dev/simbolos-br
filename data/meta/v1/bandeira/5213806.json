@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5213806",
+ "uf": "GO",
+ "municipio": "Morrinhos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bandeira_de_Morrinhos_%28Goi%C3%A1s%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Painted by Morrinhense",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a6ccd17f5bfdbbe45868c26df6eea5b650b1eabd67368cf60ab22d7b7157a837",
+ "rendicoes": {
+  "png": {
+   "bytes": 41904,
+   "sha256": "4a22eb984e2e12ed5ea70c4aa971ab43f363eac52e99ea1198f21356396ddcb8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17215,
+   "sha256": "3d815e9e81d3862d5e0eb3bb40701a62fef39efd88905dc789d4a364babc9e64",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5213806.jpg",
+  "bytes": 34421,
+  "sha256": "a6ccd17f5bfdbbe45868c26df6eea5b650b1eabd67368cf60ab22d7b7157a837"
+ },
+ "sha1_origem": "3396d8a4660946fe557b64497268c5c435b6da29",
+ "bytes_origem": 34421,
+ "capturado_em": "2026-11-08T07:19:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Morrinhos_(Goiás).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "3396d8a4660946fe557b64497268c5c435b6da29"
+ }
+}

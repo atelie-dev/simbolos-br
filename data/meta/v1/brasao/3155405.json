@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3155405",
+ "uf": "MG",
+ "municipio": "Rio Novo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bras%C3%A3o_de_Rio_Novo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Rio Novo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cee218d6d8218fe5ccc816432178c9797215471843cde4c5b671602f9a07a74d",
+ "rendicoes": {
+  "png": {
+   "bytes": 211076,
+   "sha256": "a68233a9e5b2678c2a7b73167b520dcf42dd42dfb729671a7f34dfc5b6db9146",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54107,
+   "sha256": "93807d595abba8cba5a452f1fd88c4949fe1244fc65869a50767b47ee5a90ee9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3155405.png",
+  "bytes": 812299,
+  "sha256": "cee218d6d8218fe5ccc816432178c9797215471843cde4c5b671602f9a07a74d"
+ },
+ "sha1_origem": "7cd8fc8c689e5cdc8d1ee1cf59409aed68233fe2",
+ "bytes_origem": 812299,
+ "capturado_em": "2026-11-08T06:14:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Rio_Novo.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "7cd8fc8c689e5cdc8d1ee1cf59409aed68233fe2"
+ }
+}

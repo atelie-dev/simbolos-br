@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4313953",
+ "uf": "RS",
+ "municipio": "Pantano Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bandeira_de_Pantano_Grande.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d33e704a9caaba72eb853e502f5814df816afaa9a7cf840b78082cadfb6a91b6",
+ "rendicoes": {
+  "png": {
+   "bytes": 75342,
+   "sha256": "065486dc6caeccaeffaf53e141b17105816a08fc0fb83b151c06f3eebb1e2a64",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20123,
+   "sha256": "4f5098dbe10747bea289864c3683129c6f8fc5ead8d60930316d0ed9e110a6b5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313953.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313953.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313953.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4313953.jpg",
+  "bytes": 62236,
+  "sha256": "d33e704a9caaba72eb853e502f5814df816afaa9a7cf840b78082cadfb6a91b6"
+ },
+ "sha1_origem": "9cd3f57d22463af1f1c7cc010907cb4662285936",
+ "bytes_origem": 62236,
+ "capturado_em": "2026-11-08T07:06:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pantano_Grande.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "9cd3f57d22463af1f1c7cc010907cb4662285936"
+ }
+}

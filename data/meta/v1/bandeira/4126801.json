@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4126801",
+ "uf": "PR",
+ "municipio": "Tapejara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bandeira_de_tapejara.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Nogueiraff",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6f9f9293b26a2e821049efd19a3d30ee989acb53d59252ef18d1a1d65605b4c9",
+ "rendicoes": {
+  "png": {
+   "bytes": 34664,
+   "sha256": "72558f7056c43b8ac3b560883bc7ef935deb57fc42af55c9109fa1f8ef1882db",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14999,
+   "sha256": "c78d11e50de82c885557d795283eb3a74479c04510f5b3e4cb7a9d9006861cd0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4126801.png",
+  "bytes": 82683,
+  "sha256": "6f9f9293b26a2e821049efd19a3d30ee989acb53d59252ef18d1a1d65605b4c9"
+ },
+ "sha1_origem": "f348aae404daaafb2eb8a8e264a23482b420ab04",
+ "bytes_origem": 82683,
+ "capturado_em": "2026-11-08T06:50:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_tapejara.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "f348aae404daaafb2eb8a8e264a23482b420ab04"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3129301",
+ "uf": "MG",
+ "municipio": "Iapu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Iapumgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Iapu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "67f976a87199983f124d54d20ba44cd5ad2c3e9d42b371aa31ba84cf0953d3e9",
+ "rendicoes": {
+  "png": {
+   "bytes": 32610,
+   "sha256": "fdf861e2133eda7f42de7d4ffa4fed1fc57ae2c49b6dbfb99d12a6b0e4c5ebeb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10828,
+   "sha256": "3bf60cfc7a117422f730cc71f99e82597f509cd264ad1d53494397f30e80e5a3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3129301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3129301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3129301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3129301.jpg",
+  "bytes": 9961,
+  "sha256": "67f976a87199983f124d54d20ba44cd5ad2c3e9d42b371aa31ba84cf0953d3e9"
+ },
+ "sha1_origem": "73047434fd2b2aa89ea5e8a273f27139f4c1549f",
+ "bytes_origem": 9961,
+ "capturado_em": "2026-11-08T06:08:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Iapumgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "73047434fd2b2aa89ea5e8a273f27139f4c1549f"
+ }
+}

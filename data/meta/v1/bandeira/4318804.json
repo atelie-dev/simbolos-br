@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4318804",
+ "uf": "RS",
+ "municipio": "São Lourenço do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bandeira_de_S%C3%A3o_Louren%C3%A7o_do_Sul.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Lourenço do Sul",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "4966551b5710bdad59e792d990d08d544dc08f97208443d1d077a89565971da6",
+ "rendicoes": {
+  "png": {
+   "bytes": 33249,
+   "sha256": "da2f75034b43b0a96e93f387ab8ad917d21894edd316db645437e7bc0998e7fd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19433,
+   "sha256": "68e4141d12c2c9c91fcfdc1b82c44e537829d08da593e5256b7db2dc6b16c116",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 289893,
+   "sha256": "4966551b5710bdad59e792d990d08d544dc08f97208443d1d077a89565971da6"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318804.jpg"
+ },
+ "sha1_origem": "60b1d435c312f5f9e2a6a7bf9b7d6cb4d9642461",
+ "bytes_origem": 289893,
+ "capturado_em": "2026-11-08T04:59:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Lourenço_do_Sul.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "60b1d435c312f5f9e2a6a7bf9b7d6cb4d9642461"
+ }
+}

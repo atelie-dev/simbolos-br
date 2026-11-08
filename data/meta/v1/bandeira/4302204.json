@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4302204",
+ "uf": "RS",
+ "municipio": "Boa Vista do Buricá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/62/BandeiraB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d460a274c9ee2e8458ff0fe75bd2f6758f7fcc0ad8f6554f1083398b25f828c0",
+ "rendicoes": {
+  "png": {
+   "bytes": 46600,
+   "sha256": "61c7aa3519579e1a9b7899a926cb4f4af946d67f694cf44f11d7dadd918205dd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15470,
+   "sha256": "ecfd52bc961e19cd5f0aa123ed6ac7b6902b83a2fbe5c2466ba9fbd8b420801f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4302204.jpg",
+  "bytes": 25956,
+  "sha256": "d460a274c9ee2e8458ff0fe75bd2f6758f7fcc0ad8f6554f1083398b25f828c0"
+ },
+ "sha1_origem": "5f77e5316aad74ae4015afc8de13365349b2cc7f",
+ "bytes_origem": 25956,
+ "capturado_em": "2026-11-08T06:59:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "5f77e5316aad74ae4015afc8de13365349b2cc7f"
+ }
+}

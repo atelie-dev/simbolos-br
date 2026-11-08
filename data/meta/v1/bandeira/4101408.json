@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4101408",
+ "uf": "PR",
+ "municipio": "Apucarana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bandeira_apucarana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "794698b101423d1f5c31dea734e8186fb9a02e350619a1b3cc110efa44da60e8",
+ "rendicoes": {
+  "png": {
+   "bytes": 31108,
+   "sha256": "3ed3df247d2aa8e4c752f33b5ba46d94ab4ec7d561620489ae96551434b03541",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19296,
+   "sha256": "c5f081b92947f05562bf3e7aaecc805b4a5653d2329182f823061bb21692e931",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4101408.jpg",
+  "bytes": 152116,
+  "sha256": "794698b101423d1f5c31dea734e8186fb9a02e350619a1b3cc110efa44da60e8"
+ },
+ "sha1_origem": "31cbb6ffa665745f8cda46fae4596fe914d0a950",
+ "bytes_origem": 152116,
+ "capturado_em": "2026-11-08T06:41:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_apucarana.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "31cbb6ffa665745f8cda46fae4596fe914d0a950"
+ }
+}

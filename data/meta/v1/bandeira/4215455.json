@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4215455",
+ "uf": "SC",
+ "municipio": "Sangão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bandeira_do_munic%C3%ADpio_de_Sang%C3%A3o_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Sangão (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "151f2e7766928c0c912ea93016b22158b948405aef6b101aca29204718290739",
+ "rendicoes": {
+  "png": {
+   "bytes": 37565,
+   "sha256": "e6b5253c03caff6cfb6fdd742b4e105635c6ae64ec5f0bd29c6d3e004d008100",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17303,
+   "sha256": "37426ff552a8457ca00958be1d70c9740089d5247578ca04944c46664f6cd93e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215455.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215455.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215455.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4215455.png",
+  "bytes": 1663056,
+  "sha256": "151f2e7766928c0c912ea93016b22158b948405aef6b101aca29204718290739"
+ },
+ "sha1_origem": "48e992a5e9c5b006aebb713762ae06c26b456120",
+ "bytes_origem": 1663056,
+ "capturado_em": "2026-11-08T06:56:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Sangão_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "48e992a5e9c5b006aebb713762ae06c26b456120"
+ }
+}

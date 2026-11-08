@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3202702",
+ "uf": "ES",
+ "municipio": "Itaguaçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bandeira_de_Itagua%C3%A7u_%28Esp%C3%ADrito_Santo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Itaguaçu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cb3ab9ef20ab3dcb94f45e7913fd73e180477d517914c0e3cbcc6a33c6e45a81",
+ "rendicoes": {
+  "png": {
+   "bytes": 43189,
+   "sha256": "cf738a9fdb458c7be9ab63529712f44802e2a3eed5bb6cb5c9420e28bb920171",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8896,
+   "sha256": "4552499229ccfa03c47aa5d6278e937b9416a03185a03a59703ff9f8360d69f9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3202702.jpg",
+  "bytes": 10306,
+  "sha256": "cb3ab9ef20ab3dcb94f45e7913fd73e180477d517914c0e3cbcc6a33c6e45a81"
+ },
+ "sha1_origem": "5cc8a88cf008bee15a2c9cfe8205483d7aff17d6",
+ "bytes_origem": 10306,
+ "capturado_em": "2026-11-08T06:19:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Itaguaçu_(Espírito_Santo).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "5cc8a88cf008bee15a2c9cfe8205483d7aff17d6"
+ }
+}

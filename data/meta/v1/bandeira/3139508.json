@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3139508",
+ "uf": "MG",
+ "municipio": "Manhumirim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bandeira_do_munic%C3%ADpio_de_Manhumirim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "LeilaFRosa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "099a88d0e2c7bcaf82d2f2f3ed65795d43d37fcc1c569dcb4f0bb3d7df532ae8",
+ "rendicoes": {
+  "png": {
+   "bytes": 73264,
+   "sha256": "2e2667301df6b767a03be5f5f63961a7476bec55a510cab50dbcf84b101d31bb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20440,
+   "sha256": "551f1c746439350196ff01d70d296616b0651c523c49bc4f5cee56acfb1a4440",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3139508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3139508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3139508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3139508.jpg",
+  "bytes": 104459,
+  "sha256": "099a88d0e2c7bcaf82d2f2f3ed65795d43d37fcc1c569dcb4f0bb3d7df532ae8"
+ },
+ "sha1_origem": "ca227c42107c060c8dd4004f67722e1d3e9cfa19",
+ "bytes_origem": 104459,
+ "capturado_em": "2026-11-08T06:10:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Manhumirim.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "ca227c42107c060c8dd4004f67722e1d3e9cfa19"
+ }
+}

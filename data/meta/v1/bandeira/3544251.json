@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3544251",
+ "uf": "SP",
+ "municipio": "Rosana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Rosana-SP.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Rosana",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4e5b68d4e374f912021cc5356c210cd11a3e7ef0c838466e46cfeaef9cbd71ca",
+ "rendicoes": {
+  "png": {
+   "bytes": 76961,
+   "sha256": "cc00824c9942e3bf83400ed7284311744c919dd28e511bcd3805c8399b2bb517",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21205,
+   "sha256": "06d067d7ae25be5ae10e1470c80574ffe1d69a7a2d663964f04d84f7ad96780b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3544251.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3544251.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3544251.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3544251.jpg",
+  "bytes": 13896,
+  "sha256": "4e5b68d4e374f912021cc5356c210cd11a3e7ef0c838466e46cfeaef9cbd71ca"
+ },
+ "sha1_origem": "8514fc216108450926c81869adf9bb24cf29b7ed",
+ "bytes_origem": 13896,
+ "capturado_em": "2026-11-08T06:36:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Rosana-SP.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "8514fc216108450926c81869adf9bb24cf29b7ed"
+ }
+}

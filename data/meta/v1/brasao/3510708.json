@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3510708",
+ "uf": "SP",
+ "municipio": "Cardoso",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bras%C3%A3o_de_Cardoso%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cardoso",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "10d177da5a29bd3e8417f5de24ab8c3007a437bfa81d97f82061859c4309fc50",
+ "rendicoes": {
+  "png": {
+   "bytes": 42392,
+   "sha256": "8d9f3d515e2a156aed4ee8ff3e5cef0269e2f8eef87a96b49cf80bbded6c7fbb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10652,
+   "sha256": "65b6895ab289712fd557e7105b23251aa56a5c3d1bffd53819851ce45c40faf9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3510708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3510708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3510708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3510708.jpg",
+  "bytes": 10404,
+  "sha256": "10d177da5a29bd3e8417f5de24ab8c3007a437bfa81d97f82061859c4309fc50"
+ },
+ "sha1_origem": "69c3a3bd89f49d2c1197c8be8bc99e09bb4b36e4",
+ "bytes_origem": 10404,
+ "capturado_em": "2026-11-08T06:26:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cardoso,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "69c3a3bd89f49d2c1197c8be8bc99e09bb4b36e4"
+ }
+}

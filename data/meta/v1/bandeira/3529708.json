@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3529708",
+ "uf": "SP",
+ "municipio": "Miguelópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bandeira_Miguel%C3%B3polis.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "NosLida",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b4bcc4ea79b15af7244615abe00015b375a2e8fff13b76b3221a65ba97444c5b",
+ "rendicoes": {
+  "png": {
+   "bytes": 138769,
+   "sha256": "cd80adad5047c8a2acd7142b26d5fcd907b7596af1dbf4479c35366f85f4c600",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22504,
+   "sha256": "4ce4416f4103c536464b9374a4dd1d9bb17984907a85ea01752ee0f37afdd9fc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3529708.jpg",
+  "bytes": 39393,
+  "sha256": "b4bcc4ea79b15af7244615abe00015b375a2e8fff13b76b3221a65ba97444c5b"
+ },
+ "sha1_origem": "32d70bb7399d034ff3ab108cba5b5a36e44d7446",
+ "bytes_origem": 39393,
+ "capturado_em": "2026-11-08T06:31:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Miguelópolis.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "32d70bb7399d034ff3ab108cba5b5a36e44d7446"
+ }
+}

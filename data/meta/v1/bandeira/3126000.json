@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3126000",
+ "uf": "MG",
+ "municipio": "Florestal",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Florestalmgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Florestal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7f6df597edbbea667fe9bc15a5c7f7aa47fa577ff19fd05b7551fb018ca98d59",
+ "rendicoes": {
+  "png": {
+   "bytes": 57893,
+   "sha256": "f0e6562b60d01920644cd2f060ee36f5a63446cc15c939bcef7f55d058c0fc53",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16245,
+   "sha256": "225c3dcd36fdd748e62d8a253f1e30a467d36853e5e8e7c531f2e209e9d4636c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3126000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3126000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3126000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3126000.jpg",
+  "bytes": 19177,
+  "sha256": "7f6df597edbbea667fe9bc15a5c7f7aa47fa577ff19fd05b7551fb018ca98d59"
+ },
+ "sha1_origem": "d7fd3c445571788faa6d57e04d0e0806d88b3a75",
+ "bytes_origem": 19177,
+ "capturado_em": "2026-11-08T06:07:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Florestalmgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:30Z",
+  "estado": "igual",
+  "sha1_commons": "d7fd3c445571788faa6d57e04d0e0806d88b3a75"
+ }
+}

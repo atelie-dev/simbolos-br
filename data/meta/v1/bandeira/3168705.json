@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3168705",
+ "uf": "MG",
+ "municipio": "Timóteo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Tim%C3%B3teo_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara de Timóteo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9135d1bd0f886fb9f32b5eff4e1cad1de5bf83ad6fa6b64ff007e1fb8396cbb3",
+ "rendicoes": {
+  "png": {
+   "bytes": 27048,
+   "sha256": "83cfeb659ca3db7d7c345659a5dba1b513b37aa645f713a8833b8c695fad8025",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10515,
+   "sha256": "af1fb49e67a8e41ff9261f5888259ba0b0b6c8d293c613ab4c59582308420505",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3168705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3168705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3168705.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3168705.png",
+  "bytes": 129682,
+  "sha256": "9135d1bd0f886fb9f32b5eff4e1cad1de5bf83ad6fa6b64ff007e1fb8396cbb3"
+ },
+ "sha1_origem": "8573c80e4e713b24d200a73cb1db01287c380585",
+ "bytes_origem": 129682,
+ "capturado_em": "2026-11-08T06:17:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Timóteo_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "8573c80e4e713b24d200a73cb1db01287c380585"
+ }
+}

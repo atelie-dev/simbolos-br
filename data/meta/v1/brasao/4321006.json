@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321006",
+ "uf": "RS",
+ "municipio": "Tapera",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tapera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Autor desconhecido. Domínio Público.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "29520e2557e78b0c760e9a69dd58d7a7375bc901ed09f9fb21ecd60a30234de2",
+ "rendicoes": {
+  "png": {
+   "bytes": 397875,
+   "sha256": "e72da86254eddac184a73fc8f596935ce1ebf64289bb2691d53725fb7a30ae5f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 70784,
+   "sha256": "940fcd05d1cf1d4a2aea4d8376b2b1ac60738522afd97e4904abd836db2d9573",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4321006.jpg",
+  "bytes": 101095,
+  "sha256": "29520e2557e78b0c760e9a69dd58d7a7375bc901ed09f9fb21ecd60a30234de2"
+ },
+ "sha1_origem": "ae11c1f302b04d1914e51031ad4a8f9717f32173",
+ "bytes_origem": 101095,
+ "capturado_em": "2026-11-08T07:10:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Tapera.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:38Z",
+  "estado": "igual",
+  "sha1_commons": "ae11c1f302b04d1914e51031ad4a8f9717f32173"
+ }
+}

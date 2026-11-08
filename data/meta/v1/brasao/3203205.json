@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3203205",
+ "uf": "ES",
+ "municipio": "Linhares",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Brasao-linhares-es.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Linhares City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dccc186252552476dd4836f801fd54556f419af44aa326447a042d17287193a5",
+ "rendicoes": {
+  "png": {
+   "bytes": 39415,
+   "sha256": "545a9a21d9a0ef20c971c6ddc2c8dba895881af93ed586d21b4017bd47354829",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8868,
+   "sha256": "4afdfb6a276fb36e8cd0ff7446a3c3e9d533bc76f9a4c59c3b3f084cb2be0f93",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3203205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3203205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3203205.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3203205.jpg",
+  "bytes": 5536,
+  "sha256": "dccc186252552476dd4836f801fd54556f419af44aa326447a042d17287193a5"
+ },
+ "sha1_origem": "84a4258640c39274ed23f45498689debef0d7915",
+ "bytes_origem": 5536,
+ "capturado_em": "2026-11-08T06:19:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-linhares-es.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "84a4258640c39274ed23f45498689debef0d7915"
+ }
+}

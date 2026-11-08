@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4316501",
+ "uf": "RS",
+ "municipio": "Salvador do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/BANDEIRA_-_SALVADOR_DO_SUL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "315044d53c5b813031cdca682a68295865fbef380e1dcd7a7c492dfef27b9a7d",
+ "rendicoes": {
+  "png": {
+   "bytes": 15630,
+   "sha256": "ae39975cefdaf04807d4108325f48c60b578894d3031680815c45597652bff61",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6025,
+   "sha256": "a9e0842d032a5c360fb3a353d4fc0f1396f804409f63e1878e9bccf068ca18b3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4316501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4316501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4316501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4316501.jpg",
+  "bytes": 31203,
+  "sha256": "315044d53c5b813031cdca682a68295865fbef380e1dcd7a7c492dfef27b9a7d"
+ },
+ "sha1_origem": "3c9c946d9d5951ce434e803d72d7001a5e50fd40",
+ "bytes_origem": 31203,
+ "capturado_em": "2026-11-08T07:08:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BANDEIRA_-_SALVADOR_DO_SUL.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "3c9c946d9d5951ce434e803d72d7001a5e50fd40"
+ }
+}

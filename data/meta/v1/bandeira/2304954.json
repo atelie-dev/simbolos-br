@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2304954",
+ "uf": "CE",
+ "municipio": "Guaiúba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bandeira_de_Guaiuba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Autores do site",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "72b5dfc9b2818d60be86d6a2fd7746c0341b825a467a133b71284c0017c6247b",
+ "rendicoes": {
+  "png": {
+   "bytes": 83047,
+   "sha256": "368bee60597af18c92c9a5d954668860b336e14e2fcb0cfad73805592c7c0e7d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17996,
+   "sha256": "6cb7378affe268d1bd0c66360c9b037bffeba7624c1fa9adf8f50cfe0a0d50bb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304954.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304954.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304954.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2304954.jpg",
+  "bytes": 15715,
+  "sha256": "72b5dfc9b2818d60be86d6a2fd7746c0341b825a467a133b71284c0017c6247b"
+ },
+ "sha1_origem": "bb8c9124911a6d8c497a5a4e49c8bb2e03130cb7",
+ "bytes_origem": 15715,
+ "capturado_em": "2026-11-08T05:33:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Guaiuba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "bb8c9124911a6d8c497a5a4e49c8bb2e03130cb7"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1200104",
+ "uf": "AC",
+ "municipio": "Brasiléia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Brasao_Brasileia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Brasiléia.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dd89f1c6772835103518f870140261042f6474aacb9240f035d071bde63f374e",
+ "rendicoes": {
+  "png": {
+   "bytes": 192278,
+   "sha256": "4e9f4a5996caa8423040a580ed6ae17c4245636a1ffb8cb43b0a3b65d434f336",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37635,
+   "sha256": "e2b7688f805d9e01dac5ba2653ff2dce4f7921dd45bef7949098dc05755413ef",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1200104.jpg",
+  "bytes": 65865,
+  "sha256": "dd89f1c6772835103518f870140261042f6474aacb9240f035d071bde63f374e"
+ },
+ "sha1_origem": "8aa8c0cddb5171f64afe038e657c0f3b66342a3a",
+ "bytes_origem": 65865,
+ "capturado_em": "2026-11-08T05:22:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Brasileia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "8aa8c0cddb5171f64afe038e657c0f3b66342a3a"
+ }
+}

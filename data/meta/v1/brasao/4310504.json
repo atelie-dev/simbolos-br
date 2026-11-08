@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4310504",
+ "uf": "RS",
+ "municipio": "Iraí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bras%C3%A3o_-_Ira%C3%AD_-_RS_-_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cidade de Iraí",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ce23e2368d1ff09e696e4f7cd18b70b6424771f98aca7c14354f955ceedc75c5",
+ "rendicoes": {
+  "png": {
+   "bytes": 107011,
+   "sha256": "690dd356a2a458df04a9fbad07d35539021b2bece58ce6fb74e664c4329d56a2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20282,
+   "sha256": "85e84ba4d478df9be42afc793e860e78453b5564ba617be94badf20943741be6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4310504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4310504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4310504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4310504.jpg",
+  "bytes": 14209,
+  "sha256": "ce23e2368d1ff09e696e4f7cd18b70b6424771f98aca7c14354f955ceedc75c5"
+ },
+ "sha1_origem": "e2edc26418d8d99638bc784da7f3d5bbc093c568",
+ "bytes_origem": 14209,
+ "capturado_em": "2026-11-08T07:04:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_-_Iraí_-_RS_-_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "e2edc26418d8d99638bc784da7f3d5bbc093c568"
+ }
+}

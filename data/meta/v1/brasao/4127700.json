@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4127700",
+ "uf": "PR",
+ "municipio": "Toledo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bras%C3%A3o_Municipal_de_Toledo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Arcinoé Antonio Peixoto de Faria / Município de Toledo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b48abe65b5b94cb6ea8916d40e709cc140e37b46d562210d68ab2e3ce54a49ef",
+ "rendicoes": {
+  "png": {
+   "bytes": 226559,
+   "sha256": "bbbe4c3b0f50ceb8a19b2be658d51bc7733c6437a3548d6db0bfd58148f6368d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48631,
+   "sha256": "f54fb825ae8e67e85dd089aded11c7e3d8279422855cc6cc05f6f5140826b7dc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4127700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4127700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4127700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4127700.jpg",
+  "bytes": 71267,
+  "sha256": "b48abe65b5b94cb6ea8916d40e709cc140e37b46d562210d68ab2e3ce54a49ef"
+ },
+ "sha1_origem": "044a2c9221829f30dfa4316db565e3a5d63e20b5",
+ "bytes_origem": 71267,
+ "capturado_em": "2026-11-08T06:50:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Municipal_de_Toledo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "044a2c9221829f30dfa4316db565e3a5d63e20b5"
+ }
+}

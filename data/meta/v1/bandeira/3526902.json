@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3526902",
+ "uf": "SP",
+ "municipio": "Limeira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bandeira_Limeira_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Srfortes",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1c6c06a4a2ba11d6ea2e485c621eb90fbdbcd9e40fc49cf3e99d01db7e407175",
+ "rendicoes": {
+  "png": {
+   "bytes": 39475,
+   "sha256": "977a9da4c4b6c6c4cf8307ac17ae22102e62ac772cb1d044bfd7a9174dc3e7c1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21201,
+   "sha256": "104163458feccf67c0e4ad152371b87f6494998fa5c025960d91b4e48474386b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 84671,
+   "sha256": "1c6c06a4a2ba11d6ea2e485c621eb90fbdbcd9e40fc49cf3e99d01db7e407175"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3526902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3526902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3526902.jpg"
+ },
+ "sha1_origem": "e50a37dc6ca4ed83c020cb8cca665c9c6bc3954c",
+ "bytes_origem": 84671,
+ "capturado_em": "2026-11-08T04:07:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Limeira_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "e50a37dc6ca4ed83c020cb8cca665c9c6bc3954c"
+ }
+}

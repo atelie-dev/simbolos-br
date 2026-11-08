@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4217303",
+ "uf": "SC",
+ "municipio": "Saudades",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bandeira_saudades.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6fa70d13532929ef2f94b97506b0042628d5e069db1c63de58b22874f74ce12c",
+ "rendicoes": {
+  "png": {
+   "bytes": 30741,
+   "sha256": "ef2bb15950a2014e8418f085d416ae08bc5cb56775d16f64af2a05b7d68b6410",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7926,
+   "sha256": "2b1de61a8997ef7b6646a40ff5d3ff306cd06a62b7ccbb6f1cd157e5cb8951fe",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4217303.jpg",
+  "bytes": 4566,
+  "sha256": "6fa70d13532929ef2f94b97506b0042628d5e069db1c63de58b22874f74ce12c"
+ },
+ "sha1_origem": "43c4ada05b4af4db1d1a400ac3edc4bdab241552",
+ "bytes_origem": 4566,
+ "capturado_em": "2026-11-08T06:57:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_saudades.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "43c4ada05b4af4db1d1a400ac3edc4bdab241552"
+ }
+}

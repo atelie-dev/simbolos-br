@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2905701",
+ "uf": "BA",
+ "municipio": "Camaçari",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bandeira_de_Cama%C3%A7ari.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Mateus Leite",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "34392524cfee4e4b284e1ca3540128211a80b3acfa0d2706fa226a53dfd5a063",
+ "rendicoes": {
+  "png": {
+   "bytes": 28676,
+   "sha256": "e7412ad54653ea3c0a347da9ef29143174f904a73e4dab2a999ec57ceddfed31",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13414,
+   "sha256": "f7b47b2ace4f6d505fd26b28f28c993121c0820127e55c9fc15bcf4fc8b9d3ef",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 114635,
+   "sha256": "34392524cfee4e4b284e1ca3540128211a80b3acfa0d2706fa226a53dfd5a063"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2905701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2905701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2905701.jpg"
+ },
+ "sha1_origem": "9e3b49772e32c540344dbe24e93a5cac4bcecc11",
+ "bytes_origem": 114635,
+ "capturado_em": "2026-11-08T03:16:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Camaçari.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "9e3b49772e32c540344dbe24e93a5cac4bcecc11"
+ }
+}

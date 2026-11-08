@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4126256",
+ "uf": "PR",
+ "municipio": "Sarandi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bandeira_Sarandi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Prefeitura Municipal de Sarandi - PR",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c73cb8c89a6982c5f018a71d087631d8cd69a1f2e52406825120ab7147c8c662",
+ "rendicoes": {
+  "png": {
+   "bytes": 90082,
+   "sha256": "bfd4f69cc88b11d43b26ea3ebae996e641ea3f87677e423bbdca0f24ffc58f01",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23041,
+   "sha256": "3f821a1dfd0dc5d893bbe032824f2876350d94eefd87efcbe417eb5d3395d9bc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126256.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126256.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126256.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4126256.jpg",
+  "bytes": 165399,
+  "sha256": "c73cb8c89a6982c5f018a71d087631d8cd69a1f2e52406825120ab7147c8c662"
+ },
+ "sha1_origem": "991f0b0cc0cbb684bf8f6c449c2a83a08955ba60",
+ "bytes_origem": 165399,
+ "capturado_em": "2026-11-08T06:50:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Sarandi.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "991f0b0cc0cbb684bf8f6c449c2a83a08955ba60"
+ }
+}

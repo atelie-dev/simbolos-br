@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4111258",
+ "uf": "PR",
+ "municipio": "Itaperuçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bandeira_Itaperucu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Prefeitura de Itaperuçu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "386fac9ea992b4c3eb6081f9e214830c6f3cb5299541014af8beb2803c6068cb",
+ "rendicoes": {
+  "png": {
+   "bytes": 44294,
+   "sha256": "cb3ca8faca9b5baaf6126864e857d6012fd8bba6ecf8ade7c2efc3bfafa3d787",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15463,
+   "sha256": "178ce57fb1eaa0a9dae663b40c7e86931342fbcedc58e369b0c3840f6103c9f8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111258.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111258.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4111258.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4111258.jpg",
+  "bytes": 32768,
+  "sha256": "386fac9ea992b4c3eb6081f9e214830c6f3cb5299541014af8beb2803c6068cb"
+ },
+ "sha1_origem": "ff559a7a59341f7bfce59fbefdc736059d4b540f",
+ "bytes_origem": 32768,
+ "capturado_em": "2026-11-08T06:45:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itaperucu.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "ff559a7a59341f7bfce59fbefdc736059d4b540f"
+ }
+}

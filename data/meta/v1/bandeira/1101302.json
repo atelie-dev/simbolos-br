@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1101302",
+ "uf": "RO",
+ "municipio": "Mirante da Serra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bandeiraro_Mirante_da_Serra.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Mirante da Serra",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "01887f20d59a88c86571031bcfb500e3f1b7eebf3eb7a822cc680f19364c9182",
+ "rendicoes": {
+  "png": {
+   "bytes": 130831,
+   "sha256": "650b983af4681b1d0f5b84b7691335fa885c46d91f2fdf3f4ed02af2031d661b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16057,
+   "sha256": "d61fc6f66babb4220999d857ae305060db70b17a7661ff0abd54f031e014f1e7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1101302.png",
+  "bytes": 111209,
+  "sha256": "01887f20d59a88c86571031bcfb500e3f1b7eebf3eb7a822cc680f19364c9182"
+ },
+ "sha1_origem": "13e15a629f07a3f8013d288a22e0942c40c52417",
+ "bytes_origem": 111209,
+ "capturado_em": "2026-11-08T05:21:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraro_Mirante_da_Serra.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "13e15a629f07a3f8013d288a22e0942c40c52417"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5007802",
+ "uf": "MS",
+ "municipio": "Selvíria",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Brasao_selviria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Selvíria",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "10a6b210c0dbb787ced3a9a099cb2f8aa1d199b4a0bb5ccc92cd92ba15ad5535",
+ "rendicoes": {
+  "png": {
+   "bytes": 64481,
+   "sha256": "fff945095c0b50acae06982502e3a74991c93d176ce150d890d344d0bea7cb7d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13656,
+   "sha256": "987d1dd8fd5a4d9af71a4d0846d0da9fea193681978574076d8b0b3616a4e299",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5007802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5007802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5007802.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5007802.jpg",
+  "bytes": 8549,
+  "sha256": "10a6b210c0dbb787ced3a9a099cb2f8aa1d199b4a0bb5ccc92cd92ba15ad5535"
+ },
+ "sha1_origem": "7f1f070b798ce01aebcc81ecefb4b2a42eedd71c",
+ "bytes_origem": 8549,
+ "capturado_em": "2026-11-08T07:13:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_selviria.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "7f1f070b798ce01aebcc81ecefb4b2a42eedd71c"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3550308",
+ "uf": "SP",
+ "municipio": "São Paulo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bandeira_da_cidade_de_S%C3%A3o_Paulo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pedro Cardoso de Carvalho e Freitas, Srfortes and Giro720",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "78c95c5fef748fc4788909455a2154e2539905cfe7f1df6c9505033f41c63904",
+ "rendicoes": {
+  "png": {
+   "bytes": 60575,
+   "sha256": "230559af2ed00663391c6348b7b348008dcd1e477cfe9ba3733367fd70731a2c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26894,
+   "sha256": "d704a3ab641c105c14a1f40790aa8c4a0ce151ae1e279cf7f5e8291357f4efc1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 284319,
+   "sha256": "78c95c5fef748fc4788909455a2154e2539905cfe7f1df6c9505033f41c63904"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550308.jpg"
+ },
+ "sha1_origem": "f55f8fc8473b276775e655bd08d8c46beeb9203f",
+ "bytes_origem": 284319,
+ "capturado_em": "2026-11-08T04:17:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_da_cidade_de_São_Paulo.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "f55f8fc8473b276775e655bd08d8c46beeb9203f"
+ }
+}

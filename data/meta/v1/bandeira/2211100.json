@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2211100",
+ "uf": "PI",
+ "municipio": "União",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bandeira_de_Uni%C3%A3o_-_PI.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Valdinar G Silva",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1c4296938df9a06ef262375c0561691ad94663ca5ade39aff2057e7c42cbcd77",
+ "rendicoes": {
+  "png": {
+   "bytes": 23361,
+   "sha256": "603c208bb64fc646bd2fc1fed3abef9bcee2983e6d12c1907f825ea646f45889",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14663,
+   "sha256": "2b2f501bfd3278d8dcca182138c2d9c1fa02ed7d8ba7de5ea8f1843011fd1457",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2211100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2211100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2211100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2211100.png",
+  "bytes": 181389,
+  "sha256": "1c4296938df9a06ef262375c0561691ad94663ca5ade39aff2057e7c42cbcd77"
+ },
+ "sha1_origem": "4fa8bfcc260c78ea283e33a833a712fc1b68c680",
+ "bytes_origem": 181389,
+ "capturado_em": "2026-11-08T05:31:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_União_-_PI.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "4fa8bfcc260c78ea283e33a833a712fc1b68c680"
+ }
+}

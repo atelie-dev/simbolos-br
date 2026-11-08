@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2604106",
+ "uf": "PE",
+ "municipio": "Caruaru",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Caruaru_Flag.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Amaro Matias / Prefeitura de Caruaru",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7f8d2a2f3bed8e9f97596d97fe3328c312e14a38fa3f1c236270b912c8310033",
+ "rendicoes": {
+  "png": {
+   "bytes": 99101,
+   "sha256": "05d0b2dc1698f557ace775590b01ec87f966b5808575b8fcdba2d3fbdf20f0c6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25442,
+   "sha256": "2e419fe9d7d629f60dd804cd2a6437ffa8bf95ab3ca80a003376dfbf9ddf95a0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2604106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2604106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2604106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2604106.png",
+  "bytes": 4313589,
+  "sha256": "7f8d2a2f3bed8e9f97596d97fe3328c312e14a38fa3f1c236270b912c8310033"
+ },
+ "sha1_origem": "a9979984971fe41d02ea7b617df6b42890cd721c",
+ "bytes_origem": 4313589,
+ "capturado_em": "2026-11-08T05:44:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Caruaru_Flag.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:21Z",
+  "estado": "igual",
+  "sha1_commons": "a9979984971fe41d02ea7b617df6b42890cd721c"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3118403",
+ "uf": "MG",
+ "municipio": "Conselheiro Pena",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Flag_of_Conselheiro_Pena_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e81378844fc5f1f9048d597c67d4832bc71dfcf2322e87dfaf6ff7cb1569fd1d",
+ "rendicoes": {
+  "png": {
+   "bytes": 39084,
+   "sha256": "bd204cad4e45bf0273f3278cbaf6bdf8ffbf1b363bf979f87de032716a4b209b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12186,
+   "sha256": "3de468ce7d223397f6a79453b578c8539fda2669c4ff034fd949cd90d0c52263",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3118403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3118403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3118403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3118403.png",
+  "bytes": 55817,
+  "sha256": "e81378844fc5f1f9048d597c67d4832bc71dfcf2322e87dfaf6ff7cb1569fd1d"
+ },
+ "sha1_origem": "257d67c2971cc7b2ce4b31f3b8b8f30e55006b75",
+ "bytes_origem": 55817,
+ "capturado_em": "2026-11-08T06:04:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Conselheiro_Pena_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "257d67c2971cc7b2ce4b31f3b8b8f30e55006b75"
+ }
+}

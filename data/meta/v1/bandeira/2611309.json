@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2611309",
+ "uf": "PE",
+ "municipio": "Pombos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bandeira_de_Pombos_PE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Verônica Bernadete",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2bd4226c746dd817a813d62f58ef998ad526a2e1638674f1eba2414e05c2b046",
+ "rendicoes": {
+  "png": {
+   "bytes": 52046,
+   "sha256": "9a77097a0455c476cab7f92bf9c8d0c05f67546aaeeca48ac28dd1258cb3ad1e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12535,
+   "sha256": "a25ed86cc8d90400c1efdda92aa1d1a1b1c8096fb817a7701d29fd0566b61959",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2611309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2611309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2611309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2611309.jpg",
+  "bytes": 6577,
+  "sha256": "2bd4226c746dd817a813d62f58ef998ad526a2e1638674f1eba2414e05c2b046"
+ },
+ "sha1_origem": "74727b8fef3d4daa27dad7622660809baa74bb26",
+ "bytes_origem": 6577,
+ "capturado_em": "2026-11-08T05:46:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pombos_PE.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "74727b8fef3d4daa27dad7622660809baa74bb26"
+ }
+}

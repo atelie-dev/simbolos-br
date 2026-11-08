@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3505203",
+ "uf": "SP",
+ "municipio": "Bariri",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bandeira_de_Bariri_-_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "879c5946090282785ad53d65a19579bd0d11010f75e41c31c4b462e8f4ef5a07",
+ "rendicoes": {
+  "png": {
+   "bytes": 110062,
+   "sha256": "d2d110cf28ede3b027f955300ca1e32140c133101818c8bbe642e364af69004e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27462,
+   "sha256": "acd103ed4c088a394701f26c96a989933b2f4b691adce44b29a845b3c6163f7f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3505203.jpg",
+  "bytes": 97195,
+  "sha256": "879c5946090282785ad53d65a19579bd0d11010f75e41c31c4b462e8f4ef5a07"
+ },
+ "sha1_origem": "8c2ea82fc9c11197a8510b1aaa35d3990e4efeff",
+ "bytes_origem": 97195,
+ "capturado_em": "2026-11-08T06:24:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bariri_-_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "8c2ea82fc9c11197a8510b1aaa35d3990e4efeff"
+ }
+}

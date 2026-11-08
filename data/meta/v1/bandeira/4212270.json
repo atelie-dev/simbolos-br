@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4212270",
+ "uf": "SC",
+ "municipio": "Passos Maia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bandeira_do_munic%C3%ADpio_de_Passos_Maia_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Passos Maia (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d2b8aaab438ac5a4bd20e99d96cf1c9094f534bf2086095856113cb349ae505c",
+ "rendicoes": {
+  "png": {
+   "bytes": 84141,
+   "sha256": "8fe1f18f83b97cfa6e56ee17c382cfe61e07e82833e227792e2cf5c3b509dce0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32509,
+   "sha256": "9253cc68c6226c3318955345c3dd0191f7a95a69380596cdd8a024adf385ff70",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212270.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212270.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212270.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4212270.png",
+  "bytes": 889681,
+  "sha256": "d2b8aaab438ac5a4bd20e99d96cf1c9094f534bf2086095856113cb349ae505c"
+ },
+ "sha1_origem": "897a7d16fed30b8b832762ec4ae6aa39fd16d086",
+ "bytes_origem": 889681,
+ "capturado_em": "2026-11-08T06:55:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Passos_Maia_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "897a7d16fed30b8b832762ec4ae6aa39fd16d086"
+ }
+}

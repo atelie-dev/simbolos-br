@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4320107",
+ "uf": "RS",
+ "municipio": "Sarandi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Brasao_Sarandi_RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Sarandi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e08fd7239f48dfbe4beb251a39fd129d9ea0c6a1722dfd85fbf20bf279f7eab0",
+ "rendicoes": {
+  "png": {
+   "bytes": 34888,
+   "sha256": "259f3b776ed3b861e2ad929ee4f5889187f104d8e90293356280be3014aa0bf8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8318,
+   "sha256": "6dff6e3829a0ed850e438a21c016fe65ae2113f2443f26c2224e35d3a06694c5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4320107.jpg",
+  "bytes": 24065,
+  "sha256": "e08fd7239f48dfbe4beb251a39fd129d9ea0c6a1722dfd85fbf20bf279f7eab0"
+ },
+ "sha1_origem": "ffee33ae0c44df3fbe2f64684c910a95a40a8b5e",
+ "bytes_origem": 24065,
+ "capturado_em": "2026-11-08T07:10:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Sarandi_RS.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "ffee33ae0c44df3fbe2f64684c910a95a40a8b5e"
+ }
+}

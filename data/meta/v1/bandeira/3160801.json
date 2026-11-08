@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3160801",
+ "uf": "MG",
+ "municipio": "São Bento Abade",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bandeira_do_Munic%C3%ADpio_de_S%C3%A3o_Bento_Abade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camsbapj",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d30d8a3e434865be1963aa04826f6cf8bc2c89cfe40818adb99ef8441c1c7b67",
+ "rendicoes": {
+  "png": {
+   "bytes": 63619,
+   "sha256": "5be5d616d44a746e2965aff6ba144b801203aaa29549e243708de96024481cb8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23805,
+   "sha256": "43d7446b94edc4a1897fd7a76db6cce0e54898e7d072ae5224e0633adc8fce12",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3160801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3160801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3160801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3160801.jpg",
+  "bytes": 203517,
+  "sha256": "d30d8a3e434865be1963aa04826f6cf8bc2c89cfe40818adb99ef8441c1c7b67"
+ },
+ "sha1_origem": "806f20d3645d72f438d0fa3e35914f40a4f25fe8",
+ "bytes_origem": 203517,
+ "capturado_em": "2026-11-08T06:15:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_Município_de_São_Bento_Abade.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "806f20d3645d72f438d0fa3e35914f40a4f25fe8"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1100056",
+ "uf": "RO",
+ "municipio": "Cerejeiras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bras%C3%A3o_de_Cerejeiras_-_RO.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9ea80b37e509a8d27f3f207cc524f0bdac650add7b1dbc9c466dc9e11fc833ab",
+ "rendicoes": {
+  "png": {
+   "bytes": 201809,
+   "sha256": "a1e4d7d6f530033ec1fb5c341d3f5544925257f25076e0136bc4ddb332afb913",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62052,
+   "sha256": "58c1be6d302448629f7a2d3fb3c5b8fabf812ba98dd71b21aa36b729df0a6819",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 596859,
+   "sha256": "9ea80b37e509a8d27f3f207cc524f0bdac650add7b1dbc9c466dc9e11fc833ab"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100056.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100056.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100056.jpg"
+ },
+ "sha1_origem": "d8366ad6d077ea782f68a0bdc956bf1370113417",
+ "bytes_origem": 596859,
+ "capturado_em": "2026-11-08T02:28:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cerejeiras_-_RO.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "d8366ad6d077ea782f68a0bdc956bf1370113417"
+ }
+}

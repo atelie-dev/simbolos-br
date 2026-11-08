@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3539301",
+ "uf": "SP",
+ "municipio": "Pirassununga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Pirassununga_Bandeira.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "e05c6a016fcc5b8f4434302ef066d29f3f47d3029e28a3e7cd11fa5b0167b8ce",
+ "rendicoes": {
+  "png": {
+   "bytes": 19386,
+   "sha256": "b4f0fdc3c8eec6670cf45cd7dbbc82c4a2c11bd6339bdf16aae0fb722de886e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9794,
+   "sha256": "c18dd125b3cb541367dd8539ae2886b8d00797197bd409491bccd4b45a4aa32a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3539301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3539301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3539301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3539301.gif",
+  "bytes": 8140,
+  "sha256": "e05c6a016fcc5b8f4434302ef066d29f3f47d3029e28a3e7cd11fa5b0167b8ce"
+ },
+ "sha1_origem": "8367ca63ef15ebe429732c313ead5450990813e6",
+ "bytes_origem": 8140,
+ "capturado_em": "2026-11-08T06:35:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Pirassununga_Bandeira.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "8367ca63ef15ebe429732c313ead5450990813e6"
+ }
+}

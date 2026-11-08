@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2100055",
+ "uf": "MA",
+ "municipio": "Açailândia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bras%C3%A3o_de_A%C3%A7ail%C3%A2ndia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "IBGE",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8d81dcda8a7cd3824c50ac655976e1e995f298922ae30dac93e69a249fb9f8d7",
+ "rendicoes": {
+  "png": {
+   "bytes": 42205,
+   "sha256": "6c0bf004ff5297cd3fde7b7dbcde50d61524d6dcce95ff5d1a8eec456360e56d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18452,
+   "sha256": "31b36911f765392949fd262c7297432978f550059655218307b11d6fc1e727de",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2100055.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2100055.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2100055.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2100055.png",
+  "bytes": 13269,
+  "sha256": "8d81dcda8a7cd3824c50ac655976e1e995f298922ae30dac93e69a249fb9f8d7"
+ },
+ "sha1_origem": "6737b769f5f704973b6bec58b637cbc148e66323",
+ "bytes_origem": 13269,
+ "capturado_em": "2026-11-08T05:27:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Açailândia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "6737b769f5f704973b6bec58b637cbc148e66323"
+ }
+}

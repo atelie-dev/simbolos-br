@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4213104",
+ "uf": "SC",
+ "municipio": "Piratuba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/1bras%C3%A3o_piratuba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "A apurar",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "34c41838002ebd5ab32c7c5e50dfef7cc7b004fb926e920981de705c526ad73a",
+ "rendicoes": {
+  "png": {
+   "bytes": 313064,
+   "sha256": "c11d425fbde2ff442e93d4935732c2be25d6c10044fe72bf989ab91ae57da06f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 65918,
+   "sha256": "f64c38cf483c533184893bdde3e4c84688351dad8e10c1345d20251bf6c142a7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4213104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4213104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4213104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4213104.jpg",
+  "bytes": 143752,
+  "sha256": "34c41838002ebd5ab32c7c5e50dfef7cc7b004fb926e920981de705c526ad73a"
+ },
+ "sha1_origem": "4dbbe11d4fb9b11025f3010ba16f4c3a3a10e28c",
+ "bytes_origem": 143752,
+ "capturado_em": "2026-11-08T06:55:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:1brasão_piratuba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "4dbbe11d4fb9b11025f3010ba16f4c3a3a10e28c"
+ }
+}

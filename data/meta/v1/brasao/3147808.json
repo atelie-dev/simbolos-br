@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3147808",
+ "uf": "MG",
+ "municipio": "Passa Vinte",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Brasao_passavinte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Passa Vinte",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2feb15289adda112fb51c305d49e12b224600949011e5c5d651565f73c2eefcb",
+ "rendicoes": {
+  "png": {
+   "bytes": 281308,
+   "sha256": "27f6ecd7f7e40e3e1a5e8ed6d59e23cd1fba6a367354cba608428bdcfd53902f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54501,
+   "sha256": "81d5eb4865ab8f91b4a2c83fb2331cfd84b69ca08646584bbe2ae6f1fa97b4b4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3147808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3147808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3147808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3147808.jpg",
+  "bytes": 39082,
+  "sha256": "2feb15289adda112fb51c305d49e12b224600949011e5c5d651565f73c2eefcb"
+ },
+ "sha1_origem": "1ba7310737dce5a3e0e61c95269ef033ff3fac47",
+ "bytes_origem": 39082,
+ "capturado_em": "2026-11-08T06:12:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_passavinte.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "1ba7310737dce5a3e0e61c95269ef033ff3fac47"
+ }
+}

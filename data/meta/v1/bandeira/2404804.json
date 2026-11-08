@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2404804",
+ "uf": "RN",
+ "municipio": "Ipueira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bandeira_Ipueira.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Confederação Nacional de Municípios",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "44e36727d127abdea64ba5b6862fc74a4a4f3c6c141351752b2b1401c0ff24b7",
+ "rendicoes": {
+  "png": {
+   "bytes": 13674,
+   "sha256": "dfc53e124b4d22bad3ea4c668ecdd4ba9538646b127fa6264fa5ceaf3cd72eb2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5350,
+   "sha256": "8c7ca53516dc3af4a509fa233878ca94e249d84afe5fc2562164c472515dd731",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2404804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2404804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2404804.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2404804.jpg",
+  "bytes": 3303,
+  "sha256": "44e36727d127abdea64ba5b6862fc74a4a4f3c6c141351752b2b1401c0ff24b7"
+ },
+ "sha1_origem": "251b141b2b201cb0406dd290260a89eac132b45c",
+ "bytes_origem": 3303,
+ "capturado_em": "2026-11-08T05:36:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Ipueira.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "251b141b2b201cb0406dd290260a89eac132b45c"
+ }
+}

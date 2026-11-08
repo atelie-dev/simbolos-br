@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3111200",
+ "uf": "MG",
+ "municipio": "Campo Belo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Campo_Belo_-_Coat_of_Arms.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pcgomes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d6504ad0b0a7bd56ff9a65cbe859df110a81c4a6ef1eb93b5e7efce251a98af9",
+ "rendicoes": {
+  "png": {
+   "bytes": 69544,
+   "sha256": "4563402d561201b23ea8521e04fca61a0821483200e7a103badb7673c590fd68",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23142,
+   "sha256": "4aa94c14b1a32372a6340c2419c4b3d398f6a77fa08b8e4b5aaf90465c8edf6d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3111200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3111200.png",
+  "bytes": 69813,
+  "sha256": "d6504ad0b0a7bd56ff9a65cbe859df110a81c4a6ef1eb93b5e7efce251a98af9"
+ },
+ "sha1_origem": "c3a9300fa1497df161af1dc914a2465bf6330505",
+ "bytes_origem": 69813,
+ "capturado_em": "2026-11-08T06:02:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Campo_Belo_-_Coat_of_Arms.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "c3a9300fa1497df161af1dc914a2465bf6330505"
+ }
+}

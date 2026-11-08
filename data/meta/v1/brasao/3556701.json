@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3556701",
+ "uf": "SP",
+ "municipio": "Vinhedo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bras%C3%A3o_de_Vinhedo_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9eaa478b56dd629e220c5e3286e731d8d8f1281615804b7141eba71f7d6903f8",
+ "rendicoes": {
+  "png": {
+   "bytes": 191139,
+   "sha256": "5ad250519fea7d380a54b48edba18e6ddebd8420662d486b9420b1d5d3666c69",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 65477,
+   "sha256": "da60e634b7216b346ee3c019cd3fd6883347eb4037ba593d0ea6c348540dc7ef",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 475719,
+   "sha256": "9eaa478b56dd629e220c5e3286e731d8d8f1281615804b7141eba71f7d6903f8"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556701.jpg"
+ },
+ "sha1_origem": "8a0207dd8c220d5b946dd7670749b52fee78366e",
+ "bytes_origem": 475719,
+ "capturado_em": "2026-11-08T04:19:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Vinhedo_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "8a0207dd8c220d5b946dd7670749b52fee78366e"
+ }
+}

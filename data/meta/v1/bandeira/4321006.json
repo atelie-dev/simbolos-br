@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321006",
+ "uf": "RS",
+ "municipio": "Tapera",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bandeiratapera.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Osmaludo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f907994dbf4110e385a9fb12d201ddc3bb3d36c15cbf05a383f857301c7a7c8f",
+ "rendicoes": {
+  "png": {
+   "bytes": 76371,
+   "sha256": "3ae887de2b0725b125c6d386bc35109a8e50c9ac45f078d015115480e96b68a9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22455,
+   "sha256": "091638eef9d478f13acd25e94c7146209ac736c7c63c0f77a9e5fa2d3f9c053d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4321006.png",
+  "bytes": 2655431,
+  "sha256": "f907994dbf4110e385a9fb12d201ddc3bb3d36c15cbf05a383f857301c7a7c8f"
+ },
+ "sha1_origem": "741f6191169e20fc3431b998bbe7fc925406811c",
+ "bytes_origem": 2655431,
+ "capturado_em": "2026-11-08T07:10:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiratapera.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "741f6191169e20fc3431b998bbe7fc925406811c"
+ }
+}

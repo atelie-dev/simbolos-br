@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3543501",
+ "uf": "SP",
+ "municipio": "Riversul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Bras%C3%A3o_Riversul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "faca12e91faf2201033b858e610ad08605dbe4828029d55c45c949f5152e5819",
+ "rendicoes": {
+  "png": {
+   "bytes": 454042,
+   "sha256": "aeeb4514bb059080e03d4197985ba5b5f08b52d9a790f0917ca6f8b56d2a9fb5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 84500,
+   "sha256": "65382cc8082b9880c09d7bad4b28d14b42e3b45c36bb6112cd457099fb2fa1f4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3543501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3543501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3543501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3543501.jpg",
+  "bytes": 80018,
+  "sha256": "faca12e91faf2201033b858e610ad08605dbe4828029d55c45c949f5152e5819"
+ },
+ "sha1_origem": "2bb8fff1ecba1e2532a06e8a4ef609fc0c650d90",
+ "bytes_origem": 80018,
+ "capturado_em": "2026-11-08T06:36:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Riversul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:53Z",
+  "estado": "igual",
+  "sha1_commons": "2bb8fff1ecba1e2532a06e8a4ef609fc0c650d90"
+ }
+}

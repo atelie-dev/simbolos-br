@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4217303",
+ "uf": "SC",
+ "municipio": "Saudades",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Brasao_saudades.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2affdeb7b7de837a53f2b8fb0c8792ab95ca5d315d80bcfa2c6199bac4a571a1",
+ "rendicoes": {
+  "png": {
+   "bytes": 48110,
+   "sha256": "ef9b751289d4d2f6a0feafa63cdb5f9294b456a07b4e54ef37e1178d968901a1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11854,
+   "sha256": "9397e5781da0c148d94d806cb8e71134a19d11ffba4678552ac6c7fb926eb404",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4217303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4217303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4217303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4217303.jpg",
+  "bytes": 8456,
+  "sha256": "2affdeb7b7de837a53f2b8fb0c8792ab95ca5d315d80bcfa2c6199bac4a571a1"
+ },
+ "sha1_origem": "93e833fafa408499430ea537116a60705a5d43af",
+ "bytes_origem": 8456,
+ "capturado_em": "2026-11-08T06:57:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_saudades.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "93e833fafa408499430ea537116a60705a5d43af"
+ }
+}

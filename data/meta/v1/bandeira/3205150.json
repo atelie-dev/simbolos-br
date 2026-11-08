@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3205150",
+ "uf": "ES",
+ "municipio": "Vila Pavão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bandeira_vila_pavao.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ronaldo Furtado de Oliveira",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1f24551dc00a095b8ab1a694f8130457015ac3a7c7302fec1c3d5c33ba65316a",
+ "rendicoes": {
+  "png": {
+   "bytes": 56032,
+   "sha256": "a6c7f492f7eac239d299feddef72ec8af6d97cbdd47a0ca5c77d871b43fff59c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24262,
+   "sha256": "a4cc58cac0a2399ac6f408fb5be6ed1c29f0e148571496edaab084e43a9949c9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 16141,
+   "sha256": "1f24551dc00a095b8ab1a694f8130457015ac3a7c7302fec1c3d5c33ba65316a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3205150.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3205150.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3205150.jpg"
+ },
+ "sha1_origem": "cb04ff183b8862ae6a7ccdbd5b123a1fa6e2af83",
+ "bytes_origem": 16141,
+ "capturado_em": "2026-11-08T03:53:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_vila_pavao.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "cb04ff183b8862ae6a7ccdbd5b123a1fa6e2af83"
+ }
+}

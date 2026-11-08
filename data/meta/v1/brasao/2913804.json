@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2913804",
+ "uf": "BA",
+ "municipio": "Ipecaetá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bras%C3%A3o_de_Ipecaet%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ipecaetá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "596aba323f69e53c225da5f8f41c594a76eeee5547426564d0a5b1f95e8da3b1",
+ "rendicoes": {
+  "png": {
+   "bytes": 124907,
+   "sha256": "a1a945dabe46d69dcc5bd5bf0cd84fd8ab4877425d5d703308d23176faff918b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25346,
+   "sha256": "e98653bb9c5c8745cc6786f23a865784dca0e50280299ef3b286935f204b9c03",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2913804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2913804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2913804.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2913804.jpg",
+  "bytes": 19766,
+  "sha256": "596aba323f69e53c225da5f8f41c594a76eeee5547426564d0a5b1f95e8da3b1"
+ },
+ "sha1_origem": "96f3bf2b24857444707b226906b236fe97865943",
+ "bytes_origem": 19766,
+ "capturado_em": "2026-11-08T05:53:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Ipecaetá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "96f3bf2b24857444707b226906b236fe97865943"
+ }
+}

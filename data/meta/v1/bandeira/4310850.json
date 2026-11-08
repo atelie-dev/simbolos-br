@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4310850",
+ "uf": "RS",
+ "municipio": "Jaboticaba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bandeira_Jaboticaba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Jaboticaba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a1c3bc357881f3e563e36d78c911346810ead9b82c0a96565817f892a25b441a",
+ "rendicoes": {
+  "png": {
+   "bytes": 61508,
+   "sha256": "7f9fdcaee9d2260aa2da806358aa27423f32942b25813169101fdfe6000bf780",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19631,
+   "sha256": "c1a1992dd5108f0f5acac9b7fab9592db989115dcce04a9d823f71fd6f38a574",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310850.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310850.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310850.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4310850.jpg",
+  "bytes": 55007,
+  "sha256": "a1c3bc357881f3e563e36d78c911346810ead9b82c0a96565817f892a25b441a"
+ },
+ "sha1_origem": "62eeab1aa7ddb5592551440d126ca4369e9ba8c1",
+ "bytes_origem": 55007,
+ "capturado_em": "2026-11-08T07:04:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Jaboticaba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "62eeab1aa7ddb5592551440d126ca4369e9ba8c1"
+ }
+}

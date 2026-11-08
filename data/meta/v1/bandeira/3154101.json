@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3154101",
+ "uf": "MG",
+ "municipio": "Recreio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bandeira_de_Recreio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Recreio",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a2f7626ade32c1e15e04166d8410744ea66054e8c50b70bfa053cfa1f71a2670",
+ "rendicoes": {
+  "png": {
+   "bytes": 30170,
+   "sha256": "6df5da0be7cec57a661468264119a2df301b7ba8fc6374162a33ae0f5b956983",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7817,
+   "sha256": "726e73e7c8c50403cd2e07db4fb63beae58d79792e5648304ef68094e50263ab",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3154101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3154101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3154101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3154101.jpg",
+  "bytes": 6904,
+  "sha256": "a2f7626ade32c1e15e04166d8410744ea66054e8c50b70bfa053cfa1f71a2670"
+ },
+ "sha1_origem": "1df8bb48b1ea2ca69cd55efd903a443ae92b3ed4",
+ "bytes_origem": 6904,
+ "capturado_em": "2026-11-08T06:14:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Recreio.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "1df8bb48b1ea2ca69cd55efd903a443ae92b3ed4"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3549805",
+ "uf": "SP",
+ "municipio": "São José do Rio Preto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Flag_of_S%C3%A3o_Jos%C3%A9_do_Rio_Preto_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HVL",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "eb27a18bfdf3d0692edf160d453a899860e57565c29a6ef25cc793a850aa9906",
+ "rendicoes": {
+  "png": {
+   "bytes": 44316,
+   "sha256": "94bc644385cd04f9c3ed3b3500f37c98a33148deac197f99ed1b542ed19eaa11",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22330,
+   "sha256": "a37ab155a9e6743354611fe6c707de3630ee5140fdc364dc1d0f53d190a20d34",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3549805.png",
+  "bytes": 233622,
+  "sha256": "eb27a18bfdf3d0692edf160d453a899860e57565c29a6ef25cc793a850aa9906"
+ },
+ "sha1_origem": "440cb4fe5b68d5c89019ff313cb6c562fa0e44f6",
+ "bytes_origem": 233622,
+ "capturado_em": "2026-11-08T06:38:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_São_José_do_Rio_Preto_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "440cb4fe5b68d5c89019ff313cb6c562fa0e44f6"
+ }
+}

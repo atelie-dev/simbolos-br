@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3300100",
+ "uf": "RJ",
+ "municipio": "Angra dos Reis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bandeira_de_Angra_dos_Reis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "94fd1a3e5af3186f3e47b03ff60ed6ab1f0fe13b6d9b052dab91501b29ad64d5",
+ "rendicoes": {
+  "png": {
+   "bytes": 93349,
+   "sha256": "4d487c0a4f59bf04a918702db8911120473f7a459465bf46bef96b73807a35b0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29838,
+   "sha256": "86eea350e62f966c8111ea9c7b8792cb173fa098f726366efd1b692982f16c77",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3300100.png",
+  "bytes": 195912,
+  "sha256": "94fd1a3e5af3186f3e47b03ff60ed6ab1f0fe13b6d9b052dab91501b29ad64d5"
+ },
+ "sha1_origem": "c1d12f5051a03f55a5d65481e83ff0b2cd30b9ea",
+ "bytes_origem": 195912,
+ "capturado_em": "2026-11-08T06:20:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Angra_dos_Reis.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "c1d12f5051a03f55a5d65481e83ff0b2cd30b9ea"
+ }
+}

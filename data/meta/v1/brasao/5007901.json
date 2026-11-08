@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5007901",
+ "uf": "MS",
+ "municipio": "Sidrolândia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bras%C3%A3o_de_Sidrol%C3%A2ndia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://www.sidrolandia.ms.gov.br/",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6cf7c8f8dc11f6619e5cb42e32c755b2fdfb647a2444c5fd6d71fbfec7908a9e",
+ "rendicoes": {
+  "png": {
+   "bytes": 76300,
+   "sha256": "aa1d0e53fe6fc9580a4a8008bfae78707a0bf452117871ca003e5c31f908d332",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17542,
+   "sha256": "f99bdc7e261edc573e97a7534148b78c2b3a54e315c04c7f12bc8a27c118f612",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5007901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5007901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5007901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5007901.jpg",
+  "bytes": 13363,
+  "sha256": "6cf7c8f8dc11f6619e5cb42e32c755b2fdfb647a2444c5fd6d71fbfec7908a9e"
+ },
+ "sha1_origem": "be5c5d0adf981f0d3a5f547aa2543eb703af9e76",
+ "bytes_origem": 13363,
+ "capturado_em": "2026-11-08T07:13:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Sidrolândia.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "be5c5d0adf981f0d3a5f547aa2543eb703af9e76"
+ }
+}

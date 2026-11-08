@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4101150",
+ "uf": "PR",
+ "municipio": "Ângulo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bras%C3%A3o_%C3%82ngulo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a48f1f5590c6e689cb0e58a8749ae9a24af59b4f1b7320644d578a96ac547d13",
+ "rendicoes": {
+  "png": {
+   "bytes": 40907,
+   "sha256": "3365433025688ca88a134a85a52d121cbb30cfb6730f083284d5ff03ec0502ab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10146,
+   "sha256": "b6c96924bb1fae8ab5bdb836ad036d8fb2eaa392d39f82eebf1b53955c38ca36",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101150.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101150.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101150.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4101150.jpg",
+  "bytes": 10196,
+  "sha256": "a48f1f5590c6e689cb0e58a8749ae9a24af59b4f1b7320644d578a96ac547d13"
+ },
+ "sha1_origem": "45192f58d88636dd22654f03cc22650a81b9d1bb",
+ "bytes_origem": 10196,
+ "capturado_em": "2026-11-08T06:41:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Ângulo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "45192f58d88636dd22654f03cc22650a81b9d1bb"
+ }
+}

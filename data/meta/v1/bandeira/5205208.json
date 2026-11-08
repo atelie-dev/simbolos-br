@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5205208",
+ "uf": "GO",
+ "municipio": "Caturaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bandeira-de-Catura%C3%AD-GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Henrique de Castro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2a06e95ee49c88c11c24ebf2c9081ddded3435144d80cbfe1ac4ac55764dc0cc",
+ "rendicoes": {
+  "png": {
+   "bytes": 78625,
+   "sha256": "7ff41a106f99444e521a9b573bd87caaf5aa0a20dc9eeb282985a6d23a4e4035",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24562,
+   "sha256": "e3f08f43c6070e792ffa61c199b871b7694710ddc2762596971100fd55e0a206",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5205208.jpg",
+  "bytes": 100493,
+  "sha256": "2a06e95ee49c88c11c24ebf2c9081ddded3435144d80cbfe1ac4ac55764dc0cc"
+ },
+ "sha1_origem": "345f088e35a4a74421d1fc3b622a718123bd3323",
+ "bytes_origem": 100493,
+ "capturado_em": "2026-11-08T07:17:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-de-Caturaí-GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "345f088e35a4a74421d1fc3b622a718123bd3323"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2105427",
+ "uf": "MA",
+ "municipio": "Itinga do Maranhão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bras%C3%A3oItinga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Rui Fernandes da Costa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2dda108672421a7a527f166285941219d4bb3e3cd47ca70677d3d314d148133e",
+ "rendicoes": {
+  "png": {
+   "bytes": 145388,
+   "sha256": "114a09ebc209a35ad5199792dbf754a865f2d4c40a4963481cb2173c4925e159",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26456,
+   "sha256": "6ec914fbae393535a10191026ed2ef50c071cb80aacf65f493e35d42eca96197",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2105427.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2105427.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2105427.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2105427.jpg",
+  "bytes": 49903,
+  "sha256": "2dda108672421a7a527f166285941219d4bb3e3cd47ca70677d3d314d148133e"
+ },
+ "sha1_origem": "08d18aab6bcf459254cdd86063a72f731b998e82",
+ "bytes_origem": 49903,
+ "capturado_em": "2026-11-08T05:28:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasãoItinga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "08d18aab6bcf459254cdd86063a72f731b998e82"
+ }
+}

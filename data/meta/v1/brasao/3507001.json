@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3507001",
+ "uf": "SP",
+ "municipio": "Boituva",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bras%C3%A3o_de_Boituva_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "96a25c99965d87d419a9ae3f307cb0ff755f717018e58c8cb2781418ae11e114",
+ "rendicoes": {
+  "png": {
+   "bytes": 196712,
+   "sha256": "9aae5383b3588bc57a1e5435789d77020e2dfa3096620725ab40587ba5f59d90",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67208,
+   "sha256": "2a4c9f79f6d74571a79c77c0909252b161be039b86bb03803c822710c4d690ac",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 364634,
+   "sha256": "96a25c99965d87d419a9ae3f307cb0ff755f717018e58c8cb2781418ae11e114"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507001.jpg"
+ },
+ "sha1_origem": "1515f1af6bab260f96bcc548758f80804afc447c",
+ "bytes_origem": 364634,
+ "capturado_em": "2026-11-08T03:59:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Boituva_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "1515f1af6bab260f96bcc548758f80804afc447c"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3512100",
+ "uf": "SP",
+ "municipio": "Colômbia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bandeira_Col%C3%B4mbia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "df49fce6cc5351fc507291793b9db73570383d1b4b05f9af6e3fda07055d4dd9",
+ "rendicoes": {
+  "png": {
+   "bytes": 13351,
+   "sha256": "a2105b76ad08768aa3f6267ae55a689dd15702ba6c0de52952b6454a3ac6e5d1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21316,
+   "sha256": "2bdc8da3c2b5b89a387bae673d11100c361af8c5248c78b5553531fe07917f5d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3512100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3512100.png",
+  "bytes": 10612,
+  "sha256": "df49fce6cc5351fc507291793b9db73570383d1b4b05f9af6e3fda07055d4dd9"
+ },
+ "sha1_origem": "6aecd936ea45839b71d0dd50bc19285739c0165a",
+ "bytes_origem": 10612,
+ "capturado_em": "2026-11-08T06:26:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Colômbia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "6aecd936ea45839b71d0dd50bc19285739c0165a"
+ }
+}

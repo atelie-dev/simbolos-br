@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3306305",
+ "uf": "RJ",
+ "municipio": "Volta Redonda",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bras%C3%A3o_de_Volta_Redonda_-_RJ.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Volta Redonda",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "946d28ff2b04bec74cfab24546295c27191eefca22add3d53f76c331c25734a2",
+ "rendicoes": {
+  "png": {
+   "bytes": 218983,
+   "sha256": "cb91b285cbe709e1d10a4deed1367fdc73b223a0a05d189592ddf9680435f2fa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 68674,
+   "sha256": "4f82938e2a4f2dcfe5a6e85d3534e39d148acb38d29ba89a533135bd3bbcdd66",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 109911,
+   "sha256": "946d28ff2b04bec74cfab24546295c27191eefca22add3d53f76c331c25734a2"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3306305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3306305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3306305.jpg"
+ },
+ "sha1_origem": "f438036a3940af5ae3eceda02213f4a40fa3b074",
+ "bytes_origem": 109911,
+ "capturado_em": "2026-11-08T03:56:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Volta_Redonda_-_RJ.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "f438036a3940af5ae3eceda02213f4a40fa3b074"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2801009",
+ "uf": "SE",
+ "municipio": "Campo do Brito",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bandeira_campodobrito.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal Campo do Brito",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5f234133eac20a3c570dd79bf12e2c20af508dc7193b881ae412822b16248979",
+ "rendicoes": {
+  "png": {
+   "bytes": 38479,
+   "sha256": "337fcc5efa92f4a372f2d8ff2531e574b403cdd44a1052e465a1eedd1c849407",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18825,
+   "sha256": "0712553fb65eec91e96971445f7561821d33e701c5ba46aa0d708010ecfa0202",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 33965,
+   "sha256": "5f234133eac20a3c570dd79bf12e2c20af508dc7193b881ae412822b16248979"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2801009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2801009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2801009.jpg"
+ },
+ "sha1_origem": "6af44d7b01bde0315684728151dda78c812383b9",
+ "bytes_origem": 33965,
+ "capturado_em": "2026-11-08T03:11:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_campodobrito.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "6af44d7b01bde0315684728151dda78c812383b9"
+ }
+}

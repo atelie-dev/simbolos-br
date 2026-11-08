@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2904050",
+ "uf": "BA",
+ "municipio": "Bonito",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bras%C3%A3o_de_Bonito_BA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Bonito BA",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f160e342da4c969d637c29af38355574c69c16e05743de6abee3f10dc2864f12",
+ "rendicoes": {
+  "png": {
+   "bytes": 95805,
+   "sha256": "d41f4f698607112974a32dc1e66bfa1740be13a8861c876ea972e7e370ebd83f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19126,
+   "sha256": "d215b379c26ce063a83824de77e5f0f87ebb015a85665ac1dc157ef5f60dbd9d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2904050.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2904050.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2904050.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2904050.png",
+  "bytes": 82273,
+  "sha256": "f160e342da4c969d637c29af38355574c69c16e05743de6abee3f10dc2864f12"
+ },
+ "sha1_origem": "b18e958b438a854d48053cb685d0599e2e6285cb",
+ "bytes_origem": 82273,
+ "capturado_em": "2026-11-08T05:51:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Bonito_BA.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "b18e958b438a854d48053cb685d0599e2e6285cb"
+ }
+}

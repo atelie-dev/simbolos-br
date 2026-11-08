@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2208304",
+ "uf": "PI",
+ "municipio": "Piracuruca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bandeira_piracuruca_pi.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "vectorization by Anzee",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "fb43afd2568dd35f9c10b2ee6f84f39d77d7c259d310033a3835e930bcc59931",
+ "rendicoes": {
+  "png": {
+   "bytes": 31100,
+   "sha256": "c6908687787415dd489746904a8c91a42f37a14aa065817a02fac84592bf527c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21458,
+   "sha256": "0660eca469953261709bd9d5fac8ddbb2883d9da25e8b2f1596a1dda9534e680",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 553,
+   "sha256": "fb43afd2568dd35f9c10b2ee6f84f39d77d7c259d310033a3835e930bcc59931"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2208304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2208304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2208304.jpg"
+ },
+ "sha1_origem": "8d96fdba0dec657fbf421d9c6afa2290434c6f7f",
+ "bytes_origem": 553,
+ "capturado_em": "2026-11-08T02:43:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_piracuruca_pi.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "8d96fdba0dec657fbf421d9c6afa2290434c6f7f"
+ }
+}

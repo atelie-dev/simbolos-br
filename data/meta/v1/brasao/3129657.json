@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3129657",
+ "uf": "MG",
+ "municipio": "Ibiracatu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Ibiracatumgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ibiracatu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0c07930f39e8ea4fb0b7975380b11c9f0da96bba300e07adae6aebbba569661c",
+ "rendicoes": {
+  "png": {
+   "bytes": 77301,
+   "sha256": "5dde54133ccfae3c7a9f49551215197b5fd872cb88814eeeeb30b4ac6fc66c09",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15921,
+   "sha256": "17bcf7d00b08e8a060a9ae79e883b023328dae95151de9d48f14f6d57ea659cf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129657.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129657.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3129657.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3129657.jpg",
+  "bytes": 8898,
+  "sha256": "0c07930f39e8ea4fb0b7975380b11c9f0da96bba300e07adae6aebbba569661c"
+ },
+ "sha1_origem": "f0645600b314a5d569aab33d0490dd8ec51cc082",
+ "bytes_origem": 8898,
+ "capturado_em": "2026-11-08T06:08:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ibiracatumgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "f0645600b314a5d569aab33d0490dd8ec51cc082"
+ }
+}

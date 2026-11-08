@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4108205",
+ "uf": "PR",
+ "municipio": "Formosa do Oeste",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bandeira_de_Formosa_do_Oeste%2C_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "FelipeRM2008",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "e7e94aedc97e49bc6f17622283edff472637a8822872aa96faa953e449a858f9",
+ "rendicoes": {
+  "png": {
+   "bytes": 40329,
+   "sha256": "47e71b4031123dfaf7165f17a0beef9c790ae04a5c7d90b1702c434a2d4cdc9e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16815,
+   "sha256": "60859f33e09067ff771e362ba73b4751d8c2de77067f89456bbd98db65316267",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 258547,
+   "sha256": "e7e94aedc97e49bc6f17622283edff472637a8822872aa96faa953e449a858f9"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4108205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4108205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4108205.jpg"
+ },
+ "sha1_origem": "f13ca4135331fcb672927e5301e7fd7878dbdff1",
+ "bytes_origem": 258547,
+ "capturado_em": "2026-11-08T04:24:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Formosa_do_Oeste,_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "f13ca4135331fcb672927e5301e7fd7878dbdff1"
+ }
+}

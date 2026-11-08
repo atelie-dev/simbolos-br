@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3147204",
+ "uf": "MG",
+ "municipio": "Paraguaçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandeira_Paragua%C3%A7u%2C_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Yelo Evany Prado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "50c4ca6e501e625dfc157f516e99979975b5e9056eae8ae47cfadb774b1d9dce",
+ "rendicoes": {
+  "png": {
+   "bytes": 65009,
+   "sha256": "7fd9b73629c1dcb59d410b737f413d27046bb512c133f72322630f708e80e3f7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14363,
+   "sha256": "572a22e59e4d22d004fe956ef70e3a05899620e69ec5d4763f584bacf1979c01",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3147204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3147204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3147204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3147204.jpg",
+  "bytes": 9746,
+  "sha256": "50c4ca6e501e625dfc157f516e99979975b5e9056eae8ae47cfadb774b1d9dce"
+ },
+ "sha1_origem": "597f2b54096a7d9e349305f84fe90d8693c65015",
+ "bytes_origem": 9746,
+ "capturado_em": "2026-11-08T06:12:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Paraguaçu,_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "597f2b54096a7d9e349305f84fe90d8693c65015"
+ }
+}

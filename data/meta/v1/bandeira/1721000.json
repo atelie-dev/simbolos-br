@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1721000",
+ "uf": "TO",
+ "municipio": "Palmas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bandeira_de_Palmas.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work.",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "86f73f1310a34ab32b7bb05ed85624c1315bf07553cbd4ec9224c7ab1af00c7d",
+ "rendicoes": {
+  "png": {
+   "bytes": 12256,
+   "sha256": "813bdb39a083eca5271ae9463225a54f07a866d5b12d6381ecd329a6fd349dd5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11390,
+   "sha256": "8b3b28e99e55a5d7552bf0df16573b3a02476b07fb3bbbc5341900a349740236",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1497,
+   "sha256": "86f73f1310a34ab32b7bb05ed85624c1315bf07553cbd4ec9224c7ab1af00c7d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1721000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1721000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1721000.jpg"
+ },
+ "sha1_origem": "38be4a0563269ac5a3d07b548af1982cfea37faf",
+ "bytes_origem": 1497,
+ "capturado_em": "2026-11-08T02:36:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Palmas.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "38be4a0563269ac5a3d07b548af1982cfea37faf"
+ }
+}

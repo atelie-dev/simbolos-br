@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2509701",
+ "uf": "PB",
+ "municipio": "Monteiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bandeira_monteiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Monteiro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "279eae96867ff1fc4f4f79621db51b9b908c3591edb9027a8e72882a644518a6",
+ "rendicoes": {
+  "png": {
+   "bytes": 38977,
+   "sha256": "ca842dc607bbd2816109bdcb37756ee9949e7c3a45c0939551d49e858d73b106",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12288,
+   "sha256": "1e473565676413ce9fb59c1356eb5d63559127fd22c4a8234dcb67612da8f337",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2509701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2509701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2509701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2509701.jpg",
+  "bytes": 10257,
+  "sha256": "279eae96867ff1fc4f4f79621db51b9b908c3591edb9027a8e72882a644518a6"
+ },
+ "sha1_origem": "ca70ab776b0c1da96c457e22d659839e4d0c7c0c",
+ "bytes_origem": 10257,
+ "capturado_em": "2026-11-08T05:42:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_monteiro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "ca70ab776b0c1da96c457e22d659839e4d0c7c0c"
+ }
+}

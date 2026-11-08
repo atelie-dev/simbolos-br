@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4102208",
+ "uf": "PR",
+ "municipio": "Atalaia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bras%C3%A3o_de_Atalaia%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8e17569e3d7b5504aec960e46238221a346ba810393271b54738794865b27ed8",
+ "rendicoes": {
+  "png": {
+   "bytes": 25527,
+   "sha256": "96258df65e585e48d6bd1b992235b983e4cca31e14a7d9a62e9fb629bf04c167",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6991,
+   "sha256": "3baba09fc861d57e3e363ed22d0daf95f2f82368350862d0bf5b38fd676963fe",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4102208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4102208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4102208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4102208.jpg",
+  "bytes": 6084,
+  "sha256": "8e17569e3d7b5504aec960e46238221a346ba810393271b54738794865b27ed8"
+ },
+ "sha1_origem": "88e34c91cc7a10755cd9dd8e655a1d9b8ffeabd2",
+ "bytes_origem": 6084,
+ "capturado_em": "2026-11-08T06:41:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Atalaia,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "88e34c91cc7a10755cd9dd8e655a1d9b8ffeabd2"
+ }
+}

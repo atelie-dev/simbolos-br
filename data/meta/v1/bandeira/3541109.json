@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3541109",
+ "uf": "SP",
+ "municipio": "Presidente Alves",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Flag_of_Presidente_Alves_-_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "936d2229999a7ac09dbd004e39ac72ee064f59be319b722aeffba425c34dcda0",
+ "rendicoes": {
+  "png": {
+   "bytes": 60122,
+   "sha256": "a43412cdae78fe2f5daad8f0ba3c211b6fae9ca0cb09a347cf0fb857bd43624b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21752,
+   "sha256": "3f06b0edf11de2a1b87237abc4e0297a02665eb5a2601d46ff19b0e3f7edbdd1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3541109.png",
+  "bytes": 81979,
+  "sha256": "936d2229999a7ac09dbd004e39ac72ee064f59be319b722aeffba425c34dcda0"
+ },
+ "sha1_origem": "58f5618f9a1834ef348f938e35bd2437f556c9ba",
+ "bytes_origem": 81979,
+ "capturado_em": "2026-11-08T06:35:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Presidente_Alves_-_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "58f5618f9a1834ef348f938e35bd2437f556c9ba"
+ }
+}

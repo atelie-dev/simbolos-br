@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4112108",
+ "uf": "PR",
+ "municipio": "Jandaia do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bandeira_de_Jandaia_do_Sul.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Strong.wind",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d1e5e5cd7a3e344ff2d3d813cb19d792235c189ed8798304a0fe1fe69ecd7c5a",
+ "rendicoes": {
+  "png": {
+   "bytes": 10603,
+   "sha256": "62f0ecc1124b37a1a4b3d405f2230393b2b65523cdf0a706711cf88ec309c567",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23371,
+   "sha256": "ebfed5185283e04a8921c791b5cd075f88f16de42c4153f615dd46b0023569ee",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4112108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4112108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4112108.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4112108.png",
+  "bytes": 7029,
+  "sha256": "d1e5e5cd7a3e344ff2d3d813cb19d792235c189ed8798304a0fe1fe69ecd7c5a"
+ },
+ "sha1_origem": "c4ec341bccb45c210eefc781b440ac8fc8b89957",
+ "bytes_origem": 7029,
+ "capturado_em": "2026-11-08T06:45:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Jandaia_do_Sul.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "c4ec341bccb45c210eefc781b440ac8fc8b89957"
+ }
+}

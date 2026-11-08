@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3300209",
+ "uf": "RJ",
+ "municipio": "Araruama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bandeira-araruama.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "57be49a83aefb4b6f0a0453a4f622b363d717d286b8e5f25b79f6fde029d6734",
+ "rendicoes": {
+  "png": {
+   "bytes": 8441,
+   "sha256": "5e287175c9b0fa6f6e8b8c842e3bea00b8cd24372b81e1768dda7393e236c59e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7634,
+   "sha256": "ecefb72dd1346007b8979f03ee345e44f8f0673be98c636751f73d21388fefdd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3300209.png",
+  "bytes": 4029,
+  "sha256": "57be49a83aefb4b6f0a0453a4f622b363d717d286b8e5f25b79f6fde029d6734"
+ },
+ "sha1_origem": "a0e2871e099ec18c064dd826e7166eb45669833f",
+ "bytes_origem": 4029,
+ "capturado_em": "2026-11-08T06:20:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-araruama.png",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "a0e2871e099ec18c064dd826e7166eb45669833f"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3506003",
+ "uf": "SP",
+ "municipio": "Bauru",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bandeira_de_Bauru_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "807b18bce7ecf7d4af2937b3ca93e824cfeb5290a38e4212669d376cc9eb7180",
+ "rendicoes": {
+  "png": {
+   "bytes": 68044,
+   "sha256": "629e0c11b01eb49b3cd836e8088ee6fce6f12ba4507f9607bd2bb917b5643e33",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27861,
+   "sha256": "ecb02604d3896c271125ede415625bc26ae4ae0d363dad260ae0967cb465f147",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 470056,
+   "sha256": "807b18bce7ecf7d4af2937b3ca93e824cfeb5290a38e4212669d376cc9eb7180"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506003.jpg"
+ },
+ "sha1_origem": "4da590f6f20721faa35c357ebc23c19e6269186a",
+ "bytes_origem": 470056,
+ "capturado_em": "2026-11-08T03:58:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bauru_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "4da590f6f20721faa35c357ebc23c19e6269186a"
+ }
+}

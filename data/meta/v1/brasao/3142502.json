@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3142502",
+ "uf": "MG",
+ "municipio": "Monjolos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bras%C3%A3o_de_Monjolos%2C_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Edimar Nunes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4667c498462153e8d36288daf1e4e081102740cd4e7445dbf457198b9d2189ee",
+ "rendicoes": {
+  "png": {
+   "bytes": 27618,
+   "sha256": "3f0a0ce96cc6924e4ed29e634c8ac001013aed275a4d808e5eafaf0acbc6ad61",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7105,
+   "sha256": "9aa3b50f3fdf57aa266dd53502ab74d9facfac728d0cacaa4173e4f15a45f8bf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3142502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3142502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3142502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3142502.jpg",
+  "bytes": 11838,
+  "sha256": "4667c498462153e8d36288daf1e4e081102740cd4e7445dbf457198b9d2189ee"
+ },
+ "sha1_origem": "162b7ff82b206a060819d4d6fb3857e756d69112",
+ "bytes_origem": 11838,
+ "capturado_em": "2026-11-08T06:11:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Monjolos,_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "162b7ff82b206a060819d4d6fb3857e756d69112"
+ }
+}

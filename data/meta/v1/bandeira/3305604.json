@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3305604",
+ "uf": "RJ",
+ "municipio": "Silva Jardim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/SilvaJardim.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Silva Jardim",
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "041d07917443b3e025f98f73d3cda330a17e040e0ac770c47bbfa6518d542d89",
+ "rendicoes": {
+  "png": {
+   "bytes": 46204,
+   "sha256": "ab4e27fe8e6b87c284b4fa52b206dadf0918b7132ed26b3be323d32ee5550c36",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13956,
+   "sha256": "0ceebe726054f68401709baf7db3e9be7876df10d63c8033897a830a1c3eae2a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305604.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3305604.gif",
+  "bytes": 17782,
+  "sha256": "041d07917443b3e025f98f73d3cda330a17e040e0ac770c47bbfa6518d542d89"
+ },
+ "sha1_origem": "b9a0fa12c8c5279bec800f5960ce3a8bf2300fa2",
+ "bytes_origem": 17782,
+ "capturado_em": "2026-11-08T06:22:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:SilvaJardim.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:37Z",
+  "estado": "igual",
+  "sha1_commons": "b9a0fa12c8c5279bec800f5960ce3a8bf2300fa2"
+ }
+}

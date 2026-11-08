@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4319208",
+ "uf": "RS",
+ "municipio": "São Nicolau",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bandeira_S%C3%A3o_Nicolau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Nicolau",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "788b5b7393055416b1a63b3de3cd97aa848ba18d1ba5a1083bd6787ace20d06f",
+ "rendicoes": {
+  "png": {
+   "bytes": 41308,
+   "sha256": "d42370dee635efef7b89a65a05215280830079586e912dff4c02d2adf6b53fae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20522,
+   "sha256": "2025ed602fe15764ef057ac48d826fd77f890051391e581fbabb185edc9e5f28",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4319208.jpg",
+  "bytes": 269897,
+  "sha256": "788b5b7393055416b1a63b3de3cd97aa848ba18d1ba5a1083bd6787ace20d06f"
+ },
+ "sha1_origem": "fa053f3cbaf7912d0304968680a4636c21bef816",
+ "bytes_origem": 269897,
+ "capturado_em": "2026-11-08T07:09:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_São_Nicolau.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "fa053f3cbaf7912d0304968680a4636c21bef816"
+ }
+}

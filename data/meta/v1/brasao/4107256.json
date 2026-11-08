@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4107256",
+ "uf": "PR",
+ "municipio": "Douradina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bras%C3%A3o_de_Douradina%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Douradina",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d45646b3b8a6bdee83374693b432bcb4f10dd2eb82758c3c710df1fc5e734d07",
+ "rendicoes": {
+  "png": {
+   "bytes": 44700,
+   "sha256": "03f08dd8dfe4be5d681e281e5eb388f2a7d7a39cbc29e679f4c33bb67a67c542",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11304,
+   "sha256": "e392bf4b7efd9aea09eefae3abf9f7afd5fef209d92bd47237acda2a065aa013",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4107256.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4107256.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4107256.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4107256.jpg",
+  "bytes": 19380,
+  "sha256": "d45646b3b8a6bdee83374693b432bcb4f10dd2eb82758c3c710df1fc5e734d07"
+ },
+ "sha1_origem": "3eeda2bb70d79c98fa520d133f135a907634c877",
+ "bytes_origem": 19380,
+ "capturado_em": "2026-11-08T06:43:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Douradina,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "3eeda2bb70d79c98fa520d133f135a907634c877"
+ }
+}

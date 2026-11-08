@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3554003",
+ "uf": "SP",
+ "municipio": "Tatuí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bras%C3%A3o_de_Tatui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4fa8f58b07d3b27a8ee46d4a8eefe5e95a7ac80262a073167251d200520e0601",
+ "rendicoes": {
+  "png": {
+   "bytes": 233483,
+   "sha256": "6118da08bf75e51161163079a42ff3d6ac0473eb63b66dd59a1977d535d508ab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47097,
+   "sha256": "7ef4fb5551c2db07dcf53eeb1995b0235266193ac266324c2b643e7c43fb5e73",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3554003.jpg",
+  "bytes": 168551,
+  "sha256": "4fa8f58b07d3b27a8ee46d4a8eefe5e95a7ac80262a073167251d200520e0601"
+ },
+ "sha1_origem": "158eb50c4c4dc99fffd50570ca5856112a1b0327",
+ "bytes_origem": 168551,
+ "capturado_em": "2026-11-08T06:39:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Tatui.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:13Z",
+  "estado": "igual",
+  "sha1_commons": "158eb50c4c4dc99fffd50570ca5856112a1b0327"
+ }
+}

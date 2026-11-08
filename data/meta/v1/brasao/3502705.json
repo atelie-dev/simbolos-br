@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3502705",
+ "uf": "SP",
+ "municipio": "Apiaí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bras%C3%A3o_de_Armas_de_Apia%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "48ca2a6f8945355f49a51c265fe29240a59026f1d40bfa7f5c739babcd7457ea",
+ "rendicoes": {
+  "png": {
+   "bytes": 227945,
+   "sha256": "f6b9b26530eab92123c2cbda207ec8d19a2952aa12886a9ee391071424f33502",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45575,
+   "sha256": "4feb2686444d79b3bbcd942310daef71df0233130ace020705d182675a1908aa",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3502705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3502705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3502705.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3502705.jpg",
+  "bytes": 49768,
+  "sha256": "48ca2a6f8945355f49a51c265fe29240a59026f1d40bfa7f5c739babcd7457ea"
+ },
+ "sha1_origem": "e74a3cb4614f50c317eb8be87b2a6659fd6108fe",
+ "bytes_origem": 49768,
+ "capturado_em": "2026-11-08T06:23:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Armas_de_Apiaí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "e74a3cb4614f50c317eb8be87b2a6659fd6108fe"
+ }
+}

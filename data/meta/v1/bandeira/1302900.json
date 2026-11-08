@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1302900",
+ "uf": "AM",
+ "municipio": "Maués",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bandeira_de_Mau%C3%A9s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Maués",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bd201cd6aee0884e4a012190ca9993856058ba09f824fad4a81bc5c42ac42ad9",
+ "rendicoes": {
+  "png": {
+   "bytes": 348132,
+   "sha256": "9e5b23550bcf59d106684579d90da70b8659e4976aebd81ae0119d3b337fc6dd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56023,
+   "sha256": "42b73bfaf0917489a12809da1104886d326f49504c7c6941912ba24cf0c84038",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1302900.jpg",
+  "bytes": 51472,
+  "sha256": "bd201cd6aee0884e4a012190ca9993856058ba09f824fad4a81bc5c42ac42ad9"
+ },
+ "sha1_origem": "40f479a0cc8bb85f9c65a31375d6604dfb43e1cc",
+ "bytes_origem": 51472,
+ "capturado_em": "2026-11-08T05:23:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Maués.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "40f479a0cc8bb85f9c65a31375d6604dfb43e1cc"
+ }
+}

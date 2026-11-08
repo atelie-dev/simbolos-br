@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2807204",
+ "uf": "SE",
+ "municipio": "Siriri",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bandeira_siriri.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal Siriri",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3264277b9ec0b76a9cf17e67106a2f1c72489e36cea257929f30b5220adc4c35",
+ "rendicoes": {
+  "png": {
+   "bytes": 58566,
+   "sha256": "de4670689c4761c3da3c6010886d5e85659d025ec90dd58e1bf86e0459863223",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22401,
+   "sha256": "498d79c0bff5d9588ba1bf20b3d0e75b49fed0d006b194c9c7247380bd86687e",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 51290,
+   "sha256": "3264277b9ec0b76a9cf17e67106a2f1c72489e36cea257929f30b5220adc4c35"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2807204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2807204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2807204.jpg"
+ },
+ "sha1_origem": "c811b0b0f721dd1a3ffec46c69ccbc635bb92b6d",
+ "bytes_origem": 51290,
+ "capturado_em": "2026-11-08T03:14:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_siriri.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "c811b0b0f721dd1a3ffec46c69ccbc635bb92b6d"
+ }
+}

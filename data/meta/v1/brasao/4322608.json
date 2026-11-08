@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4322608",
+ "uf": "RS",
+ "municipio": "Venâncio Aires",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bras%C3%A3o_venancio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "74f078514f8b27552b00889b2581f5baf080a9bcc780daa6d01fc3cda600a392",
+ "rendicoes": {
+  "png": {
+   "bytes": 14889,
+   "sha256": "ba94d4ac3ca9ceef5eb2baa32368f118c67882f1dbfc90388b830bb6e9e659e9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6903,
+   "sha256": "580af28cd60593f905e3a2f6556d178400e41b87663cd976bdfe90f08a2c431a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4322608.png",
+  "bytes": 5795,
+  "sha256": "74f078514f8b27552b00889b2581f5baf080a9bcc780daa6d01fc3cda600a392"
+ },
+ "sha1_origem": "4edd4e037b44c9a2f9166053244f64fe824bc3dc",
+ "bytes_origem": 5795,
+ "capturado_em": "2026-11-08T07:11:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_venancio.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "4edd4e037b44c9a2f9166053244f64fe824bc3dc"
+ }
+}

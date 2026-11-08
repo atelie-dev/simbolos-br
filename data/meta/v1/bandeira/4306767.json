@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4306767",
+ "uf": "RS",
+ "municipio": "Eldorado do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bandeira_de_Eldorado_do_Sul.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Eldorado do Sul",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d6b97c37c7230aecb97cce360f7adfcf1882bd8e47f49be5efc460f1e3fc1039",
+ "rendicoes": {
+  "png": {
+   "bytes": 44211,
+   "sha256": "3821ecd6c6512287046a8ad44aa6fcad2b17a66e23b35697d8727191b17153b3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20189,
+   "sha256": "2dae142f4b745944231c318f73cae0a6f994f7428ff0756e71e016456d296eff",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 641685,
+   "sha256": "d6b97c37c7230aecb97cce360f7adfcf1882bd8e47f49be5efc460f1e3fc1039"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306767.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306767.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306767.jpg"
+ },
+ "sha1_origem": "01a106ff3290d3c9f8d9d6d3f928e8051c8587ec",
+ "bytes_origem": 641685,
+ "capturado_em": "2026-11-08T04:51:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Eldorado_do_Sul.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "01a106ff3290d3c9f8d9d6d3f928e8051c8587ec"
+ }
+}

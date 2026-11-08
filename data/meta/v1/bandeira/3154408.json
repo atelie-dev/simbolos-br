@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3154408",
+ "uf": "MG",
+ "municipio": "Ressaquinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bandeira_ressaquinha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ressaquinha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8951fe7785297aaf8929d4713fafa43be131f0d26005501d2bad7214fadbedef",
+ "rendicoes": {
+  "png": {
+   "bytes": 115114,
+   "sha256": "f1ee4da5da05c08bd4775e51c7b040e915e02e0968785fd87c10f6f149a6fe7c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28002,
+   "sha256": "d639f2e7628219114412f378a27af29637c076bfb03fba389c08287493fbdfb0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3154408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3154408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3154408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3154408.jpg",
+  "bytes": 25693,
+  "sha256": "8951fe7785297aaf8929d4713fafa43be131f0d26005501d2bad7214fadbedef"
+ },
+ "sha1_origem": "b1f46b145d627d7dbf4c1bb470053bd3b43b5dd9",
+ "bytes_origem": 25693,
+ "capturado_em": "2026-11-08T06:14:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_ressaquinha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "b1f46b145d627d7dbf4c1bb470053bd3b43b5dd9"
+ }
+}

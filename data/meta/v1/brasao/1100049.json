@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1100049",
+ "uf": "RO",
+ "municipio": "Cacoal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bras%C3%A3o_de_Cacoal_-_RO.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "cbb961efd06061e46a1444610c1ed6647cb878b2a1b091f1e31cda41ec9efcba",
+ "rendicoes": {
+  "png": {
+   "bytes": 196930,
+   "sha256": "06aab73786db461de00c739d3eafaa71181b3946f676ecbd5da0f33aa357fecb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58755,
+   "sha256": "bcfeb07735e85d02ac3fc709f9361d070541615607463543a3b803dfdcbf4e4f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 385376,
+   "sha256": "cbb961efd06061e46a1444610c1ed6647cb878b2a1b091f1e31cda41ec9efcba"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100049.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100049.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100049.jpg"
+ },
+ "sha1_origem": "0e8bdd89f182534744cfebbe6406c8febaa37902",
+ "bytes_origem": 385376,
+ "capturado_em": "2026-11-08T02:28:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cacoal_-_RO.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "0e8bdd89f182534744cfebbe6406c8febaa37902"
+ }
+}

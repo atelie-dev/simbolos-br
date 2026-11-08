@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3503356",
+ "uf": "SP",
+ "municipio": "Arco-Íris",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/51/Arco_%C3%8Dris.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "67adbb794059a2f52706be6a46fd5b4b0490ecae80b79989f6d36b4dd7116b28",
+ "rendicoes": {
+  "png": {
+   "bytes": 383641,
+   "sha256": "6c1e765b977facf529244ed83fec8714a41e097ad82ac0f8255e1adeed50bc34",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 68315,
+   "sha256": "9f617c42fcef81c0ecb7f772902b637555aa3b6c7a6160f64531a7a52bfbefc9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503356.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503356.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503356.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3503356.png",
+  "bytes": 319659,
+  "sha256": "67adbb794059a2f52706be6a46fd5b4b0490ecae80b79989f6d36b4dd7116b28"
+ },
+ "sha1_origem": "618920d9689b37202a9891ffb968d5caca52e9ba",
+ "bytes_origem": 319659,
+ "capturado_em": "2026-11-08T06:23:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Arco_Íris.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "618920d9689b37202a9891ffb968d5caca52e9ba"
+ }
+}

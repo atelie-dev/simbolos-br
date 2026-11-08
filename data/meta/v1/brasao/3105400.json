@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3105400",
+ "uf": "MG",
+ "municipio": "Barão de Cocais",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Brasao-baraodecocais-mg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMBC",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3561629fb101a4d94787b3a47b8932cd9d23d116e4ae6cd3aa0a11d257321834",
+ "rendicoes": {
+  "png": {
+   "bytes": 87440,
+   "sha256": "c84225211d285e610ebaaf5b50c4e07b1e95a548909fc5dce7a837b2b858fb13",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17540,
+   "sha256": "2952247c9c4d00b7ac7ea62c5b0d325490a1a20261cb12058f7d231e798d52c5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3105400.jpg",
+  "bytes": 15640,
+  "sha256": "3561629fb101a4d94787b3a47b8932cd9d23d116e4ae6cd3aa0a11d257321834"
+ },
+ "sha1_origem": "b20387aab8e6c25cfdb6a1ffa1c142a2d1ff2042",
+ "bytes_origem": 15640,
+ "capturado_em": "2026-11-08T06:00:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-baraodecocais-mg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "b20387aab8e6c25cfdb6a1ffa1c142a2d1ff2042"
+ }
+}

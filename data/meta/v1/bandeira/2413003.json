@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2413003",
+ "uf": "RN",
+ "municipio": "São Vicente",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bandeira_Sao_Vicente_RN.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Não informado",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0d8ca543b74051113dfba1d4d26874c6cf8a458c4eea5af6dd15f7a32a59a411",
+ "rendicoes": {
+  "png": {
+   "bytes": 456906,
+   "sha256": "885e899eea158473721960a9a40271553c55a959d67edad9522ab5bd5fc1c33f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59522,
+   "sha256": "787f41c7a02fa8f857fd1a5c50f101c0c00ccbb037f2986ed78c030ed1b1bc0b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2413003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2413003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2413003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2413003.png",
+  "bytes": 2678939,
+  "sha256": "0d8ca543b74051113dfba1d4d26874c6cf8a458c4eea5af6dd15f7a32a59a411"
+ },
+ "sha1_origem": "1ac69e674b6f5a0687ada246345de64e4af097d6",
+ "bytes_origem": 2678939,
+ "capturado_em": "2026-11-08T05:39:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Sao_Vicente_RN.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "1ac69e674b6f5a0687ada246345de64e4af097d6"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2300408",
+ "uf": "CE",
+ "municipio": "Aiuaba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bandeira_da_Cidade_de_Aiuaba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "NicacioSousa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "874cb51f38b3dfce105205c487a9e5a32cde1be295d9b333f8748a7f5b719028",
+ "rendicoes": {
+  "png": {
+   "bytes": 45204,
+   "sha256": "dbba1f62de9053fbdf1c45d8d5497d534784f9bfea0704cd1742196fd4b2afcc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18986,
+   "sha256": "13b7c9ec53aa8df0016e90ef470fc85f3b9eae7a79c474b13094eab490a7fa64",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2300408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2300408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2300408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2300408.jpg",
+  "bytes": 1278391,
+  "sha256": "874cb51f38b3dfce105205c487a9e5a32cde1be295d9b333f8748a7f5b719028"
+ },
+ "sha1_origem": "7edfaed1700d0dca10445208da10ffa77a676378",
+ "bytes_origem": 1278391,
+ "capturado_em": "2026-11-08T05:31:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_da_Cidade_de_Aiuaba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "7edfaed1700d0dca10445208da10ffa77a676378"
+ }
+}

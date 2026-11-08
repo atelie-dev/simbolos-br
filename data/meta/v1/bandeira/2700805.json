@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2700805",
+ "uf": "AL",
+ "municipio": "Belém",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Al-belem-bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "78b2005834ea91a55175d8e588f922d8f1d0d4b6377976e4a5ccdf78f0f737bb",
+ "rendicoes": {
+  "png": {
+   "bytes": 44782,
+   "sha256": "673d97778a3414445a245b2408c778d5df816cb405f0b79fe0e01911c3c272bd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11498,
+   "sha256": "2441dd0f6ac35e4a01c10bd62beae5f981e64d299145b9751e715857e5450470",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2700805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2700805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2700805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2700805.jpg",
+  "bytes": 8316,
+  "sha256": "78b2005834ea91a55175d8e588f922d8f1d0d4b6377976e4a5ccdf78f0f737bb"
+ },
+ "sha1_origem": "8fe94ac48864a1cd9aceb172e0a2cd39d250cb73",
+ "bytes_origem": 8316,
+ "capturado_em": "2026-11-08T05:47:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Al-belem-bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "8fe94ac48864a1cd9aceb172e0a2cd39d250cb73"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4310850",
+ "uf": "RS",
+ "municipio": "Jaboticaba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bras%C3%A3o_Jaboticaba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Jaboticaba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cd50eeeb4e27b76e6a3ce1814a12a28409fceaaee6b7be8b98cb39080429232e",
+ "rendicoes": {
+  "png": {
+   "bytes": 305957,
+   "sha256": "8838a0d81362414a84704f0ada0c9292b3ed21d5147d2ae0b12b77216eb59b1c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59787,
+   "sha256": "2cef9f045974199fc7015f93d535c97e77b92cd0c53ce9e7e8a7ad49a6ffeaa3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4310850.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4310850.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4310850.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4310850.jpg",
+  "bytes": 114503,
+  "sha256": "cd50eeeb4e27b76e6a3ce1814a12a28409fceaaee6b7be8b98cb39080429232e"
+ },
+ "sha1_origem": "37af42cd2dcbdcdbde074c7dcf4ce38ce410ae88",
+ "bytes_origem": 114503,
+ "capturado_em": "2026-11-08T07:04:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Jaboticaba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "37af42cd2dcbdcdbde074c7dcf4ce38ce410ae88"
+ }
+}

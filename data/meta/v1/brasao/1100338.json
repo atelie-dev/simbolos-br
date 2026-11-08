@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1100338",
+ "uf": "RO",
+ "municipio": "Nova Mamoré",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/BrasaoNova-mamore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Nova Mamoré",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1ce6a6a2991101d95e686a0f87fef88fc80f6831c0cdc0598aa35312cd506aa0",
+ "rendicoes": {
+  "png": {
+   "bytes": 125756,
+   "sha256": "55c97d46cacf8c24be8f7de0d5bd992b24021d4209598dc3f75ae536eb685245",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28096,
+   "sha256": "5d0ad817f5e398a9f0123cb512d819c950f3fc0d7f37a500add55ae64d162dd5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100338.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100338.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100338.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1100338.jpg",
+  "bytes": 27176,
+  "sha256": "1ce6a6a2991101d95e686a0f87fef88fc80f6831c0cdc0598aa35312cd506aa0"
+ },
+ "sha1_origem": "7eeec062e9f54e7c82aa95453d8e57dc6f415c70",
+ "bytes_origem": 27176,
+ "capturado_em": "2026-11-08T05:21:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoNova-mamore.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "7eeec062e9f54e7c82aa95453d8e57dc6f415c70"
+ }
+}

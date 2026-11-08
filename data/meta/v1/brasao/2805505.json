@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2805505",
+ "uf": "SE",
+ "municipio": "Poço Verde",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Brasao_poco_redondo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Poço verde",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4380090932f438cb781af353526f8b4bcc16c495b03e89e852025217c217f2b5",
+ "rendicoes": {
+  "png": {
+   "bytes": 280328,
+   "sha256": "cd3fdd8c4898572cc11d32d5e240b5460ad0f22a87e04bec5c33b99660da811e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 64191,
+   "sha256": "da9136f1e05b5d1eded022fa459f3075762f892e3718b5eb41fb6671d47ac7ba",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2805505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2805505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2805505.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2805505.jpg",
+  "bytes": 95713,
+  "sha256": "4380090932f438cb781af353526f8b4bcc16c495b03e89e852025217c217f2b5"
+ },
+ "sha1_origem": "bcf5b2e68342977a02c946eee3e66004e098667d",
+ "bytes_origem": 95713,
+ "capturado_em": "2026-11-08T05:50:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_poco_redondo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "bcf5b2e68342977a02c946eee3e66004e098667d"
+ }
+}

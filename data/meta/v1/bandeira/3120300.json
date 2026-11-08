@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3120300",
+ "uf": "MG",
+ "municipio": "Cristália",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Crist%C3%A1liamgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cristália",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3c9a330f9648949e31d5d25033154baaf17f4ee7893805c5a5b6ff3320b48495",
+ "rendicoes": {
+  "png": {
+   "bytes": 20979,
+   "sha256": "fe3bd2b08eafb2d5cc4db7d05f402ebe437aaaf5700b4bf80e5d43ad93118d19",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4913,
+   "sha256": "db9bb0972b6d2a1f269f1589074936214503a913c2b183cfd2d92418d336519e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3120300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3120300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3120300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3120300.jpg",
+  "bytes": 4629,
+  "sha256": "3c9a330f9648949e31d5d25033154baaf17f4ee7893805c5a5b6ff3320b48495"
+ },
+ "sha1_origem": "7d2ca4fe17624d4cb614567d5cffafc3346614ce",
+ "bytes_origem": 4629,
+ "capturado_em": "2026-11-08T06:05:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cristáliamgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "7d2ca4fe17624d4cb614567d5cffafc3346614ce"
+ }
+}

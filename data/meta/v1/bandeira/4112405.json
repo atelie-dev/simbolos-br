@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4112405",
+ "uf": "PR",
+ "municipio": "Japurá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_de_Japur%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9a2dc0e456f5a475369afd7aec2020ffca672f0738eef2a303be90f257340bc4",
+ "rendicoes": {
+  "png": {
+   "bytes": 41274,
+   "sha256": "82f307bafd1fa577633399b91d322034798b3cd3b54294ab3738aa2a1032929f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17729,
+   "sha256": "48c137585ac5aa24f8ffb6fa2a216a58b0c5de5cade4cdbb50b9f117722b0250",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4112405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4112405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4112405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4112405.jpg",
+  "bytes": 329752,
+  "sha256": "9a2dc0e456f5a475369afd7aec2020ffca672f0738eef2a303be90f257340bc4"
+ },
+ "sha1_origem": "ba944d1052eebedb7c8ad21ac6372868550707c4",
+ "bytes_origem": 329752,
+ "capturado_em": "2026-11-08T06:45:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Japurá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "ba944d1052eebedb7c8ad21ac6372868550707c4"
+ }
+}

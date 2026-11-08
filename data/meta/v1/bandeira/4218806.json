@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4218806",
+ "uf": "SC",
+ "municipio": "Turvo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Band_Turvo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Turvo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2dcaa184fe5974b0bcbcdbafee42a1c30ccc6317184c6768547db61aa9eb45ae",
+ "rendicoes": {
+  "png": {
+   "bytes": 51159,
+   "sha256": "9514f1dd24451af486aa6666cc5a96b712e1325505ec93673d1d13898de27ef8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11629,
+   "sha256": "88339d3d9cc9614b90b4eff3ba8da99a91bc2c3c4ab70576a292f889ac642ab8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4218806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4218806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4218806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4218806.jpg",
+  "bytes": 17258,
+  "sha256": "2dcaa184fe5974b0bcbcdbafee42a1c30ccc6317184c6768547db61aa9eb45ae"
+ },
+ "sha1_origem": "3b3994f670c4195085ec6725b22ca153863769fc",
+ "bytes_origem": 17258,
+ "capturado_em": "2026-11-08T06:57:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_Turvo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "3b3994f670c4195085ec6725b22ca153863769fc"
+ }
+}

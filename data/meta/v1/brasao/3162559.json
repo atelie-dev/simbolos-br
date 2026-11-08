@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3162559",
+ "uf": "MG",
+ "municipio": "São João do Manhuaçu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BrSJM3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3f879dbad8327845589ccde9045ddc4ee3fc8234af81b5148407399218757136",
+ "rendicoes": {
+  "png": {
+   "bytes": 315396,
+   "sha256": "a6cc1c2ad0fd54fa1e5c743dfd86e419ab4f11e19d586706cb843560a4ee7cf2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53842,
+   "sha256": "34ffb5d254ba6cba3fa077b44f768008def4259ba2be21796eda3fc35d958677",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3162559.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3162559.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3162559.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3162559.jpg",
+  "bytes": 378042,
+  "sha256": "3f879dbad8327845589ccde9045ddc4ee3fc8234af81b5148407399218757136"
+ },
+ "sha1_origem": "ae25196c3189889e6dc50f30b5d59009b1d6d307",
+ "bytes_origem": 378042,
+ "capturado_em": "2026-11-08T06:16:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrSJM3.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:27Z",
+  "estado": "igual",
+  "sha1_commons": "ae25196c3189889e6dc50f30b5d59009b1d6d307"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3556800",
+ "uf": "SP",
+ "municipio": "Viradouro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bandeira_Viradouro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "be5113168dec8ea2663273da060952eb7d508a0b2bf3b7cd1699502b39b38d41",
+ "rendicoes": {
+  "png": {
+   "bytes": 31109,
+   "sha256": "9993669f4526d2037dbbd3971c3e02494506e3e6f2b2af44f6c097f667b1714d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16784,
+   "sha256": "4b5fe954b40b52afb68a20d0b3fc32c8579184e8dfca2b76651434113f5d1fc3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3556800.png",
+  "bytes": 26516,
+  "sha256": "be5113168dec8ea2663273da060952eb7d508a0b2bf3b7cd1699502b39b38d41"
+ },
+ "sha1_origem": "3b94bf34675e12bf57f0be1a51b85b5ce729fb68",
+ "bytes_origem": 26516,
+ "capturado_em": "2026-11-08T06:40:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Viradouro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "3b94bf34675e12bf57f0be1a51b85b5ce729fb68"
+ }
+}

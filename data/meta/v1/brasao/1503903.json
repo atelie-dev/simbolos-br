@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1503903",
+ "uf": "PA",
+ "municipio": "Juruti",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bras%C3%A3o_juruti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Juruti 2013",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "799227201c8dc7c47297925b2e4806bc6bc48b89dfb814f6c61939092b8aaae4",
+ "rendicoes": {
+  "png": {
+   "bytes": 29554,
+   "sha256": "2eda36c8f6dbbad615ae0beadeb7ca024865f672f5f582be8381168ebe879f68",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7866,
+   "sha256": "aaa0713ed95cc53f869878371bfac9c4954e5eb0a595c8531d14e8c3de831bad",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1503903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1503903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1503903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1503903.jpg",
+  "bytes": 5123,
+  "sha256": "799227201c8dc7c47297925b2e4806bc6bc48b89dfb814f6c61939092b8aaae4"
+ },
+ "sha1_origem": "c4a101b0f8223b9e8151bf94ab96ec7e55cdd651",
+ "bytes_origem": 5123,
+ "capturado_em": "2026-11-08T05:24:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_juruti.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:18Z",
+  "estado": "igual",
+  "sha1_commons": "c4a101b0f8223b9e8151bf94ab96ec7e55cdd651"
+ }
+}

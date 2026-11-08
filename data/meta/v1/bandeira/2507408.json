@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2507408",
+ "uf": "PB",
+ "municipio": "Jericó",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bandeira_do_Munic%C3%ADpio_de_Jeric%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Claudizon Galvão",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b0f1ddce381f3c21c7598bdbe2f370dbd73447208ee79483e167176d934f41f4",
+ "rendicoes": {
+  "png": {
+   "bytes": 183316,
+   "sha256": "1e7ff3f187fdebfb538fc9ede13aae3a2b7bc592eac356ff4b33d9a7b7bb8686",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21625,
+   "sha256": "c58d90d1081d34e4314377f97869beac827161a47fb642bf86ab02f0967105b2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2507408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2507408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2507408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2507408.jpg",
+  "bytes": 1687358,
+  "sha256": "b0f1ddce381f3c21c7598bdbe2f370dbd73447208ee79483e167176d934f41f4"
+ },
+ "sha1_origem": "1fe9e195d2d7ef4f5f39eb543c97c713d43e80a9",
+ "bytes_origem": 1687358,
+ "capturado_em": "2026-11-08T05:41:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_Município_de_Jericó.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "1fe9e195d2d7ef4f5f39eb543c97c713d43e80a9"
+ }
+}

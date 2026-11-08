@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3528502",
+ "uf": "SP",
+ "municipio": "Mairiporã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bandeira_de_Mairipor%C3%A3_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "43c5bd96959e9050dc57695697b5053a44231cd45e5ce2eabb1de8995fc3889a",
+ "rendicoes": {
+  "png": {
+   "bytes": 47709,
+   "sha256": "29b8875cec5847a1b6a257a8977c0526b085c5e1225c78c8d811de9736b9ffa3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21498,
+   "sha256": "174731e6afed1d52e67c29f3400f580eaa323ff506ba0a23eeec51249d8866b5",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 282719,
+   "sha256": "43c5bd96959e9050dc57695697b5053a44231cd45e5ce2eabb1de8995fc3889a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3528502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3528502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3528502.jpg"
+ },
+ "sha1_origem": "becbfba1f98beb7fcc739f619fd497ae402a4d33",
+ "bytes_origem": 282719,
+ "capturado_em": "2026-11-08T04:08:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Mairiporã_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "becbfba1f98beb7fcc739f619fd497ae402a4d33"
+ }
+}

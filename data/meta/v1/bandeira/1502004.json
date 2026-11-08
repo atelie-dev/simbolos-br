@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1502004",
+ "uf": "PA",
+ "municipio": "Cachoeira do Arari",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bandeira_cachoeira_do_arari.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Cachoeira do Arari.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d5f322623a92639eff642cd1b33bbb5fa0ca3498ff00d428f831629b122d2126",
+ "rendicoes": {
+  "png": {
+   "bytes": 28930,
+   "sha256": "f009eb9f2d497ae80c8523557b9fc173a61fc4b37abc35d443672a10e5d45e9e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7240,
+   "sha256": "1c8a1ec38239ed2a4e86d894da13179b85a3d5f6c626b45833a8aa6f407f4a32",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1502004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1502004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1502004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1502004.jpg",
+  "bytes": 4299,
+  "sha256": "d5f322623a92639eff642cd1b33bbb5fa0ca3498ff00d428f831629b122d2126"
+ },
+ "sha1_origem": "df06baa4917b40f062b71b4f043fc4ff5d3db161",
+ "bytes_origem": 4299,
+ "capturado_em": "2026-11-08T05:24:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_cachoeira_do_arari.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "df06baa4917b40f062b71b4f043fc4ff5d3db161"
+ }
+}

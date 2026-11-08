@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2503803",
+ "uf": "PB",
+ "municipio": "Caldas Brandão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bandeira_de_Caldas_Brand%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Caldas brandao",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ed68be665a68c90dbcd55d4fcca23a64decd7014903f47cb1c7175712f69ee9f",
+ "rendicoes": {
+  "png": {
+   "bytes": 34251,
+   "sha256": "2343f514489e68ae127599c0145d45e68440278063ccd84400744a46a70d286f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11210,
+   "sha256": "a6b71a8dbfe0567d4904d2d0450234a1941b8da3f0bfdf72855eb8bc5c6b4ab3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2503803.jpg",
+  "bytes": 10321,
+  "sha256": "ed68be665a68c90dbcd55d4fcca23a64decd7014903f47cb1c7175712f69ee9f"
+ },
+ "sha1_origem": "000a17b15bd2551b4e24464ed6505c32d5371c30",
+ "bytes_origem": 10321,
+ "capturado_em": "2026-11-08T05:40:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Caldas_Brandão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "000a17b15bd2551b4e24464ed6505c32d5371c30"
+ }
+}

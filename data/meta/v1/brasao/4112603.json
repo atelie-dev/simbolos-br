@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4112603",
+ "uf": "PR",
+ "municipio": "Jardim Olinda",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Brasao_JardimOlinda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d05a0fd08613237bf730de05e4324d05ebeeae00a90b60c25470ed6510930515",
+ "rendicoes": {
+  "png": {
+   "bytes": 161868,
+   "sha256": "b315081736577a1872aa0c239ce4fac5e2f162f799f473e7586610260ddfb677",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28451,
+   "sha256": "458a043002b9d70cbb2fc34591fc9ad6f47a96cc9d11e0b45799d00edb0ef302",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4112603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4112603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4112603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4112603.jpg",
+  "bytes": 27527,
+  "sha256": "d05a0fd08613237bf730de05e4324d05ebeeae00a90b60c25470ed6510930515"
+ },
+ "sha1_origem": "de94930c1ee4df49d1a1fd10774ce77b136be0aa",
+ "bytes_origem": 27527,
+ "capturado_em": "2026-11-08T06:45:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_JardimOlinda.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:33Z",
+  "estado": "igual",
+  "sha1_commons": "de94930c1ee4df49d1a1fd10774ce77b136be0aa"
+ }
+}

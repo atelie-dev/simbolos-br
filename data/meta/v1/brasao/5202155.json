@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5202155",
+ "uf": "GO",
+ "municipio": "Araguapaz",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Brasaoaraguapaz.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Araguapaz",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fd80485b543642f8ddfddf27eda9c7a75e20939bb89108003dc5a09d6a2daab7",
+ "rendicoes": {
+  "png": {
+   "bytes": 44876,
+   "sha256": "449a01fc677de2627f66c22ec16084b9124df6b25d8bf9a496444807c355df79",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11042,
+   "sha256": "79511ecd90dbb9a780bc693353c4ffa8d480695c749508958e06abe6568098c1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5202155.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5202155.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5202155.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5202155.png",
+  "bytes": 41728,
+  "sha256": "fd80485b543642f8ddfddf27eda9c7a75e20939bb89108003dc5a09d6a2daab7"
+ },
+ "sha1_origem": "d37c2c2c858a51d1afc284308005b2069890faef",
+ "bytes_origem": 41728,
+ "capturado_em": "2026-11-08T07:16:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoaraguapaz.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "d37c2c2c858a51d1afc284308005b2069890faef"
+ }
+}

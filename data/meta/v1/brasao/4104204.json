@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4104204",
+ "uf": "PR",
+ "municipio": "Campo Largo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Brasao_Campo-Largo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a520c537e1f10f519d7c8b78c3b0b9fc9424dde2cdcadc2b21f655f1a5f99320",
+ "rendicoes": {
+  "png": {
+   "bytes": 287118,
+   "sha256": "5712939926b86eec7919ccfb6a9e9c1e982de7efcc560e9e75162d957741c968",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59159,
+   "sha256": "5fcf192b845a55b6a512e9ffc891e8bb015a138d681b278d3510f4e34cbccb6b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4104204.jpg",
+  "bytes": 40737,
+  "sha256": "a520c537e1f10f519d7c8b78c3b0b9fc9424dde2cdcadc2b21f655f1a5f99320"
+ },
+ "sha1_origem": "9b7070a9d2a28bf0a52358a8c05e287bf8155ab2",
+ "bytes_origem": 40737,
+ "capturado_em": "2026-11-08T06:42:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Campo-Largo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "9b7070a9d2a28bf0a52358a8c05e287bf8155ab2"
+ }
+}

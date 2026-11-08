@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3100401",
+ "uf": "MG",
+ "municipio": "Acaiaca",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Acaiacarsbrasoes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Acaiaca",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f9226eb50169bbcb3e183231f136e8c9c6259d229f7bc007ffbdde5b82b5ee89",
+ "rendicoes": {
+  "png": {
+   "bytes": 52293,
+   "sha256": "b024a3bc7f83bbc32c7186a0a7ce6c1e63db89c3da463ad909daafa2171d3efe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14841,
+   "sha256": "5cea72271e8a159375096602b881cdad7c2a71f92cd7e1277bea0c61f864dc50",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3100401.png",
+  "bytes": 76785,
+  "sha256": "f9226eb50169bbcb3e183231f136e8c9c6259d229f7bc007ffbdde5b82b5ee89"
+ },
+ "sha1_origem": "2f82c77018edcc77a38ba3a73db9747647873231",
+ "bytes_origem": 76785,
+ "capturado_em": "2026-11-08T05:58:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Acaiacarsbrasoes.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "2f82c77018edcc77a38ba3a73db9747647873231"
+ }
+}

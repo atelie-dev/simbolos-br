@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4203154",
+ "uf": "SC",
+ "municipio": "Calmon",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_do_munic%C3%ADpio_de_Calmon_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Calmon (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f5c9a6e7561dcc0f2885d0873ca20a524f59f802ba72add78a6b6ca530f20611",
+ "rendicoes": {
+  "png": {
+   "bytes": 62801,
+   "sha256": "db5055de2f9581b1c6bc3771126504c76fc5ad804e6c798522ea097761d1a354",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24999,
+   "sha256": "a91904da93644a4b958d4f0a03ab9946ab525f8dc3bd9be51cf3751bb6e65e13",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203154.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203154.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203154.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4203154.png",
+  "bytes": 817032,
+  "sha256": "f5c9a6e7561dcc0f2885d0873ca20a524f59f802ba72add78a6b6ca530f20611"
+ },
+ "sha1_origem": "e07d1bac63d7047d822c590abf75758ce79ef96a",
+ "bytes_origem": 817032,
+ "capturado_em": "2026-11-08T06:52:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Calmon_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "e07d1bac63d7047d822c590abf75758ce79ef96a"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4121703",
+ "uf": "PR",
+ "municipio": "Reserva",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_de_Reserva_PR.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Arcinoé Antonio Peixoto de Faria",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cae3ed73e6d205a57212dd611ccf454081dd0b74957e87928321627168894c7b",
+ "rendicoes": {
+  "png": {
+   "bytes": 51080,
+   "sha256": "ca15b1ee8e2632947412a80a648de6ab568ac1bbf217a41ac0e28f6fa282e5fb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23419,
+   "sha256": "be57e2bdcff0d100a026e4f5b04108fcff06bb562c67fbd61d741dc8bb351dca",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4121703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4121703.png",
+  "bytes": 20872,
+  "sha256": "cae3ed73e6d205a57212dd611ccf454081dd0b74957e87928321627168894c7b"
+ },
+ "sha1_origem": "45cab3e08d0ea79b087fd1a2cf4d5c6211e04496",
+ "bytes_origem": 20872,
+ "capturado_em": "2026-11-08T06:48:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Reserva_PR.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "45cab3e08d0ea79b087fd1a2cf4d5c6211e04496"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3503307",
+ "uf": "SP",
+ "municipio": "Araras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bandeira_de_Araras.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Enzo Silveira",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ee8b71c7292f9aacfc7722e2db1e1a6a9dc50637032c91826fdb50e9ae92e10e",
+ "rendicoes": {
+  "png": {
+   "bytes": 84417,
+   "sha256": "e36170f47c28ad772889ec4e7069433b201338a6fc66f4276c9819bf8b1125ba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30037,
+   "sha256": "dbe09cf285698efa3abc595df0f6349a1c3597892cf039edae197cbd9e8e8823",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 633813,
+   "sha256": "ee8b71c7292f9aacfc7722e2db1e1a6a9dc50637032c91826fdb50e9ae92e10e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3503307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3503307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3503307.jpg"
+ },
+ "sha1_origem": "f62c8feb3be0ef6a0300c9b552ba93c4e1ae23d0",
+ "bytes_origem": 633813,
+ "capturado_em": "2026-11-08T03:57:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Araras.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "f62c8feb3be0ef6a0300c9b552ba93c4e1ae23d0"
+ }
+}

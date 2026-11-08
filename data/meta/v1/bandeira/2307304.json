@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2307304",
+ "uf": "CE",
+ "municipio": "Juazeiro do Norte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Bandeira_juazeiro_do_norte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "90b5b9c44e4742f7f468840c8fa2d0be00185263ab9428ba0e75dda0f02bc442",
+ "rendicoes": {
+  "png": {
+   "bytes": 78473,
+   "sha256": "527dc138383dcf20cc53980e2958f011c00bef12a6ae2189e2ef22b3f3f16a75",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20032,
+   "sha256": "65dd256fbd764bf0bf7c1169cf504eb5fee74393f0643a50c4e0c6377839d264",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2307304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2307304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2307304.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2307304.jpg",
+  "bytes": 18198,
+  "sha256": "90b5b9c44e4742f7f468840c8fa2d0be00185263ab9428ba0e75dda0f02bc442"
+ },
+ "sha1_origem": "b20e2c4d455bcdf43b57c7220247f7d955d3210f",
+ "bytes_origem": 18198,
+ "capturado_em": "2026-11-08T05:33:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_juazeiro_do_norte.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "b20e2c4d455bcdf43b57c7220247f7d955d3210f"
+ }
+}

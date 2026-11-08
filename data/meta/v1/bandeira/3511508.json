@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3511508",
+ "uf": "SP",
+ "municipio": "Cerquilho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Band_cerq.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1d1ce51b81b4baafd6d35c3c651f4ccd6d7d229a1fc548d463e5fc17407cd4d2",
+ "rendicoes": {
+  "png": {
+   "bytes": 11912,
+   "sha256": "3cf0c45c6393d952a3ec5fb5b37e012f8121af571af46c788b58c8f16749ed61",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6220,
+   "sha256": "4ceace44667628e396f96d4621b30402b9e7849dc43baaa319b78cc727ddec10",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3511508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3511508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3511508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3511508.png",
+  "bytes": 4806,
+  "sha256": "1d1ce51b81b4baafd6d35c3c651f4ccd6d7d229a1fc548d463e5fc17407cd4d2"
+ },
+ "sha1_origem": "fb4b5e140877306afcf5659950e6c300a38f8134",
+ "bytes_origem": 4806,
+ "capturado_em": "2026-11-08T06:26:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_cerq.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "fb4b5e140877306afcf5659950e6c300a38f8134"
+ }
+}

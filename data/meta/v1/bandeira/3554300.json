@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3554300",
+ "uf": "SP",
+ "municipio": "Teodoro Sampaio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bandeira_teodoro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Domínio público",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "09219e65d06badb4b4bdfd9a79e32d7d3d12ca0c256e3d5c9f7993f4cb3e9524",
+ "rendicoes": {
+  "png": {
+   "bytes": 36591,
+   "sha256": "8c4e691f7cc016948cee541a20665ea88d59d0018755fc176a8faa114ce8b54c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9004,
+   "sha256": "d44d6e517769786a6c5f9092af5d0f5d9b690f1e7f48a7c4586849586937d53b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3554300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3554300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3554300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3554300.jpg",
+  "bytes": 4524,
+  "sha256": "09219e65d06badb4b4bdfd9a79e32d7d3d12ca0c256e3d5c9f7993f4cb3e9524"
+ },
+ "sha1_origem": "81b1d0f4ea84976fe1a42c85e60d02eb3834c2eb",
+ "bytes_origem": 4524,
+ "capturado_em": "2026-11-08T06:39:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_teodoro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "81b1d0f4ea84976fe1a42c85e60d02eb3834c2eb"
+ }
+}

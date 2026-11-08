@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3140506",
+ "uf": "MG",
+ "municipio": "Martinho Campos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandeira-martinhocampos.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Martinho Campos City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4ac10423696d577f316ae508ce94002fbdcaf511ff64a7295e0c589def9a55fc",
+ "rendicoes": {
+  "png": {
+   "bytes": 6843,
+   "sha256": "08d2c0e8539bcd90c331ac217b5842c2a81499c9bffd9513b60f5337d5bad438",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11668,
+   "sha256": "0f222ded02eea70145a917af7629638f35153ca67c68d9daa744f7a807aa8730",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3140506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3140506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3140506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3140506.png",
+  "bytes": 4323,
+  "sha256": "4ac10423696d577f316ae508ce94002fbdcaf511ff64a7295e0c589def9a55fc"
+ },
+ "sha1_origem": "03cd87fcacc8a5f73cc44055bf265abdf186479c",
+ "bytes_origem": 4323,
+ "capturado_em": "2026-11-08T06:11:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-martinhocampos.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "03cd87fcacc8a5f73cc44055bf265abdf186479c"
+ }
+}

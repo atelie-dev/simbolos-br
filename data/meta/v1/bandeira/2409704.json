@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2409704",
+ "uf": "RN",
+ "municipio": "Pedro Avelino",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bandeira_de_Pedro_Avelino-RN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "O desembargador",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0b747b65e78fb4504ca0681984ce645e37ec256db2337c76e4050293010988a4",
+ "rendicoes": {
+  "png": {
+   "bytes": 57183,
+   "sha256": "d21f57ba834e1aabdf12bf2657db8a6b2e83482e26757a2d3819feeb08dd5b22",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17609,
+   "sha256": "43999fa3434710cd4f55316c36eb782f8ce89b6b7256309439ec8c56955762e7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2409704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2409704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2409704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2409704.jpg",
+  "bytes": 25552,
+  "sha256": "0b747b65e78fb4504ca0681984ce645e37ec256db2337c76e4050293010988a4"
+ },
+ "sha1_origem": "f145112c24347636d9f0a2e06ff52011ed172ca3",
+ "bytes_origem": 25552,
+ "capturado_em": "2026-11-08T05:38:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pedro_Avelino-RN.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "f145112c24347636d9f0a2e06ff52011ed172ca3"
+ }
+}

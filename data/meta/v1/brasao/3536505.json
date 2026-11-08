@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3536505",
+ "uf": "SP",
+ "municipio": "Paulínia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bras%C3%A3o_de_Paul%C3%ADnia_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "81b95f5a8ed74ee680adabf17ec8e99d804b7476482cea5fe14e6261ba3f5a84",
+ "rendicoes": {
+  "png": {
+   "bytes": 199995,
+   "sha256": "3d504657f7f06c67a90cb8b7e4c66b8280671bdb888df8adec929b42dc08abfa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61159,
+   "sha256": "1eaf2996c1836becabec6970d315842f019090bafdb8018456d8d053401840d8",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 332748,
+   "sha256": "81b95f5a8ed74ee680adabf17ec8e99d804b7476482cea5fe14e6261ba3f5a84"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536505.jpg"
+ },
+ "sha1_origem": "27444f80eee03f3dc004addc0028d8fac6964b7f",
+ "bytes_origem": 332748,
+ "capturado_em": "2026-11-08T04:11:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Paulínia_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "27444f80eee03f3dc004addc0028d8fac6964b7f"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4216503",
+ "uf": "SC",
+ "municipio": "São Joaquim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bandeira_de_S%C3%A3o_Joaquim_HD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de São Joaquim",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4c24f8c02a96955b8bb7f32679b44c4493f9ceb832ceb31f09c9608d3d0f8c29",
+ "rendicoes": {
+  "png": {
+   "bytes": 35607,
+   "sha256": "cf3a4f5dc53cfd359c7cad0763b70750164e44187d67cff296ed8c5b24ea1dc5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15867,
+   "sha256": "cc596ba91fa1f6a7160abf093329a3ea4c6d40f9c2f2fb50695a3d56948d6ec5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4216503.jpg",
+  "bytes": 260876,
+  "sha256": "4c24f8c02a96955b8bb7f32679b44c4493f9ceb832ceb31f09c9608d3d0f8c29"
+ },
+ "sha1_origem": "ea22611dcade9ca58fedb39765fdfa3ae393d9d4",
+ "bytes_origem": 260876,
+ "capturado_em": "2026-11-08T06:57:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Joaquim_HD.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "ea22611dcade9ca58fedb39765fdfa3ae393d9d4"
+ }
+}

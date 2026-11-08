@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4308300",
+ "uf": "RS",
+ "municipio": "Fontoura Xavier",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bras%C3%A3o_Fontoura_Xavier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Fontoura Xavier",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9020eae8adc85050f732301a814d3bdb7a8943ad36d1da1aeeb3a501877be3b0",
+ "rendicoes": {
+  "png": {
+   "bytes": 162129,
+   "sha256": "231657112d391509adaa56fea756fe99642341bf288e3ff7d89337b7df5a8833",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24606,
+   "sha256": "f79fe8dbcfece559e784b50ac175e58f35105f651a7b0edb4f7fe73f77c69795",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4308300.jpg",
+  "bytes": 20716,
+  "sha256": "9020eae8adc85050f732301a814d3bdb7a8943ad36d1da1aeeb3a501877be3b0"
+ },
+ "sha1_origem": "062f88fe6189fa8a13bfda6d636c6b7a0d209f20",
+ "bytes_origem": 20716,
+ "capturado_em": "2026-11-08T07:03:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Fontoura_Xavier.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "062f88fe6189fa8a13bfda6d636c6b7a0d209f20"
+ }
+}

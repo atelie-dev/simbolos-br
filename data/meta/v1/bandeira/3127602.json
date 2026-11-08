@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3127602",
+ "uf": "MG",
+ "municipio": "Gouveia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Gouveiamgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Gouveia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ae81d4b650c5b57aa55b6818079c9412e143c5eb45616421a84bb01e956b37ae",
+ "rendicoes": {
+  "png": {
+   "bytes": 91214,
+   "sha256": "f81d53ae7370aa4fad11b2752019fc2d0e14539c7205fbff83458f48443b9769",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18057,
+   "sha256": "b88f0bf956df0e398513a6822e806a2124aac988227f940d7b361090df2b7bf5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3127602.jpg",
+  "bytes": 10152,
+  "sha256": "ae81d4b650c5b57aa55b6818079c9412e143c5eb45616421a84bb01e956b37ae"
+ },
+ "sha1_origem": "44a8d92f31266ec1b708b7ae38b544b8d84eb3d2",
+ "bytes_origem": 10152,
+ "capturado_em": "2026-11-08T06:08:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Gouveiamgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "44a8d92f31266ec1b708b7ae38b544b8d84eb3d2"
+ }
+}

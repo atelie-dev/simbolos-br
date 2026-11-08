@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4122503",
+ "uf": "PR",
+ "municipio": "Roncador",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bandeira_Roncador.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0a5d925a481567e53e9fd908c02d6fd60bb074e7dd79b13ceccb1e2c422bcbd9",
+ "rendicoes": {
+  "png": {
+   "bytes": 4964,
+   "sha256": "30af4902df0cb43c4691a3b98c4b698f9a0fb405de1ee5bf53c72e3b224a81e6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7648,
+   "sha256": "89ac2d94f45478efc935ec0227fc12c1e6adc9f5c79b3cd49e6051cb5b5627a1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4122503.png",
+  "bytes": 3972,
+  "sha256": "0a5d925a481567e53e9fd908c02d6fd60bb074e7dd79b13ceccb1e2c422bcbd9"
+ },
+ "sha1_origem": "2c80c1d3e07f4c516eea693d97733f9849881c6b",
+ "bytes_origem": 3972,
+ "capturado_em": "2026-11-08T06:49:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Roncador.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "2c80c1d3e07f4c516eea693d97733f9849881c6b"
+ }
+}

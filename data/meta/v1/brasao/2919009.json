@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2919009",
+ "uf": "BA",
+ "municipio": "Lajedinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bras%C3%A3o_de_Lajedinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dac6213629a697ae9d0366130df5cded74456c84d91d8290243696f60221724b",
+ "rendicoes": {
+  "png": {
+   "bytes": 124314,
+   "sha256": "6f63468c43be6793498b7351ca602981e987eb7f51f68f66f03fc6f9d4345e3b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22660,
+   "sha256": "e557fdd189c945791cd5e6b1de9b54f001d83712e560bba73aaacad2c4c7a739",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2919009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2919009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2919009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2919009.jpg",
+  "bytes": 26015,
+  "sha256": "dac6213629a697ae9d0366130df5cded74456c84d91d8290243696f60221724b"
+ },
+ "sha1_origem": "83b4e8ac81530a73440f838136a2b880e410b6f0",
+ "bytes_origem": 26015,
+ "capturado_em": "2026-11-08T05:55:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Lajedinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:05Z",
+  "estado": "igual",
+  "sha1_commons": "83b4e8ac81530a73440f838136a2b880e410b6f0"
+ }
+}

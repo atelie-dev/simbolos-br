@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312450",
+ "uf": "RS",
+ "municipio": "Morro Redondo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Morro_Redondobandeirars.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Morro Redondo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6d390e5c8f3f1ce7729f081f5c86cca475b438c7556d912fd69df7f15084d000",
+ "rendicoes": {
+  "png": {
+   "bytes": 13351,
+   "sha256": "4e6bca069ab6feeafe868eaf75e250f3c2ebec7abe962554facddd23beb277e1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6576,
+   "sha256": "3cd68ee1466a5407d448c22783f503cf9e847c941b1e6a8fe750d10c963094f1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312450.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312450.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312450.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4312450.png",
+  "bytes": 10608,
+  "sha256": "6d390e5c8f3f1ce7729f081f5c86cca475b438c7556d912fd69df7f15084d000"
+ },
+ "sha1_origem": "b2bba456aaa3e6f46c547ebd4fe000ff9aba3424",
+ "bytes_origem": 10608,
+ "capturado_em": "2026-11-08T07:05:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Morro_Redondobandeirars.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "b2bba456aaa3e6f46c547ebd4fe000ff9aba3424"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2510105",
+ "uf": "PB",
+ "municipio": "Nova Floresta",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_NovaFloresta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nova Floresta",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d8646571856cdf72a112e665ee20ecbea7b7f61285833cec278e8efffca6cd3c",
+ "rendicoes": {
+  "png": {
+   "bytes": 54198,
+   "sha256": "f0289e29e3fffb5757a2960c4a3d15a35d4e3d2410aae802c973566a10e77123",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18338,
+   "sha256": "d2c47a1b3900bf9ff6387d426bc8adc22a1841e2b905cbc2558966ef75a39396",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510105.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2510105.jpg",
+  "bytes": 57631,
+  "sha256": "d8646571856cdf72a112e665ee20ecbea7b7f61285833cec278e8efffca6cd3c"
+ },
+ "sha1_origem": "185bcbcc264826f3c5c999585448febb800d6b4c",
+ "bytes_origem": 57631,
+ "capturado_em": "2026-11-08T05:42:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_NovaFloresta.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "185bcbcc264826f3c5c999585448febb800d6b4c"
+ }
+}

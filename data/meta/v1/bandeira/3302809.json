@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3302809",
+ "uf": "RJ",
+ "municipio": "Mendes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bandeira-mendes.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "805a9efa922ee78732ce77b9952ee2694ad813650f6ee11aa6f5f979e818254a",
+ "rendicoes": {
+  "png": {
+   "bytes": 7202,
+   "sha256": "2addb5590c8bdd18ee65ec7953c482a549c8dffd7c008f97f8d0ac2a3b702282",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4524,
+   "sha256": "1ec9adc803f7e8a186963ca7621d634193260285881d98d37db37e5003072262",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3302809.png",
+  "bytes": 3072,
+  "sha256": "805a9efa922ee78732ce77b9952ee2694ad813650f6ee11aa6f5f979e818254a"
+ },
+ "sha1_origem": "c3fa8f0710e346887a6f25e28be9cfba7399fb3d",
+ "bytes_origem": 3072,
+ "capturado_em": "2026-11-08T06:21:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-mendes.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "c3fa8f0710e346887a6f25e28be9cfba7399fb3d"
+ }
+}

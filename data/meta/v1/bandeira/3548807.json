@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3548807",
+ "uf": "SP",
+ "municipio": "São Caetano do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bandeira_de_S%C3%A3o_Caetano_do_Sul.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Srfortes",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "4d6431894f41fdbdc8d481d43a0d4a4ff590e9a673cc45839a36fb3339181eb0",
+ "rendicoes": {
+  "png": {
+   "bytes": 47280,
+   "sha256": "e1fb2205f2ee05d41a4305bf0edf44825cbe684aabc76807815ab02889a09cdb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21136,
+   "sha256": "c18cfc040070566c2460acc276660b9e4343f58b774e384027b52eb76dcbaee9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 292414,
+   "sha256": "4d6431894f41fdbdc8d481d43a0d4a4ff590e9a673cc45839a36fb3339181eb0"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3548807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3548807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3548807.jpg"
+ },
+ "sha1_origem": "453f242c1d2f2730711b22de534fb131dd853994",
+ "bytes_origem": 292414,
+ "capturado_em": "2026-11-08T04:16:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Caetano_do_Sul.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "453f242c1d2f2730711b22de534fb131dd853994"
+ }
+}

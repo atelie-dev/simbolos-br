@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3123304",
+ "uf": "MG",
+ "municipio": "Dores do Turvo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bandeira_do_municipio_de_dores_do_turvo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Grossi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5b6b272a6b6b7b5e571df77ebc2247301845c2fec5745055217d012213477659",
+ "rendicoes": {
+  "png": {
+   "bytes": 66929,
+   "sha256": "22b86a1b4c7b45ba118fafef10b2467541b47efd6e21354592b72d706391b9ef",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22854,
+   "sha256": "d4216bf75aa63076377c712fc6440424a41ca3afc707032c0d34ee0a0c371954",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123304.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3123304.jpg",
+  "bytes": 197557,
+  "sha256": "5b6b272a6b6b7b5e571df77ebc2247301845c2fec5745055217d012213477659"
+ },
+ "sha1_origem": "cab5069a26a8ce3f3eb7c2e566f048599088e109",
+ "bytes_origem": 197557,
+ "capturado_em": "2026-11-08T06:06:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_municipio_de_dores_do_turvo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "cab5069a26a8ce3f3eb7c2e566f048599088e109"
+ }
+}

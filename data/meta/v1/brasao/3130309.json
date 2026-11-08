@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3130309",
+ "uf": "MG",
+ "municipio": "Iguatama",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Iguatamamgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Iguatama",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "542594d876b25517ad6d20245c4560c33aa9e841158d5ecead1b6248f89d583d",
+ "rendicoes": {
+  "png": {
+   "bytes": 71026,
+   "sha256": "ab6f2e30759eb1e697e68183820f10ae3104d36f3bb2f9594601d2bde6b364fa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15855,
+   "sha256": "ac8833383e606da585ce03657bfd4cbca7cc07b9cb95f787c39a9949be344a5d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3130309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3130309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3130309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3130309.jpg",
+  "bytes": 11733,
+  "sha256": "542594d876b25517ad6d20245c4560c33aa9e841158d5ecead1b6248f89d583d"
+ },
+ "sha1_origem": "5d29a7cd89dbf53c8fb24a2941e19096d2ba9b7b",
+ "bytes_origem": 11733,
+ "capturado_em": "2026-11-08T06:08:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Iguatamamgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "5d29a7cd89dbf53c8fb24a2941e19096d2ba9b7b"
+ }
+}

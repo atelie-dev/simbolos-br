@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3305208",
+ "uf": "RJ",
+ "municipio": "São Pedro da Aldeia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Brasao-de_S%C3%A3o_Pedro_da_Aldeia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6cd1538ff14e88229dc8e5001f5d523d892c58ffa6532aca24c76f5b826bf4e2",
+ "rendicoes": {
+  "png": {
+   "bytes": 145714,
+   "sha256": "61fb267ce3497e9966c64dd59e19882bf942905b806ad84b9de217f3961041fd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31129,
+   "sha256": "d5702173da3b17f03c1fc3847f3896c133643c6b51fbbffe7cdd1a758e379927",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3305208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3305208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3305208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3305208.jpg",
+  "bytes": 30591,
+  "sha256": "6cd1538ff14e88229dc8e5001f5d523d892c58ffa6532aca24c76f5b826bf4e2"
+ },
+ "sha1_origem": "5bdd8bbff066c17f9e52b370a4051c256b422c8f",
+ "bytes_origem": 30591,
+ "capturado_em": "2026-11-08T06:22:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-de_São_Pedro_da_Aldeia.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "5bdd8bbff066c17f9e52b370a4051c256b422c8f"
+ }
+}

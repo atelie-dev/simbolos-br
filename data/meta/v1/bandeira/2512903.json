@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2512903",
+ "uf": "PB",
+ "municipio": "Rio Tinto",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bandeira_rio_tinto.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Rio Tinto",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e59d2eca44a1443ccbe82e92f1339c0111a8f059cd1a93f450eb936cfcb5fd56",
+ "rendicoes": {
+  "png": {
+   "bytes": 33254,
+   "sha256": "0940cb242ea6ca4e25288c1afd4b3f4bf0d7c02a86b81630f30701fe6dd2db02",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12808,
+   "sha256": "662864ad0a6191f27148e30e6a02a9b6bdf49f7ac61947cfa21f42f5d2311454",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2512903.png",
+  "bytes": 30912,
+  "sha256": "e59d2eca44a1443ccbe82e92f1339c0111a8f059cd1a93f450eb936cfcb5fd56"
+ },
+ "sha1_origem": "df66480465aa6a0e3805e8eb03ba53d20420f926",
+ "bytes_origem": 30912,
+ "capturado_em": "2026-11-08T05:43:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_rio_tinto.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "df66480465aa6a0e3805e8eb03ba53d20420f926"
+ }
+}

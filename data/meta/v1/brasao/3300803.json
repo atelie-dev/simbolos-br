@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3300803",
+ "uf": "RJ",
+ "municipio": "Cachoeiras de Macacu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/84/Brasao-cachoeirasdemacacu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4baaeebab1829d8b904da3412034711d73d7e9e1bc8d6367d28e5d4935696c67",
+ "rendicoes": {
+  "png": {
+   "bytes": 35822,
+   "sha256": "642e57582ac23bc43eb5e00209ce290f30731b2ec1e188e5f81c8611a293f7d3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7957,
+   "sha256": "a65e9384e1807739639954d560989ee1c40d85e4e794c35c344e4669f4b12638",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3300803.png",
+  "bytes": 35047,
+  "sha256": "4baaeebab1829d8b904da3412034711d73d7e9e1bc8d6367d28e5d4935696c67"
+ },
+ "sha1_origem": "b3278d9a78f168aae9487c93573b9f467f208642",
+ "bytes_origem": 35047,
+ "capturado_em": "2026-11-08T06:20:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-cachoeirasdemacacu.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "b3278d9a78f168aae9487c93573b9f467f208642"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2512077",
+ "uf": "PB",
+ "municipio": "Poço de José de Moura",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bandeira_Po%C3%A7o_de_Jos%C3%A9_de_Moura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Poço de José de Moura",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4d16b745ee30301a73040a2d334a147a4fdde6eb29212ae316542b8ddb74cf15",
+ "rendicoes": {
+  "png": {
+   "bytes": 64344,
+   "sha256": "0991ccb79dc5cb8436b5f51322fa11623eaf117f8aafcb60285be797b366b07d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21428,
+   "sha256": "4818a3fb220535d78f0669313b495a39b1a18e71a2293fc3b2a32049f9d00ee0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512077.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512077.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512077.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2512077.jpg",
+  "bytes": 101137,
+  "sha256": "4d16b745ee30301a73040a2d334a147a4fdde6eb29212ae316542b8ddb74cf15"
+ },
+ "sha1_origem": "03154b5c2aeea2d4681dbeaa84fa08e385b51515",
+ "bytes_origem": 101137,
+ "capturado_em": "2026-11-08T05:42:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Poço_de_José_de_Moura.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "03154b5c2aeea2d4681dbeaa84fa08e385b51515"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532801",
+ "uf": "SP",
+ "municipio": "Nova Aliança",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bras%C3%A3o_de_Nova_Alian%C3%A7a%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nova Aliança/SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a7095717f1afe33c14072c81b170fcbb2b8b4fa68fbba025a77336f592c15ccc",
+ "rendicoes": {
+  "png": {
+   "bytes": 42065,
+   "sha256": "331efdc3bf16e731ca7ba5d48305022ec61c96033c4ff6a188617b9cde03791e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9346,
+   "sha256": "2387189c8cbd142eac090497e35fefcda8da579565fb0324fd872dc55ec22841",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3532801.jpg",
+  "bytes": 5824,
+  "sha256": "a7095717f1afe33c14072c81b170fcbb2b8b4fa68fbba025a77336f592c15ccc"
+ },
+ "sha1_origem": "97ae887e1478cd32707b15c270aaee56013eb407",
+ "bytes_origem": 5824,
+ "capturado_em": "2026-11-08T06:33:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Nova_Aliança,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "97ae887e1478cd32707b15c270aaee56013eb407"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5107305",
+ "uf": "MT",
+ "municipio": "São José do Rio Claro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandeira_de_S%C3%A3o_Jos%C3%A9_do_Rio_Claro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de São José do Rio Claro",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "207c91e1ac87bbe06cbd86f07829effe8fbda20ac39e789e19bc0cedbd3450c1",
+ "rendicoes": {
+  "png": {
+   "bytes": 18725,
+   "sha256": "ff5ec041499bbb531d5b9321921af31a9a7bf32dfd71a3349e042766413f8f56",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8969,
+   "sha256": "a8e1d7888986bea4f0f9771ad9141a1ec3fc14614ee23c8287db019cc86e8589",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5107305.png",
+  "bytes": 6080,
+  "sha256": "207c91e1ac87bbe06cbd86f07829effe8fbda20ac39e789e19bc0cedbd3450c1"
+ },
+ "sha1_origem": "006506388240ccc35ab59d6ff2db95e94125ac1a",
+ "bytes_origem": 6080,
+ "capturado_em": "2026-11-08T07:15:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_José_do_Rio_Claro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "006506388240ccc35ab59d6ff2db95e94125ac1a"
+ }
+}

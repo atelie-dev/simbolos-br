@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3121001",
+ "uf": "MG",
+ "municipio": "Datas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Datasmgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Datas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "939031efd34a433e720198540a7c28fdc6866d3a6849a2603b03646c6bb36464",
+ "rendicoes": {
+  "png": {
+   "bytes": 34872,
+   "sha256": "9e12236bcc15f87ec5953d2983baf842efce62f480c37a934f401e25359de72f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8588,
+   "sha256": "9ce669776a8db34f56f7fd9bb60497fdbe5d515ffce95c468aa68817df9708bf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3121001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3121001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3121001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3121001.jpg",
+  "bytes": 11602,
+  "sha256": "939031efd34a433e720198540a7c28fdc6866d3a6849a2603b03646c6bb36464"
+ },
+ "sha1_origem": "25c1c1609a956ff5497807c94df66328269dcbce",
+ "bytes_origem": 11602,
+ "capturado_em": "2026-11-08T06:05:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Datasmgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "25c1c1609a956ff5497807c94df66328269dcbce"
+ }
+}

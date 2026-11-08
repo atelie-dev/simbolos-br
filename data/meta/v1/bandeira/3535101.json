@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3535101",
+ "uf": "SP",
+ "municipio": "Palmares Paulista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Palmares_Paulista_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "City Hall of Palmares Paulista",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "17401947b064dd17d4ac5fa43f228ac8d5ce0318fe01eda4a99a7125fd2bb4ae",
+ "rendicoes": {
+  "png": {
+   "bytes": 49591,
+   "sha256": "e647a6366ce9343d95caa8685302b50aa6ccd9ed15b2ec780b25d63214d89246",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15090,
+   "sha256": "2bcb8e51ff0e68fbb42f31ca8828386e7264ebbad833f62ac8d6d92bea2d5b7e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3535101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3535101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3535101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3535101.png",
+  "bytes": 52528,
+  "sha256": "17401947b064dd17d4ac5fa43f228ac8d5ce0318fe01eda4a99a7125fd2bb4ae"
+ },
+ "sha1_origem": "3eedb19a7677a0dca9c788b2ddfc9a1a38da19c6",
+ "bytes_origem": 52528,
+ "capturado_em": "2026-11-08T06:33:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Palmares_Paulista_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "3eedb19a7677a0dca9c788b2ddfc9a1a38da19c6"
+ }
+}

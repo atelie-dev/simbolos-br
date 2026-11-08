@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5008305",
+ "uf": "MS",
+ "municipio": "Três Lagoas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/BandeiradeTresLagoas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3416e285be221f3077583bd2faab4be4976a507c1639eb53f2d9e7f6c377a00c",
+ "rendicoes": {
+  "png": {
+   "bytes": 65240,
+   "sha256": "a7b8faf5481a75886f54507105b7c5083480e087016259aed2da5b8481a41194",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22553,
+   "sha256": "96434c3df79b3581970bb14f9394f0a3b83cf636cf8f73becd8476f4a435747c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5008305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5008305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5008305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5008305.jpg",
+  "bytes": 29286,
+  "sha256": "3416e285be221f3077583bd2faab4be4976a507c1639eb53f2d9e7f6c377a00c"
+ },
+ "sha1_origem": "395cad1668fc9c3bc728a5d236d28ef16fea9ff8",
+ "bytes_origem": 29286,
+ "capturado_em": "2026-11-08T07:13:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiradeTresLagoas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "395cad1668fc9c3bc728a5d236d28ef16fea9ff8"
+ }
+}

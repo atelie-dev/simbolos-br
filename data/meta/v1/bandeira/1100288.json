@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1100288",
+ "uf": "RO",
+ "municipio": "Rolim de Moura",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bandeira_RolimdeMoura_Rondonia_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a7217cec22099f90dd8efa62f8859fa47cd160df4434fe25ab4449e0641c793f",
+ "rendicoes": {
+  "png": {
+   "bytes": 23748,
+   "sha256": "9912a13626a55d6c094598dbb52c17b7007a512cfe4a24a50859be8eac3375fb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15269,
+   "sha256": "12dc5c599137dbf3eafa2baa511096c87a9b5e42c63f94c8270aa2dd659a7e6e",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2931,
+   "sha256": "a7217cec22099f90dd8efa62f8859fa47cd160df4434fe25ab4449e0641c793f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100288.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100288.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100288.jpg"
+ },
+ "sha1_origem": "2237931f54f3f0475b79e9dd64224f88a5cac69c",
+ "bytes_origem": 2931,
+ "capturado_em": "2026-11-08T02:29:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_RolimdeMoura_Rondonia_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "2237931f54f3f0475b79e9dd64224f88a5cac69c"
+ }
+}

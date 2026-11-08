@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2601607",
+ "uf": "PE",
+ "municipio": "Belém do São Francisco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bandeira_belem_sao_francisco_pe.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a291e573d9007cca945c0d0d1a163a185a506c2310713feb5e8969e7b0c197b6",
+ "rendicoes": {
+  "png": {
+   "bytes": 23305,
+   "sha256": "30147b90d3cf2fb6b0af32c1380bd77908580717e912a0f7d0c7bb5b70be74f7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12220,
+   "sha256": "57dfa21ab38de83be0b7845f9b7d00ba77395497674f47dcbfdc2696b58b5760",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 31409,
+   "sha256": "a291e573d9007cca945c0d0d1a163a185a506c2310713feb5e8969e7b0c197b6"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601607.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601607.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601607.jpg"
+ },
+ "sha1_origem": "f5aa8edc56684c5ad43d69d3860dd8d33141de11",
+ "bytes_origem": 31409,
+ "capturado_em": "2026-11-08T03:04:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_belem_sao_francisco_pe.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "f5aa8edc56684c5ad43d69d3860dd8d33141de11"
+ }
+}

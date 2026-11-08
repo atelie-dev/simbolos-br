@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2807303",
+ "uf": "SE",
+ "municipio": "Telha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bras%C3%A3o_Municipal_de_Telha%2C_Sergipe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Telha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7b570aff633c9a6ce3b6a886248621beb74354448c2a083d9aafd6d312c5af08",
+ "rendicoes": {
+  "png": {
+   "bytes": 227000,
+   "sha256": "5eefd3d5c07bad6e0ef74250697fb67291911a36d038af98ce034ef9a8eb47ab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41580,
+   "sha256": "99406bce3268ddc11ee4b26ffa45f9e6dfbdc68721350ec1efe0700a0bb3ba8b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2807303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2807303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2807303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2807303.jpg",
+  "bytes": 188830,
+  "sha256": "7b570aff633c9a6ce3b6a886248621beb74354448c2a083d9aafd6d312c5af08"
+ },
+ "sha1_origem": "2b6737508dc78f739d20d3aeb73efde198eb5385",
+ "bytes_origem": 188830,
+ "capturado_em": "2026-11-08T05:50:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Municipal_de_Telha,_Sergipe.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "2b6737508dc78f739d20d3aeb73efde198eb5385"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2204501",
+ "uf": "PI",
+ "municipio": "Guadalupe",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandeira_de_Guadalupe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Guadalupe",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "147548e2243fb58c66f46422543809d7ba71ca4a5d5b79748b1560d7aab6d2bb",
+ "rendicoes": {
+  "png": {
+   "bytes": 80080,
+   "sha256": "f2a78cf5278df33948adaa99c052b5096c9ff3111fea82af8de48c33ce0de5e4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30278,
+   "sha256": "78004b1525423d85804b86ea4334ecaaddfc423f9b9608a4590e6decef42f263",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2204501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2204501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2204501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2204501.jpg",
+  "bytes": 64174,
+  "sha256": "147548e2243fb58c66f46422543809d7ba71ca4a5d5b79748b1560d7aab6d2bb"
+ },
+ "sha1_origem": "55b04fa3a4fbaef0bffe7ada4aa448bf71888995",
+ "bytes_origem": 64174,
+ "capturado_em": "2026-11-08T05:30:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Guadalupe.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "55b04fa3a4fbaef0bffe7ada4aa448bf71888995"
+ }
+}

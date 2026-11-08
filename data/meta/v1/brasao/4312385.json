@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312385",
+ "uf": "RS",
+ "municipio": "Monte Belo do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bras%C3%A3o_Monte_Belo_do_Sul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Monte Belo do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "73dcda007796f4890657e65f21041419229afc1cc596410b8d9d5d4a7aec184a",
+ "rendicoes": {
+  "png": {
+   "bytes": 340256,
+   "sha256": "33d3ea6ccd70bbd2484ee1f37361e9fdbdf304377fb5b8223ad80ea242c365ed",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 52869,
+   "sha256": "3e419d74d0a2f8cd7d4af9a5b04923995fc49a66fcb83585af12412f4c59266c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312385.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312385.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312385.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4312385.jpg",
+  "bytes": 57259,
+  "sha256": "73dcda007796f4890657e65f21041419229afc1cc596410b8d9d5d4a7aec184a"
+ },
+ "sha1_origem": "11755e15b14b7d886e0619074b56bf8ef08b31e2",
+ "bytes_origem": 57259,
+ "capturado_em": "2026-11-08T07:05:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Monte_Belo_do_Sul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "11755e15b14b7d886e0619074b56bf8ef08b31e2"
+ }
+}

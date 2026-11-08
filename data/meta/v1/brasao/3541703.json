@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3541703",
+ "uf": "SP",
+ "municipio": "Quatá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/43/Brasaoquata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Isabela Guimarães, Miguel Barril e Júlio Serafim Camargo do Nascimento.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b23d4dd561aacfa2796eb626745ce5f7924648832c5bcba530665f761853adcd",
+ "rendicoes": {
+  "png": {
+   "bytes": 165552,
+   "sha256": "be55a91af9ea6b794f372a7bdc59aa6abfc052991a7b14f169926c1270609cb9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31962,
+   "sha256": "b8ac87a848f20b478a9b32f546c5253e7c0006f2d1c74773f2a7451990f640f5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3541703.jpg",
+  "bytes": 23816,
+  "sha256": "b23d4dd561aacfa2796eb626745ce5f7924648832c5bcba530665f761853adcd"
+ },
+ "sha1_origem": "abf26e245198ee63f4209e4ae07c784ae85588ac",
+ "bytes_origem": 23816,
+ "capturado_em": "2026-11-08T06:35:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoquata.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "abf26e245198ee63f4209e4ae07c784ae85588ac"
+ }
+}

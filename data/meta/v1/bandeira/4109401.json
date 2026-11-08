@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4109401",
+ "uf": "PR",
+ "municipio": "Guarapuava",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_guarapuava.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "825568915ac2fe8b38e306299ed319f24a1d1cf82975d6816b425fdeb12a7634",
+ "rendicoes": {
+  "png": {
+   "bytes": 69801,
+   "sha256": "6cdebf7e1c231352c55a27fa053a3dc181a0a81308402b2b3eb7280cb4b34382",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17866,
+   "sha256": "7048b9daf1170f099d8122c3eea3b10b4e5e67ab0969e8c039e7aad50049f08d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4109401.jpg",
+  "bytes": 203449,
+  "sha256": "825568915ac2fe8b38e306299ed319f24a1d1cf82975d6816b425fdeb12a7634"
+ },
+ "sha1_origem": "39322755c219f8641a137a7ef2bc901146c9bda7",
+ "bytes_origem": 203449,
+ "capturado_em": "2026-11-08T06:44:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_guarapuava.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "39322755c219f8641a137a7ef2bc901146c9bda7"
+ }
+}

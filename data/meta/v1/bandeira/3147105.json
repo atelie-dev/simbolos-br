@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3147105",
+ "uf": "MG",
+ "municipio": "Pará de Minas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bandeira_de_Par%C3%A1_de_Minas%2C_MG.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "8fbed8b417b6f3ac707b708a65b6b071e11f4fbaeaf9e21ff624417b14897676",
+ "rendicoes": {
+  "png": {
+   "bytes": 35729,
+   "sha256": "6126ded00a8d28c4d25c28348b41ba75d8450c90aa30f523137ce3d78a470de5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18356,
+   "sha256": "9107c1f27191feef281d147f35f89561dfdc7b34d09ef043236e782de07aa931",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3147105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3147105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3147105.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3147105.gif",
+  "bytes": 40677,
+  "sha256": "8fbed8b417b6f3ac707b708a65b6b071e11f4fbaeaf9e21ff624417b14897676"
+ },
+ "sha1_origem": "0129e0186c0341552f33f5f5c915fb4fda8cd92c",
+ "bytes_origem": 40677,
+ "capturado_em": "2026-11-08T06:12:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pará_de_Minas,_MG.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "0129e0186c0341552f33f5f5c915fb4fda8cd92c"
+ }
+}

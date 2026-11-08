@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2100055",
+ "uf": "MA",
+ "municipio": "Açailândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bandeira-acailandia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Açailândia City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bcd1848cd39d8bcfe38c05d6cd74897662a88ef3dfca4bbc5c37416dd7dcc6c2",
+ "rendicoes": {
+  "png": {
+   "bytes": 7465,
+   "sha256": "e661326c1fcaf9f7cf52890882b11ab3ebaa2175834437fcab5727eeda4b2f53",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11962,
+   "sha256": "f6f75335d82f2fb97f60aae3cdb47a41b29ca2b0085a701f3cd997a06053d617",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100055.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100055.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100055.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2100055.png",
+  "bytes": 4732,
+  "sha256": "bcd1848cd39d8bcfe38c05d6cd74897662a88ef3dfca4bbc5c37416dd7dcc6c2"
+ },
+ "sha1_origem": "1bf577a37dc107ac230d51ee7f27de56957dac47",
+ "bytes_origem": 4732,
+ "capturado_em": "2026-11-08T05:27:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-acailandia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "1bf577a37dc107ac230d51ee7f27de56957dac47"
+ }
+}

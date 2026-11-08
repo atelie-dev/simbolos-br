@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3304128",
+ "uf": "RJ",
+ "municipio": "Quatis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/86/Flag_of_Quatis.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Guilherme Paula",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a1182d1a284e67c0eba7e840d7338abcee1a4f5062caa8837bb639906eac53cc",
+ "rendicoes": {
+  "png": {
+   "bytes": 25214,
+   "sha256": "3105d1d22e24e6b17f534ab1593cc98a39356d5fcb793c817036bdbeea8919f5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19670,
+   "sha256": "6ca81c046a1975f569af61a832a1a6b9a854522683e8254e5a3247b4411fadc5",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1633,
+   "sha256": "a1182d1a284e67c0eba7e840d7338abcee1a4f5062caa8837bb639906eac53cc"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304128.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304128.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304128.jpg"
+ },
+ "sha1_origem": "899ac7ee67f75f55ca6e2223229465e953a2bd19",
+ "bytes_origem": 1633,
+ "capturado_em": "2026-11-08T03:55:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Quatis.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "899ac7ee67f75f55ca6e2223229465e953a2bd19"
+ }
+}

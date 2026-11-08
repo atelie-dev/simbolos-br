@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4209904",
+ "uf": "SC",
+ "municipio": "Lontras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bandeira_do_munic%C3%ADpio_de_Lontras_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Lontras (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "927fc9325b1f02e29e38ae50c83fae968b964873e2b7b8b760e91afed44951fb",
+ "rendicoes": {
+  "png": {
+   "bytes": 35989,
+   "sha256": "684639f1c6ccbe6436f20a0db70dc7c3012e32100b524c753c694630736517c4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18140,
+   "sha256": "ffc49ad931f4cd46005038e7c56dd537254817aadc8ab23619c50ae2300b803c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 26728,
+   "sha256": "927fc9325b1f02e29e38ae50c83fae968b964873e2b7b8b760e91afed44951fb"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209904.jpg"
+ },
+ "sha1_origem": "3c78d493bc136ee1a81d7905ff3907cbaf14daf5",
+ "bytes_origem": 26728,
+ "capturado_em": "2026-11-08T04:40:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Lontras_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:19Z",
+  "estado": "igual",
+  "sha1_commons": "3c78d493bc136ee1a81d7905ff3907cbaf14daf5"
+ }
+}

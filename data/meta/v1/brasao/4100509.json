@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4100509",
+ "uf": "PR",
+ "municipio": "Altônia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/39/BrasaoAltonia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMA",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f95e92f392512cadb1641240f4e21c9e6bf163860087279934d8205e79c3bf74",
+ "rendicoes": {
+  "png": {
+   "bytes": 188407,
+   "sha256": "51ff45d120513cc17219ade5019fe555d9aa438e28745ddb6ca14e0e6c51471d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40222,
+   "sha256": "7697b1f56dda02b970cf255e6cf317bafbe68f1b60d8afd5020c8901d3099705",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4100509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4100509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4100509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4100509.jpg",
+  "bytes": 31291,
+  "sha256": "f95e92f392512cadb1641240f4e21c9e6bf163860087279934d8205e79c3bf74"
+ },
+ "sha1_origem": "b44ad9feb51342aedf08779af67bb1119d385a90",
+ "bytes_origem": 31291,
+ "capturado_em": "2026-11-08T06:40:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoAltonia.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "b44ad9feb51342aedf08779af67bb1119d385a90"
+ }
+}

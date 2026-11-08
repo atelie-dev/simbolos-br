@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3547809",
+ "uf": "SP",
+ "municipio": "Santo André",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/94/BandeiraSantoAndre.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ViniciusBR11, Prefeitura de Santo André",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "67d6a1622171a9ab1adc814ed5691734b83a2a15c34890e96038134350794fc1",
+ "rendicoes": {
+  "png": {
+   "bytes": 47755,
+   "sha256": "2cbdc5712af3cf97f56f46dca496f90c77f5bbe24430ace1f6c30ccb6a6cae54",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18885,
+   "sha256": "0c84049f317051dc59d00e2da05d0f5b7009671f5db256295a114d32cee8a2a7",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 31100,
+   "sha256": "67d6a1622171a9ab1adc814ed5691734b83a2a15c34890e96038134350794fc1"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547809.jpg"
+ },
+ "sha1_origem": "9710cfa65d5deb97718ff1d1e2717c80aa7b0673",
+ "bytes_origem": 31100,
+ "capturado_em": "2026-11-08T04:16:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraSantoAndre.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "9710cfa65d5deb97718ff1d1e2717c80aa7b0673"
+ }
+}

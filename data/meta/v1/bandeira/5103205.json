@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5103205",
+ "uf": "MT",
+ "municipio": "Colíder",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bandeira_de_Col%C3%ADder_%28Mato_Grosso%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Colíder_MT",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3a2f19382a63db44ec2290943cd5c063c6a2ad9c97c5d2956b95715cf6e323a7",
+ "rendicoes": {
+  "png": {
+   "bytes": 14363,
+   "sha256": "c14ef3830ae9a1fb31c3f73cfc4aaf727387662539d335e712ac378b14b82b7d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6797,
+   "sha256": "34a7099f9817e7b86f06b1b91144adffc7c72ee14c040c5e443052129286ce55",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5103205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5103205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5103205.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5103205.png",
+  "bytes": 5572,
+  "sha256": "3a2f19382a63db44ec2290943cd5c063c6a2ad9c97c5d2956b95715cf6e323a7"
+ },
+ "sha1_origem": "c08d61a4988a0015a99c752ddc5faab942f92433",
+ "bytes_origem": 5572,
+ "capturado_em": "2026-11-08T07:14:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Colíder_(Mato_Grosso).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "c08d61a4988a0015a99c752ddc5faab942f92433"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4201653",
+ "uf": "SC",
+ "municipio": "Arvoredo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bandeira_do_munic%C3%ADpio_de_Arvoredo_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Arvoredo (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "08fcd307d890a13e73329d42a7b716eccf569ba622575df43c0879cdb282211b",
+ "rendicoes": {
+  "png": {
+   "bytes": 50844,
+   "sha256": "a864a64e71aa199ee9370a316155b07e25780ff3850a45624d659a4e661ec030",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21134,
+   "sha256": "52285a1b891a9e0dc5b258c24d9f05eed4d9906c803672938ee8186a8aa05516",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4201653.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4201653.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4201653.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4201653.png",
+  "bytes": 471598,
+  "sha256": "08fcd307d890a13e73329d42a7b716eccf569ba622575df43c0879cdb282211b"
+ },
+ "sha1_origem": "3497cfedd34a403b2bd0f8f9a29164e99e592937",
+ "bytes_origem": 471598,
+ "capturado_em": "2026-11-08T06:51:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Arvoredo_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "3497cfedd34a403b2bd0f8f9a29164e99e592937"
+ }
+}

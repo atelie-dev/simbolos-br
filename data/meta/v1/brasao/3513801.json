@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3513801",
+ "uf": "SP",
+ "municipio": "Diadema",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Bras%C3%A3o_de_Diadema_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7bed869c4b49b43a2f4f968c3998d3ec833fab61fbecd6a3c3d8d66ad3b48044",
+ "rendicoes": {
+  "png": {
+   "bytes": 154855,
+   "sha256": "e4dac178d3d40b1cefbdc0b39f184327953733166dccb2abe32dad87097599af",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 51895,
+   "sha256": "6c13225eb343c72aad85576d8ae640a54fea7842b95f531023abb9325031deb5",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 398544,
+   "sha256": "7bed869c4b49b43a2f4f968c3998d3ec833fab61fbecd6a3c3d8d66ad3b48044"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3513801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3513801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3513801.jpg"
+ },
+ "sha1_origem": "a7ebc81c9f163f127825829616e9a9ee72a40c4c",
+ "bytes_origem": 398544,
+ "capturado_em": "2026-11-08T04:01:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Diadema_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "a7ebc81c9f163f127825829616e9a9ee72a40c4c"
+ }
+}

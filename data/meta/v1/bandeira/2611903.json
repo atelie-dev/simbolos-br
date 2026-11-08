@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2611903",
+ "uf": "PE",
+ "municipio": "Rio Formoso",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Bandeira_Rio_Formoso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Deyvid Willame",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4d8bab424b7755a6ef2d040d0217049e15872e70e7874bccf207af81a0ef5c2c",
+ "rendicoes": {
+  "png": {
+   "bytes": 13044,
+   "sha256": "f5ec68fc08703adc8572014d92d23b3561d51169576f2b1b21c826baa928e93c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5616,
+   "sha256": "873f3a04c061a1bc1e7cebd3ffda87fc136f83afaaa687c5fb0c14f915d50624",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2611903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2611903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2611903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2611903.jpg",
+  "bytes": 2299,
+  "sha256": "4d8bab424b7755a6ef2d040d0217049e15872e70e7874bccf207af81a0ef5c2c"
+ },
+ "sha1_origem": "1571115da66cdf37369c079e7420a153bc1228e2",
+ "bytes_origem": 2299,
+ "capturado_em": "2026-11-08T05:46:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Rio_Formoso.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "1571115da66cdf37369c079e7420a153bc1228e2"
+ }
+}

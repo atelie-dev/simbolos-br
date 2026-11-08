@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4300851",
+ "uf": "RS",
+ "municipio": "Arambaré",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bras%C3%A3o_Arambar%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "937fdc66cba98919145cbcfd2db2381243d0d6d7217ca5b2bac868f699d3c3fe",
+ "rendicoes": {
+  "png": {
+   "bytes": 260001,
+   "sha256": "6f3a5ea505cb66f934207958716f11b2f5746f93c1a64cfc930b2856bcbe8876",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 57049,
+   "sha256": "72def3ccf32910110069958178440a482a70a512d72904fe88d371db883f1f5d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300851.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300851.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300851.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4300851.jpg",
+  "bytes": 124147,
+  "sha256": "937fdc66cba98919145cbcfd2db2381243d0d6d7217ca5b2bac868f699d3c3fe"
+ },
+ "sha1_origem": "88f54b6d1af90eaeea90f807b71dbd8184f4dacb",
+ "bytes_origem": 124147,
+ "capturado_em": "2026-11-08T06:58:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Arambaré.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "88f54b6d1af90eaeea90f807b71dbd8184f4dacb"
+ }
+}

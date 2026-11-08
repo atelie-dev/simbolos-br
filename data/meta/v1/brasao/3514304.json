@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3514304",
+ "uf": "SP",
+ "municipio": "Dourado",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bras%C3%A3o_de_Dourado_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "2ce8d3acda5d15408107dd9092282cb91d0eb20c3589fdfc30b62d34935690fa",
+ "rendicoes": {
+  "png": {
+   "bytes": 172922,
+   "sha256": "e68c39a217c94a0d1c178266e7c888c13c78d57b70a11b4a24434941624e729d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58527,
+   "sha256": "20a028482b3d30a63600689f86d12b659dcec63953c0756781f1e3bdcc577051",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 309608,
+   "sha256": "2ce8d3acda5d15408107dd9092282cb91d0eb20c3589fdfc30b62d34935690fa"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3514304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3514304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3514304.jpg"
+ },
+ "sha1_origem": "5ca94bd512e00ac5c9de3b3fd13d3b4d92ce7a59",
+ "bytes_origem": 309608,
+ "capturado_em": "2026-11-08T04:02:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Dourado_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "5ca94bd512e00ac5c9de3b3fd13d3b4d92ce7a59"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2100477",
+ "uf": "MA",
+ "municipio": "Alto Alegre do Pindaré",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bandeira_de_Alto_Alegre_do_Pindar%C3%A9-MA%2C_Brasil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4c996434001525b08ebb0b1a3fe3bdf93dd8c30e48a8b79ad094ea0d353eb88b",
+ "rendicoes": {
+  "png": {
+   "bytes": 80937,
+   "sha256": "d67aecc40d49fd2e36abdba323d2a8d3bb7f5213e00af1fe2713faddb57e01e4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24374,
+   "sha256": "c8f82abf51d9acc6cf3accd8e94b703acf48ef6277eec1522963a2f12770c0ef",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100477.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100477.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100477.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2100477.png",
+  "bytes": 176391,
+  "sha256": "4c996434001525b08ebb0b1a3fe3bdf93dd8c30e48a8b79ad094ea0d353eb88b"
+ },
+ "sha1_origem": "e37a68999368786f7b4c4f153c69c0cbb8488b0f",
+ "bytes_origem": 176391,
+ "capturado_em": "2026-11-08T05:27:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Alto_Alegre_do_Pindaré-MA,_Brasil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "e37a68999368786f7b4c4f153c69c0cbb8488b0f"
+ }
+}

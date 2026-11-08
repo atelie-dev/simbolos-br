@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3116100",
+ "uf": "MG",
+ "municipio": "Chapada do Norte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Chapada_do_Nortemgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Chapada do Norte",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7bbc4cae22a5b9308506de7662045b3246b698d34791946073e036192092b45e",
+ "rendicoes": {
+  "png": {
+   "bytes": 43504,
+   "sha256": "deab524e83de52d9ccf85d79455a9fd2d00cb06237df73654dab7960bbbaa41b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11983,
+   "sha256": "6ffdf225b46a7ddc342e3df189a48d496dab8c7c51f126fa778458fe00d5323c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3116100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3116100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3116100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3116100.png",
+  "bytes": 36842,
+  "sha256": "7bbc4cae22a5b9308506de7662045b3246b698d34791946073e036192092b45e"
+ },
+ "sha1_origem": "895bda8500858e286a88b1dd499197df744d9a92",
+ "bytes_origem": 36842,
+ "capturado_em": "2026-11-08T06:03:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Chapada_do_Nortemgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:22Z",
+  "estado": "igual",
+  "sha1_commons": "895bda8500858e286a88b1dd499197df744d9a92"
+ }
+}

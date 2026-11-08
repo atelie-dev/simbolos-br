@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3304110",
+ "uf": "RJ",
+ "municipio": "Porto Real",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Brasao-portoreal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7f5c5a560023184c2040c4f3aa0b308cc2374620bffbad592eeeb5d9444a717b",
+ "rendicoes": {
+  "png": {
+   "bytes": 111196,
+   "sha256": "af0d750d9aa6703621d6fdfd60ba73f88a99fc3ec3fd5f4736bd32100c260125",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23740,
+   "sha256": "615c0ac0c04fb72dc99887944baf31c58dea225a182fe9d15d3caf308b60a537",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304110.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304110.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304110.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3304110.jpg",
+  "bytes": 28031,
+  "sha256": "7f5c5a560023184c2040c4f3aa0b308cc2374620bffbad592eeeb5d9444a717b"
+ },
+ "sha1_origem": "88eb25d4fcf734d536c2892d1e393bbf07f4b149",
+ "bytes_origem": 28031,
+ "capturado_em": "2026-11-08T06:21:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-portoreal.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "88eb25d4fcf734d536c2892d1e393bbf07f4b149"
+ }
+}

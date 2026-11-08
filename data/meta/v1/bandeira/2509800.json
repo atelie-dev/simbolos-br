@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2509800",
+ "uf": "PB",
+ "municipio": "Mulungu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bandeira_de_Mulungu-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "83a2f84840602b13895f158680eb9cef73bd825a089a800c65dbe17ce3ea262b",
+ "rendicoes": {
+  "png": {
+   "bytes": 86730,
+   "sha256": "42fdb2f3ebf7e80267529e67439a0b11e836b439d8cfb759208cfaabba786071",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28523,
+   "sha256": "f562cdc3f0bb1f2d4c9c338312fcdf88a6b0a065108372f437d837e755b10a74",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 51248,
+   "sha256": "83a2f84840602b13895f158680eb9cef73bd825a089a800c65dbe17ce3ea262b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2509800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2509800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2509800.jpg"
+ },
+ "sha1_origem": "66fca435dd907238fd44bef094952a0aef2395b5",
+ "bytes_origem": 51248,
+ "capturado_em": "2026-11-08T02:59:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Mulungu-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "66fca435dd907238fd44bef094952a0aef2395b5"
+ }
+}

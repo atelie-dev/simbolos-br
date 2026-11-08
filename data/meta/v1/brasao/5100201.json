@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5100201",
+ "uf": "MT",
+ "municipio": "Água Boa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/BRAS%C3%83O_-_%C3%81GUA_BOA-MT.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Gelsonbertol",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c6425353cb74f754c20e86d201f7e9230f630439fa108d485dfa7687a02e514b",
+ "rendicoes": {
+  "png": {
+   "bytes": 284532,
+   "sha256": "f31a236ea40a3f9d2915183af957d1d3fa901032a301a150dd825cc06c46acef",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 80124,
+   "sha256": "60edd3f20576d57c00ec747bf8662caea7be06605ce31b86990cbd802cd86a30",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 905355,
+   "sha256": "c6425353cb74f754c20e86d201f7e9230f630439fa108d485dfa7687a02e514b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5100201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5100201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5100201.jpg"
+ },
+ "sha1_origem": "172b73a30ef740bae5cc4962fad50f2050970d08",
+ "bytes_origem": 905355,
+ "capturado_em": "2026-11-08T05:05:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BRASÃO_-_ÁGUA_BOA-MT.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:36Z",
+  "estado": "igual",
+  "sha1_commons": "172b73a30ef740bae5cc4962fad50f2050970d08"
+ }
+}

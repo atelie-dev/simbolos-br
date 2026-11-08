@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4205100",
+ "uf": "SC",
+ "municipio": "Dona Emma",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bandeira_do_munic%C3%ADpio_de_Dona_Emma_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Dona Emma (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5cf08529a101602e5ff5d6fd515826157fb8eff193ff614352e4af7dece7eaf6",
+ "rendicoes": {
+  "png": {
+   "bytes": 42807,
+   "sha256": "73759afe2f133cda93f4e03b32f35469ed6603e0c52cbf0a56089ce3c3d607f5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19635,
+   "sha256": "05b78c072d083d603d21424844413220a2f17422a67d5f68ae8c42e9305bc275",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 62750,
+   "sha256": "5cf08529a101602e5ff5d6fd515826157fb8eff193ff614352e4af7dece7eaf6"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4205100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4205100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4205100.jpg"
+ },
+ "sha1_origem": "eab67b69ee494566cd63e8c78f0dc93ac3ac796d",
+ "bytes_origem": 62750,
+ "capturado_em": "2026-11-08T04:38:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Dona_Emma_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:19Z",
+  "estado": "igual",
+  "sha1_commons": "eab67b69ee494566cd63e8c78f0dc93ac3ac796d"
+ }
+}

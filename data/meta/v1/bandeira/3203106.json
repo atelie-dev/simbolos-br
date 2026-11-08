@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3203106",
+ "uf": "ES",
+ "municipio": "Jerônimo Monteiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_de_Jer%C3%B4nimo_Monteiro_%28Esp%C3%ADrito_Santo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Jerônimo Monteiro City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6306e50c32a68212141abbe8486dafec213379c96f9bbbd43ad58eee6eca2a56",
+ "rendicoes": {
+  "png": {
+   "bytes": 10134,
+   "sha256": "90291286308702b67fd4d18ac2ba975f4e286c6e1820e80d71b0567255cad789",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5636,
+   "sha256": "30684d6ff397a7fc04a954eebd82c15cff1ac560d0e504eeacb5f80b5c23ca23",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3203106.jpg",
+  "bytes": 30172,
+  "sha256": "6306e50c32a68212141abbe8486dafec213379c96f9bbbd43ad58eee6eca2a56"
+ },
+ "sha1_origem": "407864dc2d5d5858fac9e9eaee6959b85c54acd6",
+ "bytes_origem": 30172,
+ "capturado_em": "2026-11-08T06:19:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Jerônimo_Monteiro_(Espírito_Santo).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "407864dc2d5d5858fac9e9eaee6959b85c54acd6"
+ }
+}

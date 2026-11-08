@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1702307",
+ "uf": "TO",
+ "municipio": "Arapoema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bandeira-arapoema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMA",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "edda1a17bd0ab745471f8f2c4aa7de06306d9ff363905bd7f7e02f862e541b9a",
+ "rendicoes": {
+  "png": {
+   "bytes": 35313,
+   "sha256": "9c9fd6c119053b92dedc5c921cf965c0fd758a06e041f76f29eea785249e7289",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14985,
+   "sha256": "7d7d1a57eec0d57ebb238e1b01c0b8f9249d58a7fd23298c846a7abfccf5178c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1702307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1702307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1702307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1702307.jpg",
+  "bytes": 45460,
+  "sha256": "edda1a17bd0ab745471f8f2c4aa7de06306d9ff363905bd7f7e02f862e541b9a"
+ },
+ "sha1_origem": "7ee80106fffe328d68ddab1ac9807dee0dc52498",
+ "bytes_origem": 45460,
+ "capturado_em": "2026-11-08T05:26:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-arapoema.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "7ee80106fffe328d68ddab1ac9807dee0dc52498"
+ }
+}

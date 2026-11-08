@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4109104",
+ "uf": "PR",
+ "municipio": "Guaporema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bandeira_Guaporema.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8f497d3e6663228fccb4b775757e9c80fe369703fa51160e404a743256f3a67c",
+ "rendicoes": {
+  "png": {
+   "bytes": 21008,
+   "sha256": "ceb137f336af6a7a460973cc7bb8ff22e088bb8a8036f80712090fc37b3e2a84",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10449,
+   "sha256": "2c2ab5a48b01b0c072f7a873a93782b58503654d4307193432edb4a7d64cc4c4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4109104.png",
+  "bytes": 6846,
+  "sha256": "8f497d3e6663228fccb4b775757e9c80fe369703fa51160e404a743256f3a67c"
+ },
+ "sha1_origem": "1013b59015cc9d0578418e9fadd2a3dc54dea810",
+ "bytes_origem": 6846,
+ "capturado_em": "2026-11-08T06:44:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Guaporema.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "1013b59015cc9d0578418e9fadd2a3dc54dea810"
+ }
+}

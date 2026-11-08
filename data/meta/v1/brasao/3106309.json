@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3106309",
+ "uf": "MG",
+ "municipio": "Belo Oriente",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Belo_Orientemgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Belo Oriente",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "173716c302b444e35068d74de96fbee204685dc10929f30811e9fd8c9789fecf",
+ "rendicoes": {
+  "png": {
+   "bytes": 96589,
+   "sha256": "124ceaabb1eeede02de22a9ed866465ab9ab52ac736b2134db1ef9b1f561d75b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23764,
+   "sha256": "27d2ad3a25e95d55fc8a76ba6e73609018cf96334e61ea71164358f55fb280ee",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3106309.jpg",
+  "bytes": 18000,
+  "sha256": "173716c302b444e35068d74de96fbee204685dc10929f30811e9fd8c9789fecf"
+ },
+ "sha1_origem": "eb4050ce9aae7c64f07d445664569662944d7f54",
+ "bytes_origem": 18000,
+ "capturado_em": "2026-11-08T06:00:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Belo_Orientemgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "eb4050ce9aae7c64f07d445664569662944d7f54"
+ }
+}

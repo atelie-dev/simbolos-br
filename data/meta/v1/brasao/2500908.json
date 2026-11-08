@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2500908",
+ "uf": "PB",
+ "municipio": "Arara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Brasao_arara_pb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Arara",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "86f0af7b13f1ea6bc3b46845e650e88a75cff076da0ff1ac3fef07edfd878374",
+ "rendicoes": {
+  "png": {
+   "bytes": 376424,
+   "sha256": "89c974bbe229efc2acd13e2267e3e437138bd38d8d18afc65c621dd4a41a46bb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 79656,
+   "sha256": "9e2822472bdb5be667c48f58cbf4332b7e648472fd401d88eef4280376ebeaec",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2500908.jpg",
+  "bytes": 261626,
+  "sha256": "86f0af7b13f1ea6bc3b46845e650e88a75cff076da0ff1ac3fef07edfd878374"
+ },
+ "sha1_origem": "f1f8fec68c9bfebf92f6ecc52cac905e143da79e",
+ "bytes_origem": 261626,
+ "capturado_em": "2026-11-08T05:39:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_arara_pb.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "f1f8fec68c9bfebf92f6ecc52cac905e143da79e"
+ }
+}

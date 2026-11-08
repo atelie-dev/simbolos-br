@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4106100",
+ "uf": "PR",
+ "municipio": "Conselheiro Mairinck",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Brasao_cmk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Djjorgeguilherme",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ec147d0998a0f8a05e62f8d141cd1d97ffb2b89bfe4407fd1e3261cb71e6b118",
+ "rendicoes": {
+  "png": {
+   "bytes": 51705,
+   "sha256": "b3b6b60d349b616df0b393da0dabafffbd6c80fb147254b1ea6d1c7c642dd279",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27227,
+   "sha256": "d499ad9634a50ec6c3b97c6c7b7ed492f1414cd2f527818895ec57094880ccc2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4106100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4106100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4106100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4106100.png",
+  "bytes": 55888,
+  "sha256": "ec147d0998a0f8a05e62f8d141cd1d97ffb2b89bfe4407fd1e3261cb71e6b118"
+ },
+ "sha1_origem": "0ac74ae9611fcfca28dea2dbfcfec28de48203fd",
+ "bytes_origem": 55888,
+ "capturado_em": "2026-11-08T06:42:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_cmk.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:36Z",
+  "estado": "igual",
+  "sha1_commons": "0ac74ae9611fcfca28dea2dbfcfec28de48203fd"
+ }
+}

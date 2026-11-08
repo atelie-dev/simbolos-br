@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2806909",
+ "uf": "SE",
+ "municipio": "São Francisco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Band_saofrancisco_se.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://www.saofrancisco.se.gov.br",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0f217891dec15775ba5f5cdb5ad71ed3bdf2e06fc15b376847d555fa982a8860",
+ "rendicoes": {
+  "png": {
+   "bytes": 51843,
+   "sha256": "93ce127713be453a91c04dad8a8745931dc69c45fdd07c1375a4c994feea27fe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20511,
+   "sha256": "6d8d240a8040c87adc04c71962e641a4885a1c745540c00bc7fe8a73d94a2382",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2806909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2806909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2806909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2806909.png",
+  "bytes": 143088,
+  "sha256": "0f217891dec15775ba5f5cdb5ad71ed3bdf2e06fc15b376847d555fa982a8860"
+ },
+ "sha1_origem": "804e891e4c3f0a07eaa1249e8ee4deb3b29c304f",
+ "bytes_origem": 143088,
+ "capturado_em": "2026-11-08T05:50:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_saofrancisco_se.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "804e891e4c3f0a07eaa1249e8ee4deb3b29c304f"
+ }
+}

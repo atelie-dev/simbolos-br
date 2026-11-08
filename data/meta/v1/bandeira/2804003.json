@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2804003",
+ "uf": "SE",
+ "municipio": "Maruim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Band_maruim.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Maruim",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "418e8e7b274c36eb0851efec31d80e523563e9bf8f4ae3911ccb1a8df6324f0c",
+ "rendicoes": {
+  "png": {
+   "bytes": 43814,
+   "sha256": "74af2192cd5df4c8d8f379039ea9a1982db7548780932b8dc8480ebb6a2cfdd3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20123,
+   "sha256": "68453b713c2f5e86d9aef0fa1915327e5c63c349239a64ce037ff96d9735f6cc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2804003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2804003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2804003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2804003.png",
+  "bytes": 95609,
+  "sha256": "418e8e7b274c36eb0851efec31d80e523563e9bf8f4ae3911ccb1a8df6324f0c"
+ },
+ "sha1_origem": "6e4a26772b78a0650f767776d78ed746d98bafac",
+ "bytes_origem": 95609,
+ "capturado_em": "2026-11-08T05:49:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_maruim.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "6e4a26772b78a0650f767776d78ed746d98bafac"
+ }
+}

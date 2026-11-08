@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2930709",
+ "uf": "BA",
+ "municipio": "Simões Filho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bras%C3%A3o_Sim%C3%B5es_Filho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0333972f0f0f3e511c85c67938aee702f88f0e81a9ff711c0ebea733dc4c5b33",
+ "rendicoes": {
+  "png": {
+   "bytes": 139672,
+   "sha256": "bc842a4c383f25dec44e1d2e824b2850aac32f21d7059bc9c5f45e1df39e4615",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38248,
+   "sha256": "88cd91fed3efbbec7d6dafc3908faef7a833a4daef8a15001b88ea42753754d9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2930709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2930709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2930709.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2930709.jpg",
+  "bytes": 39405,
+  "sha256": "0333972f0f0f3e511c85c67938aee702f88f0e81a9ff711c0ebea733dc4c5b33"
+ },
+ "sha1_origem": "1ba6ad4cdf724a4e6d16f992630b2794f92d4e36",
+ "bytes_origem": 39405,
+ "capturado_em": "2026-11-08T05:57:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Simões_Filho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "1ba6ad4cdf724a4e6d16f992630b2794f92d4e36"
+ }
+}

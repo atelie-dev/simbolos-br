@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3503208",
+ "uf": "SP",
+ "municipio": "Araraquara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/BandeiraAraraquara.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work, José Romeu Ferraz, Guilherme de Almeida & Lauro Ribeiro Escobar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "40f583011c37525fc5a9354090c1a7f4797996eb127708d3bfc42038a7fe52bd",
+ "rendicoes": {
+  "png": {
+   "bytes": 73216,
+   "sha256": "dd595edd6973133e07b5bcbad076e1fa5387a1b25eed8da445497fd3b5b1db7d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28594,
+   "sha256": "5a5c503a8f84b5fa70c875f4bf41f3b12c576c8881a4212a121a4870585305f8",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 110055,
+   "sha256": "40f583011c37525fc5a9354090c1a7f4797996eb127708d3bfc42038a7fe52bd"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3503208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3503208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3503208.jpg"
+ },
+ "sha1_origem": "4b21c4b23f9c084e3397c5280ab08f5811a70784",
+ "bytes_origem": 110055,
+ "capturado_em": "2026-11-08T03:57:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraAraraquara.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "4b21c4b23f9c084e3397c5280ab08f5811a70784"
+ }
+}

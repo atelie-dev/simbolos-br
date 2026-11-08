@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5004502",
+ "uf": "MS",
+ "municipio": "Itaporã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bandeira_Itapor%C3%A3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0297728863fb814a5970b63d5e7920eb8de8092a5f14e7a1bfe54ca9cec81d09",
+ "rendicoes": {
+  "png": {
+   "bytes": 16121,
+   "sha256": "f23bf8b21f768d5ac39a7b6f7563c08fdc9085a1f02de81ea29e201f2221bc23",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19935,
+   "sha256": "e4396bc71aba48a0d7fd6096bf43f4dddb1d90c312d3351e27e8ab5f807cf8cb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5004502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5004502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5004502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5004502.png",
+  "bytes": 9994,
+  "sha256": "0297728863fb814a5970b63d5e7920eb8de8092a5f14e7a1bfe54ca9cec81d09"
+ },
+ "sha1_origem": "6d100401249cd3be086df606923e15465447df7d",
+ "bytes_origem": 9994,
+ "capturado_em": "2026-11-08T07:12:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itaporã.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "6d100401249cd3be086df606923e15465447df7d"
+ }
+}

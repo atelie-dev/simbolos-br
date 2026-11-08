@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4304663",
+ "uf": "RS",
+ "municipio": "Capão do Leão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bandeira_Cap%C3%A3o_do_Le%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ca59cea1e1ad1f5f1db354043f4ec8ed1cdf1f083151a26352b1487fdfa0006a",
+ "rendicoes": {
+  "png": {
+   "bytes": 14830,
+   "sha256": "3e2e00dd74dd9fde05c353a524adf0f2917080c23ad07c1e403dcc8ace8d1165",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4707,
+   "sha256": "c0fc547019ca06474cc2007a91481cfde16608d70c114fa125c6a6570cf2219c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304663.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304663.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4304663.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4304663.jpg",
+  "bytes": 14509,
+  "sha256": "ca59cea1e1ad1f5f1db354043f4ec8ed1cdf1f083151a26352b1487fdfa0006a"
+ },
+ "sha1_origem": "e49f5f876fbea4a8bc6580c30535fc42b2350532",
+ "bytes_origem": 14509,
+ "capturado_em": "2026-11-08T07:00:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Capão_do_Leão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "e49f5f876fbea4a8bc6580c30535fc42b2350532"
+ }
+}

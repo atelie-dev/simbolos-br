@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3156205",
+ "uf": "MG",
+ "municipio": "Rochedo de Minas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/ROCHEDO_DE_MINAS_%28BANDEIRA%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "André Maroco",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6eb18c06afc3dcdf5148b4c47554f3332a5151da7848f6cf2fce148b6fcc708d",
+ "rendicoes": {
+  "png": {
+   "bytes": 61818,
+   "sha256": "ecb0d41955593b990e8ede114800874a9ba85474479f33acc6728a4fbbfcdaa6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24554,
+   "sha256": "147ac2bbc964b523555066c6348bf8ae28b25e53080a812950f46fd00c09900b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3156205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3156205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3156205.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3156205.png",
+  "bytes": 238343,
+  "sha256": "6eb18c06afc3dcdf5148b4c47554f3332a5151da7848f6cf2fce148b6fcc708d"
+ },
+ "sha1_origem": "ace05f698da25aed5d5cb7e9af83ab94f8856813",
+ "bytes_origem": 238343,
+ "capturado_em": "2026-11-08T06:14:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:ROCHEDO_DE_MINAS_(BANDEIRA).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "ace05f698da25aed5d5cb7e9af83ab94f8856813"
+ }
+}

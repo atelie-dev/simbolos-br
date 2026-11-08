@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5007208",
+ "uf": "MS",
+ "municipio": "Rio Brilhante",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bandeira_de_Rio_Brilhante.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "The original uploader was Gutomoraes at Portuguese Wikipedia.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "32a6358522652d1d0f67ed30041da160dd090d4dc8691343e236b05dfa04de34",
+ "rendicoes": {
+  "png": {
+   "bytes": 98906,
+   "sha256": "7caf382385e9c71197b4485037c4f6fd780e74200939b15d194e58b7ca50321c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26565,
+   "sha256": "b0c95efbb62d1d161dd2868f3891f23366413c12341f2ba433a17c559f0f247e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5007208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5007208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5007208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5007208.jpg",
+  "bytes": 25689,
+  "sha256": "32a6358522652d1d0f67ed30041da160dd090d4dc8691343e236b05dfa04de34"
+ },
+ "sha1_origem": "953322703e104eb36fa72bea9f428bfa0010c638",
+ "bytes_origem": 25689,
+ "capturado_em": "2026-11-08T07:13:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Rio_Brilhante.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "953322703e104eb36fa72bea9f428bfa0010c638"
+ }
+}

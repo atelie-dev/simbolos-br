@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1100056",
+ "uf": "RO",
+ "municipio": "Cerejeiras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bandeira_Cerejeiras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Cerejeiras.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4c2574ae188846af72f51680ead3a3600ebe1180c42647fc670408a540a9a9b8",
+ "rendicoes": {
+  "png": {
+   "bytes": 8159,
+   "sha256": "b98574a4a49507b64d2ed82418232dc61f843a53adaa0222d22a828f15cc0c43",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6031,
+   "sha256": "ac7eadead56adc17c5346f1b272bab61069a510f2e856fcf2bb3fd2267565d97",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100056.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100056.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100056.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1100056.png",
+  "bytes": 3705,
+  "sha256": "4c2574ae188846af72f51680ead3a3600ebe1180c42647fc670408a540a9a9b8"
+ },
+ "sha1_origem": "2ac21ac558fdf26845afd6cdc1a305be9cf836fc",
+ "bytes_origem": 3705,
+ "capturado_em": "2026-11-08T05:21:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Cerejeiras.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "2ac21ac558fdf26845afd6cdc1a305be9cf836fc"
+ }
+}

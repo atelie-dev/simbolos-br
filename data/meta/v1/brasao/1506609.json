@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1506609",
+ "uf": "PA",
+ "municipio": "Santa Maria do Pará",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bras%C3%A3o_de_Santa_Maria-PA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Prefeitura de Santa Maria-PA",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "955c535bd4c6b69f29ba325b6ad1fc1d82a54c35fd6cff258a12cdf19cd07b6f",
+ "rendicoes": {
+  "png": {
+   "bytes": 103718,
+   "sha256": "f838369c0e47c587238f479aca3daf6b3e71e5de8a3112d96b48ec8415b3839e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 46315,
+   "sha256": "859eee750f4eb11d3be86bd0cba7fa1ffdc0e2f9524599041977e68f657838ab",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1506609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1506609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1506609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1506609.png",
+  "bytes": 141488,
+  "sha256": "955c535bd4c6b69f29ba325b6ad1fc1d82a54c35fd6cff258a12cdf19cd07b6f"
+ },
+ "sha1_origem": "4f5478e728616e40844c5b855aaca183834c5bdf",
+ "bytes_origem": 141488,
+ "capturado_em": "2026-11-08T05:25:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Santa_Maria-PA.png",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "4f5478e728616e40844c5b855aaca183834c5bdf"
+ }
+}

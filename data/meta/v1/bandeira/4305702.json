@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305702",
+ "uf": "RS",
+ "municipio": "Condor",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Condorbanders.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Condor",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3bae7a7a4e79307bbbb52d607a7c3f627ce19ea523b9ddbd92aea3c020d60d5c",
+ "rendicoes": {
+  "png": {
+   "bytes": 11973,
+   "sha256": "ef906d6eb36424178a25a4cd2e47aa2cb97751f1b86f4a708888f615a041db0d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8729,
+   "sha256": "b8dbc10d7ec5735e2f86666521743901703addf49c96485b11d8e20d405983f2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4305702.png",
+  "bytes": 9509,
+  "sha256": "3bae7a7a4e79307bbbb52d607a7c3f627ce19ea523b9ddbd92aea3c020d60d5c"
+ },
+ "sha1_origem": "2ee17d486151031ca666bc6d8e257717ae645999",
+ "bytes_origem": 9509,
+ "capturado_em": "2026-11-08T07:01:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Condorbanders.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:24Z",
+  "estado": "igual",
+  "sha1_commons": "2ee17d486151031ca666bc6d8e257717ae645999"
+ }
+}

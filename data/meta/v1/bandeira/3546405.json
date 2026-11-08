@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3546405",
+ "uf": "SP",
+ "municipio": "Santa Cruz do Rio Pardo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bandeira_de_Santa_Cruz_do_Rio_Pardo_%28SP%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "SCRP City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fda581c05f750ef81ff8d2b8accc59a92484c8a2203e9e0af9681217596a8c0e",
+ "rendicoes": {
+  "png": {
+   "bytes": 35885,
+   "sha256": "5525c40d3a1056d9f35134ddc51a47d427d6a594d2e30a0283ff563aa96c5ce2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8300,
+   "sha256": "008d6da69f17060ad75a30522baa26bbee41e0798670ad382c3d035b50639fd4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3546405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3546405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3546405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3546405.jpg",
+  "bytes": 6235,
+  "sha256": "fda581c05f750ef81ff8d2b8accc59a92484c8a2203e9e0af9681217596a8c0e"
+ },
+ "sha1_origem": "bfa721c46ff5d0572e98f01f2ab4814b5b7952ca",
+ "bytes_origem": 6235,
+ "capturado_em": "2026-11-08T06:37:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santa_Cruz_do_Rio_Pardo_(SP).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "bfa721c46ff5d0572e98f01f2ab4814b5b7952ca"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2307809",
+ "uf": "CE",
+ "municipio": "Marco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bandeira_de_Marco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Câmara Municipal de Marco - Estado do Ceará",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f4cbacf01f0387e76dcc0edc7ca1faae30f08ea3f7e18c326eeaf668507ab2ce",
+ "rendicoes": {
+  "png": {
+   "bytes": 90365,
+   "sha256": "caf1e01ad0a39fd65831d1810b3eb07e1eea833c33156ea8fc52766abfb01c52",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26696,
+   "sha256": "d912b26e48451377bb8f5538d6bfb55c1db53d4c758064298be936df0123f74a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2307809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2307809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2307809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2307809.jpg",
+  "bytes": 76131,
+  "sha256": "f4cbacf01f0387e76dcc0edc7ca1faae30f08ea3f7e18c326eeaf668507ab2ce"
+ },
+ "sha1_origem": "f8186b60000c26b6140d7531a66a5aaeea7d3c53",
+ "bytes_origem": 76131,
+ "capturado_em": "2026-11-08T05:33:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Marco.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "f8186b60000c26b6140d7531a66a5aaeea7d3c53"
+ }
+}

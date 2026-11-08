@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211256",
+ "uf": "SC",
+ "municipio": "Morro Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Bandeira_Morro_Grande.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Liandrafenali",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ad135f566dc57a7022761b45e09e7dec5e45ebccbd1ebc1bd25c15526d50d53b",
+ "rendicoes": {
+  "png": {
+   "bytes": 69712,
+   "sha256": "969feb67098e7cd5c21f0829616b1e22dc815aea26dbf402d0de881789f36432",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25087,
+   "sha256": "c1595949dba9a91a76fd3fa848aef94b7d7240966a14985e5b0e98cfd28f14f3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211256.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211256.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211256.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4211256.jpg",
+  "bytes": 295086,
+  "sha256": "ad135f566dc57a7022761b45e09e7dec5e45ebccbd1ebc1bd25c15526d50d53b"
+ },
+ "sha1_origem": "efd79ac783c6e4088bb313a79ec3bb5828dedee3",
+ "bytes_origem": 295086,
+ "capturado_em": "2026-11-08T06:55:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Morro_Grande.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "efd79ac783c6e4088bb313a79ec3bb5828dedee3"
+ }
+}

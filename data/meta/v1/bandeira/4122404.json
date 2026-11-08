@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4122404",
+ "uf": "PR",
+ "municipio": "Rolândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bandeirarolandia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a145d37111af171f8ad97e5bcd0f833992f077f3a796e2bf6e807e526c2a3286",
+ "rendicoes": {
+  "png": {
+   "bytes": 112792,
+   "sha256": "b6b466edb406a322807e271e9edbc6711727399b9d9f0066a81cca71c51a055e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27175,
+   "sha256": "22b7bb6dc0a067c585787e4312692a00a54f25a7382e6d9421a21b9a445ec587",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4122404.jpg",
+  "bytes": 28074,
+  "sha256": "a145d37111af171f8ad97e5bcd0f833992f077f3a796e2bf6e807e526c2a3286"
+ },
+ "sha1_origem": "c981587e1f643b43d97c9d464458bf2480675f41",
+ "bytes_origem": 28074,
+ "capturado_em": "2026-11-08T06:49:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeirarolandia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "c981587e1f643b43d97c9d464458bf2480675f41"
+ }
+}

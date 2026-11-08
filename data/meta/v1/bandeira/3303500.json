@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3303500",
+ "uf": "RJ",
+ "municipio": "Nova Iguaçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bandeira_de_Nova_Igua%C3%A7u.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Wanderson S. Dantas",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "711d56eb36460ab504f8d10b3d46aa00d5926d88abcba2a1c14edf2d9a7dea3b",
+ "rendicoes": {
+  "png": {
+   "bytes": 52993,
+   "sha256": "ddf678b795e9645059c2262e3de595b9da0578ba7f0ea3be0781c29d924e8460",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19680,
+   "sha256": "a062364bb3c05e93a2820275dbd76aae96f33276828cbfb724a2fd15ac35adc9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 348262,
+   "sha256": "711d56eb36460ab504f8d10b3d46aa00d5926d88abcba2a1c14edf2d9a7dea3b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303500.jpg"
+ },
+ "sha1_origem": "e1f119c0a642271e7a7511cf06a7f838feb53ecf",
+ "bytes_origem": 348262,
+ "capturado_em": "2026-11-08T03:55:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nova_Iguaçu.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "e1f119c0a642271e7a7511cf06a7f838feb53ecf"
+ }
+}

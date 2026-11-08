@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4117107",
+ "uf": "PR",
+ "municipio": "Nova Londrina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bras%C3%A3o_de_Nova_Londrina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Lincolnbs",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dafa59116fab32cd40597e922104bedeb7c60002797275c4078f15848b40232b",
+ "rendicoes": {
+  "png": {
+   "bytes": 215071,
+   "sha256": "9e711ed94d805c560e712fb0e6c389cc558caa943c87c7118d910aeb11b8a2ea",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49171,
+   "sha256": "a87beaaa239176d5e3e204ff9f97cb6d5802c33c3b2a0f59912a8e6f9abee729",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4117107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4117107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4117107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4117107.jpg",
+  "bytes": 747656,
+  "sha256": "dafa59116fab32cd40597e922104bedeb7c60002797275c4078f15848b40232b"
+ },
+ "sha1_origem": "61a8a9572fc141d3c95c4f6350e797886843b46a",
+ "bytes_origem": 747656,
+ "capturado_em": "2026-11-08T06:47:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Nova_Londrina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "61a8a9572fc141d3c95c4f6350e797886843b46a"
+ }
+}

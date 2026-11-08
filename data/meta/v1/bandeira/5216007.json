@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5216007",
+ "uf": "GO",
+ "municipio": "Panamá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_de_Panam%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Panamá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "85d45e00c54cfddf29c447da736c076e61d08697abfb8c9e9711a23e410bd74f",
+ "rendicoes": {
+  "png": {
+   "bytes": 75562,
+   "sha256": "343228b84717dceef474abcce5fe061d941e2ecf6db0955c2a68bb59f7a91f08",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20551,
+   "sha256": "ee90de965d2a6ca59bff91b7bd5f18f3cc2314cff34c66f531a85acb96b3071c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5216007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5216007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5216007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5216007.jpg",
+  "bytes": 14958,
+  "sha256": "85d45e00c54cfddf29c447da736c076e61d08697abfb8c9e9711a23e410bd74f"
+ },
+ "sha1_origem": "b5857677a3ae8b00c36a8b99e3f4417c3bf53939",
+ "bytes_origem": 14958,
+ "capturado_em": "2026-11-08T07:19:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Panamá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "b5857677a3ae8b00c36a8b99e3f4417c3bf53939"
+ }
+}

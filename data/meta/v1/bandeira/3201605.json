@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3201605",
+ "uf": "ES",
+ "municipio": "Conceição da Barra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bandeira_de_Concei%C3%A7%C3%A3o_da_Barra_-_ES.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b27d38b4ef0028ec356fa085817a60fe18c72e519492920c0bc5c8510f86b4ce",
+ "rendicoes": {
+  "png": {
+   "bytes": 54561,
+   "sha256": "7e2a29a8473c6afa61385ae776d8e5270c46820341509a1d955114a0f4b104b2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21720,
+   "sha256": "e6bc6fb166c5f3c774757d0565d93ac31924edba30667941a87926a668925d55",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 116794,
+   "sha256": "b27d38b4ef0028ec356fa085817a60fe18c72e519492920c0bc5c8510f86b4ce"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3201605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3201605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3201605.jpg"
+ },
+ "sha1_origem": "9ace1998e4d1f5aaa78b60e0ec418c1cb516d2b2",
+ "bytes_origem": 116794,
+ "capturado_em": "2026-11-08T03:51:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Conceição_da_Barra_-_ES.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "9ace1998e4d1f5aaa78b60e0ec418c1cb516d2b2"
+ }
+}

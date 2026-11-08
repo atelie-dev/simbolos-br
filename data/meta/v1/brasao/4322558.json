@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4322558",
+ "uf": "RS",
+ "municipio": "Vanini",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Vaninirsbrasoes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Vanini",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "76fa105996108dcd2bdae6ba367ca35ee5d2fca95508d6b428d2677fc41fa195",
+ "rendicoes": {
+  "png": {
+   "bytes": 28144,
+   "sha256": "10f6a763cb200824540b58b22b6b13d66a04b5108f0ac6ea4eedd8593a97caf1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7192,
+   "sha256": "287f01513a60542cafb678db28a605e150bd142f1e504654d8ab171a53c98901",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322558.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322558.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322558.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4322558.jpg",
+  "bytes": 3833,
+  "sha256": "76fa105996108dcd2bdae6ba367ca35ee5d2fca95508d6b428d2677fc41fa195"
+ },
+ "sha1_origem": "74bdcce0af271760d06e38305e2faa328f6808ca",
+ "bytes_origem": 3833,
+ "capturado_em": "2026-11-08T07:11:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Vaninirsbrasoes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "74bdcce0af271760d06e38305e2faa328f6808ca"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3124500",
+ "uf": "MG",
+ "municipio": "Estiva",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bandeiraestiva.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Estiva",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "97c69cfe9e0c82814a2e06dcd3c46d2b1e51d300057f34c427159db2a8f4e015",
+ "rendicoes": {
+  "png": {
+   "bytes": 6196,
+   "sha256": "f22873a55e49905c95cc65782ce6773de9d4aa0d6122722dbedae94273e81a06",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7700,
+   "sha256": "15c09b32382d198f7577f40a9befae143559ad1f21678bc079b09911ad32c048",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3124500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3124500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3124500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3124500.png",
+  "bytes": 2882,
+  "sha256": "97c69cfe9e0c82814a2e06dcd3c46d2b1e51d300057f34c427159db2a8f4e015"
+ },
+ "sha1_origem": "437865a67889590b99924f5489a061f06a37f82f",
+ "bytes_origem": 2882,
+ "capturado_em": "2026-11-08T06:06:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraestiva.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "437865a67889590b99924f5489a061f06a37f82f"
+ }
+}

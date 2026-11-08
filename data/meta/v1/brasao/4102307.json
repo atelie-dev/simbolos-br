@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4102307",
+ "uf": "PR",
+ "municipio": "Balsa Nova",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/BrasaoBalsaNovaPR.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Arthur Luponi",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "39e54cf916b242ad1c9b87e1cc277313dff1a30e2622c9bf4dea079e5f2308d0",
+ "rendicoes": {
+  "png": {
+   "bytes": 33139,
+   "sha256": "d968139fab49e8ccd3b007aa55bcaceb9e786d5c7d6ffa95965b0a6037336a09",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13939,
+   "sha256": "fc2e145d2f1517544c8a4128ea5cc839ac5ded263c6a3c3b65e8145b956ca056",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4102307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4102307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4102307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4102307.png",
+  "bytes": 10567,
+  "sha256": "39e54cf916b242ad1c9b87e1cc277313dff1a30e2622c9bf4dea079e5f2308d0"
+ },
+ "sha1_origem": "9201419a4d8916be44e99ed675f506630faefdae",
+ "bytes_origem": 10567,
+ "capturado_em": "2026-11-08T06:41:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoBalsaNovaPR.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "9201419a4d8916be44e99ed675f506630faefdae"
+ }
+}

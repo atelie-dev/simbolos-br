@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4219200",
+ "uf": "SC",
+ "municipio": "Vidal Ramos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bandeira_do_munic%C3%ADpio_de_Vidal_Ramos_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Vidal Ramos (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "adc8ceda46c485d571ea22a4aafbd872af682492bb0f2d56e7d69cb3dbc1a41a",
+ "rendicoes": {
+  "png": {
+   "bytes": 69583,
+   "sha256": "75cb17778312c02697c1a2b5671c78d3b52ff5be2a523bb95b84158d463c3ee2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20739,
+   "sha256": "8e38bc2fc41ab2f930831196bab0f1a160c5cf76bc3b3f7229f1631ff4c88f99",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 59246,
+   "sha256": "adc8ceda46c485d571ea22a4aafbd872af682492bb0f2d56e7d69cb3dbc1a41a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4219200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4219200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4219200.jpg"
+ },
+ "sha1_origem": "da280aa6957fa0a3303583d98242391226f69810",
+ "bytes_origem": 59246,
+ "capturado_em": "2026-11-08T04:46:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Vidal_Ramos_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "da280aa6957fa0a3303583d98242391226f69810"
+ }
+}

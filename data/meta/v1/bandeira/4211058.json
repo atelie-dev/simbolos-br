@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211058",
+ "uf": "SC",
+ "municipio": "Monte Carlo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bandeira_de_Monte_Carlo_%28Santa_Catarina%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Monte Carlo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "52ffa4bb734a5b0264867b6d350d7c402aef9c6135812980424d1c864dc8f17d",
+ "rendicoes": {
+  "png": {
+   "bytes": 126800,
+   "sha256": "63da6bcfc897fc78aa75e64866c3a05dc2d989c442192703f7d16aadc46d6f3f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26907,
+   "sha256": "5f0e698f03f97e8a7c69622005c15338a6711a861b56b5e3018442c1b5eb9378",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211058.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211058.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211058.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4211058.jpg",
+  "bytes": 28157,
+  "sha256": "52ffa4bb734a5b0264867b6d350d7c402aef9c6135812980424d1c864dc8f17d"
+ },
+ "sha1_origem": "c16bfc3f489b9d073b5feb2be98229e772ab249e",
+ "bytes_origem": 28157,
+ "capturado_em": "2026-11-08T06:55:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Monte_Carlo_(Santa_Catarina).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "c16bfc3f489b9d073b5feb2be98229e772ab249e"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4200705",
+ "uf": "SC",
+ "municipio": "Alfredo Wagner",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bandeira_de_Alfredo_Wagner.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Alfredo Wagner",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b732dbe9db721f59ba66e152bb23f5b8e56d83537fa5ac65d1503ac6bddc6d21",
+ "rendicoes": {
+  "png": {
+   "bytes": 43579,
+   "sha256": "db79642f21b01eed51b03a2feecab84af0522f71306e7830900a5efff77ded05",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18626,
+   "sha256": "3cdfe0f385acc5828c2b37fa607778c902235fdedd9ca68eae5722e491f2b418",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4200705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4200705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4200705.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4200705.png",
+  "bytes": 32784,
+  "sha256": "b732dbe9db721f59ba66e152bb23f5b8e56d83537fa5ac65d1503ac6bddc6d21"
+ },
+ "sha1_origem": "4c847cf62fdea7de38f4bf130d00620df788f58a",
+ "bytes_origem": 32784,
+ "capturado_em": "2026-11-08T06:51:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Alfredo_Wagner.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "4c847cf62fdea7de38f4bf130d00620df788f58a"
+ }
+}

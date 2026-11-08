@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4318705",
+ "uf": "RS",
+ "municipio": "São Leopoldo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bras%C3%A3o_de_S%C3%A3o_Leopoldo_-_RS.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "6a0590004d4f9c207971eac374419589e6ee205287e60fb27c2dda3d2af816a9",
+ "rendicoes": {
+  "png": {
+   "bytes": 210303,
+   "sha256": "b964b6c4cd9f979ac9e79dc46dacaf3f4c67bd35082347d07a40f2a8722c5c5c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 66101,
+   "sha256": "206713f62abfa2347002b6be11cb4e8db5fa54b6c2fa939b6e2fd045fe16bfd3",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 568621,
+   "sha256": "6a0590004d4f9c207971eac374419589e6ee205287e60fb27c2dda3d2af816a9"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318705.jpg"
+ },
+ "sha1_origem": "12cdc9424f6d37142a423b859ee4bf40c1cbfff4",
+ "bytes_origem": 568621,
+ "capturado_em": "2026-11-08T04:59:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_Leopoldo_-_RS.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:12Z",
+  "estado": "igual",
+  "sha1_commons": "12cdc9424f6d37142a423b859ee4bf40c1cbfff4"
+ }
+}

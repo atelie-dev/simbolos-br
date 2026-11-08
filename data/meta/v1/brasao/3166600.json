@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3166600",
+ "uf": "MG",
+ "municipio": "Serra da Saudade",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Serradasaudade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Serra da Saudade",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "34a7142a79dccf0e006075bb2d051b17d6b1c4149a8a28b8b20ff22bfd018c8f",
+ "rendicoes": {
+  "png": {
+   "bytes": 36458,
+   "sha256": "aadf8f152ebe90b37262157078543401e25bb2c575dd32ed08993dfe61de258d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8797,
+   "sha256": "087f06b4e1af6b684f0410fb73678b9ad2bcadfb8481b38d3e0c93a0189542eb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3166600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3166600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3166600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3166600.jpg",
+  "bytes": 10702,
+  "sha256": "34a7142a79dccf0e006075bb2d051b17d6b1c4149a8a28b8b20ff22bfd018c8f"
+ },
+ "sha1_origem": "99cb5bb4108a3c4e3c8447dc3c2591728d5dc467",
+ "bytes_origem": 10702,
+ "capturado_em": "2026-11-08T06:17:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Serradasaudade.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:37Z",
+  "estado": "igual",
+  "sha1_commons": "99cb5bb4108a3c4e3c8447dc3c2591728d5dc467"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5101803",
+ "uf": "MT",
+ "municipio": "Barra do Garças",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bandeira_de_Barra_do_Gar%C3%A7as.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://www.achetudoeregiao.com.br/mt/barra_do_garcas/geografia.htm",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "602d0b3c583a5b979510c6df6b68d6fa3db4953b778a5142df2266cd4987cd38",
+ "rendicoes": {
+  "png": {
+   "bytes": 24720,
+   "sha256": "10ed8e5fd3827b97d9ab9f47876b217a526e78be441fe9bc18b3cdc41ec90582",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7076,
+   "sha256": "b96457453230962514e8360c1451ed1055406a9eca8f93dabab2c6392b643630",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5101803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5101803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5101803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5101803.jpg",
+  "bytes": 7128,
+  "sha256": "602d0b3c583a5b979510c6df6b68d6fa3db4953b778a5142df2266cd4987cd38"
+ },
+ "sha1_origem": "8a02745808ae67324d6a14ba103e0c90845c4ee8",
+ "bytes_origem": 7128,
+ "capturado_em": "2026-11-08T07:14:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Barra_do_Garças.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "8a02745808ae67324d6a14ba103e0c90845c4ee8"
+ }
+}

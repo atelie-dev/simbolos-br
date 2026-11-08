@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4311700",
+ "uf": "RS",
+ "municipio": "Machadinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Brasao_machadinho-1-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "360fcaf9faefffa1265298a938b7a323c2d79c437fdc4e078aacbc15c9504cad",
+ "rendicoes": {
+  "png": {
+   "bytes": 101297,
+   "sha256": "65382008e766f0fc4a60cc28edb8f912085b880dbc5827e9b226552562717693",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20237,
+   "sha256": "b5a4aed81ce7eb00524f0813eff8269ddcf158f252a69cf21335a4fc9a4349f5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4311700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4311700.jpg",
+  "bytes": 90264,
+  "sha256": "360fcaf9faefffa1265298a938b7a323c2d79c437fdc4e078aacbc15c9504cad"
+ },
+ "sha1_origem": "57e08f73656d9ce61b405a373f59e4acf68d810d",
+ "bytes_origem": 90264,
+ "capturado_em": "2026-11-08T07:05:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_machadinho-1-.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "57e08f73656d9ce61b405a373f59e4acf68d810d"
+ }
+}

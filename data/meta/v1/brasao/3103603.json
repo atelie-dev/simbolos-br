@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3103603",
+ "uf": "MG",
+ "municipio": "Arantina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bras%C3%A3o_Arantina_Minas_Gerais.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Émerson Jean Da Silva",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0e5508b9d44559ee958047eaf17babd250f712ee27d50c3a49287bd207def761",
+ "rendicoes": {
+  "png": {
+   "bytes": 241099,
+   "sha256": "1acc10ae0ec09a9b75a5e6ca30532ed438629b52f9c4c25f3614235637e27fe7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37927,
+   "sha256": "4a6086672c440b32dddd671ac4e0e004a36a92ae7dfc275594ce6fef3d36fa37",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3103603.png",
+  "bytes": 1518433,
+  "sha256": "0e5508b9d44559ee958047eaf17babd250f712ee27d50c3a49287bd207def761"
+ },
+ "sha1_origem": "e826a96687499fb791ef403a93cd132b1c199362",
+ "bytes_origem": 1518433,
+ "capturado_em": "2026-11-08T05:59:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Arantina_Minas_Gerais.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "e826a96687499fb791ef403a93cd132b1c199362"
+ }
+}

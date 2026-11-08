@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4128609",
+ "uf": "PR",
+ "municipio": "Verê",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bandeira_de_Ver%C3%AA_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c6a203f0dea5aeb588f9657a2196bb9404a8c1d70d63d5bcad024e9daeea35aa",
+ "rendicoes": {
+  "png": {
+   "bytes": 45502,
+   "sha256": "b0c3f0fc9a8b6c82bf3682c8d865658f379f52fdaf7f8bc5fdb9dc6d6d8b4988",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19965,
+   "sha256": "da9447abbd159a97b490bf3f0f0713a4f8e36ee66ec97a5dfb4953e3705a187a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 338133,
+   "sha256": "c6a203f0dea5aeb588f9657a2196bb9404a8c1d70d63d5bcad024e9daeea35aa"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4128609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4128609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4128609.jpg"
+ },
+ "sha1_origem": "29e3ee6eba0dcc7549324bdccdc9ffd8ccaf43b9",
+ "bytes_origem": 338133,
+ "capturado_em": "2026-11-08T04:35:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Verê_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "29e3ee6eba0dcc7549324bdccdc9ffd8ccaf43b9"
+ }
+}

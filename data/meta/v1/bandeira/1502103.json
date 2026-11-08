@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1502103",
+ "uf": "PA",
+ "municipio": "Cametá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bandeira_de_Camet%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3b991b505f3186276697eef339bbf8e4fd3404ec0116ccf8f58b554a03279de6",
+ "rendicoes": {
+  "png": {
+   "bytes": 51272,
+   "sha256": "373257994e3c43341d4fe01f5d991032ee9d65b187e3b823bb56675a59e793ff",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11570,
+   "sha256": "816bc55979dbba8347232bba4822ec3aba2aee8aba5cc6312e95c9a6bab79271",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1502103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1502103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1502103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1502103.jpg",
+  "bytes": 29655,
+  "sha256": "3b991b505f3186276697eef339bbf8e4fd3404ec0116ccf8f58b554a03279de6"
+ },
+ "sha1_origem": "01033e77c06b7815ecf861ae5bd899a8ea61cc99",
+ "bytes_origem": 29655,
+ "capturado_em": "2026-11-08T05:24:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cametá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "01033e77c06b7815ecf861ae5bd899a8ea61cc99"
+ }
+}

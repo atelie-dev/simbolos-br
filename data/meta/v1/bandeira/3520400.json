@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3520400",
+ "uf": "SP",
+ "municipio": "Ilhabela",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/08/Ilhabela_bandeira.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "900b4bbe10fab0e97e5ed0b42fcb6d24c74ccd08842f876ca49dbe9166143dd9",
+ "rendicoes": {
+  "png": {
+   "bytes": 9491,
+   "sha256": "fe890be24edf9427c492ba738b062d59526ef2c61c3b9d6be8cc032c26b613f0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8413,
+   "sha256": "c73f2584ec1027ea1556c8c35f8c8af2d467c205829a0dfb81a9b270e45c3749",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3520400.gif",
+  "bytes": 3368,
+  "sha256": "900b4bbe10fab0e97e5ed0b42fcb6d24c74ccd08842f876ca49dbe9166143dd9"
+ },
+ "sha1_origem": "6b30088e4e670e3099f5f87be40573f5d56cfc44",
+ "bytes_origem": 3368,
+ "capturado_em": "2026-11-08T06:29:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ilhabela_bandeira.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "6b30088e4e670e3099f5f87be40573f5d56cfc44"
+ }
+}

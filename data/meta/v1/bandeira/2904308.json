@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2904308",
+ "uf": "BA",
+ "municipio": "Brejões",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/%22Bandeira_Brejoes_Bahia_Brasil%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Oziel Trindade",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b43469d1a5749fed6fe957c208080627a95fe9267db5ae39bb8a4dc9107db497",
+ "rendicoes": {
+  "png": {
+   "bytes": 78227,
+   "sha256": "99be61978bc1a7e279290cf0deb784d3de55ae1bb275037c6ab7b42208ea5d3e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19118,
+   "sha256": "1a9bf15a53ae5464d403f0a4aba41665163c471e2f5637d6351a4d35aa2e9b70",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2904308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2904308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2904308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2904308.jpg",
+  "bytes": 64498,
+  "sha256": "b43469d1a5749fed6fe957c208080627a95fe9267db5ae39bb8a4dc9107db497"
+ },
+ "sha1_origem": "289f806915265de5019f510754f9fa534221da20",
+ "bytes_origem": 64498,
+ "capturado_em": "2026-11-08T05:51:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:\"Bandeira_Brejoes_Bahia_Brasil\".jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "289f806915265de5019f510754f9fa534221da20"
+ }
+}

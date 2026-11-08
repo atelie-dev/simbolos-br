@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2101202",
+ "uf": "MA",
+ "municipio": "Bacabal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bras%C3%A3o_de_Bacabal.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Stramith",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "deaf0d0bb18f997e5b2be63cf2a9883680221541854066d6b1cf8ce3946bcd59",
+ "rendicoes": {
+  "png": {
+   "bytes": 89728,
+   "sha256": "74d645271733929fdd64b3ebc566481bef36c1622bfc1c1d86c8179578a63aa6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18489,
+   "sha256": "a116f972df77692fa19d13231954ecf2b7b19691cb8fcd6e1f0b33d73dbcbdb7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2101202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2101202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2101202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2101202.png",
+  "bytes": 86608,
+  "sha256": "deaf0d0bb18f997e5b2be63cf2a9883680221541854066d6b1cf8ce3946bcd59"
+ },
+ "sha1_origem": "06c4836949586424903885bb338c61784943e1d2",
+ "bytes_origem": 86608,
+ "capturado_em": "2026-11-08T05:27:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Bacabal.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "06c4836949586424903885bb338c61784943e1d2"
+ }
+}

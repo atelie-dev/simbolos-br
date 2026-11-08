@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3543006",
+ "uf": "SP",
+ "municipio": "Ribeirão Branco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bandeira_de_Ribeir%C3%A3o_Branco.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ribeirão Branco",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "887ea8d86c3aceb2ea1490e9bd58904692d7591636014b467db1df1890d0dc9a",
+ "rendicoes": {
+  "png": {
+   "bytes": 83074,
+   "sha256": "2707185b6908fc600e5cc272097d2a4cd5e9d3bb18e34ec7f63a38ffab603ced",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17516,
+   "sha256": "ddf424c81452d9c547737033f78db1e155900386a84f8df85e5f0d098e10332d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3543006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3543006.png",
+  "bytes": 255110,
+  "sha256": "887ea8d86c3aceb2ea1490e9bd58904692d7591636014b467db1df1890d0dc9a"
+ },
+ "sha1_origem": "850c397d28c6ff87f4c1f10ae7e0fcca9cf0ef16",
+ "bytes_origem": 255110,
+ "capturado_em": "2026-11-08T06:36:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ribeirão_Branco.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "850c397d28c6ff87f4c1f10ae7e0fcca9cf0ef16"
+ }
+}

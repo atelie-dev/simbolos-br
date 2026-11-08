@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4109708",
+ "uf": "PR",
+ "municipio": "Ibaiti",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Ibaiti_Brasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Chueiri",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3c56af8f1eae8c0bf8b3e988134c5ec9abd89adeeec190d97022f17ae768e90b",
+ "rendicoes": {
+  "png": {
+   "bytes": 31736,
+   "sha256": "c2c221a872f3496b277d6fa0f5280819ff8c98e5de4089fcadd660d3d2316af2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7995,
+   "sha256": "30f8921592eb1e23a390da2b3c7334df311df78e02919999fa8e17cba1d3ab95",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4109708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4109708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4109708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4109708.jpg",
+  "bytes": 14261,
+  "sha256": "3c56af8f1eae8c0bf8b3e988134c5ec9abd89adeeec190d97022f17ae768e90b"
+ },
+ "sha1_origem": "33d087fd2146a6693ff5599aab267018a4082b8b",
+ "bytes_origem": 14261,
+ "capturado_em": "2026-11-08T06:44:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ibaiti_Brasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "33d087fd2146a6693ff5599aab267018a4082b8b"
+ }
+}

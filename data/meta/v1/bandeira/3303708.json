@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3303708",
+ "uf": "RJ",
+ "municipio": "Paraíba do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_Para%C3%ADba_do_Sul.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Kilom691",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d5c8ff46e0ca632c29f14ea7e488f4d430442e19b00a379e7b5c01526a4889b9",
+ "rendicoes": {
+  "png": {
+   "bytes": 2183,
+   "sha256": "d5e528566adf3c76c7215144d0bc232e771f33bd96ea9a547f28952ff1feb160",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8537,
+   "sha256": "210aabc5637fbd6b41a8bcb143c241d50529053c492dd7914aa3278563c8efe4",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 280,
+   "sha256": "d5c8ff46e0ca632c29f14ea7e488f4d430442e19b00a379e7b5c01526a4889b9"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303708.jpg"
+ },
+ "sha1_origem": "362b7811dc69dc02d394ac0a732ab81a4aaf9007",
+ "bytes_origem": 280,
+ "capturado_em": "2026-11-08T03:55:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Paraíba_do_Sul.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "362b7811dc69dc02d394ac0a732ab81a4aaf9007"
+ }
+}

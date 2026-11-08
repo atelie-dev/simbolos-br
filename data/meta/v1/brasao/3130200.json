@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3130200",
+ "uf": "MG",
+ "municipio": "Igaratinga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Brasaoigaratinga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Igaratinga",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b024b2c240efc9e101379375e51dab5ee75cd60556da4783d9d33bf99d5870d4",
+ "rendicoes": {
+  "png": {
+   "bytes": 156378,
+   "sha256": "f02f4a3b2d8b19b006cf4323e36c06a5e763bf3e6013d910bb73df1f10ea0c65",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28318,
+   "sha256": "da2c216b425df00895dd17b82f603c592e1428bcabea22a6469750ab2f55e6ca",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3130200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3130200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3130200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3130200.jpg",
+  "bytes": 28367,
+  "sha256": "b024b2c240efc9e101379375e51dab5ee75cd60556da4783d9d33bf99d5870d4"
+ },
+ "sha1_origem": "b17a4cc72a849a18dd47b23c3f1e4a3fa6897597",
+ "bytes_origem": 28367,
+ "capturado_em": "2026-11-08T06:08:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoigaratinga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "b17a4cc72a849a18dd47b23c3f1e4a3fa6897597"
+ }
+}

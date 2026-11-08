@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3301900",
+ "uf": "RJ",
+ "municipio": "Itaboraí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Brasao-itaborai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d75ee79c10f012f1fa6c1b0ed47c787a47ea6b52c785d3d468d5b0e57fa811fd",
+ "rendicoes": {
+  "png": {
+   "bytes": 153569,
+   "sha256": "7beb8034a911fca7066b22cd5d3444b84426ae7d800405429b60dfba5e9c6c37",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28269,
+   "sha256": "49f7a8e21e6bea9c246eb31a7cb38d0cc71ea284d8e3d6d74396af8c89194ce9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3301900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3301900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3301900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3301900.jpg",
+  "bytes": 40612,
+  "sha256": "d75ee79c10f012f1fa6c1b0ed47c787a47ea6b52c785d3d468d5b0e57fa811fd"
+ },
+ "sha1_origem": "108d3b83a539ef515d5fa4a85658c0e7d854cd4d",
+ "bytes_origem": 40612,
+ "capturado_em": "2026-11-08T06:21:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-itaborai.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "108d3b83a539ef515d5fa4a85658c0e7d854cd4d"
+ }
+}

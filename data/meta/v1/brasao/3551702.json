@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3551702",
+ "uf": "SP",
+ "municipio": "Sertãozinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/BrasaoSertaozinhoSP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "84b14bdd7af7ab98f20ac905591d48d3e118351fee6f44077b1f4a09d8d1307d",
+ "rendicoes": {
+  "png": {
+   "bytes": 224079,
+   "sha256": "ebb4814fc02ff0887cad7c131521e35b768f0a92dde76aaec5a74c9ad8c02e6a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 65363,
+   "sha256": "2fd1470639d8bb45ad2a13bec6f5145d5a1d48deda6cbfb35172a6539ecdf69f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 148092,
+   "sha256": "84b14bdd7af7ab98f20ac905591d48d3e118351fee6f44077b1f4a09d8d1307d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3551702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3551702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3551702.jpg"
+ },
+ "sha1_origem": "b615dbd10d79c257c168f640306a9aade386a78e",
+ "bytes_origem": 148092,
+ "capturado_em": "2026-11-08T04:17:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoSertaozinhoSP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "b615dbd10d79c257c168f640306a9aade386a78e"
+ }
+}

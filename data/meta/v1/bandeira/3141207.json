@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3141207",
+ "uf": "MG",
+ "municipio": "Matutina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bandeira_do_municipio_de_Matutina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "own work",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "85a324e55dc09794c4eb5a57d9004c1f1b87856f444a2424300d6c8d4b6ad243",
+ "rendicoes": {
+  "png": {
+   "bytes": 86248,
+   "sha256": "dcb58c10c4916de10a65c2e09568cbdf75e6cc726e30068dbcc762f0bfc6df42",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21681,
+   "sha256": "7cf9bdb183794612234733182061b4afa1c14bdcd15e797f529121ed91c47227",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3141207.jpg",
+  "bytes": 47410,
+  "sha256": "85a324e55dc09794c4eb5a57d9004c1f1b87856f444a2424300d6c8d4b6ad243"
+ },
+ "sha1_origem": "01ff1f673f3762b4b39db902cb7014813d793373",
+ "bytes_origem": 47410,
+ "capturado_em": "2026-11-08T06:11:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_municipio_de_Matutina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "01ff1f673f3762b4b39db902cb7014813d793373"
+ }
+}

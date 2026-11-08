@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3528700",
+ "uf": "SP",
+ "municipio": "Marabá Paulista",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bras%C3%A3o_de_Marab%C3%A1_Paulista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Marabá Paulista",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "abe34e8caba95872ffcdb3765c8ce4f846d0eeefd71488c4321a203dc9b7998f",
+ "rendicoes": {
+  "png": {
+   "bytes": 55550,
+   "sha256": "ae477b8daba9782cd7ed7e626cf394d54e8d03ece3887069feed05c36f2d0dba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11965,
+   "sha256": "c2c8268a4c7ddcc89f6d3415e326ea5ee9b1a655cd03b79c755fce351d962491",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3528700.jpg",
+  "bytes": 15303,
+  "sha256": "abe34e8caba95872ffcdb3765c8ce4f846d0eeefd71488c4321a203dc9b7998f"
+ },
+ "sha1_origem": "b574980a4515c7703c1d65264b142f5720180105",
+ "bytes_origem": 15303,
+ "capturado_em": "2026-11-08T06:31:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Marabá_Paulista.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:06Z",
+  "estado": "igual",
+  "sha1_commons": "b574980a4515c7703c1d65264b142f5720180105"
+ }
+}

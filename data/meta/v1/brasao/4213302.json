@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4213302",
+ "uf": "SC",
+ "municipio": "Ponte Alta",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bras%C3%A3o_Ponte_Alta.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e25e0bedd429ed447fc10af2e93f911002e9427c33393a1f7b2d22e7101429b2",
+ "rendicoes": {
+  "png": {
+   "bytes": 13393,
+   "sha256": "6495d75129de823559bef9732defdb7ef0d453b064289eddb91d4d91f443ae1c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4652,
+   "sha256": "61bfb21b8ac2df182b6a8814978df7967afd21cd1b105532b24dd1ccc15b448f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4213302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4213302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4213302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4213302.png",
+  "bytes": 12792,
+  "sha256": "e25e0bedd429ed447fc10af2e93f911002e9427c33393a1f7b2d22e7101429b2"
+ },
+ "sha1_origem": "e979bdaea59feab80f03fd0117db3e8fbc2dbc63",
+ "bytes_origem": 12792,
+ "capturado_em": "2026-11-08T06:56:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Ponte_Alta.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:53Z",
+  "estado": "igual",
+  "sha1_commons": "e979bdaea59feab80f03fd0117db3e8fbc2dbc63"
+ }
+}

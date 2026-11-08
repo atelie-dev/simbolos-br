@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3305703",
+ "uf": "RJ",
+ "municipio": "Sumidouro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Brasao-sumidouro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "74eb7617739676b3ae91a32f463bd0204a4b3e2758b891d584cb5a5f55bfa20b",
+ "rendicoes": {
+  "png": {
+   "bytes": 247479,
+   "sha256": "86f59eb3adea3ccaa68b3d3c94388f1faaa58d008201e3c776a339f3a25f47a4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 78289,
+   "sha256": "adcbe4c9528ebb3b23f93a469053fddda347f91dbbf246cd9195404e34e72fec",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3305703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3305703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3305703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3305703.jpg",
+  "bytes": 417126,
+  "sha256": "74eb7617739676b3ae91a32f463bd0204a4b3e2758b891d584cb5a5f55bfa20b"
+ },
+ "sha1_origem": "2298a50abe4d0b402afd5be403e887faeb6807a5",
+ "bytes_origem": 417126,
+ "capturado_em": "2026-11-08T06:22:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-sumidouro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "2298a50abe4d0b402afd5be403e887faeb6807a5"
+ }
+}

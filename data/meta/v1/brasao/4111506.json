@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4111506",
+ "uf": "PR",
+ "municipio": "Ivaiporã",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Brasaoivaipora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ivaiporã",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b2da6646be51d92554c7c7282b68cf8d9714c37d27c221bf46e17abbcfbf680e",
+ "rendicoes": {
+  "png": {
+   "bytes": 190573,
+   "sha256": "06be213b8ad8f620de203349ac8c6b8dfa28723871a3b842c75df9475d5461dd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54849,
+   "sha256": "1cf8938628e7530278e1242f778dafc41a80e491ff5b456dfd29a51a6befa033",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4111506.jpg",
+  "bytes": 938493,
+  "sha256": "b2da6646be51d92554c7c7282b68cf8d9714c37d27c221bf46e17abbcfbf680e"
+ },
+ "sha1_origem": "954dcdbaeebfb8e0297433cd9a97b21067e718d4",
+ "bytes_origem": 938493,
+ "capturado_em": "2026-11-08T06:45:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoivaipora.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "954dcdbaeebfb8e0297433cd9a97b21067e718d4"
+ }
+}

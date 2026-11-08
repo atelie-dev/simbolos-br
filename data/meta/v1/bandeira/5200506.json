@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5200506",
+ "uf": "GO",
+ "municipio": "Aloândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bandeira_de_Alo%C3%A2ndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Aloândia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "eb278d47fc679e3acea43df16e4185fdd681a8bdf7eed91a94e9ac4e3fa99377",
+ "rendicoes": {
+  "png": {
+   "bytes": 20319,
+   "sha256": "2c5a4f79c2073ca1d31c62909928082e54533b7336818e11bc893022df146812",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7991,
+   "sha256": "ecc5fc0a99a810ee71f6dbe1825b75557fe8900348dd0348102e7101c9c4674d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5200506.jpg",
+  "bytes": 8190,
+  "sha256": "eb278d47fc679e3acea43df16e4185fdd681a8bdf7eed91a94e9ac4e3fa99377"
+ },
+ "sha1_origem": "2c70a2a13483898b97d12b56cfde46d1bb7c029e",
+ "bytes_origem": 8190,
+ "capturado_em": "2026-11-08T07:16:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Aloândia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "2c70a2a13483898b97d12b56cfde46d1bb7c029e"
+ }
+}

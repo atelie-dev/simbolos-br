@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211900",
+ "uf": "SC",
+ "municipio": "Palhoça",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Brasao_Palho%C3%A7a.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8d645afee5e5fd070db5c714cae70b6fda51873b28ca724fca5b7980ee65a95a",
+ "rendicoes": {
+  "png": {
+   "bytes": 12660,
+   "sha256": "ca9e3ae26440b3c1b13abb482f72f6e6ea0643a3144920518a913c05f1e847d5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8596,
+   "sha256": "8f9766457fcc58906cbb543d80dafe60bf9b8fc65eae2a9748e5333fb73813d4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4211900.png",
+  "bytes": 4874,
+  "sha256": "8d645afee5e5fd070db5c714cae70b6fda51873b28ca724fca5b7980ee65a95a"
+ },
+ "sha1_origem": "83227819229136184cae2c1c70055264db32b35f",
+ "bytes_origem": 4874,
+ "capturado_em": "2026-11-08T06:55:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Palhoça.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "83227819229136184cae2c1c70055264db32b35f"
+ }
+}

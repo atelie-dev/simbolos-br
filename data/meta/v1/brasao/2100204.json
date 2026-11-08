@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2100204",
+ "uf": "MA",
+ "municipio": "Alcântara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Alc%C3%A2ntara-MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "ANDRADE, J. S.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bc9f2fc2cb56000f5951e6475cdaa901dd5d2a9766bdf3d12ba4bc2f941a60ae",
+ "rendicoes": {
+  "png": {
+   "bytes": 259155,
+   "sha256": "526bcaee7ce172d38472a292daa17afe4d1a4902577d00537755334086226e51",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49227,
+   "sha256": "7f16b0f46e8ccb3518a0ab71ad3d788dc9aca80d4f8e4c23c10b95bfe9ddd45d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2100204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2100204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2100204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2100204.jpg",
+  "bytes": 71537,
+  "sha256": "bc9f2fc2cb56000f5951e6475cdaa901dd5d2a9766bdf3d12ba4bc2f941a60ae"
+ },
+ "sha1_origem": "397a55e28cf0e67b9dc9218ebcdb096fcb094164",
+ "bytes_origem": 71537,
+ "capturado_em": "2026-11-08T05:27:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Alcântara-MA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "397a55e28cf0e67b9dc9218ebcdb096fcb094164"
+ }
+}

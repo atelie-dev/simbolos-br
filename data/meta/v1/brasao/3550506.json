@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3550506",
+ "uf": "SP",
+ "municipio": "São Pedro do Turvo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Brasao_Sao_Pedro_do_Turvo.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5cf87f08fb08180b9fb871f88d60138d32d23fd5a71d55aa3c9c326285711324",
+ "rendicoes": {
+  "png": {
+   "bytes": 199017,
+   "sha256": "39200a4a1a4cadb3e0e46f80b4721570892b0bf218f28e24330574a577f82be0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60497,
+   "sha256": "a0d8dd786fa159990e48d7448c86c8a83ebd8bf612bb7370f8918de5a09b1373",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3550506.png",
+  "bytes": 2948795,
+  "sha256": "5cf87f08fb08180b9fb871f88d60138d32d23fd5a71d55aa3c9c326285711324"
+ },
+ "sha1_origem": "b5ae8061e457b6d4b89d9d11bf4222a63b37028d",
+ "bytes_origem": 2948795,
+ "capturado_em": "2026-11-08T06:38:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Sao_Pedro_do_Turvo.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "b5ae8061e457b6d4b89d9d11bf4222a63b37028d"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3501905",
+ "uf": "SP",
+ "municipio": "Amparo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/54/AmparoBand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "987c839c8c3e9700e567ee1eb91c8e6dffa8b8b13443a95fd6590655c47e8a45",
+ "rendicoes": {
+  "png": {
+   "bytes": 47242,
+   "sha256": "9b0e70c0ce9dcc419f4e0d4118404a893cdf393b3abbd7cd9e41e1c6990e71a3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13387,
+   "sha256": "fdb37dd4b1579c5b8b48d7c96dc26429a71a456368a892dcc1b917d5c0e61c2c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3501905.jpg",
+  "bytes": 14816,
+  "sha256": "987c839c8c3e9700e567ee1eb91c8e6dffa8b8b13443a95fd6590655c47e8a45"
+ },
+ "sha1_origem": "f0780cc99b0f98bd60024a1b6b76a91e71c8d2de",
+ "bytes_origem": 14816,
+ "capturado_em": "2026-11-08T06:23:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:AmparoBand.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "f0780cc99b0f98bd60024a1b6b76a91e71c8d2de"
+ }
+}

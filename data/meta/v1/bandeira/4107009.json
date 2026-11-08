@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4107009",
+ "uf": "PR",
+ "municipio": "Curiúva",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bandeira_de_Curi%C3%BAva.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "José Carlos Pereira",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8c702067d2109986eeb2254d15059552669bcd83a92c304c299ea3afc4fb11fb",
+ "rendicoes": {
+  "png": {
+   "bytes": 86810,
+   "sha256": "8b9513be9b896a0a8e8b008438e8791eb07bcf0191dc73ae75ffe3d33371f527",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27198,
+   "sha256": "9947f5f4efd2e812758ce59be624c9e30031fd048f8cdb7d3c6b0e9a1a18a082",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4107009.png",
+  "bytes": 214161,
+  "sha256": "8c702067d2109986eeb2254d15059552669bcd83a92c304c299ea3afc4fb11fb"
+ },
+ "sha1_origem": "8a4940692da3e1be947203ed702a22cb39d06908",
+ "bytes_origem": 214161,
+ "capturado_em": "2026-11-08T06:43:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Curiúva.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "8a4940692da3e1be947203ed702a22cb39d06908"
+ }
+}

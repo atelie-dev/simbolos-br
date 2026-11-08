@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4111555",
+ "uf": "PR",
+ "municipio": "Ivaté",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bras%C3%A3o_de_Ivat%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ivaté",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "565f2060e5841a7b80cd497a40f51d3c76159e24e3e39ff34dc7efe155d8974b",
+ "rendicoes": {
+  "png": {
+   "bytes": 68511,
+   "sha256": "7fa4bfc5bd97730cf25ab2aa68450abe50153aa7567dbfe2e1dac5df43fac7fb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13677,
+   "sha256": "5791f9b407e5bc5e72a32f2825e865772f080fd35c3cd9dcb04ded53cf986cf4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111555.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111555.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111555.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4111555.jpg",
+  "bytes": 17057,
+  "sha256": "565f2060e5841a7b80cd497a40f51d3c76159e24e3e39ff34dc7efe155d8974b"
+ },
+ "sha1_origem": "574b1b3b2c29f9fcebddcf834525faa265081a0f",
+ "bytes_origem": 17057,
+ "capturado_em": "2026-11-08T06:45:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Ivaté.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "574b1b3b2c29f9fcebddcf834525faa265081a0f"
+ }
+}

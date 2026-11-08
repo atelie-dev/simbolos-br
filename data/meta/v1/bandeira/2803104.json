@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2803104",
+ "uf": "SE",
+ "municipio": "Itabi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandeira_itabi.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal Itabi",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "74b1ff32f7aff98dfea0fa2ff764b7d3eba5159c67a3172a00421c2d738bae04",
+ "rendicoes": {
+  "png": {
+   "bytes": 76155,
+   "sha256": "bf00983759ba3a33926418e0d136ee0362a7954fce325a1aaf2ca1cad7e6ab73",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29435,
+   "sha256": "6c887176910d80ef404928dbc3b2ee68f8955552382982d76501e36dad9cb6b6",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 411549,
+   "sha256": "74b1ff32f7aff98dfea0fa2ff764b7d3eba5159c67a3172a00421c2d738bae04"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2803104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2803104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2803104.jpg"
+ },
+ "sha1_origem": "37cd76274ef20f45d0d6e3c8c64f2b98c3e066b9",
+ "bytes_origem": 411549,
+ "capturado_em": "2026-11-08T03:12:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_itabi.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "37cd76274ef20f45d0d6e3c8c64f2b98c3e066b9"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4105805",
+ "uf": "PR",
+ "municipio": "Colombo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bandeira_colombense.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Brazilian government",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ee442a9596b4189ed42687429027d482d07b97506544877385a573ff4bd6a733",
+ "rendicoes": {
+  "png": {
+   "bytes": 13291,
+   "sha256": "faa6b1544ffad011763ec5c2f2813d30aaf82f920f78feda12f77e96483ac46f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14450,
+   "sha256": "06718513c7aa73b69f8a279c3e1aa4971048447d4ca18f8f2408829a753b9501",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4105805.png",
+  "bytes": 2331,
+  "sha256": "ee442a9596b4189ed42687429027d482d07b97506544877385a573ff4bd6a733"
+ },
+ "sha1_origem": "ec18db83b81fe141cd073d764ba19a794934103c",
+ "bytes_origem": 2331,
+ "capturado_em": "2026-11-08T06:42:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_colombense.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "ec18db83b81fe141cd073d764ba19a794934103c"
+ }
+}

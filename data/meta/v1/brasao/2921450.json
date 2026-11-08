@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2921450",
+ "uf": "BA",
+ "municipio": "Mirante",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bras%C3%A3o_de_Mirante.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1611b855ac96b42c9d07e3b709df0e4a11916028016d55c4a9ef25dc090c47fb",
+ "rendicoes": {
+  "png": {
+   "bytes": 69123,
+   "sha256": "be73ea621cfb0276bc2585b30558e23949985bca3ff176db09b5bb84dd2131d9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13397,
+   "sha256": "8b4a770f99adf459de2fa8503af28fd64c18e6ef80d7cb61b14a99d7ab122a77",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2921450.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2921450.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2921450.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2921450.jpg",
+  "bytes": 14036,
+  "sha256": "1611b855ac96b42c9d07e3b709df0e4a11916028016d55c4a9ef25dc090c47fb"
+ },
+ "sha1_origem": "4a39ca3dafa5d17ff6fcdddba8ef00c078f20df4",
+ "bytes_origem": 14036,
+ "capturado_em": "2026-11-08T05:55:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Mirante.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "4a39ca3dafa5d17ff6fcdddba8ef00c078f20df4"
+ }
+}

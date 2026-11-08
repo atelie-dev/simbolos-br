@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4112603",
+ "uf": "PR",
+ "municipio": "Jardim Olinda",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bandeira_JardimOlinda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c26a57bde0c0abb7ea9ae33a1bd095d8dcfea6fbbe2e79c1fd8ac4aa2eb0978f",
+ "rendicoes": {
+  "png": {
+   "bytes": 16499,
+   "sha256": "eb8797e30481161e4d4299cd474420b6de0fb7b8442bc1c0d35fceafa2f4d92e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8757,
+   "sha256": "226eb30820304ae3f5413d6b1cca25ae1527b83809a8f2a1e9e27754e7a47832",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4112603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4112603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4112603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4112603.jpg",
+  "bytes": 5734,
+  "sha256": "c26a57bde0c0abb7ea9ae33a1bd095d8dcfea6fbbe2e79c1fd8ac4aa2eb0978f"
+ },
+ "sha1_origem": "318bbd40cadd2ada97d677fd79842535b9751c55",
+ "bytes_origem": 5734,
+ "capturado_em": "2026-11-08T06:45:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_JardimOlinda.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "318bbd40cadd2ada97d677fd79842535b9751c55"
+ }
+}

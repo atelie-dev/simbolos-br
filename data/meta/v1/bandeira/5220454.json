@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5220454",
+ "uf": "GO",
+ "municipio": "Senador Canedo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bandeira_de_Senador_Canedo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Senador Canedo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "99b24a20ad6952e8d8f4f61d564f364ecdd1214ba60911d4eaa26be611422048",
+ "rendicoes": {
+  "png": {
+   "bytes": 23238,
+   "sha256": "cbe81f54ebb528835359a2e664b06c7b612e2a87325aa76e6707bd907c956d7f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12912,
+   "sha256": "287c884ac2fcfafc5935798add3f581d81d786f5d069b6542fc52050e204f0e0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220454.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220454.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220454.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5220454.png",
+  "bytes": 19091,
+  "sha256": "99b24a20ad6952e8d8f4f61d564f364ecdd1214ba60911d4eaa26be611422048"
+ },
+ "sha1_origem": "0234cea0ba875b4c302db88843d9760d323fca93",
+ "bytes_origem": 19091,
+ "capturado_em": "2026-11-08T07:20:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Senador_Canedo.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "0234cea0ba875b4c302db88843d9760d323fca93"
+ }
+}

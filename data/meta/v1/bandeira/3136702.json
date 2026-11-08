@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3136702",
+ "uf": "MG",
+ "municipio": "Juiz de Fora",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bandeira_de_Juiz_de_Fora.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9d69bca1f84f24d931dcfd8a20bb921fecfb5819d6fbbdfe4624799b8dfa8995",
+ "rendicoes": {
+  "png": {
+   "bytes": 3440,
+   "sha256": "84d63cf91779202b9bfacbdf70e65fe3d89a355c684aa7d796874095216dc76e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10595,
+   "sha256": "4de5bde85d54316916e080b3a076c595dcfc46c94254d2814976981559b2ef9a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1098,
+   "sha256": "9d69bca1f84f24d931dcfd8a20bb921fecfb5819d6fbbdfe4624799b8dfa8995"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3136702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3136702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3136702.jpg"
+ },
+ "sha1_origem": "a9807d27e843da8e8f0108f9a8522e8d2972ed4b",
+ "bytes_origem": 1098,
+ "capturado_em": "2026-11-08T03:40:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Juiz_de_Fora.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "a9807d27e843da8e8f0108f9a8522e8d2972ed4b"
+ }
+}

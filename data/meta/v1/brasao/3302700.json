@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3302700",
+ "uf": "RJ",
+ "municipio": "Maricá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bras%C3%A3o_de_Maric%C3%A1_-_RJ.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c6a66ab3217b24bb89491dc5debd8874f23860f5dd70812afb11e9010c47145f",
+ "rendicoes": {
+  "png": {
+   "bytes": 174686,
+   "sha256": "199821aa286b479f55c014ca06932839491df7cf4fa9ee739a999de789759101",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54779,
+   "sha256": "d10074885ebcb21873d2b99edc82370bdd904fd8dc2229cd78c9eb6c644e103f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 378962,
+   "sha256": "c6a66ab3217b24bb89491dc5debd8874f23860f5dd70812afb11e9010c47145f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302700.jpg"
+ },
+ "sha1_origem": "435a47ea037a28b217ebea92386bff12015eaa0e",
+ "bytes_origem": 378962,
+ "capturado_em": "2026-11-08T03:54:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Maricá_-_RJ.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:06Z",
+  "estado": "igual",
+  "sha1_commons": "435a47ea037a28b217ebea92386bff12015eaa0e"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2602506",
+ "uf": "PE",
+ "municipio": "Brejinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bandeira_Brejinho-PE_montagem.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "092475766cb9c57d1abd72dd816b9f9ebafbd87e4e6a2dcf91e424122f0f0547",
+ "rendicoes": {
+  "png": {
+   "bytes": 37920,
+   "sha256": "07b387f595b8fa39aca675f0e1cbfa518e2424682b31c3914b956adf9615224f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16728,
+   "sha256": "22736be8922b1bb1d53db27f7630be790636cfca4d711a9e125f762c4a2103d9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 36666,
+   "sha256": "092475766cb9c57d1abd72dd816b9f9ebafbd87e4e6a2dcf91e424122f0f0547"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2602506.jpg"
+ },
+ "sha1_origem": "330caf2804f0627996a29b7eb19d80f0ff8dc4d6",
+ "bytes_origem": 36666,
+ "capturado_em": "2026-11-08T03:04:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Brejinho-PE_montagem.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "330caf2804f0627996a29b7eb19d80f0ff8dc4d6"
+ }
+}

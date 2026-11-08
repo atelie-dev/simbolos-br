@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3520004",
+ "uf": "SP",
+ "municipio": "Igaraçu do Tietê",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bandeira_Igara%C3%A7u_do_Tiet%C3%AA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "23f2409cd2d9d7424b72d26cc82056e2f65ca22b13e390b38f1c5d86a0fb9429",
+ "rendicoes": {
+  "png": {
+   "bytes": 32141,
+   "sha256": "2c93e9e73d98fa66fedaae279c275fe357f9156fae1170dcb7efa96fd9b4b6d0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14481,
+   "sha256": "92bc2834407335a96a66fd7d9f5f3fa50d89326dc9cc88803ea5a4635d1864b7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3520004.jpg",
+  "bytes": 28236,
+  "sha256": "23f2409cd2d9d7424b72d26cc82056e2f65ca22b13e390b38f1c5d86a0fb9429"
+ },
+ "sha1_origem": "ac4dbd44da1e3f7d9c95fbc68f245049aeb820f4",
+ "bytes_origem": 28236,
+ "capturado_em": "2026-11-08T06:29:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Igaraçu_do_Tietê.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "ac4dbd44da1e3f7d9c95fbc68f245049aeb820f4"
+ }
+}

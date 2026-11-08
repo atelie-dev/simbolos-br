@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2501534",
+ "uf": "PB",
+ "municipio": "Baraúna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bandeira_barauna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Baraúna",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ebe7b79cebe76c46851f5716deae49008d3314f708b1b47da337564b40cdecc2",
+ "rendicoes": {
+  "png": {
+   "bytes": 62878,
+   "sha256": "067d9f8d3f8e81b228c746ec13d23d8a1386f0af1b9a978e8825fbc603fc27ca",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13763,
+   "sha256": "95c8fbbd4675013a67ff3250e1dff5879aea8b54353e12360a9f5c5dfb6bd139",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501534.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501534.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501534.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2501534.jpg",
+  "bytes": 13659,
+  "sha256": "ebe7b79cebe76c46851f5716deae49008d3314f708b1b47da337564b40cdecc2"
+ },
+ "sha1_origem": "73bb712b4b403d4ffa1c70508dcdea8b3f6cea28",
+ "bytes_origem": 13659,
+ "capturado_em": "2026-11-08T05:39:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_barauna.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "73bb712b4b403d4ffa1c70508dcdea8b3f6cea28"
+ }
+}

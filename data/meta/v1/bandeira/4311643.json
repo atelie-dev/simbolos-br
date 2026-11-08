@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4311643",
+ "uf": "RS",
+ "municipio": "Linha Nova",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Linha_Novabandeirars.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Linha Nova",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1f75a2a05dbf66b5d4f54d96124ed3671b097390e229f06eeaf130d68a53ad66",
+ "rendicoes": {
+  "png": {
+   "bytes": 21366,
+   "sha256": "d3d1ce31d73289df0c62d983606e014f718904e29e6516e26df6cc6def287411",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12763,
+   "sha256": "b5a1bf2031fef0f4d38850723c7ecf2a318894d4eee88060456bd6f1d96c46f8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311643.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311643.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311643.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4311643.png",
+  "bytes": 16518,
+  "sha256": "1f75a2a05dbf66b5d4f54d96124ed3671b097390e229f06eeaf130d68a53ad66"
+ },
+ "sha1_origem": "8072f8531dcec2eaecd5d911965e69a25d02d958",
+ "bytes_origem": 16518,
+ "capturado_em": "2026-11-08T07:05:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Linha_Novabandeirars.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "8072f8531dcec2eaecd5d911965e69a25d02d958"
+ }
+}

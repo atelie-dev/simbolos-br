@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5003702",
+ "uf": "MS",
+ "municipio": "Dourados",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/BandeiraDourados.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "aef8350a44b6b2008fb72464a75cd3d189fb5173da19b7dcdf49a609b547ef5a",
+ "rendicoes": {
+  "png": {
+   "bytes": 20642,
+   "sha256": "362717c285f920a68abe5b507b0a34a3761bfccb7ae218abbc6413b943384d0f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10279,
+   "sha256": "a04dd6e128d679f78bd34430ea11e7c4cbe5278b7085f725ca7f60a0972a8959",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5003702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5003702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5003702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5003702.png",
+  "bytes": 8854,
+  "sha256": "aef8350a44b6b2008fb72464a75cd3d189fb5173da19b7dcdf49a609b547ef5a"
+ },
+ "sha1_origem": "869354fa0d9ea25b41f2bf3cae17f2032e11c4fe",
+ "bytes_origem": 8854,
+ "capturado_em": "2026-11-08T07:12:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraDourados.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:41Z",
+  "estado": "igual",
+  "sha1_commons": "869354fa0d9ea25b41f2bf3cae17f2032e11c4fe"
+ }
+}

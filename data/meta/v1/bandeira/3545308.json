@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3545308",
+ "uf": "SP",
+ "municipio": "Salto de Pirapora",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_salto_de_pirapora.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "74cb301cca0d0d7794b4234a0c7b6f25ff232e94665aced43692f1e8dc8d18d8",
+ "rendicoes": {
+  "png": {
+   "bytes": 12158,
+   "sha256": "358d6c30751043ba1c993789d8c3de346210434584a17ca16fb8c64752e03ba0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6105,
+   "sha256": "975b32d4182ce426b0f1e9080a6a6942f734da80808a1dc75128dd8ed2e27088",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3545308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3545308.png",
+  "bytes": 4575,
+  "sha256": "74cb301cca0d0d7794b4234a0c7b6f25ff232e94665aced43692f1e8dc8d18d8"
+ },
+ "sha1_origem": "4c50ac8becdd602814af3a079f1252e12bcd72aa",
+ "bytes_origem": 4575,
+ "capturado_em": "2026-11-08T06:37:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_salto_de_pirapora.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "4c50ac8becdd602814af3a079f1252e12bcd72aa"
+ }
+}

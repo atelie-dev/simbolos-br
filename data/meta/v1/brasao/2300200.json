@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2300200",
+ "uf": "CE",
+ "municipio": "Acaraú",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bras%C3%A3o_de_Acara%C3%BA_-_CE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "700afee94315e325aa035352a04dd4a9fb330436926c0add9b53b401fcc7b757",
+ "rendicoes": {
+  "png": {
+   "bytes": 178926,
+   "sha256": "bc21d47ca380c1ff3852aaae42e78ddad6a8b861209f523852642c9f6f37558b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54846,
+   "sha256": "4915c771d77ec06d69da3585bb1feda5327454cdf042c028db14846e13188c55",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 127647,
+   "sha256": "700afee94315e325aa035352a04dd4a9fb330436926c0add9b53b401fcc7b757"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2300200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2300200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2300200.jpg"
+ },
+ "sha1_origem": "0fc07c5fb971146a4c832ba5d146edb560120844",
+ "bytes_origem": 127647,
+ "capturado_em": "2026-11-08T02:44:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Acaraú_-_CE.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "0fc07c5fb971146a4c832ba5d146edb560120844"
+ }
+}

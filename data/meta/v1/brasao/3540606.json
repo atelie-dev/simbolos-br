@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3540606",
+ "uf": "SP",
+ "municipio": "Porto Feliz",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Brasao_PortoFeliz_SaoPaulo_Brasil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Porto Feliz",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "29eb4ff84e97abdcd584d299184f61308671a0aa6cbd0e3cb0065891d371891a",
+ "rendicoes": {
+  "png": {
+   "bytes": 68599,
+   "sha256": "c385673a5c23ce1be52bd33588c884e68fe610aae3f59d57fb27bff06e5e6b18",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17330,
+   "sha256": "abbd47cfaf5637a9788c4718ee5babc093bf6769412d711ea7c0c9fdaf492fd3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540606.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3540606.png",
+  "bytes": 57242,
+  "sha256": "29eb4ff84e97abdcd584d299184f61308671a0aa6cbd0e3cb0065891d371891a"
+ },
+ "sha1_origem": "4391a343db80d5db5835bc3dbeb87295308e93b8",
+ "bytes_origem": 57242,
+ "capturado_em": "2026-11-08T06:35:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_PortoFeliz_SaoPaulo_Brasil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "4391a343db80d5db5835bc3dbeb87295308e93b8"
+ }
+}

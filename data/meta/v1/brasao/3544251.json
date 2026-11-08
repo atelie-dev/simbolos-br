@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3544251",
+ "uf": "SP",
+ "municipio": "Rosana",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bras%C3%A3o_de_Rosana_%28SP%29.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Emerson Santiago Silva",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "eef5251d4099e1218fac30d9638f051c61e45cf6b1df9d3df46ae1121acb0547",
+ "rendicoes": {
+  "png": {
+   "bytes": 377239,
+   "sha256": "cb7f30a15f3c1d4d9857a4aa8ee40994ccccc4e4012ebb44dd9aa9e09f7e653d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 64546,
+   "sha256": "94328f09323f1d458dfd299a4a46e4bfa6aecaf2aba652a25a8d272d728f6639",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544251.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544251.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544251.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3544251.png",
+  "bytes": 489738,
+  "sha256": "eef5251d4099e1218fac30d9638f051c61e45cf6b1df9d3df46ae1121acb0547"
+ },
+ "sha1_origem": "a44cb09b7a10ab3dc2a16dea02b6b5a534a923ac",
+ "bytes_origem": 489738,
+ "capturado_em": "2026-11-08T06:36:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Rosana_(SP).PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "a44cb09b7a10ab3dc2a16dea02b6b5a534a923ac"
+ }
+}

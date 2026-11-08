@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2601607",
+ "uf": "PE",
+ "municipio": "Belém do São Francisco",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brasao_belem.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "f66fbd0e6c9bca4a3f3951ae97b9726605185df6e6a1fd26d7b8091b80ee44a8",
+ "rendicoes": {
+  "png": {
+   "bytes": 268844,
+   "sha256": "ca462b94c4eacfc1616c7ca30312f25f4c1cc54cd62a2f0e74cc43d1669c7552",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 84113,
+   "sha256": "4b8c2c76296f71d9c86cfe7c9206dbec8010d9ceeaf16735d7b7a040c8a957d5",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 195654,
+   "sha256": "f66fbd0e6c9bca4a3f3951ae97b9726605185df6e6a1fd26d7b8091b80ee44a8"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2601607.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2601607.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2601607.jpg"
+ },
+ "sha1_origem": "536e37149a799f99647b4ec8c2d94f51c3d42ba1",
+ "bytes_origem": 195654,
+ "capturado_em": "2026-11-08T03:04:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_belem.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:36Z",
+  "estado": "igual",
+  "sha1_commons": "536e37149a799f99647b4ec8c2d94f51c3d42ba1"
+ }
+}

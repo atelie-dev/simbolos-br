@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3102209",
+ "uf": "MG",
+ "municipio": "Alvarenga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Flag_of_Alvarenga_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HVL",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e5853da5608fa1127a11244389eed37e4fee7ebcbbe355677d6d8e7fd5d71a93",
+ "rendicoes": {
+  "png": {
+   "bytes": 53932,
+   "sha256": "c424bbbe861c6ea22375baa6b743290ee9ecc0e6c6b06045b861e61abf82ae00",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23728,
+   "sha256": "8a8c94442a18adc51d5b77abc1032fce54d84e7bf6d48a6f008f8a1e85f5b72a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3102209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3102209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3102209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3102209.png",
+  "bytes": 321330,
+  "sha256": "e5853da5608fa1127a11244389eed37e4fee7ebcbbe355677d6d8e7fd5d71a93"
+ },
+ "sha1_origem": "dc417a59e153ce2b54d01bf902695257abe823fe",
+ "bytes_origem": 321330,
+ "capturado_em": "2026-11-08T05:59:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Alvarenga_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "dc417a59e153ce2b54d01bf902695257abe823fe"
+ }
+}

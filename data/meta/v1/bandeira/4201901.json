@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4201901",
+ "uf": "SC",
+ "municipio": "Aurora",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bandeira_do_munic%C3%ADpio_de_Aurora_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Aurora (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "4a32cc9b7b7b9557d646381d9ec8e96ba2cd9a9f9219d2b27b142bbecb054151",
+ "rendicoes": {
+  "png": {
+   "bytes": 32705,
+   "sha256": "0c3db2b84f37831eec7deaee2d8cc22bb2cf6d67bbdf5429c1615b42be2ac9aa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16919,
+   "sha256": "ae8850bed692ff0af1b7db2bcc5f19e2bdc5c7c4bda7620c97f71fdc8e67f85d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 893447,
+   "sha256": "4a32cc9b7b7b9557d646381d9ec8e96ba2cd9a9f9219d2b27b142bbecb054151"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4201901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4201901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4201901.jpg"
+ },
+ "sha1_origem": "dcbf8d450cb8c86731083d0cf526e042c8d411b7",
+ "bytes_origem": 893447,
+ "capturado_em": "2026-11-08T04:36:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Aurora_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "dcbf8d450cb8c86731083d0cf526e042c8d411b7"
+ }
+}

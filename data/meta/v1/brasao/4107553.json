@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4107553",
+ "uf": "PR",
+ "municipio": "Farol",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Brasao-farolpr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Farol City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "852827ef599ab753c37921c65d59110f26197d0c57dce6022397ff675d62b840",
+ "rendicoes": {
+  "png": {
+   "bytes": 56593,
+   "sha256": "6c43e3b425971f7fece7e74d53b6291d7ef0323ea1cd5594f9b9a8a608d69cc6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15847,
+   "sha256": "9efb2f9095fc5225392f94555e9d2bd43e9f2c45236668a0b7d87ff6c5aa47fa",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4107553.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4107553.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4107553.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4107553.jpg",
+  "bytes": 17656,
+  "sha256": "852827ef599ab753c37921c65d59110f26197d0c57dce6022397ff675d62b840"
+ },
+ "sha1_origem": "0b0f962499bcfd3d76cf3723cfae6a104c7a78e6",
+ "bytes_origem": 17656,
+ "capturado_em": "2026-11-08T06:43:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-farolpr.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "0b0f962499bcfd3d76cf3723cfae6a104c7a78e6"
+ }
+}

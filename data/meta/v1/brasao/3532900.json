@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532900",
+ "uf": "SP",
+ "municipio": "Nova Europa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/BrasaoNovaEuropa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://www.camaranovaeuropa.sp.gov.br/?s=home",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fe13e28f23b41f5f775b739e9e8f8e0a4900ce05f61db6a4a15f9ee6844b4804",
+ "rendicoes": {
+  "png": {
+   "bytes": 80469,
+   "sha256": "12cb648a163f998e4688a78b35d5ab4bdd3eaf7ffce72e4d4c5a24a786fa0ec5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16343,
+   "sha256": "44d05e1beb3fdad56ecaa798c748adb7c12ddca6d0b9d382c223cb3b9d84d75c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3532900.jpg",
+  "bytes": 41016,
+  "sha256": "fe13e28f23b41f5f775b739e9e8f8e0a4900ce05f61db6a4a15f9ee6844b4804"
+ },
+ "sha1_origem": "a20df9af09c9f6da722cf60f07fe84ab0ece693f",
+ "bytes_origem": 41016,
+ "capturado_em": "2026-11-08T06:33:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoNovaEuropa.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "a20df9af09c9f6da722cf60f07fe84ab0ece693f"
+ }
+}

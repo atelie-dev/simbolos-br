@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2502102",
+ "uf": "PB",
+ "municipio": "Boa Ventura",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bandeira_Boa_Ventura.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f92e5b0dcbac6b35aa48479b379081567adbc94df2101401a1e9f7d28e3ab29d",
+ "rendicoes": {
+  "png": {
+   "bytes": 104031,
+   "sha256": "b43948c9bf5e4ade5f71885a191d49f3775228dadf1175e5083576b5ecb8d482",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22872,
+   "sha256": "161e3c2a14669537a38d5d7a39f98c85711ac98175fc21ea1fb91deb65b65880",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2502102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2502102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2502102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2502102.png",
+  "bytes": 164925,
+  "sha256": "f92e5b0dcbac6b35aa48479b379081567adbc94df2101401a1e9f7d28e3ab29d"
+ },
+ "sha1_origem": "60b0d244ba3422cf2104b53b615a9a50d2c7584b",
+ "bytes_origem": 164925,
+ "capturado_em": "2026-11-08T05:40:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Boa_Ventura.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "60b0d244ba3422cf2104b53b615a9a50d2c7584b"
+ }
+}

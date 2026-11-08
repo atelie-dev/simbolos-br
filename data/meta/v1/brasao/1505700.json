@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1505700",
+ "uf": "PA",
+ "municipio": "Ponta de Pedras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Brasao_ponta_de_pedras.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Ponta de Pedras.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "50aaff46b6bd87944709705b9f2769f6bf8018af2e30345fc33bb547bcbc359e",
+ "rendicoes": {
+  "png": {
+   "bytes": 26470,
+   "sha256": "cf9e43ec540353bc395b68da2f22e5aea7a0e6a0b74fa0a4020151aad902574f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6623,
+   "sha256": "504027e8f38051872473c120d6902453eea86ef776fcc0f765044bb245f08b54",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1505700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1505700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1505700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1505700.jpg",
+  "bytes": 3925,
+  "sha256": "50aaff46b6bd87944709705b9f2769f6bf8018af2e30345fc33bb547bcbc359e"
+ },
+ "sha1_origem": "b861bb5b67b5e607ba4c0b07b2224b1a4c7f5dfe",
+ "bytes_origem": 3925,
+ "capturado_em": "2026-11-08T05:25:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_ponta_de_pedras.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "b861bb5b67b5e607ba4c0b07b2224b1a4c7f5dfe"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4308458",
+ "uf": "RS",
+ "municipio": "Fortaleza dos Valos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bras%C3%A3o_Fortaleza_dos_Valos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Fortaleza dos Valos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "02b7ca23a36c9b2fa373f6fbdadf285379c6f7338aa5c0b876b201ba9a4a774c",
+ "rendicoes": {
+  "png": {
+   "bytes": 132627,
+   "sha256": "bb4cfaa52ec5b1604e9d9d2478f73f4046560e4bcd036d81d0b0b7bb9888f334",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24876,
+   "sha256": "9c1fdfbc3ef109c3124059828b9d349831166571b3f734fc70596b447bc6336b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308458.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308458.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308458.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4308458.jpg",
+  "bytes": 21287,
+  "sha256": "02b7ca23a36c9b2fa373f6fbdadf285379c6f7338aa5c0b876b201ba9a4a774c"
+ },
+ "sha1_origem": "d3b8fd00d337fd89cfa8eee727a24eb4735ebef3",
+ "bytes_origem": 21287,
+ "capturado_em": "2026-11-08T07:03:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Fortaleza_dos_Valos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "d3b8fd00d337fd89cfa8eee727a24eb4735ebef3"
+ }
+}

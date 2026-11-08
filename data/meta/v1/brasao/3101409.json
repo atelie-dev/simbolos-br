@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3101409",
+ "uf": "MG",
+ "municipio": "Albertina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Albertinamgbrasoes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Albertina",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0265f585c8e6e8ad0c914670878f3f71481628f07233192576840ff5fefd9bcb",
+ "rendicoes": {
+  "png": {
+   "bytes": 317444,
+   "sha256": "e688932adb7ddaac9aeec8bce1288f4a87d2b12e1f2186b4233dc327d8c47c28",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47059,
+   "sha256": "613dba3d41dc4fd38c505e1daab7e6cf2ecd9afdfea364e6fa8957d1b96d8b5c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101409.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3101409.jpg",
+  "bytes": 36190,
+  "sha256": "0265f585c8e6e8ad0c914670878f3f71481628f07233192576840ff5fefd9bcb"
+ },
+ "sha1_origem": "9f50b1c0d7edc6a28c1401ba5c1c3e02624def16",
+ "bytes_origem": 36190,
+ "capturado_em": "2026-11-08T05:58:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Albertinamgbrasoes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "9f50b1c0d7edc6a28c1401ba5c1c3e02624def16"
+ }
+}

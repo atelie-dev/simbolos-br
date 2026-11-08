@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2402501",
+ "uf": "RN",
+ "municipio": "Carnaubais",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bras%C3%A3o_de_Carnaubais-RN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "O desembargador",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0138734463eb5a73536e8639f5faff21c67d0d589ebf25d5d1848eed1f07b1a6",
+ "rendicoes": {
+  "png": {
+   "bytes": 147131,
+   "sha256": "30b1a05bed5079b80d8cd0bc5090087ecd950e5b90804629552931e44c7e5af9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26905,
+   "sha256": "d84c6dfff9dda0798c38d90d503fffe731cbed262311f428c86f668b7c471047",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2402501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2402501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2402501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2402501.jpg",
+  "bytes": 24617,
+  "sha256": "0138734463eb5a73536e8639f5faff21c67d0d589ebf25d5d1848eed1f07b1a6"
+ },
+ "sha1_origem": "03dd1437c2230ef2737687ab69f9e5a13e9ed911",
+ "bytes_origem": 24617,
+ "capturado_em": "2026-11-08T05:36:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Carnaubais-RN.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "03dd1437c2230ef2737687ab69f9e5a13e9ed911"
+ }
+}

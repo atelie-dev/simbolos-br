@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5107909",
+ "uf": "MT",
+ "municipio": "Sinop",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bandeira_sinop_mt.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0821f36a3933b57b8d18f8d10e8c175ee21866c4c7626880ae2d147fe4fbf791",
+ "rendicoes": {
+  "png": {
+   "bytes": 10836,
+   "sha256": "101e1c540d9297ba9200d92596f345655945f7a5fea5914f6c58ce0d09eecc51",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19183,
+   "sha256": "dacb694d2e956567849fdf88b2bdac9631b23f9bce022723d81fd0cf7b0ea90f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5107909.png",
+  "bytes": 6541,
+  "sha256": "0821f36a3933b57b8d18f8d10e8c175ee21866c4c7626880ae2d147fe4fbf791"
+ },
+ "sha1_origem": "43d64f9a3ab8283b8ecad13e847079a10c7d92b5",
+ "bytes_origem": 6541,
+ "capturado_em": "2026-11-08T07:15:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_sinop_mt.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "43d64f9a3ab8283b8ecad13e847079a10c7d92b5"
+ }
+}

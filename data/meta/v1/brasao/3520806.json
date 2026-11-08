@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3520806",
+ "uf": "SP",
+ "municipio": "Inúbia Paulista",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bras%C3%A3o_de_In%C3%BAbia_Paulista_%28SP%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a79227702c29d3a5ad64d4de9a7a57202185f566f2b38c1899d79f9151c1f21a",
+ "rendicoes": {
+  "png": {
+   "bytes": 100286,
+   "sha256": "b2ebd30030ba0f2ca6380b68efb723047e9fb5140b4aca399e089855aebe27e2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22366,
+   "sha256": "48320bebc6767db03280682dc0d9aa5dcc5978ad5c787b9e2a0aca46101dab36",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3520806.png",
+  "bytes": 100647,
+  "sha256": "a79227702c29d3a5ad64d4de9a7a57202185f566f2b38c1899d79f9151c1f21a"
+ },
+ "sha1_origem": "654c687ae8ff6029d0aae08ec4a9858cbb7a10ab",
+ "bytes_origem": 100647,
+ "capturado_em": "2026-11-08T06:29:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Inúbia_Paulista_(SP).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "654c687ae8ff6029d0aae08ec4a9858cbb7a10ab"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4300802",
+ "uf": "RS",
+ "municipio": "Antônio Prado",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Antonio_Prado_Brasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Antônio Prado. Lei Municipal nº 275 – de 22 de dezembro de 1955.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "14353dcf761aad76b05c3d90172a1f0698df286e87993a93fd860a0a31d3e046",
+ "rendicoes": {
+  "png": {
+   "bytes": 279856,
+   "sha256": "57467196fc1c89c3f4cd9f9c81a540cefbfa80f8f6c3877bc25c82f889dd3f56",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 64406,
+   "sha256": "f35b8e9a529a45f86a67a8ea1b6e4a19621b38a412dd2bc51a2d2db977d4d751",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4300802.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4300802.jpg",
+  "bytes": 265319,
+  "sha256": "14353dcf761aad76b05c3d90172a1f0698df286e87993a93fd860a0a31d3e046"
+ },
+ "sha1_origem": "a735da6cd06382d8009e1dd073d792a2429b22e9",
+ "bytes_origem": 265319,
+ "capturado_em": "2026-11-08T06:58:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Antonio_Prado_Brasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "a735da6cd06382d8009e1dd073d792a2429b22e9"
+ }
+}

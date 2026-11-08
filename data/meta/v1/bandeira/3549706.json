@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3549706",
+ "uf": "SP",
+ "municipio": "São José do Rio Pardo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bandeirasaojosedoriopardo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8dbaa8d16f9c24a532b281c3fb3272bc4a59f14b56ded222a2529d98064a79da",
+ "rendicoes": {
+  "png": {
+   "bytes": 69723,
+   "sha256": "f144e7d229eedbfe2b056dc63370b749779421724dc3e6b1bfa327265baed567",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16747,
+   "sha256": "63bbac021b5278c38b66beb0a58c8a0aa0b89d7dd05e4955a4dfc3c42f22be05",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3549706.jpg",
+  "bytes": 9043,
+  "sha256": "8dbaa8d16f9c24a532b281c3fb3272bc4a59f14b56ded222a2529d98064a79da"
+ },
+ "sha1_origem": "48feace5a288a861203d24805c1d5d39825c9ee7",
+ "bytes_origem": 9043,
+ "capturado_em": "2026-11-08T06:38:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeirasaojosedoriopardo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "48feace5a288a861203d24805c1d5d39825c9ee7"
+ }
+}

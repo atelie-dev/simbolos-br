@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4128104",
+ "uf": "PR",
+ "municipio": "Umuarama",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bras%C3%A3o_de_Umuarama_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "4e6d4327dc61b5bef19da07ef63ae674f921387ab651b758b76ab4403622c0ba",
+ "rendicoes": {
+  "png": {
+   "bytes": 274053,
+   "sha256": "62690fa12b692c7d388c6bdca4f5e945f6d285ead0bfe68bafad184d4db8b70c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 84761,
+   "sha256": "c98781802006ab7c0364e2929ae18f1a574f56530713e0d86c5432e11232a456",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 462157,
+   "sha256": "4e6d4327dc61b5bef19da07ef63ae674f921387ab651b758b76ab4403622c0ba"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4128104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4128104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4128104.jpg"
+ },
+ "sha1_origem": "46953fd8f8ec8aa270901fe9da62bfde46fa13d1",
+ "bytes_origem": 462157,
+ "capturado_em": "2026-11-08T04:34:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Umuarama_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "46953fd8f8ec8aa270901fe9da62bfde46fa13d1"
+ }
+}

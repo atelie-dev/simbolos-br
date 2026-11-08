@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3517703",
+ "uf": "SP",
+ "municipio": "Guará",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bras%C3%A3o_de_Guar%C3%A1_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "75f5aae16677c3639904d6e9442f5871fe77407c4845cafa5869ce0c184c3c44",
+ "rendicoes": {
+  "png": {
+   "bytes": 213308,
+   "sha256": "e6584bdbe00d309ceb0fe8ac4e234de07ab12c6d6adcfa31117ed333c9c8b684",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67483,
+   "sha256": "38882da0755f9abb978110a1996a60f1767acd7f318e322f01e8e978426a3743",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 373511,
+   "sha256": "75f5aae16677c3639904d6e9442f5871fe77407c4845cafa5869ce0c184c3c44"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3517703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3517703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3517703.jpg"
+ },
+ "sha1_origem": "e7cecb2e5e5885b49c45faab7fdb0b51e8023dd6",
+ "bytes_origem": 373511,
+ "capturado_em": "2026-11-08T04:03:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Guará_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:03Z",
+  "estado": "igual",
+  "sha1_commons": "e7cecb2e5e5885b49c45faab7fdb0b51e8023dd6"
+ }
+}

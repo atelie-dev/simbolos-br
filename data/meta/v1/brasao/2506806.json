@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2506806",
+ "uf": "PB",
+ "municipio": "Ingá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ing%C3%A1_-_Bras%C3%A3o_de_Armas.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3f61a0378cb02161161d338cb5bef506b1f618cc894beecca430f63eb36c2242",
+ "rendicoes": {
+  "png": {
+   "bytes": 78808,
+   "sha256": "93ad71f4e229cd70d379b27990029d6f2fa241cd1b2e016d17108dab2653d0d2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35384,
+   "sha256": "498f4e1c9df828f7641dbcc36778fbb594addf3d057280e7f7a64dfca47a443d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 15036,
+   "sha256": "3f61a0378cb02161161d338cb5bef506b1f618cc894beecca430f63eb36c2242"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2506806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2506806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2506806.jpg"
+ },
+ "sha1_origem": "bb42268677683cfab5558e08ec654eef1329e717",
+ "bytes_origem": 15036,
+ "capturado_em": "2026-11-08T02:58:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ingá_-_Brasão_de_Armas.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "bb42268677683cfab5558e08ec654eef1329e717"
+ }
+}

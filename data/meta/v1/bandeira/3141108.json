@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3141108",
+ "uf": "MG",
+ "municipio": "Matozinhos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bandeira-matozinhos-mg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pref. Mun. Matozinhos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f0fd9d5fb825902e5e1e09c4b630341fb50b1a71e2b98e4693723b63014fc110",
+ "rendicoes": {
+  "png": {
+   "bytes": 47255,
+   "sha256": "e7d66e93d762d99f75b7e53fef5a9853ab882b18f1af86dac186fba7c0c78e15",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15954,
+   "sha256": "4018ec43648c67037f3bd775a8197875899e96513a39cea347f2925e9f33b1d3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141108.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3141108.jpg",
+  "bytes": 13028,
+  "sha256": "f0fd9d5fb825902e5e1e09c4b630341fb50b1a71e2b98e4693723b63014fc110"
+ },
+ "sha1_origem": "0d5c8528e0c989aae49a45351647c334b8a83cac",
+ "bytes_origem": 13028,
+ "capturado_em": "2026-11-08T06:11:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-matozinhos-mg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "0d5c8528e0c989aae49a45351647c334b8a83cac"
+ }
+}

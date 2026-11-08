@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4127965",
+ "uf": "PR",
+ "municipio": "Turvo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bandeira_de_Turvo%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Turvo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bdb4dd4f38ad7aa241cefd08d78eeb63c2ac7271d25eb25997c18ae6ce99d2eb",
+ "rendicoes": {
+  "png": {
+   "bytes": 124279,
+   "sha256": "3326041e392bbb63fc262e413474313bcda5fda29216b96a063cabec11398643",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31076,
+   "sha256": "884c371a8fd05278791b47d116ee7567ede13fdfc78133e38c7062880310da94",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4127965.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4127965.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4127965.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4127965.jpg",
+  "bytes": 53526,
+  "sha256": "bdb4dd4f38ad7aa241cefd08d78eeb63c2ac7271d25eb25997c18ae6ce99d2eb"
+ },
+ "sha1_origem": "c1a359c6526215d3b72af45acf1a3c39339c098e",
+ "bytes_origem": 53526,
+ "capturado_em": "2026-11-08T06:50:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Turvo,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "c1a359c6526215d3b72af45acf1a3c39339c098e"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4323002",
+ "uf": "RS",
+ "municipio": "Viamão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bandeira-viam%C3%A3o.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Viamão City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d58478546b2ca6ff84bc6fa3ddb4408ca91c64cc08004a639cfbcdaf864ec8ca",
+ "rendicoes": {
+  "png": {
+   "bytes": 8066,
+   "sha256": "66e866a0954c8335877cf183631e11be6e800e723eebbed16664d5cd8fe22354",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12014,
+   "sha256": "1f1ded99bfd0d616cbe436589f71d94a3975c571e3702995f60aa2bb3e68220f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4323002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4323002.png",
+  "bytes": 5562,
+  "sha256": "d58478546b2ca6ff84bc6fa3ddb4408ca91c64cc08004a639cfbcdaf864ec8ca"
+ },
+ "sha1_origem": "15fcb2120b9745482ab5d4b7d3a66a1eceddec45",
+ "bytes_origem": 5562,
+ "capturado_em": "2026-11-08T07:11:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-viamão.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "15fcb2120b9745482ab5d4b7d3a66a1eceddec45"
+ }
+}

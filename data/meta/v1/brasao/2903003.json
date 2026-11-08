@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2903003",
+ "uf": "BA",
+ "municipio": "Barra do Mendes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/BRAS%C3%83Ot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Vítor Alcântara",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d6aa91dcf63fefa2442991aec930e70d35557980508bafec2e886985fd5fe480",
+ "rendicoes": {
+  "png": {
+   "bytes": 46134,
+   "sha256": "b77609b46c7d7cc9b6688275fa7a248e5139eac03092880d27331f5b95008af9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10254,
+   "sha256": "b7d6da2968c05a49d61e036f121b4a8b0e35a1cc1fec064d78b870302be6797e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2903003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2903003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2903003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2903003.jpg",
+  "bytes": 7171,
+  "sha256": "d6aa91dcf63fefa2442991aec930e70d35557980508bafec2e886985fd5fe480"
+ },
+ "sha1_origem": "20e3e054a43ce10fda754d516bbe5f76b8963a20",
+ "bytes_origem": 7171,
+ "capturado_em": "2026-11-08T05:51:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BRASÃOt.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "20e3e054a43ce10fda754d516bbe5f76b8963a20"
+ }
+}

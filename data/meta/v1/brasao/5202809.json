@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5202809",
+ "uf": "GO",
+ "municipio": "Avelinópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bras%C3%A3o_de_Avelin%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Avelinópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "91aae64e71d563b781b0a146a2c957750310f09a89580c932f06d87e475e7479",
+ "rendicoes": {
+  "png": {
+   "bytes": 47728,
+   "sha256": "539fc993ab195e91e7fbcff75b4ed962b432007bba9e16044baceb28cb26e0c8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9814,
+   "sha256": "52c62293408028df362641d2aa267c89631965309bc194f5302799a902501fd8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5202809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5202809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5202809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5202809.jpg",
+  "bytes": 7170,
+  "sha256": "91aae64e71d563b781b0a146a2c957750310f09a89580c932f06d87e475e7479"
+ },
+ "sha1_origem": "8791cdcc3b963ae5d3468bca282554eb63a3b84a",
+ "bytes_origem": 7170,
+ "capturado_em": "2026-11-08T07:16:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Avelinópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "8791cdcc3b963ae5d3468bca282554eb63a3b84a"
+ }
+}

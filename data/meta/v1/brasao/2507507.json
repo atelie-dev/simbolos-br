@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2507507",
+ "uf": "PB",
+ "municipio": "João Pessoa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bras%C3%A3o_de_Jo%C3%A3o_Pessoa.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of João Pessoa.",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "14ba59c994a912897b77f685ed6909bc7ab3cb715a010ed954a48993505361a9",
+ "rendicoes": {
+  "png": {
+   "bytes": 232174,
+   "sha256": "78c16c4ff86b8c429aaa1f2acb5dee8bea189ca286f3cf3dc872337910260726",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 70429,
+   "sha256": "1cbcf4b5d1c7fa27aee445c241e290fcbde089a74ac8f4c958d3a3a7814e10ee",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 97556,
+   "sha256": "14ba59c994a912897b77f685ed6909bc7ab3cb715a010ed954a48993505361a9"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2507507.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2507507.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2507507.jpg"
+ },
+ "sha1_origem": "1662f5d4757c2161cd810ba9764ee248690ab3a7",
+ "bytes_origem": 97556,
+ "capturado_em": "2026-11-08T02:58:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_João_Pessoa.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:05Z",
+  "estado": "igual",
+  "sha1_commons": "1662f5d4757c2161cd810ba9764ee248690ab3a7"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3534500",
+ "uf": "SP",
+ "municipio": "Oscar Bressane",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bandeiraoscarbressane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Oscar Bressane",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8414fcc8dbf99b9eb4c2270e705bc30515422a9c0358fa3dec11ea7ff98444ca",
+ "rendicoes": {
+  "png": {
+   "bytes": 171170,
+   "sha256": "52dce36e692302464d2c931243d570ebd8560d4e3d4a4f15d9d1d139bcece26c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28784,
+   "sha256": "e57b843588c78f4527fb4a32c49de55928eee02679856c5358f773895d293250",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3534500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3534500.jpg",
+  "bytes": 89108,
+  "sha256": "8414fcc8dbf99b9eb4c2270e705bc30515422a9c0358fa3dec11ea7ff98444ca"
+ },
+ "sha1_origem": "957352316561afd111e64237f0105b7d4e903a3f",
+ "bytes_origem": 89108,
+ "capturado_em": "2026-11-08T06:33:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraoscarbressane.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "957352316561afd111e64237f0105b7d4e903a3f"
+ }
+}

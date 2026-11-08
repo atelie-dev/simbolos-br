@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2304202",
+ "uf": "CE",
+ "municipio": "Crato",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bras%C3%A3o_do_Crato.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal do Crato",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "811027daab64c477ef1e58ab4af68d901113a62319004b18136e30a74601644e",
+ "rendicoes": {
+  "png": {
+   "bytes": 166134,
+   "sha256": "131df1b205f1fc71510ef6e1227d757089235c5a52396fecb7834257adb7d7a9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41419,
+   "sha256": "575045c4cb1e237884e5958e6b92abcd43144398a90ef7cd7d030b3f9507c46a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2304202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2304202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2304202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2304202.png",
+  "bytes": 149117,
+  "sha256": "811027daab64c477ef1e58ab4af68d901113a62319004b18136e30a74601644e"
+ },
+ "sha1_origem": "f0255e37db21f04db86179c11036942244b7aec8",
+ "bytes_origem": 149117,
+ "capturado_em": "2026-11-08T05:32:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_Crato.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:15Z",
+  "estado": "igual",
+  "sha1_commons": "f0255e37db21f04db86179c11036942244b7aec8"
+ }
+}

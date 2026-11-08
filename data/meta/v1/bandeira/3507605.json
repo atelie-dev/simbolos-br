@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3507605",
+ "uf": "SP",
+ "municipio": "Bragança Paulista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bandeira_de_Bragan%C3%A7a_Paulista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "db16f43c35c95256091da748abef4fa25b52c527b6d9d8aadd7140b86889d51b",
+ "rendicoes": {
+  "png": {
+   "bytes": 53627,
+   "sha256": "4745c06fa9d0c40e00595e4c8f3bdc13f08dd18a9c9219dd4bd6d411da328f42",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13453,
+   "sha256": "f61241a5a1fc50ebe377ddd9120b653b070e166c6885cbfc9b76fc85eeccfb6b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3507605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3507605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3507605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3507605.jpg",
+  "bytes": 56942,
+  "sha256": "db16f43c35c95256091da748abef4fa25b52c527b6d9d8aadd7140b86889d51b"
+ },
+ "sha1_origem": "22f5bee7ef56ed6c0549aed5e5f543bed63418b7",
+ "bytes_origem": 56942,
+ "capturado_em": "2026-11-08T06:25:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bragança_Paulista.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "22f5bee7ef56ed6c0549aed5e5f543bed63418b7"
+ }
+}

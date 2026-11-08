@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3519402",
+ "uf": "SP",
+ "municipio": "Ibirá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bras%C3%A3o_de_Ibir%C3%A1%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Arcinóe Antonio Peixoto de Faria",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fc63f3ea5345fe2b789b0d4fa63e49e18a7be5f2084ad755d3cdb73bd38c99db",
+ "rendicoes": {
+  "png": {
+   "bytes": 50961,
+   "sha256": "d4941b1eaf2f6d5895185a8ac0974bdfe3e6aa6d7657bd6455cf32b30b5e99e8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12066,
+   "sha256": "80828e0c93603d1168981e451a2ef6d771464ee71df1cb1483ac887bed45c1da",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3519402.jpg",
+  "bytes": 12822,
+  "sha256": "fc63f3ea5345fe2b789b0d4fa63e49e18a7be5f2084ad755d3cdb73bd38c99db"
+ },
+ "sha1_origem": "4f20735c4c34eb554ad7f014f91e585923f492b2",
+ "bytes_origem": 12822,
+ "capturado_em": "2026-11-08T06:28:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Ibirá,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:03Z",
+  "estado": "igual",
+  "sha1_commons": "4f20735c4c34eb554ad7f014f91e585923f492b2"
+ }
+}

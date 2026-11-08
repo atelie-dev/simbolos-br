@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3149002",
+ "uf": "MG",
+ "municipio": "Pedra Dourada",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Brasao_pedra_dourada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pedra Dourada",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4e55315ed9ee7302a952a5193012d817977e4192742026f73794fe1de258b4c3",
+ "rendicoes": {
+  "png": {
+   "bytes": 25682,
+   "sha256": "cd47326e577cc2498220eee613af366739a3b52b085a41edf8ba8681d2b9702d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6503,
+   "sha256": "249e965ce29e0c29b6b8fd8bc6fb1ea3618bd6233ced8efaced318c9bdf304b8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3149002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3149002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3149002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3149002.jpg",
+  "bytes": 15534,
+  "sha256": "4e55315ed9ee7302a952a5193012d817977e4192742026f73794fe1de258b4c3"
+ },
+ "sha1_origem": "42bbf47c3e2652e4592378b8bfb73cbb8027b677",
+ "bytes_origem": 15534,
+ "capturado_em": "2026-11-08T06:13:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_pedra_dourada.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "42bbf47c3e2652e4592378b8bfb73cbb8027b677"
+ }
+}

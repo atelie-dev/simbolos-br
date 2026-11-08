@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4307559",
+ "uf": "RS",
+ "municipio": "Estação",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Esta%C3%A7%C3%A3obrasonbr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Estação",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f8f777d23c9ef723a44f722a34a31b23982d0e3fc7f10ebe9879863b658943e0",
+ "rendicoes": {
+  "png": {
+   "bytes": 77451,
+   "sha256": "9459a4d0a68de2c045a0f8c57f55b8ff0d1de726480898d6cc86cd3783f95bcc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18852,
+   "sha256": "edffe43bc95acb3c602e098ffe1ab755f3151a6c67ca2efb984fa1cedb3ce7bb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307559.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307559.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307559.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4307559.jpg",
+  "bytes": 26063,
+  "sha256": "f8f777d23c9ef723a44f722a34a31b23982d0e3fc7f10ebe9879863b658943e0"
+ },
+ "sha1_origem": "a122ca29dcf4e5e62c5d715b2569bb4b817f6c9d",
+ "bytes_origem": 26063,
+ "capturado_em": "2026-11-08T07:02:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Estaçãobrasonbr.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "a122ca29dcf4e5e62c5d715b2569bb4b817f6c9d"
+ }
+}

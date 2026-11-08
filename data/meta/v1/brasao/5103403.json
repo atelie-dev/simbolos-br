@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5103403",
+ "uf": "MT",
+ "municipio": "Cuiabá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bras%C3%A3o_do_Munic%C3%ADpio_de_Cuiab%C3%A1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "EC35",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a4928b5402f6e866b0b045359b523315f87a7597ce737e27c457b27c0b18e5ba",
+ "rendicoes": {
+  "png": {
+   "bytes": 109958,
+   "sha256": "7fa9fbbc8bf0be269c88384b250221e1a81c2d94028892632faf33993198cef1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31158,
+   "sha256": "c5e8c5fbfd61297057efcb12b6248e6b66b84ccc05e2acd7e5af553150f87ea0",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 441666,
+   "sha256": "a4928b5402f6e866b0b045359b523315f87a7597ce737e27c457b27c0b18e5ba"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5103403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5103403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5103403.jpg"
+ },
+ "sha1_origem": "ea40e6c82b04bfe4aaa79da4621fe12e35c936c6",
+ "bytes_origem": 441666,
+ "capturado_em": "2026-11-08T05:05:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_Município_de_Cuiabá.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:15Z",
+  "estado": "igual",
+  "sha1_commons": "ea40e6c82b04bfe4aaa79da4621fe12e35c936c6"
+ }
+}

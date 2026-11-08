@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5213707",
+ "uf": "GO",
+ "municipio": "Montes Claros de Goiás",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bandeira_de_Montes_Claros_de_Goi%C3%A1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Montes Claros de Goiás.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "372a372f01ceefd0ca1a31903c22534c882be51b1e3dcda195388f9a0ceec00f",
+ "rendicoes": {
+  "png": {
+   "bytes": 12133,
+   "sha256": "484d5fe82794fc1eaae0d57b8ce5254db407f4695f26a33d93a35bd24ce5e6fc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5471,
+   "sha256": "137e5919a4c6ade04158f3d65836ce42c8d9ce3ec298ed5f97dfff2dbd5ac0d4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5213707.jpg",
+  "bytes": 7894,
+  "sha256": "372a372f01ceefd0ca1a31903c22534c882be51b1e3dcda195388f9a0ceec00f"
+ },
+ "sha1_origem": "6b1128bc66aea620d1a174636c40f58297dab5b5",
+ "bytes_origem": 7894,
+ "capturado_em": "2026-11-08T07:19:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Montes_Claros_de_Goiás.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "6b1128bc66aea620d1a174636c40f58297dab5b5"
+ }
+}

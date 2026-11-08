@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3519907",
+ "uf": "SP",
+ "municipio": "Iepê",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/BrasaoIepe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Iepê",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "438a03a582fceaec40c176e07f4204ddc57d30f898b0b75b9db2ee88250100a3",
+ "rendicoes": {
+  "png": {
+   "bytes": 45999,
+   "sha256": "e655f02ff72b0ff513af2cebcba4eddd3bb890cdde0796f9ce91c2987d96c515",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11302,
+   "sha256": "e3d32acee57736b19c3ec7e39703636e66a6f041df7841ba6604052df3672875",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519907.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519907.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3519907.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3519907.jpg",
+  "bytes": 11288,
+  "sha256": "438a03a582fceaec40c176e07f4204ddc57d30f898b0b75b9db2ee88250100a3"
+ },
+ "sha1_origem": "8ef4d97b467b0ec46c6b19eaa8124b862dc1e5cc",
+ "bytes_origem": 11288,
+ "capturado_em": "2026-11-08T06:29:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoIepe.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "8ef4d97b467b0ec46c6b19eaa8124b862dc1e5cc"
+ }
+}

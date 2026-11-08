@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1200500",
+ "uf": "AC",
+ "municipio": "Sena Madureira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bandeira_de_Sena_Madureira_-_AC.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "639a0cbd4bdc1a9ac90662d71ec468d93bb38b27644f79ba6264dbb8a6d402f4",
+ "rendicoes": {
+  "png": {
+   "bytes": 43274,
+   "sha256": "36df9e6c5037b141b8cbe14e94111caea409d7cdb232dd6937920df55d335ab5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19627,
+   "sha256": "629e7788b5b50e1c6f749f416e7900af0db0168cf3bf1bcc8611624a655f2f12",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 40827,
+   "sha256": "639a0cbd4bdc1a9ac90662d71ec468d93bb38b27644f79ba6264dbb8a6d402f4"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200500.jpg"
+ },
+ "sha1_origem": "69ce760e89187eba3d0d5955905a682430004848",
+ "bytes_origem": 40827,
+ "capturado_em": "2026-11-08T02:30:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Sena_Madureira_-_AC.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "69ce760e89187eba3d0d5955905a682430004848"
+ }
+}

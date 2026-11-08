@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2512747",
+ "uf": "PB",
+ "municipio": "Riachão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bras%C3%A3o_Riach%C3%A3o_%28PB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Riachão",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2f7e1366ccfdc32eea8410d6dc62d8692fa336193f24c3e14275cd364f1b7e34",
+ "rendicoes": {
+  "png": {
+   "bytes": 299347,
+   "sha256": "2e92cba40767d1bcf5f47ca5b938b1ab8c3930c29c49c314762dec7772da582f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54548,
+   "sha256": "3d5011611709516f44486f543f3b82065612d917aa073f9d117db2974e81ca7b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2512747.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2512747.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2512747.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2512747.jpg",
+  "bytes": 60493,
+  "sha256": "2f7e1366ccfdc32eea8410d6dc62d8692fa336193f24c3e14275cd364f1b7e34"
+ },
+ "sha1_origem": "3fdc2314feeee4b4ac9b913427d24ad2acbc9d37",
+ "bytes_origem": 60493,
+ "capturado_em": "2026-11-08T05:43:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Riachão_(PB).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:53Z",
+  "estado": "igual",
+  "sha1_commons": "3fdc2314feeee4b4ac9b913427d24ad2acbc9d37"
+ }
+}

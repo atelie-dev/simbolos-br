@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2920106",
+ "uf": "BA",
+ "municipio": "Mairi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandeira_Mairi.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "02d4b7b33ddff49107488cdd47f3057cfe111010d5b50b113f90f89f035c4a66",
+ "rendicoes": {
+  "png": {
+   "bytes": 2051,
+   "sha256": "6bb12336038718a2a69a7eafa7768048e069ba13df9852f8442af33ff4e39fcb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9953,
+   "sha256": "161cb4cd1de1429739278e596e16be7980f9f1774b1ca6ab8a9aabdd51f17741",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2610,
+   "sha256": "02d4b7b33ddff49107488cdd47f3057cfe111010d5b50b113f90f89f035c4a66"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2920106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2920106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2920106.jpg"
+ },
+ "sha1_origem": "e80bae59627d5603ed31bb48e12fa03504d78869",
+ "bytes_origem": 2610,
+ "capturado_em": "2026-11-08T03:20:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Mairi.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "e80bae59627d5603ed31bb48e12fa03504d78869"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4124509",
+ "uf": "PR",
+ "municipio": "Santo Inácio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bandeira_de_Santo_In%C3%A1cio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cc5bd94fb628776da3627c7c836bb80f8feb3fd3db83807ee401ed82ae705cfa",
+ "rendicoes": {
+  "png": {
+   "bytes": 42392,
+   "sha256": "c27dfe3e9212a100075695a2e4703c2a994683129a7d3ff046fcc8e595f56666",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10591,
+   "sha256": "095cc6f7c298c52f19a156a461084e8ca869342c881175f384e7de4e7370a685",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4124509.jpg",
+  "bytes": 7937,
+  "sha256": "cc5bd94fb628776da3627c7c836bb80f8feb3fd3db83807ee401ed82ae705cfa"
+ },
+ "sha1_origem": "df0d50b81b685b717995ad222e499150e61e6204",
+ "bytes_origem": 7937,
+ "capturado_em": "2026-11-08T06:49:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santo_Inácio.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "df0d50b81b685b717995ad222e499150e61e6204"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4208302",
+ "uf": "SC",
+ "municipio": "Itapema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Bandeira_do_munic%C3%ADpio_de_Itapema_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Itapema (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "817a73b1687337511bfe97869cfe5c4adb99db60dd17a658193ebcc7998071ec",
+ "rendicoes": {
+  "png": {
+   "bytes": 80141,
+   "sha256": "2c5f59ec6b82002d3bafcaa88020af20783ec17f96bc16d347f5d1dff31545bc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27275,
+   "sha256": "ecb42fc3b9a57d75d00d3300ec0901fdf7b4bc8022a312f20efa5cced69c53bc",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 139286,
+   "sha256": "817a73b1687337511bfe97869cfe5c4adb99db60dd17a658193ebcc7998071ec"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208302.jpg"
+ },
+ "sha1_origem": "e8746a78cbba500f09d74a81505497b49a20c264",
+ "bytes_origem": 139286,
+ "capturado_em": "2026-11-08T04:40:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Itapema_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:19Z",
+  "estado": "igual",
+  "sha1_commons": "e8746a78cbba500f09d74a81505497b49a20c264"
+ }
+}

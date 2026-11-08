@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5211404",
+ "uf": "GO",
+ "municipio": "Itauçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Itau%C3%A7u.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Blackcat",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7eea540eb4290a7da8e65757baa4584bccc223edac3a90400ad095b7003b59bd",
+ "rendicoes": {
+  "png": {
+   "bytes": 19019,
+   "sha256": "596758940720c92015ef9703c072ec845b65552c78e25c2c25f2034e180a76f5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14956,
+   "sha256": "dd57877b3991bcedb65d1030de6f747e8c8a1c0443d0faf5b7de9ae16d09ea37",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2584,
+   "sha256": "7eea540eb4290a7da8e65757baa4584bccc223edac3a90400ad095b7003b59bd"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5211404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5211404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5211404.jpg"
+ },
+ "sha1_origem": "91ea68d6cbb5123d1dbefaf0b21001d23b3389f9",
+ "bytes_origem": 2584,
+ "capturado_em": "2026-11-08T05:11:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Itauçu.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "91ea68d6cbb5123d1dbefaf0b21001d23b3389f9"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3504701",
+ "uf": "SP",
+ "municipio": "Balbinos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bandeira-balbinossp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Balbinos City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "852c000466efde6816e82368f262618905f7977ed9c908d34f240acf0d51765e",
+ "rendicoes": {
+  "png": {
+   "bytes": 82808,
+   "sha256": "dbadff7ffee6db785cb5d0628261a0714bfccc361f3e83e57c77f740db34427f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18996,
+   "sha256": "43be4f72ab37541214157b8b90081df6a7695b49a5b9bc55fe68ba3ee5386664",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3504701.jpg",
+  "bytes": 44186,
+  "sha256": "852c000466efde6816e82368f262618905f7977ed9c908d34f240acf0d51765e"
+ },
+ "sha1_origem": "35631a4ba681581416f4fa23fd51090ac48c7521",
+ "bytes_origem": 44186,
+ "capturado_em": "2026-11-08T06:24:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-balbinossp.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "35631a4ba681581416f4fa23fd51090ac48c7521"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5203962",
+ "uf": "GO",
+ "municipio": "Buritinópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bras%C3%A3o_de_Buritin%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Buritinópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6d6ffa73aeff03ed3dc10dcafa1bb63fb87411ddf0495155f9abbb47fbdc610d",
+ "rendicoes": {
+  "png": {
+   "bytes": 34017,
+   "sha256": "4ded5ffded65be96e18b5ccb2e87c6d50618cb5accdb798641cada2b736b29cb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8175,
+   "sha256": "b20d7001d8a3b8090a8a1d583ad573c35f6c17b2701f5b59b4e3e7b7a740f40d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5203962.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5203962.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5203962.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5203962.jpg",
+  "bytes": 5407,
+  "sha256": "6d6ffa73aeff03ed3dc10dcafa1bb63fb87411ddf0495155f9abbb47fbdc610d"
+ },
+ "sha1_origem": "a5015fa4ccf93a7206507cd83d5a325be0009e3e",
+ "bytes_origem": 5407,
+ "capturado_em": "2026-11-08T07:17:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Buritinópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "a5015fa4ccf93a7206507cd83d5a325be0009e3e"
+ }
+}

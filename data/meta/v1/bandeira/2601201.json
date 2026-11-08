@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2601201",
+ "uf": "PE",
+ "municipio": "Arcoverde",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bandeira_de_arcoverde.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "58d6e90e76d7ad7528ed05f95472e797a8739f48be45b045e51500e19645dbe6",
+ "rendicoes": {
+  "png": {
+   "bytes": 32110,
+   "sha256": "9b07bfd8328a1ef2ba3cdb5bd1716370889c26f5909d351a8b9fd91beb8727c6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19420,
+   "sha256": "f015b2b7791e33aa6af222cd4be6d1bca4ee8b0f42e82bc368721428b68a27ab",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 146879,
+   "sha256": "58d6e90e76d7ad7528ed05f95472e797a8739f48be45b045e51500e19645dbe6"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601201.jpg"
+ },
+ "sha1_origem": "8a7b0572dc1a75318cecfe854e2d9fb522e3bc2e",
+ "bytes_origem": 146879,
+ "capturado_em": "2026-11-08T03:04:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_arcoverde.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "8a7b0572dc1a75318cecfe854e2d9fb522e3bc2e"
+ }
+}

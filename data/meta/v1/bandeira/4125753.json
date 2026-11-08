@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4125753",
+ "uf": "PR",
+ "municipio": "São Pedro do Iguaçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bandeira_S%C3%A3o_Pedro_do_Igua%C3%A7u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5949f6ca2476cd362b4169752d84fe868e6a3451cc5c56647f3543d530608e3b",
+ "rendicoes": {
+  "png": {
+   "bytes": 46035,
+   "sha256": "46ee25117d505e1e4ba208620f9cd0a7210cd43555eded5ca156dd393eb5dc14",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11509,
+   "sha256": "fabe3b9dc88f03f08e58094bd94fa6cbc46c3713c1bc5eb78ab8f1f761895edd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125753.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125753.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125753.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4125753.jpg",
+  "bytes": 13974,
+  "sha256": "5949f6ca2476cd362b4169752d84fe868e6a3451cc5c56647f3543d530608e3b"
+ },
+ "sha1_origem": "05f3abfd692e8a0e7d560f70d771129c2efc9eae",
+ "bytes_origem": 13974,
+ "capturado_em": "2026-11-08T06:50:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_São_Pedro_do_Iguaçu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "05f3abfd692e8a0e7d560f70d771129c2efc9eae"
+ }
+}

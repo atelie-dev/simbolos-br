@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4128302",
+ "uf": "PR",
+ "municipio": "Uniflor",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_Uniflor.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "23aaa5c2df584c8df26efc4f94466b7ff7fa6da9ff1004cb6fc64da473230884",
+ "rendicoes": {
+  "png": {
+   "bytes": 10967,
+   "sha256": "bf44d0528b3ed352ae948d288dce19d02b5ac50c8f9608aa3d960d7dcb212663",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10269,
+   "sha256": "1e8d6674ab161b00deda259204787efc8b17d077c3eba57dd5b76dddfccaec0e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4128302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4128302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4128302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4128302.png",
+  "bytes": 3954,
+  "sha256": "23aaa5c2df584c8df26efc4f94466b7ff7fa6da9ff1004cb6fc64da473230884"
+ },
+ "sha1_origem": "559e1533f64b008def856209fd2aa59ca4c34e54",
+ "bytes_origem": 3954,
+ "capturado_em": "2026-11-08T06:51:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Uniflor.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "559e1533f64b008def856209fd2aa59ca4c34e54"
+ }
+}

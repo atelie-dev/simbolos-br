@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3150901",
+ "uf": "MG",
+ "municipio": "Piranguçu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Brasao_pirangucu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Piranguçu City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "94cedabb333fd4643d27ec2c6832b040b764a26dfc5655dcf826d18f39c2ef5b",
+ "rendicoes": {
+  "png": {
+   "bytes": 65257,
+   "sha256": "d91c5245ea5239a7c458d03b39ae5ede1b5978cd5362504662e52bd7b360368f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16273,
+   "sha256": "bc402a2b49a4a783bc964b6c0b44ac9b11450823aecaadbf21243c153ee40e41",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3150901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3150901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3150901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3150901.jpg",
+  "bytes": 25751,
+  "sha256": "94cedabb333fd4643d27ec2c6832b040b764a26dfc5655dcf826d18f39c2ef5b"
+ },
+ "sha1_origem": "c38625b97cdcc8cc5a4fe62d10835fb3be844779",
+ "bytes_origem": 25751,
+ "capturado_em": "2026-11-08T06:13:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_pirangucu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "c38625b97cdcc8cc5a4fe62d10835fb3be844779"
+ }
+}

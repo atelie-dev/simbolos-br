@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3548708",
+ "uf": "SP",
+ "municipio": "São Bernardo do Campo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bras%C3%A3o_S%C3%A3o_Bernardo_do_Campo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "609a9f93e827ca4d9648b68ab2407b94b22588522b19e1482a1be9db6ef21183",
+ "rendicoes": {
+  "png": {
+   "bytes": 187114,
+   "sha256": "fec37308d11a0a0891d92f81d942ea7a617208bb04cf1907cce0b36b895f7f2b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42205,
+   "sha256": "c5961ad4d24eb1a44184005f5404fc4855101e48795475dc641fdfb943397696",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3548708.jpg",
+  "bytes": 50127,
+  "sha256": "609a9f93e827ca4d9648b68ab2407b94b22588522b19e1482a1be9db6ef21183"
+ },
+ "sha1_origem": "33f67bdfb71cac927598d3b935e168f304953f43",
+ "bytes_origem": 50127,
+ "capturado_em": "2026-11-08T06:38:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_São_Bernardo_do_Campo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "33f67bdfb71cac927598d3b935e168f304953f43"
+ }
+}

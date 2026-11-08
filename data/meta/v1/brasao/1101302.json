@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1101302",
+ "uf": "RO",
+ "municipio": "Mirante da Serra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mirante_da_Serrarobrason.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Mirante da Serra",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6c8a128e1fa592daae209ab10f3d37338bafdc959a9f9379147627ed618c815c",
+ "rendicoes": {
+  "png": {
+   "bytes": 70786,
+   "sha256": "458dd060df33384bb9cf2fd5f2cf4a805c7b716fd683f1f44e2f4b20fb438c56",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18268,
+   "sha256": "1db6936c3d05e52e04927c4f743cfa5b270a6b47dd863047efe34c867bb43dbc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1101302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1101302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1101302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1101302.png",
+  "bytes": 69107,
+  "sha256": "6c8a128e1fa592daae209ab10f3d37338bafdc959a9f9379147627ed618c815c"
+ },
+ "sha1_origem": "bef83c092dbf706a4c65d7c7223c07711ed665e3",
+ "bytes_origem": 69107,
+ "capturado_em": "2026-11-08T05:21:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Mirante_da_Serrarobrason.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "bef83c092dbf706a4c65d7c7223c07711ed665e3"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3200300",
+ "uf": "ES",
+ "municipio": "Alfredo Chaves",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Brasao-alfredochaves.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Alfredo Chaves City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bf202f8012e3882b7ef687eddd7b8f19c0ce8bd2ebd8e08ef6a96dd820db9d56",
+ "rendicoes": {
+  "png": {
+   "bytes": 43519,
+   "sha256": "da99e6606cf8fcf896ff9c634a31157c8af4a99e4a4d694dcf5ca6e8ae38d12e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12465,
+   "sha256": "333e54147bbd02c843cf42e79e7c584431f402d566861a5580b160c5f5cd8008",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3200300.png",
+  "bytes": 16887,
+  "sha256": "bf202f8012e3882b7ef687eddd7b8f19c0ce8bd2ebd8e08ef6a96dd820db9d56"
+ },
+ "sha1_origem": "e9b3b40ad25b802dca6532f87219b81fde5ec8b3",
+ "bytes_origem": 16887,
+ "capturado_em": "2026-11-08T06:18:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-alfredochaves.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "e9b3b40ad25b802dca6532f87219b81fde5ec8b3"
+ }
+}

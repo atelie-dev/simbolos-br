@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2211100",
+ "uf": "PI",
+ "municipio": "União",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Bras%C3%A3o_de_Uni%C3%A3o_-_PI.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Valdinar G Silva",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "80ff1da7738c0f71e12c7330442e0ea4acdcc3eba02f38a624cc463d5fe46146",
+ "rendicoes": {
+  "png": {
+   "bytes": 105290,
+   "sha256": "509a8475646378b439c06562995cc5c413a72a5f603ce546f3d0edaba09d2f88",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27666,
+   "sha256": "5ba5249eff42627d8a3504fba3ab34760745cd055d7c7167ef736d3340d00037",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2211100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2211100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2211100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2211100.png",
+  "bytes": 103555,
+  "sha256": "80ff1da7738c0f71e12c7330442e0ea4acdcc3eba02f38a624cc463d5fe46146"
+ },
+ "sha1_origem": "b1ee1b423830b70396d54c7090d97ee6b9f945ba",
+ "bytes_origem": 103555,
+ "capturado_em": "2026-11-08T05:31:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_União_-_PI.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "b1ee1b423830b70396d54c7090d97ee6b9f945ba"
+ }
+}

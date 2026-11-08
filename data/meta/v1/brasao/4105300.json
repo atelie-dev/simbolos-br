@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4105300",
+ "uf": "PR",
+ "municipio": "Céu Azul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Brasao_Ceu_Azul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Julio Cesar Martins",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dd3fb06eef565a729fc083f14eff12001bc011bea73b465e363ceb780c3f0491",
+ "rendicoes": {
+  "png": {
+   "bytes": 35754,
+   "sha256": "9b29486482358057c2369b1a0d7bcf02a7ba9cf00c60bf0e15779a30588c8996",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8619,
+   "sha256": "a60109e6611ed3b5608b7a4fdb3515ad29bcc9a0da885c74e1e45986cd1fb68d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4105300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4105300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4105300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4105300.jpg",
+  "bytes": 28400,
+  "sha256": "dd3fb06eef565a729fc083f14eff12001bc011bea73b465e363ceb780c3f0491"
+ },
+ "sha1_origem": "17353aaac51175718e7a4cdd17d8ebdcac2d8cec",
+ "bytes_origem": 28400,
+ "capturado_em": "2026-11-08T06:42:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Ceu_Azul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:32Z",
+  "estado": "igual",
+  "sha1_commons": "17353aaac51175718e7a4cdd17d8ebdcac2d8cec"
+ }
+}

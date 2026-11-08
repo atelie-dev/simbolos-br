@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3536109",
+ "uf": "SP",
+ "municipio": "Pardinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bras%C3%A3o_Pardinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "781f21c47fbf9ddf2d36db21f20d9d409dd97a367ff295fb53108babc036d2de",
+ "rendicoes": {
+  "png": {
+   "bytes": 89835,
+   "sha256": "1fac22453696add0fb78bbcf74a6a4a3906b23451639b4acd1b5d653ee4cc615",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18479,
+   "sha256": "1df0dbb7b8bf081366fabee56608fda37f5d0d6389e0d119a1bcd655d3733128",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3536109.jpg",
+  "bytes": 20265,
+  "sha256": "781f21c47fbf9ddf2d36db21f20d9d409dd97a367ff295fb53108babc036d2de"
+ },
+ "sha1_origem": "7628d578a41acdb8a903d8aa2928e60805e5a8df",
+ "bytes_origem": 20265,
+ "capturado_em": "2026-11-08T06:34:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Pardinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "7628d578a41acdb8a903d8aa2928e60805e5a8df"
+ }
+}

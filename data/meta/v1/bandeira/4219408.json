@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4219408",
+ "uf": "SC",
+ "municipio": "Witmarsum",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bandeira_do_munic%C3%ADpio_de_Witmarsum_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Witmarsum (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "adb520df320b70a6b84e64c084fbb80ad699ac8cd4be2aa9ade21aa62c21edb9",
+ "rendicoes": {
+  "png": {
+   "bytes": 40656,
+   "sha256": "7702de962905b2e59efc995faaaafb646b13e383b121711c861a51be5ab0b0bb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18042,
+   "sha256": "25f51a9e8a020bac630ae8dea2a11b970523995d9753b48d6ce2db3aacdc14a1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 35663,
+   "sha256": "adb520df320b70a6b84e64c084fbb80ad699ac8cd4be2aa9ade21aa62c21edb9"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4219408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4219408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4219408.jpg"
+ },
+ "sha1_origem": "8eb16dc51b0a781d22ee8095fbd3ab00df78a75a",
+ "bytes_origem": 35663,
+ "capturado_em": "2026-11-08T04:46:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Witmarsum_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "8eb16dc51b0a781d22ee8095fbd3ab00df78a75a"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3113305",
+ "uf": "MG",
+ "municipio": "Carangola",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Carangola_MG.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Froztbyte",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9eb0b9ce353f1a54f3a38b5d03a96a3ca29376a9f9f31f71d195d7d8c351a2cc",
+ "rendicoes": {
+  "png": {
+   "bytes": 7559,
+   "sha256": "8190ed84330f22daf0d1ac633e2ca4e9bbac935f0065f7eb061e79531ccffadc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14074,
+   "sha256": "1d8f141b5a7e0a7b39679b6934de13c4bc67865b14bd4da5baf925679eb0410d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1602,
+   "sha256": "9eb0b9ce353f1a54f3a38b5d03a96a3ca29376a9f9f31f71d195d7d8c351a2cc"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3113305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3113305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3113305.jpg"
+ },
+ "sha1_origem": "189e777920207b225c25f75c5441a7833f5dff47",
+ "bytes_origem": 1602,
+ "capturado_em": "2026-11-08T03:30:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Carangola_MG.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "189e777920207b225c25f75c5441a7833f5dff47"
+ }
+}

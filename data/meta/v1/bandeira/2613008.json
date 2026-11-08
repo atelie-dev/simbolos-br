@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2613008",
+ "uf": "PE",
+ "municipio": "São Bento do Una",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bandeira_de_S%C3%A3o_Bento_do_Una-Pernambuco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "CristianAlmeidaGEAPI",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "df343c6b5f80f6344bf72334bf0e12c0ebe7aea1411a2babd11bf09d7e5a91bb",
+ "rendicoes": {
+  "png": {
+   "bytes": 63795,
+   "sha256": "b669c100d7d912f5191e4d6eb7786b03d197bcffc302ade2247611c73a17033d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17218,
+   "sha256": "58bc357023c8bebde0292c5ce451861114b3028c52ecf3ea211ab132321c69d3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2613008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2613008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2613008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2613008.jpg",
+  "bytes": 30372,
+  "sha256": "df343c6b5f80f6344bf72334bf0e12c0ebe7aea1411a2babd11bf09d7e5a91bb"
+ },
+ "sha1_origem": "f242cc5d5c4c5362c751478bf1465bc9317fafb3",
+ "bytes_origem": 30372,
+ "capturado_em": "2026-11-08T05:46:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Bento_do_Una-Pernambuco.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "f242cc5d5c4c5362c751478bf1465bc9317fafb3"
+ }
+}

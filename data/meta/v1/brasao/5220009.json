@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5220009",
+ "uf": "GO",
+ "municipio": "São João d'Aliança",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Brasao_Sao_Joao_GO_BR.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "São João d'Aliança City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c4e9eeeefb1b075453b2461fee88ab225dc53589ea1cb51c82ea168bb5cae731",
+ "rendicoes": {
+  "png": {
+   "bytes": 210296,
+   "sha256": "046aed08ad8aea793b8ff1632836c33271bcb2caf88a2256f6fe14b4cbfe7e4d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59543,
+   "sha256": "076a067635cf646dd6d31f41fa7268881c2b86c20e83af21c94d46866d421169",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5220009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5220009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5220009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5220009.png",
+  "bytes": 697282,
+  "sha256": "c4e9eeeefb1b075453b2461fee88ab225dc53589ea1cb51c82ea168bb5cae731"
+ },
+ "sha1_origem": "3b49ed78131722fd275289450d5b3ea06ee3508d",
+ "bytes_origem": 697282,
+ "capturado_em": "2026-11-08T07:20:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Sao_Joao_GO_BR.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "3b49ed78131722fd275289450d5b3ea06ee3508d"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3542404",
+ "uf": "SP",
+ "municipio": "Regente Feijó",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bandeira_de_Regente_Feij%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "LTS LTS",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "14c84e0ab90d645965d511e40dfdd2781021acfd6f87f4d0d3d0344f2606d6e6",
+ "rendicoes": {
+  "png": {
+   "bytes": 47490,
+   "sha256": "4f4120f5f6643178ede3e9f328f53b929f53853be5ea02ce4d89196999425877",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16104,
+   "sha256": "c953170367d4bb0ad0f6f6e2da80dbfd91205825832a078a9630fb1f53cd81bd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3542404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3542404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3542404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3542404.jpg",
+  "bytes": 20108,
+  "sha256": "14c84e0ab90d645965d511e40dfdd2781021acfd6f87f4d0d3d0344f2606d6e6"
+ },
+ "sha1_origem": "dd005f9db77f4233fadebdd09511a0ca285ed0ba",
+ "bytes_origem": 20108,
+ "capturado_em": "2026-11-08T06:36:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Regente_Feijó.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "dd005f9db77f4233fadebdd09511a0ca285ed0ba"
+ }
+}

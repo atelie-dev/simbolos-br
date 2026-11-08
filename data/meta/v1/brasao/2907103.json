@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2907103",
+ "uf": "BA",
+ "municipio": "Carinhanha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Carinhanha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Moradores Locais",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "260e6b52857e7c0a3ca01fc7f73c54cd139be80ce899b7838700427e7b298d1d",
+ "rendicoes": {
+  "png": {
+   "bytes": 203388,
+   "sha256": "5c80f6b7d0424f56c4f056b9a85b7a977fa2b0a9cdfc5908eb707abb4e2feb23",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36384,
+   "sha256": "d41e580212863615c638b82d1fc8ca1c0dd441053bdc2de7c01b912a3aa1fa3f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2907103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2907103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2907103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2907103.jpg",
+  "bytes": 25462,
+  "sha256": "260e6b52857e7c0a3ca01fc7f73c54cd139be80ce899b7838700427e7b298d1d"
+ },
+ "sha1_origem": "dc7c0f5e2f8aa78152e86aaa58d2bb732819a72f",
+ "bytes_origem": 25462,
+ "capturado_em": "2026-11-08T05:52:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Carinhanha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:21Z",
+  "estado": "igual",
+  "sha1_commons": "dc7c0f5e2f8aa78152e86aaa58d2bb732819a72f"
+ }
+}

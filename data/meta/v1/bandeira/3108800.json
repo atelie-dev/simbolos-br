@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3108800",
+ "uf": "MG",
+ "municipio": "Braúnas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Bra%C3%BAnasmgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Braúnas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e4201349163b9989518a77f4dd095c76cbf105703ae3f9011efe48dc618e3918",
+ "rendicoes": {
+  "png": {
+   "bytes": 20987,
+   "sha256": "602490e59c406e6d1da4e758e1adde67d704bf21572df6d1e66ee4b67a094b69",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14781,
+   "sha256": "b88dd3da0795f0806d4fb810d0c91f339bd7dce29e7004548014f62d812b18d5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3108800.png",
+  "bytes": 8195,
+  "sha256": "e4201349163b9989518a77f4dd095c76cbf105703ae3f9011efe48dc618e3918"
+ },
+ "sha1_origem": "e1c62b99be5341600668a8dad44d42a398e61189",
+ "bytes_origem": 8195,
+ "capturado_em": "2026-11-08T06:01:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Braúnasmgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "e1c62b99be5341600668a8dad44d42a398e61189"
+ }
+}

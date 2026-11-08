@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3101003",
+ "uf": "MG",
+ "municipio": "Águas Vermelhas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Aguas_Vermelhas_Bras%C3%A3o.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "792ebad383ccca396b76c73f944b4616cea1cda016cc87a43f398530d96caa0b",
+ "rendicoes": {
+  "png": {
+   "bytes": 31286,
+   "sha256": "b3a5fb8e7bfc6cb64a6702b46b6fc78562c03f22e0d64953ce1279ff39126140",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10538,
+   "sha256": "2343347841cd482760d81448adf656f823ef63bb423739af6c9d8a4bb1ddbd39",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3101003.png",
+  "bytes": 26597,
+  "sha256": "792ebad383ccca396b76c73f944b4616cea1cda016cc87a43f398530d96caa0b"
+ },
+ "sha1_origem": "1a31faed9233d4ca6a89b44754e387e72922fc34",
+ "bytes_origem": 26597,
+ "capturado_em": "2026-11-08T05:58:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Aguas_Vermelhas_Brasão.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "1a31faed9233d4ca6a89b44754e387e72922fc34"
+ }
+}

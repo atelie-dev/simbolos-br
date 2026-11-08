@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3507308",
+ "uf": "SP",
+ "municipio": "Boracéia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Brasaoboraceia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c84f0eb38a0d6b958bcf3a43bf7d7763ea51bb37e311d1f0e65f84efba67a223",
+ "rendicoes": {
+  "png": {
+   "bytes": 298605,
+   "sha256": "a92baf00873d7e35d6a2b0293f750bc05a6daf4e96ced253bda07c5fd43f307e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60328,
+   "sha256": "014bcea794b044705ea7e2d46f43e9f2976005f73f44f698dc9a53e1da6966c8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3507308.jpg",
+  "bytes": 71756,
+  "sha256": "c84f0eb38a0d6b958bcf3a43bf7d7763ea51bb37e311d1f0e65f84efba67a223"
+ },
+ "sha1_origem": "5533dcdc7b8eeb634eaf0c487ece07cf0f5d5578",
+ "bytes_origem": 71756,
+ "capturado_em": "2026-11-08T06:24:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoboraceia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "5533dcdc7b8eeb634eaf0c487ece07cf0f5d5578"
+ }
+}

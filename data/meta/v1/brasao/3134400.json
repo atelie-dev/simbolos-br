@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3134400",
+ "uf": "MG",
+ "municipio": "Iturama",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Brasaoiturama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Iturama",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "253fbf91be981fc826e2a3a3bb9604ddb2d62b83f91ee4b03349469265890ff7",
+ "rendicoes": {
+  "png": {
+   "bytes": 127339,
+   "sha256": "07475000a6d4024e05a60ca9f30b71a1c46e3cc841cd53034d45527ea16cc22a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23076,
+   "sha256": "78e8956c86eced45a6cbe4fb79a8e791b07f0ccd396c02167922538e116b45ed",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3134400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3134400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3134400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3134400.jpg",
+  "bytes": 26159,
+  "sha256": "253fbf91be981fc826e2a3a3bb9604ddb2d62b83f91ee4b03349469265890ff7"
+ },
+ "sha1_origem": "4ec1781f0bcc461400f413e3490de1ef45f11903",
+ "bytes_origem": 26159,
+ "capturado_em": "2026-11-08T06:09:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoiturama.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "4ec1781f0bcc461400f413e3490de1ef45f11903"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3520301",
+ "uf": "SP",
+ "municipio": "Iguape",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/17/BrasonIguape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Iguape",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "585dcd01a7c856b133a8baa99f4e4c0bdbd3d4954132b56484eb356ba2c4b128",
+ "rendicoes": {
+  "png": {
+   "bytes": 374995,
+   "sha256": "4461b9f9ca5df8a1da55cda2339044c18eb4d574951841b653af32eeb55e1cb5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 73674,
+   "sha256": "213928efa8a11e5286652fd5ecede3b1393c4cb99838270aabaa7ddb7486f55a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3520301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3520301.jpg",
+  "bytes": 64747,
+  "sha256": "585dcd01a7c856b133a8baa99f4e4c0bdbd3d4954132b56484eb356ba2c4b128"
+ },
+ "sha1_origem": "a2a4bbcf4057711ee2443af3a31e0e4101024cec",
+ "bytes_origem": 64747,
+ "capturado_em": "2026-11-08T06:29:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasonIguape.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "a2a4bbcf4057711ee2443af3a31e0e4101024cec"
+ }
+}

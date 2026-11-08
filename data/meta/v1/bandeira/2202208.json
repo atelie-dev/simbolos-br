@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2202208",
+ "uf": "PI",
+ "municipio": "Campo Maior",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bandeira_campomaior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4ea7a2a08278f0ed9787c4baa9bb8ebeffc8cbd7f13ff14be5e413fab146cb8c",
+ "rendicoes": {
+  "png": {
+   "bytes": 57814,
+   "sha256": "0efc3ca0e8e460b2152233997e7e7e8f15275d22c99f085df069c41894839e0d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22661,
+   "sha256": "91da055aa89aaa753cc90025795481da87ea24bebfcb5583e778bce88ef748e8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2202208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2202208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2202208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2202208.jpg",
+  "bytes": 2378662,
+  "sha256": "4ea7a2a08278f0ed9787c4baa9bb8ebeffc8cbd7f13ff14be5e413fab146cb8c"
+ },
+ "sha1_origem": "e8094f793fb5b9f8788b5c52f77e3fed836d6d36",
+ "bytes_origem": 2378662,
+ "capturado_em": "2026-11-08T05:29:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_campomaior.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "e8094f793fb5b9f8788b5c52f77e3fed836d6d36"
+ }
+}

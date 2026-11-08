@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4113502",
+ "uf": "PR",
+ "municipio": "Loanda",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bandeira_de_Loanda.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Loanda",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "abde6a93d36dfc2da4f3add91c3588a7601a9ef438638eaf5fe4bef4cc379642",
+ "rendicoes": {
+  "png": {
+   "bytes": 7525,
+   "sha256": "0f3e58e1ec28974cb6c87966d8c5290ccea796a45dab96556d5bdafd619aaaa9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8368,
+   "sha256": "4937814bb04ded7c1bc893f24c070c3b8cb0e647c72e72469733323f06cc6738",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4113502.png",
+  "bytes": 3561,
+  "sha256": "abde6a93d36dfc2da4f3add91c3588a7601a9ef438638eaf5fe4bef4cc379642"
+ },
+ "sha1_origem": "d855efe27f59013075a495e26e87ec7d0e08ff5a",
+ "bytes_origem": 3561,
+ "capturado_em": "2026-11-08T06:45:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Loanda.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "d855efe27f59013075a495e26e87ec7d0e08ff5a"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4216503",
+ "uf": "SC",
+ "municipio": "São Joaquim",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bras%C3%A3o_de_S%C3%A3o_Joaquim_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "São Joaquim City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "480e764827de942b166b3b55edecb0bd846e7128120a0cf2082694a6a36f6265",
+ "rendicoes": {
+  "png": {
+   "bytes": 126333,
+   "sha256": "19f409c875fb2102453d4eb732fcdfbb10531995ff6973295a1a93361d30cb0f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25429,
+   "sha256": "8e1b38ac6e73fb2a179b4e57e3066e9948df0815b420d087bef196294b301aed",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4216503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4216503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4216503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4216503.png",
+  "bytes": 119116,
+  "sha256": "480e764827de942b166b3b55edecb0bd846e7128120a0cf2082694a6a36f6265"
+ },
+ "sha1_origem": "48aa834e0a110b3dcf998926d5a28498a9ce433a",
+ "bytes_origem": 119116,
+ "capturado_em": "2026-11-08T06:57:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_Joaquim_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:12Z",
+  "estado": "igual",
+  "sha1_commons": "48aa834e0a110b3dcf998926d5a28498a9ce433a"
+ }
+}

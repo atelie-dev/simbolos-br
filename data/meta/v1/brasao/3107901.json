@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3107901",
+ "uf": "MG",
+ "municipio": "Bom Repouso",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bom_Repousomgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Bom Repouso",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6843dbbc6457f8ee828d91f99dbeb8530be9c6a7987821c04de8f708382b5929",
+ "rendicoes": {
+  "png": {
+   "bytes": 49316,
+   "sha256": "566c56394abb9b9c2cfa3020af3e6113c0689a52d3ec415f1b118ab4020f52a0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10910,
+   "sha256": "f4d6c3edf242876236a9443ac7220a0d4dc2192f2b03c6e19c5de8f535d52afc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3107901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3107901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3107901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3107901.jpg",
+  "bytes": 8552,
+  "sha256": "6843dbbc6457f8ee828d91f99dbeb8530be9c6a7987821c04de8f708382b5929"
+ },
+ "sha1_origem": "4f61680c56d80ff4bcd0e47de49499d71cfbe75d",
+ "bytes_origem": 8552,
+ "capturado_em": "2026-11-08T06:00:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bom_Repousomgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:27Z",
+  "estado": "igual",
+  "sha1_commons": "4f61680c56d80ff4bcd0e47de49499d71cfbe75d"
+ }
+}

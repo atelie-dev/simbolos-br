@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4201802",
+ "uf": "SC",
+ "municipio": "Atalanta",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bandeira_do_munic%C3%ADpio_de_Atalanta_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Atalanta (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "702243ebae7c2f4302b8e84f1fea1d92aa9acb745c98c88af79fc12276b80931",
+ "rendicoes": {
+  "png": {
+   "bytes": 45738,
+   "sha256": "0e8953ae03afb01a28cda6fdd341aa8458d708cd990069acbcabac0e558b3a05",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20711,
+   "sha256": "8eb7cc422b68a0d5c6d5d7eeb682cbeb81a0f2b12025646fddb9b14142cf8d6b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 41311,
+   "sha256": "702243ebae7c2f4302b8e84f1fea1d92aa9acb745c98c88af79fc12276b80931"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4201802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4201802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4201802.jpg"
+ },
+ "sha1_origem": "84ec17c3f8aef42def921c3a7369c731c422efc1",
+ "bytes_origem": 41311,
+ "capturado_em": "2026-11-08T04:36:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Atalanta_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "84ec17c3f8aef42def921c3a7369c731c422efc1"
+ }
+}

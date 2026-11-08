@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3522604",
+ "uf": "SP",
+ "municipio": "Itapira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bandeira_Itapira_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Itapira",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "146dcbf7f8585907b5c6ae671f9e70e02ebafe9b282f98b6134802cff64282b7",
+ "rendicoes": {
+  "png": {
+   "bytes": 65552,
+   "sha256": "ef1447c0e674880e264515abae49f1f9820250443cafed3a0ef6ebbba2a00f44",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30859,
+   "sha256": "70a195c0bc590c8ce416638c16092990d66654062284a4a4cac0f527f74d39a8",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 662292,
+   "sha256": "146dcbf7f8585907b5c6ae671f9e70e02ebafe9b282f98b6134802cff64282b7"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522604.jpg"
+ },
+ "sha1_origem": "286eebf7ba53c07243012518d74ed1eb43faf2ea",
+ "bytes_origem": 662292,
+ "capturado_em": "2026-11-08T04:05:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itapira_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "286eebf7ba53c07243012518d74ed1eb43faf2ea"
+ }
+}

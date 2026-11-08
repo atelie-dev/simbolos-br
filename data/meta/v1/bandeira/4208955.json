@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4208955",
+ "uf": "SC",
+ "municipio": "Jardinópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bandeira_do_munic%C3%ADpio_de_Jardin%C3%B3polis_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Jardinópolis",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b467fe87347b83c3427634db27ab75f570c56f54e9bb396fd424e7c0e4b7179b",
+ "rendicoes": {
+  "png": {
+   "bytes": 73604,
+   "sha256": "c7ef4bdbfd7924c8a8d5214b0156c676ba449c91d6f705c608e6dea6419562e1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27409,
+   "sha256": "920e1d67adf57544fade0237e45d7352e6e8987b1ce6b9b6cf18631563b5bf04",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 412341,
+   "sha256": "b467fe87347b83c3427634db27ab75f570c56f54e9bb396fd424e7c0e4b7179b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208955.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208955.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208955.jpg"
+ },
+ "sha1_origem": "ca6589a09a0d2914e40ebcd295bcc4b3829e4767",
+ "bytes_origem": 412341,
+ "capturado_em": "2026-11-08T04:40:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Jardinópolis_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:19Z",
+  "estado": "igual",
+  "sha1_commons": "ca6589a09a0d2914e40ebcd295bcc4b3829e4767"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211876",
+ "uf": "SC",
+ "municipio": "Paial",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bras%C3%A3o_do_munic%C3%ADpio_de_Paial_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Paial",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "99ec22bb793467977bec9b917b935dc9c70d9bc9e6f3a511a461f6d171d44d7d",
+ "rendicoes": {
+  "png": {
+   "bytes": 280217,
+   "sha256": "253620c23b536a7aa03f0993b1936e2c82c8e6b0919bc39bbedb11e45bb3f962",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 57950,
+   "sha256": "f97e57100db789f3c2fb514f6728130648552d3e3be8b1e6c6d76489757766e4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211876.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211876.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211876.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4211876.png",
+  "bytes": 292241,
+  "sha256": "99ec22bb793467977bec9b917b935dc9c70d9bc9e6f3a511a461f6d171d44d7d"
+ },
+ "sha1_origem": "bca00c4cc839f14972feeb4dfdb39e42006ddbc1",
+ "bytes_origem": 292241,
+ "capturado_em": "2026-11-08T06:55:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Paial_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "bca00c4cc839f14972feeb4dfdb39e42006ddbc1"
+ }
+}

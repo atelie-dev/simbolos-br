@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4119301",
+ "uf": "PR",
+ "municipio": "Pinhão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Brasaopinhaopr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pinhão",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1c1b1f6e545c6fda0237ca9be12f544002c8b90ef3f8583ba2462661f042317f",
+ "rendicoes": {
+  "png": {
+   "bytes": 61213,
+   "sha256": "0c326de61b942c34f0aacbcad5cf2623865c795140e8e277fd8775782cd0a4e6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13384,
+   "sha256": "72b29bfaf88b08adde7b95789e6e5ff796e2e903b287ca0dc1d6845639fc675a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4119301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4119301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4119301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4119301.jpg",
+  "bytes": 9477,
+  "sha256": "1c1b1f6e545c6fda0237ca9be12f544002c8b90ef3f8583ba2462661f042317f"
+ },
+ "sha1_origem": "fe7daa1ca62602c06107a6a503dc071701d8fb35",
+ "bytes_origem": 9477,
+ "capturado_em": "2026-11-08T06:47:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaopinhaopr.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "fe7daa1ca62602c06107a6a503dc071701d8fb35"
+ }
+}

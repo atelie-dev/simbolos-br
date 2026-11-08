@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3542503",
+ "uf": "SP",
+ "municipio": "Reginópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bandeira_Regin%C3%B3polis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5f0bd46629b7e32a3f95e1b6aa0d91932c5fb1b330b3e696ba7d17851711f2c8",
+ "rendicoes": {
+  "png": {
+   "bytes": 31098,
+   "sha256": "8e8fbf535b9098db3fa8ccf0a27731a40aa2009e614ddd9158eb2d99572a00da",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12760,
+   "sha256": "b909474d18355b8062b951413fc11e5201fe292009fc87eae8b00d79e23525cf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3542503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3542503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3542503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3542503.png",
+  "bytes": 30216,
+  "sha256": "5f0bd46629b7e32a3f95e1b6aa0d91932c5fb1b330b3e696ba7d17851711f2c8"
+ },
+ "sha1_origem": "57b6ee7329b66d24bf452a4e4d1ef3452fe4a45a",
+ "bytes_origem": 30216,
+ "capturado_em": "2026-11-08T06:36:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Reginópolis.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "57b6ee7329b66d24bf452a4e4d1ef3452fe4a45a"
+ }
+}

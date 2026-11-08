@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3553500",
+ "uf": "SP",
+ "municipio": "Tapiraí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bandeira-tapira%C3%AD.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Tapiraí City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3cb99864cb88ababf70324c2c65346c1715b4864e8a0192542c9112151e9e314",
+ "rendicoes": {
+  "png": {
+   "bytes": 4680,
+   "sha256": "cd8e4f2c416fb041403834a664012362e5b98e89df795c14977769b32849f7c6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9661,
+   "sha256": "975277a521d85818d42ef905a1dbb07bb351c57e5cdce194f53d85d25bfa149d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3553500.png",
+  "bytes": 3383,
+  "sha256": "3cb99864cb88ababf70324c2c65346c1715b4864e8a0192542c9112151e9e314"
+ },
+ "sha1_origem": "ffeb86aee15db8fe85464b2369bfd66d4ff27cdc",
+ "bytes_origem": 3383,
+ "capturado_em": "2026-11-08T06:39:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-tapiraí.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "ffeb86aee15db8fe85464b2369bfd66d4ff27cdc"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3300100",
+ "uf": "RJ",
+ "municipio": "Angra dos Reis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bras%C3%A3o_de_Angra_dos_Reis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8bbe33184c0474c7cbdd34a228030fa2be1b18355757e41d79c7d5ca37fa155c",
+ "rendicoes": {
+  "png": {
+   "bytes": 284683,
+   "sha256": "cdf1d1337dc39814b021683d58faef4da4b4b5468c2b140eb63005be0db9eb0c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 69554,
+   "sha256": "2352fd86c1adb3aeea3bc185d67aadca6031de11ec5ebd2e35731bb17ac0ebb2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3300100.png",
+  "bytes": 110852,
+  "sha256": "8bbe33184c0474c7cbdd34a228030fa2be1b18355757e41d79c7d5ca37fa155c"
+ },
+ "sha1_origem": "e508166a4dfe0b5d4ed913a140dc1f0bd18d9e9a",
+ "bytes_origem": 110852,
+ "capturado_em": "2026-11-08T06:20:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Angra_dos_Reis.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "e508166a4dfe0b5d4ed913a140dc1f0bd18d9e9a"
+ }
+}

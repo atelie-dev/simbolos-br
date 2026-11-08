@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4302501",
+ "uf": "RS",
+ "municipio": "Bossoroca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bossorocabandeirars.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Bossoroca",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b2dedfd735af05cc13ffb9e286925014ae05b614887d45260893085d6a36810e",
+ "rendicoes": {
+  "png": {
+   "bytes": 10056,
+   "sha256": "f0b5599bfa2fa7e9786c393aeebb1f20d0267d681285dde3613ffc2409bf57d2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7469,
+   "sha256": "ca35ff74ab64a341792d843d7f52f0f61fe2e3dbac565514a51150f8bf87aa8b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4302501.png",
+  "bytes": 7783,
+  "sha256": "b2dedfd735af05cc13ffb9e286925014ae05b614887d45260893085d6a36810e"
+ },
+ "sha1_origem": "50105eedf9167e1053dc6e4177bc771709e86a48",
+ "bytes_origem": 7783,
+ "capturado_em": "2026-11-08T06:59:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bossorocabandeirars.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:27Z",
+  "estado": "igual",
+  "sha1_commons": "50105eedf9167e1053dc6e4177bc771709e86a48"
+ }
+}

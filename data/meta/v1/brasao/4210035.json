@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4210035",
+ "uf": "SC",
+ "municipio": "Luzerna",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bras%C3%A3o_de_Luzerna.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Luzerna",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a3041fc8e98ee7a8fde1350f741485719ccfb17f2c3b3c6c07ab0c572c41983a",
+ "rendicoes": {
+  "png": {
+   "bytes": 132910,
+   "sha256": "876261c8ef3776f074d4e0b74c99157214ed3cab33ab4c339035a01c9dd51567",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27549,
+   "sha256": "2789c126928a4b56a9bf7237ef4321d6a2d78288bdf910d58af2ca1ae786762d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210035.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210035.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4210035.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4210035.png",
+  "bytes": 154010,
+  "sha256": "a3041fc8e98ee7a8fde1350f741485719ccfb17f2c3b3c6c07ab0c572c41983a"
+ },
+ "sha1_origem": "cdf9a4bbb3a9cfc741b5c0eba76eba45f48072d0",
+ "bytes_origem": 154010,
+ "capturado_em": "2026-11-08T06:54:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Luzerna.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:06Z",
+  "estado": "igual",
+  "sha1_commons": "cdf9a4bbb3a9cfc741b5c0eba76eba45f48072d0"
+ }
+}

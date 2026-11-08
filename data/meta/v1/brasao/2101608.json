@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2101608",
+ "uf": "MA",
+ "municipio": "Barra do Corda",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bras%C3%A3o_de_Barra_do_Corda_-_MA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "8189ab522a8294fa938fcb54f04fabdf49e071b3c12b35e07ec5418ecbb70d2c",
+ "rendicoes": {
+  "png": {
+   "bytes": 81801,
+   "sha256": "56c8b489fa7096f22c5c4b62d37aa497889fef38e4da4e3fdf60a6e45dfb3391",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28549,
+   "sha256": "cc02f53b6e2f1977ae878c906069d93dadfade592046662bc8c17106eeaf7e37",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 59945,
+   "sha256": "8189ab522a8294fa938fcb54f04fabdf49e071b3c12b35e07ec5418ecbb70d2c"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2101608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2101608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2101608.jpg"
+ },
+ "sha1_origem": "bf564d8e14e0f400b6d5e8495cf9f72a22f73899",
+ "bytes_origem": 59945,
+ "capturado_em": "2026-11-08T02:37:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Barra_do_Corda_-_MA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "bf564d8e14e0f400b6d5e8495cf9f72a22f73899"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4111258",
+ "uf": "PR",
+ "municipio": "Itaperuçu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bras%C3%A3o_de_Itaperu%C3%A7u_PR_Brasil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ESIMPAR",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "68d1d9201e7cbb9b3ae9b2316c7e14bad4c62fbb427a34e04e542c9e12c9ee6f",
+ "rendicoes": {
+  "png": {
+   "bytes": 74902,
+   "sha256": "04a59e75631650786214241a802a07af94176326be4c6b6f80361f87ee24e998",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28786,
+   "sha256": "1830e3fbff614cd5c057769b5147763500ab348995734bf5c256ff39ff7c981d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111258.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111258.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111258.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4111258.png",
+  "bytes": 21191,
+  "sha256": "68d1d9201e7cbb9b3ae9b2316c7e14bad4c62fbb427a34e04e542c9e12c9ee6f"
+ },
+ "sha1_origem": "36a985e1787df87feeea176d33239c66b4a09d47",
+ "bytes_origem": 21191,
+ "capturado_em": "2026-11-08T06:45:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Itaperuçu_PR_Brasil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "36a985e1787df87feeea176d33239c66b4a09d47"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4301636",
+ "uf": "RS",
+ "municipio": "Balneário Pinhal",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Balne%C3%A1rio_Pinhalriograsul.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Balneário Pinhal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2465ed84b903df532c2a2506d607c52287c2e74a922f0013fc4f433c2f213a1e",
+ "rendicoes": {
+  "png": {
+   "bytes": 300446,
+   "sha256": "d2bc668d982a98163fbf80a360f0529dcae58fcff7f9c9f43820b303311a5bd7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48922,
+   "sha256": "189874fb13be40ba7c93ea85ba2ee2a4644973a76987cdcc284635192a00c24c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301636.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301636.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301636.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4301636.jpg",
+  "bytes": 59958,
+  "sha256": "2465ed84b903df532c2a2506d607c52287c2e74a922f0013fc4f433c2f213a1e"
+ },
+ "sha1_origem": "7d027663843b280866583f87a05c243c906af7ec",
+ "bytes_origem": 59958,
+ "capturado_em": "2026-11-08T06:59:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Balneário_Pinhalriograsul.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "7d027663843b280866583f87a05c243c906af7ec"
+ }
+}

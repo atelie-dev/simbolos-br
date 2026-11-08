@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3169505",
+ "uf": "MG",
+ "municipio": "Tumiritinga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Brasaotumiritinga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Tumiritinga",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f3c1c7fd9573d8a907f5019e6e7e566e5190692d1f2cd5f146576d1046590cd6",
+ "rendicoes": {
+  "png": {
+   "bytes": 210480,
+   "sha256": "5139d0817c0efd8ef793d0592ac0123535ea7b87ca48975e3db64577fa34ea3f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34449,
+   "sha256": "6064b0faa497e72cea79fb8471b42ed7b05bc6c7b0965c6cab23a7ec15acb10c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3169505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3169505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3169505.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3169505.jpg",
+  "bytes": 69375,
+  "sha256": "f3c1c7fd9573d8a907f5019e6e7e566e5190692d1f2cd5f146576d1046590cd6"
+ },
+ "sha1_origem": "edca360c632942762e90a0920591e795223f7ce3",
+ "bytes_origem": 69375,
+ "capturado_em": "2026-11-08T06:17:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaotumiritinga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "edca360c632942762e90a0920591e795223f7ce3"
+ }
+}

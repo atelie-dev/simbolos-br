@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2211001",
+ "uf": "PI",
+ "municipio": "Teresina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bras%C3%A3o_de_Teresina.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "2476b9cd89a0b2d4bfc0c7c8587a914d6dd74434ac42a4ef6c24cb18ce7eb8c8",
+ "rendicoes": {
+  "png": {
+   "bytes": 155591,
+   "sha256": "060104aad1dd1d4019bf6859641906e303394df43493976ed6d6298a6fe18fb6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53395,
+   "sha256": "61a9226c65bc85494de00cb2ced7173d3714c7e06578cb8483db817710872561",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 354993,
+   "sha256": "2476b9cd89a0b2d4bfc0c7c8587a914d6dd74434ac42a4ef6c24cb18ce7eb8c8"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2211001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2211001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2211001.jpg"
+ },
+ "sha1_origem": "ee3890fba0f1f90b79fc1c77d67be1a35c63c564",
+ "bytes_origem": 354993,
+ "capturado_em": "2026-11-08T02:43:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Teresina.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "ee3890fba0f1f90b79fc1c77d67be1a35c63c564"
+ }
+}

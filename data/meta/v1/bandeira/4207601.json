@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4207601",
+ "uf": "SC",
+ "municipio": "Ipira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bandeira_Ipira_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ipira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9539b19ac71cf8de7ac3be7bb8d9a08fcbf2e67fefcc28125315c908ace8f74f",
+ "rendicoes": {
+  "png": {
+   "bytes": 13168,
+   "sha256": "49ac1fed55c29ebbba621d33ce788c1d3a5bc7853d6ac8e47878b0cd4cbf8034",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5515,
+   "sha256": "254ede1913c97d40827d22a453a498bb2e7e4c472bb1c48179662a5a054fa5b1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4207601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4207601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4207601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4207601.jpg",
+  "bytes": 3359,
+  "sha256": "9539b19ac71cf8de7ac3be7bb8d9a08fcbf2e67fefcc28125315c908ace8f74f"
+ },
+ "sha1_origem": "27b250174780302b8cb67e20c1d59dd857b5f5b1",
+ "bytes_origem": 3359,
+ "capturado_em": "2026-11-08T06:53:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Ipira_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "27b250174780302b8cb67e20c1d59dd857b5f5b1"
+ }
+}

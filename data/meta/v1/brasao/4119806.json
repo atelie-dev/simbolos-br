@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4119806",
+ "uf": "PR",
+ "municipio": "Planalto",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brasao_Planalto.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Dedefeix",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c6d9e21ff54f9cd191299c824f99ce68ac4ec2d1a53d987fecfc100f883e4b9d",
+ "rendicoes": {
+  "png": {
+   "bytes": 34852,
+   "sha256": "61468b2ff112d6a016aeb351db6e5c98bd6538c6ac6d6771994d4e8521c4bbbc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9756,
+   "sha256": "586557edb99bc7a86b9020b9993d572d2867b3a9ff8d70ec962182682ab1a5da",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4119806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4119806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4119806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4119806.png",
+  "bytes": 30559,
+  "sha256": "c6d9e21ff54f9cd191299c824f99ce68ac4ec2d1a53d987fecfc100f883e4b9d"
+ },
+ "sha1_origem": "e767b45c4a29409fd8643623cbbfd6bf6cadf0ff",
+ "bytes_origem": 30559,
+ "capturado_em": "2026-11-08T06:47:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Planalto.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "e767b45c4a29409fd8643623cbbfd6bf6cadf0ff"
+ }
+}

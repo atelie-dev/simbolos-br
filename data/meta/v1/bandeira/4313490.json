@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4313490",
+ "uf": "RS",
+ "municipio": "Novo Barreiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bandeira_Municipal_de_Novo_Barreiro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Mário da Silva Oliveira",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0b30a185f24cf07a3f2203a6b8d337aa1e2fdf145c4422d0fee934cf37572de9",
+ "rendicoes": {
+  "png": {
+   "bytes": 48418,
+   "sha256": "27a22cfbdb65c2af3f78aeb6f7314c993396c3618ef589b9bf70999e63e1abeb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19925,
+   "sha256": "008c696a7b00b3c5cd21994173d203e6a1cd83a4d277ed05eee436daaec1a959",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313490.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313490.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313490.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4313490.png",
+  "bytes": 259657,
+  "sha256": "0b30a185f24cf07a3f2203a6b8d337aa1e2fdf145c4422d0fee934cf37572de9"
+ },
+ "sha1_origem": "66d85f798210f8a77a6d32298f6a36ee719757f8",
+ "bytes_origem": 259657,
+ "capturado_em": "2026-11-08T07:06:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Municipal_de_Novo_Barreiro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "66d85f798210f8a77a6d32298f6a36ee719757f8"
+ }
+}

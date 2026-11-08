@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3519006",
+ "uf": "SP",
+ "municipio": "Herculândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bandeira_Hercul%C3%A2ndia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5cc34887466f5919f3c9a814083220a93c8d65968e70e5b2f179e8ea2677566e",
+ "rendicoes": {
+  "png": {
+   "bytes": 30005,
+   "sha256": "213e56dc7acec0324a0732044d36ead51a5c3cfaef6eecabbc18b3d000052a76",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19885,
+   "sha256": "334e0e62d91608d5fdcf417134606d7cf2eb8a8b0304afa81d2d8fb56b4a2733",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3519006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3519006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3519006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3519006.png",
+  "bytes": 25716,
+  "sha256": "5cc34887466f5919f3c9a814083220a93c8d65968e70e5b2f179e8ea2677566e"
+ },
+ "sha1_origem": "55a389f628eb0bdf5b01afcd54883465ee9b37dc",
+ "bytes_origem": 25716,
+ "capturado_em": "2026-11-08T06:28:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Herculândia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "55a389f628eb0bdf5b01afcd54883465ee9b37dc"
+ }
+}

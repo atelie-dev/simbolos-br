@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2408003",
+ "uf": "RN",
+ "municipio": "Mossoró",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_Mossor%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Mossoró",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5053f3c19a1b2a1c1f77e09919c5654650d15c034eb56a556749eeb7ee88daa4",
+ "rendicoes": {
+  "png": {
+   "bytes": 51000,
+   "sha256": "fedb705897ec5e34c9eba44a4de1972ecf85c53a41650689812987f56d537879",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17964,
+   "sha256": "da07bc028e7e5abb916c70122f60d6b51258f60dbeca5d6db6ba1d8aa298e877",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2408003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2408003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2408003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2408003.jpg",
+  "bytes": 151383,
+  "sha256": "5053f3c19a1b2a1c1f77e09919c5654650d15c034eb56a556749eeb7ee88daa4"
+ },
+ "sha1_origem": "491fd80c9cb6b752de9f542232efb7c54b77cb90",
+ "bytes_origem": 151383,
+ "capturado_em": "2026-11-08T05:37:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Mossoró.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "491fd80c9cb6b752de9f542232efb7c54b77cb90"
+ }
+}

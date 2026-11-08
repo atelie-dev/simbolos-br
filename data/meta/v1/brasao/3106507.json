@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3106507",
+ "uf": "MG",
+ "municipio": "Berilo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Berilomgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Berilo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "825110a8b277176dfcfe9963a1d3493d90b9dcf68e3a94e8632c5966fab3cfc4",
+ "rendicoes": {
+  "png": {
+   "bytes": 57687,
+   "sha256": "d22aef5cc158e34a0e92db303f16ea468beaf74d50be358d452463e4e9428408",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12138,
+   "sha256": "29d9bd181511c5b708363ef6a7a00d9254f277e33946703900bc8560d2875bd7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106507.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106507.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106507.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3106507.jpg",
+  "bytes": 4641,
+  "sha256": "825110a8b277176dfcfe9963a1d3493d90b9dcf68e3a94e8632c5966fab3cfc4"
+ },
+ "sha1_origem": "dae4447f3c9467812b12c7b039c0a56cec9f697e",
+ "bytes_origem": 4641,
+ "capturado_em": "2026-11-08T06:00:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Berilomgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "dae4447f3c9467812b12c7b039c0a56cec9f697e"
+ }
+}

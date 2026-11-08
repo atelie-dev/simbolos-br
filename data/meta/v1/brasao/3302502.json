@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3302502",
+ "uf": "RJ",
+ "municipio": "Magé",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bras%C3%A3o_de_Mag%C3%A9%2C_RJ.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Magé municipality",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "2e69a430eacb31ee63e8da0643165fec5fddfbb9d1184383f025310632f91fc0",
+ "rendicoes": {
+  "png": {
+   "bytes": 92443,
+   "sha256": "3361510bcbec3c278a8ba604ff60c447fbe72fbf22f640bcbc73ed0e48c2e632",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29918,
+   "sha256": "cc51cdb5876f2bbd45901695718877617a388a06f87f3d5f0274a25608108200",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 589890,
+   "sha256": "2e69a430eacb31ee63e8da0643165fec5fddfbb9d1184383f025310632f91fc0"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302502.jpg"
+ },
+ "sha1_origem": "14088323be72e520d1f605c6c5cc0baf83d31081",
+ "bytes_origem": 589890,
+ "capturado_em": "2026-11-08T03:54:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Magé,_RJ.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:06Z",
+  "estado": "igual",
+  "sha1_commons": "14088323be72e520d1f605c6c5cc0baf83d31081"
+ }
+}

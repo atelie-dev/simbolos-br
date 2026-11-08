@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2509305",
+ "uf": "PB",
+ "municipio": "Mataraca",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bras%C3%A3o_Mataraca_%28PB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Mataraca",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2f78dc3ba56b0b5bcf66dfaeb0a4932d9fccd0df1ce323d868898c11e1cea5dc",
+ "rendicoes": {
+  "png": {
+   "bytes": 323044,
+   "sha256": "1b6bea7ef9c1f003cc1e590032b79e8c0d0fc7b79e1c50b8e45f09773bb8f520",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61845,
+   "sha256": "c7d9ed2bf19f47e6dc9f7ba80c1bbc3a028161bccd391c1940705243a28c891f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2509305.jpg",
+  "bytes": 56697,
+  "sha256": "2f78dc3ba56b0b5bcf66dfaeb0a4932d9fccd0df1ce323d868898c11e1cea5dc"
+ },
+ "sha1_origem": "29bd8a62e7505eeea0cfd54cc704fccddf399516",
+ "bytes_origem": 56697,
+ "capturado_em": "2026-11-08T05:41:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Mataraca_(PB).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "29bd8a62e7505eeea0cfd54cc704fccddf399516"
+ }
+}

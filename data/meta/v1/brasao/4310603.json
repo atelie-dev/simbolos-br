@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4310603",
+ "uf": "RS",
+ "municipio": "Itaqui",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bras%C3%A3o_de_Itaqui.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a92b8f11e48051a1f624684bfd4d7fc0360f7043f67836d07bf7e3fbff4f6d47",
+ "rendicoes": {
+  "png": {
+   "bytes": 17334,
+   "sha256": "05d8777e789bef80a1bbf31f2efa6e30b85923389e3f1975491fad0336e26b7f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19499,
+   "sha256": "1fe953ea14aca2e29aa91c8108d9319811eecac194621aab97c4470169ee8046",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4310603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4310603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4310603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4310603.png",
+  "bytes": 16163,
+  "sha256": "a92b8f11e48051a1f624684bfd4d7fc0360f7043f67836d07bf7e3fbff4f6d47"
+ },
+ "sha1_origem": "8c29b704c7716e2b527c6ff39e82fbc498786bab",
+ "bytes_origem": 16163,
+ "capturado_em": "2026-11-08T07:04:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Itaqui.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "8c29b704c7716e2b527c6ff39e82fbc498786bab"
+ }
+}

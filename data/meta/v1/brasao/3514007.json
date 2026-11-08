@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3514007",
+ "uf": "SP",
+ "municipio": "Dobrada",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bras%C3%A3o_de_Dobrada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Dobrada - SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d0be9412fd2dde82f9cc18ffa919547d5adf6083ccdf62067a7c3edf1fe72533",
+ "rendicoes": {
+  "png": {
+   "bytes": 424777,
+   "sha256": "08d26e32127e963e02369070dbc88c6e6e0ef7ec400f4270e72f6821d50a1b79",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 72155,
+   "sha256": "6c9f77ff8552f9f07f3422079898f17ad464463b8f286672e8528d73a441d3a2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3514007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3514007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3514007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3514007.jpg",
+  "bytes": 80240,
+  "sha256": "d0be9412fd2dde82f9cc18ffa919547d5adf6083ccdf62067a7c3edf1fe72533"
+ },
+ "sha1_origem": "88d588d2a35e371beb8308981462c529ceb9d923",
+ "bytes_origem": 80240,
+ "capturado_em": "2026-11-08T06:27:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Dobrada.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "88d588d2a35e371beb8308981462c529ceb9d923"
+ }
+}

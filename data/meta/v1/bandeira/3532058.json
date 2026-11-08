@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532058",
+ "uf": "SP",
+ "municipio": "Motuca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bandeira_Motuca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2d0d719a5eb105fa1f3b2dc9d6482fbea422ce6b2cb4602927edd55d5fa6dfa2",
+ "rendicoes": {
+  "png": {
+   "bytes": 73917,
+   "sha256": "3faf6e61c245711645b8b16a233e846abc5f6774485e0dd754a10d726a011f0a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15824,
+   "sha256": "d893c8a9728058eb878bd1cfd7c13cfba430caed8e6a77a74517220362c869a2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532058.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532058.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532058.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3532058.jpg",
+  "bytes": 38978,
+  "sha256": "2d0d719a5eb105fa1f3b2dc9d6482fbea422ce6b2cb4602927edd55d5fa6dfa2"
+ },
+ "sha1_origem": "13d302dabd92ec95ab5b922d8a522f84191c8f11",
+ "bytes_origem": 38978,
+ "capturado_em": "2026-11-08T06:32:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Motuca.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "13d302dabd92ec95ab5b922d8a522f84191c8f11"
+ }
+}

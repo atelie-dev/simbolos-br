@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1600600",
+ "uf": "AP",
+ "municipio": "Santana",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bras%C3%A3o_de_Santana%2C_AP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Kris97354",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3d0f352e6057d9437975911868d0b293bf7339451dbc94d902a00a6c98ccf4ae",
+ "rendicoes": {
+  "png": {
+   "bytes": 107912,
+   "sha256": "8307f9e47554c9ff1ef6fea3698246746a22a8287240f10b49e25488eb17131c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22815,
+   "sha256": "192fef551c30aa21259db19de061c62f7da32cc4c2913fef0915349f8b4e834d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1600600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1600600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1600600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1600600.jpg",
+  "bytes": 18313,
+  "sha256": "3d0f352e6057d9437975911868d0b293bf7339451dbc94d902a00a6c98ccf4ae"
+ },
+ "sha1_origem": "ea7d7ec6d67d7503c165a88d54d0505966d6f008",
+ "bytes_origem": 18313,
+ "capturado_em": "2026-11-08T05:26:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Santana,_AP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "ea7d7ec6d67d7503c165a88d54d0505966d6f008"
+ }
+}

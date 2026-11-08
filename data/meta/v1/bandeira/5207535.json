@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5207535",
+ "uf": "GO",
+ "municipio": "Faina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bandeira_de_Faina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Faina",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0cbe1f140250e7565e23b195787e72aefb703d44ff8f97242ee67c0eb7e8c806",
+ "rendicoes": {
+  "png": {
+   "bytes": 35438,
+   "sha256": "dba25db6163faa396b738eab2edebb67c983930b7c5308023e6d1d499356f306",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11987,
+   "sha256": "02e5a360b21182ec210f36720916cdcb8f6a2a9294c4a136ea40707cedefc31f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5207535.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5207535.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5207535.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5207535.jpg",
+  "bytes": 11120,
+  "sha256": "0cbe1f140250e7565e23b195787e72aefb703d44ff8f97242ee67c0eb7e8c806"
+ },
+ "sha1_origem": "5cc5776b9dd59c3a4a92b6eb40c6bc9d8693311e",
+ "bytes_origem": 11120,
+ "capturado_em": "2026-11-08T07:17:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Faina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "5cc5776b9dd59c3a4a92b6eb40c6bc9d8693311e"
+ }
+}

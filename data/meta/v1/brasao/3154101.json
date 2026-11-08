@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3154101",
+ "uf": "MG",
+ "municipio": "Recreio",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bras%C3%A3o_de_Recreio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Recreio",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bed83067fc7c4e5fe7ac882cffe0e5f9ac5097a5a2fe28c7592f487342587956",
+ "rendicoes": {
+  "png": {
+   "bytes": 49718,
+   "sha256": "63b8641ab6e06fd08e8ef01d0b9c511237bfe5de001a5209f6825aea4fbb10f7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12215,
+   "sha256": "081ba013f180116dbd246e2742ed4884ab5160f3bbfcef00ae5c4032f0e8f8cf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3154101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3154101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3154101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3154101.jpg",
+  "bytes": 11991,
+  "sha256": "bed83067fc7c4e5fe7ac882cffe0e5f9ac5097a5a2fe28c7592f487342587956"
+ },
+ "sha1_origem": "1058fbccf46d71f282a3401c1a51d24d85ce4860",
+ "bytes_origem": 11991,
+ "capturado_em": "2026-11-08T06:14:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Recreio.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:10Z",
+  "estado": "igual",
+  "sha1_commons": "1058fbccf46d71f282a3401c1a51d24d85ce4860"
+ }
+}

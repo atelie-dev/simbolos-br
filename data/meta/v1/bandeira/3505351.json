@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3505351",
+ "uf": "SP",
+ "municipio": "Barra do Chapéu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Barra_do_Chapeu_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "City Hall of Barra do Chapéu",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "eca94623d57132f2714056249c7807d9baced1768c4b202dba1483ceb7ab7fa1",
+ "rendicoes": {
+  "png": {
+   "bytes": 100169,
+   "sha256": "d386e08d60a3cc18137a6085a9ec582df87ec565a94c5cf0285473c7b6995819",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30755,
+   "sha256": "a6b2a0bafd5fa7065d549e1f861b3d6aba4bb8650850c55bb6c7c951abcf6618",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505351.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505351.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505351.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3505351.png",
+  "bytes": 163827,
+  "sha256": "eca94623d57132f2714056249c7807d9baced1768c4b202dba1483ceb7ab7fa1"
+ },
+ "sha1_origem": "b7b71e746746db08936b71f06209c9d184f112a2",
+ "bytes_origem": 163827,
+ "capturado_em": "2026-11-08T06:24:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Barra_do_Chapeu_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "b7b71e746746db08936b71f06209c9d184f112a2"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3145109",
+ "uf": "MG",
+ "municipio": "Nova Resende",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Brasao_nova_resende.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nova Resende - Minas Gerais",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "00e902a97adf76296b88c23bd244eaad052200ebbb50e2b4868916379bd86848",
+ "rendicoes": {
+  "png": {
+   "bytes": 41888,
+   "sha256": "1384c8a80ebebe9fafa9f2d3175e8d15605493a8d40abfbac1046aab27b994c6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10726,
+   "sha256": "1bd15fb8e0cb4055c43fdee9e874ab6eada4154e867d73eaed6fbdea68f7f767",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3145109.jpg",
+  "bytes": 12024,
+  "sha256": "00e902a97adf76296b88c23bd244eaad052200ebbb50e2b4868916379bd86848"
+ },
+ "sha1_origem": "273c883142df094c700d6b5a075a13e2b94cad5f",
+ "bytes_origem": 12024,
+ "capturado_em": "2026-11-08T06:12:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_nova_resende.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "273c883142df094c700d6b5a075a13e2b94cad5f"
+ }
+}

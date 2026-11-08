@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2400406",
+ "uf": "RN",
+ "municipio": "Água Nova",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bras%C3%A3o_de_%C3%81gua_Nova_%28RN%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Dirk Schönberger",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c0eb6ae1eabac3654eaec56d4dd9339dde20b2925303b82ab5e6c3026e17113f",
+ "rendicoes": {
+  "png": {
+   "bytes": 56126,
+   "sha256": "24f9a50e0435c5b607903dc86df2cd626d1a1d5329fb1f58863bd2b9e8ef4f96",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13171,
+   "sha256": "c15e2d784ba60c64ab15bd0a66443cde9ab2ba65f052953ce825701493000424",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2400406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2400406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2400406.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2400406.png",
+  "bytes": 27481,
+  "sha256": "c0eb6ae1eabac3654eaec56d4dd9339dde20b2925303b82ab5e6c3026e17113f"
+ },
+ "sha1_origem": "35c5bc5b05b6ed7702685cc56537c7ecc16251dc",
+ "bytes_origem": 27481,
+ "capturado_em": "2026-11-08T05:35:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Água_Nova_(RN).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:15Z",
+  "estado": "igual",
+  "sha1_commons": "35c5bc5b05b6ed7702685cc56537c7ecc16251dc"
+ }
+}

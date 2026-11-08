@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2510808",
+ "uf": "PB",
+ "municipio": "Patos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bandeira_patos.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Patos",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bb8953c896b7d1ec19bb840ba23523b3ebe953e2531e6bf0a5b34b2101230d73",
+ "rendicoes": {
+  "png": {
+   "bytes": 68738,
+   "sha256": "2aa3694e1417bc6fdf9f1cc389ac7db828854f11fcfd8bacb51d968ad58f6c71",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23294,
+   "sha256": "31594af490b9937dc4975127b86bea277c9817f2e0ed3ed827c0b81103d6313b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2510808.png",
+  "bytes": 109972,
+  "sha256": "bb8953c896b7d1ec19bb840ba23523b3ebe953e2531e6bf0a5b34b2101230d73"
+ },
+ "sha1_origem": "49c9e2b2a5e7a8adc2389091b9a87c8ddcb55fdd",
+ "bytes_origem": 109972,
+ "capturado_em": "2026-11-08T05:42:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_patos.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:22Z",
+  "estado": "igual",
+  "sha1_commons": "49c9e2b2a5e7a8adc2389091b9a87c8ddcb55fdd"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4103453",
+ "uf": "PR",
+ "municipio": "Cafelândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandeira_de_Cafel%C3%A2ndia_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "410ad2703109458f124b84c3ad10ffd202fe50b7b2ff75932bfb5bfccaeb8190",
+ "rendicoes": {
+  "png": {
+   "bytes": 52503,
+   "sha256": "d6686326542dcb0573e27711df6a298adeb351f1f00d15e34163e48df514c61d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20409,
+   "sha256": "5260be3d86c737869cc86e225f4cfd2e74af8154af385bb251e97300bbdf8614",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 415601,
+   "sha256": "410ad2703109458f124b84c3ad10ffd202fe50b7b2ff75932bfb5bfccaeb8190"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103453.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103453.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103453.jpg"
+ },
+ "sha1_origem": "2224a551bd26b15226287684cf872fdf1d03c335",
+ "bytes_origem": 415601,
+ "capturado_em": "2026-11-08T04:22:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cafelândia_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "2224a551bd26b15226287684cf872fdf1d03c335"
+ }
+}

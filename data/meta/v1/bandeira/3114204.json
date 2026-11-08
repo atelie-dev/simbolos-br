@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3114204",
+ "uf": "MG",
+ "municipio": "Carmo do Cajuru",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bandeira_de_carmo_do_cajuru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ed7f6b71807024634eba9289b6c75c56b5ecd05a08659bdf141a620bd2bfe461",
+ "rendicoes": {
+  "png": {
+   "bytes": 97054,
+   "sha256": "74806ea1849f09fabccf41f05f2fce6a2b37e9a819407c42423c5f484e4b69af",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33938,
+   "sha256": "d4e9661f0703f60b6c01b4691258dcc420e45d7dcaabab7174b376418dd08aef",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3114204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3114204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3114204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3114204.jpg",
+  "bytes": 250559,
+  "sha256": "ed7f6b71807024634eba9289b6c75c56b5ecd05a08659bdf141a620bd2bfe461"
+ },
+ "sha1_origem": "93265cb53c55fe1729ae935cb598dc905aa093d4",
+ "bytes_origem": 250559,
+ "capturado_em": "2026-11-08T06:03:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_carmo_do_cajuru.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "93265cb53c55fe1729ae935cb598dc905aa093d4"
+ }
+}

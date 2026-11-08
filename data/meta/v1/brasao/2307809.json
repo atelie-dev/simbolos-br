@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2307809",
+ "uf": "CE",
+ "municipio": "Marco",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Brasao_de_Marco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Câmara Municipal de Marco - Estado do Ceará",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "40e7afa8e0cd603fd2f7b97c3c086784029a0469e316cb94cc3ed1d3fba345d3",
+ "rendicoes": {
+  "png": {
+   "bytes": 175756,
+   "sha256": "084eafc55bae11a89180253c13befe14adf614030f30002a0a7a919e72a8c819",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39368,
+   "sha256": "8c65b350027d2be7714014de112158805f273893fc7900afc2f12bbccb69adc6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2307809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2307809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2307809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2307809.jpg",
+  "bytes": 128901,
+  "sha256": "40e7afa8e0cd603fd2f7b97c3c086784029a0469e316cb94cc3ed1d3fba345d3"
+ },
+ "sha1_origem": "bbeaf59807a759527aa87c5bff4aa80406eb6ae1",
+ "bytes_origem": 128901,
+ "capturado_em": "2026-11-08T05:33:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_de_Marco.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "bbeaf59807a759527aa87c5bff4aa80406eb6ae1"
+ }
+}

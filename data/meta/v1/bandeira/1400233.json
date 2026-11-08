@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1400233",
+ "uf": "RR",
+ "municipio": "Caroebe",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bandeira_Caroebe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Caroebe.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2e76a0627c1053a2b757e52a6a141f84b7bda7de718f3d8e187791b6e0412a0c",
+ "rendicoes": {
+  "png": {
+   "bytes": 15490,
+   "sha256": "ae1098ba69f816e9245875ab7c6fd7d6359100733dd1795f176c037fa18af26e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5829,
+   "sha256": "0df5c04f6f848c2a4b2a3e11dbfdcc5c58a7d3c051ecd354b4b35810a27354d0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400233.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400233.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400233.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1400233.jpg",
+  "bytes": 25315,
+  "sha256": "2e76a0627c1053a2b757e52a6a141f84b7bda7de718f3d8e187791b6e0412a0c"
+ },
+ "sha1_origem": "e5bb171fec2234116aa549d5856aa46de7e63a49",
+ "bytes_origem": 25315,
+ "capturado_em": "2026-11-08T05:23:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Caroebe.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "e5bb171fec2234116aa549d5856aa46de7e63a49"
+ }
+}

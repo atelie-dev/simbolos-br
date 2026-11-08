@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2601052",
+ "uf": "PE",
+ "municipio": "Araçoiaba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bandeira_Aracoiaba.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9e7f26fec8ad7d60ca4b1660a3ef9f7a3f5233e821a5ed77abf8cb13fa86bfaa",
+ "rendicoes": {
+  "png": {
+   "bytes": 42727,
+   "sha256": "9509dba13f1e90fad444ac86d37dadbdf9b248eed808e41681e606556e14f136",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18121,
+   "sha256": "86828f069d165c38d296c0971b3bb71e1e2176bdbbde7053cfd79840ee8c0d0f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 214368,
+   "sha256": "9e7f26fec8ad7d60ca4b1660a3ef9f7a3f5233e821a5ed77abf8cb13fa86bfaa"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601052.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601052.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601052.jpg"
+ },
+ "sha1_origem": "b4a54b1ca8db3162ac843bc8a14563f0fa0bd174",
+ "bytes_origem": 214368,
+ "capturado_em": "2026-11-08T03:04:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Aracoiaba.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "b4a54b1ca8db3162ac843bc8a14563f0fa0bd174"
+ }
+}

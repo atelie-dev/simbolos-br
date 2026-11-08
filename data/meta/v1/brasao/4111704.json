@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4111704",
+ "uf": "PR",
+ "municipio": "Jaboti",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Brasao_jaboti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Jaboti, PR.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7fad2c41f88b6d0da181d73fa3df578e871dbd4608f26a3fb51b9c8becdec18a",
+ "rendicoes": {
+  "png": {
+   "bytes": 159355,
+   "sha256": "262fa1a44e8a3ed6aff459e5367ed7ec9d69b55fbfd8927e15c5fb621a99591c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33598,
+   "sha256": "4be58efed3946b79857e2b40c4eb802256775d565d86b0f720874d01bcbb1b65",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4111704.jpg",
+  "bytes": 64652,
+  "sha256": "7fad2c41f88b6d0da181d73fa3df578e871dbd4608f26a3fb51b9c8becdec18a"
+ },
+ "sha1_origem": "af4a216f422a342fa5b9cf56de7c0837d785c2e8",
+ "bytes_origem": 64652,
+ "capturado_em": "2026-11-08T06:45:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_jaboti.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "af4a216f422a342fa5b9cf56de7c0837d785c2e8"
+ }
+}

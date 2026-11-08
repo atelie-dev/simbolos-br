@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3127388",
+ "uf": "MG",
+ "municipio": "Goianá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Goian%C3%A1mgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Goianá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "12defe5775f515a60a25d3d3f2489d4cbf548304f6b647bfbbb1b9e98c79992a",
+ "rendicoes": {
+  "png": {
+   "bytes": 81187,
+   "sha256": "61a09b5525dfdc1e2b65e3d757b54eb727e9aab7bffc2e7a0c225fe0d59842cf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16048,
+   "sha256": "e29808649157f06e0b8b2842821b6f2a59468aa092d9cca1b35d3e94b2d0ea15",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3127388.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3127388.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3127388.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3127388.jpg",
+  "bytes": 10637,
+  "sha256": "12defe5775f515a60a25d3d3f2489d4cbf548304f6b647bfbbb1b9e98c79992a"
+ },
+ "sha1_origem": "0e2091a7bf3b3a53650ebc151e2d9829f8c99075",
+ "bytes_origem": 10637,
+ "capturado_em": "2026-11-08T06:07:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Goianámgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "0e2091a7bf3b3a53650ebc151e2d9829f8c99075"
+ }
+}

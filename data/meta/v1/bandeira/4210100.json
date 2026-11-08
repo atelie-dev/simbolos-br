@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4210100",
+ "uf": "SC",
+ "municipio": "Mafra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bandeira_do_munic%C3%ADpio_de_Mafra_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Mafra (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "645d72fe6404680bfb4b23ed0d4430f6518000013e0b31c25d250af1444c7c8f",
+ "rendicoes": {
+  "png": {
+   "bytes": 44250,
+   "sha256": "70ed43da47ab690037cad98a7a9cc38305d2aaa28a99d0c63d0e384305bf8746",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19160,
+   "sha256": "b77515faa1f64737da6bfe5be62bf445c753c4c17084f6f9a04970ad730bb017",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 514003,
+   "sha256": "645d72fe6404680bfb4b23ed0d4430f6518000013e0b31c25d250af1444c7c8f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210100.jpg"
+ },
+ "sha1_origem": "1e94da5b509f7f7ca08e2f17ec37c3dbbd6c9892",
+ "bytes_origem": 514003,
+ "capturado_em": "2026-11-08T04:40:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Mafra_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "1e94da5b509f7f7ca08e2f17ec37c3dbbd6c9892"
+ }
+}

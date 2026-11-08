@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2708600",
+ "uf": "AL",
+ "municipio": "São Miguel dos Campos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bandeirasaomigueldoscampos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Miguel dos Campos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "407a4df59956d4df4ee123cce59746481e605365c52a180f3846c81a489fa251",
+ "rendicoes": {
+  "png": {
+   "bytes": 47502,
+   "sha256": "09e89c58b02a7379ffcf416de03a30f90fa347f7497e319be436d8af01bf9091",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9595,
+   "sha256": "d5be92bc922d76e78f607264ddade4c28eaa34d31f07df71485ef5e0233a3367",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2708600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2708600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2708600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2708600.jpg",
+  "bytes": 4921,
+  "sha256": "407a4df59956d4df4ee123cce59746481e605365c52a180f3846c81a489fa251"
+ },
+ "sha1_origem": "7262d3e4bd708393b7e456c0f557b175f8ffb874",
+ "bytes_origem": 4921,
+ "capturado_em": "2026-11-08T05:49:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeirasaomigueldoscampos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "7262d3e4bd708393b7e456c0f557b175f8ffb874"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3123700",
+ "uf": "MG",
+ "municipio": "Engenheiro Caldas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Engenheiro_caldas_flag.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Yuri Matias",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e2a838c53144dceb2a74cbba66dd7aaf4181472f6cbf587145077db46aeef980",
+ "rendicoes": {
+  "png": {
+   "bytes": 88477,
+   "sha256": "a5393c0dfa4a4cfda5192b035ef7a0a327282018a36b5d29a0726f5d80d78ef0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38853,
+   "sha256": "d30bd0c352779ba3d7e4a0c5c543a3e15e8ae29e0b23f7a4b4a051792bab92d3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3123700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3123700.png",
+  "bytes": 121401,
+  "sha256": "e2a838c53144dceb2a74cbba66dd7aaf4181472f6cbf587145077db46aeef980"
+ },
+ "sha1_origem": "63e9fc137bcba9717d341966e1b0a4d2712621e4",
+ "bytes_origem": 121401,
+ "capturado_em": "2026-11-08T06:06:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Engenheiro_caldas_flag.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "63e9fc137bcba9717d341966e1b0a4d2712621e4"
+ }
+}

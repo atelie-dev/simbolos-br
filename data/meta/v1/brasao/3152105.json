@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3152105",
+ "uf": "MG",
+ "municipio": "Ponte Nova",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Brasao_ponte_nova.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ponte Nova",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "67267226ce48091604cfd259fad016489eca85507f216bb1b41b4c10706feeeb",
+ "rendicoes": {
+  "png": {
+   "bytes": 104479,
+   "sha256": "5efbf1aedf2c2bed5f006bc0a86c60811484327b076154df3e7cf4c19848e838",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21270,
+   "sha256": "445d5e4d5100c4f9d92f7824b8484078e5b5c64e208370e00c1730a03bb7602a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3152105.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3152105.jpg",
+  "bytes": 15493,
+  "sha256": "67267226ce48091604cfd259fad016489eca85507f216bb1b41b4c10706feeeb"
+ },
+ "sha1_origem": "512eb9d084ed9e8647e274b983f5dbe8bc68cb9f",
+ "bytes_origem": 15493,
+ "capturado_em": "2026-11-08T06:13:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_ponte_nova.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "512eb9d084ed9e8647e274b983f5dbe8bc68cb9f"
+ }
+}

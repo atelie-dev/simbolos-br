@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2800308",
+ "uf": "SE",
+ "municipio": "Aracaju",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bras%C3%A3o_de_Aracaju.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1e133c4d7513bea488a6b4956ff4aad945baf2cb64a974c04b824104bf9b8efc",
+ "rendicoes": {
+  "png": {
+   "bytes": 163955,
+   "sha256": "6fa10d91c3f1b9d86f78901671371fd9241c209ef5007f948634bba1e6c94cde",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59122,
+   "sha256": "ada9bcced303e40dcfd8edf0cd391f1c41f8f50e9cf52c0bf3890af2c6569ddd",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 286361,
+   "sha256": "1e133c4d7513bea488a6b4956ff4aad945baf2cb64a974c04b824104bf9b8efc"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2800308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2800308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2800308.jpg"
+ },
+ "sha1_origem": "f4ada403e65773c9748c41466d381373ebe6fe3c",
+ "bytes_origem": 286361,
+ "capturado_em": "2026-11-08T03:11:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Aracaju.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "f4ada403e65773c9748c41466d381373ebe6fe3c"
+ }
+}

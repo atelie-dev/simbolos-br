@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2910750",
+ "uf": "BA",
+ "municipio": "Fátima",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bandeira_de_F%C3%A1tima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Fátima",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "13ba60c8e3df944cb8831f5fa6c7279e5851880a4e08c545d955d8e2cb3e51e0",
+ "rendicoes": {
+  "png": {
+   "bytes": 65928,
+   "sha256": "f20f6ecb671c73378a14ac8cba621a333513468b81c2c8efc324431b0c74fa55",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22096,
+   "sha256": "73902947bae13d1bd20a286279054263bc931f9d1ee0b9ac5bc70a3ea6c1f1f2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2910750.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2910750.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2910750.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2910750.jpg",
+  "bytes": 64507,
+  "sha256": "13ba60c8e3df944cb8831f5fa6c7279e5851880a4e08c545d955d8e2cb3e51e0"
+ },
+ "sha1_origem": "ed695e896f30e748000ad2c1757b405d12f33b75",
+ "bytes_origem": 64507,
+ "capturado_em": "2026-11-08T05:53:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Fátima.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "ed695e896f30e748000ad2c1757b405d12f33b75"
+ }
+}

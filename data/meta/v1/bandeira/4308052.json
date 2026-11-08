@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4308052",
+ "uf": "RS",
+ "municipio": "Faxinalzinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Faxinalzinhobanders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Faxinalzinho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "abd994892329161977dac2bd70ebbf55aa4fba683d130fe1033f0f039150cb7e",
+ "rendicoes": {
+  "png": {
+   "bytes": 36838,
+   "sha256": "b18e38d0192235db30e0b2314d90e8c6e594f627aa2bc0769df3f80889cb4ba3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8367,
+   "sha256": "9813d91cea428030235d73b9e80b3a96c426607169a0d01f910583ea25771dc2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308052.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308052.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308052.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4308052.jpg",
+  "bytes": 15938,
+  "sha256": "abd994892329161977dac2bd70ebbf55aa4fba683d130fe1033f0f039150cb7e"
+ },
+ "sha1_origem": "92cefa09396084da2f23307753d5f878d122261d",
+ "bytes_origem": 15938,
+ "capturado_em": "2026-11-08T07:03:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Faxinalzinhobanders.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "92cefa09396084da2f23307753d5f878d122261d"
+ }
+}

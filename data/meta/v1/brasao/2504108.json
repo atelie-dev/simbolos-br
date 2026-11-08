@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2504108",
+ "uf": "PB",
+ "municipio": "Carrapateira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Brasao_carrapateira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Carrapateira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5f80180a72c3a4b99dbacb2111f1c1f0c01f9789d54d448e5872c974316e5aaf",
+ "rendicoes": {
+  "png": {
+   "bytes": 26790,
+   "sha256": "8d3ddf40cb493035c5ce9b8203a3a2a1be609545244544a68097040f615cf9cd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8472,
+   "sha256": "d971202f783a9cd38471665cd3bce3b6d8afefcef1627c3f08e2bd173afc0336",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2504108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2504108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2504108.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2504108.jpg",
+  "bytes": 40409,
+  "sha256": "5f80180a72c3a4b99dbacb2111f1c1f0c01f9789d54d448e5872c974316e5aaf"
+ },
+ "sha1_origem": "7234a18515a25aebf0a091f3d0e32f8d3efd6b29",
+ "bytes_origem": 40409,
+ "capturado_em": "2026-11-08T05:40:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_carrapateira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:36Z",
+  "estado": "igual",
+  "sha1_commons": "7234a18515a25aebf0a091f3d0e32f8d3efd6b29"
+ }
+}

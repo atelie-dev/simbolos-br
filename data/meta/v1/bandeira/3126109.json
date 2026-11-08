@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3126109",
+ "uf": "MG",
+ "municipio": "Formiga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Bandeira_de_Formiga_%28Minas_Gerais%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Rafa7oliveira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "958cb23d3e0b20fefa4948547b6e4d5490c2d9192488b9d76a0fc477dd96f51f",
+ "rendicoes": {
+  "png": {
+   "bytes": 103418,
+   "sha256": "569459110cade8a12e0f196f54eb06597033b44971eb4660acb4e5d9fedc16d3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20561,
+   "sha256": "f807195017f0e16980e72c1e1577261b6553900c4500036bfc2cedc30bf9d3c3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3126109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3126109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3126109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3126109.jpg",
+  "bytes": 28923,
+  "sha256": "958cb23d3e0b20fefa4948547b6e4d5490c2d9192488b9d76a0fc477dd96f51f"
+ },
+ "sha1_origem": "85180d094bce094b4d477d3ed7391fb9a1d007d8",
+ "bytes_origem": 28923,
+ "capturado_em": "2026-11-08T06:07:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Formiga_(Minas_Gerais).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "85180d094bce094b4d477d3ed7391fb9a1d007d8"
+ }
+}

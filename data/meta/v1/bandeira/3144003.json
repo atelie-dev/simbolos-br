@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3144003",
+ "uf": "MG",
+ "municipio": "Mutum",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bandeira-de-mutum-mg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Brunoemid",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3cc8d95970eb674fc93c09c84a0488920997402ad656d6775284851c94580c55",
+ "rendicoes": {
+  "png": {
+   "bytes": 209280,
+   "sha256": "f2c4ebfd7951e35ab13c0953d17204ebeb1d89884e2674e6501928c0894ddd54",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33499,
+   "sha256": "bd8b17e4a9b61298cdd5d45ae95b674010a3caba86f79dded15799806bc76447",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3144003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3144003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3144003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3144003.png",
+  "bytes": 586196,
+  "sha256": "3cc8d95970eb674fc93c09c84a0488920997402ad656d6775284851c94580c55"
+ },
+ "sha1_origem": "0c589d25758b93fdffd4868dcd64ee71d1400345",
+ "bytes_origem": 586196,
+ "capturado_em": "2026-11-08T06:12:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-de-mutum-mg.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "0c589d25758b93fdffd4868dcd64ee71d1400345"
+ }
+}

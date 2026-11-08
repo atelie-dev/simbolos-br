@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4313805",
+ "uf": "RS",
+ "municipio": "Palmitinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bandeira_de_Palmitinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "26862da32eb7deca333d4fe8b57da1023bc0dcc7647e5d869128a016f4df4b91",
+ "rendicoes": {
+  "png": {
+   "bytes": 14852,
+   "sha256": "4751d77316dcbbccf5fac1786dc85cee6cb2b39f6f2f7300326d061abd5d7405",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7158,
+   "sha256": "7bce8d695e34bbd6104a98a9f9853c60238b14e9ab044a8b64a518d4815d640f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4313805.jpg",
+  "bytes": 8608,
+  "sha256": "26862da32eb7deca333d4fe8b57da1023bc0dcc7647e5d869128a016f4df4b91"
+ },
+ "sha1_origem": "ee32662d842a95476b2f4285e379f01663a9304e",
+ "bytes_origem": 8608,
+ "capturado_em": "2026-11-08T07:06:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Palmitinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "ee32662d842a95476b2f4285e379f01663a9304e"
+ }
+}

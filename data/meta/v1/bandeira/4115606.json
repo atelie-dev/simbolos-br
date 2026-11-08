@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4115606",
+ "uf": "PR",
+ "municipio": "Matelândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Matel%C3%A2ndia-pr-br.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Batistussi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b3845e2477ece7567b76b7fe41968cca409c76d9358e14b781e2ad2850aa6582",
+ "rendicoes": {
+  "png": {
+   "bytes": 53980,
+   "sha256": "ec93a9701bc7de105882b6b769a7a3b520f1599f236d75a10adf07d092edc5ab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16066,
+   "sha256": "5c61fed792a513fdeae000235b8d0ad82ffae10523b845eba1501b2afa567505",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115606.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4115606.jpg",
+  "bytes": 17247,
+  "sha256": "b3845e2477ece7567b76b7fe41968cca409c76d9358e14b781e2ad2850aa6582"
+ },
+ "sha1_origem": "6fff398cbda2d843347e1ca9c45dd6746ed3a493",
+ "bytes_origem": 17247,
+ "capturado_em": "2026-11-08T06:46:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Matelândia-pr-br.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "6fff398cbda2d843347e1ca9c45dd6746ed3a493"
+ }
+}

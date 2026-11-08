@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314605",
+ "uf": "RS",
+ "municipio": "Piratini",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Piratini-Bras%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Piratini",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "501e9e1eb0dd3aa70bc03c8c75442976542c7724ffe076c84f23ea0685b93327",
+ "rendicoes": {
+  "png": {
+   "bytes": 245149,
+   "sha256": "a354ad663cc08d47814140375b7f45e630288ac49c2f82c935a22c232fe49e9d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45571,
+   "sha256": "658ddaf27eaa0e66d9f1facaff5b8bccee047790fcab042708e0ef895cb5aea5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4314605.jpg",
+  "bytes": 260174,
+  "sha256": "501e9e1eb0dd3aa70bc03c8c75442976542c7724ffe076c84f23ea0685b93327"
+ },
+ "sha1_origem": "dbf5716588fed45b08a7532c789cf4f6743d13c9",
+ "bytes_origem": 260174,
+ "capturado_em": "2026-11-08T07:07:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Piratini-Brasão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "dbf5716588fed45b08a7532c789cf4f6743d13c9"
+ }
+}

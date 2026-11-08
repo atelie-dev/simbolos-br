@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3304805",
+ "uf": "RJ",
+ "municipio": "São Fidélis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bras%C3%A3o_de_S%C3%A3o_Fid%C3%A9lis_%28RJ%29_-_Desenho_Original_de_Alberto_Lima_%281963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Design original: Alberto Lima (1963). Restauração digital: Grok (modelo Aurora da xAI) com supervisão de Alexandre Mury.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "41be36de6b5cbf0652e8319969dc72e792f57101e3564f1c6383e1f7235209b3",
+ "rendicoes": {
+  "png": {
+   "bytes": 243064,
+   "sha256": "d411a5c61f085140ab670f3f32773046155a67a750e3cb7dcfef62f0497d325c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56782,
+   "sha256": "c7d0daf7a548d3bff1b721c75191482ed2355e3b86f6f1df7737e7b50e6e5c57",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3304805.jpg",
+  "bytes": 653143,
+  "sha256": "41be36de6b5cbf0652e8319969dc72e792f57101e3564f1c6383e1f7235209b3"
+ },
+ "sha1_origem": "e7cd0c080b066e9861a3a04bc4823880c07ab72b",
+ "bytes_origem": 653143,
+ "capturado_em": "2026-11-08T06:22:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_Fidélis_(RJ)_-_Desenho_Original_de_Alberto_Lima_(1963).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:12Z",
+  "estado": "igual",
+  "sha1_commons": "e7cd0c080b066e9861a3a04bc4823880c07ab72b"
+ }
+}

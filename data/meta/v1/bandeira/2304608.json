@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2304608",
+ "uf": "CE",
+ "municipio": "General Sampaio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_General_Sampaio_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cf99c15f2f2f5fee0c6d5e6606cb47077f871ed00bad5006b236a20d11a9efc1",
+ "rendicoes": {
+  "png": {
+   "bytes": 96496,
+   "sha256": "9afaa03447e838b90c8ac5c783127f11d1012c31d7b314b48d37e73db5059551",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27181,
+   "sha256": "9e828aed091bebb64e9ada190f1d4fedd4818ad2242203f4d32b97b46206c769",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2304608.png",
+  "bytes": 192932,
+  "sha256": "cf99c15f2f2f5fee0c6d5e6606cb47077f871ed00bad5006b236a20d11a9efc1"
+ },
+ "sha1_origem": "ac061b65b8fddc991564d9750355e389fca0bcd6",
+ "bytes_origem": 192932,
+ "capturado_em": "2026-11-08T05:32:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_General_Sampaio_Municipality_in_the_State_of_Ceará_in_Brazil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "ac061b65b8fddc991564d9750355e389fca0bcd6"
+ }
+}

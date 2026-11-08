@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3535507",
+ "uf": "SP",
+ "municipio": "Paraguaçu Paulista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Band_muni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Paraguaçu Paulista",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3e85935b1c72a7465523f7e8f31094325c66c4bca938ea1f3660083631e445f2",
+ "rendicoes": {
+  "png": {
+   "bytes": 20570,
+   "sha256": "c3ccaf3608f751fff4e9ff0d7c84df8871fcdfc237ba8a2b02a3daa294061946",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9379,
+   "sha256": "b89571d375ed0a275980e6f94a88f5b2509e5128d237abb906555c3a4a068ffc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3535507.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3535507.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3535507.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3535507.jpg",
+  "bytes": 7060,
+  "sha256": "3e85935b1c72a7465523f7e8f31094325c66c4bca938ea1f3660083631e445f2"
+ },
+ "sha1_origem": "27ef7dc591d41153781a7df67625a5c50cd5994f",
+ "bytes_origem": 7060,
+ "capturado_em": "2026-11-08T06:33:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_muni.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "27ef7dc591d41153781a7df67625a5c50cd5994f"
+ }
+}

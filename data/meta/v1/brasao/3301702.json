@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3301702",
+ "uf": "RJ",
+ "municipio": "Duque de Caxias",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Brasao-caxias.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2de2fb0aba5d5481003b3815929645d13fcb9efd0e241d22a26714a27ad1d91f",
+ "rendicoes": {
+  "png": {
+   "bytes": 10948,
+   "sha256": "eac2d5fc2d655f021b74bc1e7833500b8fac5a5054375fdffd3de7b839c80f0e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12744,
+   "sha256": "538e197829bf6de6eb7fda43479ee3770dec2590074c9bf5fbae71e3a1a5b2aa",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3301702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3301702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3301702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3301702.png",
+  "bytes": 6333,
+  "sha256": "2de2fb0aba5d5481003b3815929645d13fcb9efd0e241d22a26714a27ad1d91f"
+ },
+ "sha1_origem": "59938b01e52110bf3a4f9caf1d6faddb3e4ad373",
+ "bytes_origem": 6333,
+ "capturado_em": "2026-11-08T06:21:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-caxias.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "59938b01e52110bf3a4f9caf1d6faddb3e4ad373"
+ }
+}

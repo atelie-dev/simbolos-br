@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4101101",
+ "uf": "PR",
+ "municipio": "Andirá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bras%C3%A3o_de_Andir%C3%A1_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a891ca8f01495ae585ee7eacb20b51383b36aa48bfdf93443aa846af7586988f",
+ "rendicoes": {
+  "png": {
+   "bytes": 234888,
+   "sha256": "f07b509e8bc351d7206e04defa01c8d43f216cfcc3b529408ed6d02b88586b29",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 71557,
+   "sha256": "15c22a3782383d397e8302264062d4fad307baf332ba7c26aea6c382d1afdcf9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 468156,
+   "sha256": "a891ca8f01495ae585ee7eacb20b51383b36aa48bfdf93443aa846af7586988f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101101.jpg"
+ },
+ "sha1_origem": "a3022f91f837146cc89077c67af6f19ce9460a00",
+ "bytes_origem": 468156,
+ "capturado_em": "2026-11-08T04:20:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Andirá_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "a3022f91f837146cc89077c67af6f19ce9460a00"
+ }
+}

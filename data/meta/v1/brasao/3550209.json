@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3550209",
+ "uf": "SP",
+ "municipio": "São Miguel Arcanjo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bras%C3%A3o_sma.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Toninhosma",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f5ca70eb6a81edf9966d58137a6b131a3ba647e6e586cabcf537cf8fdaf41407",
+ "rendicoes": {
+  "png": {
+   "bytes": 64815,
+   "sha256": "d67e0467805ed612a1467d988018d4409670404b102d439cc9de5a8934b005b2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14470,
+   "sha256": "9ee0e1d3a70f62bd5598ec47328a283b1e436ef8895a6de313e31f69cf1fddcc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3550209.jpg",
+  "bytes": 9969,
+  "sha256": "f5ca70eb6a81edf9966d58137a6b131a3ba647e6e586cabcf537cf8fdaf41407"
+ },
+ "sha1_origem": "1c88bf17a18f0d15bcadb025a046adfa370693a1",
+ "bytes_origem": 9969,
+ "capturado_em": "2026-11-08T06:38:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_sma.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "1c88bf17a18f0d15bcadb025a046adfa370693a1"
+ }
+}

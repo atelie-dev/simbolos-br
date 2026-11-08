@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2112704",
+ "uf": "MA",
+ "municipio": "Vargem Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandeira_de_Vargem_Grande%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Berl743",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "67a6e0fced6744ecc0732a42719390f96e24c8a79612281ab0a118d17dd4c6fd",
+ "rendicoes": {
+  "png": {
+   "bytes": 231592,
+   "sha256": "a35539c7304fddf7fb7c327529ef88586a5b417a552df058bb1dd137b0021d76",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33263,
+   "sha256": "e2ce8f98efea404c9d4f932f186bc5b1280d9435c1145775f5406f311a5e2494",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2112704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2112704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2112704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2112704.jpg",
+  "bytes": 135058,
+  "sha256": "67a6e0fced6744ecc0732a42719390f96e24c8a79612281ab0a118d17dd4c6fd"
+ },
+ "sha1_origem": "f593dc1b4b781c891eb37c71777fbed8caffbc05",
+ "bytes_origem": 135058,
+ "capturado_em": "2026-11-08T05:29:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Vargem_Grande,_MA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "f593dc1b4b781c891eb37c71777fbed8caffbc05"
+ }
+}

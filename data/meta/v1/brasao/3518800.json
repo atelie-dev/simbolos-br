@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3518800",
+ "uf": "SP",
+ "municipio": "Guarulhos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Bras%C3%A3o_de_Guarulhos.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Guarulhos",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bac9904320fa88a13bbe14ea6802ba9f541dbd4a51aa6b014f1a3fbf803ad422",
+ "rendicoes": {
+  "png": {
+   "bytes": 216624,
+   "sha256": "93f8f67c481fc2d35266d3c3dc0bd7164d86702f9445b8cf6771f3114749d813",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53687,
+   "sha256": "657172e47a5c62febfdbe51f1a3fc943ecb8d26934b979344486d4d07d164911",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3518800.png",
+  "bytes": 1793074,
+  "sha256": "bac9904320fa88a13bbe14ea6802ba9f541dbd4a51aa6b014f1a3fbf803ad422"
+ },
+ "sha1_origem": "e586dc4bf17f33f8cd2229e5a7238d1350b49717",
+ "bytes_origem": 1793074,
+ "capturado_em": "2026-11-08T06:28:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Guarulhos.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:03Z",
+  "estado": "igual",
+  "sha1_commons": "e586dc4bf17f33f8cd2229e5a7238d1350b49717"
+ }
+}

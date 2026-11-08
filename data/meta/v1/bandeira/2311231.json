@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2311231",
+ "uf": "CE",
+ "municipio": "Potiretama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bandeira_de_Potiretama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Erick Emanuel 1",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f703712d7814ef5c2d8f351b445a295b5202511815aec859d04ed2d2ab36a4eb",
+ "rendicoes": {
+  "png": {
+   "bytes": 60960,
+   "sha256": "9cd88b119e0eb69fc1a0f774d5acb9c665317a95d9beaf560e88e3befa1ae7fa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16215,
+   "sha256": "b289b742e158232e484f44809423335a35c0e8bc856ddc35b3c091cd28b9a395",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2311231.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2311231.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2311231.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2311231.jpg",
+  "bytes": 222456,
+  "sha256": "f703712d7814ef5c2d8f351b445a295b5202511815aec859d04ed2d2ab36a4eb"
+ },
+ "sha1_origem": "600a0d11860760caaaadced7abfd9c12e20af968",
+ "bytes_origem": 222456,
+ "capturado_em": "2026-11-08T05:34:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Potiretama.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "600a0d11860760caaaadced7abfd9c12e20af968"
+ }
+}

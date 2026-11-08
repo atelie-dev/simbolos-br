@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5201454",
+ "uf": "GO",
+ "municipio": "Aparecida do Rio Doce",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Brasaoapriodocego.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Leogrigna",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "868a11117f33713c0ab08ce1df7469736d8ea85bc50a487ea2b28bb946dc8fe9",
+ "rendicoes": {
+  "png": {
+   "bytes": 46223,
+   "sha256": "9b8ef8248c1d43b0f681b531d0c576d17f3916740d4cd12cee4610eb13c19a08",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10100,
+   "sha256": "0186d96f511ca8278ca1ae077193f53422b286a773b1754d67ceb99c0280077b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201454.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201454.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201454.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5201454.jpg",
+  "bytes": 7304,
+  "sha256": "868a11117f33713c0ab08ce1df7469736d8ea85bc50a487ea2b28bb946dc8fe9"
+ },
+ "sha1_origem": "053759b618d4057c882e5f8c55e181ab2fb61151",
+ "bytes_origem": 7304,
+ "capturado_em": "2026-11-08T07:16:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoapriodocego.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "053759b618d4057c882e5f8c55e181ab2fb61151"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3525300",
+ "uf": "SP",
+ "municipio": "Jaú",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bandeira_Ja%C3%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "83167fa0a1569c2ad58d8dfd78fc7ef40df46c157949bba025b7a15370eb10b3",
+ "rendicoes": {
+  "png": {
+   "bytes": 53811,
+   "sha256": "2b8bd711b782e8bc5b6338ba8bd2a2450d7da46ec885c3ff841d752bc24f9f63",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15795,
+   "sha256": "5898e4f9e079383ef7c7ad2cf3f1beac00b420b67de2fb5945414a1270b32aed",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3525300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3525300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3525300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3525300.jpg",
+  "bytes": 12926,
+  "sha256": "83167fa0a1569c2ad58d8dfd78fc7ef40df46c157949bba025b7a15370eb10b3"
+ },
+ "sha1_origem": "adb2a6587b3d0c68b9b959d1a28c9ff3c586288b",
+ "bytes_origem": 12926,
+ "capturado_em": "2026-11-08T06:30:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Jaú.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "adb2a6587b3d0c68b9b959d1a28c9ff3c586288b"
+ }
+}

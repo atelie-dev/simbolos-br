@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3109402",
+ "uf": "MG",
+ "municipio": "Buritizeiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bandeira_de_Buritizeiro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Buritizeiro",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "aca2457d096f440dd91ae82705a58da3fe7fe536f8ba98130261a765571fe060",
+ "rendicoes": {
+  "png": {
+   "bytes": 67876,
+   "sha256": "02590e85032244830973e361b6c79b55ec04bdf12f30accf07d95dedba9c247a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26084,
+   "sha256": "8b0e8ae13bf494ecff1140665e453ad12442b6e372ba32c9cff345786fa57674",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3109402.png",
+  "bytes": 346058,
+  "sha256": "aca2457d096f440dd91ae82705a58da3fe7fe536f8ba98130261a765571fe060"
+ },
+ "sha1_origem": "6c0d01a24efc1b1fafea8a8203a0f1326a27cc37",
+ "bytes_origem": 346058,
+ "capturado_em": "2026-11-08T06:01:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Buritizeiro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "6c0d01a24efc1b1fafea8a8203a0f1326a27cc37"
+ }
+}

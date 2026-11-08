@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3140159",
+ "uf": "MG",
+ "municipio": "Mário Campos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/LogoMarioCampos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d42e6211b1a7a9e48fd188162456b99bf1b918790abe073d6f37891dd242f6aa",
+ "rendicoes": {
+  "png": {
+   "bytes": 31936,
+   "sha256": "dcace959307fd93660359971e348d4b8eead022b7f2a78432318166070a0002f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7530,
+   "sha256": "4468d7462c82c71b42c217eae5c78aff064357dd512986235e4fe36e0a6a57e6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3140159.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3140159.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3140159.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3140159.jpg",
+  "bytes": 8724,
+  "sha256": "d42e6211b1a7a9e48fd188162456b99bf1b918790abe073d6f37891dd242f6aa"
+ },
+ "sha1_origem": "f4011d5335334d9118792ea12fe320e131d8841c",
+ "bytes_origem": 8724,
+ "capturado_em": "2026-11-08T06:11:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:LogoMarioCampos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "f4011d5335334d9118792ea12fe320e131d8841c"
+ }
+}

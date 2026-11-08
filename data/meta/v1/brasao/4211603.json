@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211603",
+ "uf": "SC",
+ "municipio": "Nova Veneza",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bras%C3%A3o_Nova_Veneza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6b26c04da66d85830a098033bbe8d9187f0463702316287362403bad8fc25157",
+ "rendicoes": {
+  "png": {
+   "bytes": 21644,
+   "sha256": "7aad2be239c53de6b3ea1ca8dc96b63b3be2759041161d10296d42064a2e418a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6227,
+   "sha256": "5d459c8fb4dc98170687ee6ce739ec842cd24d99eb023cfb0c90d1864f4a37ce",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4211603.jpg",
+  "bytes": 5556,
+  "sha256": "6b26c04da66d85830a098033bbe8d9187f0463702316287362403bad8fc25157"
+ },
+ "sha1_origem": "c13f28bc8e8ee9d6b805a90f5600d54e86745c49",
+ "bytes_origem": 5556,
+ "capturado_em": "2026-11-08T06:55:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Nova_Veneza.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "c13f28bc8e8ee9d6b805a90f5600d54e86745c49"
+ }
+}

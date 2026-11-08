@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1302108",
+ "uf": "AM",
+ "municipio": "Japurá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Japur%C3%A1_-_bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Japurá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "90ca90617b31e84168e28663f02cb91ce4909d883224b1f753f1f5fc6897641b",
+ "rendicoes": {
+  "png": {
+   "bytes": 156838,
+   "sha256": "bc3e7b5ec615137d3fc93fd24db47ca3b83b4e447c1210faa137351f27683bb6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21418,
+   "sha256": "81adc5c4db7d2da5ccdb8a45a9a7b6068b13a0eb48e3eea592e4877be5b07deb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302108.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1302108.jpg",
+  "bytes": 89809,
+  "sha256": "90ca90617b31e84168e28663f02cb91ce4909d883224b1f753f1f5fc6897641b"
+ },
+ "sha1_origem": "952cbe4b406880c796850202df1a68fb6dd98857",
+ "bytes_origem": 89809,
+ "capturado_em": "2026-11-08T05:22:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Japurá_-_bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "952cbe4b406880c796850202df1a68fb6dd98857"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4217006",
+ "uf": "SC",
+ "municipio": "São Ludgero",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bandeira_sao_ludgero.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Ludgero (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "be94931205422566d0b2b1c7ca21c18d0433c8d2981795744e57361d9ce2812f",
+ "rendicoes": {
+  "png": {
+   "bytes": 46553,
+   "sha256": "88d3f9c261406d8db71e54474b1883f628a6c8a39532cbb0f57a8a8b2797a6eb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19003,
+   "sha256": "81d92629d06de7be109dfee6fd093c53622e6d52b31b771c94d6aaaa1658e6e9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4217006.png",
+  "bytes": 1454576,
+  "sha256": "be94931205422566d0b2b1c7ca21c18d0433c8d2981795744e57361d9ce2812f"
+ },
+ "sha1_origem": "0ca1f70ac3195400774979199e39385145d0f982",
+ "bytes_origem": 1454576,
+ "capturado_em": "2026-11-08T06:57:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_sao_ludgero.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "0ca1f70ac3195400774979199e39385145d0f982"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4110953",
+ "uf": "PR",
+ "municipio": "Itaipulândia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bras%C3%A3o_Itaipulandia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d3f1dabc64dada70873017b1f555069569e8d2f4db38b20a465fe42dc5af54b9",
+ "rendicoes": {
+  "png": {
+   "bytes": 270410,
+   "sha256": "6e1e86ba614899b6e82d3d2eb101a274ad0b8d4754b0895b0eb5bc16c9b15dcf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 73084,
+   "sha256": "598d36c31a433f6909780d4089a3639ac486b53b73387d3e5bcf4253c7c6b458",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4110953.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4110953.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4110953.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4110953.jpg",
+  "bytes": 470397,
+  "sha256": "d3f1dabc64dada70873017b1f555069569e8d2f4db38b20a465fe42dc5af54b9"
+ },
+ "sha1_origem": "bb97532d56e23ca2327828b72430d8b9d857ff20",
+ "bytes_origem": 470397,
+ "capturado_em": "2026-11-08T06:44:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Itaipulandia.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "bb97532d56e23ca2327828b72430d8b9d857ff20"
+ }
+}

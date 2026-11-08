@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2925501",
+ "uf": "BA",
+ "municipio": "Prado",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bras%C3%A3o_Prado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Prado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "21a242e46465c371223486363b24fd1b1f17b1364b1bbc51d2ab4f167ac81759",
+ "rendicoes": {
+  "png": {
+   "bytes": 92855,
+   "sha256": "dc02805a01aafa18aaa0e54bda43d22eda019630d900cdad78e97319be78a877",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19471,
+   "sha256": "c3e9aff857b5189dbc6c5a2b2d5a5866c948a9a271b8cca389ee9acdd5db7f3b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2925501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2925501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2925501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2925501.jpg",
+  "bytes": 21001,
+  "sha256": "21a242e46465c371223486363b24fd1b1f17b1364b1bbc51d2ab4f167ac81759"
+ },
+ "sha1_origem": "d5bc1ed8ad1e20b213bcc8729bab91bdc971879c",
+ "bytes_origem": 21001,
+ "capturado_em": "2026-11-08T05:56:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Prado.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:53Z",
+  "estado": "igual",
+  "sha1_commons": "d5bc1ed8ad1e20b213bcc8729bab91bdc971879c"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3521200",
+ "uf": "SP",
+ "municipio": "Iporanga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bandeira_Iporanga.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6ebb32158c04dad4634ad5e0aa6ad8f5281f9b2f3efda690ade09345d4d6acc1",
+ "rendicoes": {
+  "png": {
+   "bytes": 27071,
+   "sha256": "62643e5f9af0ca1b0c78a1a9eb26e9eceb5b5fe4efe0e14d4a0a84f7f99d28b5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13806,
+   "sha256": "a005fbe676fbcd4941316d05c2136777c6ac98e37935f70b6aca93d7dce80e6d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3521200.png",
+  "bytes": 25473,
+  "sha256": "6ebb32158c04dad4634ad5e0aa6ad8f5281f9b2f3efda690ade09345d4d6acc1"
+ },
+ "sha1_origem": "789f207ba0f554412f803a76d4e25bfbe049bc4c",
+ "bytes_origem": 25473,
+ "capturado_em": "2026-11-08T06:29:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Iporanga.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "789f207ba0f554412f803a76d4e25bfbe049bc4c"
+ }
+}

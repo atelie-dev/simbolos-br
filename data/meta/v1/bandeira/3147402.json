@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3147402",
+ "uf": "MG",
+ "municipio": "Paraopeba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Flag_of_Paraopeba.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Pablo Busatto",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "4547e5db20cf83f4bfc0abe68e6f4e6f34eb8daf834da29caae1a67c54436bbe",
+ "rendicoes": {
+  "png": {
+   "bytes": 62635,
+   "sha256": "65bd53ab5729161b6fe52d7cfd4d17f7101001351bcdb1626f10ce9eed98827d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23335,
+   "sha256": "90f30e54e18be24a10bf3edcb22a9650ea578b44e5854208d87441a4eeca7dc1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 71381,
+   "sha256": "4547e5db20cf83f4bfc0abe68e6f4e6f34eb8daf834da29caae1a67c54436bbe"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3147402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3147402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3147402.jpg"
+ },
+ "sha1_origem": "c3a9312d263bdd9921be867f90390e66eb739420",
+ "bytes_origem": 71381,
+ "capturado_em": "2026-11-08T03:44:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Paraopeba.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "c3a9312d263bdd9921be867f90390e66eb739420"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3149952",
+ "uf": "MG",
+ "municipio": "Periquito",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bras%C3%A3o_de_Periquito_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0f057f2813385b7a4f09149cfe6b277a95bb745005be129f416f73b8f00c712b",
+ "rendicoes": {
+  "png": {
+   "bytes": 316547,
+   "sha256": "7962d8e8d48c9cb10cb2d2368624ceb87331fbda4efd296ffb2fd4de9d5ec30b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55820,
+   "sha256": "63869f8cb9faba18a60ca9b6babbf90f775b1b3ef3f3a12ba8fdc7a300db50dc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3149952.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3149952.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3149952.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3149952.png",
+  "bytes": 553948,
+  "sha256": "0f057f2813385b7a4f09149cfe6b277a95bb745005be129f416f73b8f00c712b"
+ },
+ "sha1_origem": "4a3312f2003fe389f97c25367cee2d07f1abd038",
+ "bytes_origem": 553948,
+ "capturado_em": "2026-11-08T06:13:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Periquito_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "4a3312f2003fe389f97c25367cee2d07f1abd038"
+ }
+}

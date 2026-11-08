@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3503000",
+ "uf": "SP",
+ "municipio": "Aramina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bras%C3%A3o_de_Aramina.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Aramina.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b4df0289c1b18ebebadac222fcd53cc89e981b26c485bc5d720f35e9b4e55a04",
+ "rendicoes": {
+  "png": {
+   "bytes": 55416,
+   "sha256": "9e848a872f5299546385f65cf77cf7fe9240096d8197bd7520aaf634ec9b63fb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19267,
+   "sha256": "6c7bc8468478415ca7c952a7595c7ed298f40a00c4e02cad0c37dff6757075d2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3503000.png",
+  "bytes": 127578,
+  "sha256": "b4df0289c1b18ebebadac222fcd53cc89e981b26c485bc5d720f35e9b4e55a04"
+ },
+ "sha1_origem": "912f524b9fb899ee93e2e410ac6dc5e951d518af",
+ "bytes_origem": 127578,
+ "capturado_em": "2026-11-08T06:23:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Aramina.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "912f524b9fb899ee93e2e410ac6dc5e951d518af"
+ }
+}

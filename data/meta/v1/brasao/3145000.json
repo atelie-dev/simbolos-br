@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3145000",
+ "uf": "MG",
+ "municipio": "Nova Ponte",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Brasaonovaponte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nova Ponte",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9861b9521d2e4fe6bfd87b14a3ad4a860fe828384f1ca1ec5f6f8e911641dceb",
+ "rendicoes": {
+  "png": {
+   "bytes": 17563,
+   "sha256": "69feaff7f077cde6dd218f91497333014d8c7c5af1b9268b7bf5bd4171aa1f62",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5857,
+   "sha256": "e60600a87c6deead907645a851c3081fbcd6738c903c4fc84f3fd03807c046ac",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3145000.jpg",
+  "bytes": 10926,
+  "sha256": "9861b9521d2e4fe6bfd87b14a3ad4a860fe828384f1ca1ec5f6f8e911641dceb"
+ },
+ "sha1_origem": "8d262b07f1ce3d656a752e266c88ba30224d053e",
+ "bytes_origem": 10926,
+ "capturado_em": "2026-11-08T06:12:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaonovaponte.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "8d262b07f1ce3d656a752e266c88ba30224d053e"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3516309",
+ "uf": "SP",
+ "municipio": "Francisco Morato",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7e/BandeiraFranciscoMorato.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fc16ec77364567d670b640b7a8f95f1118fe278eecbf161ad6a1ad556ca573a3",
+ "rendicoes": {
+  "png": {
+   "bytes": 59692,
+   "sha256": "1fd9f9382f425c751f99bcd3fea6c9b0266a8ea077fa93e9ba1b87f6767f3863",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17760,
+   "sha256": "e417e679b161f7f9e846808a3e6a62276d9b16e1c246c8af80811ee6fbf6e3a4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3516309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3516309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3516309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3516309.png",
+  "bytes": 165129,
+  "sha256": "fc16ec77364567d670b640b7a8f95f1118fe278eecbf161ad6a1ad556ca573a3"
+ },
+ "sha1_origem": "1ff355890a2c7c11bd53555bb10f5d0d77a496b3",
+ "bytes_origem": 165129,
+ "capturado_em": "2026-11-08T06:27:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraFranciscoMorato.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:41Z",
+  "estado": "igual",
+  "sha1_commons": "1ff355890a2c7c11bd53555bb10f5d0d77a496b3"
+ }
+}

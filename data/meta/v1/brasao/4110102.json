@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4110102",
+ "uf": "PR",
+ "municipio": "Imbituva",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Bras%C3%A3o_de_Imbituva.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "http://www.imbituva.pr.gov.br/",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1a6517e0f383d62c01633820cca5a73f4ca934d6c96dd3ab7d4cf2b525dbdfef",
+ "rendicoes": {
+  "png": {
+   "bytes": 26413,
+   "sha256": "00b29fdaa28888772c3b34ac67823a425c6c1aab070cdd2c93705386a43e5402",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6845,
+   "sha256": "f055acb3c1d948c096454196ecfd96115add471bcd714cbe26aa3a804fead2af",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4110102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4110102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4110102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4110102.png",
+  "bytes": 26541,
+  "sha256": "1a6517e0f383d62c01633820cca5a73f4ca934d6c96dd3ab7d4cf2b525dbdfef"
+ },
+ "sha1_origem": "82e9d8a248a412ba70470398ec3d6942a4b83437",
+ "bytes_origem": 26541,
+ "capturado_em": "2026-11-08T06:44:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Imbituva.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "82e9d8a248a412ba70470398ec3d6942a4b83437"
+ }
+}

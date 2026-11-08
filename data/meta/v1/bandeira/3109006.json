@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3109006",
+ "uf": "MG",
+ "municipio": "Brumadinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Brumadinhomgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Brumadinho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "95fe0e33f9cf313153b523cf546698eabb09c93a29e61f6988a80049a771e23e",
+ "rendicoes": {
+  "png": {
+   "bytes": 20097,
+   "sha256": "35b2d6b978085db3c79d70ef874855ce1f3203d7d8eddfe7eced5ba67532457a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11234,
+   "sha256": "f33d714818e072ec058bec452b0c2b33b6193a2a657104270a7a04b116567058",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3109006.jpg",
+  "bytes": 10581,
+  "sha256": "95fe0e33f9cf313153b523cf546698eabb09c93a29e61f6988a80049a771e23e"
+ },
+ "sha1_origem": "9fea92b43e5abaf47644d141df4750385bf88fd3",
+ "bytes_origem": 10581,
+ "capturado_em": "2026-11-08T06:01:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brumadinhomgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "9fea92b43e5abaf47644d141df4750385bf88fd3"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3155306",
+ "uf": "MG",
+ "municipio": "Rio Manso",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brasaoriomanso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Rio Manso",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b9b51b8dfacf99c21d7aafacefc65498532b0378213ccbfbe899ff4be68604bc",
+ "rendicoes": {
+  "png": {
+   "bytes": 33772,
+   "sha256": "3b7dd9de9cf9ed9fedba2a428fa273faaad37673dcd03300349eaa5b82215763",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7787,
+   "sha256": "f3facb7031b51985fb5e4cbef560e3523b48aae509a04a4559102cfa545230ca",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3155306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3155306.jpg",
+  "bytes": 6794,
+  "sha256": "b9b51b8dfacf99c21d7aafacefc65498532b0378213ccbfbe899ff4be68604bc"
+ },
+ "sha1_origem": "eb48459f0508d21c176f3e3d3c104e59c20db4e3",
+ "bytes_origem": 6794,
+ "capturado_em": "2026-11-08T06:14:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoriomanso.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "eb48459f0508d21c176f3e3d3c104e59c20db4e3"
+ }
+}

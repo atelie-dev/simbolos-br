@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3119203",
+ "uf": "MG",
+ "municipio": "Coroaci",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Coroacimgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Coroaci",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d9ead70ab4b9fb062727b84044415d45e53549f846f2af4a85d9703ba9a254af",
+ "rendicoes": {
+  "png": {
+   "bytes": 41952,
+   "sha256": "c429c997fb4fa9cd1773c10ddd985046e272c2b44d05d88ed20bb59af40c1c3a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9627,
+   "sha256": "b2de188e49a3865838c5b5c7833461a375a17757a4922ac725b3178001f30ef3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3119203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3119203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3119203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3119203.jpg",
+  "bytes": 6677,
+  "sha256": "d9ead70ab4b9fb062727b84044415d45e53549f846f2af4a85d9703ba9a254af"
+ },
+ "sha1_origem": "2cef25e942a96cc88c805fe09a710ea8102aa1b7",
+ "bytes_origem": 6677,
+ "capturado_em": "2026-11-08T06:04:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Coroacimgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "2cef25e942a96cc88c805fe09a710ea8102aa1b7"
+ }
+}

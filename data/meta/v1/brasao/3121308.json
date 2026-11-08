@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3121308",
+ "uf": "MG",
+ "municipio": "Descoberto",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Descobertomgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Descoberto",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6793225c8b5e521d146b479caba4000e8efdc816293923b2583c6327b6fe6fdd",
+ "rendicoes": {
+  "png": {
+   "bytes": 50157,
+   "sha256": "a7e8026d472e24789bbceec296e70ab62ad230f258d925da02a794f56550382c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11032,
+   "sha256": "d12cc8badd04da0d3fd19ecab340e8356226a3bf5faf7780ad622b925c323ec6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3121308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3121308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3121308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3121308.jpg",
+  "bytes": 6020,
+  "sha256": "6793225c8b5e521d146b479caba4000e8efdc816293923b2583c6327b6fe6fdd"
+ },
+ "sha1_origem": "dd342d3cfae3f9550f02b46950b208d035ecbafb",
+ "bytes_origem": 6020,
+ "capturado_em": "2026-11-08T06:05:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Descobertomgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "dd342d3cfae3f9550f02b46950b208d035ecbafb"
+ }
+}

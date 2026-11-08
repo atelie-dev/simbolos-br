@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1506112",
+ "uf": "PA",
+ "municipio": "Quatipuru",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_Quatipuru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Ednaldo Gomes e Silva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8077046e80a4ea2cae89e1c93b0194b69d4471552c59939657f64f712caacfa5",
+ "rendicoes": {
+  "png": {
+   "bytes": 65201,
+   "sha256": "99bcb8d859e6164609cf2fc8f2a7284818e4f256fcc129987095ffff5c6ea504",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15479,
+   "sha256": "c026c055fa4161534b50a4c94eaba63167d438afa4552d219b9d61d300293b94",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1506112.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1506112.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1506112.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1506112.jpg",
+  "bytes": 15822,
+  "sha256": "8077046e80a4ea2cae89e1c93b0194b69d4471552c59939657f64f712caacfa5"
+ },
+ "sha1_origem": "595a69b236fdfbab63df07c934665f8660950ad4",
+ "bytes_origem": 15822,
+ "capturado_em": "2026-11-08T05:25:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Quatipuru.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "595a69b236fdfbab63df07c934665f8660950ad4"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4313334",
+ "uf": "RS",
+ "municipio": "Nova Ramada",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bras%C3%A3o_Nova_Ramada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nova Ramada",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "751f6632dc64fd4ac94342e67aef55418e4b6786c528cb958115563a640e7f84",
+ "rendicoes": {
+  "png": {
+   "bytes": 262788,
+   "sha256": "f38071bd6a74a98f7554b99a81c642b3d1d3e9ef19db2c9f255af59a05b46fd5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56720,
+   "sha256": "cc5b876ca167b01d2f0019d82cf911053ba11595a34d5e099b70ea1b834585f4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313334.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313334.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313334.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4313334.jpg",
+  "bytes": 97406,
+  "sha256": "751f6632dc64fd4ac94342e67aef55418e4b6786c528cb958115563a640e7f84"
+ },
+ "sha1_origem": "da86daafcecba39785c586d900f6517e706f19f7",
+ "bytes_origem": 97406,
+ "capturado_em": "2026-11-08T07:06:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Nova_Ramada.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "da86daafcecba39785c586d900f6517e706f19f7"
+ }
+}

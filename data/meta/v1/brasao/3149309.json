@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3149309",
+ "uf": "MG",
+ "municipio": "Pedro Leopoldo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Brasao-pedroleopoldo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pedro Leopoldo City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "eaaea41c48d6adbdafeeb5aecbed5a5dd5b139e1776075b47ab534e25548177c",
+ "rendicoes": {
+  "png": {
+   "bytes": 132201,
+   "sha256": "afbec54138a1543916ce4ec98a0a08759cead547a02b88959498e3562164e1a5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19603,
+   "sha256": "69264a78fe9e690ddc0de96522fa98618babf5ca54d2f7cac579eb7b19be2401",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3149309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3149309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3149309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3149309.jpg",
+  "bytes": 22493,
+  "sha256": "eaaea41c48d6adbdafeeb5aecbed5a5dd5b139e1776075b47ab534e25548177c"
+ },
+ "sha1_origem": "c4db086546531bd071a886acf8ce067be0dce47d",
+ "bytes_origem": 22493,
+ "capturado_em": "2026-11-08T06:13:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-pedroleopoldo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "c4db086546531bd071a886acf8ce067be0dce47d"
+ }
+}

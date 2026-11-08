@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3101102",
+ "uf": "MG",
+ "municipio": "Aimorés",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Brasao_aimores.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Aimorés City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "735d9af72f873e68b6a482e364b87b54bc30e23a42d07a1d0eb800e3519acb08",
+ "rendicoes": {
+  "png": {
+   "bytes": 158968,
+   "sha256": "671d0d11b3e4c946447b6ced98a582728167c2832d479f80840148fc1e3684df",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37935,
+   "sha256": "1c8d5f443bb58c30fd5279dc9abdd39a815b732c5e20a634070e9b8d359629ef",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3101102.png",
+  "bytes": 139894,
+  "sha256": "735d9af72f873e68b6a482e364b87b54bc30e23a42d07a1d0eb800e3519acb08"
+ },
+ "sha1_origem": "50100fb285928226339162d072f350a917403cd6",
+ "bytes_origem": 139894,
+ "capturado_em": "2026-11-08T05:58:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_aimores.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "50100fb285928226339162d072f350a917403cd6"
+ }
+}

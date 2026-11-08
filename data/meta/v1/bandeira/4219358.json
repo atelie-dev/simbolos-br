@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4219358",
+ "uf": "SC",
+ "municipio": "Vitor Meireles",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bandeira_do_munic%C3%ADpio_de_Vitor_Meireles_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Vitor Meireles",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "34536e4141645af50803f595ca0d84e697d4c717ca323284a6b481d436da48fe",
+ "rendicoes": {
+  "png": {
+   "bytes": 36925,
+   "sha256": "bc1fdc0b054aa1e1772d3c9ed39def3524a4526f5016c6475a89bea66c79401b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17766,
+   "sha256": "abca6b0d8ee2bcdf6dd07846d1b1ef3e18ecbedb80e64a994a0a9e402ea8a546",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 28072,
+   "sha256": "34536e4141645af50803f595ca0d84e697d4c717ca323284a6b481d436da48fe"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4219358.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4219358.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4219358.jpg"
+ },
+ "sha1_origem": "2e72234e730cb720c1128c81b022db709b02c220",
+ "bytes_origem": 28072,
+ "capturado_em": "2026-11-08T04:46:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Vitor_Meireles_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "2e72234e730cb720c1128c81b022db709b02c220"
+ }
+}

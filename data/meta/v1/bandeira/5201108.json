@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5201108",
+ "uf": "GO",
+ "municipio": "Anápolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bandeira_de_An%C3%A1polis_-_GO.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "2289885569b6c86c7fff449718eb2255593ddd65844f85bc1b4ac31da9c7027b",
+ "rendicoes": {
+  "png": {
+   "bytes": 71317,
+   "sha256": "c54d18b5be9d85fa264e89829714bdc119aea87c637e0cc7c30e96025a8fc9be",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36842,
+   "sha256": "c5f2fb2a0882d68f6be3781dbe990c27258e78e61a0e6a93bb741c5e6982ee92",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 317884,
+   "sha256": "2289885569b6c86c7fff449718eb2255593ddd65844f85bc1b4ac31da9c7027b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5201108.jpg"
+ },
+ "sha1_origem": "1e1767da6932c66bcf29ef8e724857a48bec7888",
+ "bytes_origem": 317884,
+ "capturado_em": "2026-11-08T05:08:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Anápolis_-_GO.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "1e1767da6932c66bcf29ef8e724857a48bec7888"
+ }
+}

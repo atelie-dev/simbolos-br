@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4202800",
+ "uf": "SC",
+ "municipio": "Braço do Norte",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brasao_de_Bra%C3%A7o_do_Norte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Braço do Norte",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b4571db9422c4c6c3f4df81f8fba8a0fe74724e205877ba3fe00c6d7dd9d1577",
+ "rendicoes": {
+  "png": {
+   "bytes": 81709,
+   "sha256": "588991c8f486dd7b1b5ab024e21df86c07075af532d4de0282c4737961b6f375",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18861,
+   "sha256": "35cba2eec9cc7b6c2df2c1926c663c43e2f2a24896aa121621dd3b9188fa245c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4202800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4202800.jpg",
+  "bytes": 13491,
+  "sha256": "b4571db9422c4c6c3f4df81f8fba8a0fe74724e205877ba3fe00c6d7dd9d1577"
+ },
+ "sha1_origem": "235cf848dde34cc7bdaef7f250422b49f7862155",
+ "bytes_origem": 13491,
+ "capturado_em": "2026-11-08T06:52:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_de_Braço_do_Norte.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "235cf848dde34cc7bdaef7f250422b49f7862155"
+ }
+}

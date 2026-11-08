@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5002704",
+ "uf": "MS",
+ "municipio": "Campo Grande",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bras%C3%A3o_de_Campo_Grande.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ef14ca2c3994bbb4851b65d20edbe1ca96be1ff59e7b26c4c363a6c1a87df5b1",
+ "rendicoes": {
+  "png": {
+   "bytes": 147929,
+   "sha256": "c540eece65404a89c753368be3d7674d546c80fcd676a4228a681ea4bb6aac8b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49590,
+   "sha256": "4b2fff9b43eaf0d713d8f5f9f3923f23c3c349334894c104677a5c8b0850efa0",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 132888,
+   "sha256": "ef14ca2c3994bbb4851b65d20edbe1ca96be1ff59e7b26c4c363a6c1a87df5b1"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5002704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5002704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5002704.jpg"
+ },
+ "sha1_origem": "369de02ba957b22e30893c688e45b5d1a5b0f3f3",
+ "bytes_origem": 132888,
+ "capturado_em": "2026-11-08T05:03:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Campo_Grande.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "369de02ba957b22e30893c688e45b5d1a5b0f3f3"
+ }
+}

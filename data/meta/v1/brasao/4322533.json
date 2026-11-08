@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4322533",
+ "uf": "RS",
+ "municipio": "Vale do Sol",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bras%C3%A3o_de_Vale_do_Sol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "RMch",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1c743e6a12b18c0091f7e816021cfce60daf6dd1d93b71ea282c33db31ce72a8",
+ "rendicoes": {
+  "png": {
+   "bytes": 37376,
+   "sha256": "d7d33814a742fa76a3410adf6e659e3200903aa3d7e0cf73a72ef4a24384ac91",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9640,
+   "sha256": "28e084d07e837ffa9d35ce0e53893447ceaa42d4bb14b195cf6b89d50ac8a6f8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322533.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322533.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322533.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4322533.jpg",
+  "bytes": 50458,
+  "sha256": "1c743e6a12b18c0091f7e816021cfce60daf6dd1d93b71ea282c33db31ce72a8"
+ },
+ "sha1_origem": "41eae4bf1e4d158a3e7a3d95536a4cbaed4ad7f1",
+ "bytes_origem": 50458,
+ "capturado_em": "2026-11-08T07:11:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Vale_do_Sol.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "41eae4bf1e4d158a3e7a3d95536a4cbaed4ad7f1"
+ }
+}

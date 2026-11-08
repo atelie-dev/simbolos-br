@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3538105",
+ "uf": "SP",
+ "municipio": "Pindorama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bandeira_de_Pindorama%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pindorama",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1f3d410b15ff6df74d9667528a198bcefad3709330b841a940151d065ab9f663",
+ "rendicoes": {
+  "png": {
+   "bytes": 61766,
+   "sha256": "5b0d4fc36891b1b39092618cd6bfc1f3d8769fdc9bfbf0adb83cfa1d8d0aab36",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15128,
+   "sha256": "c6f98547263d6113cd4d4f8ef6724c87952fc9b2027adfb409c481f9db4d4c12",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3538105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3538105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3538105.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3538105.jpg",
+  "bytes": 16987,
+  "sha256": "1f3d410b15ff6df74d9667528a198bcefad3709330b841a940151d065ab9f663"
+ },
+ "sha1_origem": "ef0bbc0f97a9ba05e884f41ecf2682cad2d83278",
+ "bytes_origem": 16987,
+ "capturado_em": "2026-11-08T06:34:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pindorama,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "ef0bbc0f97a9ba05e884f41ecf2682cad2d83278"
+ }
+}

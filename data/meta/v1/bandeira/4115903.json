@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4115903",
+ "uf": "PR",
+ "municipio": "Mirador",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Bandeira_de_Mirador%2C_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown author",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d62ebe6d1c900f5a83a1f4528e4c5016edc7cf9cf10a7962b6cca4974016d1ca",
+ "rendicoes": {
+  "png": {
+   "bytes": 101075,
+   "sha256": "e920a697fde8b45798c745bcb4bfdaf90fb7b1f422196b4c9e3c108dd6bdcb65",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30539,
+   "sha256": "0e35f6424a43b6b2b3d171b3db631e86aceda59f5479c7dd864f19be82e9eee0",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 293197,
+   "sha256": "d62ebe6d1c900f5a83a1f4528e4c5016edc7cf9cf10a7962b6cca4974016d1ca"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115903.jpg"
+ },
+ "sha1_origem": "a4611abc2a03074e3ec5ee7e704cfca3b7e328ab",
+ "bytes_origem": 293197,
+ "capturado_em": "2026-11-08T04:28:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Mirador,_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "a4611abc2a03074e3ec5ee7e704cfca3b7e328ab"
+ }
+}

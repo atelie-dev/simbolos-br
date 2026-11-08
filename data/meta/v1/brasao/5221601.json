@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5221601",
+ "uf": "GO",
+ "municipio": "Uruaçu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Brasaourua%C3%A7u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Uruaçu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "75558df719d7ad55c5f5993e346bc0e1a375594be3365bba99d2512d7de9ec69",
+ "rendicoes": {
+  "png": {
+   "bytes": 80262,
+   "sha256": "2a3ee1f4799541df6ffa75062f1d3856ebdd9b0e0cdf59dcc8961be3bc2bede2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15381,
+   "sha256": "0b0becec218c78a02e3a64104f52624c406eb3a8aa2f7ceda74cf95974c378d9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5221601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5221601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5221601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5221601.jpg",
+  "bytes": 19669,
+  "sha256": "75558df719d7ad55c5f5993e346bc0e1a375594be3365bba99d2512d7de9ec69"
+ },
+ "sha1_origem": "7a108311fc966eff96bf681ba96d316d3e3fe530",
+ "bytes_origem": 19669,
+ "capturado_em": "2026-11-08T07:21:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaouruaçu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "7a108311fc966eff96bf681ba96d316d3e3fe530"
+ }
+}

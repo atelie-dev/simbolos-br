@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4301602",
+ "uf": "RS",
+ "municipio": "Bagé",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Bras%C3%A3o_Bag%C3%A9.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Irio Malafaia / Município de Bagé",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2d8d8395d0ab985b07ca8354df86dd792831604d71c8e8dd012137741e16f806",
+ "rendicoes": {
+  "png": {
+   "bytes": 69480,
+   "sha256": "e69c29761f9e2173a91fe04b046e1935055e3255dbd048a1514df2c6be8084e9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39968,
+   "sha256": "864184142cf31caa2fca6284d543964d6072999d41f7251d9da2f586e9090f9b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4301602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4301602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4301602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4301602.png",
+  "bytes": 86889,
+  "sha256": "2d8d8395d0ab985b07ca8354df86dd792831604d71c8e8dd012137741e16f806"
+ },
+ "sha1_origem": "aa4304bfe7f2f25992b1cd822319351d055e7805",
+ "bytes_origem": 86889,
+ "capturado_em": "2026-11-08T06:59:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Bagé.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "aa4304bfe7f2f25992b1cd822319351d055e7805"
+ }
+}

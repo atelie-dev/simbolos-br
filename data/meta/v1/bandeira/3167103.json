@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3167103",
+ "uf": "MG",
+ "municipio": "Serro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/BandeiraSerro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Serro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b0539ffd2e785c6cd6050c0fdc5df43a085e87be878c0b353691392b5582d01a",
+ "rendicoes": {
+  "png": {
+   "bytes": 254944,
+   "sha256": "b879854ad8903a982d70cc3957b1f0e678176a01ba6adbce928790ff597503f4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35115,
+   "sha256": "7787ef8100dff34f6cc06ba015a56791ad1f9905a0bef5c4217867e36acaaab8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3167103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3167103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3167103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3167103.jpg",
+  "bytes": 57374,
+  "sha256": "b0539ffd2e785c6cd6050c0fdc5df43a085e87be878c0b353691392b5582d01a"
+ },
+ "sha1_origem": "a253e2d6b00864aa617ed0d4640852b37f3949f0",
+ "bytes_origem": 57374,
+ "capturado_em": "2026-11-08T06:17:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraSerro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "a253e2d6b00864aa617ed0d4640852b37f3949f0"
+ }
+}

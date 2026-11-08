@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3162302",
+ "uf": "MG",
+ "municipio": "São João da Mata",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bandeira_S%C3%A3o_Jo%C3%A3o_da_Mata%2C_MG.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Jose agnaldo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0bc04dde274d6f5e1582beaaef6449cfac48d7c9df407b215c1d7acc1c5aa524",
+ "rendicoes": {
+  "png": {
+   "bytes": 24552,
+   "sha256": "208bebef3f6fb847866cbc25d18b64c60b8c46fc47b1dc3d239820aa52ae913c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6409,
+   "sha256": "2447b398b54fdd3790ebdf79762db8897749c92bbee0113387b70d1d925b4535",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3162302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3162302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3162302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3162302.jpg",
+  "bytes": 4533,
+  "sha256": "0bc04dde274d6f5e1582beaaef6449cfac48d7c9df407b215c1d7acc1c5aa524"
+ },
+ "sha1_origem": "217622892a8de448cba7140494749e85b9fb23eb",
+ "bytes_origem": 4533,
+ "capturado_em": "2026-11-08T06:16:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_São_João_da_Mata,_MG.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "217622892a8de448cba7140494749e85b9fb23eb"
+ }
+}

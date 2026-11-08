@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3506102",
+ "uf": "SP",
+ "municipio": "Bebedouro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/BandeiraBebedouro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "770f6f17350069d4714ba7e7c14f22ff34aa1fb7eb5f0533dfc4d9021ba4ab11",
+ "rendicoes": {
+  "png": {
+   "bytes": 95231,
+   "sha256": "e00b0882da5cb60a166275123b111817b6e428a55ca08fee6093109706f754ec",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32747,
+   "sha256": "68a54bcaf7137b634dda08aa824edb5d7f031c0bd81a60740ea503cdfda83ecf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3506102.jpg",
+  "bytes": 170656,
+  "sha256": "770f6f17350069d4714ba7e7c14f22ff34aa1fb7eb5f0533dfc4d9021ba4ab11"
+ },
+ "sha1_origem": "376652d629c446f318cf0566eb744f65556a86b0",
+ "bytes_origem": 170656,
+ "capturado_em": "2026-11-08T06:24:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraBebedouro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "376652d629c446f318cf0566eb744f65556a86b0"
+ }
+}

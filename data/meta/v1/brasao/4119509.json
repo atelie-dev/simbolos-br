@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4119509",
+ "uf": "PR",
+ "municipio": "Piraquara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bras%C3%A3o_de_Piraquara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Prefeitura Municipal de Piraquara",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7211b48b604653b75b4f6693aac8b1addf02ca2c96df2bd06352dc868de6d542",
+ "rendicoes": {
+  "png": {
+   "bytes": 43542,
+   "sha256": "71229d1ca05ca3038b93f2a8efb8fb8b8504fe31a2e3bfde0d012ddd3a0551d6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10469,
+   "sha256": "a36f169cf3d4dd5e49efc0d7d2f02d679eae213ef853d02898f9d90be7165231",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4119509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4119509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4119509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4119509.jpg",
+  "bytes": 15409,
+  "sha256": "7211b48b604653b75b4f6693aac8b1addf02ca2c96df2bd06352dc868de6d542"
+ },
+ "sha1_origem": "d1eeaac901fcd9f0ca3e060930bfb0c3eb696c54",
+ "bytes_origem": 15409,
+ "capturado_em": "2026-11-08T06:47:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Piraquara.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:09Z",
+  "estado": "igual",
+  "sha1_commons": "d1eeaac901fcd9f0ca3e060930bfb0c3eb696c54"
+ }
+}

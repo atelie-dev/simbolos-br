@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4109005",
+ "uf": "PR",
+ "municipio": "Guapirama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandeira_Guapirama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a9fb411e2d9e9a1de0996a3774dd7f85de360f3a67a40def9653ab50c7fd8297",
+ "rendicoes": {
+  "png": {
+   "bytes": 88971,
+   "sha256": "6ab29e0f2ee6f5a687e335ad962aa67ce6c16f5f8f291a5099c5816dd63f1722",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21867,
+   "sha256": "06d0641bf969ecd1aa693a4d79492fef8f683a1352aa80579da8ec103bb8d7dd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4109005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4109005.jpg",
+  "bytes": 41670,
+  "sha256": "a9fb411e2d9e9a1de0996a3774dd7f85de360f3a67a40def9653ab50c7fd8297"
+ },
+ "sha1_origem": "e182bc3565c61127ac89661f8fa9ef3b5b43811b",
+ "bytes_origem": 41670,
+ "capturado_em": "2026-11-08T06:44:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Guapirama.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "e182bc3565c61127ac89661f8fa9ef3b5b43811b"
+ }
+}

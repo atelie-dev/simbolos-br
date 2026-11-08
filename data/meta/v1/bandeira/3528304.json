@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3528304",
+ "uf": "SP",
+ "municipio": "Magda",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bandeira_de_Magda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a7a7790c6a23ba2244440df3931e87222fdad54a340e70954e4675c9d5e92588",
+ "rendicoes": {
+  "png": {
+   "bytes": 55529,
+   "sha256": "b1b4e6a2fda8a69a066fdc99d0469cc5585d37095e0cc41a71daa58b75d187f5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11089,
+   "sha256": "cddac24fe1914942e0a7cd461386dbdb9eeade9b4a3849e9d311cd6706a2c497",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3528304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3528304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3528304.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3528304.jpg",
+  "bytes": 9441,
+  "sha256": "a7a7790c6a23ba2244440df3931e87222fdad54a340e70954e4675c9d5e92588"
+ },
+ "sha1_origem": "592f10b3bc84a869ab01f195e0a75fa24d78a0c8",
+ "bytes_origem": 9441,
+ "capturado_em": "2026-11-08T06:31:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Magda.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "592f10b3bc84a869ab01f195e0a75fa24d78a0c8"
+ }
+}

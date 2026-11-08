@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3505104",
+ "uf": "SP",
+ "municipio": "Barbosa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bandeira_Barbosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Barbosa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d5bd8f15de9690c034890f6f07d81f89538bee782c2da4f2b5bca80d3f27cdb8",
+ "rendicoes": {
+  "png": {
+   "bytes": 54250,
+   "sha256": "67f9ec7e078c99dccfde062fe71bc269dd189682681eda34e7eb4ccf3d6f0988",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19405,
+   "sha256": "1dc44934a6f2baf501b83503895900f63d1a1b65264a64186bd49f3404a09ac1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3505104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3505104.jpg",
+  "bytes": 45259,
+  "sha256": "d5bd8f15de9690c034890f6f07d81f89538bee782c2da4f2b5bca80d3f27cdb8"
+ },
+ "sha1_origem": "de1a9358442912e2d6a34a8ed904aef853583373",
+ "bytes_origem": 45259,
+ "capturado_em": "2026-11-08T06:24:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Barbosa.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "de1a9358442912e2d6a34a8ed904aef853583373"
+ }
+}

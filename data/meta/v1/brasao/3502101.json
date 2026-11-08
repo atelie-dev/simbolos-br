@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3502101",
+ "uf": "SP",
+ "municipio": "Andradina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bras%C3%A3o_de_Andradina_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "492e94f9c06734901b8b50718d7f936da87f6808f2cc141e9f8865df9d6137f9",
+ "rendicoes": {
+  "png": {
+   "bytes": 148178,
+   "sha256": "95027ff6147059b6e3ce4b8a4d893a7ff76fa604d384d79f4027823287fc9e97",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49241,
+   "sha256": "327945534cafb2d42869a2698c249d2c7744b602842bdc17e394bd91c86c2bf1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 145527,
+   "sha256": "492e94f9c06734901b8b50718d7f936da87f6808f2cc141e9f8865df9d6137f9"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3502101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3502101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3502101.jpg"
+ },
+ "sha1_origem": "654cb75767ed3aecadc1b8717f7e6a41d562c9be",
+ "bytes_origem": 145527,
+ "capturado_em": "2026-11-08T03:57:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Andradina_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "654cb75767ed3aecadc1b8717f7e6a41d562c9be"
+ }
+}

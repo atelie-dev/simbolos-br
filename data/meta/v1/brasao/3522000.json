@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3522000",
+ "uf": "SP",
+ "municipio": "Itaju",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Brasaoitaju.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c36d529be536193460d5cc622c2031e5d6cd327edcf7cfd11e9f32a4f4d7c5bb",
+ "rendicoes": {
+  "png": {
+   "bytes": 113971,
+   "sha256": "4bcafa55f8f1a491364e4947f2337dd9d946e22184b73f571c6152c7be89dea2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21160,
+   "sha256": "a297edfb12e01bdcc31b7fddde9777d90a6ad5760090981dd3642e612212c951",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3522000.jpg",
+  "bytes": 22974,
+  "sha256": "c36d529be536193460d5cc622c2031e5d6cd327edcf7cfd11e9f32a4f4d7c5bb"
+ },
+ "sha1_origem": "44d8cedcdf275e17f1b8d812721a8cf4b4d8033c",
+ "bytes_origem": 22974,
+ "capturado_em": "2026-11-08T06:29:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoitaju.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "44d8cedcdf275e17f1b8d812721a8cf4b4d8033c"
+ }
+}

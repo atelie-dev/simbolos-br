@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4322509",
+ "uf": "RS",
+ "municipio": "Vacaria",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/BrasaoVacaria.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b2ec0621c08f51baac80371d8d3d81033544cf05510b878d8207019b12c886fc",
+ "rendicoes": {
+  "png": {
+   "bytes": 70296,
+   "sha256": "73c80235eb727c1741d3e980969adcacd945e9edbe72a3b8dc9365d1089ac263",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15200,
+   "sha256": "b79a9123ea874ff9e088ef5254dac3effe2fa8f1ed9e0f8ff726afc7bc39c985",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4322509.png",
+  "bytes": 59602,
+  "sha256": "b2ec0621c08f51baac80371d8d3d81033544cf05510b878d8207019b12c886fc"
+ },
+ "sha1_origem": "7bc4f15755bd5a49051b525732dd653304cc8e15",
+ "bytes_origem": 59602,
+ "capturado_em": "2026-11-08T07:11:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoVacaria.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "7bc4f15755bd5a49051b525732dd653304cc8e15"
+ }
+}

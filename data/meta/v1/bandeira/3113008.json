@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3113008",
+ "uf": "MG",
+ "municipio": "Caraí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cara%C3%ADmgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Caraí",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "79e715f823991bc8c6a7b422c36b00462cf76c0d2bc8e0f7d5a4d72e84abf2f0",
+ "rendicoes": {
+  "png": {
+   "bytes": 66767,
+   "sha256": "39360792a02651ec2eb2c1af77d90818647f086c85c229b2edc23c444b2b7bf0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14036,
+   "sha256": "6e20eee732a78bf8f35bb14dda1370c7af6f942a3eb314c1b8d9ce5391e780f8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3113008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3113008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3113008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3113008.jpg",
+  "bytes": 7673,
+  "sha256": "79e715f823991bc8c6a7b422c36b00462cf76c0d2bc8e0f7d5a4d72e84abf2f0"
+ },
+ "sha1_origem": "1e5f63399101f50e301ae358080cfc0ccbea5763",
+ "bytes_origem": 7673,
+ "capturado_em": "2026-11-08T06:02:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Caraímgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:21Z",
+  "estado": "igual",
+  "sha1_commons": "1e5f63399101f50e301ae358080cfc0ccbea5763"
+ }
+}

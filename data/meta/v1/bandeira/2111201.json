@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2111201",
+ "uf": "MA",
+ "municipio": "São José de Ribamar",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bandeira_de_S%C3%A3o_Jos%C3%A9_de_Ribamar%2C_Maranhao%2C_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "SLRTDM",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1d2c3a1caec713c467344ee6749c87fcd6763737a08d13b2437a46549eeeceaa",
+ "rendicoes": {
+  "png": {
+   "bytes": 23302,
+   "sha256": "fe34fe6d9563878f2842ecba608c528b1c3b889e35d43ecd873ce57648e7a7ae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22482,
+   "sha256": "2ce9ad560c255ab8c4645e638dd351a6c74b2102ce3bb4af0c7eed5ea5b3eae9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2111201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2111201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2111201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2111201.jpg",
+  "bytes": 154500,
+  "sha256": "1d2c3a1caec713c467344ee6749c87fcd6763737a08d13b2437a46549eeeceaa"
+ },
+ "sha1_origem": "b002f77b8f7b38b2cc20744725afbd2ed4e3a59d",
+ "bytes_origem": 154500,
+ "capturado_em": "2026-11-08T05:29:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_José_de_Ribamar,_Maranhao,_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "b002f77b8f7b38b2cc20744725afbd2ed4e3a59d"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3200805",
+ "uf": "ES",
+ "municipio": "Baixo Guandu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Brasaobaixoguandu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Baixo Guandu City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "09bc7d409147eebef0ddca2a610caf8c6e1743931173bb25683bd9d3c9f6239e",
+ "rendicoes": {
+  "png": {
+   "bytes": 16462,
+   "sha256": "f4dd94d90078295d6ac194afcc563eca1a43280c9f1430277a5626afbb6feab4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10975,
+   "sha256": "ebb26e1bd76d737d69bc3546e0926cb6be11e30cdd6c229aa98f4d1283270120",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3200805.png",
+  "bytes": 17347,
+  "sha256": "09bc7d409147eebef0ddca2a610caf8c6e1743931173bb25683bd9d3c9f6239e"
+ },
+ "sha1_origem": "0c2db41c9f6eeedcc93e097579483dcc272dc146",
+ "bytes_origem": 17347,
+ "capturado_em": "2026-11-08T06:18:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaobaixoguandu.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "0c2db41c9f6eeedcc93e097579483dcc272dc146"
+ }
+}

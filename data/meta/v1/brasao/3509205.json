@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3509205",
+ "uf": "SP",
+ "municipio": "Cajamar",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bras%C3%A3o_de_Cajamar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "36b8b4c3812a577b111b7fc8deb255896ebced0f9051054ee49e2032708d55ec",
+ "rendicoes": {
+  "png": {
+   "bytes": 214114,
+   "sha256": "2403d6142e339e5988595d19bcf61d2f10d8ebd7eb9ba9e505568a790bf9f294",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42021,
+   "sha256": "986dc9bca5fdad26a3e94bc63ff617b419e3513a63abfc5f3add297ba754f2da",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3509205.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3509205.jpg",
+  "bytes": 165878,
+  "sha256": "36b8b4c3812a577b111b7fc8deb255896ebced0f9051054ee49e2032708d55ec"
+ },
+ "sha1_origem": "ce8ff8c9e4a5dec888310c6d15b4f41787d2acf8",
+ "bytes_origem": 165878,
+ "capturado_em": "2026-11-08T06:25:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cajamar.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "ce8ff8c9e4a5dec888310c6d15b4f41787d2acf8"
+ }
+}

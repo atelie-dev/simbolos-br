@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3201704",
+ "uf": "ES",
+ "municipio": "Conceição do Castelo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bandeira_concei%C3%A7%C3%A3o_do_castelo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Pet189",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "608c97f0530ef1372a3bfa3504e5371beb074163313f3d341202d40fd1b0eac3",
+ "rendicoes": {
+  "png": {
+   "bytes": 176183,
+   "sha256": "8fc0eeabce167b1977297807fb23ea641d627a1b2fd1141fd7c6c6e7cfcc63c8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35953,
+   "sha256": "f064dd67e040a69ed5c763bca7eba196fb02059c488cd2581eeb78198721f867",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3201704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3201704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3201704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3201704.jpg",
+  "bytes": 90659,
+  "sha256": "608c97f0530ef1372a3bfa3504e5371beb074163313f3d341202d40fd1b0eac3"
+ },
+ "sha1_origem": "896a78951ba09b425d3fd28af22e491af70c150f",
+ "bytes_origem": 90659,
+ "capturado_em": "2026-11-08T06:19:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_conceição_do_castelo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "896a78951ba09b425d3fd28af22e491af70c150f"
+ }
+}

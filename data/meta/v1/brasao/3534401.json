@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3534401",
+ "uf": "SP",
+ "municipio": "Osasco",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bras%C3%A3o_de_Osasco.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Osasco",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5070e098366c4a7d734425c563e7169935e9f25c103ecbe1d8d38402e2ef490e",
+ "rendicoes": {
+  "png": {
+   "bytes": 158661,
+   "sha256": "b97333bfb31b182db7e6f621f22b8a431ca447adf2f28b062f0e6e1e1d1a1e5a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55502,
+   "sha256": "33bf44ac80904aba484e9b742c40f465383efe6690f28c63c055eaf9b2623921",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 152060,
+   "sha256": "5070e098366c4a7d734425c563e7169935e9f25c103ecbe1d8d38402e2ef490e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534401.jpg"
+ },
+ "sha1_origem": "69e82efcacb05bdb3cdf7ae855a0f72fd1acc571",
+ "bytes_origem": 152060,
+ "capturado_em": "2026-11-08T04:10:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Osasco.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "69e82efcacb05bdb3cdf7ae855a0f72fd1acc571"
+ }
+}

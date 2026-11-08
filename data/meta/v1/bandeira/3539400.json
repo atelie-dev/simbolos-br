@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3539400",
+ "uf": "SP",
+ "municipio": "Piratininga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bandeira_Piratininga.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "16fd1dea2549f669d7d6aa0c3979168b4cab14057d7133b44125a384c8a9420b",
+ "rendicoes": {
+  "png": {
+   "bytes": 9800,
+   "sha256": "749e880d7f77ef0810d5896a4bd9a319a0770c6e74a75132ffa41dd51d5e84c1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7329,
+   "sha256": "aa899b989755ba5476c859e6b363829996d5c4ec52840ac569cc03c89ae24080",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3539400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3539400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3539400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3539400.png",
+  "bytes": 8975,
+  "sha256": "16fd1dea2549f669d7d6aa0c3979168b4cab14057d7133b44125a384c8a9420b"
+ },
+ "sha1_origem": "901b46fb8caa5f09327b16e8fbe724ceeb16f2ba",
+ "bytes_origem": 8975,
+ "capturado_em": "2026-11-08T06:35:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Piratininga.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "901b46fb8caa5f09327b16e8fbe724ceeb16f2ba"
+ }
+}

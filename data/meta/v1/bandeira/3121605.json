@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3121605",
+ "uf": "MG",
+ "municipio": "Diamantina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bandeira_diamantina.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Diamantina",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b38b18c702f6846580ae5825a433088a8d4ff77951a88418af5a25084eccbd0c",
+ "rendicoes": {
+  "png": {
+   "bytes": 14242,
+   "sha256": "9ed0db5f275c9fc702e1c2fa49a6f0e3efa1d1c8d6c9c0c74a3482b20810a2e6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7281,
+   "sha256": "ed88996a76e080092f8ff8277546feff2689a83bcbd312d7d2c7d2325abc5833",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3121605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3121605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3121605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3121605.png",
+  "bytes": 5325,
+  "sha256": "b38b18c702f6846580ae5825a433088a8d4ff77951a88418af5a25084eccbd0c"
+ },
+ "sha1_origem": "9762b89da6094d152c56d1d328c01106b8461a93",
+ "bytes_origem": 5325,
+ "capturado_em": "2026-11-08T06:05:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_diamantina.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "9762b89da6094d152c56d1d328c01106b8461a93"
+ }
+}

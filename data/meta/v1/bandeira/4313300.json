@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4313300",
+ "uf": "RS",
+ "municipio": "Nova Prata",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bandeira-Nova_Prata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Nova Prata",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e2d4ed4ff3a0014858d240746c1d6bfc6ff1586068c29a2f1cac02d89a48ff6a",
+ "rendicoes": {
+  "png": {
+   "bytes": 36800,
+   "sha256": "b178a79b139b00239441722d0f1965b84a82dfc2a9bb0cd4189a11decf7bf28e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20052,
+   "sha256": "ca34558db8141ce9c35d6f419db8b987bc309625e801738b933849b08ae44215",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4313300.jpg",
+  "bytes": 957263,
+  "sha256": "e2d4ed4ff3a0014858d240746c1d6bfc6ff1586068c29a2f1cac02d89a48ff6a"
+ },
+ "sha1_origem": "41d92e9218869c2bd9fdd393adc510ebb075f0cb",
+ "bytes_origem": 957263,
+ "capturado_em": "2026-11-08T07:06:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-Nova_Prata.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "41d92e9218869c2bd9fdd393adc510ebb075f0cb"
+ }
+}

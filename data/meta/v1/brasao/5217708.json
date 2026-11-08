@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5217708",
+ "uf": "GO",
+ "municipio": "Pontalina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bras%C3%A3o_de_Pontalina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pontalina",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7bc7679515caebde8b3190072a74292f1d67cdc4ac71352d1b34fc899b5734ee",
+ "rendicoes": {
+  "png": {
+   "bytes": 287895,
+   "sha256": "c896e14c785077f61a3d1f74bb858af0d9e2e13219f578467a0c627a11bfaa12",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47432,
+   "sha256": "f28c4618cc4fc836851c6fa69667754c13fe610fbd4c0f5a2377d6abc2cfa66d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5217708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5217708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5217708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5217708.jpg",
+  "bytes": 33993,
+  "sha256": "7bc7679515caebde8b3190072a74292f1d67cdc4ac71352d1b34fc899b5734ee"
+ },
+ "sha1_origem": "e7a4ea6e8b4e048c3daaa5d5f7728ccce6781a2d",
+ "bytes_origem": 33993,
+ "capturado_em": "2026-11-08T07:20:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Pontalina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:09Z",
+  "estado": "igual",
+  "sha1_commons": "e7a4ea6e8b4e048c3daaa5d5f7728ccce6781a2d"
+ }
+}

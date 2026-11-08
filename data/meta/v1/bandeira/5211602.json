@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5211602",
+ "uf": "GO",
+ "municipio": "Ivolândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Bandeira_de_Ivol%C3%A2ndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ivolândia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "93ed5b33306baf6c823690605618f784509acf43a64b70c8bb8c1a40ce048d80",
+ "rendicoes": {
+  "png": {
+   "bytes": 15142,
+   "sha256": "d64a24328739dfb44f268e5c7aec583dfbc7f5edc5bfb740bd74b621ebea5471",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7099,
+   "sha256": "785d20b26b778bddbe72ac7aa47726661581973a3e23fc54a47d7c57f07780e1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5211602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5211602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5211602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5211602.jpg",
+  "bytes": 7433,
+  "sha256": "93ed5b33306baf6c823690605618f784509acf43a64b70c8bb8c1a40ce048d80"
+ },
+ "sha1_origem": "8fefd02f28cba38c8d168b4bbcd8f4b53f458945",
+ "bytes_origem": 7433,
+ "capturado_em": "2026-11-08T07:18:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ivolândia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "8fefd02f28cba38c8d168b4bbcd8f4b53f458945"
+ }
+}

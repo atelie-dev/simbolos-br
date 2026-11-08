@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4309050",
+ "uf": "RS",
+ "municipio": "Glorinha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bras%C3%A3o_de_Glorinha_RS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3031553d3b8cc9b1dcd0014783597786ac839339dd1065d5f6415c7e7c77f6b6",
+ "rendicoes": {
+  "png": {
+   "bytes": 74410,
+   "sha256": "98f3c52663856cd06d8da367fcbd7bdfaa0d711fa44cb229699a7c9af83c8e78",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34335,
+   "sha256": "bf1d9be4cea89ead8f65fb0a7a38a44371a0a849d928934d13daa6c0566731eb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309050.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309050.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309050.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4309050.png",
+  "bytes": 52884,
+  "sha256": "3031553d3b8cc9b1dcd0014783597786ac839339dd1065d5f6415c7e7c77f6b6"
+ },
+ "sha1_origem": "f2cf8a31c9226e367d72e228139dd3bdc30127d6",
+ "bytes_origem": 52884,
+ "capturado_em": "2026-11-08T07:03:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Glorinha_RS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:03Z",
+  "estado": "igual",
+  "sha1_commons": "f2cf8a31c9226e367d72e228139dd3bdc30127d6"
+ }
+}

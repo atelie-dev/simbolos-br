@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4311403",
+ "uf": "RS",
+ "municipio": "Lajeado",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bandeira-lajeadors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Lajeado City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "266b8a33991f7a1ca3a5a448aca5eafb528083a959868ef2a9e8fef89f8302c2",
+ "rendicoes": {
+  "png": {
+   "bytes": 44291,
+   "sha256": "3fd7b216c9bb6181c3a1aca125aa2fae567aba1f2e451afa633a6952a65f487e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14545,
+   "sha256": "dcbf734487e7c2f9414da0e079df52894453b008629de4f452a8234f6592cbfb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4311403.jpg",
+  "bytes": 10240,
+  "sha256": "266b8a33991f7a1ca3a5a448aca5eafb528083a959868ef2a9e8fef89f8302c2"
+ },
+ "sha1_origem": "79d17801fb9693851082dfedc90c0873680323e0",
+ "bytes_origem": 10240,
+ "capturado_em": "2026-11-08T07:04:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-lajeadors.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "79d17801fb9693851082dfedc90c0873680323e0"
+ }
+}

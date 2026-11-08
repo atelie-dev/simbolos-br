@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4105201",
+ "uf": "PR",
+ "municipio": "Cerro Azul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bandeira_de_Cerro_Azul.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Cerro Azul.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b9811f460410f2179ac2457bd196168b2228a9781dd0b036f45395666f1a5f61",
+ "rendicoes": {
+  "png": {
+   "bytes": 62288,
+   "sha256": "617f42ab08118688e1a9547746781dad2ecbb50ff8ec933c3ed7f3c04b87adc4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19116,
+   "sha256": "549f28299ab1c1d76222b804c860b45cec40b893a9c8c9340091921b8d641276",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4105201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4105201.png",
+  "bytes": 193152,
+  "sha256": "b9811f460410f2179ac2457bd196168b2228a9781dd0b036f45395666f1a5f61"
+ },
+ "sha1_origem": "ed7abde94c82bcc95a8b605e9742cd835351514a",
+ "bytes_origem": 193152,
+ "capturado_em": "2026-11-08T06:42:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cerro_Azul.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "ed7abde94c82bcc95a8b605e9742cd835351514a"
+ }
+}

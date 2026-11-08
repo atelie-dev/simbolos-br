@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3122405",
+ "uf": "MG",
+ "municipio": "Divisa Nova",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bandeira_do_Munic%C3%ADpio_de_Divisa_Nova_-Minas_Gerais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ernani Zimmermann",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "68333a4bd35d4e4799bc8cbc505034cc56abf77d43ace041fae71f8bbb37fad8",
+ "rendicoes": {
+  "png": {
+   "bytes": 138419,
+   "sha256": "d13c2687f064eb4592022f584e35417e31b4d0e192877432ce17bc235aee9be7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23781,
+   "sha256": "00d3951d7589e2388a56d08a3117354678dc772e304f947415c99d4608c6e334",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3122405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3122405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3122405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3122405.jpg",
+  "bytes": 56695,
+  "sha256": "68333a4bd35d4e4799bc8cbc505034cc56abf77d43ace041fae71f8bbb37fad8"
+ },
+ "sha1_origem": "a5b81b7f81016d3ec8bbc4df1d095947ba3c64bf",
+ "bytes_origem": 56695,
+ "capturado_em": "2026-11-08T06:06:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_Município_de_Divisa_Nova_-Minas_Gerais.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "a5b81b7f81016d3ec8bbc4df1d095947ba3c64bf"
+ }
+}

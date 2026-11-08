@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4215000",
+ "uf": "SC",
+ "municipio": "Rio Negrinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Brasao_rionegrinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8db54a6f9584a1f0ac86cc98fe9e756520d62f343964e8ac509a21a949a48f9e",
+ "rendicoes": {
+  "png": {
+   "bytes": 93112,
+   "sha256": "8b206781fb126869a7031e105a4614493edae87b2d83164cd701ea8d8744fb3a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21643,
+   "sha256": "52f39bc506012e42217fdc20df560d3e447f31e698db5f53123dad95c8cb168e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4215000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4215000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4215000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4215000.jpg",
+  "bytes": 21682,
+  "sha256": "8db54a6f9584a1f0ac86cc98fe9e756520d62f343964e8ac509a21a949a48f9e"
+ },
+ "sha1_origem": "a5bc33035328d7fa245c0e33bcbaae451f91595b",
+ "bytes_origem": 21682,
+ "capturado_em": "2026-11-08T06:56:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_rionegrinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "a5bc33035328d7fa245c0e33bcbaae451f91595b"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1100908",
+ "uf": "RO",
+ "municipio": "Castanheiras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Castanheirasrobras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Castanheiras",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "da71d95a2975b65820a054e65b6d31f06572effe7687e7199f6a4ad1e862e0c1",
+ "rendicoes": {
+  "png": {
+   "bytes": 90694,
+   "sha256": "b0813f975bb4c08c31736ff8797dcea36151046a289ad6af780cc16d8b832d50",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21557,
+   "sha256": "dabc3874c25b74a17e35a32994761d5d24b82a25af09a123fc70e2aa91c6e279",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1100908.jpg",
+  "bytes": 16227,
+  "sha256": "da71d95a2975b65820a054e65b6d31f06572effe7687e7199f6a4ad1e862e0c1"
+ },
+ "sha1_origem": "2b9897874d64b1e00c702d4eee6f42f346fadd37",
+ "bytes_origem": 16227,
+ "capturado_em": "2026-11-08T05:21:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Castanheirasrobras.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:21Z",
+  "estado": "igual",
+  "sha1_commons": "2b9897874d64b1e00c702d4eee6f42f346fadd37"
+ }
+}

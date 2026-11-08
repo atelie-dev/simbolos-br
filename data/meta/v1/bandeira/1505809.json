@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1505809",
+ "uf": "PA",
+ "municipio": "Portel",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bandeira_portel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Portel.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e6ce7ef1f4c0628d07aba29d9d37ac0f880050d0f5719e66dcade4761fe8e98f",
+ "rendicoes": {
+  "png": {
+   "bytes": 8874,
+   "sha256": "24d4cd42a82b13bd03af77214968e9ecb80b8151b4b4057fd39898622fcbf497",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4303,
+   "sha256": "db5250d43a96604a276cb659855f0e27262b2ac9f48930cd5be42d734a1acd12",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1505809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1505809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1505809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1505809.jpg",
+  "bytes": 2016,
+  "sha256": "e6ce7ef1f4c0628d07aba29d9d37ac0f880050d0f5719e66dcade4761fe8e98f"
+ },
+ "sha1_origem": "bedb714daaaa15d9a60ed899a4c058e85c043681",
+ "bytes_origem": 2016,
+ "capturado_em": "2026-11-08T05:25:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_portel.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "bedb714daaaa15d9a60ed899a4c058e85c043681"
+ }
+}

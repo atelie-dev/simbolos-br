@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4117214",
+ "uf": "PR",
+ "municipio": "Nova Santa Bárbara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/BAND_NOVA_STA_BARB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7f857a5d0493aca51814ffc5abcab41791403a75595485343fc71d870b4645a4",
+ "rendicoes": {
+  "png": {
+   "bytes": 341274,
+   "sha256": "d6c4866990169b5346b99c1f3e7bd92b9a39f3e91807ce7b3eb2c48c6d6690cb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43488,
+   "sha256": "0859e9292fad30fadcb3db074a19ee7a87b0e4fa9b6ef8193e5e1c193f46585f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117214.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117214.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117214.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4117214.jpg",
+  "bytes": 231933,
+  "sha256": "7f857a5d0493aca51814ffc5abcab41791403a75595485343fc71d870b4645a4"
+ },
+ "sha1_origem": "0755c375978ef96a65f77b19471a044d99192031",
+ "bytes_origem": 231933,
+ "capturado_em": "2026-11-08T06:47:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BAND_NOVA_STA_BARB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:36Z",
+  "estado": "igual",
+  "sha1_commons": "0755c375978ef96a65f77b19471a044d99192031"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2802106",
+ "uf": "SE",
+ "municipio": "Estância",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bandeira-estanciase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Estância City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ef229819036fd46ae0a9730a802e9ebe5a30ce1c3290b4651843a05a8264661a",
+ "rendicoes": {
+  "png": {
+   "bytes": 252932,
+   "sha256": "30c85dbeafb83b4eec1159fab4980156d3e6b9fafda24ef5e369502366330cc3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41802,
+   "sha256": "80342f3f0958444ec6af59ce49d21115b943b64a9e2c47bed2cb6d365427bce0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2802106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2802106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2802106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2802106.jpg",
+  "bytes": 33396,
+  "sha256": "ef229819036fd46ae0a9730a802e9ebe5a30ce1c3290b4651843a05a8264661a"
+ },
+ "sha1_origem": "dc245656b7de1e8b1481bcaa8ec4b17bba487bc5",
+ "bytes_origem": 33396,
+ "capturado_em": "2026-11-08T05:49:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-estanciase.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "dc245656b7de1e8b1481bcaa8ec4b17bba487bc5"
+ }
+}

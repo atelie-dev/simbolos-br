@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4113205",
+ "uf": "PR",
+ "municipio": "Lapa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Band_lapa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Marcelo Carrano Zanluti",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e3bf0782cbbf5814d246f635b823f6d32cba383ef9d900985cf27740f6e0ab3d",
+ "rendicoes": {
+  "png": {
+   "bytes": 30293,
+   "sha256": "82f9924acfe142e45e847899cbbeca5eea97fd66c9e96cba046783ea7659b0e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8883,
+   "sha256": "85cd91b9b2a0a608ad80c2466918f34838f8acbb889a4ebb915ccc23f9c85e37",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113205.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4113205.jpg",
+  "bytes": 11233,
+  "sha256": "e3bf0782cbbf5814d246f635b823f6d32cba383ef9d900985cf27740f6e0ab3d"
+ },
+ "sha1_origem": "167adb89163adc7e0e40c372a8cc0902da636755",
+ "bytes_origem": 11233,
+ "capturado_em": "2026-11-08T06:45:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_lapa.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "167adb89163adc7e0e40c372a8cc0902da636755"
+ }
+}

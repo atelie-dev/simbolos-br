@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3138203",
+ "uf": "MG",
+ "municipio": "Lavras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brasao_do_Munic%C3%ADpio_de_Lavras_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f1c32baf3fb0fc6c9fba3055a889afe46ebeb3c0f2a0908485cdd458c5bd61d6",
+ "rendicoes": {
+  "png": {
+   "bytes": 170924,
+   "sha256": "901da76eebd78dd682d26cdc1b1bb9d6716ab0defb3a0bfc5b6c2ce62acf492b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45368,
+   "sha256": "40d9ec2f26e5ea708bad806acf74be762263c30b0a31712869832435b2b0d846",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3138203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3138203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3138203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3138203.png",
+  "bytes": 175913,
+  "sha256": "f1c32baf3fb0fc6c9fba3055a889afe46ebeb3c0f2a0908485cdd458c5bd61d6"
+ },
+ "sha1_origem": "bf3be35d6dd73754272a1cd2580f4cd52e34318f",
+ "bytes_origem": 175913,
+ "capturado_em": "2026-11-08T06:10:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_do_Município_de_Lavras_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "bf3be35d6dd73754272a1cd2580f4cd52e34318f"
+ }
+}

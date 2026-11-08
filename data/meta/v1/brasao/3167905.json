@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3167905",
+ "uf": "MG",
+ "municipio": "Tabuleiro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Brasaotabuleiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Tabuleiro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "79c3ed10e6c06dd5187bb36e7c94e7e7ab97fdec85da5aa60fa9020cc8ed8fbf",
+ "rendicoes": {
+  "png": {
+   "bytes": 46100,
+   "sha256": "c00aaa604e8ec30d11cb048c0e73877f1c9b1c0168d7b17cf3635ba5c16e0f97",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11209,
+   "sha256": "ad184d4daba746319c19eb2d2fc06182469444c5e987a5a400c8fdc7210d71b4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3167905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3167905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3167905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3167905.jpg",
+  "bytes": 12723,
+  "sha256": "79c3ed10e6c06dd5187bb36e7c94e7e7ab97fdec85da5aa60fa9020cc8ed8fbf"
+ },
+ "sha1_origem": "04b0dd76431b8174e50857153ced5882dfefe18c",
+ "bytes_origem": 12723,
+ "capturado_em": "2026-11-08T06:17:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaotabuleiro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "04b0dd76431b8174e50857153ced5882dfefe18c"
+ }
+}

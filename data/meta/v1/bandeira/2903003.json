@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2903003",
+ "uf": "BA",
+ "municipio": "Barra do Mendes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bandeira_Barra_do_Mendes.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Edízio Mendonça",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f495ffe6bd3cf9651c25eeaf1c961294d23ca83d6c7c490481fe6f62fa19e2a0",
+ "rendicoes": {
+  "png": {
+   "bytes": 38190,
+   "sha256": "3c4c363ee8ca595f3f1d1a2ddd7ff26006ef3f37315f7b5f0d2447a8cd2e4d61",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16295,
+   "sha256": "e4e09f95219cf4b425d3186edd019e169cc7d7080851d5b40bc9be23f0221f90",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2903003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2903003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2903003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2903003.jpg",
+  "bytes": 13992,
+  "sha256": "f495ffe6bd3cf9651c25eeaf1c961294d23ca83d6c7c490481fe6f62fa19e2a0"
+ },
+ "sha1_origem": "d7fdf4174bbc82b5a249b42fb1e95a5bf693225f",
+ "bytes_origem": 13992,
+ "capturado_em": "2026-11-08T05:51:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Barra_do_Mendes.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "d7fdf4174bbc82b5a249b42fb1e95a5bf693225f"
+ }
+}

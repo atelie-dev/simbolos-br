@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321634",
+ "uf": "RS",
+ "municipio": "Três Arroios",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Tr%C3%AAs_Arroiosrsbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Três Arroios",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c900d9cd1c2c7b1046918044d8017ff000b8c714d323ffca3b03a1845c7ab242",
+ "rendicoes": {
+  "png": {
+   "bytes": 88037,
+   "sha256": "cd1a283be92f1e07cc4247a0692bb966692cac37aa1bcf7353fbd3da724b2365",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19907,
+   "sha256": "4f264ebe233749a1064d5e7180551ea3bc67d89827d993f732a2feee1366d742",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321634.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321634.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321634.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4321634.jpg",
+  "bytes": 18306,
+  "sha256": "c900d9cd1c2c7b1046918044d8017ff000b8c714d323ffca3b03a1845c7ab242"
+ },
+ "sha1_origem": "cac99ea2c7e23844553087e50bff2368b8811584",
+ "bytes_origem": 18306,
+ "capturado_em": "2026-11-08T07:11:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Três_Arroiosrsbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:38Z",
+  "estado": "igual",
+  "sha1_commons": "cac99ea2c7e23844553087e50bff2368b8811584"
+ }
+}

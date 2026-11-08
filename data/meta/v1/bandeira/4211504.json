@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211504",
+ "uf": "SC",
+ "municipio": "Nova Trento",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bandiera_nova_trento.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nova Trento.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "acd5cf776ae55b6ccc6cbd924a11991bdbfda9af56e2860ebbc8320eeb1df298",
+ "rendicoes": {
+  "png": {
+   "bytes": 65958,
+   "sha256": "4b6bfc58c691bd4203fdd31c360486532769b2d8816e9fae34b7525a16d29c63",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18718,
+   "sha256": "6fe629c07879be237e9a9e714966e726ed0f57915d471cb124df477f93d33af3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4211504.jpg",
+  "bytes": 28137,
+  "sha256": "acd5cf776ae55b6ccc6cbd924a11991bdbfda9af56e2860ebbc8320eeb1df298"
+ },
+ "sha1_origem": "04137dedd2ef0f6031bc52a755cdc87b805d85a8",
+ "bytes_origem": 28137,
+ "capturado_em": "2026-11-08T06:55:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandiera_nova_trento.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "04137dedd2ef0f6031bc52a755cdc87b805d85a8"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3553708",
+ "uf": "SP",
+ "municipio": "Taquaritinga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bandeira_taquaritinga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ab8c272c7416717ee2bd6922a30742bb8f2f7bf947e63718e3a6eb5fcc3d62a9",
+ "rendicoes": {
+  "png": {
+   "bytes": 23577,
+   "sha256": "171bd7510540bb9482da1a8f0a133f358a8e9521db9d2d3238e65c64cbd12d28",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8222,
+   "sha256": "32d40e0b22712af45d1f43a3446f9afbfae4fb9820717e50615b1165e85fcbdb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3553708.jpg",
+  "bytes": 6558,
+  "sha256": "ab8c272c7416717ee2bd6922a30742bb8f2f7bf947e63718e3a6eb5fcc3d62a9"
+ },
+ "sha1_origem": "d52def101da08e4052a8199c4f77752f114f3a3a",
+ "bytes_origem": 6558,
+ "capturado_em": "2026-11-08T06:39:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_taquaritinga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "d52def101da08e4052a8199c4f77752f114f3a3a"
+ }
+}

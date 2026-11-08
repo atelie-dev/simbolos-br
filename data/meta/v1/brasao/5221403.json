@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5221403",
+ "uf": "GO",
+ "municipio": "Trindade",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bras%C3%A3o_de_Trindade_GO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Trindade",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8c82732679d9f7cadfa177def881117ca3333d5140b63a0b711bbe8604f12eee",
+ "rendicoes": {
+  "png": {
+   "bytes": 48409,
+   "sha256": "b4675d9d6435825c65f13b7d8cf24f2a42b43c4a02638e6a0fd5ac2c73683860",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23408,
+   "sha256": "ab332e8ec00373f1f3fde19e6bc3c7ef9176442b9e555583f92067d95dedb92d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5221403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5221403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5221403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5221403.png",
+  "bytes": 120684,
+  "sha256": "8c82732679d9f7cadfa177def881117ca3333d5140b63a0b711bbe8604f12eee"
+ },
+ "sha1_origem": "f8788cb549d1cf690f788556eac56bc4d826ba71",
+ "bytes_origem": 120684,
+ "capturado_em": "2026-11-08T07:20:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Trindade_GO.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "f8788cb549d1cf690f788556eac56bc4d826ba71"
+ }
+}

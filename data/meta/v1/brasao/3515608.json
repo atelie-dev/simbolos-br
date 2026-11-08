@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3515608",
+ "uf": "SP",
+ "municipio": "Fernando Prestes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bras%C3%A3o_de_Fernando_Prestes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "64781b64df8e1ceb735936b22df5be6dce74e9c057cfd4041dc373bd4682f5e7",
+ "rendicoes": {
+  "png": {
+   "bytes": 295102,
+   "sha256": "97aec43a6e48cee50a0244865623a45ea8639c97c8e425498e4f9fa81cca896d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67566,
+   "sha256": "5b70a18bf9336ae71a875aef6734305ca33c50efeefc77709fbb3523f677c9b5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3515608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3515608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3515608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3515608.jpg",
+  "bytes": 285362,
+  "sha256": "64781b64df8e1ceb735936b22df5be6dce74e9c057cfd4041dc373bd4682f5e7"
+ },
+ "sha1_origem": "90742e6faff8cefae0a3a0a765590e75d7244296",
+ "bytes_origem": 285362,
+ "capturado_em": "2026-11-08T06:27:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Fernando_Prestes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:02Z",
+  "estado": "igual",
+  "sha1_commons": "90742e6faff8cefae0a3a0a765590e75d7244296"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5211909",
+ "uf": "GO",
+ "municipio": "Jataí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Jataiense2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1ae25b11f9533fc83018644efc930a270764225fe6e714db4660e32759bd582f",
+ "rendicoes": {
+  "png": {
+   "bytes": 92852,
+   "sha256": "b87e03bb07c6b741371d72308b950a532c65dd1c9d89276a4d77de3b400f4cd7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16839,
+   "sha256": "2ae0933bcb98619636d37dc7049c793844ca469c162678526987cd3a4b7284b3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5211909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5211909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5211909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5211909.jpg",
+  "bytes": 15917,
+  "sha256": "1ae25b11f9533fc83018644efc930a270764225fe6e714db4660e32759bd582f"
+ },
+ "sha1_origem": "f7087f4a13865efb9951fb87c992e92a8767c200",
+ "bytes_origem": 15917,
+ "capturado_em": "2026-11-08T07:18:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Jataiense2.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "f7087f4a13865efb9951fb87c992e92a8767c200"
+ }
+}

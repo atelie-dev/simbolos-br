@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3521309",
+ "uf": "SP",
+ "municipio": "Ipuã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Bandeira_Ipu%C3%A3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "85ae67f8b7c58f14f96184a56f8932ece2b90f033b7da1818ac6a3d38cc90156",
+ "rendicoes": {
+  "png": {
+   "bytes": 20412,
+   "sha256": "98a601fc8e581474a200e7012a867f5ca688e1ee3bcb1d53a71b520de7643815",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10025,
+   "sha256": "bd25f34039b53c33468882586bc43d2b31ffc139d8ec411215b0356023b620ee",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3521309.png",
+  "bytes": 19631,
+  "sha256": "85ae67f8b7c58f14f96184a56f8932ece2b90f033b7da1818ac6a3d38cc90156"
+ },
+ "sha1_origem": "8f513a148802d69e4f1bce44ee8d3c0d428c9591",
+ "bytes_origem": 19631,
+ "capturado_em": "2026-11-08T06:29:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Ipuã.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "8f513a148802d69e4f1bce44ee8d3c0d428c9591"
+ }
+}

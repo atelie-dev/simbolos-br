@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4107652",
+ "uf": "PR",
+ "municipio": "Fazenda Rio Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bandeira-fazendariogrande.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Fazenda Rio Grande City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e94f9ed1fb720279dd7f8769538aa45fbc3e358b0d50d30624aa8e6da52f5d31",
+ "rendicoes": {
+  "png": {
+   "bytes": 55980,
+   "sha256": "7430a4740e60ea84c8bd48e146f6c42ec9ad96aa16a1e5e98f15ea080a60ab2f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15831,
+   "sha256": "ab6607f97be10a191fa7a1d0670fe86b0617b15d55ffc3b181e76a62c121a19f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107652.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107652.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107652.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4107652.jpg",
+  "bytes": 38072,
+  "sha256": "e94f9ed1fb720279dd7f8769538aa45fbc3e358b0d50d30624aa8e6da52f5d31"
+ },
+ "sha1_origem": "0a7707f555673be9d354e75dfcc3a846cc39debd",
+ "bytes_origem": 38072,
+ "capturado_em": "2026-11-08T06:43:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-fazendariogrande.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "0a7707f555673be9d354e75dfcc3a846cc39debd"
+ }
+}

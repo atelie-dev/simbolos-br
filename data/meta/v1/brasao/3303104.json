@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3303104",
+ "uf": "RJ",
+ "municipio": "Natividade",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Brasao-natividade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8f8c68d3eb5080f888501d7a9380a756adce3edb6d25533234b0dccfb1adc746",
+ "rendicoes": {
+  "png": {
+   "bytes": 27391,
+   "sha256": "d14fdfd9ddc82f7859ff4943c1b31269e1dd823c6d9c7fb4f849239933b4ccd3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7475,
+   "sha256": "e65a3d82f973402e997c2a7c91c1d9f77fdbd14c46b24b27584bb75bac6718a0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3303104.jpg",
+  "bytes": 6878,
+  "sha256": "8f8c68d3eb5080f888501d7a9380a756adce3edb6d25533234b0dccfb1adc746"
+ },
+ "sha1_origem": "536a0acd0c43fcba2d7f79e154209e7c17a685c7",
+ "bytes_origem": 6878,
+ "capturado_em": "2026-11-08T06:21:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-natividade.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "536a0acd0c43fcba2d7f79e154209e7c17a685c7"
+ }
+}

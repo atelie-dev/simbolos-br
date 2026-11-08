@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3540903",
+ "uf": "SP",
+ "municipio": "Pradópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bandeira_de_Prad%C3%B3polis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pradópolis.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7fa90e9e8b237f71e80d0bd967020cd816342f5448dc3b7280062ae7f960aa34",
+ "rendicoes": {
+  "png": {
+   "bytes": 50665,
+   "sha256": "08747147d9d59b72662a13972ee25212c9e3105d95a0e01f79961909e6d7c9de",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20745,
+   "sha256": "b8e61e6a8da6086c6290e75283cb3fdfdfbdc7d2fed9f8af96537a4ab5f060f4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3540903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3540903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3540903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3540903.png",
+  "bytes": 789079,
+  "sha256": "7fa90e9e8b237f71e80d0bd967020cd816342f5448dc3b7280062ae7f960aa34"
+ },
+ "sha1_origem": "e995e31d57e421a2eff833e42b21789f01d628d1",
+ "bytes_origem": 789079,
+ "capturado_em": "2026-11-08T06:35:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pradópolis.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "e995e31d57e421a2eff833e42b21789f01d628d1"
+ }
+}

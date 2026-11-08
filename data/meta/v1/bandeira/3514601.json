@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3514601",
+ "uf": "SP",
+ "municipio": "Dumont",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bandeira_Dumont_SaoPaulo_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Eftibali (talk)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f08f239dfc5799bac02aa501f07cd4dffb8978de1ccfbb31d974156e7321304d",
+ "rendicoes": {
+  "png": {
+   "bytes": 42043,
+   "sha256": "bdd2ca252cd4a00a355c32d2f17336444a44777134af782173c5540fa1baa443",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17283,
+   "sha256": "b67642ba22c9c96f8d62929e253ad6dee133a4e58c568c621322b4c2330e6873",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3514601.jpg",
+  "bytes": 79492,
+  "sha256": "f08f239dfc5799bac02aa501f07cd4dffb8978de1ccfbb31d974156e7321304d"
+ },
+ "sha1_origem": "c4dc37b74e5ea136267a9ef888e461e7e7806fa4",
+ "bytes_origem": 79492,
+ "capturado_em": "2026-11-08T06:27:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Dumont_SaoPaulo_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "c4dc37b74e5ea136267a9ef888e461e7e7806fa4"
+ }
+}

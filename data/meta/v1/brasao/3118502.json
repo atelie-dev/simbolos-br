@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3118502",
+ "uf": "MG",
+ "municipio": "Consolação",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Brasaoconsolacao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Consolação",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a372d4149836b45d3e2c31d7972ee4506a443fa7a12637d6f7d245cd54e8f091",
+ "rendicoes": {
+  "png": {
+   "bytes": 325591,
+   "sha256": "5ceb8efe624b602f6e5282d9cf7cc32b560637a5a05f09c3ca71af8497a40fde",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44554,
+   "sha256": "7fbbcf343c4724ac4de13758e8e1f64a2f47c2c02aaddee86227d036d69333d8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3118502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3118502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3118502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3118502.jpg",
+  "bytes": 73393,
+  "sha256": "a372d4149836b45d3e2c31d7972ee4506a443fa7a12637d6f7d245cd54e8f091"
+ },
+ "sha1_origem": "81557e51ac0383da1cbc278e1e721c0a945d0fac",
+ "bytes_origem": 73393,
+ "capturado_em": "2026-11-08T06:04:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoconsolacao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "81557e51ac0383da1cbc278e1e721c0a945d0fac"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2606408",
+ "uf": "PE",
+ "municipio": "Gravatá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bandeira_de_gravata.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "aa9c3ec6430bb5179af99459cd374f3d4b3345476ec0e2e920c63257f6276590",
+ "rendicoes": {
+  "png": {
+   "bytes": 73376,
+   "sha256": "ae6456060b2a5992b00702a72ebf798e81d8b0e28245b90d90899f6aceacfb70",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26492,
+   "sha256": "082501a18393de4ced36ed50cfdbf0c16cc01e0e46850a30ff0db0200c257649",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2606408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2606408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2606408.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2606408.png",
+  "bytes": 23816,
+  "sha256": "aa9c3ec6430bb5179af99459cd374f3d4b3345476ec0e2e920c63257f6276590"
+ },
+ "sha1_origem": "9e50b31d76691d090aa2cf42ed988ee75ad2a5cc",
+ "bytes_origem": 23816,
+ "capturado_em": "2026-11-08T05:45:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_gravata.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "9e50b31d76691d090aa2cf42ed988ee75ad2a5cc"
+ }
+}

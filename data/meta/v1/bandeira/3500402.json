@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3500402",
+ "uf": "SP",
+ "municipio": "Águas da Prata",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandeira_aguasdaprata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Artistas municipais",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e0df4bb1f7a626b90024c6e905683bd40d00e701110f159161063ee0bd8fef5e",
+ "rendicoes": {
+  "png": {
+   "bytes": 30925,
+   "sha256": "630b66a91a66cc498aab6bafdcd91132a464eda9b84e400a83f1d97c3f6c1947",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14312,
+   "sha256": "8c309cbcf80cbfd8b806480048f6e610ded017dd849d2350f171027a9ffe1739",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3500402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3500402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3500402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3500402.jpg",
+  "bytes": 26867,
+  "sha256": "e0df4bb1f7a626b90024c6e905683bd40d00e701110f159161063ee0bd8fef5e"
+ },
+ "sha1_origem": "091881a15043afc96b3e42d9bd8a884ba7cedaf5",
+ "bytes_origem": 26867,
+ "capturado_em": "2026-11-08T06:22:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_aguasdaprata.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "091881a15043afc96b3e42d9bd8a884ba7cedaf5"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3155801",
+ "uf": "MG",
+ "municipio": "Rio Pomba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bandeira-de-rio-pomba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Site prefeitura municipal Rio Pomba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "117d186fb979d003c4cd06426c1deff1c6582456bf5ccddc3f67d5e67f96f5b2",
+ "rendicoes": {
+  "png": {
+   "bytes": 62408,
+   "sha256": "827a0b56db442c953253540d6961b76f20aaaa39eea28c6423fa36bf2e1a1f5d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19509,
+   "sha256": "5dc6ef60fe3ad2c672ffb5043522c2ed8da60397783256cfffcea66078222816",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3155801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3155801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3155801.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3155801.jpg",
+  "bytes": 29102,
+  "sha256": "117d186fb979d003c4cd06426c1deff1c6582456bf5ccddc3f67d5e67f96f5b2"
+ },
+ "sha1_origem": "1e20627111c6cf868a219384d6f25bd3f9233478",
+ "bytes_origem": 29102,
+ "capturado_em": "2026-11-08T06:14:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-de-rio-pomba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "1e20627111c6cf868a219384d6f25bd3f9233478"
+ }
+}

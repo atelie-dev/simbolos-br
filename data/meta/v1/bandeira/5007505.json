@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5007505",
+ "uf": "MS",
+ "municipio": "Rochedo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Band_Rochedo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Temp1980",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6984278823e18219a92516233b5a77219907818d7f6a00f3347b9534f52481cf",
+ "rendicoes": {
+  "png": {
+   "bytes": 19526,
+   "sha256": "6415cb98b3566c3c46006f143c6f1893bf3b031ec7f7a0152fe074f4a16a112e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25682,
+   "sha256": "ddb559de6d0e8fa47a066d8e929cee0ac5ed6c6c3670a518fd0469d4760cc171",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5007505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5007505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5007505.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5007505.png",
+  "bytes": 8367,
+  "sha256": "6984278823e18219a92516233b5a77219907818d7f6a00f3347b9534f52481cf"
+ },
+ "sha1_origem": "e627f2fa019ac22355cbb1656fc07fe6168ddaf8",
+ "bytes_origem": 8367,
+ "capturado_em": "2026-11-08T07:13:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_Rochedo.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "e627f2fa019ac22355cbb1656fc07fe6168ddaf8"
+ }
+}

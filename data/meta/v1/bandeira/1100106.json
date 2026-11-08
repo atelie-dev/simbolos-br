@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1100106",
+ "uf": "RO",
+ "municipio": "Guajará-Mirim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Flag_rondonia_guajaramirim.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Franklinbaldo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b8b3ae2bc16b79a14a03eff95f3eeb41772d08270e5efd0016d0346ca57dc70a",
+ "rendicoes": {
+  "png": {
+   "bytes": 32363,
+   "sha256": "12fc0ae8868769b2577e2aeaefb3657ece5c4cb342603ef78b57a536d01f5c45",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22822,
+   "sha256": "b1f9bc720c90cf20880810f26125a54e1f9a11022a44888027a8b43306299678",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 3705,
+   "sha256": "b8b3ae2bc16b79a14a03eff95f3eeb41772d08270e5efd0016d0346ca57dc70a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100106.jpg"
+ },
+ "sha1_origem": "45b5b316bf1406b87bea381762ceead598115af0",
+ "bytes_origem": 3705,
+ "capturado_em": "2026-11-08T02:28:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_rondonia_guajaramirim.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "45b5b316bf1406b87bea381762ceead598115af0"
+ }
+}

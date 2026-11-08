@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3530607",
+ "uf": "SP",
+ "municipio": "Mogi das Cruzes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Band_MCruzes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Mogi das Cruzes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1ad175d4f8aaf9de7b05e97e932ebdfa422345f07f59f5bb33dd081f65cef415",
+ "rendicoes": {
+  "png": {
+   "bytes": 64304,
+   "sha256": "d5e86927ce1248ffd7440a6aa943239b6fc6126b3f829bba1ec3d8201b6a7dd6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16960,
+   "sha256": "d754155ddcd4212c4039fa68c5f3fe6ed6456839438ac9ebbbe4960b781856a2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530607.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530607.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530607.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3530607.jpg",
+  "bytes": 29305,
+  "sha256": "1ad175d4f8aaf9de7b05e97e932ebdfa422345f07f59f5bb33dd081f65cef415"
+ },
+ "sha1_origem": "d416d6d34175e0ba3cee6485e30231cbfbec7bf4",
+ "bytes_origem": 29305,
+ "capturado_em": "2026-11-08T06:32:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_MCruzes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "d416d6d34175e0ba3cee6485e30231cbfbec7bf4"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5008305",
+ "uf": "MS",
+ "municipio": "Três Lagoas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/BrasaoTresLagoas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "783522b5fc1665beee272a9efd38d1d8afdde666dd3eca750357547f611c6326",
+ "rendicoes": {
+  "png": {
+   "bytes": 180045,
+   "sha256": "6024e57caa1dcfe318c901d3c6161924c6763381040ea26665d097306744c9e3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 50647,
+   "sha256": "3b8cac039949ba83ddfadf45b2375482af7aa15b5bde37301a93d24d12f1901f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5008305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5008305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5008305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5008305.jpg",
+  "bytes": 83647,
+  "sha256": "783522b5fc1665beee272a9efd38d1d8afdde666dd3eca750357547f611c6326"
+ },
+ "sha1_origem": "be1392ea36e79edd3e01813cd82a0261a6e6cf53",
+ "bytes_origem": 83647,
+ "capturado_em": "2026-11-08T07:13:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoTresLagoas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "be1392ea36e79edd3e01813cd82a0261a6e6cf53"
+ }
+}

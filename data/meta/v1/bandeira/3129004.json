@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3129004",
+ "uf": "MG",
+ "municipio": "Guiricema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Guiricemamgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Guiricema",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "adeaf6cb3b6ebfe55c0a5fccfa4f497049497f6fccc8bc0d3164b6a616959396",
+ "rendicoes": {
+  "png": {
+   "bytes": 25133,
+   "sha256": "043ed17351b3a1e4e48955c91ed7a727cd08869182a1418cc5c319f7ccaf721c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9705,
+   "sha256": "4cd07afecfe86c010a0ea693b7ce9209156f2697a2a737bc591d23dff9f9b30e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3129004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3129004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3129004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3129004.jpg",
+  "bytes": 11789,
+  "sha256": "adeaf6cb3b6ebfe55c0a5fccfa4f497049497f6fccc8bc0d3164b6a616959396"
+ },
+ "sha1_origem": "8db5f090b40d39ccffe16807b61f5408c51bb2cf",
+ "bytes_origem": 11789,
+ "capturado_em": "2026-11-08T06:08:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Guiricemamgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "8db5f090b40d39ccffe16807b61f5408c51bb2cf"
+ }
+}

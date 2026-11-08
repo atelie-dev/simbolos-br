@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3501152",
+ "uf": "SP",
+ "municipio": "Alumínio",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Alum%C3%ADnio_CoatOfArms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e23523dd38518499b08c1a7643262ff928a743e3b8001f6c2acd6a9fadd08c80",
+ "rendicoes": {
+  "png": {
+   "bytes": 23591,
+   "sha256": "33d64cc1cbe4a3033dab513e943e8b0f86f7bd6dda92553a1c674686a0194a79",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6979,
+   "sha256": "a9b6aaf34087fff3f42dcb73c0fe0d727f5ad15bf72d927752e476c8d69b2522",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501152.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501152.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501152.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3501152.jpg",
+  "bytes": 13554,
+  "sha256": "e23523dd38518499b08c1a7643262ff928a743e3b8001f6c2acd6a9fadd08c80"
+ },
+ "sha1_origem": "fd021ad0cf9dd66505155531cbcd70f7ef61d4f3",
+ "bytes_origem": 13554,
+ "capturado_em": "2026-11-08T06:23:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Alumínio_CoatOfArms.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "fd021ad0cf9dd66505155531cbcd70f7ef61d4f3"
+ }
+}

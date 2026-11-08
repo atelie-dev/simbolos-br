@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5002407",
+ "uf": "MS",
+ "municipio": "Caarapó",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bandeira_Caarapo_MatoGrossodoSul_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "323c5e5f6895e80744cddccd85d8d358359abd3063ad8952bfd385ccd4407e96",
+ "rendicoes": {
+  "png": {
+   "bytes": 101353,
+   "sha256": "7299869a5e48db28a43569bc439d80ae5bb0e40345a33e3bdddef6be76ad543a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38059,
+   "sha256": "1ff2945ef70882ab925e0d4615962505422e1dd3646d81a25beceea60e917a24",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 804708,
+   "sha256": "323c5e5f6895e80744cddccd85d8d358359abd3063ad8952bfd385ccd4407e96"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5002407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5002407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5002407.jpg"
+ },
+ "sha1_origem": "437add90fe74963dc1d4242ad66172156819676e",
+ "bytes_origem": 804708,
+ "capturado_em": "2026-11-08T05:03:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Caarapo_MatoGrossodoSul_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "437add90fe74963dc1d4242ad66172156819676e"
+ }
+}

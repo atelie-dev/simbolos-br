@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3103900",
+ "uf": "MG",
+ "municipio": "Araújos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ara%C3%BAjosmgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Araújos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2c551cac323157037a56a8f324bb12254fcb69fcbc287eb07f31b30e81a004a3",
+ "rendicoes": {
+  "png": {
+   "bytes": 72353,
+   "sha256": "91c90dd0946c1fc74143da784375e1a6d592c3b36743be610881ea49bb43180b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18632,
+   "sha256": "c87de54a045f3d5b1c63b4528e8779b9b8a90d9d6ee1c75d234d274459fae87c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3103900.jpg",
+  "bytes": 11644,
+  "sha256": "2c551cac323157037a56a8f324bb12254fcb69fcbc287eb07f31b30e81a004a3"
+ },
+ "sha1_origem": "8c343f49695654f99d805d00e67b035d2d2862ed",
+ "bytes_origem": 11644,
+ "capturado_em": "2026-11-08T05:59:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Araújosmgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "8c343f49695654f99d805d00e67b035d2d2862ed"
+ }
+}

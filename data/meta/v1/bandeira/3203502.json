@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3203502",
+ "uf": "ES",
+ "municipio": "Montanha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/da/BANDEIRA_DE_MONTANHA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Montanha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ec4bae7b3a3c271fe35b1614f181328e2155cc50ea54e66ae0e9c91decac679f",
+ "rendicoes": {
+  "png": {
+   "bytes": 46738,
+   "sha256": "c45e99fcf2541fc5b14f963b89ee51aabfd185d8894f456d0bec5ac9cc285cf8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19845,
+   "sha256": "547affef1b7bdafe03971cb501f20d34c58fcf60fdb54f35a59213adf6fdd032",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3203502.jpg",
+  "bytes": 328278,
+  "sha256": "ec4bae7b3a3c271fe35b1614f181328e2155cc50ea54e66ae0e9c91decac679f"
+ },
+ "sha1_origem": "43277d4235dd1d9b638a99dcd2c3bb0e0e7b5622",
+ "bytes_origem": 328278,
+ "capturado_em": "2026-11-08T06:19:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BANDEIRA_DE_MONTANHA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:36Z",
+  "estado": "igual",
+  "sha1_commons": "43277d4235dd1d9b638a99dcd2c3bb0e0e7b5622"
+ }
+}

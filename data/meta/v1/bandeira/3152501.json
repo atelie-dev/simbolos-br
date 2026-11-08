@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3152501",
+ "uf": "MG",
+ "municipio": "Pouso Alegre",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bandeira_Pouso_Alegre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Rogerio Miranda",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ede8f0f81ec663c45d31cf35b5484439e6741bf00a9c32a2745e8e5f0ea7baea",
+ "rendicoes": {
+  "png": {
+   "bytes": 18773,
+   "sha256": "791e6c772651b94378f481e0fcfcf4d987cb6f617c9c073f01bd6ec4885f378b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7886,
+   "sha256": "bf0ba6b127f8cf1b50db452208441ac973c9d439913e85ca2f313db3c0709a2e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3152501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3152501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3152501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3152501.jpg",
+  "bytes": 27555,
+  "sha256": "ede8f0f81ec663c45d31cf35b5484439e6741bf00a9c32a2745e8e5f0ea7baea"
+ },
+ "sha1_origem": "d4ce89919f218d494eb0be8d488807205bfd08fa",
+ "bytes_origem": 27555,
+ "capturado_em": "2026-11-08T06:13:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Pouso_Alegre.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "d4ce89919f218d494eb0be8d488807205bfd08fa"
+ }
+}

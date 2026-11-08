@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3515905",
+ "uf": "SP",
+ "municipio": "Floreal",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bandeira_Floreal.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "635528c03dbc6ebe085e3ef213d4aefc9a130d3df435a16cbe98cb428da55d88",
+ "rendicoes": {
+  "png": {
+   "bytes": 24476,
+   "sha256": "3f2e81042db217964f60c4ee7d80339b29c02c5a9f4ad55aafdebdf30191b3dc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9243,
+   "sha256": "0faa401db9741aa7076881d70bd2271502e29de26b0b643e4bdc5fbc735ef2a8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3515905.png",
+  "bytes": 27238,
+  "sha256": "635528c03dbc6ebe085e3ef213d4aefc9a130d3df435a16cbe98cb428da55d88"
+ },
+ "sha1_origem": "9330109352f14320b1b6d1ebe60659c585b3175c",
+ "bytes_origem": 27238,
+ "capturado_em": "2026-11-08T06:27:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Floreal.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "9330109352f14320b1b6d1ebe60659c585b3175c"
+ }
+}

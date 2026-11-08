@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2310209",
+ "uf": "CE",
+ "municipio": "Paracuru",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bras%C3%A3o_Paracuru.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Paracuru",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "752bc2110f110be37b545e9cf7e390e1fec857cbe439ae4b3edc62204fdbde3c",
+ "rendicoes": {
+  "png": {
+   "bytes": 150249,
+   "sha256": "5b7dbfa1da735a54fe7fbabb31a715b806484eb9d392cac19207e480684a3b5b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44949,
+   "sha256": "3627d46cccc9308c638e872fb24ac80ce0912b69105fd10e988f26c4ff0f45c5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2310209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2310209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2310209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2310209.png",
+  "bytes": 612852,
+  "sha256": "752bc2110f110be37b545e9cf7e390e1fec857cbe439ae4b3edc62204fdbde3c"
+ },
+ "sha1_origem": "03505b68bd1d9166b09e8d99e6760fde2e36a472",
+ "bytes_origem": 612852,
+ "capturado_em": "2026-11-08T05:34:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Paracuru.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "03505b68bd1d9166b09e8d99e6760fde2e36a472"
+ }
+}

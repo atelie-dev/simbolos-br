@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2401503",
+ "uf": "RN",
+ "municipio": "Barcelona",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Escudo_barcelona.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e18886a9bddd55dc14e4ac6629ccb4ef442f7e85fa074c4021ebf3d0491070b9",
+ "rendicoes": {
+  "png": {
+   "bytes": 96408,
+   "sha256": "33d73e18056d6fefe1c10c52c63fa51db891efddc2e4de2ea9c44ad598f5b2ba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17165,
+   "sha256": "f4ece95ebac47e220b496ab5af8e5c678c768e5ceec9c23bfa06e65f0065d899",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2401503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2401503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2401503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2401503.jpg",
+  "bytes": 30013,
+  "sha256": "e18886a9bddd55dc14e4ac6629ccb4ef442f7e85fa074c4021ebf3d0491070b9"
+ },
+ "sha1_origem": "cc630fe0cca0b9369a1ac3531cdcd7a31c854922",
+ "bytes_origem": 30013,
+ "capturado_em": "2026-11-08T05:36:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Escudo_barcelona.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "cc630fe0cca0b9369a1ac3531cdcd7a31c854922"
+ }
+}

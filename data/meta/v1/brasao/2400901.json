@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2400901",
+ "uf": "RN",
+ "municipio": "Antônio Martins",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bras%C3%A3o_Antonio_Martins.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Danthas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e0bd6727b0a31dfa564ce9338f662feb6f86aed09f68daec5a8bf02d4022130a",
+ "rendicoes": {
+  "png": {
+   "bytes": 150856,
+   "sha256": "c29595256872012f666dad7d26ae6cffb14866fab3893a9bde6386cd06814286",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48361,
+   "sha256": "9ad569c2e50f0e65348e802c64b4946eef0dfbe83f57e7c73c925e4ec5cbc137",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2400901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2400901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2400901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2400901.png",
+  "bytes": 332602,
+  "sha256": "e0bd6727b0a31dfa564ce9338f662feb6f86aed09f68daec5a8bf02d4022130a"
+ },
+ "sha1_origem": "daf57f73827f1fed8529572d4543d440e0392e79",
+ "bytes_origem": 332602,
+ "capturado_em": "2026-11-08T05:35:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Antonio_Martins.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "daf57f73827f1fed8529572d4543d440e0392e79"
+ }
+}

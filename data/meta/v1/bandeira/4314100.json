@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314100",
+ "uf": "RS",
+ "municipio": "Passo Fundo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bandeira-passofundo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Passo Fundo City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f58e948b5eba976c7c3c3306e0ee0e0d9bba31a67648239b00e09655263aacae",
+ "rendicoes": {
+  "png": {
+   "bytes": 5974,
+   "sha256": "74598f66174d0c4d47e2d706af6982e7b0c91881584cc1f148794b3470e16011",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12707,
+   "sha256": "7c4ac9dc4d21b63ea0639e2802aef4aa3a9dad992409229ee8e9a4dc24d6a58c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4314100.png",
+  "bytes": 3194,
+  "sha256": "f58e948b5eba976c7c3c3306e0ee0e0d9bba31a67648239b00e09655263aacae"
+ },
+ "sha1_origem": "af69420e38543c1f95476f4b5f54fd9b0af5410b",
+ "bytes_origem": 3194,
+ "capturado_em": "2026-11-08T07:06:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-passofundo.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "af69420e38543c1f95476f4b5f54fd9b0af5410b"
+ }
+}

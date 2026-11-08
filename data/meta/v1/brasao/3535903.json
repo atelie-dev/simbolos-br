@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3535903",
+ "uf": "SP",
+ "municipio": "Paranapuã",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bras%C3%A3o_de_Paranapu%C3%A3%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Paranapuã/SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "df8493e9b90babcc43a9fff0c8594a96e65719ad5a303a73ce858b97a086eab9",
+ "rendicoes": {
+  "png": {
+   "bytes": 38522,
+   "sha256": "4ef282326ff2fae673040410ccd7831e84ae655f3d5dff67be521484a1686157",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7895,
+   "sha256": "ec63cc94bc1450f9cc2de87975d1c90f67c26245fdb41abe837d2842a6cdb8b6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3535903.jpg",
+  "bytes": 4723,
+  "sha256": "df8493e9b90babcc43a9fff0c8594a96e65719ad5a303a73ce858b97a086eab9"
+ },
+ "sha1_origem": "d3be5fe3a9cc51a0fdf17ac5e4253daa77b2cd3d",
+ "bytes_origem": 4723,
+ "capturado_em": "2026-11-08T06:34:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Paranapuã,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "d3be5fe3a9cc51a0fdf17ac5e4253daa77b2cd3d"
+ }
+}

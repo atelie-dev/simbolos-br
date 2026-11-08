@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3504107",
+ "uf": "SP",
+ "municipio": "Atibaia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bandeira_de_Atibaia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "16f6bce019f9ec86a234691b84fc85ad580de99a3b4686bb3d6a425883a6d7c6",
+ "rendicoes": {
+  "png": {
+   "bytes": 39989,
+   "sha256": "071389014640912c22c5b8f3a2b18019408571cc91e7453da6b5135dfcb430b4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14657,
+   "sha256": "5cb5a3ff1b97edb53b80ae987e4806aa0d99d695ab2fa811cfe90d887643a9ff",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3504107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3504107.jpg",
+  "bytes": 6830,
+  "sha256": "16f6bce019f9ec86a234691b84fc85ad580de99a3b4686bb3d6a425883a6d7c6"
+ },
+ "sha1_origem": "f1ad8f78be7b578a96aff93e0bb3cce59bc43c94",
+ "bytes_origem": 6830,
+ "capturado_em": "2026-11-08T06:23:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Atibaia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "f1ad8f78be7b578a96aff93e0bb3cce59bc43c94"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3305703",
+ "uf": "RJ",
+ "municipio": "Sumidouro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bandeira-sumidouro.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4b46f1959b22aa13fe6ffa54023445442a0f0dbe129167ec131ed32ba3f49b2b",
+ "rendicoes": {
+  "png": {
+   "bytes": 44854,
+   "sha256": "1b3346cfc62ba3f0b4061745487e38e2d4ab4667c883dffdc5f01f65884adcae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12549,
+   "sha256": "bf00bef653c37c1e67d11f18d49a2ac5cc8701d8db0562211b6a66c46407ae02",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3305703.jpg",
+  "bytes": 8350,
+  "sha256": "4b46f1959b22aa13fe6ffa54023445442a0f0dbe129167ec131ed32ba3f49b2b"
+ },
+ "sha1_origem": "77e0931e4049c1a973b766b93cb2ea0f6829b9f1",
+ "bytes_origem": 8350,
+ "capturado_em": "2026-11-08T06:22:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-sumidouro.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "77e0931e4049c1a973b766b93cb2ea0f6829b9f1"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4218004",
+ "uf": "SC",
+ "municipio": "Tijucas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bras%C3%A3o_do_munic%C3%ADpio_de_Tijucas_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Tijucas (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "59d631fe9775c26a1bfecfe6e0961ca79dc960da358d03524107f7e0a6255544",
+ "rendicoes": {
+  "png": {
+   "bytes": 304322,
+   "sha256": "aa68c32c2629b8ae16ccd00b9dc98fd9ba725c2dd2addaee2f6b54b42d784b0e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 75381,
+   "sha256": "31017aa25625a62a1b2ec3955936ff7ec048910f8ba3df68c10c72b584b8d5ed",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4218004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4218004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4218004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4218004.png",
+  "bytes": 189180,
+  "sha256": "59d631fe9775c26a1bfecfe6e0961ca79dc960da358d03524107f7e0a6255544"
+ },
+ "sha1_origem": "21196f15e60858e7f5b8d738b25300ebbfac4901",
+ "bytes_origem": 189180,
+ "capturado_em": "2026-11-08T06:57:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Tijucas_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:18Z",
+  "estado": "igual",
+  "sha1_commons": "21196f15e60858e7f5b8d738b25300ebbfac4901"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4124608",
+ "uf": "PR",
+ "municipio": "São Carlos do Ivaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bandeira_S%C3%A3o_Carlos_do_Iva%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de São Carlos do Ivaí.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bd3df415b6910bd318cfcd5f21495b368ccfa597ac8687a2ebc924406fdc8d86",
+ "rendicoes": {
+  "png": {
+   "bytes": 227413,
+   "sha256": "2d29576e705ac606e98cd81ba8fe71cb047db2a618e367414e2e45ad9c29efba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27812,
+   "sha256": "df98926aa7b6ae4226ae69dddf5472cf5dcf921be5b665d8fee5fb5ecffb0b8b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4124608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4124608.jpg",
+  "bytes": 1372433,
+  "sha256": "bd3df415b6910bd318cfcd5f21495b368ccfa597ac8687a2ebc924406fdc8d86"
+ },
+ "sha1_origem": "de16544fc8e554583792a9349e43015a95c6f13a",
+ "bytes_origem": 1372433,
+ "capturado_em": "2026-11-08T06:49:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_São_Carlos_do_Ivaí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "de16544fc8e554583792a9349e43015a95c6f13a"
+ }
+}

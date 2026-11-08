@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2923100",
+ "uf": "BA",
+ "municipio": "Olindina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Novo_Bras%C3%A3o_de_Olindina_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Olindina",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "49b6db44020add949053ff5762b915708f388f7041bf9afb90af50fd4f846962",
+ "rendicoes": {
+  "png": {
+   "bytes": 204160,
+   "sha256": "30814088a9df2336ed42ce91befe98b2f6f05a8d6815a0af77ff3a87b0d8da5d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56102,
+   "sha256": "b242dae29d878745a95ab73a1ed7e6f55db45899b10f838d9ba3ecac2df4e578",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2923100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2923100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2923100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2923100.png",
+  "bytes": 509910,
+  "sha256": "49b6db44020add949053ff5762b915708f388f7041bf9afb90af50fd4f846962"
+ },
+ "sha1_origem": "f3770f63a27a80d80088a2da41755f7846a093f0",
+ "bytes_origem": 509910,
+ "capturado_em": "2026-11-08T05:56:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Novo_Brasão_de_Olindina_2021.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:34Z",
+  "estado": "igual",
+  "sha1_commons": "f3770f63a27a80d80088a2da41755f7846a093f0"
+ }
+}

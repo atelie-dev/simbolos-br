@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3101003",
+ "uf": "MG",
+ "municipio": "Águas Vermelhas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bandeira_de_%C3%81guas_Vermelhas%2C_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Águas Vermelhas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "246dc7a96b4282c12e8f415192fb0ae48a161634c96eaf517cec9c310f47e42a",
+ "rendicoes": {
+  "png": {
+   "bytes": 14665,
+   "sha256": "bc8327e4da1af2bbccf1233b5b1fa5ad5e9e2e3ada7889d69fa1a4824fa6c73b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7195,
+   "sha256": "60370d8bd90c417fe89cb51d05b7f47d32300ddbf623f1bf1d68b9291b756b86",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3101003.png",
+  "bytes": 11478,
+  "sha256": "246dc7a96b4282c12e8f415192fb0ae48a161634c96eaf517cec9c310f47e42a"
+ },
+ "sha1_origem": "5f0d54ca778049dbd4eb93fbc74a3bc0fe25213a",
+ "bytes_origem": 11478,
+ "capturado_em": "2026-11-08T05:58:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Águas_Vermelhas,_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "5f0d54ca778049dbd4eb93fbc74a3bc0fe25213a"
+ }
+}

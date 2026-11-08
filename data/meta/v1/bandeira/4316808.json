@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4316808",
+ "uf": "RS",
+ "municipio": "Santa Cruz do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bandeira_Santa_Cruz_do_Sul.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santa Cruz do Sul (local government)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "650190e0ec9ec28abadf38df5daa0e3160d43f19f04afe3565a40b31292cb457",
+ "rendicoes": {
+  "png": {
+   "bytes": 63503,
+   "sha256": "23ba9645589a51248754ac6f2ca8320f3738599c62f91a575c1afe22444f3538",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19974,
+   "sha256": "1dea00d77ef2291fd1e8c8ede33b7eed7428cd3086f8dfcb5d643378cd3b1f67",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4316808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4316808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4316808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4316808.png",
+  "bytes": 61757,
+  "sha256": "650190e0ec9ec28abadf38df5daa0e3160d43f19f04afe3565a40b31292cb457"
+ },
+ "sha1_origem": "a362c59458962d076fa0ca529522be4e5a8e114d",
+ "bytes_origem": 61757,
+ "capturado_em": "2026-11-08T07:08:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Santa_Cruz_do_Sul.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "a362c59458962d076fa0ca529522be4e5a8e114d"
+ }
+}

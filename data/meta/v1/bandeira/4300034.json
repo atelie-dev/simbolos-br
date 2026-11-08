@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4300034",
+ "uf": "RS",
+ "municipio": "Aceguá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bandeira_de_Acegu%C3%A1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Aceguá",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "20d7f77c26c348b297c8af43d107d5b16abcfef508772d09acc3ef45b06cfc12",
+ "rendicoes": {
+  "png": {
+   "bytes": 43018,
+   "sha256": "d61e04c7670044f335c252da1bdfc7294ea4f31f09272b994a13bd97a9c37a6a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20675,
+   "sha256": "0fa0595dba2ef86d0bd9d7c6b99868b69e0e9ccc7879af0e249a3eb472db89a7",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 27469,
+   "sha256": "20d7f77c26c348b297c8af43d107d5b16abcfef508772d09acc3ef45b06cfc12"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300034.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300034.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300034.jpg"
+ },
+ "sha1_origem": "aded3908a445839afd2bccd87424d746a5d3594f",
+ "bytes_origem": 27469,
+ "capturado_em": "2026-11-08T04:46:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Aceguá.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "aded3908a445839afd2bccd87424d746a5d3594f"
+ }
+}

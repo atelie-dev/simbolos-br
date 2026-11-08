@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2508406",
+ "uf": "PB",
+ "municipio": "Lastro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bras%C3%A3o_Lastro_%28PB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Lastro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3f09496ff0cb89e4f01ae48344248640c0b378a0da83a1be4adf37cd58c61d40",
+ "rendicoes": {
+  "png": {
+   "bytes": 85314,
+   "sha256": "2c2d403da8f880ae35ae8de7098c2160a2efb76d19fe8813a0504e5c6dd13b14",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18082,
+   "sha256": "19aff6a4ca647d1607f08daba3ef9ef210700024a02a645db2e779118719d8df",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2508406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2508406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2508406.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2508406.jpg",
+  "bytes": 12582,
+  "sha256": "3f09496ff0cb89e4f01ae48344248640c0b378a0da83a1be4adf37cd58c61d40"
+ },
+ "sha1_origem": "c093c96df9bf2436085a7b0c5d543851b6c45826",
+ "bytes_origem": 12582,
+ "capturado_em": "2026-11-08T05:41:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Lastro_(PB).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "c093c96df9bf2436085a7b0c5d543851b6c45826"
+ }
+}

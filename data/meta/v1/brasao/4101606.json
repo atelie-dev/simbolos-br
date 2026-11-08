@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4101606",
+ "uf": "PR",
+ "municipio": "Arapoti",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bras%C3%A3o_de_Arapoti_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "01cbecf3e4003e5249a44bd2ee74841dc653c7ee47696d24143c85ef62258e74",
+ "rendicoes": {
+  "png": {
+   "bytes": 225436,
+   "sha256": "475daff10a837c2db4a1781fad5c0b750d521e876d5f0db990b1c97a28d48fbc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 75121,
+   "sha256": "16bf033332da1f88da263185fbf4c697d5dd9147c4ea4448d9db8e445323d81e",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 444725,
+   "sha256": "01cbecf3e4003e5249a44bd2ee74841dc653c7ee47696d24143c85ef62258e74"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101606.jpg"
+ },
+ "sha1_origem": "84f6c50ef3a226329e89350c503193328d408ec7",
+ "bytes_origem": 444725,
+ "capturado_em": "2026-11-08T04:20:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Arapoti_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "84f6c50ef3a226329e89350c503193328d408ec7"
+ }
+}

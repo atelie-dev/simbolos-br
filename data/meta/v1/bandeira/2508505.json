@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2508505",
+ "uf": "PB",
+ "municipio": "Livramento",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bandeira_Livramento-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Livramento",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "707d82ca2651dd0edd770bfa5d4a649c6986858243f4e5c91b3a956c5a50e8b1",
+ "rendicoes": {
+  "png": {
+   "bytes": 28740,
+   "sha256": "9a1307d6ae7dba074d222c44eab8715e9ef2bfc11b2bb38689af1913f88a2e56",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12008,
+   "sha256": "e3e0c430293afb0f3aeb284db9f44900fd1923835e91f04a0af5e8cd12b0cf33",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2508505.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2508505.jpg",
+  "bytes": 16780,
+  "sha256": "707d82ca2651dd0edd770bfa5d4a649c6986858243f4e5c91b3a956c5a50e8b1"
+ },
+ "sha1_origem": "4221e24ca100ff29832388b8697dd7db967dd1b0",
+ "bytes_origem": 16780,
+ "capturado_em": "2026-11-08T05:41:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Livramento-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "4221e24ca100ff29832388b8697dd7db967dd1b0"
+ }
+}

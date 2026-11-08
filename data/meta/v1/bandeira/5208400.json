@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5208400",
+ "uf": "GO",
+ "municipio": "Goianápolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bandeira_de_Goian%C3%A1polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Goianápolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d3911e89dfe567b32ab2c875a2152591b78ed40d77d149c1aae5ba793e79cbad",
+ "rendicoes": {
+  "png": {
+   "bytes": 39813,
+   "sha256": "f08cc977380759300e43dc71a3291a0b24338a26cc8c8b2ddf67ea9eab8a6905",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10487,
+   "sha256": "8aacb393a6ef3824c3d35d89bdbb730099f94c5391f2a46de8da2ac6b1fa43d8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5208400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5208400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5208400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5208400.jpg",
+  "bytes": 9975,
+  "sha256": "d3911e89dfe567b32ab2c875a2152591b78ed40d77d149c1aae5ba793e79cbad"
+ },
+ "sha1_origem": "bf949fe003e97d3be25da7b97f9a75bf4348c266",
+ "bytes_origem": 9975,
+ "capturado_em": "2026-11-08T07:17:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Goianápolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "bf949fe003e97d3be25da7b97f9a75bf4348c266"
+ }
+}

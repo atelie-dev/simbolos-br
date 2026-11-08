@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3131703",
+ "uf": "MG",
+ "municipio": "Itabira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mini_Itabira_brasao.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Itabira",
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "e546989608e5a0e2e2651d0bb462378c317f7da1cf06bca6fc130e83c00ab93e",
+ "rendicoes": {
+  "png": {
+   "bytes": 113976,
+   "sha256": "2977596cd9fdd2090d7be66b2b1ec06bea38a2daf48dde80ffebca963814c788",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36261,
+   "sha256": "c6fb919736f536c6d194d6975b54cbcfcd85ae6f5b326c7ef319bc739d3235d0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3131703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3131703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3131703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3131703.gif",
+  "bytes": 48602,
+  "sha256": "e546989608e5a0e2e2651d0bb462378c317f7da1cf06bca6fc130e83c00ab93e"
+ },
+ "sha1_origem": "ebe905231986051b5b238bbf87cdb2594a3484df",
+ "bytes_origem": 48602,
+ "capturado_em": "2026-11-08T06:09:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Mini_Itabira_brasao.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "ebe905231986051b5b238bbf87cdb2594a3484df"
+ }
+}

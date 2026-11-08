@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2513901",
+ "uf": "PB",
+ "municipio": "São Bento",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Brasao-Prefeitura-de-Sao-Bento-Paraiba-02.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "https://saobento.pb.gov.br/",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "50b11ac7cb7abfb81b81808aabc77cf34bfdd451a43faf96b0cf3c3075dbd81b",
+ "rendicoes": {
+  "png": {
+   "bytes": 225702,
+   "sha256": "2b32bea246319c5355fe8f3c44bac247872bc02d0be422243c8b4f4374ae7067",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 75721,
+   "sha256": "a0b6f7626e35a2f7ad861d147dbebc19014f1ca02a7cde8d7e520cdf5427a928",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 306404,
+   "sha256": "50b11ac7cb7abfb81b81808aabc77cf34bfdd451a43faf96b0cf3c3075dbd81b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2513901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2513901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2513901.jpg"
+ },
+ "sha1_origem": "257a30be1635e665a1da5ab922c907bc319c4fe7",
+ "bytes_origem": 306404,
+ "capturado_em": "2026-11-08T03:01:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-Prefeitura-de-Sao-Bento-Paraiba-02.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "257a30be1635e665a1da5ab922c907bc319c4fe7"
+ }
+}

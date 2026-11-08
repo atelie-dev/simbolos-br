@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2512002",
+ "uf": "PB",
+ "municipio": "Pocinhos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bandeira_de_pocinhos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Pocinhos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4aaa63f896563a503c72df5de5fa86d36bdd01081fa29785404665e38c020519",
+ "rendicoes": {
+  "png": {
+   "bytes": 22252,
+   "sha256": "aa7fb42f030afe24bcba748759ff3e83f81ab4e32a6ef5c98d296e6479e1d5d2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12315,
+   "sha256": "b1cda8677879cdcab39c1a523682d2b596b0b14c7012042125033b0c802d7d14",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2512002.jpg",
+  "bytes": 115825,
+  "sha256": "4aaa63f896563a503c72df5de5fa86d36bdd01081fa29785404665e38c020519"
+ },
+ "sha1_origem": "9a03f0050cd2109e8f05b957b5fc321d8ac7a004",
+ "bytes_origem": 115825,
+ "capturado_em": "2026-11-08T05:42:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_pocinhos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "9a03f0050cd2109e8f05b957b5fc321d8ac7a004"
+ }
+}

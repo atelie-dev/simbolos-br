@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5203401",
+ "uf": "GO",
+ "municipio": "Bom Jardim de Goiás",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bandeira_de_Bom_Jardim_de_Goi%C3%A1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Bom Jardim de Goiás",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b08ebd1543a1a9533a01f994e8f1b5b44273f9f5c6eef7e5b0b8872c4d385934",
+ "rendicoes": {
+  "png": {
+   "bytes": 72099,
+   "sha256": "9da8bcb1b97d78ae99e74c91b08d8f406b676a9238299eef10120eed20efa4f5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12326,
+   "sha256": "c255c1c3c813add60ae41497c3d3053e440b65825e521b40dfa38a864d27d358",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5203401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5203401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5203401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5203401.jpg",
+  "bytes": 11611,
+  "sha256": "b08ebd1543a1a9533a01f994e8f1b5b44273f9f5c6eef7e5b0b8872c4d385934"
+ },
+ "sha1_origem": "53618b15c6692e292465c5c0929d6948322f1ddd",
+ "bytes_origem": 11611,
+ "capturado_em": "2026-11-08T07:16:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bom_Jardim_de_Goiás.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "53618b15c6692e292465c5c0929d6948322f1ddd"
+ }
+}

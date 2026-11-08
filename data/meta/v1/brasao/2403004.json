@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2403004",
+ "uf": "RN",
+ "municipio": "Cruzeta",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bras%C3%A3o-Cruzeta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Decreto Municipal do muncípio de Cruzeta",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6951b0c71ff61b60f21c8d9b19d2466805c2aa69013baa55e9a8347e3f80e5ff",
+ "rendicoes": {
+  "png": {
+   "bytes": 368987,
+   "sha256": "953f0b3b073399dcff7866d62a81de03f2f515710e7e99bf1f3f9a66d44ec9a6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60341,
+   "sha256": "8d378f2614f84d94111461b6baa9c31858fc82f35ca8e556e8e93f58f6714bb5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2403004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2403004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2403004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2403004.jpg",
+  "bytes": 90616,
+  "sha256": "6951b0c71ff61b60f21c8d9b19d2466805c2aa69013baa55e9a8347e3f80e5ff"
+ },
+ "sha1_origem": "07ab00461a49ed950cea42656ef7b0539918aa03",
+ "bytes_origem": 90616,
+ "capturado_em": "2026-11-08T05:36:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão-Cruzeta.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "07ab00461a49ed950cea42656ef7b0539918aa03"
+ }
+}

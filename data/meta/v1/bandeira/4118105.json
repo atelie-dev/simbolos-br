@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4118105",
+ "uf": "PR",
+ "municipio": "Paranacity",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bandeira_Paranacity_Parana_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "23d9b32f05cd40f3036987f0fcde14026c2d2eef948f3a3925683ae738736e1f",
+ "rendicoes": {
+  "png": {
+   "bytes": 8114,
+   "sha256": "7ac205d0c7f54b9306611e46309bb5919c103b97f2cf2a71d0180ed42b5193bd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11970,
+   "sha256": "8123fb41d4697388afe4c76689d130c65c7c672a5b24bbe36a62c424d3d842a1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 897,
+   "sha256": "23d9b32f05cd40f3036987f0fcde14026c2d2eef948f3a3925683ae738736e1f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4118105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4118105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4118105.jpg"
+ },
+ "sha1_origem": "b2be243ef78ae455dfbf6bc1705db8dcd764d8be",
+ "bytes_origem": 897,
+ "capturado_em": "2026-11-08T04:29:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Paranacity_Parana_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "b2be243ef78ae455dfbf6bc1705db8dcd764d8be"
+ }
+}

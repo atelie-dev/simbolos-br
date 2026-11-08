@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3509106",
+ "uf": "SP",
+ "municipio": "Caiuá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bandeira_Caiu%C3%A1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e31f6c6def5d3d7b79992f425e5e8b8ce17f6ab1341b8602058884461dc76c57",
+ "rendicoes": {
+  "png": {
+   "bytes": 10949,
+   "sha256": "1e8c09bc3ab0e6acaddd390b2601af526aeadd611accf44a8f28fe99bf092a08",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5360,
+   "sha256": "ac63a3e11cc7a9307004b870c76c98f1bcbdfb53d650a358346e68fa3a144ea7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3509106.png",
+  "bytes": 4519,
+  "sha256": "e31f6c6def5d3d7b79992f425e5e8b8ce17f6ab1341b8602058884461dc76c57"
+ },
+ "sha1_origem": "fedc6537a2b4ee2d806cdd55a6456536d96f1df2",
+ "bytes_origem": 4519,
+ "capturado_em": "2026-11-08T06:25:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Caiuá.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "fedc6537a2b4ee2d806cdd55a6456536d96f1df2"
+ }
+}

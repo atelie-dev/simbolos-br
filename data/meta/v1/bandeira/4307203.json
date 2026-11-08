@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4307203",
+ "uf": "RS",
+ "municipio": "Erval Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_the_Brazilian_city_of_Erval_Grande.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Erval Grande",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "49345254874fe0e72043b72cac9e04d8ae947e9da53e4c737eb73ff616732c85",
+ "rendicoes": {
+  "png": {
+   "bytes": 10124,
+   "sha256": "ebc5204fecd80756ead2916d49a60fcb06b3035809dc3cca4d0867bb4b05acfe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5758,
+   "sha256": "8a4d6e6ee78183b3881f24ac0c7126b614ae2508e053c6b9e401f273df2e4007",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4307203.jpg",
+  "bytes": 27525,
+  "sha256": "49345254874fe0e72043b72cac9e04d8ae947e9da53e4c737eb73ff616732c85"
+ },
+ "sha1_origem": "18af28e90d9b0fbdc3ca0dd3fa02b9ab74b4ef64",
+ "bytes_origem": 27525,
+ "capturado_em": "2026-11-08T07:02:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_the_Brazilian_city_of_Erval_Grande.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "18af28e90d9b0fbdc3ca0dd3fa02b9ab74b4ef64"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3112307",
+ "uf": "MG",
+ "municipio": "Capelinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Capelinhamgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Capelinha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "300de5328a093b17eac6a33d226a4796315e8ec4c2fa21f226fc0e8253b68765",
+ "rendicoes": {
+  "png": {
+   "bytes": 37148,
+   "sha256": "c93c46276ba679e1f478ef43c2b6a0855832bc87f212dea00e0179212e3a239a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13363,
+   "sha256": "4ce041927014be267b713ec73dc9ab576d8a960c500d8d71d1aad5bf86c16ec5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3112307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3112307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3112307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3112307.jpg",
+  "bytes": 15493,
+  "sha256": "300de5328a093b17eac6a33d226a4796315e8ec4c2fa21f226fc0e8253b68765"
+ },
+ "sha1_origem": "13ad0ba6790ca07f8529d6f41fbe7d704cf6fda9",
+ "bytes_origem": 15493,
+ "capturado_em": "2026-11-08T06:02:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Capelinhamgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "13ad0ba6790ca07f8529d6f41fbe7d704cf6fda9"
+ }
+}

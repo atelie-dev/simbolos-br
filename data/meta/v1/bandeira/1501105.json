@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1501105",
+ "uf": "PA",
+ "municipio": "Bagre",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bandeira_Bagre.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Bagre.",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3cc080eb5fd78c3bfd754e5311a59c532c18cdbca64b5cf43de9f2f349373497",
+ "rendicoes": {
+  "png": {
+   "bytes": 1664,
+   "sha256": "d2d4a7d080f46e1c5951d9972c9906e394640b6c888e04d2a8dee0d98e632857",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4149,
+   "sha256": "4684e4a029ba9d06c531eeceae8b14d1eb7c77df41caf228d0fc15b15ee70347",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2276,
+   "sha256": "3cc080eb5fd78c3bfd754e5311a59c532c18cdbca64b5cf43de9f2f349373497"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1501105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1501105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1501105.jpg"
+ },
+ "sha1_origem": "8f6451ce0fb336b4d9afa109589948f1fb0160a0",
+ "bytes_origem": 2276,
+ "capturado_em": "2026-11-08T02:33:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Bagre.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "8f6451ce0fb336b4d9afa109589948f1fb0160a0"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3150802",
+ "uf": "MG",
+ "municipio": "Piranga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mg-piranga-brasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Desconhecida",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6be4c5f5814647797d42500abd37be5ab0c1067a77445ba175cac710eefb7264",
+ "rendicoes": {
+  "png": {
+   "bytes": 167533,
+   "sha256": "21e9e83be7fbdf4cf1a7c0691ce785fe95b9de3bb403f450b0e5fd780e41342a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36964,
+   "sha256": "022845ca18a76874097c13c45281f2018d60f1d35dccc5e99fbb336ceaf46007",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3150802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3150802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3150802.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3150802.jpg",
+  "bytes": 60962,
+  "sha256": "6be4c5f5814647797d42500abd37be5ab0c1067a77445ba175cac710eefb7264"
+ },
+ "sha1_origem": "f335059062853ee4b7dacc5a62e4c769c513127b",
+ "bytes_origem": 60962,
+ "capturado_em": "2026-11-08T06:13:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Mg-piranga-brasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "f335059062853ee4b7dacc5a62e4c769c513127b"
+ }
+}

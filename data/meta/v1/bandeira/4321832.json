@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321832",
+ "uf": "RS",
+ "municipio": "Três Forquilhas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Tr%C3%AAs_Forquilhasrsbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Três Forquilhas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "17d8d94e6a9b2d84b7060607ea29c1ab445dbc4c38fbb066e131dc04b42b7ffe",
+ "rendicoes": {
+  "png": {
+   "bytes": 46905,
+   "sha256": "e3bfca504f9b465dbe7002337de06464ccb725f629ea901b443398a7c4fde842",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9998,
+   "sha256": "0dadf2bb7cf4db338a984701744175fa6995a9dc2d79089b9e1b2303877745ed",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321832.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321832.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321832.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4321832.jpg",
+  "bytes": 11054,
+  "sha256": "17d8d94e6a9b2d84b7060607ea29c1ab445dbc4c38fbb066e131dc04b42b7ffe"
+ },
+ "sha1_origem": "4b1067cd0075b7c5b672d287d4b060c6cd4ca5ab",
+ "bytes_origem": 11054,
+ "capturado_em": "2026-11-08T07:11:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Três_Forquilhasrsbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:38Z",
+  "estado": "igual",
+  "sha1_commons": "4b1067cd0075b7c5b672d287d4b060c6cd4ca5ab"
+ }
+}

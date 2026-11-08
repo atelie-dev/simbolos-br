@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2511905",
+ "uf": "PB",
+ "municipio": "Pitimbu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bandeira_Pitimbu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pedro Silva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "939657c754e7b1466b659120bb1dc81d51083d84923ea7d756c72ee78b27644e",
+ "rendicoes": {
+  "png": {
+   "bytes": 10144,
+   "sha256": "4394afb861da643393c9f2046a7a8fa84ae6470beef0cca3543c0217fa05d491",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9482,
+   "sha256": "af2f64626f80ba07eae31b18f8e28d43873ceeae24a91bbb997519984ed438fb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2511905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2511905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2511905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2511905.jpg",
+  "bytes": 184533,
+  "sha256": "939657c754e7b1466b659120bb1dc81d51083d84923ea7d756c72ee78b27644e"
+ },
+ "sha1_origem": "08ff9a16d32f20495f3316813170fa70dd46a3a2",
+ "bytes_origem": 184533,
+ "capturado_em": "2026-11-08T05:42:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Pitimbu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "08ff9a16d32f20495f3316813170fa70dd46a3a2"
+ }
+}

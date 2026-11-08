@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2701357",
+ "uf": "AL",
+ "municipio": "Campestre",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bandeira_Campestre.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c1c5f4c40012d00a418783b315cf8bf4c133ff3ef98a7f168b3f67f15a9dd8f1",
+ "rendicoes": {
+  "png": {
+   "bytes": 55152,
+   "sha256": "c02d2b3fa053f31d3238bfcc52a707769a00c0087a6ccbb0cc98c20d2e14b8c8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15885,
+   "sha256": "ef8ded66195e79bea3f151cebdb3d9acdd543a56646d454768c14e299aefd962",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2701357.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2701357.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2701357.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2701357.jpg",
+  "bytes": 16591,
+  "sha256": "c1c5f4c40012d00a418783b315cf8bf4c133ff3ef98a7f168b3f67f15a9dd8f1"
+ },
+ "sha1_origem": "ae87b8f039fc90aa455c26bddf6ecbe8f461d7b6",
+ "bytes_origem": 16591,
+ "capturado_em": "2026-11-08T05:47:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Campestre.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "ae87b8f039fc90aa455c26bddf6ecbe8f461d7b6"
+ }
+}

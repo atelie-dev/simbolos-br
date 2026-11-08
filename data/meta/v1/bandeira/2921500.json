@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2921500",
+ "uf": "BA",
+ "municipio": "Monte Santo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bandeira_de_Monte_Santo_-_BA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "835144a3488cd5b23140880098e2b3032d61a394766595616de67c1f85bb2d14",
+ "rendicoes": {
+  "png": {
+   "bytes": 50332,
+   "sha256": "d2394ce275c76c8bddbdfc7d5e7191d90afc3f0ed04ebcec9f83125c31fb9927",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16730,
+   "sha256": "e47e6cec9700c97077fcc56c1770d4cf16b3b8b31a9ca092476f88bc4380962a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 241013,
+   "sha256": "835144a3488cd5b23140880098e2b3032d61a394766595616de67c1f85bb2d14"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2921500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2921500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2921500.jpg"
+ },
+ "sha1_origem": "2c440f81b0137fedf45e16e8905a06833f0064a9",
+ "bytes_origem": 241013,
+ "capturado_em": "2026-11-08T03:21:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Monte_Santo_-_BA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "2c440f81b0137fedf45e16e8905a06833f0064a9"
+ }
+}

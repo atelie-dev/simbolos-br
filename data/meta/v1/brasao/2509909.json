@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2509909",
+ "uf": "PB",
+ "municipio": "Natuba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bras%C3%A3o_Natuba-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Natuba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "128eaf5913651e5c39bfd86818c6662e148f927597a3f3205b69cb85d0937d4e",
+ "rendicoes": {
+  "png": {
+   "bytes": 42971,
+   "sha256": "85a18d339eb3f91661f62970278b940346ac1752e93af903b725eebd7c1bf9a9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9737,
+   "sha256": "5d8a37947294df99c32aff004016a5f2782260baed4d6bd1dda44be484f4b2dd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2509909.jpg",
+  "bytes": 6796,
+  "sha256": "128eaf5913651e5c39bfd86818c6662e148f927597a3f3205b69cb85d0937d4e"
+ },
+ "sha1_origem": "253ba789911275f997a8136b2dab0fc39f7683df",
+ "bytes_origem": 6796,
+ "capturado_em": "2026-11-08T05:42:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Natuba-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "253ba789911275f997a8136b2dab0fc39f7683df"
+ }
+}

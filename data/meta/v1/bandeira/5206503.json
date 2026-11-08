@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5206503",
+ "uf": "GO",
+ "municipio": "Cromínia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bandeira_de_Crom%C3%ADnia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cromínia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b22afd0622d3f87f510bf1c5925dad13f1999bcbadb5e05fdfe3a871ae4c59e5",
+ "rendicoes": {
+  "png": {
+   "bytes": 37290,
+   "sha256": "94087f95fb5e143bd15514bcf9256d55895be139e3e0e88ade968aee817b52d9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11853,
+   "sha256": "49a50a80ca2b45c6e542a2efa230a6084ad2868f79930ee84155629f50397988",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5206503.jpg",
+  "bytes": 11200,
+  "sha256": "b22afd0622d3f87f510bf1c5925dad13f1999bcbadb5e05fdfe3a871ae4c59e5"
+ },
+ "sha1_origem": "fe3a8b1ba2f2de070d2ad6ba5be4e10041965416",
+ "bytes_origem": 11200,
+ "capturado_em": "2026-11-08T07:17:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cromínia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "fe3a8b1ba2f2de070d2ad6ba5be4e10041965416"
+ }
+}

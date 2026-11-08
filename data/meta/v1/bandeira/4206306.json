@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4206306",
+ "uf": "SC",
+ "municipio": "Guabiruba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bandeira_do_munic%C3%ADpio_de_Guabiruba_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Guabiruba",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "629671d4a831f82318d1fd5d704a43ba51f5a156de8df4852fdafd18b7a8179d",
+ "rendicoes": {
+  "png": {
+   "bytes": 34225,
+   "sha256": "2404350e2f4acb081c4105c2a18108526f30022a73b92d51b9316f37e98c6c90",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16378,
+   "sha256": "c132e1c361d8f2a1689671524b70e9943af6fcd3480165d5df572e793c571a82",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 67604,
+   "sha256": "629671d4a831f82318d1fd5d704a43ba51f5a156de8df4852fdafd18b7a8179d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4206306.jpg"
+ },
+ "sha1_origem": "e5be7e04a1c109b80eb480c1547a71f196d0edcc",
+ "bytes_origem": 67604,
+ "capturado_em": "2026-11-08T04:38:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Guabiruba_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:19Z",
+  "estado": "igual",
+  "sha1_commons": "e5be7e04a1c109b80eb480c1547a71f196d0edcc"
+ }
+}

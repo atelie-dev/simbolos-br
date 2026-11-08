@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3108602",
+ "uf": "MG",
+ "municipio": "Brasília de Minas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Brasilia_de_minas_-_flag.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pcgomes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4efd8cb2b5a27cb6f9c6d1da705e24223c5b8a9ce94303c643c26ab7604199a3",
+ "rendicoes": {
+  "png": {
+   "bytes": 48781,
+   "sha256": "8a96e01986fdcf4eb42f951bd32e5a43f07280208f0da59ca32763013af81db9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14282,
+   "sha256": "90de598292cd4d82d572f1ff6a892fcb0587a1555f69cdd3d7bdcbbfedbee48f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3108602.png",
+  "bytes": 67346,
+  "sha256": "4efd8cb2b5a27cb6f9c6d1da705e24223c5b8a9ce94303c643c26ab7604199a3"
+ },
+ "sha1_origem": "8130aa7deadb8535d8bf38a29017a36fae6743da",
+ "bytes_origem": 67346,
+ "capturado_em": "2026-11-08T06:01:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasilia_de_minas_-_flag.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "8130aa7deadb8535d8bf38a29017a36fae6743da"
+ }
+}

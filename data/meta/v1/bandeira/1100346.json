@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1100346",
+ "uf": "RO",
+ "municipio": "Alvorada D'Oeste",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bandeira-alvoradadoeste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Alvorada d'Oeste City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1c6fb9a01259182d2ed94ddae331ae8f929032ca471662dda8c93676c400e784",
+ "rendicoes": {
+  "png": {
+   "bytes": 60350,
+   "sha256": "74a492891016f2c3da96065def46b66986b746870774dccc9a6c2ddb50d279ef",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15860,
+   "sha256": "10a377c86274dc5074fd37a11ebec4156f38d91c84a011d44e298936aa880302",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100346.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100346.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1100346.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1100346.jpg",
+  "bytes": 11151,
+  "sha256": "1c6fb9a01259182d2ed94ddae331ae8f929032ca471662dda8c93676c400e784"
+ },
+ "sha1_origem": "467e900e490809f722315bde0ba51d8585200043",
+ "bytes_origem": 11151,
+ "capturado_em": "2026-11-08T05:21:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-alvoradadoeste.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "467e900e490809f722315bde0ba51d8585200043"
+ }
+}

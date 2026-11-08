@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314076",
+ "uf": "RS",
+ "municipio": "Passo do Sobrado",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bras%C3%A3o_de_Passo_do_Sobrado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Passo do Sobrado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "beabfd5bf6df2b047957ad45a799988d4b598861eb054ba2db841508701ba5c4",
+ "rendicoes": {
+  "png": {
+   "bytes": 398152,
+   "sha256": "a660b223ae50a4640c0141dadce3139a806268bcde18c73deea2ff30e11f4669",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62768,
+   "sha256": "85b8a594de1d9f82c6c015966ac4fa93d6cba2a83528da50f33d431fc3a99228",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314076.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314076.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314076.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4314076.jpg",
+  "bytes": 112916,
+  "sha256": "beabfd5bf6df2b047957ad45a799988d4b598861eb054ba2db841508701ba5c4"
+ },
+ "sha1_origem": "6ab4c5d30ccda60b123e1773aa009ea53842ad7a",
+ "bytes_origem": 112916,
+ "capturado_em": "2026-11-08T07:06:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Passo_do_Sobrado.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "6ab4c5d30ccda60b123e1773aa009ea53842ad7a"
+ }
+}

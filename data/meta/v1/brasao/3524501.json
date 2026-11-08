@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3524501",
+ "uf": "SP",
+ "municipio": "Jaci",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bras%C3%A3o_de_Jaci%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Jaci/SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d7940ecbd4a867c70cc0a9fd8da95026ccaee57e532bf145894cec6238f39da1",
+ "rendicoes": {
+  "png": {
+   "bytes": 41586,
+   "sha256": "1e716add7c17109773adf638ba1a0344cb688e5491ce4c48b8beb2b6c7dea2bf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9463,
+   "sha256": "aa4861286fc3918edbf827e54031f800ee43f15066fe4106d20105706632398a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3524501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3524501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3524501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3524501.jpg",
+  "bytes": 5934,
+  "sha256": "d7940ecbd4a867c70cc0a9fd8da95026ccaee57e532bf145894cec6238f39da1"
+ },
+ "sha1_origem": "adc0448a43bd20506f4990c7a01d5e59a6a0f746",
+ "bytes_origem": 5934,
+ "capturado_em": "2026-11-08T06:30:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Jaci,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "adc0448a43bd20506f4990c7a01d5e59a6a0f746"
+ }
+}

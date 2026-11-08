@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5210307",
+ "uf": "GO",
+ "municipio": "Israelândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandeira_de_Israel%C3%A2ndia%2C_Goi%C3%A1s.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Israelândia",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5aff0837a27f06fb6043ec8a6f47f0b895f69226e8671a12da3069a20a3d72eb",
+ "rendicoes": {
+  "png": {
+   "bytes": 6382,
+   "sha256": "cb5a1dae5e392755c6417b3ce07b4ef8bc98d240ef49121c8c19e94b1c586692",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5165,
+   "sha256": "6b7945908887c15a0120906d53679c72eedee5c6470789d15780c1b4eb822c5b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5210307.png",
+  "bytes": 59452,
+  "sha256": "5aff0837a27f06fb6043ec8a6f47f0b895f69226e8671a12da3069a20a3d72eb"
+ },
+ "sha1_origem": "3d745aacd8ad83e86cfce938de17ce407abc2157",
+ "bytes_origem": 59452,
+ "capturado_em": "2026-11-08T07:18:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Israelândia,_Goiás.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "3d745aacd8ad83e86cfce938de17ce407abc2157"
+ }
+}

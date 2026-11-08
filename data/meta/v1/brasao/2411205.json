@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2411205",
+ "uf": "RN",
+ "municipio": "Santa Cruz",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Bras%C3%A3o_de_Santa_Cruz_-_RN.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "75a09a8c0dd0209a80b95aa79074e2f4ccdaeecd9d4806675ac80ff17385870c",
+ "rendicoes": {
+  "png": {
+   "bytes": 202022,
+   "sha256": "e9a1fcd92ebd6fde1a69615b199105fce3ea4bdc2752209f7ca90ae488408f73",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63980,
+   "sha256": "6d3910c8b86e3ffb9920eb246955f1515320748e372f201e228b592f0986b83b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 286787,
+   "sha256": "75a09a8c0dd0209a80b95aa79074e2f4ccdaeecd9d4806675ac80ff17385870c"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2411205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2411205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2411205.jpg"
+ },
+ "sha1_origem": "635b2cc59a0610daa800bae0b8af2b03aceba1d2",
+ "bytes_origem": 286787,
+ "capturado_em": "2026-11-08T02:53:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Santa_Cruz_-_RN.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "635b2cc59a0610daa800bae0b8af2b03aceba1d2"
+ }
+}

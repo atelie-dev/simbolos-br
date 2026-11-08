@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211058",
+ "uf": "SC",
+ "municipio": "Monte Carlo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bras%C3%A3o_de_Monte_Carlo_SC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Monte Carlo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b7a545b249603ba750b4c00fe9b7e0d7a81c6d83f33aa182d8bd292f81dcae85",
+ "rendicoes": {
+  "png": {
+   "bytes": 161066,
+   "sha256": "de1d98e3f83509901d7f52f8750a2ae82494b915801474a10cf302257f87f272",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59221,
+   "sha256": "3ed22c2c20c923eca8cc3c51dc0608c5ff8e00816033b77e64046b8b584642d6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211058.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211058.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211058.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4211058.jpg",
+  "bytes": 1274318,
+  "sha256": "b7a545b249603ba750b4c00fe9b7e0d7a81c6d83f33aa182d8bd292f81dcae85"
+ },
+ "sha1_origem": "30fecd8c0e4cc1c84c4f42505441635e0ad433eb",
+ "bytes_origem": 1274318,
+ "capturado_em": "2026-11-08T06:55:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Monte_Carlo_SC.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "30fecd8c0e4cc1c84c4f42505441635e0ad433eb"
+ }
+}

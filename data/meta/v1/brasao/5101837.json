@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5101837",
+ "uf": "MT",
+ "municipio": "Boa Esperança do Norte",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bras%C3%A3o_de_Boa_Esperan%C3%A7a_do_Norte_MT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Boa Esperança do Norte",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f1b2d898ac65d2366d1297498d921872eab26ab3498358e071a6cb7a687586ce",
+ "rendicoes": {
+  "png": {
+   "bytes": 249099,
+   "sha256": "f42e05e0acfe50028f3efe71284c307c21ce750ffe32d59070b4a1ef80e3f855",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39670,
+   "sha256": "6d6a4e575d4830f33ee5ec2b11179130bb0edebcf3f6d6832891eaabf7fc6c0c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5101837.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5101837.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5101837.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5101837.jpg",
+  "bytes": 102076,
+  "sha256": "f1b2d898ac65d2366d1297498d921872eab26ab3498358e071a6cb7a687586ce"
+ },
+ "sha1_origem": "2a80c6da440269b0cca3a58414104557d69d9908",
+ "bytes_origem": 102076,
+ "capturado_em": "2026-11-08T07:14:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Boa_Esperança_do_Norte_MT.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "2a80c6da440269b0cca3a58414104557d69d9908"
+ }
+}

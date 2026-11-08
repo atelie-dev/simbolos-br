@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2613206",
+ "uf": "PE",
+ "municipio": "São João",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bras%C3%A3o_de_S%C3%A3o_Jo%C3%A3o%2C_Pernambuco.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Chat",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4b5b1f3458200228dacb718b57383b0436a56ec547c69f5c73ee7a2a41794578",
+ "rendicoes": {
+  "png": {
+   "bytes": 300169,
+   "sha256": "aaf47e4a7780419d3a3113e739b6e114b2f8dfbcb700e4d99860f1af10b17bbc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 72141,
+   "sha256": "9cc2f4f8b0a201bbb01ade91ad02761ff0d61f7f15c7385c9cd9a4e241fd54e0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2613206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2613206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2613206.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2613206.png",
+  "bytes": 1661261,
+  "sha256": "4b5b1f3458200228dacb718b57383b0436a56ec547c69f5c73ee7a2a41794578"
+ },
+ "sha1_origem": "ca4b929be783d444fd962751d7351e7a5d1c9023",
+ "bytes_origem": 1661261,
+ "capturado_em": "2026-11-08T05:46:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_João,_Pernambuco.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:12Z",
+  "estado": "igual",
+  "sha1_commons": "ca4b929be783d444fd962751d7351e7a5d1c9023"
+ }
+}

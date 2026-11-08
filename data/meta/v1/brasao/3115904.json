@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3115904",
+ "uf": "MG",
+ "municipio": "Chácara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ch%C3%A1caramgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Chácara",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "75c8e31f73a8b442fe9c2548fb507962096f5756f629d173dbfa8f4cda3c3d69",
+ "rendicoes": {
+  "png": {
+   "bytes": 228321,
+   "sha256": "34a98ea43bc270f19c9aa130d171fa6d5186150e7f3382844b5ca02ae78a5bf2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42298,
+   "sha256": "c6c4df53424d01e201a464a4f753d268a85aa85ef27f717d56d0fd72a3c0b2dd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3115904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3115904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3115904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3115904.jpg",
+  "bytes": 36854,
+  "sha256": "75c8e31f73a8b442fe9c2548fb507962096f5756f629d173dbfa8f4cda3c3d69"
+ },
+ "sha1_origem": "dc4afea5d52ce0aea6d7aa5436b029a1b7633029",
+ "bytes_origem": 36854,
+ "capturado_em": "2026-11-08T06:03:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Chácaramgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:22Z",
+  "estado": "igual",
+  "sha1_commons": "dc4afea5d52ce0aea6d7aa5436b029a1b7633029"
+ }
+}

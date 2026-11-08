@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4310108",
+ "uf": "RS",
+ "municipio": "Igrejinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bandeira_de_Igrejinha.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Igrejinha",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0bbc2542132b226c26e249960c0a074b340b5fbc05ae5011a8f5524bf79bef75",
+ "rendicoes": {
+  "png": {
+   "bytes": 60636,
+   "sha256": "c67084729a4e9c9b7eeaf7101879a874b94d1fb82a87e19c26970e95144a909d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22973,
+   "sha256": "0a757743a2149b3e0731dbc336738c32bcb03fa9f0f7ca7877950a3002bb94ac",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 222306,
+   "sha256": "0bbc2542132b226c26e249960c0a074b340b5fbc05ae5011a8f5524bf79bef75"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4310108.jpg"
+ },
+ "sha1_origem": "a72c7102813dc8c9718142f8abccf2e7f02a48e3",
+ "bytes_origem": 222306,
+ "capturado_em": "2026-11-08T04:53:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Igrejinha.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "a72c7102813dc8c9718142f8abccf2e7f02a48e3"
+ }
+}

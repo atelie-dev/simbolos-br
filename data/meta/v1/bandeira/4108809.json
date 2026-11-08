@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4108809",
+ "uf": "PR",
+ "municipio": "Guaíra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandeira_Gua%C3%ADra_%28Paran%C3%A1%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Brazilian government",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e30343eb8a95e0e120d0938859e204a2712364b6112fe24371644fb9c2b1e0e3",
+ "rendicoes": {
+  "png": {
+   "bytes": 11245,
+   "sha256": "a61030b0e569bca5f5fc514c7aa19209206d319797ea872b82f00e965130ae67",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11090,
+   "sha256": "5fb476a3273a72ed00d344db4c1ffea1f96aa12acb46d52862db8491988cc96d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4108809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4108809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4108809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4108809.png",
+  "bytes": 4429,
+  "sha256": "e30343eb8a95e0e120d0938859e204a2712364b6112fe24371644fb9c2b1e0e3"
+ },
+ "sha1_origem": "3838632919ccb794e55d69579ae9e82c4fe56f9c",
+ "bytes_origem": 4429,
+ "capturado_em": "2026-11-08T06:44:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Guaíra_(Paraná).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "3838632919ccb794e55d69579ae9e82c4fe56f9c"
+ }
+}

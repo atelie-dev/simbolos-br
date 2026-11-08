@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3151800",
+ "uf": "MG",
+ "municipio": "Poços de Caldas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bras%C3%A3o-Po%C3%A7os-de-Caldas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "José Raphael Santos Neto",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8b434bdda6482333b19ac5f71b6269e53398866611c2d4f93e5c4032e163d01a",
+ "rendicoes": {
+  "png": {
+   "bytes": 128301,
+   "sha256": "c62f2cb9272e5035c1ea411fc3531c65b03d2c4e6934059f60d60c12837c23f3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45801,
+   "sha256": "542d50556964a4ff3dde39777b63098a42c2f035b6e27339bf11f5036e9c4d7e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3151800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3151800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3151800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3151800.png",
+  "bytes": 127722,
+  "sha256": "8b434bdda6482333b19ac5f71b6269e53398866611c2d4f93e5c4032e163d01a"
+ },
+ "sha1_origem": "da1705daf49433a898de450a05fa60f905a8c71f",
+ "bytes_origem": 127722,
+ "capturado_em": "2026-11-08T06:13:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão-Poços-de-Caldas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "da1705daf49433a898de450a05fa60f905a8c71f"
+ }
+}

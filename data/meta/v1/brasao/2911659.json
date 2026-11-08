@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2911659",
+ "uf": "BA",
+ "municipio": "Guajeru",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bras%C3%A3o_Guajeru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "54add73817c1b0426975de8c1845e2030505ac8203b46173e7ccd1d5c864febd",
+ "rendicoes": {
+  "png": {
+   "bytes": 196412,
+   "sha256": "c9e25713bd3ef50dac66c942b1559ccbdd393f9878bbd9e6a801784ec7ec20a3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60201,
+   "sha256": "0303813e4823ee8686ae38cef80c5e2f1e80ebe20d86f7a9dd5741ce73029a5b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2911659.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2911659.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2911659.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2911659.jpg",
+  "bytes": 255305,
+  "sha256": "54add73817c1b0426975de8c1845e2030505ac8203b46173e7ccd1d5c864febd"
+ },
+ "sha1_origem": "56aecf0d34b3f399502a471138473966baa1be65",
+ "bytes_origem": 255305,
+ "capturado_em": "2026-11-08T05:53:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Guajeru.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "56aecf0d34b3f399502a471138473966baa1be65"
+ }
+}

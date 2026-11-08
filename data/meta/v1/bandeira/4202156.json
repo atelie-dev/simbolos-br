@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4202156",
+ "uf": "SC",
+ "municipio": "Belmonte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bandeira_de_Belmonte_-_SC.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "4e911cd1067685e2c7dd1c1a49753ef79d6d9c21a3250590afd699afc8d8d7e8",
+ "rendicoes": {
+  "png": {
+   "bytes": 21415,
+   "sha256": "342aace9d269678d9294379e06af9b1ef53a8b1a5f37317ee0d7b71ed94cfc18",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14693,
+   "sha256": "7f6c11dd47b586ec9a15a30754ccfcbd4e0b637d62df0fe99bc620e4ba8860b0",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 348740,
+   "sha256": "4e911cd1067685e2c7dd1c1a49753ef79d6d9c21a3250590afd699afc8d8d7e8"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202156.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202156.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202156.jpg"
+ },
+ "sha1_origem": "beb12c47a017dafda3ac8714a1b3463bdc964d67",
+ "bytes_origem": 348740,
+ "capturado_em": "2026-11-08T04:36:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Belmonte_-_SC.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "beb12c47a017dafda3ac8714a1b3463bdc964d67"
+ }
+}

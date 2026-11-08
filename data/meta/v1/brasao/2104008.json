@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2104008",
+ "uf": "MA",
+ "municipio": "Esperantinópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Brasao_do_municipio_de_esperantinopolis.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Esperantinópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a376361e94b40d5cc1e68d13f19dee030b49bb52265f8cfca4079cc912764873",
+ "rendicoes": {
+  "png": {
+   "bytes": 198000,
+   "sha256": "1c1f6cc27c0d068fa9efa5a19df86d64f5505d0048f394a06d408ca70a9ebff8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42169,
+   "sha256": "18a619bae7ec337d39368542f46256b0992597bc994f75fef6fb422897fbbee6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2104008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2104008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2104008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2104008.jpg",
+  "bytes": 45637,
+  "sha256": "a376361e94b40d5cc1e68d13f19dee030b49bb52265f8cfca4079cc912764873"
+ },
+ "sha1_origem": "9df4a9272b2f0db290d0bf68c13057360087e1e7",
+ "bytes_origem": 45637,
+ "capturado_em": "2026-11-08T05:28:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_do_municipio_de_esperantinopolis.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "9df4a9272b2f0db290d0bf68c13057360087e1e7"
+ }
+}

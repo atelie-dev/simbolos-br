@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4102000",
+ "uf": "PR",
+ "municipio": "Assis Chateaubriand",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bandeira_de_Assis_Chateaubriand_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0be959b204093ece5d2970947d817c06ccc9824a3d4f9beeb4d3c432bf707de7",
+ "rendicoes": {
+  "png": {
+   "bytes": 55951,
+   "sha256": "a2029794330f7362ab4c2a942ae849292c42f66ac868ee5b56c8c0efa766d126",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20542,
+   "sha256": "f2003506720047a5917e465c9064f6214135dbffe9403914b86776b2dbac4055",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 427471,
+   "sha256": "0be959b204093ece5d2970947d817c06ccc9824a3d4f9beeb4d3c432bf707de7"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4102000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4102000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4102000.jpg"
+ },
+ "sha1_origem": "d47670855f8469a4314e2e82ddb65f831709d0ef",
+ "bytes_origem": 427471,
+ "capturado_em": "2026-11-08T04:21:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Assis_Chateaubriand_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "d47670855f8469a4314e2e82ddb65f831709d0ef"
+ }
+}

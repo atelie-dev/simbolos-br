@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2307700",
+ "uf": "CE",
+ "municipio": "Maranguape",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bras%C3%A3o_de_Maranguape.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Lázara Cidrack Braga",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "02f39b683d87f38983cbb1102ba8f2c88c189afbfdee123e1c83e7856c58879c",
+ "rendicoes": {
+  "png": {
+   "bytes": 260699,
+   "sha256": "ad61597bc2fde6d1d681ab82217f219d05d2ea01140e658c033e98b0d00c440c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49635,
+   "sha256": "cebe49211f45141fda24a840bbab6d60db0bfb7ae0cdcca13eaa25ea8d76ed5e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2307700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2307700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2307700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2307700.png",
+  "bytes": 329896,
+  "sha256": "02f39b683d87f38983cbb1102ba8f2c88c189afbfdee123e1c83e7856c58879c"
+ },
+ "sha1_origem": "825e2c1118598228c09e889856aaaa78f33f36fc",
+ "bytes_origem": 329896,
+ "capturado_em": "2026-11-08T05:33:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Maranguape.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:06Z",
+  "estado": "igual",
+  "sha1_commons": "825e2c1118598228c09e889856aaaa78f33f36fc"
+ }
+}

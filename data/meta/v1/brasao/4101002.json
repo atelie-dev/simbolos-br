@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4101002",
+ "uf": "PR",
+ "municipio": "Ampére",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bras%C3%A3o_Amp%C3%A9re.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9e71e0b47253b21a058de8055692f871d9be6c1eaf3f375fa344282135d84800",
+ "rendicoes": {
+  "png": {
+   "bytes": 148739,
+   "sha256": "5ffbcffec05630280e9e348a4767e972e9e21b7f2f5e8f3c71652620f0a97e99",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31293,
+   "sha256": "2a0eee7328f44eed47d07340f4cce004279fa1800bfca29d81b6c9ef845928dc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4101002.jpg",
+  "bytes": 24490,
+  "sha256": "9e71e0b47253b21a058de8055692f871d9be6c1eaf3f375fa344282135d84800"
+ },
+ "sha1_origem": "8df658af5aa1e5089b493add159a50a3fe867393",
+ "bytes_origem": 24490,
+ "capturado_em": "2026-11-08T06:41:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Ampére.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "8df658af5aa1e5089b493add159a50a3fe867393"
+ }
+}

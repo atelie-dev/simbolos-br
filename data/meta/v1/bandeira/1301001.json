@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1301001",
+ "uf": "AM",
+ "municipio": "Carauari",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bandeira-carauari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Carauari City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d0f41d66c4e5f1396bbda9d529046f9ac5d8eb69a32fe02a6d9fdaef67db9de5",
+ "rendicoes": {
+  "png": {
+   "bytes": 33792,
+   "sha256": "82ad5bb309e58ee39b7d76239e41919157a40c327abe9f9f9012c32f50b8a4ab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15824,
+   "sha256": "e897a720b1dd0011c34bd93e805d82697d26a6e893f5ed2385fdd11ca0081d81",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1301001.jpg",
+  "bytes": 38350,
+  "sha256": "d0f41d66c4e5f1396bbda9d529046f9ac5d8eb69a32fe02a6d9fdaef67db9de5"
+ },
+ "sha1_origem": "98fbbdb24a73284b7b2b5f8e624f5dac7309c5aa",
+ "bytes_origem": 38350,
+ "capturado_em": "2026-11-08T05:22:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-carauari.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "98fbbdb24a73284b7b2b5f8e624f5dac7309c5aa"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4316501",
+ "uf": "RS",
+ "municipio": "Salvador do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bras%C3%A3o_de_Salvador_do_Sul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Salvador do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "75f7ccc52d1f79fe9d46e3a11e4dbe9382c32ec7048463f1a6d8248290159db0",
+ "rendicoes": {
+  "png": {
+   "bytes": 287710,
+   "sha256": "4fc15956bad4553a4a571b824f3f4385b524daa862171f46d5fece3bf71c64ed",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 73702,
+   "sha256": "80004ec1b8eeb8e335fb38504c75de04eee5936d6febfd9de6051f1b39968458",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4316501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4316501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4316501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4316501.jpg",
+  "bytes": 213172,
+  "sha256": "75f7ccc52d1f79fe9d46e3a11e4dbe9382c32ec7048463f1a6d8248290159db0"
+ },
+ "sha1_origem": "d154a0ffa2e9a379a448368a6ee476a43199c332",
+ "bytes_origem": 213172,
+ "capturado_em": "2026-11-08T07:08:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Salvador_do_Sul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "d154a0ffa2e9a379a448368a6ee476a43199c332"
+ }
+}

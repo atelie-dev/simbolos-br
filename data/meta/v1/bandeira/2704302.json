@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2704302",
+ "uf": "AL",
+ "municipio": "Maceió",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bandeira_de_Macei%C3%B3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ViniciusBR11; Prefeitura de Maceió",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "26da45f92a4770504ae9e92fdac4541b13dfe817e7c9ada0e21e5314d0ec362b",
+ "rendicoes": {
+  "png": {
+   "bytes": 39390,
+   "sha256": "0cc701ce8eb9cc062290b81e4084f8e2132cb63447c2ac5f9063e5c136da6e70",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20175,
+   "sha256": "b28e1cca49f708a0fc17faa66fcd4a88ae193f84ac9e700e5638768484c94596",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 43614,
+   "sha256": "26da45f92a4770504ae9e92fdac4541b13dfe817e7c9ada0e21e5314d0ec362b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2704302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2704302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2704302.jpg"
+ },
+ "sha1_origem": "8fec425e3a475dd8d04c2070034fbb58f668c2e0",
+ "bytes_origem": 43614,
+ "capturado_em": "2026-11-08T03:10:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Maceió.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "8fec425e3a475dd8d04c2070034fbb58f668c2e0"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4322707",
+ "uf": "RS",
+ "municipio": "Vera Cruz",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Brasao_VeraCruz.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Wetb",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "dd42d225b18467c26baccd2b7db5442f2dbe2c925359251a8993f0fe81d1e70a",
+ "rendicoes": {
+  "png": {
+   "bytes": 39201,
+   "sha256": "50aa5f38b4295bf5e5a6b6ee6f3d204da5a1177d20ac89dd3e049c3ab51fb1fd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 82754,
+   "sha256": "398505ff804e447da9f8dc565bd2b74dc2c16f40766f8975e3d3f148ee2787a6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4322707.png",
+  "bytes": 29132,
+  "sha256": "dd42d225b18467c26baccd2b7db5442f2dbe2c925359251a8993f0fe81d1e70a"
+ },
+ "sha1_origem": "1e88bf8a5cf70448aa7654da86fcda417f0909ab",
+ "bytes_origem": 29132,
+ "capturado_em": "2026-11-08T07:11:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_VeraCruz.png",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "1e88bf8a5cf70448aa7654da86fcda417f0909ab"
+ }
+}

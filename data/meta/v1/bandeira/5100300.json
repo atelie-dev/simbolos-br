@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5100300",
+ "uf": "MT",
+ "municipio": "Alto Araguaia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bandeira_de_Alto_Araguaia_%28Mato_Grosso%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Alto Araguaia",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d67503b575ca6442aa9239089bf6fc4580ff6d4ec6e0221a25e3771c244b554b",
+ "rendicoes": {
+  "png": {
+   "bytes": 13926,
+   "sha256": "3abd58e3bff7a46cbca03e1ee9ed4053e1d2ecf7917366ceace86acfea2171fc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8500,
+   "sha256": "a4da69aed530ab48fe7cf57db44e3610969f47ef9d62b00d8feeb06b29d3f77d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5100300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5100300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5100300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5100300.png",
+  "bytes": 10800,
+  "sha256": "d67503b575ca6442aa9239089bf6fc4580ff6d4ec6e0221a25e3771c244b554b"
+ },
+ "sha1_origem": "2c6544f62fc33d951b26c665a1ccef2d905de440",
+ "bytes_origem": 10800,
+ "capturado_em": "2026-11-08T07:13:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Alto_Araguaia_(Mato_Grosso).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:57Z",
+  "estado": "igual",
+  "sha1_commons": "2c6544f62fc33d951b26c665a1ccef2d905de440"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4207601",
+ "uf": "SC",
+ "municipio": "Ipira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Brasao_Ipira_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ipira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fc6435025ed734db7021e266ce6f6a9e64d03a9c59bcc9df864a930b3cd37c19",
+ "rendicoes": {
+  "png": {
+   "bytes": 48922,
+   "sha256": "ba0c4000b1709e28317cee4d259ee5ad2e8ecdbdcbd7370e22d937b6ac102790",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11817,
+   "sha256": "d9da55e3ff7054896d2fd1eb00bc3101943feb9c362c8bcf919102c3de63e881",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4207601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4207601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4207601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4207601.jpg",
+  "bytes": 8167,
+  "sha256": "fc6435025ed734db7021e266ce6f6a9e64d03a9c59bcc9df864a930b3cd37c19"
+ },
+ "sha1_origem": "3c1e4d783a33cbbef552dc4d22f90e42349c7012",
+ "bytes_origem": 8167,
+ "capturado_em": "2026-11-08T06:53:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Ipira_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:33Z",
+  "estado": "igual",
+  "sha1_commons": "3c1e4d783a33cbbef552dc4d22f90e42349c7012"
+ }
+}

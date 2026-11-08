@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3306305",
+ "uf": "RJ",
+ "municipio": "Volta Redonda",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bandeira_de_Volta_Redonda_-_RJ.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Torimem",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b1d01781d76054f26244a36fd9189af5b568e57cbd073efbd2d2af6380c3d047",
+ "rendicoes": {
+  "png": {
+   "bytes": 13423,
+   "sha256": "7f7d716f2f7ec5938c3134d9091dd20dc557b5b652aed759022895399d61beec",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15355,
+   "sha256": "c03957f7eb9d6d9d85a8a9b1090c76750dfdc16a38204d54ff5c2b6f2aebb9f5",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 114982,
+   "sha256": "b1d01781d76054f26244a36fd9189af5b568e57cbd073efbd2d2af6380c3d047"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3306305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3306305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3306305.jpg"
+ },
+ "sha1_origem": "7e91c422d17dc53e5b3382c6411bbaf76c5f2f9e",
+ "bytes_origem": 114982,
+ "capturado_em": "2026-11-08T03:56:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Volta_Redonda_-_RJ.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "7e91c422d17dc53e5b3382c6411bbaf76c5f2f9e"
+ }
+}

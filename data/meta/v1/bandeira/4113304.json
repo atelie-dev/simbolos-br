@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4113304",
+ "uf": "PR",
+ "municipio": "Laranjeiras do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bandeira_de_Laranjeiras_sul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Tiago Blk",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f055ea39ff0d5446dea9b1eb76b1d59a1fbb743ab29feb8e4d205f1a8d51e29a",
+ "rendicoes": {
+  "png": {
+   "bytes": 98785,
+   "sha256": "29fc2676c1b77e8a6a450a319270b274b9f2c79766e28b76f31ad193192d3a41",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10929,
+   "sha256": "492c126fc4b3894d2535d4b222941ca99340aef18fa862704cdc40c61aec69e4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113304.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4113304.jpg",
+  "bytes": 50845,
+  "sha256": "f055ea39ff0d5446dea9b1eb76b1d59a1fbb743ab29feb8e4d205f1a8d51e29a"
+ },
+ "sha1_origem": "2aa86123f82d6761a193e414dd979fc17189f4dd",
+ "bytes_origem": 50845,
+ "capturado_em": "2026-11-08T06:45:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Laranjeiras_sul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "2aa86123f82d6761a193e414dd979fc17189f4dd"
+ }
+}

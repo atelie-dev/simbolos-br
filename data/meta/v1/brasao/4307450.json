@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4307450",
+ "uf": "RS",
+ "municipio": "Esperança do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bras%C3%A3o_Esperan%C3%A7a_do_Sul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Esperança do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b20df5796547adb9deec6ece41a06c7e4b4ef80d19eb1306c86721d2b7e41687",
+ "rendicoes": {
+  "png": {
+   "bytes": 320190,
+   "sha256": "b4cd432a7052ad632f044aa1392957fed2107038c0aff09f6bf7c1962a43ae03",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63108,
+   "sha256": "7b56d0705fd6518855b8bddc86787cc8f7eff243b950bb2007d97d57c083a77f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307450.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307450.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4307450.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4307450.jpg",
+  "bytes": 49005,
+  "sha256": "b20df5796547adb9deec6ece41a06c7e4b4ef80d19eb1306c86721d2b7e41687"
+ },
+ "sha1_origem": "768c23ba2b52a5f988eb920fa89afc4ef8bddf13",
+ "bytes_origem": 49005,
+ "capturado_em": "2026-11-08T07:02:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Esperança_do_Sul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "768c23ba2b52a5f988eb920fa89afc4ef8bddf13"
+ }
+}

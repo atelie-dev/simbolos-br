@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3200359",
+ "uf": "ES",
+ "municipio": "Alto Rio Novo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bras%C3%A3o_de_Alto_Rio_Novo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "873f847631b35c4b4fd5c42bc733d18a8b24f89988040d3fb0965c12d4bf06f6",
+ "rendicoes": {
+  "png": {
+   "bytes": 169084,
+   "sha256": "86074adb2ce25712e0997cf3a253cd94516b201fcf283cbf89383e69e241e55f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27107,
+   "sha256": "be56ab19c3e77de35a157ee9b8e598753946d7ab366ee3a15dc9ad955b8e53ba",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200359.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200359.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3200359.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3200359.png",
+  "bytes": 166384,
+  "sha256": "873f847631b35c4b4fd5c42bc733d18a8b24f89988040d3fb0965c12d4bf06f6"
+ },
+ "sha1_origem": "9354f33233b393781e7e38b029b6981f13ea2e08",
+ "bytes_origem": 166384,
+ "capturado_em": "2026-11-08T06:18:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Alto_Rio_Novo.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "9354f33233b393781e7e38b029b6981f13ea2e08"
+ }
+}

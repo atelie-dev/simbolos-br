@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3101805",
+ "uf": "MG",
+ "municipio": "Alpercata",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Alpercatamgbrasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Alpercata",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0e2dc5d7c8219b8d88d314281b115c906f5a1ad3c28d0103eb461c4b2c176003",
+ "rendicoes": {
+  "png": {
+   "bytes": 51982,
+   "sha256": "660d1fd89e8f2193c36adb995171673198e949f86f7c73c2f904f9f71b950289",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23287,
+   "sha256": "d01ff50826638bc70d1deaaa1bca2a0f4795ed2abff1771cdd3824357475f750",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3101805.png",
+  "bytes": 18433,
+  "sha256": "0e2dc5d7c8219b8d88d314281b115c906f5a1ad3c28d0103eb461c4b2c176003"
+ },
+ "sha1_origem": "8b87ff07e81577225dd15e428ad2f0ad4b1aa1f8",
+ "bytes_origem": 18433,
+ "capturado_em": "2026-11-08T05:58:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Alpercatamgbrasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "8b87ff07e81577225dd15e428ad2f0ad4b1aa1f8"
+ }
+}

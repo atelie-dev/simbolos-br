@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3535200",
+ "uf": "SP",
+ "municipio": "Palmeira d'Oeste",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Brasaopalmeiradoeste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "df64a2bcbe5e3579825d6645eabbcce558a7b1696f6b546dc69a0ab013622729",
+ "rendicoes": {
+  "png": {
+   "bytes": 57824,
+   "sha256": "a875eb8bb411f9577442091c94313120ebc37472a2108edff68fae6f22302172",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12723,
+   "sha256": "12e0eeab9839d5d86c7134797ea20f9509c2fc789f311e9d4ee9609a0d6b59a4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3535200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3535200.jpg",
+  "bytes": 18085,
+  "sha256": "df64a2bcbe5e3579825d6645eabbcce558a7b1696f6b546dc69a0ab013622729"
+ },
+ "sha1_origem": "f9ef4aae9eb00ab0e9b2b903af6c771c2390be4f",
+ "bytes_origem": 18085,
+ "capturado_em": "2026-11-08T06:33:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaopalmeiradoeste.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "f9ef4aae9eb00ab0e9b2b903af6c771c2390be4f"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3111507",
+ "uf": "MG",
+ "municipio": "Campos Altos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Campos_Altosmgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Campos Altos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "63e0bc13ff106ef1be42f28fad4f497f2c8c792d2d08657d319ab56845a6d932",
+ "rendicoes": {
+  "png": {
+   "bytes": 31882,
+   "sha256": "febd6e9500274f5bb1a65ed87172281f4ce4245b29d729868786ea7161c11d17",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7591,
+   "sha256": "39b2766281474f2e23830a899e350123c8907a602e5bf66624e61f2690defd7d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3111507.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3111507.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3111507.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3111507.jpg",
+  "bytes": 8985,
+  "sha256": "63e0bc13ff106ef1be42f28fad4f497f2c8c792d2d08657d319ab56845a6d932"
+ },
+ "sha1_origem": "fcf40448b2b4210a33481eeceb63054859351fdb",
+ "bytes_origem": 8985,
+ "capturado_em": "2026-11-08T06:02:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Campos_Altosmgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "fcf40448b2b4210a33481eeceb63054859351fdb"
+ }
+}

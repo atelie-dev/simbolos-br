@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3514007",
+ "uf": "SP",
+ "municipio": "Dobrada",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandeira_Dobrada.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Dobrada",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b0f4d08366e8bfa50180dd3c4fcc5fe914ef711f50495174b8ed0fa0ff7be67a",
+ "rendicoes": {
+  "png": {
+   "bytes": 41903,
+   "sha256": "96506e60adc6ce80ed631f1137ae8c7f110e30caf4fdb11f6f2977e14ef5c81c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16447,
+   "sha256": "240ae5091c3950eee37660c84af3d65ab948362f8a001af8b7979498fad2bd93",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3514007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3514007.png",
+  "bytes": 35839,
+  "sha256": "b0f4d08366e8bfa50180dd3c4fcc5fe914ef711f50495174b8ed0fa0ff7be67a"
+ },
+ "sha1_origem": "b1eae4951398082d9f801fac4e3824ad54e6ea41",
+ "bytes_origem": 35839,
+ "capturado_em": "2026-11-08T06:26:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Dobrada.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "b1eae4951398082d9f801fac4e3824ad54e6ea41"
+ }
+}

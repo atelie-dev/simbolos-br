@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3520426",
+ "uf": "SP",
+ "municipio": "Ilha Comprida",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bandeira_IlhaComprida_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Sidnei Oliveira Pinho",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "18c769f82376118a5d6ca388cd1adb7c8aa8319c51d7870ff0d52910b980482d",
+ "rendicoes": {
+  "png": {
+   "bytes": 21040,
+   "sha256": "087ef39b04043bf4b1646c4defc7549c7b05f2be37a7fde5cb25a49f7238f96f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14601,
+   "sha256": "4115c7c9c4ba1d831924f2bb37ef75345e73daa85711766525c68679fe0d8756",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 6371,
+   "sha256": "18c769f82376118a5d6ca388cd1adb7c8aa8319c51d7870ff0d52910b980482d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520426.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520426.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3520426.jpg"
+ },
+ "sha1_origem": "b010156a1d5c51630aaacfaa3c311b4ca3b78f8f",
+ "bytes_origem": 6371,
+ "capturado_em": "2026-11-08T04:05:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_IlhaComprida_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "b010156a1d5c51630aaacfaa3c311b4ca3b78f8f"
+ }
+}

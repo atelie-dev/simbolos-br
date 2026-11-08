@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3137700",
+ "uf": "MG",
+ "municipio": "Lajinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bandeira-lajinha.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Lajinha City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "902f1be18e09e80e3d9365fe3fbf9b758a9495cc1e8319fd5e4177d1d8e8f071",
+ "rendicoes": {
+  "png": {
+   "bytes": 3887,
+   "sha256": "b852018dfd2be9992a91118539898d4a4ccc7bbe8c9a19d56141fb159afe4cc0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9260,
+   "sha256": "217f061aba806564823da80a8fe902ece7c11402202e2eca4134e98b560e36f9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3137700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3137700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3137700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3137700.png",
+  "bytes": 1932,
+  "sha256": "902f1be18e09e80e3d9365fe3fbf9b758a9495cc1e8319fd5e4177d1d8e8f071"
+ },
+ "sha1_origem": "edb3841a4ce45d6b0874ac9e6028177aca5c0415",
+ "bytes_origem": 1932,
+ "capturado_em": "2026-11-08T06:10:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-lajinha.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "edb3841a4ce45d6b0874ac9e6028177aca5c0415"
+ }
+}

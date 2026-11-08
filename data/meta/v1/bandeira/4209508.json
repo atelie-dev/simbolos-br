@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4209508",
+ "uf": "SC",
+ "municipio": "Laurentino",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bandeira_do_munic%C3%ADpio_de_Laurentino_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Laurentino (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "48e70e060cdc148eee71d8173ba53a645ed988817d96d4b4f456c5048fcbb4ad",
+ "rendicoes": {
+  "png": {
+   "bytes": 27529,
+   "sha256": "ec41fda2842f48f4dcd06d9f79731ab387fc9a798d7cebb876a8e0b516fd5269",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15790,
+   "sha256": "b4bce198ac5ffcc03dbe9ae7ad6cc47e454e693478ec2d08dfadfb98d013a45b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 62497,
+   "sha256": "48e70e060cdc148eee71d8173ba53a645ed988817d96d4b4f456c5048fcbb4ad"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209508.jpg"
+ },
+ "sha1_origem": "369220274ccfebaf6152acd92644f2793e37481c",
+ "bytes_origem": 62497,
+ "capturado_em": "2026-11-08T04:40:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Laurentino_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:19Z",
+  "estado": "igual",
+  "sha1_commons": "369220274ccfebaf6152acd92644f2793e37481c"
+ }
+}

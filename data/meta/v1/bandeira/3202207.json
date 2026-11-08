@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3202207",
+ "uf": "ES",
+ "municipio": "Fundão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Flag_of_Fund%C3%A3o.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "457d36d6e1e39e87e210f6008f6b96de070c6714f73d30c984cadab30604fb0e",
+ "rendicoes": {
+  "png": {
+   "bytes": 46086,
+   "sha256": "b06011a2e27b1cd6a06d3a6a5e434af5d44ec9c4b0a1313292d50496e8446666",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17663,
+   "sha256": "783736a6b32a5a45a7649317a0f8ae014f4ad731017b6fac11dc32c3f64e890b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3202207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3202207.png",
+  "bytes": 217937,
+  "sha256": "457d36d6e1e39e87e210f6008f6b96de070c6714f73d30c984cadab30604fb0e"
+ },
+ "sha1_origem": "3bf34d0de9159fa906f69889219f97bf372a816a",
+ "bytes_origem": 217937,
+ "capturado_em": "2026-11-08T06:19:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Fundão.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "3bf34d0de9159fa906f69889219f97bf372a816a"
+ }
+}

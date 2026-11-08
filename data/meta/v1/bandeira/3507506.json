@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3507506",
+ "uf": "SP",
+ "municipio": "Botucatu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bandeira_Botucatu_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Botucatu",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "8c119b4080a4e171e7c8d7857a0b4ed206e92d8c68cd44f3ba75adaa74ee7f0e",
+ "rendicoes": {
+  "png": {
+   "bytes": 13946,
+   "sha256": "495617a5a882ae07310eed2878feae38860e78f8cb961a218c8aaea54f9aa19f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11996,
+   "sha256": "fdf23c384bf8cb1a0703d586f534f9fe2b7e222e635693e092e386fee576c84a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2964,
+   "sha256": "8c119b4080a4e171e7c8d7857a0b4ed206e92d8c68cd44f3ba75adaa74ee7f0e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3507506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3507506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3507506.jpg"
+ },
+ "sha1_origem": "4fe811d71e297578a6701bf39d9556273cea4dc2",
+ "bytes_origem": 2964,
+ "capturado_em": "2026-11-08T03:59:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Botucatu_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "4fe811d71e297578a6701bf39d9556273cea4dc2"
+ }
+}

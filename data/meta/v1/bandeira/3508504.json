@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3508504",
+ "uf": "SP",
+ "municipio": "Caçapava",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cacapava_bandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f6cb71771a4ebd40df1f1c6037f0e15694ebf97fb9b6c8684f99e6d11cbdd177",
+ "rendicoes": {
+  "png": {
+   "bytes": 13928,
+   "sha256": "3bcf6b0fe2b848bc9567627542d4f1d4643d39525c89f9d11144cf1c9f908444",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10957,
+   "sha256": "ba56f2a39d487cb5c3535404075f798895a4603bc5dcb372e8da872eddd40b93",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3508504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3508504.png",
+  "bytes": 5732,
+  "sha256": "f6cb71771a4ebd40df1f1c6037f0e15694ebf97fb9b6c8684f99e6d11cbdd177"
+ },
+ "sha1_origem": "330f912b1ee85d942f5ea2b94a5cf820f0b88060",
+ "bytes_origem": 5732,
+ "capturado_em": "2026-11-08T06:25:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cacapava_bandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "330f912b1ee85d942f5ea2b94a5cf820f0b88060"
+ }
+}

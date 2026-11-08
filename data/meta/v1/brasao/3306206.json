@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3306206",
+ "uf": "RJ",
+ "municipio": "Vassouras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Brasao-vassouras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e9d1d8d68282273990bb3c16ddf9138c85da9a8af77e104fdc2e1701fcc67cbf",
+ "rendicoes": {
+  "png": {
+   "bytes": 22930,
+   "sha256": "34f839355e393f333d25e1725649643f0a6aee687ffe22e6cc43622702d29096",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16662,
+   "sha256": "f318a66713772ecf643dcb564132f552c144e7ba5b17bd9839f0d14f4964bff5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3306206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3306206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3306206.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3306206.png",
+  "bytes": 13989,
+  "sha256": "e9d1d8d68282273990bb3c16ddf9138c85da9a8af77e104fdc2e1701fcc67cbf"
+ },
+ "sha1_origem": "aa9c66f3253916d1895114ca3887208c976bcb1b",
+ "bytes_origem": 13989,
+ "capturado_em": "2026-11-08T06:22:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-vassouras.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "aa9c66f3253916d1895114ca3887208c976bcb1b"
+ }
+}

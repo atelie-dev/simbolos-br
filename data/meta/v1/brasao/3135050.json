@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3135050",
+ "uf": "MG",
+ "municipio": "Jaíba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bras%C3%A3o_Ja%C3%ADba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Gillyara Antunes Ramos.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6e4d8a98bb434d240b9c9d01ac40e3fdb351de1a782d94d65c4403a813da50e3",
+ "rendicoes": {
+  "png": {
+   "bytes": 250471,
+   "sha256": "afbd1bf0d854ec37d9da7ab7daa61739b693f1e1f2d888ad7abeab36130db5d5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38626,
+   "sha256": "0cdcf6776e0665caf87235ce9d81ebe158e2b4e446643af97fb54123ff49f5cb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3135050.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3135050.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3135050.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3135050.jpg",
+  "bytes": 90034,
+  "sha256": "6e4d8a98bb434d240b9c9d01ac40e3fdb351de1a782d94d65c4403a813da50e3"
+ },
+ "sha1_origem": "d87e600cc5322379d6966453aaf23c4d5b7800bc",
+ "bytes_origem": 90034,
+ "capturado_em": "2026-11-08T06:09:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Jaíba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "d87e600cc5322379d6966453aaf23c4d5b7800bc"
+ }
+}

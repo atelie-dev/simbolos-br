@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5219357",
+ "uf": "GO",
+ "municipio": "Santa Isabel",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bras%C3%A3o_de_Santa_Isabel_%28Goi%C3%A1s%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Santa Isabel",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a7ef8f022244c06930ccd52721b860dd6b8dc49aaa32bd2529d625e85462b1ff",
+ "rendicoes": {
+  "png": {
+   "bytes": 275254,
+   "sha256": "073ac4b7214e568e81aad07fa4eaacb1a17b405bea29e1afc75ca083bb1272b9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 50688,
+   "sha256": "a67418aa78e936b254051575081ab758c99ccbd8d1cc0552d3b645b3ed7ed719",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5219357.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5219357.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5219357.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5219357.jpg",
+  "bytes": 116358,
+  "sha256": "a7ef8f022244c06930ccd52721b860dd6b8dc49aaa32bd2529d625e85462b1ff"
+ },
+ "sha1_origem": "c03083711393e29886fdb69b331fbc62bc32121e",
+ "bytes_origem": 116358,
+ "capturado_em": "2026-11-08T07:20:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Santa_Isabel_(Goiás).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "c03083711393e29886fdb69b331fbc62bc32121e"
+ }
+}

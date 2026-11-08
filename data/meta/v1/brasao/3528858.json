@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3528858",
+ "uf": "SP",
+ "municipio": "Marapoama",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bras%C3%A3o_de_Marapoama%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Marapoama/SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "45029fce7c8434331f88b65b398a80fc506466fbc1aeefc53e9fe5983cca929c",
+ "rendicoes": {
+  "png": {
+   "bytes": 40959,
+   "sha256": "5b7376afadda08ad2095a0ad96bdb0e36e41def3c003995d0c796a8060100c5d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8872,
+   "sha256": "f08105446778d49476d570881ac84e469ef0fc0f0c0d750529ca80b2ce242117",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528858.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528858.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528858.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3528858.jpg",
+  "bytes": 4788,
+  "sha256": "45029fce7c8434331f88b65b398a80fc506466fbc1aeefc53e9fe5983cca929c"
+ },
+ "sha1_origem": "de06099168328a7f08c8f2bc9f967285dba52403",
+ "bytes_origem": 4788,
+ "capturado_em": "2026-11-08T06:31:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Marapoama,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:06Z",
+  "estado": "igual",
+  "sha1_commons": "de06099168328a7f08c8f2bc9f967285dba52403"
+ }
+}

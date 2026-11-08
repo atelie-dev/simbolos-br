@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5220405",
+ "uf": "GO",
+ "municipio": "São Simão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Brasaosaosimao-go.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Simão",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6ed2d71e87f951f81c35ce2bf973011be52407925cc8ae4b814def4710c971a9",
+ "rendicoes": {
+  "png": {
+   "bytes": 71608,
+   "sha256": "10df3dc51ad394e0f28b6e04c7be144208bd43cbd61513a1a659d96fdb373768",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16586,
+   "sha256": "4b6bc2b890557f3fc67eb4f044c78b7b2969b5a0524ccad583664a2933e0e05f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5220405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5220405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5220405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5220405.png",
+  "bytes": 67449,
+  "sha256": "6ed2d71e87f951f81c35ce2bf973011be52407925cc8ae4b814def4710c971a9"
+ },
+ "sha1_origem": "301c0481033bc3a478a6b77383943b601021be57",
+ "bytes_origem": 67449,
+ "capturado_em": "2026-11-08T07:20:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaosaosimao-go.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "301c0481033bc3a478a6b77383943b601021be57"
+ }
+}

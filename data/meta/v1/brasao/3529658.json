@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3529658",
+ "uf": "SP",
+ "municipio": "Mesópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bras%C3%A3o_de_Mes%C3%B3polis%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Mesópolis/SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "046dbd37bda06a6fe3205b2bfa4bd89603f1b40e915f297893eb9f9dd9e55556",
+ "rendicoes": {
+  "png": {
+   "bytes": 46181,
+   "sha256": "291a5445f1735e9d991537ee5b7ff4d3eae5bb2965b12a7b69c2aa0ed505a847",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9400,
+   "sha256": "2f2e51edab70194bbec830cd0773c234a96c2d8e7fb32499f80464a7b5d0ef98",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529658.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529658.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529658.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3529658.jpg",
+  "bytes": 5752,
+  "sha256": "046dbd37bda06a6fe3205b2bfa4bd89603f1b40e915f297893eb9f9dd9e55556"
+ },
+ "sha1_origem": "5e86b2a68ac54432ba4c044cd601905f3316ec03",
+ "bytes_origem": 5752,
+ "capturado_em": "2026-11-08T06:31:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Mesópolis,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "5e86b2a68ac54432ba4c044cd601905f3316ec03"
+ }
+}

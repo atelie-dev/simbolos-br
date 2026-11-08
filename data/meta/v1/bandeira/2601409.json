@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2601409",
+ "uf": "PE",
+ "municipio": "Barreiros",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bandeira_de_Barreiros.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "00f723d43b904ea313c76234e723d9a8d66228de4de6f003cd021eb3b7288810",
+ "rendicoes": {
+  "png": {
+   "bytes": 57141,
+   "sha256": "959f97d72d653cebc35812884b37b0bcea6ab7347975a78358bf0c006f9709b8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20021,
+   "sha256": "8b912700bf83e62ad730bc43e4000ca35b7a338aee80418f5f6106d331bbf65c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 138543,
+   "sha256": "00f723d43b904ea313c76234e723d9a8d66228de4de6f003cd021eb3b7288810"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601409.jpg"
+ },
+ "sha1_origem": "14319a5013c4c808c0a64f0ec5b022da3cdda845",
+ "bytes_origem": 138543,
+ "capturado_em": "2026-11-08T03:04:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Barreiros.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "14319a5013c4c808c0a64f0ec5b022da3cdda845"
+ }
+}

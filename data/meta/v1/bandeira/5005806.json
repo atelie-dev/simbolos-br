@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5005806",
+ "uf": "MS",
+ "municipio": "Nioaque",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Band_Nioaque.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "18cbd4957f3dabbc850b0d0bd5c90d851728a74f09cc8e6ee0c79108783e1e2f",
+ "rendicoes": {
+  "png": {
+   "bytes": 3131,
+   "sha256": "e90b501e3f53281202ccbda1ec0edb9663f7fd701c08ce28b40db41d2ec86ec3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10726,
+   "sha256": "fda6e33dde16350b5550aa873739b7dba0fcf9a9c985e7e953ba76ad0e0658f1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5005806.png",
+  "bytes": 2057,
+  "sha256": "18cbd4957f3dabbc850b0d0bd5c90d851728a74f09cc8e6ee0c79108783e1e2f"
+ },
+ "sha1_origem": "1bfa076e5522beaf8716870b05a36be1128a8d6d",
+ "bytes_origem": 2057,
+ "capturado_em": "2026-11-08T07:13:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_Nioaque.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "1bfa076e5522beaf8716870b05a36be1128a8d6d"
+ }
+}

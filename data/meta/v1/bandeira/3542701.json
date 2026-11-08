@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3542701",
+ "uf": "SP",
+ "municipio": "Restinga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bandeira_de_Restinga.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Restinga.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b92843a157db9b1cca139e8edafa7b8e93cbf05ff86147f4dfeea60d2efca189",
+ "rendicoes": {
+  "png": {
+   "bytes": 115554,
+   "sha256": "678dcc865e975302d4e42aa9c666c0fb1e26b89ec926be3f7bbd83c21f7857e2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26296,
+   "sha256": "d59d773aa9ec3a0d710059037527e412448de54a1419bb290ebc4e91fc4eb99b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3542701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3542701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3542701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3542701.png",
+  "bytes": 323538,
+  "sha256": "b92843a157db9b1cca139e8edafa7b8e93cbf05ff86147f4dfeea60d2efca189"
+ },
+ "sha1_origem": "d356e4401c995b84ea212169d0f0e7a0d481c7e2",
+ "bytes_origem": 323538,
+ "capturado_em": "2026-11-08T06:36:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Restinga.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "d356e4401c995b84ea212169d0f0e7a0d481c7e2"
+ }
+}

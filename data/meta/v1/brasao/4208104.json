@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4208104",
+ "uf": "SC",
+ "municipio": "Itaiópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Brasao_itaiopolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "68c31229960d729eecf180f82b761d99c7dc9043ecf731b2e88e2bd7ea2e88d2",
+ "rendicoes": {
+  "png": {
+   "bytes": 190273,
+   "sha256": "b0ea260da556373b97a8e1f99c286f4802012032e29b70ffc8a71085a3cded34",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48491,
+   "sha256": "4675fceca5b675f2ca84cc976a728f7e2113d57b53037580579cb8f5880ceceb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4208104.jpg",
+  "bytes": 219266,
+  "sha256": "68c31229960d729eecf180f82b761d99c7dc9043ecf731b2e88e2bd7ea2e88d2"
+ },
+ "sha1_origem": "41837d173c3d22d65c506aee591a048475184b0f",
+ "bytes_origem": 219266,
+ "capturado_em": "2026-11-08T06:54:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_itaiopolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "41837d173c3d22d65c506aee591a048475184b0f"
+ }
+}

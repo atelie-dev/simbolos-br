@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3508306",
+ "uf": "SP",
+ "municipio": "Cabrália Paulista",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Cabr%C3%A1lia_Paulista.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9654fe6a0477bac0094eccf404955d0d48a2cd35f8802c0cc252f67aa6a0c486",
+ "rendicoes": {
+  "png": {
+   "bytes": 398209,
+   "sha256": "082f945d3c3b47c1c9796bdcecb3e176f2bd0c0dc13007692e0102a9966208ac",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 66915,
+   "sha256": "bbf40fdd5155a6a5ca6861c28314d1d6e51decb04a34150726008752bd6b77d2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3508306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3508306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3508306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3508306.png",
+  "bytes": 385203,
+  "sha256": "9654fe6a0477bac0094eccf404955d0d48a2cd35f8802c0cc252f67aa6a0c486"
+ },
+ "sha1_origem": "fe4ddd078720217d8c7204c77b4d3e68f47def9d",
+ "bytes_origem": 385203,
+ "capturado_em": "2026-11-08T06:25:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cabrália_Paulista.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "fe4ddd078720217d8c7204c77b4d3e68f47def9d"
+ }
+}

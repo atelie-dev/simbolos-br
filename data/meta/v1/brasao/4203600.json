@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4203600",
+ "uf": "SC",
+ "municipio": "Campos Novos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bras%C3%A3o_de_Campos_Novos_-_SC.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ff996e9627ce13b1f717f8c3dec64ed2b4a26990cd7754e4977ddf51f8c98dbf",
+ "rendicoes": {
+  "png": {
+   "bytes": 126961,
+   "sha256": "5156aa507c2fb6bc3234067ebe08287680be12aa30943c85aed093a7764cd649",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 46516,
+   "sha256": "9bd463de7b5172a38c0a90ced131d7c9ba7f8072f7c3567058b537959a5e69ce",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 197894,
+   "sha256": "ff996e9627ce13b1f717f8c3dec64ed2b4a26990cd7754e4977ddf51f8c98dbf"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4203600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4203600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4203600.jpg"
+ },
+ "sha1_origem": "9f8920c3c209f615295ec4418b1a1c43fcb52819",
+ "bytes_origem": 197894,
+ "capturado_em": "2026-11-08T04:37:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Campos_Novos_-_SC.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "9f8920c3c209f615295ec4418b1a1c43fcb52819"
+ }
+}

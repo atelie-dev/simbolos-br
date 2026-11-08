@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1506500",
+ "uf": "PA",
+ "municipio": "Santa Izabel do Pará",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bandeira_de_Santa_Izabel_do_Par%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Santa Izabel do Pará",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "aa680d5dfbab819eb3e7bd1ac633c4a45e5bb3fac8fd1ac18b0cb1e7ee3da2bd",
+ "rendicoes": {
+  "png": {
+   "bytes": 75310,
+   "sha256": "842c5598b4144c4d12b5937949dc75c2a8e749a50de36260ed921954fd01698e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13636,
+   "sha256": "959f43dbe1b0c7d861f816c8e6ac99f0ca0596bd8deedd4c0f2596db73605a72",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1506500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1506500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1506500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1506500.jpg",
+  "bytes": 30411,
+  "sha256": "aa680d5dfbab819eb3e7bd1ac633c4a45e5bb3fac8fd1ac18b0cb1e7ee3da2bd"
+ },
+ "sha1_origem": "88ebe8de7e64054c609bab1873647c94f4b67b15",
+ "bytes_origem": 30411,
+ "capturado_em": "2026-11-08T05:25:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santa_Izabel_do_Pará.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "88ebe8de7e64054c609bab1873647c94f4b67b15"
+ }
+}

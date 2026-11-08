@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3147204",
+ "uf": "MG",
+ "municipio": "Paraguaçu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Brasaopcu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Yelo Evany Prado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1718e4db19837e61792b3f1b8fe5c9bc3012ecf274dd1754f6351ed2b383df21",
+ "rendicoes": {
+  "png": {
+   "bytes": 126699,
+   "sha256": "a25755ca8ab3b6be1fdb9dc61f86059956b9cd97bda661e8df2b2072dee9b168",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23878,
+   "sha256": "a1a87114063b3a7088dcfab85b769074b109d1d83c41c18237ebe297f68c21fe",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3147204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3147204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3147204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3147204.jpg",
+  "bytes": 22595,
+  "sha256": "1718e4db19837e61792b3f1b8fe5c9bc3012ecf274dd1754f6351ed2b383df21"
+ },
+ "sha1_origem": "a9fb51b743f8e8df6c2a38db2cb498ca9d529ec4",
+ "bytes_origem": 22595,
+ "capturado_em": "2026-11-08T06:12:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaopcu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "a9fb51b743f8e8df6c2a38db2cb498ca9d529ec4"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1301902",
+ "uf": "AM",
+ "municipio": "Itacoatiara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bras%C3%A3o_de_Itacoatiara_am.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Itacoatiara",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b144898aba3995734b5ff6926938f42244faeef789bee4fd73a0e7e0eebbc4b7",
+ "rendicoes": {
+  "png": {
+   "bytes": 365215,
+   "sha256": "011b755de356902a09618e94454cb29a8fde41db46cf450ca49654a62800ea0c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63011,
+   "sha256": "582e4f389df0ca4cf48e28194d7ffe9d6551d0728d1a8eb51c48314eccb0b314",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1301902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1301902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1301902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1301902.jpg",
+  "bytes": 68580,
+  "sha256": "b144898aba3995734b5ff6926938f42244faeef789bee4fd73a0e7e0eebbc4b7"
+ },
+ "sha1_origem": "d397bf57cf8e132ef588e90b55253ca972fb584e",
+ "bytes_origem": 68580,
+ "capturado_em": "2026-11-08T05:22:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Itacoatiara_am.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "d397bf57cf8e132ef588e90b55253ca972fb584e"
+ }
+}

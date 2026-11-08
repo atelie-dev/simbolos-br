@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3524808",
+ "uf": "SP",
+ "municipio": "Jales",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Jales_Brasao.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "705997e4ee52437061ae72dc415553ea13602405a5a67645eae39bd457b33ef1",
+ "rendicoes": {
+  "png": {
+   "bytes": 53646,
+   "sha256": "23a2d56c586a3772ff025a4b5b67cb3ed651164d21d3878fd973f80dcd64a4db",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18857,
+   "sha256": "5ebee9a9450778e082c3bce6d2066087c9eec327003ea1cb79face7b27612762",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3524808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3524808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3524808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3524808.gif",
+  "bytes": 18470,
+  "sha256": "705997e4ee52437061ae72dc415553ea13602405a5a67645eae39bd457b33ef1"
+ },
+ "sha1_origem": "e708c5e096a2d45b09ad711556e400a97a909cae",
+ "bytes_origem": 18470,
+ "capturado_em": "2026-11-08T06:30:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Jales_Brasao.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "e708c5e096a2d45b09ad711556e400a97a909cae"
+ }
+}

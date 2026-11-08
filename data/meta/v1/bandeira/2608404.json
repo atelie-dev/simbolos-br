@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2608404",
+ "uf": "PE",
+ "municipio": "Jurema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bandeira-juremape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Jurema City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bc49d69f15cfe873174e598207e4ef89bcb3ea117c8370cf90d5e255da606250",
+ "rendicoes": {
+  "png": {
+   "bytes": 31984,
+   "sha256": "fff1456a5e3a6890e211f02192e43537efbac1751fd9f6b26063d935c9658871",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10897,
+   "sha256": "8a90c66eda9876cefb57511dc7c0783ad33cf57c14a88cc9955520d1438ff8a3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2608404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2608404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2608404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2608404.jpg",
+  "bytes": 22448,
+  "sha256": "bc49d69f15cfe873174e598207e4ef89bcb3ea117c8370cf90d5e255da606250"
+ },
+ "sha1_origem": "10bc220e7aa3cbe29c1297d9cd1b79edb13a3f0e",
+ "bytes_origem": 22448,
+ "capturado_em": "2026-11-08T05:45:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-juremape.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "10bc220e7aa3cbe29c1297d9cd1b79edb13a3f0e"
+ }
+}

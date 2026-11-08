@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4101655",
+ "uf": "PR",
+ "municipio": "Arapuã",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bras%C3%A3o_de_Arapu%C3%A3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e6d6fd44847a3f20da26ee65520bef2ff4400b4957fab3f01eb3b0e969ec41e7",
+ "rendicoes": {
+  "png": {
+   "bytes": 99391,
+   "sha256": "ac4e94435afbb080a19428a23e16e286f05bc70b9a972f222760cf94fb15010e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17899,
+   "sha256": "e9b51fdb660ec07c2bd4ab38f5e22654d8dd8f28f96feed6677a62f3bdf0a4ca",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101655.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101655.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101655.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4101655.jpg",
+  "bytes": 18974,
+  "sha256": "e6d6fd44847a3f20da26ee65520bef2ff4400b4957fab3f01eb3b0e969ec41e7"
+ },
+ "sha1_origem": "02465be51692f5c6466dc0c7659d8ade4a8d386f",
+ "bytes_origem": 18974,
+ "capturado_em": "2026-11-08T06:41:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Arapuã.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "02465be51692f5c6466dc0c7659d8ade4a8d386f"
+ }
+}

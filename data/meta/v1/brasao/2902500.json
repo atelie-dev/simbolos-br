@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2902500",
+ "uf": "BA",
+ "municipio": "Baianópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bras%C3%A3o_de_Baianopolis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0d15c36c5fa7b4a0dc57d2505cd8db9d55cc19a051e292f492b849c0d91e4367",
+ "rendicoes": {
+  "png": {
+   "bytes": 134892,
+   "sha256": "6776326578c04fd0a126d7fd8c56ef91cb5972216209be61270d4336df6cd5c9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32558,
+   "sha256": "ebab006b14376ffd7d0041e2107515ad1edd42b22e2ddec1f198bb8479341c45",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2902500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2902500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2902500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2902500.png",
+  "bytes": 134249,
+  "sha256": "0d15c36c5fa7b4a0dc57d2505cd8db9d55cc19a051e292f492b849c0d91e4367"
+ },
+ "sha1_origem": "5376379f4b4d5ac96d2ac2716b7cfbebbdea7cbb",
+ "bytes_origem": 134249,
+ "capturado_em": "2026-11-08T05:51:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Baianopolis.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "5376379f4b4d5ac96d2ac2716b7cfbebbdea7cbb"
+ }
+}

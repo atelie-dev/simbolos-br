@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3115003",
+ "uf": "MG",
+ "municipio": "Cascalho Rico",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/86/Cascalho_Ricomgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cascalho Rico",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "41ba6ad4cabd32c0844757af35e9d94995b2c351c7e89497babe280d80a8c391",
+ "rendicoes": {
+  "png": {
+   "bytes": 31700,
+   "sha256": "5ecea84d12d2948650d5ee45fa1a7b8988d836bdace47affe148471818f11a8b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9544,
+   "sha256": "a1c3aff16f309225b20b311f60a2c6ea9913abe187a55ff19de2330f97121bee",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3115003.jpg",
+  "bytes": 11027,
+  "sha256": "41ba6ad4cabd32c0844757af35e9d94995b2c351c7e89497babe280d80a8c391"
+ },
+ "sha1_origem": "4e89cf4b25449d88c80438d055a48c2c4a0a869e",
+ "bytes_origem": 11027,
+ "capturado_em": "2026-11-08T06:03:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cascalho_Ricomgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:21Z",
+  "estado": "igual",
+  "sha1_commons": "4e89cf4b25449d88c80438d055a48c2c4a0a869e"
+ }
+}

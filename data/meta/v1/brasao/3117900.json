@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3117900",
+ "uf": "MG",
+ "municipio": "Congonhal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bras%C3%A3o_de_Congonhal_Oficial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "João Vitor Ferreira Gomes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8213d063e268a70b0daad22fa94b6df3ed34e06db3444d9760ccdae4175132e4",
+ "rendicoes": {
+  "png": {
+   "bytes": 192036,
+   "sha256": "c9563c9517f1b8346aa7a2dd04135f8f50f1d25163ef913728d86ed08959265c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40643,
+   "sha256": "19c499f5595b7f61204d4ce8474c795dc495cbf44855fbd6b94da6bbdaf1f35c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3117900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3117900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3117900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3117900.jpg",
+  "bytes": 78199,
+  "sha256": "8213d063e268a70b0daad22fa94b6df3ed34e06db3444d9760ccdae4175132e4"
+ },
+ "sha1_origem": "4d5d54be364faf8261dcdb2ffca98783431bf33d",
+ "bytes_origem": 78199,
+ "capturado_em": "2026-11-08T06:04:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Congonhal_Oficial.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "4d5d54be364faf8261dcdb2ffca98783431bf33d"
+ }
+}

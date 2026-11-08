@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5106158",
+ "uf": "MT",
+ "municipio": "Nova Bandeirantes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bras%C3%A3o_Nova_Bandeirantes_MT.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Nova Bandeirantes_MT",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2a00caf3b5b8abd39a8934d28c5d608b1391801528d3b4845e7b69bcd1684102",
+ "rendicoes": {
+  "png": {
+   "bytes": 33331,
+   "sha256": "fd88e96b9e1be1389056421cf3cefbee7b4eb30292d88ea24484f2c074475e93",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7678,
+   "sha256": "48daeab47c2eceed67add6957c03b70f512a43f43f3111ee5342040cab3351b8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5106158.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5106158.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5106158.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5106158.png",
+  "bytes": 13621,
+  "sha256": "2a00caf3b5b8abd39a8934d28c5d608b1391801528d3b4845e7b69bcd1684102"
+ },
+ "sha1_origem": "115b7f824642b52ec84f337493f02a0ce21fa8e7",
+ "bytes_origem": 13621,
+ "capturado_em": "2026-11-08T07:15:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Nova_Bandeirantes_MT.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "115b7f824642b52ec84f337493f02a0ce21fa8e7"
+ }
+}

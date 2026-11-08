@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3171204",
+ "uf": "MG",
+ "municipio": "Vespasiano",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bras%C3%A3o_de_Vespasiano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cidade de Vespasiano",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2c10029899887f143ed8aca6f7eedec53827fcdaca9fbd0fd39edfb0a4ba17b5",
+ "rendicoes": {
+  "png": {
+   "bytes": 214039,
+   "sha256": "5ffe37998e532a6cfa83bb79b97cb8e0497ce10895c108adb4e542b8cd59b219",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44490,
+   "sha256": "b8ffe46d3edf46687338a856eea548e49c42d5de407703505666fa16ef049192",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3171204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3171204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3171204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3171204.jpg",
+  "bytes": 71942,
+  "sha256": "2c10029899887f143ed8aca6f7eedec53827fcdaca9fbd0fd39edfb0a4ba17b5"
+ },
+ "sha1_origem": "420e4c6eb5e639ad70b8f2011139ac33772670c7",
+ "bytes_origem": 71942,
+ "capturado_em": "2026-11-08T06:18:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Vespasiano.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "420e4c6eb5e639ad70b8f2011139ac33772670c7"
+ }
+}

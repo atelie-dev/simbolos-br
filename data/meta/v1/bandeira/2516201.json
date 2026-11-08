@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2516201",
+ "uf": "PB",
+ "municipio": "Sousa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bandeira_de_Sousa.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Sousa",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "68ae44e6064654c2fd8ae025b6d725c3a632acab66400dca5c329e492f3e2473",
+ "rendicoes": {
+  "png": {
+   "bytes": 36403,
+   "sha256": "08423ef7d7f5f3ed02161ab09b74a24039e797c908d4e01149c851f2d72dc58a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20066,
+   "sha256": "7cfdffb7a963d4c8ad6973970bac991c6f7da3edd8cf75f604d6a6bac02eb827",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 7297,
+   "sha256": "68ae44e6064654c2fd8ae025b6d725c3a632acab66400dca5c329e492f3e2473"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2516201.jpg"
+ },
+ "sha1_origem": "c3bc7c3a844b278e0248d192a5f5d2eee4f070b9",
+ "bytes_origem": 7297,
+ "capturado_em": "2026-11-08T03:03:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Sousa.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "c3bc7c3a844b278e0248d192a5f5d2eee4f070b9"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3137403",
+ "uf": "MG",
+ "municipio": "Lagoa Dourada",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bandeira_de_Lagoa_Dourada%2C_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Eduardo Resende",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "532cf14f252d37295f35841233d8f1e98ebe24fddd3feff4bfa25e974ad02518",
+ "rendicoes": {
+  "png": {
+   "bytes": 38286,
+   "sha256": "dd32b6fb515d72932e0cc13f5f197fe58618bb2ffaa1a9883f8da865e08e23c0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11772,
+   "sha256": "51a15a4a6777cb581f0f2389968d9b9f5f7101c43bebe833bf73cfda32fdf23d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3137403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3137403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3137403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3137403.jpg",
+  "bytes": 182434,
+  "sha256": "532cf14f252d37295f35841233d8f1e98ebe24fddd3feff4bfa25e974ad02518"
+ },
+ "sha1_origem": "bbd3cf2b3194da8b6c27e6209cd5b15436d1a0b3",
+ "bytes_origem": 182434,
+ "capturado_em": "2026-11-08T06:10:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Lagoa_Dourada,_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "bbd3cf2b3194da8b6c27e6209cd5b15436d1a0b3"
+ }
+}

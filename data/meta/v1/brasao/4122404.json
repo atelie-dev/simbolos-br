@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4122404",
+ "uf": "PR",
+ "municipio": "Rolândia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bras%C3%A3o_de_Rol%C3%A2ndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Rolândia.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "428a249f2e00d5095e16a05daf139ec09288e2dcb79c7974728dd6cd5bfaf102",
+ "rendicoes": {
+  "png": {
+   "bytes": 313335,
+   "sha256": "2024aeaa7f4b341ba5b49bf646b68a1c14dd0f9098d25a7416956261a64ef7b2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 64675,
+   "sha256": "546641246a7f4596aaca9064bb1daea3a20ae0485a666adb36da049f8d425125",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4122404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4122404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4122404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4122404.jpg",
+  "bytes": 236558,
+  "sha256": "428a249f2e00d5095e16a05daf139ec09288e2dcb79c7974728dd6cd5bfaf102"
+ },
+ "sha1_origem": "27a5d2d79864bcd198cbaa9ed95540b05eee20f7",
+ "bytes_origem": 236558,
+ "capturado_em": "2026-11-08T06:49:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Rolândia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "27a5d2d79864bcd198cbaa9ed95540b05eee20f7"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2503704",
+ "uf": "PB",
+ "municipio": "Cajazeiras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bandeira_de_cajazeiras.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "User: Tancredo Fernandes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "58c74853a60eb820a5608e26e49216458c24aa4b228189b43b0a43d4e9e7ce95",
+ "rendicoes": {
+  "png": {
+   "bytes": 35327,
+   "sha256": "c31405203cf735c0f66f3a47c440450b0a5137c5ffe146516110dca11b3f1965",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23417,
+   "sha256": "c7fa198f81d0d0af465ff8e72ae5854539fa92ee0709fcc72570fc035828cfd6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2503704.jpg",
+  "bytes": 110598,
+  "sha256": "58c74853a60eb820a5608e26e49216458c24aa4b228189b43b0a43d4e9e7ce95"
+ },
+ "sha1_origem": "80c75f55a5ccb7ca15fe4152137a08bc20fcfde7",
+ "bytes_origem": 110598,
+ "capturado_em": "2026-11-08T05:40:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_cajazeiras.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "80c75f55a5ccb7ca15fe4152137a08bc20fcfde7"
+ }
+}

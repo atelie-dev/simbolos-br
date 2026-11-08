@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3204302",
+ "uf": "ES",
+ "municipio": "Presidente Kennedy",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Brasao_PMPK2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Avilio01",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "994ddd09cc8f1d10d7a0f59b87d04cedd41ed7e56926a42b2eaff75db22c39f1",
+ "rendicoes": {
+  "png": {
+   "bytes": 104965,
+   "sha256": "a3094530673346b9adeff04727be602552af7748dda058cf2228166249e82dd6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22442,
+   "sha256": "b81897b685359217dedeeb161b976d63e8edd1f4412de29e50f3dadb695fd026",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3204302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3204302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3204302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3204302.jpg",
+  "bytes": 58560,
+  "sha256": "994ddd09cc8f1d10d7a0f59b87d04cedd41ed7e56926a42b2eaff75db22c39f1"
+ },
+ "sha1_origem": "d3aa9bfc58feb3f85d96e7f60a4a3accfbf5294e",
+ "bytes_origem": 58560,
+ "capturado_em": "2026-11-08T06:20:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_PMPK2009.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "d3aa9bfc58feb3f85d96e7f60a4a3accfbf5294e"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1200708",
+ "uf": "AC",
+ "municipio": "Xapuri",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Brasao-xapuri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Xapuri City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c7552d6bbfd6d04c68b90633314c15cc56089086dda34c3fc0928b309bc1e7cb",
+ "rendicoes": {
+  "png": {
+   "bytes": 17867,
+   "sha256": "fb014c472961947c2702b523349271230aeb9e1c049291a920c56daf1f74f21b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6755,
+   "sha256": "d93cd2ea343fd0c2b2bd5b72d2ecf798a19941b66b327e16c95ff0884c5c7d4f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1200708.jpg",
+  "bytes": 32002,
+  "sha256": "c7552d6bbfd6d04c68b90633314c15cc56089086dda34c3fc0928b309bc1e7cb"
+ },
+ "sha1_origem": "cdf8b2704415bfb1108b884c958e8f61c8b51835",
+ "bytes_origem": 32002,
+ "capturado_em": "2026-11-08T05:22:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-xapuri.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "cdf8b2704415bfb1108b884c958e8f61c8b51835"
+ }
+}

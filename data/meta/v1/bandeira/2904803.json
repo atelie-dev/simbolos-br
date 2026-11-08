@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2904803",
+ "uf": "BA",
+ "municipio": "Caatiba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bandeira_caatiba.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Tiago José Soares Silva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "36341b08ba4f13d9fab23bd220636163483acdb0eb6381436a0f532cb13a99a1",
+ "rendicoes": {
+  "png": {
+   "bytes": 62133,
+   "sha256": "e61d32add5fc4f3edec2b8f60718cc44557432b56eecd35903d9dee5d02a1066",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17274,
+   "sha256": "e9327b0af84d7f6e7f5d967476fe10724a8c976c2ce2977a6a9607e1136edece",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2904803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2904803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2904803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2904803.jpg",
+  "bytes": 22307,
+  "sha256": "36341b08ba4f13d9fab23bd220636163483acdb0eb6381436a0f532cb13a99a1"
+ },
+ "sha1_origem": "517bdab8ae8a908dbd64fd44eacbfd6d90db7601",
+ "bytes_origem": 22307,
+ "capturado_em": "2026-11-08T05:51:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_caatiba.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "517bdab8ae8a908dbd64fd44eacbfd6d90db7601"
+ }
+}

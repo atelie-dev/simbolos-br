@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4203709",
+ "uf": "SC",
+ "municipio": "Canelinha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Brasao_canelinha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Canelinha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "068de689a8303ae2dd9072f646ed28d78733596ed6bb4142e71b4d0f086a9c79",
+ "rendicoes": {
+  "png": {
+   "bytes": 131799,
+   "sha256": "6d37764208be090326f12ffeb9752e58ab06c9c25d3e9365c93d5c6ef5816c81",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 51258,
+   "sha256": "933a13d18f17426e259a8daf65b592cdb03084e30550594a66ad64c5395eda92",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4203709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4203709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4203709.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4203709.jpg",
+  "bytes": 2287275,
+  "sha256": "068de689a8303ae2dd9072f646ed28d78733596ed6bb4142e71b4d0f086a9c79"
+ },
+ "sha1_origem": "d058e3c5cf4e1965c7e95a8b0937e579a24bd2ae",
+ "bytes_origem": 2287275,
+ "capturado_em": "2026-11-08T06:52:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_canelinha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:36Z",
+  "estado": "igual",
+  "sha1_commons": "d058e3c5cf4e1965c7e95a8b0937e579a24bd2ae"
+ }
+}

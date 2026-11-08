@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3526308",
+ "uf": "SP",
+ "municipio": "Lagoinha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lagoinha_brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d261852a1fe39a03bcfe6fca0a94522a6f53f638044c195056fbed2fc2d60ee3",
+ "rendicoes": {
+  "png": {
+   "bytes": 32871,
+   "sha256": "bd853e582204201670cf7f00330e999b46f2116634d241b89e7507b7dded727a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14033,
+   "sha256": "b4be5d84e423496aba6a3352b75a00fe290a432a1f75d51090710341f7e16ed6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3526308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3526308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3526308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3526308.png",
+  "bytes": 9518,
+  "sha256": "d261852a1fe39a03bcfe6fca0a94522a6f53f638044c195056fbed2fc2d60ee3"
+ },
+ "sha1_origem": "0df548eed3931169f345c6830d04eb45eedcad3d",
+ "bytes_origem": 9518,
+ "capturado_em": "2026-11-08T06:31:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Lagoinha_brasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "0df548eed3931169f345c6830d04eb45eedcad3d"
+ }
+}

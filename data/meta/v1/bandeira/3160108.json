@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3160108",
+ "uf": "MG",
+ "municipio": "Santo Antônio do Grama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Flag_of_Santo_Ant%C3%B4nio_do_Grama_-_MG_-_Brazil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pcgomes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cdd8565ba63bc5f1ce273c2265f878c3d302afc97e04ae83a4d95c0b3d68a614",
+ "rendicoes": {
+  "png": {
+   "bytes": 98732,
+   "sha256": "0ef26f950753f13ee1ca8bd64e680362d51711c8c6f0adb7e5c3d40ee6bc7b64",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32278,
+   "sha256": "37b305472bf25fe84cb2ab5b55cf4d5676571a8575afaef6134cc1370590f3e5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3160108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3160108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3160108.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3160108.png",
+  "bytes": 134704,
+  "sha256": "cdd8565ba63bc5f1ce273c2265f878c3d302afc97e04ae83a4d95c0b3d68a614"
+ },
+ "sha1_origem": "b1bebbb521819b162796b5080c7e9eaf7de15c98",
+ "bytes_origem": 134704,
+ "capturado_em": "2026-11-08T06:15:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Santo_Antônio_do_Grama_-_MG_-_Brazil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "b1bebbb521819b162796b5080c7e9eaf7de15c98"
+ }
+}

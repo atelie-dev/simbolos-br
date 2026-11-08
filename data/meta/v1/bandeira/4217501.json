@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4217501",
+ "uf": "SC",
+ "municipio": "Seara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bandeira_do_munic%C3%ADpio_de_Seara_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Seara (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cc8f874a1086c7f62a9605868391f13410ac5ba0c25322179478e0df3f3ae5df",
+ "rendicoes": {
+  "png": {
+   "bytes": 87862,
+   "sha256": "1670c23b51cceca4004229ba97c5415872ae82e8d66faf7e8139d2689582f401",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37736,
+   "sha256": "64ba6b5c98cc0ce83139c7c7c4177bfc441accce44b88c52398e1393b45b1ea6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4217501.png",
+  "bytes": 3577104,
+  "sha256": "cc8f874a1086c7f62a9605868391f13410ac5ba0c25322179478e0df3f3ae5df"
+ },
+ "sha1_origem": "30539af18ebea0b84828164ba7d14c4a814825e6",
+ "bytes_origem": 3577104,
+ "capturado_em": "2026-11-08T06:57:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Seara_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "30539af18ebea0b84828164ba7d14c4a814825e6"
+ }
+}

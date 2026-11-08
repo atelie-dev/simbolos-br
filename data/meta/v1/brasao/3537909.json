@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3537909",
+ "uf": "SP",
+ "municipio": "Pilar do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Bras%C3%A3o_Pilar_do_Sul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Domínio Público",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "87a4ae8293449d867268d7110885c50600cb82148e64aec4b5e581c3a7b1e2fb",
+ "rendicoes": {
+  "png": {
+   "bytes": 236978,
+   "sha256": "f1428c07685bc2e1ca0b80173420455b9219f72c8dbbae8be3196463b693aea5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42168,
+   "sha256": "148fc42f30447f2f585ba4345c284f492e986eef1277f995c8c0db3b852d9373",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3537909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3537909.jpg",
+  "bytes": 47064,
+  "sha256": "87a4ae8293449d867268d7110885c50600cb82148e64aec4b5e581c3a7b1e2fb"
+ },
+ "sha1_origem": "e4fe646bc6cdd63fe75f015c537b0611e31f13ad",
+ "bytes_origem": 47064,
+ "capturado_em": "2026-11-08T06:34:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Pilar_do_Sul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "e4fe646bc6cdd63fe75f015c537b0611e31f13ad"
+ }
+}

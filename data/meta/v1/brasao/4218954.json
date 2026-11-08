@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4218954",
+ "uf": "SC",
+ "municipio": "Urupema",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bras%C3%A3o_Municipal_de_Urupema.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Urupema",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8125bbb257aa57c98557728aaeaaca92394e3a9b2efc91b1dfd8bd29a0a3ffc2",
+ "rendicoes": {
+  "png": {
+   "bytes": 310660,
+   "sha256": "5078473e09e9128172aa71f2920dba63621f7eb11f2ccaf723b3409df84b875d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 52969,
+   "sha256": "31c4562baf6249eab8b2cbf04e1061481396b4fa00305b39d44f4237a9b5fc84",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4218954.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4218954.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4218954.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4218954.png",
+  "bytes": 333597,
+  "sha256": "8125bbb257aa57c98557728aaeaaca92394e3a9b2efc91b1dfd8bd29a0a3ffc2"
+ },
+ "sha1_origem": "949768d399aff6679b6c19108eb78f70f22347dc",
+ "bytes_origem": 333597,
+ "capturado_em": "2026-11-08T06:58:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Municipal_de_Urupema.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "949768d399aff6679b6c19108eb78f70f22347dc"
+ }
+}

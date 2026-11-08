@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3109501",
+ "uf": "MG",
+ "municipio": "Cabo Verde",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Brasao_de_Cabo_Verde_%28Minas_Gerais%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Ludovicus Veridicus",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "761b0a56bbdaf849e4db63987b1ecb820bf146bcdb4962f46216b8c516faab11",
+ "rendicoes": {
+  "png": {
+   "bytes": 159990,
+   "sha256": "7343a510031cd478624e2006e9d64b5b92b69dfee96209abdc77f3e89552f2ad",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 64184,
+   "sha256": "30731054a8f05833f51e8ded715a81a83178489d851b94087919dd1b78f00d55",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 344046,
+   "sha256": "761b0a56bbdaf849e4db63987b1ecb820bf146bcdb4962f46216b8c516faab11"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3109501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3109501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3109501.jpg"
+ },
+ "sha1_origem": "71bbd4cb0eb165203b12321639cf8166ff421d62",
+ "bytes_origem": 344046,
+ "capturado_em": "2026-11-08T03:28:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_de_Cabo_Verde_(Minas_Gerais).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "71bbd4cb0eb165203b12321639cf8166ff421d62"
+ }
+}

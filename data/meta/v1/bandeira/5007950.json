@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5007950",
+ "uf": "MS",
+ "municipio": "Tacuru",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Tacuru.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Giro720",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ef5d79ac502f3c483ec01f1ee0d70160a0143c7a291de05c98ea09d0b94e1347",
+ "rendicoes": {
+  "png": {
+   "bytes": 19286,
+   "sha256": "5e4bf0b77846055d94dcb223146289f4566d89ce38e2b0ba5ce7efada91ff454",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15220,
+   "sha256": "0bca274f9bd2566c80a064eac64c0e65fd01c0c73a1530a9a556e8deb0bc7c03",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 846,
+   "sha256": "ef5d79ac502f3c483ec01f1ee0d70160a0143c7a291de05c98ea09d0b94e1347"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5007950.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5007950.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5007950.jpg"
+ },
+ "sha1_origem": "65877f6dc09aa7207f949039023ea4ec07d91bed",
+ "bytes_origem": 846,
+ "capturado_em": "2026-11-08T05:04:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Tacuru.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "65877f6dc09aa7207f949039023ea4ec07d91bed"
+ }
+}

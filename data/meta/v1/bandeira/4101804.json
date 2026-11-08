@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4101804",
+ "uf": "PR",
+ "municipio": "Araucária",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bandeira_araucaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f3c5e4ba594f4c829b1267e300cfc4d546a3fe9a45f2cb084b4e043013209501",
+ "rendicoes": {
+  "png": {
+   "bytes": 69498,
+   "sha256": "f78e3c0e35e0f40d9de70304a095f414f6de0a9c37723666d812d6f3bf23e15c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16968,
+   "sha256": "862655abdc4eb45e5da5da82e2b45cd701e0dab453b2728839fd0a606e57ea09",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4101804.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4101804.jpg",
+  "bytes": 67667,
+  "sha256": "f3c5e4ba594f4c829b1267e300cfc4d546a3fe9a45f2cb084b4e043013209501"
+ },
+ "sha1_origem": "ce0e8b2ba2cce672e6381e463ad7e4fd91073437",
+ "bytes_origem": 67667,
+ "capturado_em": "2026-11-08T06:41:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_araucaria.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "ce0e8b2ba2cce672e6381e463ad7e4fd91073437"
+ }
+}

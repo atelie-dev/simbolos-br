@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4300307",
+ "uf": "RS",
+ "municipio": "Alecrim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bandeira_Alecrim.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Alecrim",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ab17ed3ebe1d47148a412420c4c91a60429454964cb4fbcc40a71cbff945d0d7",
+ "rendicoes": {
+  "png": {
+   "bytes": 169218,
+   "sha256": "9b883fdbf98e7533f993080fb50186973a50a9345196d598ed1e0b64408cb299",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23432,
+   "sha256": "114030366d06aa1a2d67f75650002eab3d1786fa21bbd83effc09f707eb8814b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4300307.jpg",
+  "bytes": 41644,
+  "sha256": "ab17ed3ebe1d47148a412420c4c91a60429454964cb4fbcc40a71cbff945d0d7"
+ },
+ "sha1_origem": "a927b1e33cadabec7cec3d68620802d000889c33",
+ "bytes_origem": 41644,
+ "capturado_em": "2026-11-08T06:58:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Alecrim.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "a927b1e33cadabec7cec3d68620802d000889c33"
+ }
+}

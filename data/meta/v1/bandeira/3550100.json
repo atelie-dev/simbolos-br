@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3550100",
+ "uf": "SP",
+ "municipio": "São Manuel",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_sao_manuel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "autor desconhecido",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9143dc5662f3faadf3e6511cac09c34474bb562e417d4ccf412a34e6ab6b1473",
+ "rendicoes": {
+  "png": {
+   "bytes": 9553,
+   "sha256": "b8bf23709addba964a45cbc4ac99e7fdab460cf8ed8f7523b3143923619caaa4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4709,
+   "sha256": "991e2ad0fa18ca385ed00eb3085ba42419d47612f540e7df4651c691108f2867",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3550100.jpg",
+  "bytes": 23515,
+  "sha256": "9143dc5662f3faadf3e6511cac09c34474bb562e417d4ccf412a34e6ab6b1473"
+ },
+ "sha1_origem": "fb738b3db7d047148edda7d72a862799ea8803c0",
+ "bytes_origem": 23515,
+ "capturado_em": "2026-11-08T06:38:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_sao_manuel.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "fb738b3db7d047148edda7d72a862799ea8803c0"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3119005",
+ "uf": "MG",
+ "municipio": "Cordislândia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Cordisl%C3%A2ndiamgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cordislândia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "639a8d40c0bd469a1f18ef6387d3393cbfdb025bb0a69add3480db900d1b2e8b",
+ "rendicoes": {
+  "png": {
+   "bytes": 45007,
+   "sha256": "e53d4b9f349fb057199e0c6a4a2a9c764b8cda89ada10f8db3b19d75cd700fe5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10082,
+   "sha256": "85b525dc6ebcc09b765953745f7bdc641a80c16fabcab3d67e8e0b0771df920f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3119005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3119005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3119005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3119005.jpg",
+  "bytes": 5791,
+  "sha256": "639a8d40c0bd469a1f18ef6387d3393cbfdb025bb0a69add3480db900d1b2e8b"
+ },
+ "sha1_origem": "a787283f3f8bc22bb883b49eea95f2cd6a05259b",
+ "bytes_origem": 5791,
+ "capturado_em": "2026-11-08T06:04:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cordislândiamgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "a787283f3f8bc22bb883b49eea95f2cd6a05259b"
+ }
+}

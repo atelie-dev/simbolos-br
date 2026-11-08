@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2111201",
+ "uf": "MA",
+ "municipio": "São José de Ribamar",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bras%C3%A3o_de_S%C3%A3o_Jos%C3%A9_de_Ribamar%2C_Maranhao%2C_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "SLRTDM",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "08e8a9360af8546d0de8b40102ec41880d52cdcf99780db6053bed75550e9d28",
+ "rendicoes": {
+  "png": {
+   "bytes": 115071,
+   "sha256": "538abbc8cf950cb882b017d08176e72835bae308084156d6346dcdb736d9fa6e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35636,
+   "sha256": "a4c68a38f465a35888bb5a1d49c3b94dbbe2fafbebe15cd105f12f22f4d66c59",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2111201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2111201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2111201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2111201.jpg",
+  "bytes": 48107,
+  "sha256": "08e8a9360af8546d0de8b40102ec41880d52cdcf99780db6053bed75550e9d28"
+ },
+ "sha1_origem": "10d71928a9ac3deee7f195b75112685cebee70e2",
+ "bytes_origem": 48107,
+ "capturado_em": "2026-11-08T05:29:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_José_de_Ribamar,_Maranhao,_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:12Z",
+  "estado": "igual",
+  "sha1_commons": "10d71928a9ac3deee7f195b75112685cebee70e2"
+ }
+}

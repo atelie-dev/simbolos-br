@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211405",
+ "uf": "SC",
+ "municipio": "Nova Erechim",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bras%C3%A3o_Nova_Erechim.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "064e52ca751cffb68c294c25e38410f499ba405f76984ca93afa62548cfc2a77",
+ "rendicoes": {
+  "png": {
+   "bytes": 17783,
+   "sha256": "8a74ebd4b42b9208f205fc847b09c47eaa6d5e7b8217df42b9ef9c9a311cbe53",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6250,
+   "sha256": "808fdc808dd3a9238e13e02ffadeef212ab37d31417662e64f9d96b3c78f5490",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4211405.png",
+  "bytes": 17328,
+  "sha256": "064e52ca751cffb68c294c25e38410f499ba405f76984ca93afa62548cfc2a77"
+ },
+ "sha1_origem": "2fd65f62b2b2bd414fd064558f1fafeb0151b373",
+ "bytes_origem": 17328,
+ "capturado_em": "2026-11-08T06:55:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Nova_Erechim.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "2fd65f62b2b2bd414fd064558f1fafeb0151b373"
+ }
+}

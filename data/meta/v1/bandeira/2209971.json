@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2209971",
+ "uf": "PI",
+ "municipio": "São João do Arraial",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bras%C3%A3o_de_S%C3%A3o_Jo%C3%A3o_do_Arraial.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3120c765db1642921919498f6d2993772964bb5f50af304cc52e8410f454fdf4",
+ "rendicoes": {
+  "png": {
+   "bytes": 23553,
+   "sha256": "699ae948b8f11d777f6ce4b9118ee40cb484c5b417b369fdd939edc2f9921370",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15426,
+   "sha256": "5e2a62d5ad1403bcd5af6cf1ee0cc41e840c5cd3f35acc5963f616362309ebe2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2209971.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2209971.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2209971.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2209971.png",
+  "bytes": 81465,
+  "sha256": "3120c765db1642921919498f6d2993772964bb5f50af304cc52e8410f454fdf4"
+ },
+ "sha1_origem": "3739c5daa375d89cdff82a1e1c16ce7714e43771",
+ "bytes_origem": 81465,
+ "capturado_em": "2026-11-08T05:31:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_João_do_Arraial.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:12Z",
+  "estado": "igual",
+  "sha1_commons": "3739c5daa375d89cdff82a1e1c16ce7714e43771"
+ }
+}

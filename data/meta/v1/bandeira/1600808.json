@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1600808",
+ "uf": "AP",
+ "municipio": "Vitória do Jari",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bandeira_de_Vit%C3%B3ria_do_Jari_-_AP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1f4f5d7ffd02f8da12038c36f1b723bdda634c48841929a6eecab402505f7e28",
+ "rendicoes": {
+  "png": {
+   "bytes": 28641,
+   "sha256": "e2f3a38212956c136b2704054a3175d316185179f12dd11b89c7689d16bf4fe3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17644,
+   "sha256": "68a394df22672d73a9765c8f60279140525219e3d75bda663f3882ca3597d343",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 4244,
+   "sha256": "1f4f5d7ffd02f8da12038c36f1b723bdda634c48841929a6eecab402505f7e28"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600808.jpg"
+ },
+ "sha1_origem": "38d42a5d303b27a347987fd9c31390228e0eb397",
+ "bytes_origem": 4244,
+ "capturado_em": "2026-11-08T02:35:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Vitória_do_Jari_-_AP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "38d42a5d303b27a347987fd9c31390228e0eb397"
+ }
+}

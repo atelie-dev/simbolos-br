@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314506",
+ "uf": "RS",
+ "municipio": "Pinheiro Machado",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bras%C3%A3o_de_Pinheiro_Machado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pinheiro Machado",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2bcb02fb6ddfb2f1f38307f9a7541bb1e81408462a909d038f7fd9084a0dd857",
+ "rendicoes": {
+  "png": {
+   "bytes": 199493,
+   "sha256": "b82b18d6a45633f80df9564f0e809dbcac2376a6f82095023c17248c0baa45d8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33449,
+   "sha256": "8c40b54d408127276bcc2572ef56a1eb083ef327ea1df43e7700ff5045c0a73c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4314506.jpg",
+  "bytes": 32801,
+  "sha256": "2bcb02fb6ddfb2f1f38307f9a7541bb1e81408462a909d038f7fd9084a0dd857"
+ },
+ "sha1_origem": "b83f71064ac64ab88ab1e71346cce2e9f89f81dc",
+ "bytes_origem": 32801,
+ "capturado_em": "2026-11-08T07:07:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Pinheiro_Machado.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:09Z",
+  "estado": "igual",
+  "sha1_commons": "b83f71064ac64ab88ab1e71346cce2e9f89f81dc"
+ }
+}

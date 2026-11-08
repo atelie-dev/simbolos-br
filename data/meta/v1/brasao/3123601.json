@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3123601",
+ "uf": "MG",
+ "municipio": "Elói Mendes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bras%C3%A3o_de_El%C3%B3i_Mendes%2C_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Elói Mendes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dc7aac25f574d39b8d02ac1c89cba3ee9fa468741fe686f3f47d7d5fa99c100b",
+ "rendicoes": {
+  "png": {
+   "bytes": 282621,
+   "sha256": "8e7a6e5ea7af830a010ab65d8fa45c4336d0f3ec248207af289c2842b87f795f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53845,
+   "sha256": "304f25a43962ac128f0973674c94eff2019e1392b7793d267f3faf9d10a5aaca",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3123601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3123601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3123601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3123601.jpg",
+  "bytes": 50399,
+  "sha256": "dc7aac25f574d39b8d02ac1c89cba3ee9fa468741fe686f3f47d7d5fa99c100b"
+ },
+ "sha1_origem": "86aecdfd2c011c57cde3cb56f27406d764ed68ec",
+ "bytes_origem": 50399,
+ "capturado_em": "2026-11-08T06:06:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Elói_Mendes,_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "86aecdfd2c011c57cde3cb56f27406d764ed68ec"
+ }
+}

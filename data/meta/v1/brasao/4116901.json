@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4116901",
+ "uf": "PR",
+ "municipio": "Nova Esperança",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bras%C3%A3o_Nova_Esperan%C3%A7a%2C_PR%2C_Brazil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Hélio de Moraes Barbosa",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3f8bebbd291fd05d8652e7da452ecfe52b434849b47d7978dfa0834d208e0fb7",
+ "rendicoes": {
+  "png": {
+   "bytes": 138934,
+   "sha256": "622623932f79abd97b9e978f304ab01986b6e092e19424b302e2f5040c0ef1df",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39862,
+   "sha256": "a7b4346e620d5b3610ce81a2b00aa94fad38c52a447486ed836989d95721b8df",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4116901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4116901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4116901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4116901.png",
+  "bytes": 64761,
+  "sha256": "3f8bebbd291fd05d8652e7da452ecfe52b434849b47d7978dfa0834d208e0fb7"
+ },
+ "sha1_origem": "655a63fe822a6be8ba489046583ba2946bfbe18e",
+ "bytes_origem": 64761,
+ "capturado_em": "2026-11-08T06:46:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Nova_Esperança,_PR,_Brazil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "655a63fe822a6be8ba489046583ba2946bfbe18e"
+ }
+}

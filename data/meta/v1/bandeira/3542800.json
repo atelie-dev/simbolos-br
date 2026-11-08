@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3542800",
+ "uf": "SP",
+ "municipio": "Ribeira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bandeira_de_Ribeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ribeira",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "79e2349708f1645fa255397601635b1d9008830e4559f9cc22a0fa0a9f9e2641",
+ "rendicoes": {
+  "png": {
+   "bytes": 33513,
+   "sha256": "95642fc959625f8729f047f0c4ad6c592b63a677c8941178e8af3c791f0d75fc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9719,
+   "sha256": "a34b3ed372033ec961009da6afa9753a1fd43c8da8ef4b17074afe5ab82e70aa",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3542800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3542800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3542800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3542800.png",
+  "bytes": 28583,
+  "sha256": "79e2349708f1645fa255397601635b1d9008830e4559f9cc22a0fa0a9f9e2641"
+ },
+ "sha1_origem": "1de8c8f883ef962555bd6584661966eb6d7f0f70",
+ "bytes_origem": 28583,
+ "capturado_em": "2026-11-08T06:36:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ribeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "1de8c8f883ef962555bd6584661966eb6d7f0f70"
+ }
+}

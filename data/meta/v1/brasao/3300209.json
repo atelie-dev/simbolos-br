@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3300209",
+ "uf": "RJ",
+ "municipio": "Araruama",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/BrasaoDeArmasDeAraruama.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UnknownUnknown",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e176ee86f7abedf3dcf1ab5951e7d3180365e715dbbaf05e6c744a77323c4e61",
+ "rendicoes": {
+  "png": {
+   "bytes": 170434,
+   "sha256": "1e4b03326792674c6a54bb90c7d8db896d7a69bcac2b30fa9b6de3a9a39d61c3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47319,
+   "sha256": "58504bad2009022c30f4f20cc91b4704c1f1942571edc71bf0bd0f490dae5bd0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3300209.png",
+  "bytes": 142242,
+  "sha256": "e176ee86f7abedf3dcf1ab5951e7d3180365e715dbbaf05e6c744a77323c4e61"
+ },
+ "sha1_origem": "689491a5b37ec9521c50b0983ff4907f6763dc96",
+ "bytes_origem": 142242,
+ "capturado_em": "2026-11-08T06:20:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoDeArmasDeAraruama.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "689491a5b37ec9521c50b0983ff4907f6763dc96"
+ }
+}

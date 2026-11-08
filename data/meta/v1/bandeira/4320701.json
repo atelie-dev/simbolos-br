@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4320701",
+ "uf": "RS",
+ "municipio": "Sobradinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bandeira_de_Sobradinho_-_RS.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "12b6a76725d071f84f24e06c48cc8a5abbe6453008fb8e8eccd1336a39232033",
+ "rendicoes": {
+  "png": {
+   "bytes": 23867,
+   "sha256": "df158dede22ce1efb3ec31be448db99703838921253171c6ac031171905ff3c2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15926,
+   "sha256": "60f5e5cf2ecf83e7ffc5acf71838e17a1d343816c136d2a988bf05d19124d4a1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 420513,
+   "sha256": "12b6a76725d071f84f24e06c48cc8a5abbe6453008fb8e8eccd1336a39232033"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4320701.jpg"
+ },
+ "sha1_origem": "091b914c2ad2a26d10ecdc9c7b1db0aa46233718",
+ "bytes_origem": 420513,
+ "capturado_em": "2026-11-08T05:00:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Sobradinho_-_RS.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "091b914c2ad2a26d10ecdc9c7b1db0aa46233718"
+ }
+}

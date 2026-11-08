@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4208450",
+ "uf": "SC",
+ "municipio": "Itapoá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Bras%C3%A3o_de_Itapo%C3%A1_-_SC.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "36ca5b2810284382a1751b41275e90fe0f8cffa46912505a85a1e419f4392c29",
+ "rendicoes": {
+  "png": {
+   "bytes": 181702,
+   "sha256": "87ef69c3577c5bf4fc9af2e1ebf432d8a8297829a2098d80dc26f80448c6f825",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60331,
+   "sha256": "b83ef944bb995c988dd62f524d9735c63590751881091eab6f1ca90caf74ba35",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 365558,
+   "sha256": "36ca5b2810284382a1751b41275e90fe0f8cffa46912505a85a1e419f4392c29"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208450.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208450.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208450.jpg"
+ },
+ "sha1_origem": "53eed2bdfde24d9d51f3ddbb94cb7b3d566a162c",
+ "bytes_origem": 365558,
+ "capturado_em": "2026-11-08T04:40:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Itapoá_-_SC.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "53eed2bdfde24d9d51f3ddbb94cb7b3d566a162c"
+ }
+}

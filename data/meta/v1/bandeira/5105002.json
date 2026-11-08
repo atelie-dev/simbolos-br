@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5105002",
+ "uf": "MT",
+ "municipio": "Jauru",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Jauru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Weberson Grizoste",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a3efec97c4e23cb8098c31befd4e539f323ebc0b70cc566f8e9401f78535ac21",
+ "rendicoes": {
+  "png": {
+   "bytes": 55600,
+   "sha256": "51b17ea94aebc636c48a81371acf62d102df91d3c2089f22973c9cd194cdf36b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21239,
+   "sha256": "30ff065838a3fdb03fa0a5273f04e60b82a454482b657bd3228ba1f71190fef8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5105002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5105002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5105002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5105002.jpg",
+  "bytes": 43105,
+  "sha256": "a3efec97c4e23cb8098c31befd4e539f323ebc0b70cc566f8e9401f78535ac21"
+ },
+ "sha1_origem": "959c121bf317e0847d5ba5baec9dfeb1dc1043f3",
+ "bytes_origem": 43105,
+ "capturado_em": "2026-11-08T07:14:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Jauru.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "959c121bf317e0847d5ba5baec9dfeb1dc1043f3"
+ }
+}

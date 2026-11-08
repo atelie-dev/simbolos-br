@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4127007",
+ "uf": "PR",
+ "municipio": "Teixeira Soares",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bandeira_Teixeira_Soares.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Teixeira Soares, PR.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4731433c000dc1efe9e434a582039041c14650fb9e126fc8d0e742247378f4a5",
+ "rendicoes": {
+  "png": {
+   "bytes": 86348,
+   "sha256": "df8dbe6473d3a47ead1e69af87542568e44ad55a0826ef843c8a4daace9cc30b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17702,
+   "sha256": "48adcb72bf2e2b609bec6d675301a7d113767d141ebd905f581936067c2fc9c7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4127007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4127007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4127007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4127007.jpg",
+  "bytes": 13927,
+  "sha256": "4731433c000dc1efe9e434a582039041c14650fb9e126fc8d0e742247378f4a5"
+ },
+ "sha1_origem": "487bf2b5fe3680173277755d6fec76b1e410d31a",
+ "bytes_origem": 13927,
+ "capturado_em": "2026-11-08T06:50:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Teixeira_Soares.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "487bf2b5fe3680173277755d6fec76b1e410d31a"
+ }
+}

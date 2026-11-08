@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4203204",
+ "uf": "SC",
+ "municipio": "Camboriú",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bandeira_Camboriu_SantaCatarina_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Camboriú",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "14a97d9faa061ec785bbfe3f08b15c7340fe0b7f257f36ed7d61f4a0ff5ed9d3",
+ "rendicoes": {
+  "png": {
+   "bytes": 57898,
+   "sha256": "ffdfa70a71ca6f08dd7beab175a1e09de09253f6966c0ae16a6ff38a663892ef",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25370,
+   "sha256": "4d01f59169689a74444c33ee353976959558bd3a272836241b907060e612bf14",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2413876,
+   "sha256": "14a97d9faa061ec785bbfe3f08b15c7340fe0b7f257f36ed7d61f4a0ff5ed9d3"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203204.jpg"
+ },
+ "sha1_origem": "1ca01a9b8ccf8af8c42de481c60f4b1d01ca228b",
+ "bytes_origem": 2413876,
+ "capturado_em": "2026-11-08T04:37:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Camboriu_SantaCatarina_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "1ca01a9b8ccf8af8c42de481c60f4b1d01ca228b"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3300506",
+ "uf": "RJ",
+ "municipio": "Bom Jardim",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Brasao-bomjardim.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6bce9005e2625e030fcb29fe53d735b8ce9bffaf6401b848fe5d3e053cb98ff2",
+ "rendicoes": {
+  "png": {
+   "bytes": 28610,
+   "sha256": "5b497a437671b25218b58f723c983dd525aad0dc501447b4d40c69e367b9f8ab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8330,
+   "sha256": "13ed3636ab9862bbcc6258e605c374aa5fd23eb464e090f1de02ef20d868a89d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3300506.png",
+  "bytes": 25729,
+  "sha256": "6bce9005e2625e030fcb29fe53d735b8ce9bffaf6401b848fe5d3e053cb98ff2"
+ },
+ "sha1_origem": "3f6ec872686976a9081ef51b356efce0f17aa175",
+ "bytes_origem": 25729,
+ "capturado_em": "2026-11-08T06:20:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-bomjardim.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "3f6ec872686976a9081ef51b356efce0f17aa175"
+ }
+}

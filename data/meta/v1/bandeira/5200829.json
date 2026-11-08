@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5200829",
+ "uf": "GO",
+ "municipio": "Amaralina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bandeira_de_Amaralina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Amaralina",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0f95757246db70ca34ff3028b9dee9f5d2bf6b03df17531e91614829c9442dcd",
+ "rendicoes": {
+  "png": {
+   "bytes": 47772,
+   "sha256": "a23e9d609607a760a6512c2d47b2555fc05507e752f1db2d77d893779ef34fe8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15709,
+   "sha256": "fec0418ef4491539b0ae1b99346d6b18c84cf7b017050d5c5926b8bafdaae9da",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200829.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200829.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5200829.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5200829.jpg",
+  "bytes": 21133,
+  "sha256": "0f95757246db70ca34ff3028b9dee9f5d2bf6b03df17531e91614829c9442dcd"
+ },
+ "sha1_origem": "9a0a8cdfc5a8a725973657fd8d687fa61332359a",
+ "bytes_origem": 21133,
+ "capturado_em": "2026-11-08T07:16:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Amaralina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "9a0a8cdfc5a8a725973657fd8d687fa61332359a"
+ }
+}

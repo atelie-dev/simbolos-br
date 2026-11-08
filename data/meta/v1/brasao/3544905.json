@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3544905",
+ "uf": "SP",
+ "municipio": "Sales Oliveira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sales_Oliveira.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "655ad5b86d2634795fd99414035bfa8ffaec211c88e12b5d837e5831ee064cdf",
+ "rendicoes": {
+  "png": {
+   "bytes": 221381,
+   "sha256": "8bba4706931e7dbdd46ee643e389037e678a3a1c282583c148a7d6507b9382bb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47224,
+   "sha256": "490efa443d0182165f8eb3618db9c6c05c7c432f3824afc1a1f9de2d0e259f3b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3544905.png",
+  "bytes": 208318,
+  "sha256": "655ad5b86d2634795fd99414035bfa8ffaec211c88e12b5d837e5831ee064cdf"
+ },
+ "sha1_origem": "24952ed2285428c8c83cc139ea12555312c6d26e",
+ "bytes_origem": 208318,
+ "capturado_em": "2026-11-08T06:36:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Sales_Oliveira.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:36Z",
+  "estado": "igual",
+  "sha1_commons": "24952ed2285428c8c83cc139ea12555312c6d26e"
+ }
+}

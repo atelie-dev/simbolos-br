@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1200336",
+ "uf": "AC",
+ "municipio": "Mâncio Lima",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bandeira_Mancio_Lima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Mâncio Lima.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "94f024c21645f2b3ea40394d64bff52b087568a9c37ffc21385541c1bf5071aa",
+ "rendicoes": {
+  "png": {
+   "bytes": 14401,
+   "sha256": "c52e0391210ddcc7eea6d5b05382361a913b191cd2bf24bbfb2c811853839ce8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6181,
+   "sha256": "592575d2be4d2cb1d6fb7d4a0c66dd7a42f386d32442adb379520d7f010c3ed0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200336.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200336.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200336.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1200336.jpg",
+  "bytes": 30025,
+  "sha256": "94f024c21645f2b3ea40394d64bff52b087568a9c37ffc21385541c1bf5071aa"
+ },
+ "sha1_origem": "ba37bb31a280af9d5f2ecc75c9effca4c3167148",
+ "bytes_origem": 30025,
+ "capturado_em": "2026-11-08T05:22:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Mancio_Lima.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "ba37bb31a280af9d5f2ecc75c9effca4c3167148"
+ }
+}

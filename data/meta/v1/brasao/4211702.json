@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211702",
+ "uf": "SC",
+ "municipio": "Orleans",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bras%C3%A3o_do_munic%C3%ADpio_de_Orleans_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Orleans (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "aba1e818c844311004f78b99345903570c6c31c2812cfb1f8788f175ce89b72e",
+ "rendicoes": {
+  "png": {
+   "bytes": 199491,
+   "sha256": "6879a2ec39412ee63a57459538e6c7413f7f1da4edf19ffbcc5c4eadb175bbeb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 64765,
+   "sha256": "960762b5ecd0cd93e52c3791a7f24dc9b6f8155d051075fc43139b1b124409c0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4211702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4211702.png",
+  "bytes": 406901,
+  "sha256": "aba1e818c844311004f78b99345903570c6c31c2812cfb1f8788f175ce89b72e"
+ },
+ "sha1_origem": "06c02f7eb4b5297cfed208d94492d8431a7752c7",
+ "bytes_origem": 406901,
+ "capturado_em": "2026-11-08T06:55:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Orleans_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "06c02f7eb4b5297cfed208d94492d8431a7752c7"
+ }
+}

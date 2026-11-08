@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3541901",
+ "uf": "SP",
+ "municipio": "Queluz",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Queluz_brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Queluz",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "72954dd63e516bc652f0209a0e354dd8038ed967acee3b9b76a3e77621d4142e",
+ "rendicoes": {
+  "png": {
+   "bytes": 31207,
+   "sha256": "77a8a0daae82b9bc03bdf297147e1e642204bbeafcb4c1dbd662a1b88d4fe5ff",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12624,
+   "sha256": "b5cd5dd6b97fa1eb99c3ec95c378702211a8738dc66d0c54cdc32d11a0687833",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3541901.png",
+  "bytes": 9125,
+  "sha256": "72954dd63e516bc652f0209a0e354dd8038ed967acee3b9b76a3e77621d4142e"
+ },
+ "sha1_origem": "a1aeddd063eaf8a2624820c4ff95729b0af27066",
+ "bytes_origem": 9125,
+ "capturado_em": "2026-11-08T06:35:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Queluz_brasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "a1aeddd063eaf8a2624820c4ff95729b0af27066"
+ }
+}

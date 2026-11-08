@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5211701",
+ "uf": "GO",
+ "municipio": "Jandaia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bras%C3%A3o_de_Jandaia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Jandaia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "12307cce465c94e25703a94c303003fe988f5a658d9d5a73d5708f7abaf85b1b",
+ "rendicoes": {
+  "png": {
+   "bytes": 135781,
+   "sha256": "2f870bcd76bf64ad5a8380491329048d5d88eda9086f53391210a8e4b43836b7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24529,
+   "sha256": "0a152a88834bde50c935204dd3429434d3b7749c209d0ce0106d0105c4dd2ddb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5211701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5211701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5211701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5211701.jpg",
+  "bytes": 20348,
+  "sha256": "12307cce465c94e25703a94c303003fe988f5a658d9d5a73d5708f7abaf85b1b"
+ },
+ "sha1_origem": "29bdc4166a36f1d3552dc7141abdbe4af07610b8",
+ "bytes_origem": 20348,
+ "capturado_em": "2026-11-08T07:18:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Jandaia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "29bdc4166a36f1d3552dc7141abdbe4af07610b8"
+ }
+}

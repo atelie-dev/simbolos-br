@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4116307",
+ "uf": "PR",
+ "municipio": "Munhoz de Melo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandeira_Munhoz_de_Melo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "33e7b6bb30e9f006cde6fcf870b29f525950781c8407ace92cb9323634d45ee2",
+ "rendicoes": {
+  "png": {
+   "bytes": 105092,
+   "sha256": "64f32ff0656067c8cd4bb28f06d2dd2b4141ebd0f3e95149ab3b11077a690497",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25756,
+   "sha256": "88b64415e0786154253bcd5f6b0d0495c8637097dd806a417d47f008c79ddbc8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4116307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4116307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4116307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4116307.jpg",
+  "bytes": 34522,
+  "sha256": "33e7b6bb30e9f006cde6fcf870b29f525950781c8407ace92cb9323634d45ee2"
+ },
+ "sha1_origem": "42ce108a7441625d65cfde75870c4582f4d77198",
+ "bytes_origem": 34522,
+ "capturado_em": "2026-11-08T06:46:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Munhoz_de_Melo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "42ce108a7441625d65cfde75870c4582f4d77198"
+ }
+}

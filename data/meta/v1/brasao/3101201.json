@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3101201",
+ "uf": "MG",
+ "municipio": "Aiuruoca",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Aiuruocamgbrasoes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Aiuruoca",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1e8876a12ef31bbf5eb5484a69275f5333b7623bef7dcb44855aef26001d60fc",
+ "rendicoes": {
+  "png": {
+   "bytes": 82349,
+   "sha256": "fb9620c6a2e08869b65849bdc4eac41134912dd7d6211ae4d4231a7343a93ab7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19578,
+   "sha256": "075b7213ef80623b02d97f3384004a2931a6294488cec10dfcd341c508b1d748",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3101201.jpg",
+  "bytes": 25741,
+  "sha256": "1e8876a12ef31bbf5eb5484a69275f5333b7623bef7dcb44855aef26001d60fc"
+ },
+ "sha1_origem": "d8296f05609f1781d26afea5e20b68a5347d1ddb",
+ "bytes_origem": 25741,
+ "capturado_em": "2026-11-08T05:58:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Aiuruocamgbrasoes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "d8296f05609f1781d26afea5e20b68a5347d1ddb"
+ }
+}

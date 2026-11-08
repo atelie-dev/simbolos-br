@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3533403",
+ "uf": "SP",
+ "municipio": "Nova Odessa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Coat_of_Arms_of_Nova_Odessa_-_SP_-_Brazil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pcgomes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "52d4a4f1d4a9137926b52f402992829f2bd8c7dda0924d26584010a7613b04a1",
+ "rendicoes": {
+  "png": {
+   "bytes": 32546,
+   "sha256": "da78c54533b3a5750cb395249cd243fa387d36c1950576613a92b9d1e094fd65",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19655,
+   "sha256": "bf8fccba9beb5f00d82905572f1b3aaaf3de02e42c488ba31d918e146d252b75",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3533403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3533403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3533403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3533403.png",
+  "bytes": 29356,
+  "sha256": "52d4a4f1d4a9137926b52f402992829f2bd8c7dda0924d26584010a7613b04a1"
+ },
+ "sha1_origem": "23bad63108322ed8bcd84591f69ddb01f64ee91f",
+ "bytes_origem": 29356,
+ "capturado_em": "2026-11-08T06:33:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Coat_of_Arms_of_Nova_Odessa_-_SP_-_Brazil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:23Z",
+  "estado": "igual",
+  "sha1_commons": "23bad63108322ed8bcd84591f69ddb01f64ee91f"
+ }
+}

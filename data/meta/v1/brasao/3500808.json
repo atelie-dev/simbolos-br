@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3500808",
+ "uf": "SP",
+ "municipio": "Alfredo Marcondes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/10/BrasaoAlfredoMarcondes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Carlos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4410a437d805031992c488447cf0c2bb5090c3c04cab19c99ad61b19a1d66e66",
+ "rendicoes": {
+  "png": {
+   "bytes": 37879,
+   "sha256": "d99657e64d88a922734aa14c81cd034c16753ddb0a4ccbf25205da46d2c7b2f9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9898,
+   "sha256": "8f763de1415099950fca786b2ac9ca0f38b424151494aae817140f98d8e0d160",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3500808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3500808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3500808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3500808.jpg",
+  "bytes": 13930,
+  "sha256": "4410a437d805031992c488447cf0c2bb5090c3c04cab19c99ad61b19a1d66e66"
+ },
+ "sha1_origem": "b018180856ea8f5bde4af1eb0e24e4b5512142f8",
+ "bytes_origem": 13930,
+ "capturado_em": "2026-11-08T06:22:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoAlfredoMarcondes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "b018180856ea8f5bde4af1eb0e24e4b5512142f8"
+ }
+}

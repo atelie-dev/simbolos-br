@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2210904",
+ "uf": "PI",
+ "municipio": "Socorro do Piauí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bandeira_de_Socorro_do_Piau%C3%AD.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a3a968533a59e533514f0513f2e80723619025be0a49c8fd338a8b6d361bcb79",
+ "rendicoes": {
+  "png": {
+   "bytes": 36395,
+   "sha256": "e35985f17192fe42978e098e69ffd52b74fd37927721b287bdbcc2a4cda97028",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17679,
+   "sha256": "b1ae478be05a7432f8d58e292e86b6e5c230822f7762bb70cd691f0fd8f1d035",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2210904.png",
+  "bytes": 32411,
+  "sha256": "a3a968533a59e533514f0513f2e80723619025be0a49c8fd338a8b6d361bcb79"
+ },
+ "sha1_origem": "bd5debafc2f5eb28210672797501ebdcd4a432b4",
+ "bytes_origem": 32411,
+ "capturado_em": "2026-11-08T05:31:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Socorro_do_Piauí.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "bd5debafc2f5eb28210672797501ebdcd4a432b4"
+ }
+}

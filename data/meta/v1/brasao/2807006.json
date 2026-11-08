@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2807006",
+ "uf": "SE",
+ "municipio": "São Miguel do Aleixo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Brasao_sma.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Miguel do Aleixo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "74c88be80c81cfc128167eea54452e40ce101bebdc3193386413734bc745653f",
+ "rendicoes": {
+  "png": {
+   "bytes": 184876,
+   "sha256": "8ba8b1c91cdd818e14ea7ea66a028e0e17b6bb7cb50961608b2014cde769e63c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41831,
+   "sha256": "789b1beab1f9d61013e5e583a2c45029e90bbdd8348122d3fff5f1847bef1025",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2807006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2807006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2807006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2807006.png",
+  "bytes": 318807,
+  "sha256": "74c88be80c81cfc128167eea54452e40ce101bebdc3193386413734bc745653f"
+ },
+ "sha1_origem": "c54688cbc484293852b35465f25f72339e3fd5d8",
+ "bytes_origem": 318807,
+ "capturado_em": "2026-11-08T05:50:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_sma.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "c54688cbc484293852b35465f25f72339e3fd5d8"
+ }
+}

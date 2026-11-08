@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3533106",
+ "uf": "SP",
+ "municipio": "Nova Guataporanga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Brasao-novaguataporanga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Nova Guataporanga City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bdc320f457e9efe35d2faeef2303d9d22314dab27969b6f672e18eaf41f8733d",
+ "rendicoes": {
+  "png": {
+   "bytes": 52329,
+   "sha256": "2653e72031aeedf8c7db9eb09be9b18bcfa96b765608b6666848243d296e2ced",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12207,
+   "sha256": "ff86276a14b954d3a05b8d5944a27071828498b30dd700e8c347110e8c598b2a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3533106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3533106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3533106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3533106.jpg",
+  "bytes": 11701,
+  "sha256": "bdc320f457e9efe35d2faeef2303d9d22314dab27969b6f672e18eaf41f8733d"
+ },
+ "sha1_origem": "0f4800723bd92745823d165866cb408d9cf1cc03",
+ "bytes_origem": 11701,
+ "capturado_em": "2026-11-08T06:33:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-novaguataporanga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "0f4800723bd92745823d165866cb408d9cf1cc03"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3551504",
+ "uf": "SP",
+ "municipio": "Serrana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bandeira_Serrana.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c1e938e4cb85d84c77a3761c27d4755a004912492dd85ea075746f621a9520e1",
+ "rendicoes": {
+  "png": {
+   "bytes": 24021,
+   "sha256": "8e59d2d7bb5351a4bc170842a18c43081f54ef37579b74972666ef97ebe05a57",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15050,
+   "sha256": "7bf00f047ddc8d2b0317439fec08ded6c4427e93c4e22c21ed35d95303367b58",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3551504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3551504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3551504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3551504.png",
+  "bytes": 18655,
+  "sha256": "c1e938e4cb85d84c77a3761c27d4755a004912492dd85ea075746f621a9520e1"
+ },
+ "sha1_origem": "8daee37a0c0a8050bcab734ae49c273aa14fb612",
+ "bytes_origem": 18655,
+ "capturado_em": "2026-11-08T06:38:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Serrana.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "8daee37a0c0a8050bcab734ae49c273aa14fb612"
+ }
+}

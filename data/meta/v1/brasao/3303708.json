@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3303708",
+ "uf": "RJ",
+ "municipio": "Paraíba do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bras%C3%A3o_Para%C3%ADba_do_Sul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d40ebab9f88a8ecdb55f99cd3770f210135d807527024f84a2413e1931af8329",
+ "rendicoes": {
+  "png": {
+   "bytes": 325744,
+   "sha256": "540caab5f1bb2689d22d8909b6cab76a22817264cb541638a60c10ffe2b4e0af",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 57025,
+   "sha256": "0558f03bc28dfad28ac435a80410f742d7b0ab556913f242b3d6f2644436362b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3303708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3303708.jpg",
+  "bytes": 1462735,
+  "sha256": "d40ebab9f88a8ecdb55f99cd3770f210135d807527024f84a2413e1931af8329"
+ },
+ "sha1_origem": "51d093fd35740fd160baa9c8704872f4b8ab11ff",
+ "bytes_origem": 1462735,
+ "capturado_em": "2026-11-08T06:21:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Paraíba_do_Sul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "51d093fd35740fd160baa9c8704872f4b8ab11ff"
+ }
+}

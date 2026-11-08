@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3106101",
+ "uf": "MG",
+ "municipio": "Belmiro Braga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Flag_of_Belmiro_Braga.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Belmiro Braga",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "54d45ba8ced26645289a98d48ac560a9adbd859e73e8486f875954454c4fff39",
+ "rendicoes": {
+  "png": {
+   "bytes": 21333,
+   "sha256": "0b88f0c103dd6d2463c911b0f3623abb77ef8683f492760c33c25b946a4273db",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15252,
+   "sha256": "2a7e0eb6b4f578f6cb725efa34725df8df0d93f36cc2d9cf1a2fd44e82220878",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1688,
+   "sha256": "54d45ba8ced26645289a98d48ac560a9adbd859e73e8486f875954454c4fff39"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3106101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3106101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3106101.jpg"
+ },
+ "sha1_origem": "081402b9db1f55b9667c7e5e3165af21f65b5ccb",
+ "bytes_origem": 1688,
+ "capturado_em": "2026-11-08T03:27:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Belmiro_Braga.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "081402b9db1f55b9667c7e5e3165af21f65b5ccb"
+ }
+}

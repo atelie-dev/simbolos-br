@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3556453",
+ "uf": "SP",
+ "municipio": "Vargem Grande Paulista",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Brasao_VargemGrandePaulista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Vargem Grande Paulista",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8edaac999b97278aa07d3241e109fccc69432bd11714d41c669d46ddb49d9b78",
+ "rendicoes": {
+  "png": {
+   "bytes": 291142,
+   "sha256": "87fbfff4d990dc17a4684b520ed1432ffdd307517862943890594fef439d5468",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 51059,
+   "sha256": "9b0aa717dce737b64a6269449925d9b215abbd032d4c89fcc647af75de8e5ab1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556453.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556453.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556453.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3556453.jpg",
+  "bytes": 308424,
+  "sha256": "8edaac999b97278aa07d3241e109fccc69432bd11714d41c669d46ddb49d9b78"
+ },
+ "sha1_origem": "162cc1a6f3be73210e2775521aa1e37b164f93b2",
+ "bytes_origem": 308424,
+ "capturado_em": "2026-11-08T06:40:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_VargemGrandePaulista.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "162cc1a6f3be73210e2775521aa1e37b164f93b2"
+ }
+}

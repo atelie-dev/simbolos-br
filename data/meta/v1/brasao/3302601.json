@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3302601",
+ "uf": "RJ",
+ "municipio": "Mangaratiba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bras%C3%A3o_de_Mangaratiba_-_RJ.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "b2e460ceff5fcdae23c812210094a5c65debeb7dc671b84000c44cc8b2d0280e",
+ "rendicoes": {
+  "png": {
+   "bytes": 197903,
+   "sha256": "d443c23adb2711d48f78ac76020d7ff1d34c045409102c86ccbaaf11b852be20",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63384,
+   "sha256": "01694e756b4d36e55ef02a194f742c3f0a43bbc8964025fbf9b894a99af974fc",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 327837,
+   "sha256": "b2e460ceff5fcdae23c812210094a5c65debeb7dc671b84000c44cc8b2d0280e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302601.jpg"
+ },
+ "sha1_origem": "b0f8177a003f9b736d73b99a8992b26521e4cadd",
+ "bytes_origem": 327837,
+ "capturado_em": "2026-11-08T03:54:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Mangaratiba_-_RJ.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:06Z",
+  "estado": "igual",
+  "sha1_commons": "b0f8177a003f9b736d73b99a8992b26521e4cadd"
+ }
+}

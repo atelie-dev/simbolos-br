@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4205209",
+ "uf": "SC",
+ "municipio": "Erval Velho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Brasao_ErvalVelho_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Erval Velho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a6c88ca09634aaa0e9b879537c44ce7775366277087f7a0416172f5884984467",
+ "rendicoes": {
+  "png": {
+   "bytes": 29615,
+   "sha256": "f1f4de56d967f52cba921bcf41eedadb78eea44735292b1543966e58c248f1d1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8339,
+   "sha256": "5854fa9d13cbca4a3b16406639be66fda85318c196d167036232acd2337fd15f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4205209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4205209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4205209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4205209.jpg",
+  "bytes": 5341,
+  "sha256": "a6c88ca09634aaa0e9b879537c44ce7775366277087f7a0416172f5884984467"
+ },
+ "sha1_origem": "83bba1eee7762452b57ca1102be11e5aae3804a6",
+ "bytes_origem": 5341,
+ "capturado_em": "2026-11-08T06:53:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_ErvalVelho_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:32Z",
+  "estado": "igual",
+  "sha1_commons": "83bba1eee7762452b57ca1102be11e5aae3804a6"
+ }
+}

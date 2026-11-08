@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305454",
+ "uf": "RS",
+ "municipio": "Cidreira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bandeira_de_Cidreira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cidreira",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1e98c72fa7577a5ddbaa98910ea33e93cc536265a85b8c2506cfe3344e7e645c",
+ "rendicoes": {
+  "png": {
+   "bytes": 55750,
+   "sha256": "514ff4727a9325332213957b87db833f0010b421c6f4d57cc5aac0720fa660aa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17122,
+   "sha256": "37127fd81fb1c27942e8b3e50802e757ecc3dd07f1b1cad4ca0c3cc6588593e8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305454.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305454.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305454.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4305454.png",
+  "bytes": 69091,
+  "sha256": "1e98c72fa7577a5ddbaa98910ea33e93cc536265a85b8c2506cfe3344e7e645c"
+ },
+ "sha1_origem": "530ca4e4d7f84a27379276ac7cc568afa59372a9",
+ "bytes_origem": 69091,
+ "capturado_em": "2026-11-08T07:01:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cidreira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "530ca4e4d7f84a27379276ac7cc568afa59372a9"
+ }
+}

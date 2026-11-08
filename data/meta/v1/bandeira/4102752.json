@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4102752",
+ "uf": "PR",
+ "municipio": "Bela Vista da Caroba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bandeira_Bela_Vista_da_Caroba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2af3d9233579ed813613f0e96097159c1d6c18cbea8c14be1089c178bba75ff6",
+ "rendicoes": {
+  "png": {
+   "bytes": 51205,
+   "sha256": "08587605b28e97735924864ceec136fc8390f35c1b2d7ee771fae0e67cc3fa40",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15986,
+   "sha256": "8523fb57417e7d21ae14d8e16ca122879b87826777293d076f72793e2a6e27f2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4102752.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4102752.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4102752.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4102752.jpg",
+  "bytes": 619992,
+  "sha256": "2af3d9233579ed813613f0e96097159c1d6c18cbea8c14be1089c178bba75ff6"
+ },
+ "sha1_origem": "4ff71c0aef44d2482d3c7c6bfc2ab011f5e36499",
+ "bytes_origem": 619992,
+ "capturado_em": "2026-11-08T06:41:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Bela_Vista_da_Caroba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "4ff71c0aef44d2482d3c7c6bfc2ab011f5e36499"
+ }
+}

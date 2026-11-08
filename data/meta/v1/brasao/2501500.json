@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2501500",
+ "uf": "PB",
+ "municipio": "Bananeiras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bras%C3%A3o_de_Bananeiras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Bananeiras",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "96ede4ac69d4d20f65fff70e113a8a2d991b7eaea784a419258c7ca1ed47164d",
+ "rendicoes": {
+  "png": {
+   "bytes": 45649,
+   "sha256": "3ffd2da52bc7d9ab142832c23c1c60c6cc9b3af0557c5b938894381847e250b2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9840,
+   "sha256": "fb61b19eceac70e45c9698b29b72701abc5c3092b3c1248fe180446f9a4872d6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2501500.jpg",
+  "bytes": 6300,
+  "sha256": "96ede4ac69d4d20f65fff70e113a8a2d991b7eaea784a419258c7ca1ed47164d"
+ },
+ "sha1_origem": "3c457054ffa34ee9892873b18b6817e730bdd444",
+ "bytes_origem": 6300,
+ "capturado_em": "2026-11-08T05:39:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Bananeiras.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "3c457054ffa34ee9892873b18b6817e730bdd444"
+ }
+}

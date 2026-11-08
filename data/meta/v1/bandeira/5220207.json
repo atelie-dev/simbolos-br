@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5220207",
+ "uf": "GO",
+ "municipio": "São Miguel do Araguaia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bandeira_de_S%C3%A3o_Miguel_do_Araguaia%2C_GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Giullianoporta",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "395b4ba612ea4e83d79d1db925625b7a398a5487f2a02b95617107fe491a6c37",
+ "rendicoes": {
+  "png": {
+   "bytes": 58238,
+   "sha256": "91a3a02e06ffe82a0a931d0b0da53b5d61b94dd730798f90dcbec6a8bc05f8f1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21848,
+   "sha256": "98bdc4ec5aec90bbb08f8c9e170120ccf3b1c8a94a01a60289e1fa0921734d7f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5220207.jpg",
+  "bytes": 99679,
+  "sha256": "395b4ba612ea4e83d79d1db925625b7a398a5487f2a02b95617107fe491a6c37"
+ },
+ "sha1_origem": "8887517545d12ee3199fecad12857113ae1fe4e7",
+ "bytes_origem": 99679,
+ "capturado_em": "2026-11-08T07:20:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Miguel_do_Araguaia,_GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "8887517545d12ee3199fecad12857113ae1fe4e7"
+ }
+}

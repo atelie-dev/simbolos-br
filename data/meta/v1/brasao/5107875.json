@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5107875",
+ "uf": "MT",
+ "municipio": "Sapezal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bras%C3%A3o_sapezal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Sapezal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0264353a28bafb9c3544cadfc341d6a8091b4718a52b73988940902cb041b6c4",
+ "rendicoes": {
+  "png": {
+   "bytes": 50952,
+   "sha256": "3be8033dc62a45271a0fbf4faabf2cb25f0a48740ccacb6fb63daba7b86b7432",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11605,
+   "sha256": "de98c2728d471d085b5c16e3799824aa61549b4b43282938c58538a2285208ae",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5107875.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5107875.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5107875.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5107875.jpg",
+  "bytes": 12121,
+  "sha256": "0264353a28bafb9c3544cadfc341d6a8091b4718a52b73988940902cb041b6c4"
+ },
+ "sha1_origem": "2bcefc8b40c4699725064edcf5d3cc36d6f9289e",
+ "bytes_origem": 12121,
+ "capturado_em": "2026-11-08T07:15:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_sapezal.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "2bcefc8b40c4699725064edcf5d3cc36d6f9289e"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3123858",
+ "uf": "MG",
+ "municipio": "Entre Folhas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bras%C3%A3o_de_Entre_Folhas_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "65ce5f8a94d05eb827a953bb90d015aa26d1bbd3005c107bf205b988ff7f7964",
+ "rendicoes": {
+  "png": {
+   "bytes": 83858,
+   "sha256": "574d0221e545ec23e9030428c74aa40162340e714fe38dcdd56d7f1368007195",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16250,
+   "sha256": "6bc5a915e2f5e311abdc8b1a78026d843cbf8928788e37ee92ddd9b657af9ad0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3123858.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3123858.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3123858.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3123858.png",
+  "bytes": 69583,
+  "sha256": "65ce5f8a94d05eb827a953bb90d015aa26d1bbd3005c107bf205b988ff7f7964"
+ },
+ "sha1_origem": "75b6edb30529ec60648b61b879a9ea72e716ea6e",
+ "bytes_origem": 69583,
+ "capturado_em": "2026-11-08T06:06:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Entre_Folhas_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "75b6edb30529ec60648b61b879a9ea72e716ea6e"
+ }
+}

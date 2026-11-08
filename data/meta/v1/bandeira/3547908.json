@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3547908",
+ "uf": "SP",
+ "municipio": "Santo Antônio da Alegria",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bandeira_SAA.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Domaleixo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9df09157b6ba7e6a6bc1c6481bbeadf6a9a3e03308273ad193069540b7c29bcf",
+ "rendicoes": {
+  "png": {
+   "bytes": 43487,
+   "sha256": "8eec9d0f3b94e6fb09d13e6b3f9c851e8d1b1206112d3a019f484c21158d0b1b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17373,
+   "sha256": "b4515608564fed18076cbd3d90aa0c787bb85f6e8df712eaaa99cc9bb82d061a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3547908.png",
+  "bytes": 1727464,
+  "sha256": "9df09157b6ba7e6a6bc1c6481bbeadf6a9a3e03308273ad193069540b7c29bcf"
+ },
+ "sha1_origem": "1b34aebfe18a437af18fbabfcb2f11814308883a",
+ "bytes_origem": 1727464,
+ "capturado_em": "2026-11-08T06:37:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_SAA.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "1b34aebfe18a437af18fbabfcb2f11814308883a"
+ }
+}

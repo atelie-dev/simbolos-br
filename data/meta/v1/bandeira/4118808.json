@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4118808",
+ "uf": "PR",
+ "municipio": "Peabiru",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bandeira_peabiru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Sexugi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "47f9dddbb2c615f09002345f1315108218dd47eea7a1d4ff4b5968240e2b4103",
+ "rendicoes": {
+  "png": {
+   "bytes": 42291,
+   "sha256": "03fd59693f00da2eb0c4276839b465b057f338aba02122b73846ab8ff97505bc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15688,
+   "sha256": "430192f9e4d7ec3e67f74339c3b37e0c59f93ee1865b1668308b0537f18c174e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4118808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4118808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4118808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4118808.jpg",
+  "bytes": 284749,
+  "sha256": "47f9dddbb2c615f09002345f1315108218dd47eea7a1d4ff4b5968240e2b4103"
+ },
+ "sha1_origem": "f6ab64b24bcd3de16b3018fbf106cc080cb4439f",
+ "bytes_origem": 284749,
+ "capturado_em": "2026-11-08T06:47:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_peabiru.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:22Z",
+  "estado": "igual",
+  "sha1_commons": "f6ab64b24bcd3de16b3018fbf106cc080cb4439f"
+ }
+}

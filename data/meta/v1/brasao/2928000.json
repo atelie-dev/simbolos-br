@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2928000",
+ "uf": "BA",
+ "municipio": "Santaluz",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bras%C3%A3o_de_Santaluz.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e4e53e43210169b497848f4b47cce754a520f1bcffe3a067262350dfdb0393c2",
+ "rendicoes": {
+  "png": {
+   "bytes": 23986,
+   "sha256": "792fffc769000526135d15f704e443e15c8a75fcfc2b2fec7d7d5ebe4aa6495e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6279,
+   "sha256": "66692d848acb81ef42d2a579fac2771e9ac4fc14180e4c955d3ee4090d3ada59",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2928000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2928000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2928000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2928000.png",
+  "bytes": 19370,
+  "sha256": "e4e53e43210169b497848f4b47cce754a520f1bcffe3a067262350dfdb0393c2"
+ },
+ "sha1_origem": "53acaf0735cc21ee63beab6c0bd3d6377e56e2f5",
+ "bytes_origem": 19370,
+ "capturado_em": "2026-11-08T05:57:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Santaluz.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "53acaf0735cc21ee63beab6c0bd3d6377e56e2f5"
+ }
+}

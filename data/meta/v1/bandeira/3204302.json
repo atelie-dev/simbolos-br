@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3204302",
+ "uf": "ES",
+ "municipio": "Presidente Kennedy",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bandeira_de_Presidente_Kennedy.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "NINTENPUG",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d2a86d88aa33b0bf28b195672f37e4a723e70c661faf3f9f8e5d34e2f13edf5a",
+ "rendicoes": {
+  "png": {
+   "bytes": 7435,
+   "sha256": "5536f93eb377c41e42a3f5a8ffe50649fb413a833f761f1d065eaba210a31bc2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9910,
+   "sha256": "f64a0c5146193dc9fba662a174f0e6695bb0db75b2767d401c67a2fffaa81485",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 50262,
+   "sha256": "d2a86d88aa33b0bf28b195672f37e4a723e70c661faf3f9f8e5d34e2f13edf5a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204302.jpg"
+ },
+ "sha1_origem": "da1cf0382f226c97dcb73e09ae1f194c80013d88",
+ "bytes_origem": 50262,
+ "capturado_em": "2026-11-08T03:53:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Presidente_Kennedy.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "da1cf0382f226c97dcb73e09ae1f194c80013d88"
+ }
+}

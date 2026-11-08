@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3521903",
+ "uf": "SP",
+ "municipio": "Itajobi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Bandeira_Itajobi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6a94c0c559888038ea72b93a4fe70988f7e78afbc1d75c2dc69e134fb8ba748e",
+ "rendicoes": {
+  "png": {
+   "bytes": 45425,
+   "sha256": "44aedf9cbc681b035207bcbed9f9c30fb40d2c29115dc9f6cd8af3806dc86e3b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17899,
+   "sha256": "ef6962c46edf636826efeea616523083b438343a7ffa046d716ef995492812bd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3521903.png",
+  "bytes": 46347,
+  "sha256": "6a94c0c559888038ea72b93a4fe70988f7e78afbc1d75c2dc69e134fb8ba748e"
+ },
+ "sha1_origem": "1b33c27243929aa0842492fd02fb53eb2e30a568",
+ "bytes_origem": 46347,
+ "capturado_em": "2026-11-08T06:29:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itajobi.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "1b33c27243929aa0842492fd02fb53eb2e30a568"
+ }
+}

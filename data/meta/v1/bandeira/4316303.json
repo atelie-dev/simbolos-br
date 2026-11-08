@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4316303",
+ "uf": "RS",
+ "municipio": "Roque Gonzales",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bandeira_de_Roque_Gonzales.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Roque Gonzales",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8dde092be05bee1001e2dc62cddbafda6f2de5bde746dbe121134094abd0baae",
+ "rendicoes": {
+  "png": {
+   "bytes": 42422,
+   "sha256": "fc391a2209c489eb6eec0c98ac30545cf623e20ce3017f5539c7bba1b02b15ae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11339,
+   "sha256": "beb6673456d3fe0f412b63ffb009c92226eabd8ab7656c61ea9b6b7d79a4a45e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4316303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4316303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4316303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4316303.jpg",
+  "bytes": 8324,
+  "sha256": "8dde092be05bee1001e2dc62cddbafda6f2de5bde746dbe121134094abd0baae"
+ },
+ "sha1_origem": "f97329bd6c28c24bb2d01f8cb57c9edc070d4a6b",
+ "bytes_origem": 8324,
+ "capturado_em": "2026-11-08T07:08:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Roque_Gonzales.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "f97329bd6c28c24bb2d01f8cb57c9edc070d4a6b"
+ }
+}

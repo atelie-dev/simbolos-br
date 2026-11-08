@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3549250",
+ "uf": "SP",
+ "municipio": "São João de Iracema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bandeira_de_S%C3%A3o_Jo%C3%A3o_de_Iracema%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de São João de Iracema",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e99708a057b7963d21a14832266367b2d9505b0714bc87f5e22036dd22f8104b",
+ "rendicoes": {
+  "png": {
+   "bytes": 30523,
+   "sha256": "7c3e07f5e027c8cf76356f20bb332fbf23a9967137e83af530bf4fcf278e6cba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9906,
+   "sha256": "1d62505a480a80ebe1568338cb35abecc19563195fb8ce43dee0cff8da770332",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549250.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549250.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549250.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3549250.jpg",
+  "bytes": 12961,
+  "sha256": "e99708a057b7963d21a14832266367b2d9505b0714bc87f5e22036dd22f8104b"
+ },
+ "sha1_origem": "d4013734aa1583c4f6b49b4c7e703005a694e13b",
+ "bytes_origem": 12961,
+ "capturado_em": "2026-11-08T06:38:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_João_de_Iracema,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "d4013734aa1583c4f6b49b4c7e703005a694e13b"
+ }
+}

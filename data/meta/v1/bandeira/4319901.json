@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4319901",
+ "uf": "RS",
+ "municipio": "Sapiranga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bandeira_de_Sapiranga.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Sapiranga",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7248f9c1df5e17b37052f43aa5d6d55ae83cef89c8c86cce22909666e436ec06",
+ "rendicoes": {
+  "png": {
+   "bytes": 27768,
+   "sha256": "9714c99c16f60daae57ebb2ce47bdf577e48289c163d3defb7f172718cea4f94",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12791,
+   "sha256": "6a20555bfd60a1f67dc636d0c6697436e5599585a5583496207523969ab54e45",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4319901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4319901.png",
+  "bytes": 63287,
+  "sha256": "7248f9c1df5e17b37052f43aa5d6d55ae83cef89c8c86cce22909666e436ec06"
+ },
+ "sha1_origem": "e5ee7dc4d9871157392547a95ecd40d8c69e4b7d",
+ "bytes_origem": 63287,
+ "capturado_em": "2026-11-08T07:10:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Sapiranga.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "e5ee7dc4d9871157392547a95ecd40d8c69e4b7d"
+ }
+}

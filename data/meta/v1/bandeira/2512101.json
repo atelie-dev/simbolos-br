@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2512101",
+ "uf": "PB",
+ "municipio": "Pombal",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bandeira_de_Pombal-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0cc911b8b9da3f7f0b292389d1ea1efc153c0c6dd54f3338d0fc4c48d629df46",
+ "rendicoes": {
+  "png": {
+   "bytes": 53242,
+   "sha256": "81ef4e56f5746a11bcfe9b2d8f6a5fdb5d7a8ff4a8f265128016be6246d28a02",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19739,
+   "sha256": "39f2791ba4bf20ad41757a0bfb22b11b1261c1a78123a73418e8219db04f8e93",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 293220,
+   "sha256": "0cc911b8b9da3f7f0b292389d1ea1efc153c0c6dd54f3338d0fc4c48d629df46"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512101.jpg"
+ },
+ "sha1_origem": "92c238c4e27987634565d3a0dc2ee60357ee87a1",
+ "bytes_origem": 293220,
+ "capturado_em": "2026-11-08T03:00:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pombal-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "92c238c4e27987634565d3a0dc2ee60357ee87a1"
+ }
+}

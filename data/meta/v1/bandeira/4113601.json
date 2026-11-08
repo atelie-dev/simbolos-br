@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4113601",
+ "uf": "PR",
+ "municipio": "Lobato",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bandeira_do_munic%C3%ADpio_de_Lobato-Paran%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e4b268710ed57452645280d912e0b596bb085d6d1177cdb9aa0c7a7a065326b1",
+ "rendicoes": {
+  "png": {
+   "bytes": 49196,
+   "sha256": "c250295c3179081557dc6afb8cc3554857b6d317641e283391919977427af596",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13800,
+   "sha256": "8710794c1a0195a4067456d4ddfdc821447de34e9da28f82d0353a015e1a31d8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4113601.jpg",
+  "bytes": 12869,
+  "sha256": "e4b268710ed57452645280d912e0b596bb085d6d1177cdb9aa0c7a7a065326b1"
+ },
+ "sha1_origem": "c3f123d48fdb1c4973286f570ae16eeaf4b45457",
+ "bytes_origem": 12869,
+ "capturado_em": "2026-11-08T06:45:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Lobato-Paraná.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:19Z",
+  "estado": "igual",
+  "sha1_commons": "c3f123d48fdb1c4973286f570ae16eeaf4b45457"
+ }
+}

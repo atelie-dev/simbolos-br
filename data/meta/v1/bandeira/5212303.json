@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5212303",
+ "uf": "GO",
+ "municipio": "Leopoldo de Bulhões",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Bandeira_de_leopoldo_de_bulhoes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Paulo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8d07e8c139964b01a34089554f9d0725bfec805f4e14e8fb81178c4a787a678d",
+ "rendicoes": {
+  "png": {
+   "bytes": 7705,
+   "sha256": "4aafa9a98ad958d100db71fef219d0ce45b7330d0233b11e929e96e139f13803",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5927,
+   "sha256": "61bc8bb5c20539fbf6aafeddb4258827ae45d266bc77b6572cfe259759a572c9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5212303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5212303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5212303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5212303.png",
+  "bytes": 3587,
+  "sha256": "8d07e8c139964b01a34089554f9d0725bfec805f4e14e8fb81178c4a787a678d"
+ },
+ "sha1_origem": "37bf78f417b702432a2ccfa9790f55f50b625267",
+ "bytes_origem": 3587,
+ "capturado_em": "2026-11-08T07:18:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_leopoldo_de_bulhoes.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "37bf78f417b702432a2ccfa9790f55f50b625267"
+ }
+}

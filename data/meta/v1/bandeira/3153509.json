@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3153509",
+ "uf": "MG",
+ "municipio": "Alto Jequitibá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bandeira_do_munic%C3%ADpio_de_Alto_Jequitib%C3%A1-MG.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Hugovianabarros",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "99aba947202d9da41014dd98372c9a77fe9c26c82aab02e6c9fb19efaa890fb2",
+ "rendicoes": {
+  "png": {
+   "bytes": 104111,
+   "sha256": "c8cafa1dfc13ba2cdb38615868b54d006768e6880717428d317c25439beaea44",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25120,
+   "sha256": "05f36e23fe3a558da8cc7f0da2159fe30269c6d9c0f7d087eb9db5a3318fdc90",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3153509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3153509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3153509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3153509.jpg",
+  "bytes": 29550,
+  "sha256": "99aba947202d9da41014dd98372c9a77fe9c26c82aab02e6c9fb19efaa890fb2"
+ },
+ "sha1_origem": "462da098b18449f75d5fb8d9a0af83c1d08d736f",
+ "bytes_origem": 29550,
+ "capturado_em": "2026-11-08T06:14:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Alto_Jequitibá-MG.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "462da098b18449f75d5fb8d9a0af83c1d08d736f"
+ }
+}

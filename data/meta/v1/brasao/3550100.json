@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3550100",
+ "uf": "SP",
+ "municipio": "São Manuel",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Brasao_saomanuel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "70259379e3f664be6ef218a838ef7d9b42a4ebcbc7345ceca57de78382486a65",
+ "rendicoes": {
+  "png": {
+   "bytes": 61680,
+   "sha256": "66d611eaeca3afc363bd194cb2f19d688adb30d2c306d0341d3966b2ed9bc42e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13896,
+   "sha256": "612f5d4dfe9d71ddb0f336e7b75640753fd7a112240f7e415636ebb79866f693",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3550100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3550100.jpg",
+  "bytes": 7604,
+  "sha256": "70259379e3f664be6ef218a838ef7d9b42a4ebcbc7345ceca57de78382486a65"
+ },
+ "sha1_origem": "9d9dc5ca3ce00083d6be0903baa55a7eb7699c36",
+ "bytes_origem": 7604,
+ "capturado_em": "2026-11-08T06:38:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_saomanuel.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "9d9dc5ca3ce00083d6be0903baa55a7eb7699c36"
+ }
+}

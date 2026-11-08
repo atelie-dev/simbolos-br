@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321667",
+ "uf": "RS",
+ "municipio": "Três Cachoeiras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tr%C3%AAs_Cachoeirasrsbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Três Cachoeiras",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "36d5a58dca15ac7746f152a42211c98cf0bffca40e84bb4c778792ced9802245",
+ "rendicoes": {
+  "png": {
+   "bytes": 10014,
+   "sha256": "1bdf68d28cda1475290b77c0fa12beed22dc3bbcba157dfdc34f1f357251f3b5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6758,
+   "sha256": "5a6b893185524e706527da981c9908a60086342b8d24687db2f5c36885d43da8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321667.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321667.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321667.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4321667.png",
+  "bytes": 7631,
+  "sha256": "36d5a58dca15ac7746f152a42211c98cf0bffca40e84bb4c778792ced9802245"
+ },
+ "sha1_origem": "aeca7f3e58f80cabb1130f8addda8c46b36920ed",
+ "bytes_origem": 7631,
+ "capturado_em": "2026-11-08T07:11:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Três_Cachoeirasrsbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:38Z",
+  "estado": "igual",
+  "sha1_commons": "aeca7f3e58f80cabb1130f8addda8c46b36920ed"
+ }
+}

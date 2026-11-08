@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2502151",
+ "uf": "PB",
+ "municipio": "Boa Vista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_boa_vista.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Boa Vista",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fb86c3e962637523f9ef5b81d6a382c4d77d766d0a5e9a1a62037ba529db4f2e",
+ "rendicoes": {
+  "png": {
+   "bytes": 61959,
+   "sha256": "c1ede949b92c097360a46a2db96369eb24b48d1147d282d6e9c1611261193bb8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10406,
+   "sha256": "670a6797e2dad3d43bfc54804e9cb168414c3f83d0452d99e710592ebb3d8024",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2502151.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2502151.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2502151.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2502151.png",
+  "bytes": 67081,
+  "sha256": "fb86c3e962637523f9ef5b81d6a382c4d77d766d0a5e9a1a62037ba529db4f2e"
+ },
+ "sha1_origem": "688668ef825cb6ad5b0e4ee09943047eeaac78cb",
+ "bytes_origem": 67081,
+ "capturado_em": "2026-11-08T05:40:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_boa_vista.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "688668ef825cb6ad5b0e4ee09943047eeaac78cb"
+ }
+}

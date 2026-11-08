@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4209300",
+ "uf": "SC",
+ "municipio": "Lages",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Brasao_lages.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "525116bc0248fa2bd5b29ebb9cb4c25623953859c28f17d21772291230c0fc0d",
+ "rendicoes": {
+  "png": {
+   "bytes": 26992,
+   "sha256": "d4c87a5f93797c1a4168af09c5454a54dc2a2d4f3df2a19b8a82202512f31a93",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9366,
+   "sha256": "4a619c6e166339738623fb01074f469953af6ddea18c0f29213f056183226e51",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4209300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4209300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4209300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4209300.png",
+  "bytes": 9093,
+  "sha256": "525116bc0248fa2bd5b29ebb9cb4c25623953859c28f17d21772291230c0fc0d"
+ },
+ "sha1_origem": "b96c6f76d0e7d88e6d8eb5a390cdff0e34accdd7",
+ "bytes_origem": 9093,
+ "capturado_em": "2026-11-08T06:54:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_lages.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "b96c6f76d0e7d88e6d8eb5a390cdff0e34accdd7"
+ }
+}

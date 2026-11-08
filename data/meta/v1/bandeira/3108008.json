@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3108008",
+ "uf": "MG",
+ "municipio": "Bom Sucesso",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bandeira_bom_sucesso_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Rafael Tiago Sabino Messias",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "03db9400bbe44d9c1387678d41ad077108889f16470309ab45c86360c8e01b01",
+ "rendicoes": {
+  "png": {
+   "bytes": 31902,
+   "sha256": "cad3cc97580fb2ce8ff468ed14f43fed87ca44ec7332490f6df1a5ff933bc8e0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9057,
+   "sha256": "9df5dc67b95aaf3f61da372a885b794aad0193577bc88edccdf360d237605475",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3108008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3108008.jpg",
+  "bytes": 3977,
+  "sha256": "03db9400bbe44d9c1387678d41ad077108889f16470309ab45c86360c8e01b01"
+ },
+ "sha1_origem": "f7752448efbdb74db9e17253838f133b5e85f352",
+ "bytes_origem": 3977,
+ "capturado_em": "2026-11-08T06:00:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_bom_sucesso_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "f7752448efbdb74db9e17253838f133b5e85f352"
+ }
+}

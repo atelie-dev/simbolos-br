@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305587",
+ "uf": "RS",
+ "municipio": "Colinas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bandeira_Colinas_RioGrandedoSul_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Colinas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b046921bfdbfadfc0d079ae1c6935b6baf9f99e61334c90f857ff7e53c042b5b",
+ "rendicoes": {
+  "png": {
+   "bytes": 156066,
+   "sha256": "2ca2eb0421c8c354167723f15b2e14f9540641ff2f5c2056cde866490ddbb390",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24876,
+   "sha256": "20dddfdb98065005bf912b55b0e49a0e9ff79185e13576de9c9a63be79b77666",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305587.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305587.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305587.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4305587.jpg",
+  "bytes": 89314,
+  "sha256": "b046921bfdbfadfc0d079ae1c6935b6baf9f99e61334c90f857ff7e53c042b5b"
+ },
+ "sha1_origem": "96be3bf4ac56bf817e748383a520e35130795e0b",
+ "bytes_origem": 89314,
+ "capturado_em": "2026-11-08T07:01:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Colinas_RioGrandedoSul_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "96be3bf4ac56bf817e748383a520e35130795e0b"
+ }
+}

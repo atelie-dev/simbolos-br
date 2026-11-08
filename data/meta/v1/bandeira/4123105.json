@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4123105",
+ "uf": "PR",
+ "municipio": "Santa Amélia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bandeira_de_Santa_Am%C3%A9lia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Luiz Henrique Jacobucci",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6cdaae40888310152b55a128a7300fec7ab93d34cabdae51076de517281ef710",
+ "rendicoes": {
+  "png": {
+   "bytes": 32531,
+   "sha256": "0cb0a02ae8eedf6509501c7c1ad1afa34c9c9bc131fbdf1ec388db92372ea93c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8958,
+   "sha256": "01d207c498a0e5b8b2bee393709fd9e9dc77e05a291e2a3deed7ecc3ce09b45e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123105.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4123105.jpg",
+  "bytes": 5608,
+  "sha256": "6cdaae40888310152b55a128a7300fec7ab93d34cabdae51076de517281ef710"
+ },
+ "sha1_origem": "74f8d31294a24b8838866f2d685dc7a395c3f546",
+ "bytes_origem": 5608,
+ "capturado_em": "2026-11-08T06:49:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santa_Amélia.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "74f8d31294a24b8838866f2d685dc7a395c3f546"
+ }
+}

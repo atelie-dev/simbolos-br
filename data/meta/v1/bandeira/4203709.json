@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4203709",
+ "uf": "SC",
+ "municipio": "Canelinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bandeira_de_Canelinha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Canelinha.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cbbd88439242e472efdd1accc3fb5bf18945c6ba84dd5179d2c6a2864d67d79b",
+ "rendicoes": {
+  "png": {
+   "bytes": 47043,
+   "sha256": "ec90768c86d441181c1e5fe017616cc51f9734a43e643d742ecbe36a44f24afb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22065,
+   "sha256": "70a835483e042ae59017d29847645d2eead6e93c48f1212d3001ba9862042da7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203709.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4203709.jpg",
+  "bytes": 682473,
+  "sha256": "cbbd88439242e472efdd1accc3fb5bf18945c6ba84dd5179d2c6a2864d67d79b"
+ },
+ "sha1_origem": "975ef332ffd3cbfc38169b571d5f4927c2b5c4ad",
+ "bytes_origem": 682473,
+ "capturado_em": "2026-11-08T06:52:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Canelinha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "975ef332ffd3cbfc38169b571d5f4927c2b5c4ad"
+ }
+}

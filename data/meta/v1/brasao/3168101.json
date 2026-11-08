@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3168101",
+ "uf": "MG",
+ "municipio": "Tapira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Brasaotapiramg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Tapira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7426e490144d77f08bd7464b0b5209ce3fd919260da7006a82fdcdbd1a26617c",
+ "rendicoes": {
+  "png": {
+   "bytes": 262898,
+   "sha256": "9950e4c18fe0344d2b283c6b4d10f590c18176b698819034a935b36301ae3faa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 57375,
+   "sha256": "9f1d5ea5cdd6b5bcca8d0998ae2fcc499c2629a7173c1deb05aa2c527329d889",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3168101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3168101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3168101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3168101.jpg",
+  "bytes": 44567,
+  "sha256": "7426e490144d77f08bd7464b0b5209ce3fd919260da7006a82fdcdbd1a26617c"
+ },
+ "sha1_origem": "c274a2bc47198c62eb010a8a9ec8aba1e3609b2e",
+ "bytes_origem": 44567,
+ "capturado_em": "2026-11-08T06:17:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaotapiramg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "c274a2bc47198c62eb010a8a9ec8aba1e3609b2e"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3157278",
+ "uf": "MG",
+ "municipio": "Santa Bárbara do Monte Verde",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/StaBarbaraMteVerde_Band.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "df63403220b1362a75dab0f782ba3a566d71d0ebeff388b412719069381882b8",
+ "rendicoes": {
+  "png": {
+   "bytes": 155111,
+   "sha256": "bf504f96e0eef7a2f7e3127cfb27698bafbd7fe34db257bdc7bd3e95cb07ff33",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28398,
+   "sha256": "92444e84742851ca39143f7be2394b1c134862eae52cbe0ed3d2a144e7388a64",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3157278.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3157278.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3157278.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3157278.png",
+  "bytes": 173528,
+  "sha256": "df63403220b1362a75dab0f782ba3a566d71d0ebeff388b412719069381882b8"
+ },
+ "sha1_origem": "36e783d9ba1d59fab03173556bf188e54f662615",
+ "bytes_origem": 173528,
+ "capturado_em": "2026-11-08T06:15:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:StaBarbaraMteVerde_Band.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:37Z",
+  "estado": "igual",
+  "sha1_commons": "36e783d9ba1d59fab03173556bf188e54f662615"
+ }
+}

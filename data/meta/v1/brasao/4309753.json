@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4309753",
+ "uf": "RS",
+ "municipio": "Ibarama",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bras%C3%A3o_Ibarama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Ibarama",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f025bde5a8093b70ee267bbdbaf51f995ba82d685a15227aa4b832a7f49a1517",
+ "rendicoes": {
+  "png": {
+   "bytes": 108282,
+   "sha256": "4464a6f055b7bb27f087734e3719a1321d03f606cc99e35cca500dedc87ef4ce",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21075,
+   "sha256": "957bfa1a5ceae3713ff8fbb7df8011fdf86474c440f00d6c28c4622ff8290d9b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309753.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309753.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309753.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4309753.jpg",
+  "bytes": 11830,
+  "sha256": "f025bde5a8093b70ee267bbdbaf51f995ba82d685a15227aa4b832a7f49a1517"
+ },
+ "sha1_origem": "ca983300a0b4d7fa0480c6871137cc6ea043b83a",
+ "bytes_origem": 11830,
+ "capturado_em": "2026-11-08T07:03:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Ibarama.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "ca983300a0b4d7fa0480c6871137cc6ea043b83a"
+ }
+}

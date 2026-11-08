@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4126504",
+ "uf": "PR",
+ "municipio": "Sertanópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bras%C3%A3o_de_Sertan%C3%B3polis%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://www.camarasertanopolis.pr.gov.br/_portal/simbolos/ver.asp?id=1",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b4835fdc7b35cbeb614ef3365ecba26e1a44162f1e599711d22b3d361858d502",
+ "rendicoes": {
+  "png": {
+   "bytes": 173496,
+   "sha256": "306d627fc864185fc7a746a01a96eea530a5244b8bdb1fc078ef8f9a6d2846ca",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40338,
+   "sha256": "ad67707a34c2b8046779ab3740b3f1106c17bfb79383e2df2e501399679d4fdb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4126504.jpg",
+  "bytes": 155313,
+  "sha256": "b4835fdc7b35cbeb614ef3365ecba26e1a44162f1e599711d22b3d361858d502"
+ },
+ "sha1_origem": "67a3726e43e4faddcf9153e00dca51887dc5672c",
+ "bytes_origem": 155313,
+ "capturado_em": "2026-11-08T06:50:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Sertanópolis,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "67a3726e43e4faddcf9153e00dca51887dc5672c"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5222005",
+ "uf": "GO",
+ "municipio": "Vianópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bandeira_de_Vian%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Vianópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5e7abd41b6a9f99bae0626c924295b0c974e932a7cd4bb604b5f6ff1431b6c3c",
+ "rendicoes": {
+  "png": {
+   "bytes": 29121,
+   "sha256": "def8329cc0d5687f4f6f02ede750db0e28150c1e5fec650172307f09f9c125cc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10152,
+   "sha256": "3d6f926beb78e40433d49d15fb14445906e65a174ae062442c97dab02b417300",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5222005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5222005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5222005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5222005.jpg",
+  "bytes": 9436,
+  "sha256": "5e7abd41b6a9f99bae0626c924295b0c974e932a7cd4bb604b5f6ff1431b6c3c"
+ },
+ "sha1_origem": "0128589dda67d2855e36cc5a9c7529204690d716",
+ "bytes_origem": 9436,
+ "capturado_em": "2026-11-08T07:21:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Vianópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "0128589dda67d2855e36cc5a9c7529204690d716"
+ }
+}

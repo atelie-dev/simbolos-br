@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2707305",
+ "uf": "AL",
+ "municipio": "Porto Calvo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Porto_Calvo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Mysid",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "68293da61890b1ff4fca07320a0c41555f6c44e25cae47951c85f260e4714c35",
+ "rendicoes": {
+  "png": {
+   "bytes": 77723,
+   "sha256": "9d4bc28f8bb7b66b00a32a91aafaf42dc2b59b96eacb730888de4bbfdc2cda8d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32237,
+   "sha256": "d1b5debd5ce68bd0282c46ef6f6a6011ab2b2afb584969c7544fe40351fa37d0",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 55724,
+   "sha256": "68293da61890b1ff4fca07320a0c41555f6c44e25cae47951c85f260e4714c35"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2707305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2707305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2707305.jpg"
+ },
+ "sha1_origem": "36ffd3ffe0ca7b403e97c5ea2040d3fd81f25bd1",
+ "bytes_origem": 55724,
+ "capturado_em": "2026-11-08T03:11:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Porto_Calvo.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "36ffd3ffe0ca7b403e97c5ea2040d3fd81f25bd1"
+ }
+}

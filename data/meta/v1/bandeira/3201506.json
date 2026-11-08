@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3201506",
+ "uf": "ES",
+ "municipio": "Colatina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bandeira-colatina.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Colatina City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7428ce71d45270ce9b5ac5eff9e3050731b738e365fad1807fa34da0f9875af8",
+ "rendicoes": {
+  "png": {
+   "bytes": 111469,
+   "sha256": "ecb78b4b1aface4354736a8b7af38ee2f21ba9fc997f76ad62a9c3880f4573c5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26590,
+   "sha256": "c7ae8e099c244946b13c12ec75af261a8e091cddf6a6ea36b28c84b7ea593e29",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3201506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3201506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3201506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3201506.png",
+  "bytes": 114590,
+  "sha256": "7428ce71d45270ce9b5ac5eff9e3050731b738e365fad1807fa34da0f9875af8"
+ },
+ "sha1_origem": "47a8984b81d73d7a60b00515ec7e462566e722d1",
+ "bytes_origem": 114590,
+ "capturado_em": "2026-11-08T06:19:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-colatina.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "47a8984b81d73d7a60b00515ec7e462566e722d1"
+ }
+}

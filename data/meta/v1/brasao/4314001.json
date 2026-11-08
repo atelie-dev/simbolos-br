@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314001",
+ "uf": "RS",
+ "municipio": "Paraí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bras%C3%A3o_Para%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Murilo Rn'R",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "41de79ed9308d47a27a1a4e9cfddc0ae7d1be2f645ba9afdca75e63e4c6ab376",
+ "rendicoes": {
+  "png": {
+   "bytes": 226933,
+   "sha256": "fae2b43c058901f11a2fa339d7698f5b96dc0d687ab340dd9991c0b76561b26a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55080,
+   "sha256": "25203ca2ecc9940f79c263f9e5b8d306e3056076c64cafaa79db37c627779220",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4314001.jpg",
+  "bytes": 238317,
+  "sha256": "41de79ed9308d47a27a1a4e9cfddc0ae7d1be2f645ba9afdca75e63e4c6ab376"
+ },
+ "sha1_origem": "9f5124b9f108ab9c6a79ca37bd2dc335880d90f0",
+ "bytes_origem": 238317,
+ "capturado_em": "2026-11-08T07:06:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Paraí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "9f5124b9f108ab9c6a79ca37bd2dc335880d90f0"
+ }
+}

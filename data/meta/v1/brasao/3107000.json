@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3107000",
+ "uf": "MG",
+ "municipio": "Biquinhas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bras%C3%A3oBiquinhas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Renato Hilário de Medeiros (talk)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "42915216457500ccc221e07c4c3e630b345577feec4f545f60a00d548afde073",
+ "rendicoes": {
+  "png": {
+   "bytes": 26186,
+   "sha256": "2d28addc6e88650b6f53293557efd66a15d6739b708ab12e5003d579e180b3e3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6562,
+   "sha256": "f63e1d302fc6b9c1f7a1bad1432daee74f30cedf39471ed006d8cfe6046096a7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3107000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3107000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3107000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3107000.jpg",
+  "bytes": 4014,
+  "sha256": "42915216457500ccc221e07c4c3e630b345577feec4f545f60a00d548afde073"
+ },
+ "sha1_origem": "f226ae10f37b3999c55499765fd6084bf09fd62a",
+ "bytes_origem": 4014,
+ "capturado_em": "2026-11-08T06:00:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasãoBiquinhas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:45Z",
+  "estado": "igual",
+  "sha1_commons": "f226ae10f37b3999c55499765fd6084bf09fd62a"
+ }
+}

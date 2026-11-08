@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5220009",
+ "uf": "GO",
+ "municipio": "São João d'Aliança",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bandeira_de_S%C3%A3o_Jo%C3%A3o_d%27Alian%C3%A7a%2C_GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "796f2291806d5dd8d4c271163615d64d1cf74d279ef7d3625f6fcc884b80820a",
+ "rendicoes": {
+  "png": {
+   "bytes": 54757,
+   "sha256": "5da13a0d93aecab8616ffb80df2a37120abc767ec5a4b031b1f53944a822df1d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23926,
+   "sha256": "f37b9f467f27a92870706d3eef28058fc84686cb5ec4d0aa45fc926b2ffd18e1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5220009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5220009.jpg",
+  "bytes": 735697,
+  "sha256": "796f2291806d5dd8d4c271163615d64d1cf74d279ef7d3625f6fcc884b80820a"
+ },
+ "sha1_origem": "7cd7d1f3e56259adb7796e8fee0e4635c9e9a51d",
+ "bytes_origem": 735697,
+ "capturado_em": "2026-11-08T07:20:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_João_d'Aliança,_GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "7cd7d1f3e56259adb7796e8fee0e4635c9e9a51d"
+ }
+}

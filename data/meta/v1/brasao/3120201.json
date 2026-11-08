@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3120201",
+ "uf": "MG",
+ "municipio": "Cristais",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Cristaismgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cristais",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d652a03a07b19b830e1513c3f913d918ad307b2bc5d5c391535debff634bc065",
+ "rendicoes": {
+  "png": {
+   "bytes": 48062,
+   "sha256": "ca004ced10ad2e2e15a3795d6c23168ebfd33541055bcebfe803bf9498053e63",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11948,
+   "sha256": "5e73b75206e3ab093fdff190b9b879f61ca406cebb37516e8a050e789770b2be",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3120201.jpg",
+  "bytes": 8099,
+  "sha256": "d652a03a07b19b830e1513c3f913d918ad307b2bc5d5c391535debff634bc065"
+ },
+ "sha1_origem": "934c86bae16fdca395c065e85eabe9141c2c1bea",
+ "bytes_origem": 8099,
+ "capturado_em": "2026-11-08T06:05:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cristaismgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "934c86bae16fdca395c065e85eabe9141c2c1bea"
+ }
+}

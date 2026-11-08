@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3507605",
+ "uf": "SP",
+ "municipio": "Bragança Paulista",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bras%C3%A3o_de_Bragan%C3%A7a_Paulista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a9d02a3bfa9576f3783f71959382f517f13ef9271dbb08a8c4bf765d0179dff9",
+ "rendicoes": {
+  "png": {
+   "bytes": 154051,
+   "sha256": "b3ca843ff3bb7bf393f6b1e036568965935475e50adf0cabb5a0e0ea6f6c806e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36802,
+   "sha256": "c4454aa77db6060f32b6460422086c086a749001b04764b673193169d9eb96ad",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3507605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3507605.jpg",
+  "bytes": 145183,
+  "sha256": "a9d02a3bfa9576f3783f71959382f517f13ef9271dbb08a8c4bf765d0179dff9"
+ },
+ "sha1_origem": "c91466ffb04ec5eb957a697a2ac129166b4825f6",
+ "bytes_origem": 145183,
+ "capturado_em": "2026-11-08T06:25:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Bragança_Paulista.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "c91466ffb04ec5eb957a697a2ac129166b4825f6"
+ }
+}

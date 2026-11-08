@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3542909",
+ "uf": "SP",
+ "municipio": "Ribeirão Bonito",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bras%C3%A3o_de_Ribeir%C3%A3o_Bonito_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "8c6da26feba334dd9f7c919fc4a7893233789f1c797ed4358bce926101502076",
+ "rendicoes": {
+  "png": {
+   "bytes": 140261,
+   "sha256": "563f69b78ec8ab6061ccc29d7548469de2f2a96335432a289e1df782559eae44",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 50071,
+   "sha256": "7086a93ad24c8c545008bf7021ab85a130fed007997fe405b5868422737f817d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 248030,
+   "sha256": "8c6da26feba334dd9f7c919fc4a7893233789f1c797ed4358bce926101502076"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3542909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3542909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3542909.jpg"
+ },
+ "sha1_origem": "74c71dcb938f600cb0acfd8778415a3a4cf6d0a3",
+ "bytes_origem": 248030,
+ "capturado_em": "2026-11-08T04:14:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Ribeirão_Bonito_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:10Z",
+  "estado": "igual",
+  "sha1_commons": "74c71dcb938f600cb0acfd8778415a3a4cf6d0a3"
+ }
+}

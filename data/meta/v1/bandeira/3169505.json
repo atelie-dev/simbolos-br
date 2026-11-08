@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3169505",
+ "uf": "MG",
+ "municipio": "Tumiritinga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flag_of_Tumiritinga_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HVL",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "477c98e51b19bad9f41e9e94c04666bd06203dd8d1e56171d4a5fc10063bdd28",
+ "rendicoes": {
+  "png": {
+   "bytes": 39130,
+   "sha256": "c198605ef1b3cbbc40e046b3e611ef92fe63a3491eb4263c218097a6e0546c72",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12641,
+   "sha256": "d2bfe35afe6cfa212e13bde41e07fae463ee51e63097988307e04a7c370edb41",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3169505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3169505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3169505.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3169505.png",
+  "bytes": 42120,
+  "sha256": "477c98e51b19bad9f41e9e94c04666bd06203dd8d1e56171d4a5fc10063bdd28"
+ },
+ "sha1_origem": "94ccc429704cdc51f7d9a9fa41f20de7e74d710b",
+ "bytes_origem": 42120,
+ "capturado_em": "2026-11-08T06:17:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Tumiritinga_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "94ccc429704cdc51f7d9a9fa41f20de7e74d710b"
+ }
+}

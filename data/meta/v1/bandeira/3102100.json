@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3102100",
+ "uf": "MG",
+ "municipio": "Alto Rio Doce",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Alto_Rio_Docemgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Alto Rio Doce",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7c5e6a9d26cd465e68bbff4035906432026c825d6f900e371044b68652d45d2d",
+ "rendicoes": {
+  "png": {
+   "bytes": 20282,
+   "sha256": "b338010a38f3862cee20c6d959ba7bf3b05b686eecd9ff4863f0c1f0fc9e5bf8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7699,
+   "sha256": "0fb16ce539737baf02a4a1308c66929295862a66feef8d29d234c28b61a8d02a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3102100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3102100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3102100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3102100.png",
+  "bytes": 16428,
+  "sha256": "7c5e6a9d26cd465e68bbff4035906432026c825d6f900e371044b68652d45d2d"
+ },
+ "sha1_origem": "e223e221bdc4377795a0d82bf3f18af90f82365a",
+ "bytes_origem": 16428,
+ "capturado_em": "2026-11-08T05:59:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Alto_Rio_Docemgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "e223e221bdc4377795a0d82bf3f18af90f82365a"
+ }
+}

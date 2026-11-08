@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2207702",
+ "uf": "PI",
+ "municipio": "Parnaíba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bandeira_Parna%C3%ADba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4345d22b68b3035a9957c33c40e27e16770cc9a1ffb220120fc3254bf0db6642",
+ "rendicoes": {
+  "png": {
+   "bytes": 59687,
+   "sha256": "6f641d56338f2ef11b13fdcd2ade27a448622a019e5792845c33ede7c1fadef8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13796,
+   "sha256": "5c557e111abfe72977131caf716da19ac1e776a2d57138048016a55063f442c6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2207702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2207702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2207702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2207702.jpg",
+  "bytes": 21929,
+  "sha256": "4345d22b68b3035a9957c33c40e27e16770cc9a1ffb220120fc3254bf0db6642"
+ },
+ "sha1_origem": "e3ed68150154e36c17323e469e4518a31455d126",
+ "bytes_origem": 21929,
+ "capturado_em": "2026-11-08T05:31:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Parnaíba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "e3ed68150154e36c17323e469e4518a31455d126"
+ }
+}

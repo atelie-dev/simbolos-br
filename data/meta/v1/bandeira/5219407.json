@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5219407",
+ "uf": "GO",
+ "municipio": "Santa Rita do Araguaia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bandeira_de_Santa_Rita_do_Araguaia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Santa Rita do Araguaia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "daac72fdf820a732c5520b5242052c172f4f09a1aa147ae5140a25e28e9eec87",
+ "rendicoes": {
+  "png": {
+   "bytes": 70870,
+   "sha256": "d3cf028aa54495dc4a238d1ad5042d9e090b96e8d9618ef10b3386c1c4aa0ad8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17184,
+   "sha256": "5bc0d31ef20c4594e9f9efe313e442caab0e4d74cee68bd27fcce58e0201967e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5219407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5219407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5219407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5219407.jpg",
+  "bytes": 16274,
+  "sha256": "daac72fdf820a732c5520b5242052c172f4f09a1aa147ae5140a25e28e9eec87"
+ },
+ "sha1_origem": "22d3a3c4ef23da66e43bc94efbd76dd70ad11f61",
+ "bytes_origem": 16274,
+ "capturado_em": "2026-11-08T07:20:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santa_Rita_do_Araguaia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "22d3a3c4ef23da66e43bc94efbd76dd70ad11f61"
+ }
+}

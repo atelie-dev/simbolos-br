@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3105905",
+ "uf": "MG",
+ "municipio": "Barroso",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bandeira_de_Barroso.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d32288a11fb92d707f5a9fdf9b8c823157400490c7acfe505c071a7e1a57d028",
+ "rendicoes": {
+  "png": {
+   "bytes": 16706,
+   "sha256": "0323588f033b71e45f5b5c9246766a09893ccc4335cfc9877fedde26fb7e3cc3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9123,
+   "sha256": "0ab0b84a6ac31b360217fb3298b089c711901dfd82943f593bd7378f738bad86",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3105905.png",
+  "bytes": 18923,
+  "sha256": "d32288a11fb92d707f5a9fdf9b8c823157400490c7acfe505c071a7e1a57d028"
+ },
+ "sha1_origem": "b6cd7abd37564653f47bd91b101a7f6312e0e253",
+ "bytes_origem": 18923,
+ "capturado_em": "2026-11-08T06:00:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Barroso.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "b6cd7abd37564653f47bd91b101a7f6312e0e253"
+ }
+}

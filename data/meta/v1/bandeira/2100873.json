@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2100873",
+ "uf": "MA",
+ "municipio": "Araguanã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bandeira_de_Araguan%C3%A3%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Erichssen123",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f0221dc9556ddffdb1b66bb78ac98c48d676f437047827dbec28e1c92c7e94e1",
+ "rendicoes": {
+  "png": {
+   "bytes": 20439,
+   "sha256": "224924ad8210f505d0f30a7c535e5b9737d1d0929b2b1be3e2ad2bc63449d9bb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12264,
+   "sha256": "f5ddc9d433fd606b4ae1c545ca2189f9cdb9029566e1bfcc1af66887f125fbd6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100873.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100873.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100873.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2100873.jpg",
+  "bytes": 17966,
+  "sha256": "f0221dc9556ddffdb1b66bb78ac98c48d676f437047827dbec28e1c92c7e94e1"
+ },
+ "sha1_origem": "81c689d96c9a21bf61899604b1ecc59c709b423d",
+ "bytes_origem": 17966,
+ "capturado_em": "2026-11-08T05:27:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Araguanã,_MA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "81c689d96c9a21bf61899604b1ecc59c709b423d"
+ }
+}

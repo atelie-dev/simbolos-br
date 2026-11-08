@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3151107",
+ "uf": "MG",
+ "municipio": "Pirapetinga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bandeira_de_Pirapetinga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pirapetinga - MG",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f759b581a4105c31965b6697beaf492eedc303d8cf9947301c66d6c188bde645",
+ "rendicoes": {
+  "png": {
+   "bytes": 89694,
+   "sha256": "5477f71c5a7ae993219981ce36a99d03c9a1ef57981f7f29cf9494f6ad4d64fc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24834,
+   "sha256": "23e3c8bac467b971e839f3e8673e094bfa28b19c465b1eac5fa052d918b74ae2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3151107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3151107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3151107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3151107.jpg",
+  "bytes": 59212,
+  "sha256": "f759b581a4105c31965b6697beaf492eedc303d8cf9947301c66d6c188bde645"
+ },
+ "sha1_origem": "607dec2032848074926b5c008eb9e7cce84c36c9",
+ "bytes_origem": 59212,
+ "capturado_em": "2026-11-08T06:13:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pirapetinga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "607dec2032848074926b5c008eb9e7cce84c36c9"
+ }
+}

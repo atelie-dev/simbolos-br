@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4306403",
+ "uf": "RS",
+ "municipio": "Dois Irmãos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bandeira-Dois-Irm%C3%A3os.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Dois Irmãos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ad6951ceb1b2ebac18427662acb2b0725c51ff3983fbfdcc9f525ff96f82094a",
+ "rendicoes": {
+  "png": {
+   "bytes": 18521,
+   "sha256": "b924242b4c69eacf169271c3bf507f3203e1173ab5fd2caa6c2662d1b0526d26",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7644,
+   "sha256": "8a13810a1d4afbe0960f9285c2a59c3f228d5315d0f616ea8c6e49cf880ff255",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4306403.jpg",
+  "bytes": 5635,
+  "sha256": "ad6951ceb1b2ebac18427662acb2b0725c51ff3983fbfdcc9f525ff96f82094a"
+ },
+ "sha1_origem": "57b1937128abf70175f9bcf84332d26a8696044b",
+ "bytes_origem": 5635,
+ "capturado_em": "2026-11-08T07:02:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-Dois-Irmãos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "57b1937128abf70175f9bcf84332d26a8696044b"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1300805",
+ "uf": "AM",
+ "municipio": "Borba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Brasao_Borba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Borba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d9b45ddc6c12f689c80316c766bd666830b9490e11a7af6a289181857b84d631",
+ "rendicoes": {
+  "png": {
+   "bytes": 17349,
+   "sha256": "65646855b0df358f2e55fe1b48553d66a8e451c7dc2646c680f2f8dc9a95e5de",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4878,
+   "sha256": "61df402a51368be08375ef175319c3cad1512cdf233d511f97b90cfe7fb45092",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1300805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1300805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1300805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1300805.jpg",
+  "bytes": 5711,
+  "sha256": "d9b45ddc6c12f689c80316c766bd666830b9490e11a7af6a289181857b84d631"
+ },
+ "sha1_origem": "23e6baeba39c7b5cacfecdd8c8f4c04f8ca83f40",
+ "bytes_origem": 5711,
+ "capturado_em": "2026-11-08T05:22:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Borba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "23e6baeba39c7b5cacfecdd8c8f4c04f8ca83f40"
+ }
+}

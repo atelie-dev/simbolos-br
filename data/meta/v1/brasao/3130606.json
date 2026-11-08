@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3130606",
+ "uf": "MG",
+ "municipio": "Inconfidentes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Brasaoinconfidentes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Inconfidentes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "265c32a975ecb6a355f79088b55df6fd1f1d9cd7721c578b6f865eb089fe97e1",
+ "rendicoes": {
+  "png": {
+   "bytes": 21600,
+   "sha256": "a202fdedc8cda6d6dca85174fb191fdc14018f49c376b84c323ea45b53c9cbc2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5705,
+   "sha256": "fcc9a336a34979a2eb029e083ab248005cbc6fc246a973699f50ee3ba55ec273",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3130606.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3130606.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3130606.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3130606.jpg",
+  "bytes": 10065,
+  "sha256": "265c32a975ecb6a355f79088b55df6fd1f1d9cd7721c578b6f865eb089fe97e1"
+ },
+ "sha1_origem": "ec8dc05cf160977b44233f9ea47359995ab6d654",
+ "bytes_origem": 10065,
+ "capturado_em": "2026-11-08T06:08:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoinconfidentes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "ec8dc05cf160977b44233f9ea47359995ab6d654"
+ }
+}

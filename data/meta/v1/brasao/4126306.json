@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4126306",
+ "uf": "PR",
+ "municipio": "Sengés",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Brasaosenges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Sengés",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f180d53ddc46b47c4eae84f8eb72be1adf006c232bca4beea81b31b021f4ab35",
+ "rendicoes": {
+  "png": {
+   "bytes": 59851,
+   "sha256": "b8a717c14f5d813e32c192135acb286792e660fa8b96fd12cf2de5f4b2705872",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12832,
+   "sha256": "b70ebd150f509f6279d881c84908b720dffe55e670a34dd7469b89ad3925da0b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4126306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4126306.jpg",
+  "bytes": 46256,
+  "sha256": "f180d53ddc46b47c4eae84f8eb72be1adf006c232bca4beea81b31b021f4ab35"
+ },
+ "sha1_origem": "9431594bc6fad63657514c568af42fb02041895a",
+ "bytes_origem": 46256,
+ "capturado_em": "2026-11-08T06:50:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaosenges.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "9431594bc6fad63657514c568af42fb02041895a"
+ }
+}

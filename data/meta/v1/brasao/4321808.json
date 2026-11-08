@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321808",
+ "uf": "RS",
+ "municipio": "Três de Maio",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Tres-de-maiobrasrs.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Três de Maio",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "34ca618046cd82563d9d3d34d7e56385a36e4f7cbc0efbd7fa60dcc825f8f851",
+ "rendicoes": {
+  "png": {
+   "bytes": 60430,
+   "sha256": "ce04288e9fc49ce16f7a6fb87757db374564b7b582e08b4d071614ca3ca5fc61",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13295,
+   "sha256": "a39f3ca3dc5b5c1e3c7a29125fb0a98429caed3d59f0b8ba1d5d74d8be1c5884",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4321808.jpg",
+  "bytes": 7188,
+  "sha256": "34ca618046cd82563d9d3d34d7e56385a36e4f7cbc0efbd7fa60dcc825f8f851"
+ },
+ "sha1_origem": "042d905931bb82659be68413b8e20cde7c1f70d8",
+ "bytes_origem": 7188,
+ "capturado_em": "2026-11-08T07:11:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Tres-de-maiobrasrs.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:38Z",
+  "estado": "igual",
+  "sha1_commons": "042d905931bb82659be68413b8e20cde7c1f70d8"
+ }
+}

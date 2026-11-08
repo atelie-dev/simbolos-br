@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3536208",
+ "uf": "SP",
+ "municipio": "Pariquera-Açu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bras%C3%A3o_Pariquera-A%C3%A7u.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "16830a55f503cf65b97275ca865372358c8ee2910e596fef39f44a1bec6250df",
+ "rendicoes": {
+  "png": {
+   "bytes": 59352,
+   "sha256": "17a1c459c1ad4aa5dbb5cce967305f5b115337322e5ddde2f20112678322ea51",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16735,
+   "sha256": "aab192d4f887e9fba76b95b79fd9b167718ee5d436473b14030aaf7fc92f354d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3536208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3536208.png",
+  "bytes": 30033,
+  "sha256": "16830a55f503cf65b97275ca865372358c8ee2910e596fef39f44a1bec6250df"
+ },
+ "sha1_origem": "99ec84ca4bc4bf9fb3c8fbe4b2f8998421fb3676",
+ "bytes_origem": 30033,
+ "capturado_em": "2026-11-08T06:34:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Pariquera-Açu.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "99ec84ca4bc4bf9fb3c8fbe4b2f8998421fb3676"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2930808",
+ "uf": "BA",
+ "municipio": "Souto Soares",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bras%C3%A3o_de_Souto_Soares.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Souto Soares",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f3979ca7ccfdcad32190fab9905159131c5b950df5c538626f7e5da8df301016",
+ "rendicoes": {
+  "png": {
+   "bytes": 210748,
+   "sha256": "8547bce09af82247a37e8a1839aa1dec88af0ba8b2c1730ae967c914c989c0db",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40921,
+   "sha256": "93a6deb2c9500d7f5b363c797f30445d372b813130bd076b72b34d592e150588",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2930808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2930808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2930808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2930808.jpg",
+  "bytes": 66875,
+  "sha256": "f3979ca7ccfdcad32190fab9905159131c5b950df5c538626f7e5da8df301016"
+ },
+ "sha1_origem": "ccae95a3883c432052f8cd2350f31c8308549280",
+ "bytes_origem": 66875,
+ "capturado_em": "2026-11-08T05:57:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Souto_Soares.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:12Z",
+  "estado": "igual",
+  "sha1_commons": "ccae95a3883c432052f8cd2350f31c8308549280"
+ }
+}

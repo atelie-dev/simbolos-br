@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1706001",
+ "uf": "TO",
+ "municipio": "Couto Magalhães",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Brasaocmto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Couto de Magalhães",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "53ad73c96b0d935c3e73108d59fdd6acc4834a8e226c7c56653c93bccdbd870c",
+ "rendicoes": {
+  "png": {
+   "bytes": 278292,
+   "sha256": "ae738bd72cf252bc211920a9e0ade0b6a67cbcdcd91a8a7939d5131590f0b2e0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67930,
+   "sha256": "812fd493452d1597a0ae2cf97b60b10ab86af5359c0cb724c52cd78b18f4d587",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1706001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1706001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1706001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1706001.jpg",
+  "bytes": 268233,
+  "sha256": "53ad73c96b0d935c3e73108d59fdd6acc4834a8e226c7c56653c93bccdbd870c"
+ },
+ "sha1_origem": "0f3120f3c4be6ff926a072a656eff9e3267d03b6",
+ "bytes_origem": 268233,
+ "capturado_em": "2026-11-08T05:26:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaocmto.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "0f3120f3c4be6ff926a072a656eff9e3267d03b6"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3109204",
+ "uf": "MG",
+ "municipio": "Buenópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bandeira_Buen%C3%B3polis_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Buenópolis MG",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "961fafad634296ce4f6b351a292bdb6216a6db7fa5e87f08b4db5021e41f27c5",
+ "rendicoes": {
+  "png": {
+   "bytes": 6016,
+   "sha256": "85cc31e02337e95dad0824f424b06998d7326ab6bf24dd37f6049c522dc8b715",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5355,
+   "sha256": "14ff16c6405b1f7916746cf7b0c44c507e4611dd0c643dc831d0e418f575f5ec",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3109204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3109204.png",
+  "bytes": 2921,
+  "sha256": "961fafad634296ce4f6b351a292bdb6216a6db7fa5e87f08b4db5021e41f27c5"
+ },
+ "sha1_origem": "134103a66314fc3ac43d9bb970a6e09bf0e5ed22",
+ "bytes_origem": 2921,
+ "capturado_em": "2026-11-08T06:01:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Buenópolis_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "134103a66314fc3ac43d9bb970a6e09bf0e5ed22"
+ }
+}

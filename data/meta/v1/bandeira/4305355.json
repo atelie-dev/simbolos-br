@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305355",
+ "uf": "RS",
+ "municipio": "Charqueadas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Charqueadasbandts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Charqueadas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "06392fb48a6bb377f7ec0d2edb7ccee824826c7ace410fd79f7a3a697b5e4a84",
+ "rendicoes": {
+  "png": {
+   "bytes": 48218,
+   "sha256": "75e7c50a472a458f5d23941ffe37426abcbb97c220a5362343d524b98921f0e3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8472,
+   "sha256": "be851da9d6b3bdd0ba81bb1c474374637e67ec6b09d7629778796f2f2d3d401f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305355.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305355.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305355.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4305355.jpg",
+  "bytes": 22776,
+  "sha256": "06392fb48a6bb377f7ec0d2edb7ccee824826c7ace410fd79f7a3a697b5e4a84"
+ },
+ "sha1_origem": "c1badd6224c063c6fd1766adf0e6c3e14dfd2ac7",
+ "bytes_origem": 22776,
+ "capturado_em": "2026-11-08T07:01:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Charqueadasbandts.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:22Z",
+  "estado": "igual",
+  "sha1_commons": "c1badd6224c063c6fd1766adf0e6c3e14dfd2ac7"
+ }
+}

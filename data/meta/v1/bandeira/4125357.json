@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4125357",
+ "uf": "PR",
+ "municipio": "São Jorge do Patrocínio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bandeira_S%C3%A3o_Jorge_do_Patroc%C3%ADnio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Jorge do Patrocínio",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "512b82cc282dd4718f6f427406f560ae2ee114e18535b6b275df92fc41aba019",
+ "rendicoes": {
+  "png": {
+   "bytes": 83698,
+   "sha256": "92532cc17be0642aa851f7e1442dbb3af2e07e7454b42b50917313df9249695b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16020,
+   "sha256": "60b25a0a29b315f7920121dd04cbda19a002bd649bf04766916368bc78f23a07",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125357.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125357.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125357.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4125357.jpg",
+  "bytes": 226232,
+  "sha256": "512b82cc282dd4718f6f427406f560ae2ee114e18535b6b275df92fc41aba019"
+ },
+ "sha1_origem": "da6629f7648eb470219fe7ecea5d448d83d1b3d7",
+ "bytes_origem": 226232,
+ "capturado_em": "2026-11-08T06:49:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_São_Jorge_do_Patrocínio.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "da6629f7648eb470219fe7ecea5d448d83d1b3d7"
+ }
+}

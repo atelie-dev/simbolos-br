@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2304251",
+ "uf": "CE",
+ "municipio": "Cruz",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/11/BandeiradeCruz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pedromfer",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3015fe4a83b129d3fb2a76e94f82fc32983f74ee7ee9f31ee3f8b593d5d39276",
+ "rendicoes": {
+  "png": {
+   "bytes": 282719,
+   "sha256": "103fda3148c2265acdbb5d334e1800fc207b79d3b51a9194875e01917967ad6f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32350,
+   "sha256": "0b05dc78957e341faea9f87bc3c0d51fc7a3a1cd23a6c881a14f06d33203f951",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304251.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304251.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304251.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2304251.jpg",
+  "bytes": 332405,
+  "sha256": "3015fe4a83b129d3fb2a76e94f82fc32983f74ee7ee9f31ee3f8b593d5d39276"
+ },
+ "sha1_origem": "8427b728258b3e2f6f62cc989215399f86a9b03b",
+ "bytes_origem": 332405,
+ "capturado_em": "2026-11-08T05:32:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiradeCruz.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "8427b728258b3e2f6f62cc989215399f86a9b03b"
+ }
+}

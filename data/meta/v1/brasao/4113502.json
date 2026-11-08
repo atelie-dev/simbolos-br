@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4113502",
+ "uf": "PR",
+ "municipio": "Loanda",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bras%C3%A3o_de_Loanda.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Loanda",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6dced25dcaaad4cd8b8161f4ad519182af82457b718977c548a8e729c72cb981",
+ "rendicoes": {
+  "png": {
+   "bytes": 92611,
+   "sha256": "68364a4b8a4d979e62d8a046a8b8966f4a2101eb8b9527be3b2e75fe08b13cb0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37913,
+   "sha256": "29195a13ed779fc52cc27de808abbac49c20ea6e03b12643df82df71d2f95bbe",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4113502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4113502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4113502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4113502.png",
+  "bytes": 38296,
+  "sha256": "6dced25dcaaad4cd8b8161f4ad519182af82457b718977c548a8e729c72cb981"
+ },
+ "sha1_origem": "47659bc9c6d46c3b6e73feb18c60f6f476538846",
+ "bytes_origem": 38296,
+ "capturado_em": "2026-11-08T06:45:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Loanda.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:05Z",
+  "estado": "igual",
+  "sha1_commons": "47659bc9c6d46c3b6e73feb18c60f6f476538846"
+ }
+}

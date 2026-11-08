@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3505401",
+ "uf": "SP",
+ "municipio": "Barra do Turvo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Barra_do_Turvo.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c808c7d7a463780a12d0bb4c8395a318766a49f041d52d05249e93cdd13699cd",
+ "rendicoes": {
+  "png": {
+   "bytes": 388453,
+   "sha256": "d7eab68b43f5bdabf493c32d4b7957f0664e242b80de0fc512d2fbf5c00c283f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60783,
+   "sha256": "e2097f26d3052883f53188357f3f9c38ed927ab622bae2b2f140d7623753b8b2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3505401.png",
+  "bytes": 507536,
+  "sha256": "c808c7d7a463780a12d0bb4c8395a318766a49f041d52d05249e93cdd13699cd"
+ },
+ "sha1_origem": "26a9f21b1dd088c4a8b8c475f439a401446fe94e",
+ "bytes_origem": 507536,
+ "capturado_em": "2026-11-08T06:24:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Barra_do_Turvo.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "26a9f21b1dd088c4a8b8c475f439a401446fe94e"
+ }
+}

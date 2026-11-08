@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5218607",
+ "uf": "GO",
+ "municipio": "Rialma",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bras%C3%A3o_de_Rialma.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Rialma",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "694d7e56a385f437cc859207a73383086b06a9385451c3971e5cb49750efb43b",
+ "rendicoes": {
+  "png": {
+   "bytes": 23791,
+   "sha256": "8617ed7af3e99de478b874909f3e0d3536596194f1983c2085c766c577ef7b35",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6237,
+   "sha256": "5eed3f91e26cb2a64e9034488ed784b246fccbe1d6d63114592bb46c2393b5ca",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5218607.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5218607.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5218607.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5218607.png",
+  "bytes": 22620,
+  "sha256": "694d7e56a385f437cc859207a73383086b06a9385451c3971e5cb49750efb43b"
+ },
+ "sha1_origem": "720d05a577601768239772f554fbe35514df5c85",
+ "bytes_origem": 22620,
+ "capturado_em": "2026-11-08T07:20:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Rialma.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:10Z",
+  "estado": "igual",
+  "sha1_commons": "720d05a577601768239772f554fbe35514df5c85"
+ }
+}

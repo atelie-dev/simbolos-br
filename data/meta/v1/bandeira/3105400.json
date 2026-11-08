@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3105400",
+ "uf": "MG",
+ "municipio": "Barão de Cocais",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bandeira_de_Bar%C3%A3o_de_Cocais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pref. Mun. Barão de Cocais",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "422c0862b533b8797b6391c246517da47ebb10a97902d65846ec6b339c9a6247",
+ "rendicoes": {
+  "png": {
+   "bytes": 37301,
+   "sha256": "45fceadefa23882e3bb3dfc24fea3e0999b1b1e9ee8cf0fb3f4ad27e348afeaa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11310,
+   "sha256": "b39a86055cc204adaa2763486ad69d4f2b12eea8cc9fd84f9e2a80a2caa2a9fa",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3105400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3105400.jpg",
+  "bytes": 16485,
+  "sha256": "422c0862b533b8797b6391c246517da47ebb10a97902d65846ec6b339c9a6247"
+ },
+ "sha1_origem": "16e0cc195d70d29f51ae3f8bc5cbcf1f626c640f",
+ "bytes_origem": 16485,
+ "capturado_em": "2026-11-08T06:00:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Barão_de_Cocais.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "16e0cc195d70d29f51ae3f8bc5cbcf1f626c640f"
+ }
+}

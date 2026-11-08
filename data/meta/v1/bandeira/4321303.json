@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321303",
+ "uf": "RS",
+ "municipio": "Taquari",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/BandeiraTaquari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Jonatha Martins Cardoso",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "78484b93dde621b767433e4bc22d25cccff5d8f9edd5faf088501de95020c014",
+ "rendicoes": {
+  "png": {
+   "bytes": 35858,
+   "sha256": "04761cdf4d909219aec2387f3005c34155f362c5328ee8ae377dd06cd065c5e5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13496,
+   "sha256": "10b5afbe5f0f6725ec437100507e883352fda8db696e2d780288d9e783a8e0e5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4321303.jpg",
+  "bytes": 8537,
+  "sha256": "78484b93dde621b767433e4bc22d25cccff5d8f9edd5faf088501de95020c014"
+ },
+ "sha1_origem": "f4dd8b82972e3b6c0ad2e5a689b3e3ea47399380",
+ "bytes_origem": 8537,
+ "capturado_em": "2026-11-08T07:10:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraTaquari.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "f4dd8b82972e3b6c0ad2e5a689b3e3ea47399380"
+ }
+}

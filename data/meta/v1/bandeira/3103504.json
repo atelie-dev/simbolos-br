@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3103504",
+ "uf": "MG",
+ "municipio": "Araguari",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bandeira-araguari-mg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Iury",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1541ae8dc219d26a8d12c2725802f5a23697480c6360206ab0f22745343fbb2d",
+ "rendicoes": {
+  "png": {
+   "bytes": 102812,
+   "sha256": "e702da05402016a41d9adf5073460afff1378e862f9f71cee1825fb5bb96f247",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32334,
+   "sha256": "d5920ed1a060ca74ddc1fe38172798aaa8f0c3e8e4f55e6ba0f717283bd07f64",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3103504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3103504.jpg",
+  "bytes": 62845,
+  "sha256": "1541ae8dc219d26a8d12c2725802f5a23697480c6360206ab0f22745343fbb2d"
+ },
+ "sha1_origem": "7f9dff68212eca155191e49a492169936c157960",
+ "bytes_origem": 62845,
+ "capturado_em": "2026-11-08T05:59:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-araguari-mg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "7f9dff68212eca155191e49a492169936c157960"
+ }
+}

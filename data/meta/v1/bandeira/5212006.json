@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5212006",
+ "uf": "GO",
+ "municipio": "Jaupaci",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bandeira_de_Jaupaci.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Jaupaci",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8e2e2e56c403c643dea48551e63905fb50b659ba2c9ecfc1e861a01998bcc3d4",
+ "rendicoes": {
+  "png": {
+   "bytes": 90432,
+   "sha256": "94f7dfdebbabb438650e2a871b4fb8f69827eab5296c728fa79b489559f16cfc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21082,
+   "sha256": "160314a8dfa27932cea339e161f251626eceed92e14feaee4ae2938af46873d4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5212006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5212006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5212006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5212006.jpg",
+  "bytes": 44414,
+  "sha256": "8e2e2e56c403c643dea48551e63905fb50b659ba2c9ecfc1e861a01998bcc3d4"
+ },
+ "sha1_origem": "8c64349b4f26823f38f110ac7f3b6e0d5bec30a9",
+ "bytes_origem": 44414,
+ "capturado_em": "2026-11-08T07:18:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Jaupaci.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "8c64349b4f26823f38f110ac7f3b6e0d5bec30a9"
+ }
+}

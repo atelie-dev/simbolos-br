@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3100104",
+ "uf": "MG",
+ "municipio": "Abadia dos Dourados",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Abadialeompbgustavo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Léo / MPB / Gustavo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "177e8cb62a0a4327a433ad1cee07ad950ce49df9ce2ebf5d2ef22e89d08eb77a",
+ "rendicoes": {
+  "png": {
+   "bytes": 378114,
+   "sha256": "c60eacc518b3561a8b181282192aef2db04b32fe5f52bbccc39bedbaf0ff0ba1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63886,
+   "sha256": "d924f0831feb45cafa8ce0218d82fbf56bb18fa215a8cfce2244f48d9ff6f18e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3100104.jpg",
+  "bytes": 158296,
+  "sha256": "177e8cb62a0a4327a433ad1cee07ad950ce49df9ce2ebf5d2ef22e89d08eb77a"
+ },
+ "sha1_origem": "7070ffc0d0656b0458d72340339be34e5c80d947",
+ "bytes_origem": 158296,
+ "capturado_em": "2026-11-08T05:58:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Abadialeompbgustavo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "7070ffc0d0656b0458d72340339be34e5c80d947"
+ }
+}

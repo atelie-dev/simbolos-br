@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3107505",
+ "uf": "MG",
+ "municipio": "Bom Jardim de Minas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/50/Bandeira_de_Bom_Jardim_de_Minas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Carlos Alexandre",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1174708c31290b508a085f7f2a6464ceb2516bd7ef37cebfc021d88a3644a432",
+ "rendicoes": {
+  "png": {
+   "bytes": 62564,
+   "sha256": "afcffb704675034a4af9591c24d8c547abb0189b3a096aa84c1848dfcd22d5b8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16928,
+   "sha256": "e6485674cb6ff3110ae43c745546ff4365918589a4dde3e487e1cb0fb7d5f74f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3107505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3107505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3107505.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3107505.png",
+  "bytes": 1263953,
+  "sha256": "1174708c31290b508a085f7f2a6464ceb2516bd7ef37cebfc021d88a3644a432"
+ },
+ "sha1_origem": "dbc09e037d218eae13cae0e7f5d3250d5757ab48",
+ "bytes_origem": 1263953,
+ "capturado_em": "2026-11-08T06:00:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bom_Jardim_de_Minas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "dbc09e037d218eae13cae0e7f5d3250d5757ab48"
+ }
+}

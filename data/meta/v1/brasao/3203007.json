@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3203007",
+ "uf": "ES",
+ "municipio": "Iúna",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Brasao_iuna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Iúna - ES",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cb81d839df9bc481aab9c3d91995d6bb603b187bdbd255bfb24b4551bc81ff50",
+ "rendicoes": {
+  "png": {
+   "bytes": 41559,
+   "sha256": "31193404ec916dede038db1ba7435988228b1dcaa8ddca512ad4f1520786f2e4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9558,
+   "sha256": "7406ef4f0eca5ee92c53a3152c6d0e962c14449570a425dd4e184e12e140fb02",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3203007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3203007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3203007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3203007.jpg",
+  "bytes": 7966,
+  "sha256": "cb81d839df9bc481aab9c3d91995d6bb603b187bdbd255bfb24b4551bc81ff50"
+ },
+ "sha1_origem": "dba96251dfbe39499fb3b345fa934bc61ac2288a",
+ "bytes_origem": 7966,
+ "capturado_em": "2026-11-08T06:19:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_iuna.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "dba96251dfbe39499fb3b345fa934bc61ac2288a"
+ }
+}

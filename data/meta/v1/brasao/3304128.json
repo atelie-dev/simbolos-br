@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3304128",
+ "uf": "RJ",
+ "municipio": "Quatis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Brasao-quatis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4d018f8023d4e015e215cb32ac658f8a367e42254f4cd9cba818ad4897bf6b8f",
+ "rendicoes": {
+  "png": {
+   "bytes": 307799,
+   "sha256": "c827814b9677084b4ffe1f59f6f95694fb0b83225b507e4bfb7919253b883922",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58162,
+   "sha256": "a68367dd7de272f898b48b7de72534fb72103b4a6bfa9e88adc1442181aefb60",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304128.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304128.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304128.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3304128.jpg",
+  "bytes": 69392,
+  "sha256": "4d018f8023d4e015e215cb32ac658f8a367e42254f4cd9cba818ad4897bf6b8f"
+ },
+ "sha1_origem": "923c6ca028cdb627e4943326a495b7a03185e6b2",
+ "bytes_origem": 69392,
+ "capturado_em": "2026-11-08T06:21:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-quatis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:29Z",
+  "estado": "igual",
+  "sha1_commons": "923c6ca028cdb627e4943326a495b7a03185e6b2"
+ }
+}

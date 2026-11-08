@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3163201",
+ "uf": "MG",
+ "municipio": "São José do Alegre",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Brasao_sao_jose_do_alegre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "São José do Alegre City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1a17b2369f88e5913a04a77d2513aba4b3d2ba209f7ac41049392e5cf7c7638a",
+ "rendicoes": {
+  "png": {
+   "bytes": 57101,
+   "sha256": "3842a860e088b75a5befc072f2a1dca0e8c19ff2796ee2ef818f705b5ea57647",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11958,
+   "sha256": "25160fa57b64569ef451607440c244d58ed06d6d0cee872d2f337ce32edb4a70",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3163201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3163201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3163201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3163201.jpg",
+  "bytes": 18552,
+  "sha256": "1a17b2369f88e5913a04a77d2513aba4b3d2ba209f7ac41049392e5cf7c7638a"
+ },
+ "sha1_origem": "99ac57874c3c9a35be3aa8d7690799e04d31dcc3",
+ "bytes_origem": 18552,
+ "capturado_em": "2026-11-08T06:16:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_sao_jose_do_alegre.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "99ac57874c3c9a35be3aa8d7690799e04d31dcc3"
+ }
+}

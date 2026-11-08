@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3159803",
+ "uf": "MG",
+ "municipio": "Santa Vitória",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Brasaostavitoriamg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santa Vitória",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7d8f496ea8a1ecebb37736e87a7edc916290daed3641c223318fdcc83ec5123f",
+ "rendicoes": {
+  "png": {
+   "bytes": 25898,
+   "sha256": "bd83ba82be3dcf75768db546ba65987c32198ccf3fa99a059e31fdbea8e2ce34",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9565,
+   "sha256": "8c4eeb73fc57b15c312203072e64f4ae93398c4e4d620fb32896175c9290a556",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3159803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3159803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3159803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3159803.png",
+  "bytes": 10900,
+  "sha256": "7d8f496ea8a1ecebb37736e87a7edc916290daed3641c223318fdcc83ec5123f"
+ },
+ "sha1_origem": "d1ebf0659265407cef0391a820058faaaa7e68f7",
+ "bytes_origem": 10900,
+ "capturado_em": "2026-11-08T06:15:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaostavitoriamg.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "d1ebf0659265407cef0391a820058faaaa7e68f7"
+ }
+}

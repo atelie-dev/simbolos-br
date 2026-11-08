@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1709302",
+ "uf": "TO",
+ "municipio": "Guaraí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bandeira_Guara%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Guaraí",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fa5834d2e83123d9b3071cdfa247f83bd6d1fee35b5ae1de201c127bb5782cf3",
+ "rendicoes": {
+  "png": {
+   "bytes": 72847,
+   "sha256": "913de6d877a3d4196a21e1229263c6658b361e90ec0b4b0cdd234dd9c3a0eed4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16327,
+   "sha256": "4bdb808be2b9ed7276031d1db62045ab0855b0ea243562828c1f7454e16275e9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1709302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1709302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1709302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1709302.jpg",
+  "bytes": 12327,
+  "sha256": "fa5834d2e83123d9b3071cdfa247f83bd6d1fee35b5ae1de201c127bb5782cf3"
+ },
+ "sha1_origem": "6c237de4564f61a160e03bcc7c5e08fdfb074988",
+ "bytes_origem": 12327,
+ "capturado_em": "2026-11-08T05:26:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Guaraí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "6c237de4564f61a160e03bcc7c5e08fdfb074988"
+ }
+}

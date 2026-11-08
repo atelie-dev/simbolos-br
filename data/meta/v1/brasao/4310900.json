@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4310900",
+ "uf": "RS",
+ "municipio": "Jacutinga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Bras%C3%A3o_Jacutinga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Jacutinga",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "18af8982bdf27308ea8288e62c78d761e2079f04d2b1f6d75c660127b2780676",
+ "rendicoes": {
+  "png": {
+   "bytes": 139096,
+   "sha256": "99f99ad4408c93750d1e7eb65b307e7265b3f87f1a83a3333db0679cddcf4995",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29815,
+   "sha256": "a590fd06510ba8166b606b6f0674e24ce27d6cb96ad7ff5ea11a319ae0785739",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4310900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4310900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4310900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4310900.jpg",
+  "bytes": 24003,
+  "sha256": "18af8982bdf27308ea8288e62c78d761e2079f04d2b1f6d75c660127b2780676"
+ },
+ "sha1_origem": "90c37877c34be06f6280d8c1d9ceb32b651549ec",
+ "bytes_origem": 24003,
+ "capturado_em": "2026-11-08T07:04:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Jacutinga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "90c37877c34be06f6280d8c1d9ceb32b651549ec"
+ }
+}

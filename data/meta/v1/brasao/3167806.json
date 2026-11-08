@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3167806",
+ "uf": "MG",
+ "municipio": "Soledade de Minas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Brasaosoledadedeminas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Soledade de Minas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3f9b3dc48e0e85045b835e9e4e17a85baa72ec77e6e5ad3bea7349d4080cf64c",
+ "rendicoes": {
+  "png": {
+   "bytes": 171508,
+   "sha256": "6d69637ea1ad169dcfef28d57c739b27bc8157f18250b53eed70e87ff265a2b3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34638,
+   "sha256": "b44f8ee62951f3bf574033c5866ba48f22275d53c226127943e9981c3c51ddee",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3167806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3167806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3167806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3167806.jpg",
+  "bytes": 105639,
+  "sha256": "3f9b3dc48e0e85045b835e9e4e17a85baa72ec77e6e5ad3bea7349d4080cf64c"
+ },
+ "sha1_origem": "bb3750744a20b016feebeb8034dbc0ae63acdc59",
+ "bytes_origem": 105639,
+ "capturado_em": "2026-11-08T06:17:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaosoledadedeminas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "bb3750744a20b016feebeb8034dbc0ae63acdc59"
+ }
+}

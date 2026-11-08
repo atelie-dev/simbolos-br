@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3528106",
+ "uf": "SP",
+ "municipio": "Macaubal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Macaubal.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "97342b296dc3f0377c0335bb6922e26c41ad3f321eea015899168e6585e8ed94",
+ "rendicoes": {
+  "png": {
+   "bytes": 437391,
+   "sha256": "3473a02266ec1677a433a9adff2f35109c292d5d90d1d43d9d76ce8bfd13fe35",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 70059,
+   "sha256": "2e33b0d67d9203ea30ed9222d00c8468f44eefdb9858ec4a458ad0d0de202a50",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3528106.png",
+  "bytes": 491470,
+  "sha256": "97342b296dc3f0377c0335bb6922e26c41ad3f321eea015899168e6585e8ed94"
+ },
+ "sha1_origem": "454372ca1bcbc41572d06fe693f6bb3ada0133cb",
+ "bytes_origem": 491470,
+ "capturado_em": "2026-11-08T06:31:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Macaubal.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "454372ca1bcbc41572d06fe693f6bb3ada0133cb"
+ }
+}

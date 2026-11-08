@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4210407",
+ "uf": "SC",
+ "municipio": "Maracajá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bandeira_Maracaja_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Maracajá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "95a50d6bb9582bcf578635125a423b5b2bf8b92c33bf4c00b154c72c68657930",
+ "rendicoes": {
+  "png": {
+   "bytes": 18699,
+   "sha256": "a8fc466b7108be8796c3a96bd1dc247d2b67839dfcdf22927c08d66458114b04",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5107,
+   "sha256": "8bec5e1fefa254d43535d2eeae860cb93a3c4c5efe26994b2379a1a4022a6db2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4210407.jpg",
+  "bytes": 2572,
+  "sha256": "95a50d6bb9582bcf578635125a423b5b2bf8b92c33bf4c00b154c72c68657930"
+ },
+ "sha1_origem": "3581028357904b78895991dba1c52924f8408cf7",
+ "bytes_origem": 2572,
+ "capturado_em": "2026-11-08T06:54:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Maracaja_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "3581028357904b78895991dba1c52924f8408cf7"
+ }
+}

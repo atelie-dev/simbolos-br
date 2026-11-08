@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2310001",
+ "uf": "CE",
+ "municipio": "Palhano",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bras%C3%A3oPalhanoCear%C3%A1Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Palhano, Ceará",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d6a97176f78bb12fe3a35732e73d8fc570c1f41b99b020f4dec344dbcb2107b5",
+ "rendicoes": {
+  "png": {
+   "bytes": 83695,
+   "sha256": "fec6318c65d0dfc64e27ba7325d7d20bfd19cfac971b8953730ecdb19eb99e74",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20191,
+   "sha256": "06d3107b2656ee3e90a558f8a3de27ddc79a8f79d330963b055121391fc89570",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2310001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2310001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2310001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2310001.jpg",
+  "bytes": 16185,
+  "sha256": "d6a97176f78bb12fe3a35732e73d8fc570c1f41b99b020f4dec344dbcb2107b5"
+ },
+ "sha1_origem": "649df67167ab417c2cc18dae91d3a9a9200b5dd4",
+ "bytes_origem": 16185,
+ "capturado_em": "2026-11-08T05:34:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasãoPalhanoCearáBrasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "649df67167ab417c2cc18dae91d3a9a9200b5dd4"
+ }
+}

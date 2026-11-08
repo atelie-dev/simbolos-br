@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3512902",
+ "uf": "SP",
+ "municipio": "Cosmorama",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Cosmorama-brasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Gilson de Moura",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "83656c3c6b4fe9412b6c0b7e2c8889ba00ad1c161a45ff32019aadab33a5d06e",
+ "rendicoes": {
+  "png": {
+   "bytes": 318311,
+   "sha256": "a738984dc3e964dd87c7bdcc52e720bff1e79d69e8366a2e04550c56ab68fe88",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54360,
+   "sha256": "d64e6a777b3ead4cf468a132891e567aad5495cbad0946d94df0e569073c6bc4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3512902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3512902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3512902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3512902.jpg",
+  "bytes": 168767,
+  "sha256": "83656c3c6b4fe9412b6c0b7e2c8889ba00ad1c161a45ff32019aadab33a5d06e"
+ },
+ "sha1_origem": "f321e95d8b60cab36ab21fd0728af94dd66fe4a7",
+ "bytes_origem": 168767,
+ "capturado_em": "2026-11-08T06:26:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cosmorama-brasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "f321e95d8b60cab36ab21fd0728af94dd66fe4a7"
+ }
+}

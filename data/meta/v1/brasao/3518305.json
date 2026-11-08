@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3518305",
+ "uf": "SP",
+ "municipio": "Guararema",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Guararema.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Emerson Silva",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4da3df05d2e6dce8dd61c8d397fc2b5356c49c5f6e9912874dd33b8d88d3133a",
+ "rendicoes": {
+  "png": {
+   "bytes": 437874,
+   "sha256": "2645aae683da0ce64f17b813404c287956d7cc1ca5514d069f4a7b15cca1ee78",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 77807,
+   "sha256": "bfe57bb8b5f8966d10b4c7f9d317afdd38b5aed916fe323736d126e21bef4ca1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3518305.png",
+  "bytes": 377120,
+  "sha256": "4da3df05d2e6dce8dd61c8d397fc2b5356c49c5f6e9912874dd33b8d88d3133a"
+ },
+ "sha1_origem": "bffed72a248cd34bb1f8c26a51a5d0039b5a99dc",
+ "bytes_origem": 377120,
+ "capturado_em": "2026-11-08T06:28:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Guararema.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "bffed72a248cd34bb1f8c26a51a5d0039b5a99dc"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4307906",
+ "uf": "RS",
+ "municipio": "Farroupilha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bandeira_de_Farroupilha.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Farroupilha",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "701c253d46f9440e3a33d76e8dc62960c6b517c252355cec098a9b4d83b317e2",
+ "rendicoes": {
+  "png": {
+   "bytes": 36326,
+   "sha256": "07eddf0c208a2367f38b0e8d94bbaa2dbe00c538a7ce8268af4137de052111ef",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18932,
+   "sha256": "d0db48ac050f53bdaf6d318214ab22e8e82ddbd4133f0c0c0f482f779a1dc8f3",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 90409,
+   "sha256": "701c253d46f9440e3a33d76e8dc62960c6b517c252355cec098a9b4d83b317e2"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307906.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307906.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307906.jpg"
+ },
+ "sha1_origem": "7af354ff2df8f8c042e5290aa82424780bb254d9",
+ "bytes_origem": 90409,
+ "capturado_em": "2026-11-08T04:52:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Farroupilha.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "7af354ff2df8f8c042e5290aa82424780bb254d9"
+ }
+}

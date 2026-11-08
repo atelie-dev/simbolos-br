@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3531902",
+ "uf": "SP",
+ "municipio": "Morro Agudo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bandeira_Morro_Agudo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2772e218b9c22b9229898536945b80b5490f17fee37578f4900eeb2f164805eb",
+ "rendicoes": {
+  "png": {
+   "bytes": 57482,
+   "sha256": "82aa5e65ca0ab928a918b75295ca045208e21e378e42d5a328fe54900230958b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18354,
+   "sha256": "ed178659fe526625b5f097702f7b4c98a9f4c27ab77339ac89e337458344a565",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3531902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3531902.jpg",
+  "bytes": 26237,
+  "sha256": "2772e218b9c22b9229898536945b80b5490f17fee37578f4900eeb2f164805eb"
+ },
+ "sha1_origem": "1e40f1074023f3d4a93e9df3256e15e3e885c784",
+ "bytes_origem": 26237,
+ "capturado_em": "2026-11-08T06:32:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Morro_Agudo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "1e40f1074023f3d4a93e9df3256e15e3e885c784"
+ }
+}

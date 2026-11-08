@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3133600",
+ "uf": "MG",
+ "municipio": "Itapeva",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Brasaoitapeva.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Itapeva",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "644ae68b495b5f41e18cc4ff931a011950acd5edbca7b3378333657c646829a4",
+ "rendicoes": {
+  "png": {
+   "bytes": 26404,
+   "sha256": "5eeaf899ae304ac3d388f183b428cedccc100bfcdc298449c9dc2d302a026c8c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8451,
+   "sha256": "05eaed968fa09d63c49a0027d7be393f5e0c7c700deed4047e312fcf814db159",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3133600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3133600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3133600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3133600.png",
+  "bytes": 8630,
+  "sha256": "644ae68b495b5f41e18cc4ff931a011950acd5edbca7b3378333657c646829a4"
+ },
+ "sha1_origem": "cecf47f57a13059ff6f9fc232c174d0733bd3f43",
+ "bytes_origem": 8630,
+ "capturado_em": "2026-11-08T06:09:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoitapeva.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "cecf47f57a13059ff6f9fc232c174d0733bd3f43"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4308433",
+ "uf": "RS",
+ "municipio": "Forquetinha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Forquetinhabrasonbr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Forquetinha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cc8b166ebe63cc56e5555ead6cfc51a466ef1a1e0f262aab7332856fb3d440f0",
+ "rendicoes": {
+  "png": {
+   "bytes": 74198,
+   "sha256": "058723d978a850b6eede72af269df70aaf69e87dc277eaf049c8d24c531ab370",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16086,
+   "sha256": "b94990535489f5a036c1243f02afe86f4901e787d04d31cfe4ff264b956fd238",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308433.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308433.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308433.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4308433.jpg",
+  "bytes": 22996,
+  "sha256": "cc8b166ebe63cc56e5555ead6cfc51a466ef1a1e0f262aab7332856fb3d440f0"
+ },
+ "sha1_origem": "944fd991a283a1731e900befb840a8f864745c0f",
+ "bytes_origem": 22996,
+ "capturado_em": "2026-11-08T07:03:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Forquetinhabrasonbr.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:30Z",
+  "estado": "igual",
+  "sha1_commons": "944fd991a283a1731e900befb840a8f864745c0f"
+ }
+}

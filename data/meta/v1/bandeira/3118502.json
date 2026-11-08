@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3118502",
+ "uf": "MG",
+ "municipio": "Consolação",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Consola%C3%A7%C3%A3omgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Consolação",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "79d310352ad174b0978758b080b0ba46fb89b1723b8c4d7c025444bbfae02517",
+ "rendicoes": {
+  "png": {
+   "bytes": 48609,
+   "sha256": "3ddacb3fe54af5cfc156718c06435e53b2e614232747ab48f91729c2d86ce64b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12667,
+   "sha256": "a9734cd42b020af8aa101ab7c5b88ac6c8b7fc4ccc42f57e7a73337a518618ec",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3118502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3118502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3118502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3118502.jpg",
+  "bytes": 16156,
+  "sha256": "79d310352ad174b0978758b080b0ba46fb89b1723b8c4d7c025444bbfae02517"
+ },
+ "sha1_origem": "6ad994929d6df9d93ca87fa014337db3dff8755c",
+ "bytes_origem": 16156,
+ "capturado_em": "2026-11-08T06:04:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Consolaçãomgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "6ad994929d6df9d93ca87fa014337db3dff8755c"
+ }
+}

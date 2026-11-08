@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1400175",
+ "uf": "RR",
+ "municipio": "Cantá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Flag_of_Cant%C3%A1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Mysid (SVG)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0aad8b1eb2b6e58ff68aa5c8683b1915764d989d2f858cf5c51c81d3caed1ba3",
+ "rendicoes": {
+  "png": {
+   "bytes": 38639,
+   "sha256": "b73a3d30bb120aff418d002567b0f1547261bc5ee7fa1047ca71f3d486f303ad",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19183,
+   "sha256": "b09b1c52a25d8299609653ba91f5501881e3491cc7b64bf39e0ab5b1e030c151",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1863,
+   "sha256": "0aad8b1eb2b6e58ff68aa5c8683b1915764d989d2f858cf5c51c81d3caed1ba3"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400175.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400175.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400175.jpg"
+ },
+ "sha1_origem": "f6d2d0a6f92f1e03aeb2c8e28e2a13a9521ce61d",
+ "bytes_origem": 1863,
+ "capturado_em": "2026-11-08T02:32:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Cantá.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "f6d2d0a6f92f1e03aeb2c8e28e2a13a9521ce61d"
+ }
+}

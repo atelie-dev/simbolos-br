@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5204250",
+ "uf": "GO",
+ "municipio": "Cachoeira Dourada",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Cachoeira_Dourada.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "EuropeanV",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7ec764043b1167d4cfbbb99daf31561337086a1e5c9d17cdeafd9d6edf977b4a",
+ "rendicoes": {
+  "png": {
+   "bytes": 11240,
+   "sha256": "2c1ee0074ffc549d64b60ec2faa41bf76e75a5a75f266cefb11ad3d95c4487e1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10185,
+   "sha256": "9a1334c7d278783cead677a8101217faa2284b7d219e3a64810876b512c3aacd",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 241,
+   "sha256": "7ec764043b1167d4cfbbb99daf31561337086a1e5c9d17cdeafd9d6edf977b4a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204250.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204250.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204250.jpg"
+ },
+ "sha1_origem": "b308e045e79d7762424ba77852de8ac52e538a94",
+ "bytes_origem": 241,
+ "capturado_em": "2026-11-08T05:08:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Cachoeira_Dourada.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "b308e045e79d7762424ba77852de8ac52e538a94"
+ }
+}

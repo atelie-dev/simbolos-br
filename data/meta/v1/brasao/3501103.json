@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3501103",
+ "uf": "SP",
+ "municipio": "Alto Alegre",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bras%C3%A3o_de_Alto_Alegre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Alto Alegre - SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "402763c220777f1b6799e0b108417e0f80849c51f0cdbb4ecfdfb3309f55eab1",
+ "rendicoes": {
+  "png": {
+   "bytes": 51179,
+   "sha256": "4a34943d8aca8f228c434073de3ed6dafcda466d55cb80e613742b021430d241",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12634,
+   "sha256": "2d7cbc89d41f40ee2c0bb3f55ef23a9de3aaf2cb19fd662d61b8d859da2f25b0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3501103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3501103.jpg",
+  "bytes": 13203,
+  "sha256": "402763c220777f1b6799e0b108417e0f80849c51f0cdbb4ecfdfb3309f55eab1"
+ },
+ "sha1_origem": "cec14cdf3a804aca3d9e940c7ef5b978848bb017",
+ "bytes_origem": 13203,
+ "capturado_em": "2026-11-08T06:23:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Alto_Alegre.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "cec14cdf3a804aca3d9e940c7ef5b978848bb017"
+ }
+}

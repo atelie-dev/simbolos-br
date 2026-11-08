@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2110237",
+ "uf": "MA",
+ "municipio": "Santana do Maranhão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bras%C3%A3o_de_Santana_do_Maranh%C3%A3o%2C_MA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ramon Mello MA",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cabb250a16078885c097fa662eec908a1d7143800887fc13f6853d85e8913478",
+ "rendicoes": {
+  "png": {
+   "bytes": 217124,
+   "sha256": "d32b5b3db38f8c9866e0760d041e7209006d5ee6f37604f046440995ae8c6721",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43980,
+   "sha256": "998bf13d81f33330cda3f1b2185ff91aa6f64009cda18144ef4c65138af0a17b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2110237.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2110237.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2110237.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2110237.png",
+  "bytes": 939099,
+  "sha256": "cabb250a16078885c097fa662eec908a1d7143800887fc13f6853d85e8913478"
+ },
+ "sha1_origem": "761b8c5d5d450dfc7ba91cb194d0dedfc34fe343",
+ "bytes_origem": 939099,
+ "capturado_em": "2026-11-08T05:28:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Santana_do_Maranhão,_MA.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "761b8c5d5d450dfc7ba91cb194d0dedfc34fe343"
+ }
+}

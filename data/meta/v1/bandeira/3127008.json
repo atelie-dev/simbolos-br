@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3127008",
+ "uf": "MG",
+ "municipio": "Fronteira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Fronteiramgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Fronteira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7b0b9a085ac00af9cd3e2503483660b0b12f31eff84bb17f1170619eda392174",
+ "rendicoes": {
+  "png": {
+   "bytes": 35401,
+   "sha256": "c405eb610a5c40e2ddc78748eb04b49ce97e82e6af3c3be302508615f067765e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11314,
+   "sha256": "1fe4ae3ef429ddfb843c152f8391130d2dfa5bdfab38d9137823d633dd430d8a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3127008.jpg",
+  "bytes": 13706,
+  "sha256": "7b0b9a085ac00af9cd3e2503483660b0b12f31eff84bb17f1170619eda392174"
+ },
+ "sha1_origem": "e5fa95002ede5b3397dedd5cf314eb46d0e01876",
+ "bytes_origem": 13706,
+ "capturado_em": "2026-11-08T06:07:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Fronteiramgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:30Z",
+  "estado": "igual",
+  "sha1_commons": "e5fa95002ede5b3397dedd5cf314eb46d0e01876"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4302238",
+ "uf": "RS",
+ "municipio": "Boa Vista do Incra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bandeira_Boa_Vista_do_Incra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a9ff0339a35da14c1908f884924e890d1062722d35529fc20b35b69b5862002c",
+ "rendicoes": {
+  "png": {
+   "bytes": 298577,
+   "sha256": "d0633fda23e83ddd3283759c4c26ec0e8ebb5a352c96c0501ab955cbf89b767d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30332,
+   "sha256": "8f4a711fba2511fe2a1cd39175de69cbe1940a3474a4b2ea5f8d99bf15656cc8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302238.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302238.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4302238.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4302238.jpg",
+  "bytes": 218682,
+  "sha256": "a9ff0339a35da14c1908f884924e890d1062722d35529fc20b35b69b5862002c"
+ },
+ "sha1_origem": "950ae0f739378235f1852344e19e94b7136a7220",
+ "bytes_origem": 218682,
+ "capturado_em": "2026-11-08T06:59:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Boa_Vista_do_Incra.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "950ae0f739378235f1852344e19e94b7136a7220"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3141702",
+ "uf": "MG",
+ "municipio": "Mesquita",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Mesquita_MG.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HVL",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8e5942590b5e7d17f8517e63f193a54e9778cafc74cc769dd21bc0d949b337fd",
+ "rendicoes": {
+  "png": {
+   "bytes": 58575,
+   "sha256": "cedf23dc07534f1fefb337623bb5c1658050e672cc2549f5899a743ac667687a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17690,
+   "sha256": "fd57e62879db3ba514901a27045c1658a5d4db630d3e95829517bc1d16d0da49",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3141702.png",
+  "bytes": 18480,
+  "sha256": "8e5942590b5e7d17f8517e63f193a54e9778cafc74cc769dd21bc0d949b337fd"
+ },
+ "sha1_origem": "c4edfb84aa26bc93c6b151baf1dafd0fa3228f5f",
+ "bytes_origem": 18480,
+ "capturado_em": "2026-11-08T06:11:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Mesquita_MG.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "c4edfb84aa26bc93c6b151baf1dafd0fa3228f5f"
+ }
+}

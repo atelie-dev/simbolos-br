@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2110237",
+ "uf": "MA",
+ "municipio": "Santana do Maranhão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bandeira_de_Santana_do_Maranh%C3%A3o%2C_MA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ramon Mello MA",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1c90e314c2d09909ee7a59399f03db2513da8cc0c3e9846287a0ffcb2786de9b",
+ "rendicoes": {
+  "png": {
+   "bytes": 40063,
+   "sha256": "8fe4bd80c1ecd28df098110ddb14f692731876f8cdeef634ed4ad7f3be5982b8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21196,
+   "sha256": "492e8b0d985cc520b1fc636e4147e90841c4dce64db768804bcf1d65c23180ad",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2110237.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2110237.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2110237.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2110237.png",
+  "bytes": 503600,
+  "sha256": "1c90e314c2d09909ee7a59399f03db2513da8cc0c3e9846287a0ffcb2786de9b"
+ },
+ "sha1_origem": "3dd481ca37425c5b982a1ead3d92d50ee41ffc46",
+ "bytes_origem": 503600,
+ "capturado_em": "2026-11-08T05:28:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santana_do_Maranhão,_MA.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "3dd481ca37425c5b982a1ead3d92d50ee41ffc46"
+ }
+}

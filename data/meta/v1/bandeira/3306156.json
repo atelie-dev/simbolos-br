@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3306156",
+ "uf": "RJ",
+ "municipio": "Varre-Sai",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bandeira-varresai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "52ca89b9f1f1389f5e59c333e4b8e67e7e5d8d25f9b9a8f7280e5e4821eed8fd",
+ "rendicoes": {
+  "png": {
+   "bytes": 135789,
+   "sha256": "0e58a83b3936392bc4d7640237ae548ae58bec8842f5b1502519b837343dc4f4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29391,
+   "sha256": "cd88e3a9e8616cd05aeb73ad9aaba45835c78e2baf84b1764ec98513c682c406",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3306156.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3306156.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3306156.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3306156.jpg",
+  "bytes": 47427,
+  "sha256": "52ca89b9f1f1389f5e59c333e4b8e67e7e5d8d25f9b9a8f7280e5e4821eed8fd"
+ },
+ "sha1_origem": "0bfaedca50c9ed9d2485f863bce7de1a6188cbe9",
+ "bytes_origem": 47427,
+ "capturado_em": "2026-11-08T06:22:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-varresai.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "0bfaedca50c9ed9d2485f863bce7de1a6188cbe9"
+ }
+}

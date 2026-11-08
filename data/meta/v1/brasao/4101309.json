@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4101309",
+ "uf": "PR",
+ "municipio": "Antônio Olinto",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bras%C3%A3o_Ant%C3%B4nio_Olinto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4ab91f152d8eeb30e6e8359bfb0f916f5fd59f67986da20cbe82b271a83c4d8a",
+ "rendicoes": {
+  "png": {
+   "bytes": 225423,
+   "sha256": "f8548e2c19289a945ce3c5548f435c543fbc927de9cc52a440fd99e5881196ec",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27757,
+   "sha256": "4ee7ab4b9d602459b08f766e97969cb302fd14b4b8f12050091a26a641398d46",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4101309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4101309.jpg",
+  "bytes": 30239,
+  "sha256": "4ab91f152d8eeb30e6e8359bfb0f916f5fd59f67986da20cbe82b271a83c4d8a"
+ },
+ "sha1_origem": "6024da037512a791deaedebfc65de65e7ce03d83",
+ "bytes_origem": 30239,
+ "capturado_em": "2026-11-08T06:41:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Antônio_Olinto.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "6024da037512a791deaedebfc65de65e7ce03d83"
+ }
+}

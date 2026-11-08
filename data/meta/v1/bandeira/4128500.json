@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4128500",
+ "uf": "PR",
+ "municipio": "Wenceslau Braz",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Wenceslau_braz_-_flag.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Victor.westmann",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "34d0b5ea5abee0ac63e2bb077ae2b7f04c4779d4c0a0acf95f2fc6cf0be4d0e5",
+ "rendicoes": {
+  "png": {
+   "bytes": 64145,
+   "sha256": "a1487e2063174e5bc30fe42c65c191dc4ccae00290e1ed76b8ac5b27c842ac25",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26754,
+   "sha256": "64d6bf3ed4861760abd91a025002fd24c9d23d51605ebca832dc6896a197c80f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 374532,
+   "sha256": "34d0b5ea5abee0ac63e2bb077ae2b7f04c4779d4c0a0acf95f2fc6cf0be4d0e5"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4128500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4128500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4128500.jpg"
+ },
+ "sha1_origem": "b810e2b3dfa15e54d308e8f7216e995240aed668",
+ "bytes_origem": 374532,
+ "capturado_em": "2026-11-08T04:35:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Wenceslau_braz_-_flag.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:39Z",
+  "estado": "igual",
+  "sha1_commons": "b810e2b3dfa15e54d308e8f7216e995240aed668"
+ }
+}

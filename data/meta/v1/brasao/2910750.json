@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2910750",
+ "uf": "BA",
+ "municipio": "Fátima",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bras%C3%A3o_de_F%C3%A1tima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Fátima",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4e14f7a5a91cb2547bfb5ec3468ed7c16d5310d21c72ced27526f305e42c951a",
+ "rendicoes": {
+  "png": {
+   "bytes": 147714,
+   "sha256": "701fd299ac0cabd9e28c67aa1acbfffe658c09eca67dda31ffffd78cd448b838",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25876,
+   "sha256": "b8e96b5e22e5861b86fb0c62b2e56f085aea38c6df148808f07296d25fb2880b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2910750.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2910750.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2910750.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2910750.jpg",
+  "bytes": 28937,
+  "sha256": "4e14f7a5a91cb2547bfb5ec3468ed7c16d5310d21c72ced27526f305e42c951a"
+ },
+ "sha1_origem": "645dade89224f78440055869a4f816b234c28036",
+ "bytes_origem": 28937,
+ "capturado_em": "2026-11-08T05:53:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Fátima.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:02Z",
+  "estado": "igual",
+  "sha1_commons": "645dade89224f78440055869a4f816b234c28036"
+ }
+}

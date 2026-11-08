@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2100550",
+ "uf": "MA",
+ "municipio": "Amapá do Maranhão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandeira_de_Amap%C3%A1_do_Maranh%C3%A3o.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Jardson Costa",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "622c93bd43df1f3d48a4d1d683525a7ac849224725246fef16ce960ed80c8249",
+ "rendicoes": {
+  "png": {
+   "bytes": 45681,
+   "sha256": "1f3ec7a4b521e4936dbc1cd5a8c5c4c88c61a7ddb1a2887d87e220369ff80a21",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23411,
+   "sha256": "87581a2afa57749c27148b88b23fd163527e55271aa9261922301b5fcd07d586",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100550.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100550.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2100550.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2100550.png",
+  "bytes": 28645,
+  "sha256": "622c93bd43df1f3d48a4d1d683525a7ac849224725246fef16ce960ed80c8249"
+ },
+ "sha1_origem": "64c812134c264fedd3f5b6867fdb786f1ba300fb",
+ "bytes_origem": 28645,
+ "capturado_em": "2026-11-08T05:27:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Amapá_do_Maranhão.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "64c812134c264fedd3f5b6867fdb786f1ba300fb"
+ }
+}

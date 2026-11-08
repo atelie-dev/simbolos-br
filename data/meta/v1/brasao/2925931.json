@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2925931",
+ "uf": "BA",
+ "municipio": "Quixabeira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bras%C3%A3o_de_Quixabeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a228bbbc66ad680ed025e5ae625d3711cc873354b6f46a0d2d915bbdde97b426",
+ "rendicoes": {
+  "png": {
+   "bytes": 269018,
+   "sha256": "134b3ab850619e7468461f8e8e9a4c3da74f4fab471229ed2ba921d11aa6ce57",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60305,
+   "sha256": "ff10552889455e611ef5652e4a82149955dc11e8ba4aa6ff58142d0bec352a2c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2925931.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2925931.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2925931.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2925931.jpg",
+  "bytes": 133564,
+  "sha256": "a228bbbc66ad680ed025e5ae625d3711cc873354b6f46a0d2d915bbdde97b426"
+ },
+ "sha1_origem": "19889bd93c7c069a4e206df390c39a9f856419e1",
+ "bytes_origem": 133564,
+ "capturado_em": "2026-11-08T05:56:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Quixabeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:10Z",
+  "estado": "igual",
+  "sha1_commons": "19889bd93c7c069a4e206df390c39a9f856419e1"
+ }
+}

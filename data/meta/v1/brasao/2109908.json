@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2109908",
+ "uf": "MA",
+ "municipio": "Santa Inês",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bras%C3%A3o_de_Santa_In%C3%AAs%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "User:Tancredo Fernandes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fb9c3e7ad1ecb3b65dc37b158c319f0b2e239480c51be771bfe2f40759aa9a16",
+ "rendicoes": {
+  "png": {
+   "bytes": 139998,
+   "sha256": "c54e9d41a7bce34e9defa3cc5c82d28af538b037204f015c747a206f70f525ec",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32767,
+   "sha256": "58315b8605aa0f2ecee1cb585652e4467e2b0c1afe2a03efed83661259fc9776",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2109908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2109908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2109908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2109908.jpg",
+  "bytes": 44201,
+  "sha256": "fb9c3e7ad1ecb3b65dc37b158c319f0b2e239480c51be771bfe2f40759aa9a16"
+ },
+ "sha1_origem": "211bf276a7ff838b6780f8a705b5307e28c1cd83",
+ "bytes_origem": 44201,
+ "capturado_em": "2026-11-08T05:28:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Santa_Inês,_MA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "211bf276a7ff838b6780f8a705b5307e28c1cd83"
+ }
+}

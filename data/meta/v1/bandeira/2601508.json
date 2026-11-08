@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2601508",
+ "uf": "PE",
+ "municipio": "Belém de Maria",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bandeira_de_Belem_de_Maria.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "85b17066fff63847866f7801d205b3275e95186e75ba3fe4b972184fe5261ad8",
+ "rendicoes": {
+  "png": {
+   "bytes": 49085,
+   "sha256": "c1aaa83a4d81e028b6f4ec00fdba105ea9bfcd14a5e87930b124be804f81371e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19245,
+   "sha256": "ea64f091cf86ef359b9f350fe2a17305e098f1a1ea0e4b93fdb7e07880082990",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 44380,
+   "sha256": "85b17066fff63847866f7801d205b3275e95186e75ba3fe4b972184fe5261ad8"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601508.jpg"
+ },
+ "sha1_origem": "55d58521c9c7158b123ec98023a8da073257d7f0",
+ "bytes_origem": 44380,
+ "capturado_em": "2026-11-08T03:04:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Belem_de_Maria.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "55d58521c9c7158b123ec98023a8da073257d7f0"
+ }
+}

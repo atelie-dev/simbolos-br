@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3127107",
+ "uf": "MG",
+ "municipio": "Frutal",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/50/Bandeira_Frutal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c29a02cb8e737f9aac196abe0834af2939ad5b4c065773e3255d2fb62c80d9f8",
+ "rendicoes": {
+  "png": {
+   "bytes": 110455,
+   "sha256": "a0b1a35b9244f90dc0d72c19fd3717952d77a0899515bc50b7c0c54386632b41",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28966,
+   "sha256": "5e084514f25ea61a5251f8b0a9ce268ce799f6ddcef5d2d7e409388f9efb41b8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3127107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3127107.jpg",
+  "bytes": 35636,
+  "sha256": "c29a02cb8e737f9aac196abe0834af2939ad5b4c065773e3255d2fb62c80d9f8"
+ },
+ "sha1_origem": "2287e60608056c9395540037f06a08d9afaa30bf",
+ "bytes_origem": 35636,
+ "capturado_em": "2026-11-08T06:07:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Frutal.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "2287e60608056c9395540037f06a08d9afaa30bf"
+ }
+}

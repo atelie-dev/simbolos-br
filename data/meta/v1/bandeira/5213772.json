@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5213772",
+ "uf": "GO",
+ "municipio": "Montividiu do Norte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bandeira_de_Montividiu_do_Norte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Montividiu do Norte",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0a9a4f356446078f4adc77f59cd5d52fbdd9e59e9062c28f8bfa538a417942be",
+ "rendicoes": {
+  "png": {
+   "bytes": 41951,
+   "sha256": "959c91e471a707060a221b3e2eda6398487265de9ecb9ff717fb46f016e31d54",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14307,
+   "sha256": "87336193acf21fc41174ca0571072c65e7e4fe9bd348d54fc1bf2d77455ce6aa",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213772.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213772.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5213772.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5213772.jpg",
+  "bytes": 10725,
+  "sha256": "0a9a4f356446078f4adc77f59cd5d52fbdd9e59e9062c28f8bfa538a417942be"
+ },
+ "sha1_origem": "f66e1ba5ca2ccc84173109803a11fed4b52cfce5",
+ "bytes_origem": 10725,
+ "capturado_em": "2026-11-08T07:19:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Montividiu_do_Norte.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "f66e1ba5ca2ccc84173109803a11fed4b52cfce5"
+ }
+}

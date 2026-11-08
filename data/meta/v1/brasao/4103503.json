@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4103503",
+ "uf": "PR",
+ "municipio": "Califórnia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bras%C3%A3o_de_Calif%C3%B3rnia%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Califórnia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "60c6c24aa42dc1d8d2d864f8f62bcfafff86614c366b92c3c3f4417f79599994",
+ "rendicoes": {
+  "png": {
+   "bytes": 411215,
+   "sha256": "acd8f8b0bf7b549977c29b96e2abadf93c8cf848ce03716dc5cd70667bcf3420",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 88136,
+   "sha256": "08ca17fe26d4713e326cea2724b8d85cf2cd6e8639c733e8aff63f0fcfde5cf0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4103503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4103503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4103503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4103503.jpg",
+  "bytes": 160106,
+  "sha256": "60c6c24aa42dc1d8d2d864f8f62bcfafff86614c366b92c3c3f4417f79599994"
+ },
+ "sha1_origem": "0ec7b9e2de364d3f63bed6fac93a1300c4ff79f2",
+ "bytes_origem": 160106,
+ "capturado_em": "2026-11-08T06:42:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Califórnia,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "0ec7b9e2de364d3f63bed6fac93a1300c4ff79f2"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4303301",
+ "uf": "RS",
+ "municipio": "Caibaté",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bras%C3%A3o_Caibat%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Caibaté",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f2142988a48093a888bd81918abfa36b675e34ca9fda5b0cca5b0c2d8f7ea3b4",
+ "rendicoes": {
+  "png": {
+   "bytes": 101097,
+   "sha256": "2e27a4ab7635e92b1b32fef03aedddbde5609549266fa8647abc73d665844278",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25438,
+   "sha256": "582e41a1028fb386303f8411ef2b4a547813a865b77f446e47e1b883dba217dd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4303301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4303301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4303301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4303301.jpg",
+  "bytes": 112086,
+  "sha256": "f2142988a48093a888bd81918abfa36b675e34ca9fda5b0cca5b0c2d8f7ea3b4"
+ },
+ "sha1_origem": "c27b70e8e0185e6fc4a21bfa6ed25cbd54364236",
+ "bytes_origem": 112086,
+ "capturado_em": "2026-11-08T07:00:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Caibaté.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:47Z",
+  "estado": "igual",
+  "sha1_commons": "c27b70e8e0185e6fc4a21bfa6ed25cbd54364236"
+ }
+}

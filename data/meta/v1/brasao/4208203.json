@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4208203",
+ "uf": "SC",
+ "municipio": "Itajaí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Brasao_Itajai_SantaCatarina_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "523897d5f8232112badaea0552b36038fc82681000e42d56e29f65839abd9757",
+ "rendicoes": {
+  "png": {
+   "bytes": 109465,
+   "sha256": "3690276199abbca172cddb0f6937c6e66a8517ae7658e8e126d4f15a07dd10e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47249,
+   "sha256": "05788ba7cfd58e1d91988ea5feda853df7d920ea7ade4b05dc92a8b0b35aa4d5",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 50974,
+   "sha256": "523897d5f8232112badaea0552b36038fc82681000e42d56e29f65839abd9757"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208203.jpg"
+ },
+ "sha1_origem": "288264781a655345b6fcdac5fb1d2c10012e879b",
+ "bytes_origem": 50974,
+ "capturado_em": "2026-11-08T04:39:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Itajai_SantaCatarina_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:33Z",
+  "estado": "igual",
+  "sha1_commons": "288264781a655345b6fcdac5fb1d2c10012e879b"
+ }
+}

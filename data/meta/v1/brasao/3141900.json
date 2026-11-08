@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3141900",
+ "uf": "MG",
+ "municipio": "Minduri",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/BrasaoMinduri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Minduri",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1468c7b3279482138cd8fc88ad61b211f72578d3ec311a614ef63a86574d1b6a",
+ "rendicoes": {
+  "png": {
+   "bytes": 22326,
+   "sha256": "818384e453e5acb75ac62aeaf2bd4c852861bee903f102cbd1b25a8b65dd2606",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6636,
+   "sha256": "612147c66bfc4dedcc5b2290fbf86a73bcdfc16f38f057af0175a685ad6461d3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3141900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3141900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3141900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3141900.jpg",
+  "bytes": 5558,
+  "sha256": "1468c7b3279482138cd8fc88ad61b211f72578d3ec311a614ef63a86574d1b6a"
+ },
+ "sha1_origem": "4f04ce3d7bf89bc3ecc257b6e4fda0145ff4e46e",
+ "bytes_origem": 5558,
+ "capturado_em": "2026-11-08T06:11:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoMinduri.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "4f04ce3d7bf89bc3ecc257b6e4fda0145ff4e46e"
+ }
+}

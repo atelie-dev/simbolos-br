@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2805901",
+ "uf": "SE",
+ "municipio": "Riachuelo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bandeira_de_Riachuelo_SE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Riba28-maps",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0b5822e8c3c5098731c00303e30c155f9134a7d0a4b855ffa2cf715a812e479c",
+ "rendicoes": {
+  "png": {
+   "bytes": 34889,
+   "sha256": "64141026890c1fef14b1004d78f43767d39c6861a7ede003b38210977db87735",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17896,
+   "sha256": "308232fa6950d39a7789c1cce1e510f11eb879b4997b3aa98854f7122eb7051a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 98890,
+   "sha256": "0b5822e8c3c5098731c00303e30c155f9134a7d0a4b855ffa2cf715a812e479c"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2805901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2805901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2805901.jpg"
+ },
+ "sha1_origem": "04a60ec7d50081b06d4d1e3bbc1bca9a4b3746df",
+ "bytes_origem": 98890,
+ "capturado_em": "2026-11-08T03:13:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Riachuelo_SE.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "04a60ec7d50081b06d4d1e3bbc1bca9a4b3746df"
+ }
+}

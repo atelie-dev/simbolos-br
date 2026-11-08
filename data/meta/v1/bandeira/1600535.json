@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1600535",
+ "uf": "AP",
+ "municipio": "Porto Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bandeira_de_Porto_Grande-AP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camervan",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "cfa387fe6160f4e0c2aaac2dc50f6b5072d85652918efea4006f285155f73ccd",
+ "rendicoes": {
+  "png": {
+   "bytes": 12608,
+   "sha256": "7e163299a5034a7f3961170c82666bdcf7f64dc39b3852db50d48dbf52ba9e82",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14399,
+   "sha256": "be97eec502a72d9e3abaf6460d7afce358613eabf87b7206449336a80c80ab88",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 10530,
+   "sha256": "cfa387fe6160f4e0c2aaac2dc50f6b5072d85652918efea4006f285155f73ccd"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600535.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600535.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600535.jpg"
+ },
+ "sha1_origem": "ebfa9dd2c057c4b243604b1dadc554cbde2aac6e",
+ "bytes_origem": 10530,
+ "capturado_em": "2026-11-08T02:35:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Porto_Grande-AP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "ebfa9dd2c057c4b243604b1dadc554cbde2aac6e"
+ }
+}

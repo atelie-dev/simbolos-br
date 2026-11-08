@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3203007",
+ "uf": "ES",
+ "municipio": "Iúna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_de_I%C3%BAna_%28Esp%C3%ADrito_Santo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Iúna",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f26a484476939c10064b165ea579e97f9f2b23ebcdfb0a86229b46172d34cb02",
+ "rendicoes": {
+  "png": {
+   "bytes": 33107,
+   "sha256": "412fa73015282274d528d6d06216a9d7dd65e6f623c65ff1407f5e434731c30b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10874,
+   "sha256": "cd3f0261ad413adc1a6f51017260bdb211c0d3078c8becc688da720d1d028ee2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3203007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3203007.jpg",
+  "bytes": 10263,
+  "sha256": "f26a484476939c10064b165ea579e97f9f2b23ebcdfb0a86229b46172d34cb02"
+ },
+ "sha1_origem": "a407d47b2beda6bb8159c5d4935ef090ce5858e8",
+ "bytes_origem": 10263,
+ "capturado_em": "2026-11-08T06:19:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Iúna_(Espírito_Santo).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:05Z",
+  "estado": "igual",
+  "sha1_commons": "a407d47b2beda6bb8159c5d4935ef090ce5858e8"
+ }
+}

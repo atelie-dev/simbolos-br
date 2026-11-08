@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5102678",
+ "uf": "MT",
+ "municipio": "Campo Verde",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bandeira_de_Campo_Verde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Prefeitura Municipal de Campo Verde",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9d74a17b7d2ebd6b9a4c1c46a7bdc51c8eacf1486898bcf360538b76c2932ab3",
+ "rendicoes": {
+  "png": {
+   "bytes": 60981,
+   "sha256": "2cb3aaa58487fdbece87050a690f1e506099fca3c3708e8e416f5d37db40d8f1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16862,
+   "sha256": "41de8c1ecc0d216be215a5d93c5c101b004cc9445ada4218ec8bae2626d4593a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5102678.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5102678.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5102678.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5102678.jpg",
+  "bytes": 120444,
+  "sha256": "9d74a17b7d2ebd6b9a4c1c46a7bdc51c8eacf1486898bcf360538b76c2932ab3"
+ },
+ "sha1_origem": "64f0b2b46c86472ffcab7c267d2cce49d0642964",
+ "bytes_origem": 120444,
+ "capturado_em": "2026-11-08T07:14:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Campo_Verde.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "64f0b2b46c86472ffcab7c267d2cce49d0642964"
+ }
+}

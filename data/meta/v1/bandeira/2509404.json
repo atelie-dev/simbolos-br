@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2509404",
+ "uf": "PB",
+ "municipio": "Mogeiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_de_Mogeiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Mogeiro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bf2a52b06d5ed48ee75bb0c1089d8362ad30394489b1c4d875166dca19717bbb",
+ "rendicoes": {
+  "png": {
+   "bytes": 41428,
+   "sha256": "47eded07dc0f82c5de49fcdff2b412fc5b4c8b0b32da68f4e797ee95442ee176",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13756,
+   "sha256": "08735040162fab6e6a879398e92b7fb46c3efd2a67d5b9ff5f9dfed66c52ee7e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2509404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2509404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2509404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2509404.jpg",
+  "bytes": 43290,
+  "sha256": "bf2a52b06d5ed48ee75bb0c1089d8362ad30394489b1c4d875166dca19717bbb"
+ },
+ "sha1_origem": "931d46217977664f24be2310ba985d9241340578",
+ "bytes_origem": 43290,
+ "capturado_em": "2026-11-08T05:42:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Mogeiro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "931d46217977664f24be2310ba985d9241340578"
+ }
+}

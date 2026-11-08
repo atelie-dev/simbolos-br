@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4205902",
+ "uf": "SC",
+ "municipio": "Gaspar",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bras%C3%A3o_do_munic%C3%ADpio_de_Gaspar_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Gaspar (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9b28a4acde41165552217546b3e87419d49fb91f197c4384a366b621f020a1f6",
+ "rendicoes": {
+  "png": {
+   "bytes": 186408,
+   "sha256": "a381f84e77502ab5779a4668190961ed8ebd093ab582bed3ca3c921241c70df7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59090,
+   "sha256": "00b10985f4ac6aa9eeb9dd1a23620d138030fb484ae3a832126a3af5f2184495",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4205902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4205902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4205902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4205902.png",
+  "bytes": 430265,
+  "sha256": "9b28a4acde41165552217546b3e87419d49fb91f197c4384a366b621f020a1f6"
+ },
+ "sha1_origem": "55c91f04b22b9481b7cf5ec9f3a58ed5465c5f66",
+ "bytes_origem": 430265,
+ "capturado_em": "2026-11-08T06:53:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Gaspar_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "55c91f04b22b9481b7cf5ec9f3a58ed5465c5f66"
+ }
+}

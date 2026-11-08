@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3100401",
+ "uf": "MG",
+ "municipio": "Acaiaca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Acaiacarsbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Acaiaca",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9e455941ca73625da123d634d805e229ca104e2fe334e90ca3adb8317fe676cc",
+ "rendicoes": {
+  "png": {
+   "bytes": 11287,
+   "sha256": "285d0276381af192464e3d85f31224eec711eca4b1b08a99430da33b407ae34e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11302,
+   "sha256": "e64f034dc6eed11181016fc96822b311117083b904be1d73e4a26b5af57ef26f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3100401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3100401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3100401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3100401.png",
+  "bytes": 9306,
+  "sha256": "9e455941ca73625da123d634d805e229ca104e2fe334e90ca3adb8317fe676cc"
+ },
+ "sha1_origem": "5e0b238de211b9f2aa130ae96ea398c7fb407d1b",
+ "bytes_origem": 9306,
+ "capturado_em": "2026-11-08T05:58:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Acaiacarsbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "5e0b238de211b9f2aa130ae96ea398c7fb407d1b"
+ }
+}

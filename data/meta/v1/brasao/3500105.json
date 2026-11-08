@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3500105",
+ "uf": "SP",
+ "municipio": "Adamantina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bras%C3%A3o_Adamantina.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4dac4268e7fcfc5e5ce029adb260236542dd40a6dd189b33b4ec596e6e622af1",
+ "rendicoes": {
+  "png": {
+   "bytes": 36522,
+   "sha256": "a36ff296fd3e8c10c7436a3f00e998fb79ce9589c340282e9af924a07fa95979",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11325,
+   "sha256": "a3ce4cede8b1d12ef88d0ff89aa84094f00b5cc3e67814c3f2c7fc65ae576764",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3500105.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3500105.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3500105.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3500105.png",
+  "bytes": 14563,
+  "sha256": "4dac4268e7fcfc5e5ce029adb260236542dd40a6dd189b33b4ec596e6e622af1"
+ },
+ "sha1_origem": "3ac561150325e363984188913229e7d963a4df8e",
+ "bytes_origem": 14563,
+ "capturado_em": "2026-11-08T06:22:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Adamantina.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "3ac561150325e363984188913229e7d963a4df8e"
+ }
+}

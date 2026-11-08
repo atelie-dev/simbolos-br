@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4111902",
+ "uf": "PR",
+ "municipio": "Jaguapitã",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Brasao_jaguapita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Benedito Ursi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "92b61d984cdaaf31a0eb3e4fab03fbec4320252847870947b687e98241e26ed7",
+ "rendicoes": {
+  "png": {
+   "bytes": 255221,
+   "sha256": "1553002b3b50438e9aa7f0529d8c6e4b19bb9391cb6388cce05c5cdab03f0209",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58302,
+   "sha256": "6bd0ce3ec1bb3fca089240568574de9e74961737d14141d440ecc77c6adf1e79",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4111902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4111902.jpg",
+  "bytes": 1278195,
+  "sha256": "92b61d984cdaaf31a0eb3e4fab03fbec4320252847870947b687e98241e26ed7"
+ },
+ "sha1_origem": "358bc71e83647fff638ffba48d01724572679cfa",
+ "bytes_origem": 1278195,
+ "capturado_em": "2026-11-08T06:45:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_jaguapita.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "358bc71e83647fff638ffba48d01724572679cfa"
+ }
+}

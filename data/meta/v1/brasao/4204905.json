@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4204905",
+ "uf": "SC",
+ "municipio": "Descanso",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Brasao_Descanso_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Descanso",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "06365682e56218a7e2c958e1f0b16fa95e2f06a83a109325eaebbd82bf68104d",
+ "rendicoes": {
+  "png": {
+   "bytes": 47448,
+   "sha256": "6f67d310c0191b2696def95c3f643f4ff5b56b5515290029719fcab286e87147",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11764,
+   "sha256": "f9fefd929c17e01b705d7be90a7cda4c994bd753474e72b37d33043c197f7820",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4204905.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4204905.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4204905.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4204905.jpg",
+  "bytes": 8188,
+  "sha256": "06365682e56218a7e2c958e1f0b16fa95e2f06a83a109325eaebbd82bf68104d"
+ },
+ "sha1_origem": "bb2daee711df383ceda7689811bca7e216e77c33",
+ "bytes_origem": 8188,
+ "capturado_em": "2026-11-08T06:53:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Descanso_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:32Z",
+  "estado": "igual",
+  "sha1_commons": "bb2daee711df383ceda7689811bca7e216e77c33"
+ }
+}

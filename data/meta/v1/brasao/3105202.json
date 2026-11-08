@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3105202",
+ "uf": "MG",
+ "municipio": "Bandeira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bras%C3%A3o_de_Bandeira_-_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Bandeira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d6522ea8c1627d18b32793ad622b086b5ca5261f37c1af06f8f089c8f072050e",
+ "rendicoes": {
+  "png": {
+   "bytes": 36894,
+   "sha256": "e59308b5eb7cbafe22d6e1f2d21cf1a311e08ac5e2b9c27b05f6bb13285d7248",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9743,
+   "sha256": "fc9531f614e3f2a55addd3065e3f0c3c782388a546386d4f02992f2dfdfd0d86",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3105202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3105202.jpg",
+  "bytes": 31358,
+  "sha256": "d6522ea8c1627d18b32793ad622b086b5ca5261f37c1af06f8f089c8f072050e"
+ },
+ "sha1_origem": "e99be7441e234f4a32a09f800b7ff36b94d0bb01",
+ "bytes_origem": 31358,
+ "capturado_em": "2026-11-08T06:00:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Bandeira_-_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "e99be7441e234f4a32a09f800b7ff36b94d0bb01"
+ }
+}

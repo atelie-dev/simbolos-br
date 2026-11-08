@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4305603",
+ "uf": "RS",
+ "municipio": "Colorado",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bandeira_Colorado_RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Colorado.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e91d81c7e15518467b6f838a095c159a8fb09bb0c07a899e4a3c5f5ce86096ae",
+ "rendicoes": {
+  "png": {
+   "bytes": 13524,
+   "sha256": "4274237a4a8d4f97f45c211388b113fa9a73cfbacae80a04ae44e8aa5ffb7fff",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5999,
+   "sha256": "ca4ace17bb6bfa5a0ec839a61c169fb41a3a95f69202743fee29270e8f8c86ea",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4305603.jpg",
+  "bytes": 28789,
+  "sha256": "e91d81c7e15518467b6f838a095c159a8fb09bb0c07a899e4a3c5f5ce86096ae"
+ },
+ "sha1_origem": "6b26790b214b219820a1c6a49af5644ec68ca3aa",
+ "bytes_origem": 28789,
+ "capturado_em": "2026-11-08T07:01:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Colorado_RS.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "6b26790b214b219820a1c6a49af5644ec68ca3aa"
+ }
+}

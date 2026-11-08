@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3169901",
+ "uf": "MG",
+ "municipio": "Ubá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bandeira_Uba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ubá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4067b9d2474745b3a2c4158ac00202b459672e6113c1fb3ce14ce71f140170d7",
+ "rendicoes": {
+  "png": {
+   "bytes": 54530,
+   "sha256": "a0cd50912ab8a98544dbd93584a468616ec543ab7ff34669c8fe82d9c586764b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20348,
+   "sha256": "260c62319e5aa8150fa7e16734991239ce85e800fbd0e114fd116f218f6b4c09",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3169901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3169901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3169901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3169901.jpg",
+  "bytes": 59093,
+  "sha256": "4067b9d2474745b3a2c4158ac00202b459672e6113c1fb3ce14ce71f140170d7"
+ },
+ "sha1_origem": "673430423444620a454d69feaf564997bffb94b6",
+ "bytes_origem": 59093,
+ "capturado_em": "2026-11-08T06:18:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Uba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "673430423444620a454d69feaf564997bffb94b6"
+ }
+}

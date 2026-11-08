@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2604007",
+ "uf": "PE",
+ "municipio": "Carpina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bras%C3%A3o_Carpina_PE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Luiz Gomes Correia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5247971f825b9801449dae31d9c4161e5f977f323930219ae3a9801ac0fc06de",
+ "rendicoes": {
+  "png": {
+   "bytes": 170650,
+   "sha256": "bdeb04c2157e3d1b6d5558529d6c8a68de92faba9ce6b25a069ff56c404d1951",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 64011,
+   "sha256": "8cc98cc3adf1c15de36f581909b0c10d19bfa4055b8e65a5e6064704d2d99773",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2604007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2604007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2604007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2604007.jpg",
+  "bytes": 1371042,
+  "sha256": "5247971f825b9801449dae31d9c4161e5f977f323930219ae3a9801ac0fc06de"
+ },
+ "sha1_origem": "bb98cccf80bf095b7fac03747d35b3d445b8107c",
+ "bytes_origem": 1371042,
+ "capturado_em": "2026-11-08T05:44:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Carpina_PE.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:47Z",
+  "estado": "igual",
+  "sha1_commons": "bb98cccf80bf095b7fac03747d35b3d445b8107c"
+ }
+}

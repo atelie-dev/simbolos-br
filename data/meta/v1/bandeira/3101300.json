@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3101300",
+ "uf": "MG",
+ "municipio": "Alagoa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Alagoamgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Alagoa",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ed328a52e23427fe8792ef063f163cef570325b6a7be85e8acb9365d922e3c96",
+ "rendicoes": {
+  "png": {
+   "bytes": 17390,
+   "sha256": "5371e0d976811b914aaa873335b8706fd49fc675c43200fa8c5b7a8aada9a4fd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8181,
+   "sha256": "bb02069f35c5fc9e3994fcebcb3f05de749c7489abe49e70ff58853b5a6507a9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3101300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3101300.png",
+  "bytes": 14002,
+  "sha256": "ed328a52e23427fe8792ef063f163cef570325b6a7be85e8acb9365d922e3c96"
+ },
+ "sha1_origem": "7b8a13a8fe783b6002a7c776084ff2b0d551c38f",
+ "bytes_origem": 14002,
+ "capturado_em": "2026-11-08T05:58:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Alagoamgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "7b8a13a8fe783b6002a7c776084ff2b0d551c38f"
+ }
+}

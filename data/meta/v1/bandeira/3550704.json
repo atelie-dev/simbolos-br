@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3550704",
+ "uf": "SP",
+ "municipio": "São Sebastião",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bandeira-saosebastiao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "São Sebastião City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f2b427281e93770c63e4663a2e59f53777504f3fd5f5667972b87d92adc8487c",
+ "rendicoes": {
+  "png": {
+   "bytes": 13962,
+   "sha256": "68c83acc59fc66259d4aaee94222c59163888678fdbe87acfaa739647f14fe5e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9952,
+   "sha256": "96726f4d9a9a50ee4569a832cc3caf7347f7de05c7884c26d1302e8c9245b073",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3550704.png",
+  "bytes": 5183,
+  "sha256": "f2b427281e93770c63e4663a2e59f53777504f3fd5f5667972b87d92adc8487c"
+ },
+ "sha1_origem": "6cd02bb1e38a8f492ee790def1a12f60d77c25d4",
+ "bytes_origem": 5183,
+ "capturado_em": "2026-11-08T06:38:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-saosebastiao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "6cd02bb1e38a8f492ee790def1a12f60d77c25d4"
+ }
+}

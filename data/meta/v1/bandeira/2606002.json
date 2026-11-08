@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2606002",
+ "uf": "PE",
+ "municipio": "Garanhuns",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/49/BandeiraGaranhuns.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Garanhuns",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "e7755b5cd66fdc3954664c14de781babed1f6d403875f75ae40145e65e965079",
+ "rendicoes": {
+  "png": {
+   "bytes": 52450,
+   "sha256": "7f59104d51856070d6b7346f31df5d2c28389f3b83d997609e92a07bea58d23a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28820,
+   "sha256": "68a4bfca40e9ad8754db777333f7b5d9cf541dddf5e4de47b8044767d10a7ce2",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 7018,
+   "sha256": "e7755b5cd66fdc3954664c14de781babed1f6d403875f75ae40145e65e965079"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2606002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2606002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2606002.jpg"
+ },
+ "sha1_origem": "68d8b440ab1cbcc4c44585c266f3eb2a7774a7e0",
+ "bytes_origem": 7018,
+ "capturado_em": "2026-11-08T03:05:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraGaranhuns.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:41Z",
+  "estado": "igual",
+  "sha1_commons": "68d8b440ab1cbcc4c44585c266f3eb2a7774a7e0"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3522109",
+ "uf": "SP",
+ "municipio": "Itanhaém",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bandeira_Itanha%C3%A9m.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2fa115e76631101dad7125352be9d9e07fbed0e44a1f66874a7679881825bcd0",
+ "rendicoes": {
+  "png": {
+   "bytes": 25418,
+   "sha256": "48c0820f5306d148e9fab5f8f264985ced0bbddd2cbb7fc2c73b3cfe817093cb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14114,
+   "sha256": "f8cea1b8716a7d84a757d95ad17c6e0763b32dbd32a65f85a7c43d9b68207d79",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3522109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3522109.png",
+  "bytes": 11649,
+  "sha256": "2fa115e76631101dad7125352be9d9e07fbed0e44a1f66874a7679881825bcd0"
+ },
+ "sha1_origem": "4f97f1697a8c38e9d83698519165c9652d1857fc",
+ "bytes_origem": 11649,
+ "capturado_em": "2026-11-08T06:29:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itanhaém.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "4f97f1697a8c38e9d83698519165c9652d1857fc"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3150000",
+ "uf": "MG",
+ "municipio": "Pescador",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bras%C3%A3o_pescador.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Rogê Miranda",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b7bc2f3fe45f68950f277ba0ea916c56a665352f13dd3cffc5e7cb83e2f13d9d",
+ "rendicoes": {
+  "png": {
+   "bytes": 77134,
+   "sha256": "fc4c9f914f08b64dc5dd0433ab65ee16359fae055d5dd2498f562c70f9a499aa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17371,
+   "sha256": "bcbe32a7797cb9509915d1f4552e4f61abbe81434a8ae786b7ebfc44b4567129",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3150000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3150000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3150000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3150000.png",
+  "bytes": 74160,
+  "sha256": "b7bc2f3fe45f68950f277ba0ea916c56a665352f13dd3cffc5e7cb83e2f13d9d"
+ },
+ "sha1_origem": "cb6fb2657438aee76002fe6534046007d3e15c8b",
+ "bytes_origem": 74160,
+ "capturado_em": "2026-11-08T06:13:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_pescador.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "cb6fb2657438aee76002fe6534046007d3e15c8b"
+ }
+}

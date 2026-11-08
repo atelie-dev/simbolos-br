@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2500700",
+ "uf": "PB",
+ "municipio": "São João do Rio do Peixe",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bandeira_sao_joao_do_rio_do_peixe.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de São João do Rio do Peixe",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "502977ed538070875993728c371131a1591e6bde54d0f280dfd15352852cf855",
+ "rendicoes": {
+  "png": {
+   "bytes": 50100,
+   "sha256": "eb72eb55f6fc006a22ea9fa2053611924397398b8a759c5c9f1da67674541338",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15732,
+   "sha256": "e8cad14fbe481b9af4944946e1c827bd44bf33b62838cde475c7f15149d4db08",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2500700.png",
+  "bytes": 41735,
+  "sha256": "502977ed538070875993728c371131a1591e6bde54d0f280dfd15352852cf855"
+ },
+ "sha1_origem": "88ea46dd5c85c37da2e5438cda9ec9b4da8f6465",
+ "bytes_origem": 41735,
+ "capturado_em": "2026-11-08T05:39:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_sao_joao_do_rio_do_peixe.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "88ea46dd5c85c37da2e5438cda9ec9b4da8f6465"
+ }
+}

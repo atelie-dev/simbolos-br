@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1714880",
+ "uf": "TO",
+ "municipio": "Nova Olinda",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandeira_de_Nova_Olinda_-_Tocantins.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5560aff778c1966cb1e2c1b64942620d98631afe6c03a9a0a82b80a430e0e821",
+ "rendicoes": {
+  "png": {
+   "bytes": 48617,
+   "sha256": "9abdcf9802492df0c8f6451f4771c6e328838c4db9be3c29b25263880bed89e8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26437,
+   "sha256": "2f0e9855854b82b8328593f6a873dda6cccc69d3335a2d465b91ec93ccc3d946",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1714880.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1714880.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1714880.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1714880.png",
+  "bytes": 20050,
+  "sha256": "5560aff778c1966cb1e2c1b64942620d98631afe6c03a9a0a82b80a430e0e821"
+ },
+ "sha1_origem": "bb65f0cf32c11b6b8c2d1cb8ee7fdefa7dbbdfb8",
+ "bytes_origem": 20050,
+ "capturado_em": "2026-11-08T05:26:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Nova_Olinda_-_Tocantins.png",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "bb65f0cf32c11b6b8c2d1cb8ee7fdefa7dbbdfb8"
+ }
+}

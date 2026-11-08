@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3202207",
+ "uf": "ES",
+ "municipio": "Fundão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fundao_ES.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Fundão",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7f0267e2777cb459693d3577ac14ef040001e497240122e33d6a312e75bf584c",
+ "rendicoes": {
+  "png": {
+   "bytes": 188630,
+   "sha256": "a1ab3e238ceafa2b2f2c8879a98e1a72dcb0ca93dd060ed81b67c250d25acfcf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54726,
+   "sha256": "941556a079ac6f15c361a4e72edd5212bbad9be2bec56549d3b8651e11255545",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 994695,
+   "sha256": "7f0267e2777cb459693d3577ac14ef040001e497240122e33d6a312e75bf584c"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3202207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3202207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3202207.jpg"
+ },
+ "sha1_origem": "bea1bb13f1c91207285753ec28db74b858e3bb79",
+ "bytes_origem": 994695,
+ "capturado_em": "2026-11-08T03:51:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Fundao_ES.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:30Z",
+  "estado": "igual",
+  "sha1_commons": "bea1bb13f1c91207285753ec28db74b858e3bb79"
+ }
+}

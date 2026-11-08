@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314548",
+ "uf": "RS",
+ "municipio": "Pinto Bandeira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bras%C3%A3o_Pinto_Bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Pinto Bandeira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cbdd5595751b9284e574d165c23cbe6135374db7cfab9af907937cf822a6f8da",
+ "rendicoes": {
+  "png": {
+   "bytes": 140598,
+   "sha256": "50949bbd65dc26ca69be507c14544eb5c514bc5378dbbe6e2edab643f60af38b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35588,
+   "sha256": "fea62563cff9efc4c5264bc6e2ec06a1b9f8fab49fe71c6a153fcdeb31cfb4cc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314548.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314548.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314548.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4314548.jpg",
+  "bytes": 200211,
+  "sha256": "cbdd5595751b9284e574d165c23cbe6135374db7cfab9af907937cf822a6f8da"
+ },
+ "sha1_origem": "10f2c8c7df775a6cea7507eead78d1077fca0a84",
+ "bytes_origem": 200211,
+ "capturado_em": "2026-11-08T07:07:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Pinto_Bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "10f2c8c7df775a6cea7507eead78d1077fca0a84"
+ }
+}

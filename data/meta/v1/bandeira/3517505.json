@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3517505",
+ "uf": "SP",
+ "municipio": "Guapiaçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bandeira_de_Guapia%C3%A7u%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Dr. Lauro Ribeiro Escobar",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "41c8022d7663e36340dea3ebc8a4351cbbcf8b1b26bacfb2235bd45d72b7bd4e",
+ "rendicoes": {
+  "png": {
+   "bytes": 117042,
+   "sha256": "71ff44789a7b45487c8c48cb66957561e79b3610a01db42eeca0dae359afe287",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25553,
+   "sha256": "8ff8b3fe4f9e7bdfa97890578c00f95c7be95f959c82d0f674f0ab91a94693b0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517505.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3517505.jpg",
+  "bytes": 51238,
+  "sha256": "41c8022d7663e36340dea3ebc8a4351cbbcf8b1b26bacfb2235bd45d72b7bd4e"
+ },
+ "sha1_origem": "08af277e193f89ad518a07fad4364993aa705a24",
+ "bytes_origem": 51238,
+ "capturado_em": "2026-11-08T06:28:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Guapiaçu,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "08af277e193f89ad518a07fad4364993aa705a24"
+ }
+}

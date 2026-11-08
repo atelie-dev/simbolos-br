@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2507309",
+ "uf": "PB",
+ "municipio": "Jacaraú",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Brasao_jacarau.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Jacaraú",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4a0f8dd3f039881e3ce3a7e51996723b781eb2a69644461e1e9c0b6dbdb200f6",
+ "rendicoes": {
+  "png": {
+   "bytes": 42828,
+   "sha256": "f490bcf944669927a25c0a56731ed5968dc846753a1ebc68cb0753b85db9498a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10907,
+   "sha256": "11cec96cda468b145f171e1e8244765d967ad3d6db5f52287e338fff45e080e6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2507309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2507309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2507309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2507309.png",
+  "bytes": 35452,
+  "sha256": "4a0f8dd3f039881e3ce3a7e51996723b781eb2a69644461e1e9c0b6dbdb200f6"
+ },
+ "sha1_origem": "83d88a21896ef3edf45d364c6a2867c8fb52edfc",
+ "bytes_origem": 35452,
+ "capturado_em": "2026-11-08T05:41:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_jacarau.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "83d88a21896ef3edf45d364c6a2867c8fb52edfc"
+ }
+}

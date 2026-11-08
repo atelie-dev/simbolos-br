@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3547502",
+ "uf": "SP",
+ "municipio": "Santa Rita do Passa Quatro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Bandeira_Santa_Rita_do_Passa_Quatro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "70cbb5244f1678977259d9d684341609914a092d9cb4a7fa4724e22331f8c6ee",
+ "rendicoes": {
+  "png": {
+   "bytes": 103879,
+   "sha256": "e0fa636c5a115ce1b75ec0016ee15ea3b238a8a78c0043aa4baaa8b59f34ef89",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21761,
+   "sha256": "6f2e1b8459b6a443202a18e5cbac0ebe9ee10eeeab08448352684827fef326db",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3547502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3547502.png",
+  "bytes": 89502,
+  "sha256": "70cbb5244f1678977259d9d684341609914a092d9cb4a7fa4724e22331f8c6ee"
+ },
+ "sha1_origem": "fe441458425c3cf3423f97e73b6967ea84cad2bf",
+ "bytes_origem": 89502,
+ "capturado_em": "2026-11-08T06:37:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Santa_Rita_do_Passa_Quatro.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "fe441458425c3cf3423f97e73b6967ea84cad2bf"
+ }
+}

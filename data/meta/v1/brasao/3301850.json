@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3301850",
+ "uf": "RJ",
+ "municipio": "Guapimirim",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Brasao-guapimirim.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d7b25701ca30eb4abc338c18fb44d0b9373622fa2f34e9717346d8e004b0e6db",
+ "rendicoes": {
+  "png": {
+   "bytes": 12085,
+   "sha256": "8c36037c32f1008756fcda39f73cc8ce52cd0a3d18db158e997262e6e059c7aa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5718,
+   "sha256": "ded7f8572551329e2994aaa1a261409e0ffc0a110add07704f8626b7aea42ce4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3301850.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3301850.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3301850.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3301850.png",
+  "bytes": 4574,
+  "sha256": "d7b25701ca30eb4abc338c18fb44d0b9373622fa2f34e9717346d8e004b0e6db"
+ },
+ "sha1_origem": "c7544d245276823c66cf4630bf288080d522c145",
+ "bytes_origem": 4574,
+ "capturado_em": "2026-11-08T06:21:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-guapimirim.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "c7544d245276823c66cf4630bf288080d522c145"
+ }
+}

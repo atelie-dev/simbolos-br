@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3117876",
+ "uf": "MG",
+ "municipio": "Confins",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_Confins_-_MG_-_Brazil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pcgomes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "dc33d973ccc643970baf2c7284812633602d9451cb09f0fee9ec855372ba451f",
+ "rendicoes": {
+  "png": {
+   "bytes": 75811,
+   "sha256": "4520830b0cc80bf31a90f9bfc8ae89aedb67b46ca3a76d243abb57c2dc240bb8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20056,
+   "sha256": "bd6545ff327ac4949b05a131a7d1624e8b0f365b2571484b4c1509eb5e509451",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3117876.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3117876.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3117876.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3117876.png",
+  "bytes": 138466,
+  "sha256": "dc33d973ccc643970baf2c7284812633602d9451cb09f0fee9ec855372ba451f"
+ },
+ "sha1_origem": "54db9e175aad8594aabecaa7de066b23b4e1cbef",
+ "bytes_origem": 138466,
+ "capturado_em": "2026-11-08T06:04:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Confins_-_MG_-_Brazil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "54db9e175aad8594aabecaa7de066b23b4e1cbef"
+ }
+}

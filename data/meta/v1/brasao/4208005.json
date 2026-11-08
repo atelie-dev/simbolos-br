@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4208005",
+ "uf": "SC",
+ "municipio": "Itá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bras%C3%A3o_It%C3%A1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "abe38f9bf516d650559d261d73377a05956b63838827e33999ae6396a011ed1d",
+ "rendicoes": {
+  "png": {
+   "bytes": 17249,
+   "sha256": "e7bd925e1bc3a044a8b4a5abb63a6e269b5c1d9ec190942b9800d8369b5de59f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5957,
+   "sha256": "8b7ddd9fc33f0a699fd557d0f011f00aa59806694b923c64f5d3d3f005d7e286",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4208005.png",
+  "bytes": 16609,
+  "sha256": "abe38f9bf516d650559d261d73377a05956b63838827e33999ae6396a011ed1d"
+ },
+ "sha1_origem": "96671d7d3086108650abae78e97860d481f53969",
+ "bytes_origem": 16609,
+ "capturado_em": "2026-11-08T06:54:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Itá.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "96671d7d3086108650abae78e97860d481f53969"
+ }
+}

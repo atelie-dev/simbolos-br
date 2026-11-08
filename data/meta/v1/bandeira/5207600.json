@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5207600",
+ "uf": "GO",
+ "municipio": "Fazenda Nova",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bandeira_de_Fazenda_Nova.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Fazenda Nova",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d2e581ca08d64f31b3f53c0b0a0e1ddebba403ff876eb2de0ccdf55567bfbb24",
+ "rendicoes": {
+  "png": {
+   "bytes": 64110,
+   "sha256": "27deadd27af2fd1358b542dd16a232d1cac9b927e46006b4e7fd6e823de2adf4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23007,
+   "sha256": "29b018a9d09db20bc86b1f23ab31f8916899d419eebf41e6c95b0f1a8f644b1d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5207600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5207600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5207600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5207600.png",
+  "bytes": 63472,
+  "sha256": "d2e581ca08d64f31b3f53c0b0a0e1ddebba403ff876eb2de0ccdf55567bfbb24"
+ },
+ "sha1_origem": "de2b712c305bb30e57d1b11f801afac9387148b9",
+ "bytes_origem": 63472,
+ "capturado_em": "2026-11-08T07:17:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Fazenda_Nova.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "de2b712c305bb30e57d1b11f801afac9387148b9"
+ }
+}

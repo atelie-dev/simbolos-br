@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3161502",
+ "uf": "MG",
+ "municipio": "São Geraldo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bandeira_de_Sao_Geraldo_-_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Jeff Moreira Alves",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2b9babceb12f2f62a061f8d92d0f94ded258bfd605c28c7408f0c325be3baa47",
+ "rendicoes": {
+  "png": {
+   "bytes": 26797,
+   "sha256": "7b83f1ff0393a955ed46bb39edf1b63897d79b3ef61b9b453a6f0f6acb14b544",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6892,
+   "sha256": "a175c4ac9d2e0890db0704396190b55c435dfa8ea262cb87b959204bb9a17d0f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3161502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3161502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3161502.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3161502.jpg",
+  "bytes": 14318,
+  "sha256": "2b9babceb12f2f62a061f8d92d0f94ded258bfd605c28c7408f0c325be3baa47"
+ },
+ "sha1_origem": "e2c3a826d7f1afd611a09866e29764992a86c857",
+ "bytes_origem": 14318,
+ "capturado_em": "2026-11-08T06:15:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Sao_Geraldo_-_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "e2c3a826d7f1afd611a09866e29764992a86c857"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3500402",
+ "uf": "SP",
+ "municipio": "Águas da Prata",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Brasaoaguasdaprata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Artistas municipais",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "344dfa98c890f836cfff1d1afba2729a156d62268bf8dfcb7c8f89e5621c8250",
+ "rendicoes": {
+  "png": {
+   "bytes": 45605,
+   "sha256": "e7b6c1a4d1508a21aa2b06ef92a19af6ccd6b7de3b451866db3eb19c5cb35dcc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10590,
+   "sha256": "6c0f05e46508be545badfefcbecdf2d029362b56ad895507a99ee9df7ef43ac6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3500402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3500402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3500402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3500402.jpg",
+  "bytes": 10875,
+  "sha256": "344dfa98c890f836cfff1d1afba2729a156d62268bf8dfcb7c8f89e5621c8250"
+ },
+ "sha1_origem": "b9c58c5aa7407f56a18881fd11c98a75e3c1a879",
+ "bytes_origem": 10875,
+ "capturado_em": "2026-11-08T06:22:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoaguasdaprata.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "b9c58c5aa7407f56a18881fd11c98a75e3c1a879"
+ }
+}

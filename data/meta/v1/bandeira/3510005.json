@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3510005",
+ "uf": "SP",
+ "municipio": "Cândido Mota",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/BandeiraCandidoMota.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cândido Mota",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "eb6cadfb4f780d17e7929a32a44aa3b337deaf55e61cb1dd5a86887ff32e78a0",
+ "rendicoes": {
+  "png": {
+   "bytes": 12914,
+   "sha256": "1b953fb2140db497ef28acc5aea76ebe9d5fb8a31cf574e1d0ee63c41a5a3787",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5923,
+   "sha256": "8019296a91b89c7c8bc5c156ba541673affd4e927d5bba9575919d60c67b74c8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3510005.jpg",
+  "bytes": 5291,
+  "sha256": "eb6cadfb4f780d17e7929a32a44aa3b337deaf55e61cb1dd5a86887ff32e78a0"
+ },
+ "sha1_origem": "6ef48d6393d788bb81269067acf5861a428a7553",
+ "bytes_origem": 5291,
+ "capturado_em": "2026-11-08T06:25:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraCandidoMota.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:41Z",
+  "estado": "igual",
+  "sha1_commons": "6ef48d6393d788bb81269067acf5861a428a7553"
+ }
+}

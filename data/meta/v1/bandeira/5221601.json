@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5221601",
+ "uf": "GO",
+ "municipio": "Uruaçu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bandeiraurua%C3%A7u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Uruaçu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0c52b6ce466671c77ce15cf98bc9ddf136c64039e6be28b80dcbafec19f06511",
+ "rendicoes": {
+  "png": {
+   "bytes": 76014,
+   "sha256": "83abba51a83ce049a7b8321527375dfea7ee9f6e4e47d0a225c1fea40a511e8c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14266,
+   "sha256": "64291a0ab6c19ef7d5f56a6e1edceb719264a0938d64d41a164ec26ed8d77077",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5221601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5221601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5221601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5221601.jpg",
+  "bytes": 13986,
+  "sha256": "0c52b6ce466671c77ce15cf98bc9ddf136c64039e6be28b80dcbafec19f06511"
+ },
+ "sha1_origem": "55f94f9cd8004e7bb2089b31155ce9511ef536d4",
+ "bytes_origem": 13986,
+ "capturado_em": "2026-11-08T07:21:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeirauruaçu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "55f94f9cd8004e7bb2089b31155ce9511ef536d4"
+ }
+}

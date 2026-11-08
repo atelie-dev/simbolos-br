@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4100707",
+ "uf": "PR",
+ "municipio": "Alto Piquiri",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bras%C3%A3o_Alto_Piquiri.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "518930f0c93fd4cb7698716f7b1afdeac3164720281cf979b1de41044790db95",
+ "rendicoes": {
+  "png": {
+   "bytes": 56263,
+   "sha256": "9e41396f3aab9a5836b04b151cbfe2b1ec3588bbe8a6489601d416f0ba924842",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 57839,
+   "sha256": "f48ff83af75610bfccdf55c43c2f0f7ff305a86f19348be9f965ed2bec3de510",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4100707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4100707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4100707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4100707.png",
+  "bytes": 43258,
+  "sha256": "518930f0c93fd4cb7698716f7b1afdeac3164720281cf979b1de41044790db95"
+ },
+ "sha1_origem": "73118ac27adf7bbc0c22a31e8941016948e21cd3",
+ "bytes_origem": 43258,
+ "capturado_em": "2026-11-08T06:41:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Alto_Piquiri.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "73118ac27adf7bbc0c22a31e8941016948e21cd3"
+ }
+}

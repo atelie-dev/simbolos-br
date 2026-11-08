@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3123304",
+ "uf": "MG",
+ "municipio": "Dores do Turvo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bras%C3%A3o_de_Dores_do_Turvo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Grossi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d4822a4e735d34412db8a6f54a016f52bc0ebddbdabaee1511b42af17d08404d",
+ "rendicoes": {
+  "png": {
+   "bytes": 107425,
+   "sha256": "bb11079d78c39c2233aa3c2d7ea7ba57d48f691fc223be42188be84c670fdf52",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32716,
+   "sha256": "95854dd17bd5989124964481ca591f496bdb923a3352558ebd1654767eb26a21",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3123304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3123304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3123304.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3123304.jpg",
+  "bytes": 885635,
+  "sha256": "d4822a4e735d34412db8a6f54a016f52bc0ebddbdabaee1511b42af17d08404d"
+ },
+ "sha1_origem": "8280fcad289aed3eb7a5a9794c9365c7683c8bcf",
+ "bytes_origem": 885635,
+ "capturado_em": "2026-11-08T06:06:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Dores_do_Turvo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "8280fcad289aed3eb7a5a9794c9365c7683c8bcf"
+ }
+}

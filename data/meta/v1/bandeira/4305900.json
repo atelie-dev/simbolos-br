@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4305900",
+ "uf": "RS",
+ "municipio": "Coronel Bicaco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bandeira_de_Coronel_Bicaco_-_RS.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "bb2495455a38751de3f0227ef046731d3c1d480f27b63b7e62b04e6f9f2b15bf",
+ "rendicoes": {
+  "png": {
+   "bytes": 73045,
+   "sha256": "9bde9e57ff6f393a7145fc9f86f881c2346038012eb1d63b1186c7ceba0d451f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26732,
+   "sha256": "48a2335bb8acf5a09054dd76aba10668575e3b465be967b6ad82071f37687e4c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 278537,
+   "sha256": "bb2495455a38751de3f0227ef046731d3c1d480f27b63b7e62b04e6f9f2b15bf"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4305900.jpg"
+ },
+ "sha1_origem": "5bdd6278a086f13af3f99cf04e678f28cb84c11e",
+ "bytes_origem": 278537,
+ "capturado_em": "2026-11-08T04:50:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Coronel_Bicaco_-_RS.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "5bdd6278a086f13af3f99cf04e678f28cb84c11e"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4208203",
+ "uf": "SC",
+ "municipio": "Itajaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bandeira_Itajai_SantaCatarina_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "8eefc00d845391304ad0cd19be04ee395b44b0586588f55e8c4b60b0b115fac5",
+ "rendicoes": {
+  "png": {
+   "bytes": 37652,
+   "sha256": "047b961f6f6defc7928c9b0e3aca386368bcfd42fcd8d713e5dd6aa70f0b8132",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21054,
+   "sha256": "03008e7b139bf84f8b4d0ba3cb8085a464d7b7f05fe0b045c5ec7d8650d0a28b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 24646,
+   "sha256": "8eefc00d845391304ad0cd19be04ee395b44b0586588f55e8c4b60b0b115fac5"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208203.jpg"
+ },
+ "sha1_origem": "c25c0448922f6845d1dd6f581d456effe597f356",
+ "bytes_origem": 24646,
+ "capturado_em": "2026-11-08T04:40:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Itajai_SantaCatarina_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:47Z",
+  "estado": "igual",
+  "sha1_commons": "c25c0448922f6845d1dd6f581d456effe597f356"
+ }
+}

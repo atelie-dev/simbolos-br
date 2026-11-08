@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5209101",
+ "uf": "GO",
+ "municipio": "Goiatuba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bandeira_de_Goiatuba.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Djtesao",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "938f4e72968e06f64c963be8ef3dfcecd5b6fa34744ec5ccb40976e70cfbaf34",
+ "rendicoes": {
+  "png": {
+   "bytes": 62868,
+   "sha256": "08f9f287419c7472c7c1a3029801366e4cd03dff96f46db2d4c9baf9d6566fdd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18219,
+   "sha256": "c23b819d471c2388c70e61d607bc7db79475a696bcabb2e610db2de29e5246b7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5209101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5209101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5209101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5209101.jpg",
+  "bytes": 61517,
+  "sha256": "938f4e72968e06f64c963be8ef3dfcecd5b6fa34744ec5ccb40976e70cfbaf34"
+ },
+ "sha1_origem": "f49468582d2a5f0761112a8c6fae936f6d907271",
+ "bytes_origem": 61517,
+ "capturado_em": "2026-11-08T07:18:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Goiatuba.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "f49468582d2a5f0761112a8c6fae936f6d907271"
+ }
+}

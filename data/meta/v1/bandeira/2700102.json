@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2700102",
+ "uf": "AL",
+ "municipio": "Água Branca",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira_%C3%81gua_Branca.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ac79c7a42725d96764a0039aaee1ad7ee1a7839472d5035421f1b4c04eee88ff",
+ "rendicoes": {
+  "png": {
+   "bytes": 122227,
+   "sha256": "b745d99e78d7df78b5aac0ff16d9e3cab13c37a2801861e4d1927cc47fea4e4a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25753,
+   "sha256": "ed815b363f8b38bddcb819ab61d6299841d6f218d1e3d664ab29c4820ed6e4a9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2700102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2700102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2700102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2700102.png",
+  "bytes": 167478,
+  "sha256": "ac79c7a42725d96764a0039aaee1ad7ee1a7839472d5035421f1b4c04eee88ff"
+ },
+ "sha1_origem": "e97a33c43794f36285cb1bbcf49665d102ea4fee",
+ "bytes_origem": 167478,
+ "capturado_em": "2026-11-08T05:47:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Água_Branca.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "e97a33c43794f36285cb1bbcf49665d102ea4fee"
+ }
+}

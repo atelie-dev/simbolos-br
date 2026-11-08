@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3128501",
+ "uf": "MG",
+ "municipio": "Guarará",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Guarara_flag-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Curiapeba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f71ec28f104abb5aecef8233bfa665975c7804480e7f7777c93f4763df42421e",
+ "rendicoes": {
+  "png": {
+   "bytes": 112450,
+   "sha256": "ca516be16b4ce3f783fa526d598953834982aebd9f08ab93af1d61201ba444d3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31066,
+   "sha256": "c92a7472f3b1d507aeeeb33bdf484a6059f8dcabf0a5cc7844ccc408544a3fa9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3128501.jpg",
+  "bytes": 176806,
+  "sha256": "f71ec28f104abb5aecef8233bfa665975c7804480e7f7777c93f4763df42421e"
+ },
+ "sha1_origem": "90c4a65527139e13a18714c55f746e9ed965a85e",
+ "bytes_origem": 176806,
+ "capturado_em": "2026-11-08T06:08:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Guarara_flag-1.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "90c4a65527139e13a18714c55f746e9ed965a85e"
+ }
+}

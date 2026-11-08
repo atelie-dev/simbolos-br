@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3522802",
+ "uf": "SP",
+ "municipio": "Itaporanga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Itaporanga_sp_brasao.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Itaporanga",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ffa05b49e0dbeff17af2637551b9b7305eb579d27e2dcdb4d74f7a8f426803fd",
+ "rendicoes": {
+  "png": {
+   "bytes": 261972,
+   "sha256": "2daa5e341005aa6dbec4cc5043fe2c9e88dbf5711b3556d88b0775adbe0bfa81",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 76948,
+   "sha256": "6614a91446a05db2b3c4048f7314938c068d4be2656c01f0a54995ddd6c3201e",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 188547,
+   "sha256": "ffa05b49e0dbeff17af2637551b9b7305eb579d27e2dcdb4d74f7a8f426803fd"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3522802.jpg"
+ },
+ "sha1_origem": "dbbd14357814e6288b4015146c2515cb38649d62",
+ "bytes_origem": 188547,
+ "capturado_em": "2026-11-08T04:06:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Itaporanga_sp_brasao.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "dbbd14357814e6288b4015146c2515cb38649d62"
+ }
+}

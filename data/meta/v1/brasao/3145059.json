@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3145059",
+ "uf": "MG",
+ "municipio": "Nova Porteirinha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/95/Brasaonovaporteirinha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Nova Porteirinha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1e475021b0fc0734768872672982f93b69c9f7b8c0941588168cb13022c8dd2b",
+ "rendicoes": {
+  "png": {
+   "bytes": 42178,
+   "sha256": "7779a35d055c4ebf5564ff51bcc7ee7f80dee82b560ea28b54008836ee48b891",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9935,
+   "sha256": "d1dd0d3e399c270b19cb4fe253b24ab76ba9c959efffffe8fc2a569c9244ab6b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145059.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145059.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145059.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3145059.jpg",
+  "bytes": 7381,
+  "sha256": "1e475021b0fc0734768872672982f93b69c9f7b8c0941588168cb13022c8dd2b"
+ },
+ "sha1_origem": "632c5d7f52b68a0eda7add49b2ae8bfc11de2596",
+ "bytes_origem": 7381,
+ "capturado_em": "2026-11-08T06:12:17Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaonovaporteirinha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "632c5d7f52b68a0eda7add49b2ae8bfc11de2596"
+ }
+}

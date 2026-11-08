@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3170057",
+ "uf": "MG",
+ "municipio": "Ubaporanga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bandeira_ubaporanga.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ubaporanga",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3785e1a16c86e9167a3c702cc607d566ce146fc189dace198f922b711e94b149",
+ "rendicoes": {
+  "png": {
+   "bytes": 6861,
+   "sha256": "ff2062f79f03112363cf700ce8a9773ba7f5c6593266dad19524402c5f8bc375",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5997,
+   "sha256": "b2a2d2914051e4deab83f0fb3147c36c60200164e2c5008f58eca5f907bec44a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170057.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170057.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170057.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3170057.png",
+  "bytes": 3471,
+  "sha256": "3785e1a16c86e9167a3c702cc607d566ce146fc189dace198f922b711e94b149"
+ },
+ "sha1_origem": "e8e783027f18c8960639e60b60de0df7156b640b",
+ "bytes_origem": 3471,
+ "capturado_em": "2026-11-08T06:18:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_ubaporanga.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "e8e783027f18c8960639e60b60de0df7156b640b"
+ }
+}

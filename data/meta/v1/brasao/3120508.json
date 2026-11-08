@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3120508",
+ "uf": "MG",
+ "municipio": "Cristina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Brasaocristinamg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Cristina",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "56aa7e436a3769e792c723dc65faaac9c4bf07aec478c3b9f05554118af49db3",
+ "rendicoes": {
+  "png": {
+   "bytes": 216905,
+   "sha256": "2d5a0a776ab2caa56fc2879d907d1dc9d7cfe11716ac55d211bdfd8c55883fc3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39146,
+   "sha256": "64945dc9727120aa3ed79344aaff9b6ec13ec9a87259e656da93cecc9953f987",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3120508.jpg",
+  "bytes": 32107,
+  "sha256": "56aa7e436a3769e792c723dc65faaac9c4bf07aec478c3b9f05554118af49db3"
+ },
+ "sha1_origem": "256b0e56f39278fcc47cd46cfa0caaedd94ca5c3",
+ "bytes_origem": 32107,
+ "capturado_em": "2026-11-08T06:05:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaocristinamg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "256b0e56f39278fcc47cd46cfa0caaedd94ca5c3"
+ }
+}

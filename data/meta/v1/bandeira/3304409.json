@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3304409",
+ "uf": "RJ",
+ "municipio": "Rio Claro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bandeira-rioclaro.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "66cddc016b98469f9c51855f7ba66b9051722a245d8c9233168063dbe292cab9",
+ "rendicoes": {
+  "png": {
+   "bytes": 6903,
+   "sha256": "29b26bbaedf5539bf23124f651086e326a2223bce5d8f965e2a884e350c70f73",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4961,
+   "sha256": "f064b8f3eb7254c2da0122d66d3cc5696eaf6f370549ac9cf2ddf5237e599cc1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304409.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3304409.png",
+  "bytes": 3234,
+  "sha256": "66cddc016b98469f9c51855f7ba66b9051722a245d8c9233168063dbe292cab9"
+ },
+ "sha1_origem": "793e2c53fa2e511459da904c2480e71e073dd5da",
+ "bytes_origem": 3234,
+ "capturado_em": "2026-11-08T06:22:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-rioclaro.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "793e2c53fa2e511459da904c2480e71e073dd5da"
+ }
+}

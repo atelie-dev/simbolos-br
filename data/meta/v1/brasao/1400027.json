@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1400027",
+ "uf": "RR",
+ "municipio": "Amajari",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Brasao_Amajari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Amajari.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fec4056d54feb5c865cc8e226f6bc6efc08d22cf3e481cbcb3ed29a4a4d95d94",
+ "rendicoes": {
+  "png": {
+   "bytes": 34708,
+   "sha256": "96f847a525e13936c6a25048abc534ce3343050ef0d5bda5a91c89a62febf8ee",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8724,
+   "sha256": "003fea29fde54a301d3749e9c6add02563dc4576dad5e18e4a755aceec63e5c7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1400027.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1400027.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1400027.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1400027.jpg",
+  "bytes": 45299,
+  "sha256": "fec4056d54feb5c865cc8e226f6bc6efc08d22cf3e481cbcb3ed29a4a4d95d94"
+ },
+ "sha1_origem": "87dd682b2dc467043a190cc22cd1dfb3014de7b4",
+ "bytes_origem": 45299,
+ "capturado_em": "2026-11-08T05:23:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Amajari.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "87dd682b2dc467043a190cc22cd1dfb3014de7b4"
+ }
+}

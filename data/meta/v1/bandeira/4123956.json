@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4123956",
+ "uf": "PR",
+ "municipio": "Santa Mônica",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bandeira_Santa_M%C3%B4nica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bf04b5c5483bed69977e4da667946896f29cc4c24f743be2217d30adb7a9f890",
+ "rendicoes": {
+  "png": {
+   "bytes": 48676,
+   "sha256": "015816d0413ff39d3b46624da9d1a19a06ba6baff5baa52e4296f4a603bb0ab6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12455,
+   "sha256": "cf7be1ac0dd67020c0e90bee2b70e62fdabfafcb514a1f0692c2e3a303f03c7d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123956.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123956.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123956.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4123956.jpg",
+  "bytes": 14828,
+  "sha256": "bf04b5c5483bed69977e4da667946896f29cc4c24f743be2217d30adb7a9f890"
+ },
+ "sha1_origem": "7ca7342a1b0094b02a74373beec5e316195b71b3",
+ "bytes_origem": 14828,
+ "capturado_em": "2026-11-08T06:49:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Santa_Mônica.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "7ca7342a1b0094b02a74373beec5e316195b71b3"
+ }
+}

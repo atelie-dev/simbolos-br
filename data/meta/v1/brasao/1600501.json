@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1600501",
+ "uf": "AP",
+ "municipio": "Oiapoque",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bras%C3%A3o_Oiapoque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dc78411b1857c5bd4acd4c3008746149803abadf65f7605e7e5223149dda9bda",
+ "rendicoes": {
+  "png": {
+   "bytes": 208966,
+   "sha256": "36668f66f8c394d4a0b67fffcecf20a8ecbee9795dc2f69391cffad207c7b6a6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42946,
+   "sha256": "2c5dbae44e3885791e1a204da23d2c6f5083abc9b542850c775c1f244f68f375",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1600501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1600501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1600501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1600501.jpg",
+  "bytes": 48309,
+  "sha256": "dc78411b1857c5bd4acd4c3008746149803abadf65f7605e7e5223149dda9bda"
+ },
+ "sha1_origem": "a50b70ef22b705cd80210740f9795efb7442fbe9",
+ "bytes_origem": 48309,
+ "capturado_em": "2026-11-08T05:26:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Oiapoque.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "a50b70ef22b705cd80210740f9795efb7442fbe9"
+ }
+}

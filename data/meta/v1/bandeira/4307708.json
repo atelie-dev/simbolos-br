@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4307708",
+ "uf": "RS",
+ "municipio": "Esteio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira-esteio_foto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3d9493548144bc9c6fa49648d65165678cbe880e843e097c0a1ae5e59d73a052",
+ "rendicoes": {
+  "png": {
+   "bytes": 56302,
+   "sha256": "f677ef697f52a3cb0d1baf445e8771b99e6a24e5aa0369e69c7037d80aab5c00",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26020,
+   "sha256": "04fad88c725029f1a6cb2cebd6bd24ba90045464c0974add6b2948286c9dedbb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4307708.jpg",
+  "bytes": 213618,
+  "sha256": "3d9493548144bc9c6fa49648d65165678cbe880e843e097c0a1ae5e59d73a052"
+ },
+ "sha1_origem": "2c2459e705d349089f3a5b3448978ec9f194b3a2",
+ "bytes_origem": 213618,
+ "capturado_em": "2026-11-08T07:02:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-esteio_foto.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "2c2459e705d349089f3a5b3448978ec9f194b3a2"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4309704",
+ "uf": "RS",
+ "municipio": "Humaitá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bras%C3%A3o_Humait%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Humaitá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8a46825dd230e23ea6a678a3932ce7ca2352215c462540ab246b92826d1c001c",
+ "rendicoes": {
+  "png": {
+   "bytes": 61832,
+   "sha256": "5ca6a4cd6f895862e9036d9efb04dfa034d153bd9fe7d8ed0f880e7d6fb29357",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12655,
+   "sha256": "3d35178b7a44773c4442c69530c81d4f6e500ce232a3c5d032eb2fb5c1df0cd5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4309704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4309704.jpg",
+  "bytes": 9865,
+  "sha256": "8a46825dd230e23ea6a678a3932ce7ca2352215c462540ab246b92826d1c001c"
+ },
+ "sha1_origem": "e4f226fe0f4523206f495cf30734d428d76b3ea3",
+ "bytes_origem": 9865,
+ "capturado_em": "2026-11-08T07:03:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Humaitá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "e4f226fe0f4523206f495cf30734d428d76b3ea3"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2910008",
+ "uf": "BA",
+ "municipio": "Dário Meira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bras%C3%A3o_de_D%C3%A1rio_Meira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Dário Meira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f05d744198b0b021d49672167c736f6fdde06fbcc4195582debb903a26b46142",
+ "rendicoes": {
+  "png": {
+   "bytes": 147072,
+   "sha256": "d8aad024a8a75dcde8e30a56e65bf0d7a69be77a721209277608e89f2983e585",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29023,
+   "sha256": "458de6893b88da12318b07722e7a6400301d58649ba724e05581b977eba68d1f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2910008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2910008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2910008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2910008.jpg",
+  "bytes": 78719,
+  "sha256": "f05d744198b0b021d49672167c736f6fdde06fbcc4195582debb903a26b46142"
+ },
+ "sha1_origem": "39eae499a179996d3cced3428182626d7adfa01a",
+ "bytes_origem": 78719,
+ "capturado_em": "2026-11-08T05:52:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Dário_Meira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "39eae499a179996d3cced3428182626d7adfa01a"
+ }
+}

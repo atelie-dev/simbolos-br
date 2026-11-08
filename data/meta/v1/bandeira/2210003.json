@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2210003",
+ "uf": "PI",
+ "municipio": "São João do Piauí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandeira_oficial_de_S%C3%A3o_Jo%C3%A3o_do_Piau%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura de São João do Piauí",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d11f2c8fc6b671a40168ef3640e429c3527727d41a143bc518699a55376b7c90",
+ "rendicoes": {
+  "png": {
+   "bytes": 87185,
+   "sha256": "3eec8697f54f810a65dba90a44018532c7098c660a6ce188f35f3930c809e0f2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21740,
+   "sha256": "ab47bd83f58d24d7c9f5cb668a4bbbc5212c2d237c9eee7746ca11895a550fcd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2210003.jpg",
+  "bytes": 32115,
+  "sha256": "d11f2c8fc6b671a40168ef3640e429c3527727d41a143bc518699a55376b7c90"
+ },
+ "sha1_origem": "22147d4d493de3bbbffac58d241fa1fb1370bcda",
+ "bytes_origem": 32115,
+ "capturado_em": "2026-11-08T05:31:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_oficial_de_São_João_do_Piauí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:22Z",
+  "estado": "igual",
+  "sha1_commons": "22147d4d493de3bbbffac58d241fa1fb1370bcda"
+ }
+}

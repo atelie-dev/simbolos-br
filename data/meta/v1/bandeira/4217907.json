@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4217907",
+ "uf": "SC",
+ "municipio": "Tangará",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bandeira_de_Tangar%C3%A1_-_SC.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "fb70a3d882d2d6762acbd817af703393818d54a0bd8c277b40f114f1597e0231",
+ "rendicoes": {
+  "png": {
+   "bytes": 56470,
+   "sha256": "1a0bbf4b7c96753cbafc57bdeaee8c9133c03937ed634df509bc553a361f8b8a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23139,
+   "sha256": "12830f7238491bf3f2795c8c3905f7432784a64eaf00c80b0247aa36a7bb66da",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 784548,
+   "sha256": "fb70a3d882d2d6762acbd817af703393818d54a0bd8c277b40f114f1597e0231"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217907.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217907.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4217907.jpg"
+ },
+ "sha1_origem": "783ff48db4d83cbdef18322eae5a3910d7395d36",
+ "bytes_origem": 784548,
+ "capturado_em": "2026-11-08T04:45:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Tangará_-_SC.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "783ff48db4d83cbdef18322eae5a3910d7395d36"
+ }
+}

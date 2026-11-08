@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4103404",
+ "uf": "PR",
+ "municipio": "Cafeara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bandeira-cafeara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cafeara City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f104e0cadf10eeffb322c44746c67d9e6858b43a5f27e5c02fc76fa455fc1063",
+ "rendicoes": {
+  "png": {
+   "bytes": 65844,
+   "sha256": "396c0b6251947b693d7fe612c09f23ff26c64434c8539fbdda4f118ddf19c18c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19425,
+   "sha256": "e42abe3fce7350695b861b43bed3836234971b098277b3ff5209e413949db017",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4103404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4103404.jpg",
+  "bytes": 111004,
+  "sha256": "f104e0cadf10eeffb322c44746c67d9e6858b43a5f27e5c02fc76fa455fc1063"
+ },
+ "sha1_origem": "37ec973727fe913fe6cb8e9c6beea25a1640697b",
+ "bytes_origem": 111004,
+ "capturado_em": "2026-11-08T06:42:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-cafeara.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "37ec973727fe913fe6cb8e9c6beea25a1640697b"
+ }
+}

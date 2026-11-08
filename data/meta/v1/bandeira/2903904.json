@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2903904",
+ "uf": "BA",
+ "municipio": "Bom Jesus da Lapa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bandeira_Lapa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Lcardosoneves",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "540a599d3b40531b8548de6f8a8bf20f7e325b5a23f378738a3f926d02f09566",
+ "rendicoes": {
+  "png": {
+   "bytes": 120854,
+   "sha256": "4067ec9bf58e32433ef39860db8879eebbd60ba4445ca205ecc5aacf900a1899",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38770,
+   "sha256": "d0011b6f408e8049e3e8217a34f6872b683f0d4cbb730b7d457ae062eb54b492",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2903904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2903904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2903904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2903904.jpg",
+  "bytes": 613358,
+  "sha256": "540a599d3b40531b8548de6f8a8bf20f7e325b5a23f378738a3f926d02f09566"
+ },
+ "sha1_origem": "cb44681dce3844e4fb5d9319e928f225f6d76330",
+ "bytes_origem": 613358,
+ "capturado_em": "2026-11-08T05:51:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Lapa.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "cb44681dce3844e4fb5d9319e928f225f6d76330"
+ }
+}

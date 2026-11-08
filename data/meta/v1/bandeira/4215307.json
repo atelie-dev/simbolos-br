@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4215307",
+ "uf": "SC",
+ "municipio": "Salete",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bandeira_do_munic%C3%ADpio_de_Salete_%28SC%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Salete (SC)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "388cabdafb72d40b06623d5d8d2dc6d137e1201a59e369074f6eee9a43fbd5ab",
+ "rendicoes": {
+  "png": {
+   "bytes": 33249,
+   "sha256": "37bdb1e23d9a9b754c551fdf50042bee11e69cf403a6da8707a0f0856e191fff",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21240,
+   "sha256": "10514e433ef57452067be515942b22f20a7fcf6d3129196657064d39abeb4a10",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 15573,
+   "sha256": "388cabdafb72d40b06623d5d8d2dc6d137e1201a59e369074f6eee9a43fbd5ab"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4215307.jpg"
+ },
+ "sha1_origem": "b9fa510155a961046d22e91cb2ba6b21afba19c8",
+ "bytes_origem": 15573,
+ "capturado_em": "2026-11-08T04:43:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Salete_(SC).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "b9fa510155a961046d22e91cb2ba6b21afba19c8"
+ }
+}

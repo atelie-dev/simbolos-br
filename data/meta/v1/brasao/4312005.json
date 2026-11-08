@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312005",
+ "uf": "RS",
+ "municipio": "Mariano Moro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bras%C3%A3o_Mariano_Moro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Mariano Moro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b9bcb8b9be6b28841947f4e7089de8212760879f835a9f9c2e193f0cbc5058a1",
+ "rendicoes": {
+  "png": {
+   "bytes": 347333,
+   "sha256": "ba51878f63268afced86060420de5df5be64ef371db7789269a4eadb7fed10e0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58479,
+   "sha256": "5423951205a1556c0880674ae59b97d62ee284fc799c5846d41ab939d4b426b5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4312005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4312005.jpg",
+  "bytes": 59542,
+  "sha256": "b9bcb8b9be6b28841947f4e7089de8212760879f835a9f9c2e193f0cbc5058a1"
+ },
+ "sha1_origem": "1fed1729ca5ff5645861319b28290891af07341a",
+ "bytes_origem": 59542,
+ "capturado_em": "2026-11-08T07:05:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Mariano_Moro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "1fed1729ca5ff5645861319b28290891af07341a"
+ }
+}

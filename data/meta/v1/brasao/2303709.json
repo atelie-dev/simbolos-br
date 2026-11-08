@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2303709",
+ "uf": "CE",
+ "municipio": "Caucaia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Bras%C3%A3o_de_Caucaia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Caucaia",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0d9a037baf31062520bdab49cbfbf1fddc85c130b90041106f88f924346030d1",
+ "rendicoes": {
+  "png": {
+   "bytes": 220599,
+   "sha256": "a62a20b92670ffd793d629da9047a63e1984497bad4e90e4816bb8ec738cb710",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43290,
+   "sha256": "1824cf40d5d70ffd89471d2a35e519a6e72c0ded46e55b5eda3a71d31af7a2a0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2303709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2303709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2303709.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2303709.png",
+  "bytes": 1265893,
+  "sha256": "0d9a037baf31062520bdab49cbfbf1fddc85c130b90041106f88f924346030d1"
+ },
+ "sha1_origem": "6f0b858d3623b523d31c638206bd73247c83fc69",
+ "bytes_origem": 1265893,
+ "capturado_em": "2026-11-08T05:32:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Caucaia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "6f0b858d3623b523d31c638206bd73247c83fc69"
+ }
+}

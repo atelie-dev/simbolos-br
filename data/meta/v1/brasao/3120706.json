@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3120706",
+ "uf": "MG",
+ "municipio": "Cruzeiro da Fortaleza",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Cruzeiro_da_Fortalezamgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cruzeiro da Fortaleza",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6b6efcee51c4fbbb0cd172ca5ca3f8c7c59cf765d5adb38e64773eb364881115",
+ "rendicoes": {
+  "png": {
+   "bytes": 175317,
+   "sha256": "57a7028a18c32936a2215c96f31985b13943aaff96754ba4436a2f3fcff5f0e2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37545,
+   "sha256": "cd6264b46661574f0f69a88b653eaaec5e99fec806e0a383e9817ccd41c5f148",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3120706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3120706.jpg",
+  "bytes": 89054,
+  "sha256": "6b6efcee51c4fbbb0cd172ca5ca3f8c7c59cf765d5adb38e64773eb364881115"
+ },
+ "sha1_origem": "03ae1304000f0eddccc11d0b8ef4f131cf24ac21",
+ "bytes_origem": 89054,
+ "capturado_em": "2026-11-08T06:05:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cruzeiro_da_Fortalezamgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "03ae1304000f0eddccc11d0b8ef4f131cf24ac21"
+ }
+}

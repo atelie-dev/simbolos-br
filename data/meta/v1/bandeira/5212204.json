@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5212204",
+ "uf": "GO",
+ "municipio": "Jussara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bandeira_de_Jussara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Jussara",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6e0dd50564dab56e05eae11b810406562f125b9a4d2dd02acb36f66696175dc0",
+ "rendicoes": {
+  "png": {
+   "bytes": 20978,
+   "sha256": "acffbeb046f85377e8cc67e1126a47d7e1f5b59b902108a6f9645ab9281ddb24",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7741,
+   "sha256": "f2fc4f4973f0ecafbea5411d62fca82cb05b29ab3341515fb8b78bd63d2607cc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5212204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5212204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5212204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5212204.jpg",
+  "bytes": 8179,
+  "sha256": "6e0dd50564dab56e05eae11b810406562f125b9a4d2dd02acb36f66696175dc0"
+ },
+ "sha1_origem": "6fdb24b83983f12973e04ee060c13ad5503b02cc",
+ "bytes_origem": 8179,
+ "capturado_em": "2026-11-08T07:18:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Jussara.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "6fdb24b83983f12973e04ee060c13ad5503b02cc"
+ }
+}

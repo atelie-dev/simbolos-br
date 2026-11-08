@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3106101",
+ "uf": "MG",
+ "municipio": "Belmiro Braga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Belmiro_Bragamgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Belmiro Braga",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "068278bdc38d66f666eb21369eae39d7d65f6e3694d6883a899e55cf0155ec94",
+ "rendicoes": {
+  "png": {
+   "bytes": 224608,
+   "sha256": "96c193d49c64b1289da2f6679f8e27975e386c01bfc35ecf21f1a8c0d75226dc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 46619,
+   "sha256": "1b21ddd635db018372468f7330f3c67c4f09a6de2aea67637cbc58ab4cce463a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3106101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3106101.jpg",
+  "bytes": 38823,
+  "sha256": "068278bdc38d66f666eb21369eae39d7d65f6e3694d6883a899e55cf0155ec94"
+ },
+ "sha1_origem": "115860e8012efc89b3fa859784a043482deb9681",
+ "bytes_origem": 38823,
+ "capturado_em": "2026-11-08T06:00:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Belmiro_Bragamgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "115860e8012efc89b3fa859784a043482deb9681"
+ }
+}

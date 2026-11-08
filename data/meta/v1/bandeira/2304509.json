@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2304509",
+ "uf": "CE",
+ "municipio": "Frecheirinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Frecheirinha_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a7b0084bfd69e231b743f54570af0893a04b150155c2c3a5e7cf840a668a4212",
+ "rendicoes": {
+  "png": {
+   "bytes": 79155,
+   "sha256": "6ecc29fb904f382045f25b10ac4d5ac68eca1a4e14bc414fe1ac5d83c9575947",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21391,
+   "sha256": "a164029bd2afdfbd586cd3566e5f8ceb3bc83b4ba6e6818b2073db5cea23d3ec",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2304509.jpg",
+  "bytes": 152633,
+  "sha256": "a7b0084bfd69e231b743f54570af0893a04b150155c2c3a5e7cf840a668a4212"
+ },
+ "sha1_origem": "bc455218fb22c685310d2543ede1d7d49f6078a5",
+ "bytes_origem": 152633,
+ "capturado_em": "2026-11-08T05:32:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Frecheirinha_Municipality_in_the_State_of_Ceará_in_Brazil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:28Z",
+  "estado": "igual",
+  "sha1_commons": "bc455218fb22c685310d2543ede1d7d49f6078a5"
+ }
+}

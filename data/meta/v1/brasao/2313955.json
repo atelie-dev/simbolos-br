@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2313955",
+ "uf": "CE",
+ "municipio": "Varjota",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bras%C3%A3o_de_Varjota_-_CE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d0e45c503b2dafd1c79701e2678907222d62df9ff214303a31a0489fe4838db0",
+ "rendicoes": {
+  "png": {
+   "bytes": 206465,
+   "sha256": "e0364b8dbc5c32752b75b24c6ba94270c6004ffc3e76058a5dd21ecf2aa788dd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67091,
+   "sha256": "494384136e77c94cc42ef9ef5aee648892e6089c4c5f539003d61874b7b74ad9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 116725,
+   "sha256": "d0e45c503b2dafd1c79701e2678907222d62df9ff214303a31a0489fe4838db0"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2313955.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2313955.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2313955.jpg"
+ },
+ "sha1_origem": "6788d44ff49fabb7f2478498905392bfe1caef32",
+ "bytes_origem": 116725,
+ "capturado_em": "2026-11-08T02:50:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Varjota_-_CE.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "6788d44ff49fabb7f2478498905392bfe1caef32"
+ }
+}

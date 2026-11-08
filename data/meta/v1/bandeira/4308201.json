@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4308201",
+ "uf": "RS",
+ "municipio": "Flores da Cunha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bandeira-floresdacunha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Flores da Cunha City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d00472552a9bcd850609fb43736b40bb94f99d042a1c85a5cb447fa2c4949117",
+ "rendicoes": {
+  "png": {
+   "bytes": 33281,
+   "sha256": "15874ea10dbc33113cc20631a7bbbfdb4d996876e0043b70deaf9c85b2ce49de",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11148,
+   "sha256": "56ca2649c7a76c7d21928470b05930ccd8e0822a41a3b29287fa9451d3ba9805",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4308201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4308201.jpg",
+  "bytes": 10124,
+  "sha256": "d00472552a9bcd850609fb43736b40bb94f99d042a1c85a5cb447fa2c4949117"
+ },
+ "sha1_origem": "8f3a659eb69faee2357d4826fc11bb930935be38",
+ "bytes_origem": 10124,
+ "capturado_em": "2026-11-08T07:03:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-floresdacunha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "8f3a659eb69faee2357d4826fc11bb930935be38"
+ }
+}

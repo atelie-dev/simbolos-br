@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5210562",
+ "uf": "GO",
+ "municipio": "Itaguari",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bras%C3%A3o_de_Itaguari.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Itaguari",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "33df4eb525020f0724f4df07a0ee2ddc2231932e9ee08b821c0e4ad33cd9bf61",
+ "rendicoes": {
+  "png": {
+   "bytes": 172516,
+   "sha256": "1283a2f80e3aac0b6605ba2183b1332a438a8eb64e5a126fa6d841058279123d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43416,
+   "sha256": "085533d4c2865f1f09c33e54e1c03c18304e327faa9f8340938ef5d760a09f78",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5210562.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5210562.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5210562.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5210562.png",
+  "bytes": 361987,
+  "sha256": "33df4eb525020f0724f4df07a0ee2ddc2231932e9ee08b821c0e4ad33cd9bf61"
+ },
+ "sha1_origem": "95f85ac6ee4a7890a254b18568ec44c3d9e88147",
+ "bytes_origem": 361987,
+ "capturado_em": "2026-11-08T07:18:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Itaguari.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "95f85ac6ee4a7890a254b18568ec44c3d9e88147"
+ }
+}

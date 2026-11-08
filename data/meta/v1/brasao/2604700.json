@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2604700",
+ "uf": "PE",
+ "municipio": "Correntes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bras%C3%A3o_Correntes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Antonio de Machado Dias",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8e4533b79c14dfbb16acae0cd79c8a9dfc200f9716a9b9bcc8f3f35031edd7a8",
+ "rendicoes": {
+  "png": {
+   "bytes": 106083,
+   "sha256": "3bc68cfd7585c388abd81116da4ae914f8909833df08267b1361de70bfc5eb83",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26429,
+   "sha256": "465be4133d3bc9977378859d24cf8c3d3868321cb5d1be760194c5f17426f007",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2604700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2604700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2604700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2604700.jpg",
+  "bytes": 228692,
+  "sha256": "8e4533b79c14dfbb16acae0cd79c8a9dfc200f9716a9b9bcc8f3f35031edd7a8"
+ },
+ "sha1_origem": "0b94364570cbb4fd789cdb8fddc48af6ad266b49",
+ "bytes_origem": 228692,
+ "capturado_em": "2026-11-08T05:45:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Correntes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:48Z",
+  "estado": "igual",
+  "sha1_commons": "0b94364570cbb4fd789cdb8fddc48af6ad266b49"
+ }
+}

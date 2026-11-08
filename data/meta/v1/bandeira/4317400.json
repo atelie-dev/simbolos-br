@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4317400",
+ "uf": "RS",
+ "municipio": "Santiago",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_Santiago_RS_Brasil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Cpdpmsantiago",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "af8fe160a68b097abdb546da6cff61da8089ffb30fed89c338f0fb3c4289f3f5",
+ "rendicoes": {
+  "png": {
+   "bytes": 28459,
+   "sha256": "086c32c11d5e8357f5638c197fe05e1e51f51535bb338a4e25b4364b7aa898b5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15867,
+   "sha256": "7f0cc172a6f97b6584ebdabeec52d7c1596132314cd5dbf5984d832565e106fd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4317400.png",
+  "bytes": 63479,
+  "sha256": "af8fe160a68b097abdb546da6cff61da8089ffb30fed89c338f0fb3c4289f3f5"
+ },
+ "sha1_origem": "424493ac69c4d32a21c36a604cbd5412aa4a0ba7",
+ "bytes_origem": 63479,
+ "capturado_em": "2026-11-08T07:08:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Santiago_RS_Brasil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "424493ac69c4d32a21c36a604cbd5412aa4a0ba7"
+ }
+}

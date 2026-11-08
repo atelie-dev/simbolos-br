@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3201407",
+ "uf": "ES",
+ "municipio": "Castelo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/BrasaoCasteloES.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3ca0000aa816ff4713e656e0733c947fa228cb923e536d932904e0bb6069c0eb",
+ "rendicoes": {
+  "png": {
+   "bytes": 84262,
+   "sha256": "c2cd7b4e80ed7d8051231161e4bc81106ea0bd9032aeb341f15dbf3cf84e5e12",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38878,
+   "sha256": "fb1786a0df814c912a2490ebebb27640f353a1918b9ec5a764f4129b1e026b57",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3201407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3201407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3201407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3201407.png",
+  "bytes": 35104,
+  "sha256": "3ca0000aa816ff4713e656e0733c947fa228cb923e536d932904e0bb6069c0eb"
+ },
+ "sha1_origem": "c27710ab8d144888cd1225ea566274f7d49f9efc",
+ "bytes_origem": 35104,
+ "capturado_em": "2026-11-08T06:19:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoCasteloES.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "c27710ab8d144888cd1225ea566274f7d49f9efc"
+ }
+}

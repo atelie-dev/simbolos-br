@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3145901",
+ "uf": "MG",
+ "municipio": "Ouro Branco",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Brasao_Ouro_Branco_%28MG%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ouro Branco",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fd29c04b8c292886dcc67d79bf7dba9a3c62b4857172bb14c57f3d7e69217dec",
+ "rendicoes": {
+  "png": {
+   "bytes": 114924,
+   "sha256": "f40295e03251450e9014cad8c73881f50e5bc7b50dca727b30f0375877316078",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 68213,
+   "sha256": "7bd04a713ad31df20f4de9a46852f68910a00db6424525aca25b21f8cc832dd8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3145901.png",
+  "bytes": 78893,
+  "sha256": "fd29c04b8c292886dcc67d79bf7dba9a3c62b4857172bb14c57f3d7e69217dec"
+ },
+ "sha1_origem": "784e9c8b98f4ed6a600490d6c3cd850851ae534c",
+ "bytes_origem": 78893,
+ "capturado_em": "2026-11-08T06:12:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Ouro_Branco_(MG).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "784e9c8b98f4ed6a600490d6c3cd850851ae534c"
+ }
+}

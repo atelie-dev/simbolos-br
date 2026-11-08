@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3536703",
+ "uf": "SP",
+ "municipio": "Pederneiras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bandeira_Pederneiras_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Srfortes",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d50c372ec1ca7cbbe3845f94592452efea46588a19821489ccb6ccc70887e698",
+ "rendicoes": {
+  "png": {
+   "bytes": 33477,
+   "sha256": "b17c54a90bdd512a0f936347d0190e7289a80967dad18fa979ce0ca7584adb1a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22100,
+   "sha256": "646261e3a85e29d6217516acd0bf675238f3cae8b0303821bc28c898db9c174e",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 29273,
+   "sha256": "d50c372ec1ca7cbbe3845f94592452efea46588a19821489ccb6ccc70887e698"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3536703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3536703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3536703.jpg"
+ },
+ "sha1_origem": "cf489b4aa230883dc0eb690c811eda8f61c45022",
+ "bytes_origem": 29273,
+ "capturado_em": "2026-11-08T04:11:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Pederneiras_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "cf489b4aa230883dc0eb690c811eda8f61c45022"
+ }
+}

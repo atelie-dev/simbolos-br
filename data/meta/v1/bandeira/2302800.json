@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2302800",
+ "uf": "CE",
+ "municipio": "Canindé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bandeira_de_Caninde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Macambira-SE",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "af67d76891763732c51e3401b0382816e3fba2f6941ee841cce32e1ea0e9b2b1",
+ "rendicoes": {
+  "png": {
+   "bytes": 82276,
+   "sha256": "2bc9ccdc64d8924710ea40122b54aeaa4ec72d302a342aed486e0ab108de71c9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19086,
+   "sha256": "1c0dca4c177f8e9cc714a81e44a01682a99f41484be324d65b610d9bc8d6bbab",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2302800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2302800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2302800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2302800.jpg",
+  "bytes": 12857,
+  "sha256": "af67d76891763732c51e3401b0382816e3fba2f6941ee841cce32e1ea0e9b2b1"
+ },
+ "sha1_origem": "96cb3363bd3c0ab272ab45eda0ecb9d4354ef875",
+ "bytes_origem": 12857,
+ "capturado_em": "2026-11-08T05:32:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Caninde.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "96cb3363bd3c0ab272ab45eda0ecb9d4354ef875"
+ }
+}

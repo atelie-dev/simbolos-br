@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5221452",
+ "uf": "GO",
+ "municipio": "Trombas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bandeira_de_Trombas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Trombas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6a6e118232700e0038895278825cbc0f9d33fa40cde79d17406f73e888f61717",
+ "rendicoes": {
+  "png": {
+   "bytes": 48921,
+   "sha256": "b8eff4323e19ea9421d5c36557033345748bdc12294a5de9ce97501518e5256f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13276,
+   "sha256": "3c43a3f66d90e18dcbba9a357c0ee3eb4526fbd38129d597b9aef6a9da384b89",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5221452.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5221452.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5221452.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5221452.jpg",
+  "bytes": 12311,
+  "sha256": "6a6e118232700e0038895278825cbc0f9d33fa40cde79d17406f73e888f61717"
+ },
+ "sha1_origem": "378b76e63e8ebff996d24320b49cab520a589f50",
+ "bytes_origem": 12311,
+ "capturado_em": "2026-11-08T07:20:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Trombas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "378b76e63e8ebff996d24320b49cab520a589f50"
+ }
+}

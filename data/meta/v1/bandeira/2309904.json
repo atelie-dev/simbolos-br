@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2309904",
+ "uf": "CE",
+ "municipio": "Pacujá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bandeira_Pacuj%C3%A1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "sem fontes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "572f15464abefa51000dfadf582a2751031ef81a1ddb3bc4c2a7288a7afc35d9",
+ "rendicoes": {
+  "png": {
+   "bytes": 53570,
+   "sha256": "5e59637514258b864ffd307c38c1fd0838fe3721e6c11b42f7048cbb6539ca5c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19163,
+   "sha256": "d5a7b3003288db4e1d41683f1d372153b934378b033d7099a1b01f2a2543e695",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2309904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2309904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2309904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2309904.jpg",
+  "bytes": 26086,
+  "sha256": "572f15464abefa51000dfadf582a2751031ef81a1ddb3bc4c2a7288a7afc35d9"
+ },
+ "sha1_origem": "84d45db64789632dd379d06294669333319ba264",
+ "bytes_origem": 26086,
+ "capturado_em": "2026-11-08T05:34:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Pacujá.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "84d45db64789632dd379d06294669333319ba264"
+ }
+}

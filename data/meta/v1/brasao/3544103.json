@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3544103",
+ "uf": "SP",
+ "municipio": "Rio Grande da Serra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Brasao_rio_grande_da_serra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Rio Grande da Serra",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f8822696da5116f95d147fd1f5f928a751f32486426ed2f8166c92e5bece95f3",
+ "rendicoes": {
+  "png": {
+   "bytes": 23872,
+   "sha256": "88927269de4525736bd265b5d7c2da452cc0e29a39415d0b1722ad5523242e1b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6381,
+   "sha256": "cf33adf667e22c0e23d7b8bb2a273e8a41805aabaa84d018ba1a6c9686513c11",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3544103.jpg",
+  "bytes": 11274,
+  "sha256": "f8822696da5116f95d147fd1f5f928a751f32486426ed2f8166c92e5bece95f3"
+ },
+ "sha1_origem": "9109740236a64c1eeea9591b98ea02f0817246d3",
+ "bytes_origem": 11274,
+ "capturado_em": "2026-11-08T06:36:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_rio_grande_da_serra.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "9109740236a64c1eeea9591b98ea02f0817246d3"
+ }
+}

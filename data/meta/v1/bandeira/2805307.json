@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2805307",
+ "uf": "SE",
+ "municipio": "Pirambu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bandeira_PIRAMBU.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pirambu-SE",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5f5f18dea11b7ec19eef890ce40497e85be4626b18326d3a5886fee54dd60416",
+ "rendicoes": {
+  "png": {
+   "bytes": 41416,
+   "sha256": "7b348b33615a48f477cd57c570db9694300fabd66b229ef46600f71d63298dae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21997,
+   "sha256": "9a6c66fc5b210c3ae61d3caed47554667acb2360a7ed4ea2e78e9d7842b7b7db",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 97195,
+   "sha256": "5f5f18dea11b7ec19eef890ce40497e85be4626b18326d3a5886fee54dd60416"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2805307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2805307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2805307.jpg"
+ },
+ "sha1_origem": "8954c69db554dd7afca9ed6142452bd56dbcc848",
+ "bytes_origem": 97195,
+ "capturado_em": "2026-11-08T03:13:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_PIRAMBU.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "8954c69db554dd7afca9ed6142452bd56dbcc848"
+ }
+}

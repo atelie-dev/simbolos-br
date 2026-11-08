@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4322509",
+ "uf": "RS",
+ "municipio": "Vacaria",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bandeira_de_Vacaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Vacaria",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1a11163adb45cb872d09a73719f34ce74b49bba18d5499f233e2edc5523ef808",
+ "rendicoes": {
+  "png": {
+   "bytes": 88235,
+   "sha256": "d8a15352d93dd1de4067a2a05c438de87dc5e13beaebb00dabbd6026112f1be0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24107,
+   "sha256": "cb601abdcfd5fbbc294067bc584a88ea8cbfb2b6bd53aee863b34255d58b3072",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4322509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4322509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4322509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4322509.jpg",
+  "bytes": 33742,
+  "sha256": "1a11163adb45cb872d09a73719f34ce74b49bba18d5499f233e2edc5523ef808"
+ },
+ "sha1_origem": "5fa82df2559c1a1946cbf74d24f7e21779b60411",
+ "bytes_origem": 33742,
+ "capturado_em": "2026-11-08T07:11:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Vacaria.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "5fa82df2559c1a1946cbf74d24f7e21779b60411"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211108",
+ "uf": "SC",
+ "municipio": "Monte Castelo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bandeira_do_munic%C3%ADpio_de_Monte_Castelo_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Monte Castelo (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a124db3a03ef68ae72f5527378628159eb091995995ffd1baeef092ca78341b8",
+ "rendicoes": {
+  "png": {
+   "bytes": 37282,
+   "sha256": "eff24c6e413386a46ab78561dd13f9d3918b9d4609e5d83f33229e26772220bb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18274,
+   "sha256": "df489f32c2d0bf4853e266e1c6f7545682bb3612557808f5fb27cae98e52a21f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211108.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4211108.png",
+  "bytes": 2820601,
+  "sha256": "a124db3a03ef68ae72f5527378628159eb091995995ffd1baeef092ca78341b8"
+ },
+ "sha1_origem": "e5be45243aead7f27d2e300ff3083570683a2cd3",
+ "bytes_origem": 2820601,
+ "capturado_em": "2026-11-08T06:55:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Monte_Castelo_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "e5be45243aead7f27d2e300ff3083570683a2cd3"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3530706",
+ "uf": "SP",
+ "municipio": "Mogi Guaçu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bras%C3%A3o_Mogi_Gua%C3%A7u.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "36a80769a5c941add3956376e65a20ef870e66e835229fc405acc12d2248ec51",
+ "rendicoes": {
+  "png": {
+   "bytes": 14998,
+   "sha256": "b819a1d78242db91c7303e848b2e352813178acbf7069528fb52b54f9c53d4ad",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32144,
+   "sha256": "db6f7f8881bf613c43dcab0031f8f323a440ce07c5bc659905be8ded8cc9791e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3530706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3530706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3530706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3530706.png",
+  "bytes": 8302,
+  "sha256": "36a80769a5c941add3956376e65a20ef870e66e835229fc405acc12d2248ec51"
+ },
+ "sha1_origem": "cf6c1730a58c2f298481655a5b5473c4cf8621f7",
+ "bytes_origem": 8302,
+ "capturado_em": "2026-11-08T06:32:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Mogi_Guaçu.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "cf6c1730a58c2f298481655a5b5473c4cf8621f7"
+ }
+}

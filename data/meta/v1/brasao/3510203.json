@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3510203",
+ "uf": "SP",
+ "municipio": "Capão Bonito",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bras%C3%A3o_de_Cap%C3%A3o_Bonito.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "07d8f7f3d51ffb9762c5232be3e871a5f365fd7f20eeac972e3f9d29dd17a78b",
+ "rendicoes": {
+  "png": {
+   "bytes": 29904,
+   "sha256": "49ae1632a27bee68b7ace10c12cce6bcc7ddb038f6bf7d942ec3e1d3ffee0547",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12754,
+   "sha256": "7204e85b6dfe7ef7450619dfaa8b6b2ed11f2240454fa03df70edb23ed3d6959",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3510203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3510203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3510203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3510203.png",
+  "bytes": 12282,
+  "sha256": "07d8f7f3d51ffb9762c5232be3e871a5f365fd7f20eeac972e3f9d29dd17a78b"
+ },
+ "sha1_origem": "5f2c652857aa681fc232934fce22319115ff1b73",
+ "bytes_origem": 12282,
+ "capturado_em": "2026-11-08T06:25:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Capão_Bonito.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "5f2c652857aa681fc232934fce22319115ff1b73"
+ }
+}

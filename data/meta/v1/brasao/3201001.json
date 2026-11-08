@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3201001",
+ "uf": "ES",
+ "municipio": "Boa Esperança",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/84/Brasao-boaesperan%C3%A7a.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Boa Esperança City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1b9460a680045c18ceafd8226dba8e26f2cf5777268f00a7af7819fcb9783f5c",
+ "rendicoes": {
+  "png": {
+   "bytes": 20485,
+   "sha256": "30d0bebf984ee0c9439ef8cb5460d0870e969680bd854e7b0e9a37c9dcb3b62e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8995,
+   "sha256": "b2d583437740822617813a712755f46ba3272999a186a3625f96b1d100bea739",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3201001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3201001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3201001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3201001.png",
+  "bytes": 8046,
+  "sha256": "1b9460a680045c18ceafd8226dba8e26f2cf5777268f00a7af7819fcb9783f5c"
+ },
+ "sha1_origem": "b4abe8767184cd4b032250f990ba3de8cb169e8d",
+ "bytes_origem": 8046,
+ "capturado_em": "2026-11-08T06:18:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-boaesperança.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "b4abe8767184cd4b032250f990ba3de8cb169e8d"
+ }
+}

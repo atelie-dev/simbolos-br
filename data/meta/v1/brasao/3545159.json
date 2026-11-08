@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3545159",
+ "uf": "SP",
+ "municipio": "Saltinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bras%C3%A3o_Saltinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b8d475fc490e9ba8f46569c38996f1dbf3e88820b4fff961d9ebd38537160169",
+ "rendicoes": {
+  "png": {
+   "bytes": 394081,
+   "sha256": "c6b5010e719f3bc9726918a35bf7b465cb9b2eee0b29421448864ddf24aefc46",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 70399,
+   "sha256": "614e0587304817628de1348e06519ddfc45e88400886c294f5aaf9f373b5383b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3545159.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3545159.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3545159.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3545159.jpg",
+  "bytes": 57968,
+  "sha256": "b8d475fc490e9ba8f46569c38996f1dbf3e88820b4fff961d9ebd38537160169"
+ },
+ "sha1_origem": "0ed91a06e4300084e9382fe7936bd2f6c4316a1f",
+ "bytes_origem": 57968,
+ "capturado_em": "2026-11-08T06:36:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Saltinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "0ed91a06e4300084e9382fe7936bd2f6c4316a1f"
+ }
+}

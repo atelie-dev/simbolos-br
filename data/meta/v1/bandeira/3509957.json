@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3509957",
+ "uf": "SP",
+ "municipio": "Canas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_de_Canas_-_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Canas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "03a1899832276753bb01c76cad29f37475948d87b395d5c69b108766b825c1af",
+ "rendicoes": {
+  "png": {
+   "bytes": 55747,
+   "sha256": "209d04a037bea48ba955592b7b7ad9ef9effdff8d84cc13b640ec99633c54cc9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22311,
+   "sha256": "fd1892d0fee455b7289c2be8878c8b087e3c671e547eeea3ebedbdd00c1fe982",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509957.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509957.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3509957.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3509957.jpg",
+  "bytes": 79531,
+  "sha256": "03a1899832276753bb01c76cad29f37475948d87b395d5c69b108766b825c1af"
+ },
+ "sha1_origem": "6f989a7346c9eaeec22d87a15bfcacfcd829b73f",
+ "bytes_origem": 79531,
+ "capturado_em": "2026-11-08T06:25:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Canas_-_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "6f989a7346c9eaeec22d87a15bfcacfcd829b73f"
+ }
+}

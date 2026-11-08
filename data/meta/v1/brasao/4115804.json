@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4115804",
+ "uf": "PR",
+ "municipio": "Medianeira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Brasaomedianeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Medianeira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "947f12529f0b149708059d220be4a6b8a754568210a75325a5cc25ec381716a7",
+ "rendicoes": {
+  "png": {
+   "bytes": 196334,
+   "sha256": "8fbbdaf708bb224925fbdb7cb118854dbb7fc67c3c07f902289ec9d1ce3b139e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42272,
+   "sha256": "5f8cc4acf41e2c070bab52f3953866cd91bde669421f50717b4e9814aaf5d06e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4115804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4115804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4115804.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4115804.jpg",
+  "bytes": 47075,
+  "sha256": "947f12529f0b149708059d220be4a6b8a754568210a75325a5cc25ec381716a7"
+ },
+ "sha1_origem": "aaf7de6e8d1c6d1093964b51b0f67d90b5ae44db",
+ "bytes_origem": 47075,
+ "capturado_em": "2026-11-08T06:46:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaomedianeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "aaf7de6e8d1c6d1093964b51b0f67d90b5ae44db"
+ }
+}

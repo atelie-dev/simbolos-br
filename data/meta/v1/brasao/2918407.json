@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2918407",
+ "uf": "BA",
+ "municipio": "Juazeiro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bras%C3%A3o_de_Juazeiro_BA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Juazeiro BA",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2c517fa44795a8767526c1822903c83b2ff94141ad0276314b672369d7ffcb38",
+ "rendicoes": {
+  "png": {
+   "bytes": 282676,
+   "sha256": "e93648429617f13820338c3bbc604e30d8d639b6cd4a56a53171d22854130162",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59428,
+   "sha256": "d2c5f82a46fa0108e087bee7cf160bf12fb0d02383cb7cdcbe74140980f5f839",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2918407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2918407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2918407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2918407.png",
+  "bytes": 736652,
+  "sha256": "2c517fa44795a8767526c1822903c83b2ff94141ad0276314b672369d7ffcb38"
+ },
+ "sha1_origem": "06d0f92aa59187484228158fdc43f1850700f299",
+ "bytes_origem": 736652,
+ "capturado_em": "2026-11-08T05:55:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Juazeiro_BA.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:05Z",
+  "estado": "igual",
+  "sha1_commons": "06d0f92aa59187484228158fdc43f1850700f299"
+ }
+}

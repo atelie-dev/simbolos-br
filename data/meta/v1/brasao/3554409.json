@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3554409",
+ "uf": "SP",
+ "municipio": "Terra Roxa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Brasao_terra_roxa_sao_paulo_brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "43bf00366f893b57bf9196a0e9e161b00b53f554e7263ff3657a8fb3b7390717",
+ "rendicoes": {
+  "png": {
+   "bytes": 63148,
+   "sha256": "bf2f3e755f0c882b49ceb04745f3851ddfd09d5826194bba2af09e05dc3677c3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14134,
+   "sha256": "3d3f761c045907ca7ecd0495796c85248ead2becb18551a1930b5cee3b943fce",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3554409.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3554409.jpg",
+  "bytes": 12825,
+  "sha256": "43bf00366f893b57bf9196a0e9e161b00b53f554e7263ff3657a8fb3b7390717"
+ },
+ "sha1_origem": "a83486e5d9e13cd7d3540a0807668325acbbe24b",
+ "bytes_origem": 12825,
+ "capturado_em": "2026-11-08T06:39:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_terra_roxa_sao_paulo_brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "a83486e5d9e13cd7d3540a0807668325acbbe24b"
+ }
+}

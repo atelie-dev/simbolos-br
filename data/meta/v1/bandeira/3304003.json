@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3304003",
+ "uf": "RJ",
+ "municipio": "Piraí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bandeira-pirai.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2cae700348320e4bd63b175b7d85700916894609a65c5d0c50db965754faea5e",
+ "rendicoes": {
+  "png": {
+   "bytes": 33047,
+   "sha256": "ee01cea0087fec8fb08846db8150dc9e6c6d0d81346e156f5bc1c46eb5eb973d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19307,
+   "sha256": "3b90d8560c17e86d58885e083b4e851948a0561c5d6a0c83db9a8f80b27ac285",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3304003.png",
+  "bytes": 12985,
+  "sha256": "2cae700348320e4bd63b175b7d85700916894609a65c5d0c50db965754faea5e"
+ },
+ "sha1_origem": "e1c0415330bc67d8d994a1ae95c90541caf18e24",
+ "bytes_origem": 12985,
+ "capturado_em": "2026-11-08T06:21:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-pirai.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "e1c0415330bc67d8d994a1ae95c90541caf18e24"
+ }
+}

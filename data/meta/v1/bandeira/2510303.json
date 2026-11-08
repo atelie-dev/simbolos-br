@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2510303",
+ "uf": "PB",
+ "municipio": "Nova Palmeira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bandeira_Nova_Palmeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Nova Palmeira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3e802e749ea278ec5fcb29502bd8ccba71a0fdd94dd6e311cf3b0b30f7366842",
+ "rendicoes": {
+  "png": {
+   "bytes": 81971,
+   "sha256": "0174f5fdd9e5e0cc70a3486adc9db7df4238db1bdf286665204bbe6c887a814a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18360,
+   "sha256": "a4f3d968c89664e7153966a0ffbfbc8c1e8bdb8c775f61cc5bbbfe915e3d32af",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2510303.jpg",
+  "bytes": 19143,
+  "sha256": "3e802e749ea278ec5fcb29502bd8ccba71a0fdd94dd6e311cf3b0b30f7366842"
+ },
+ "sha1_origem": "c804c33c5e418458d8830913554a5267a47a197f",
+ "bytes_origem": 19143,
+ "capturado_em": "2026-11-08T05:42:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Nova_Palmeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "c804c33c5e418458d8830913554a5267a47a197f"
+ }
+}

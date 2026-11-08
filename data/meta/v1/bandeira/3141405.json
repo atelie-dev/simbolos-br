@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3141405",
+ "uf": "MG",
+ "municipio": "Medina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bandeira_de_Medina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "João Pedro e Henrigo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "69c25f428b62e9e4a5895962fb7746482848ac6813182a353432f6b8ff15aa1c",
+ "rendicoes": {
+  "png": {
+   "bytes": 76466,
+   "sha256": "b0e96da3a414fd5eec8996e631347861c235cdca8bc3d80bd90853cf958dc1f7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22571,
+   "sha256": "6230f37234acf11bbe4d767ef44bb1261de4c1cee6584495b379266dbbd062a1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3141405.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3141405.jpg",
+  "bytes": 208782,
+  "sha256": "69c25f428b62e9e4a5895962fb7746482848ac6813182a353432f6b8ff15aa1c"
+ },
+ "sha1_origem": "b7f0ccfaff08c905d44d80180a373d2526c6202f",
+ "bytes_origem": 208782,
+ "capturado_em": "2026-11-08T06:11:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Medina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "b7f0ccfaff08c905d44d80180a373d2526c6202f"
+ }
+}

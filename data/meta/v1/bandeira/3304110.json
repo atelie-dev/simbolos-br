@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3304110",
+ "uf": "RJ",
+ "municipio": "Porto Real",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandeira_de_Porto_Real.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e7616a470e62c64e50befa703dd0e2d90d0e0e01abeb934f0d712bb40320e2d0",
+ "rendicoes": {
+  "png": {
+   "bytes": 36011,
+   "sha256": "765eac58dadfaaaa5d4ff38ca6014418c46afba40271219172b050896acbfc21",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11546,
+   "sha256": "0fa991539d9ff950ddfde571d60b40cb414e0b52404dcda42d2367b0561018c6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304110.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304110.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304110.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3304110.jpg",
+  "bytes": 6943,
+  "sha256": "e7616a470e62c64e50befa703dd0e2d90d0e0e01abeb934f0d712bb40320e2d0"
+ },
+ "sha1_origem": "f6905a0454a8904858f45c0c4b06fbdee930d721",
+ "bytes_origem": 6943,
+ "capturado_em": "2026-11-08T06:21:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Porto_Real.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "f6905a0454a8904858f45c0c4b06fbdee930d721"
+ }
+}

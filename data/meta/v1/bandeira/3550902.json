@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3550902",
+ "uf": "SP",
+ "municipio": "São Simão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bandeira_S%C3%A3o_Sim%C3%A3o.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3ba6ea72ac0e0dc81e8e35d1b8994486b4c450eff5bc91b52d6fede6bc2f85c0",
+ "rendicoes": {
+  "png": {
+   "bytes": 17406,
+   "sha256": "ea910f6af789c73e4b3d6e4ac881a4132db93e7a28947b669d58b6a3bc854b5a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12043,
+   "sha256": "c0509b8d7f92423b78ba106983eb6dec5100e1a1d62957d69a72176663311a1b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3550902.png",
+  "bytes": 16448,
+  "sha256": "3ba6ea72ac0e0dc81e8e35d1b8994486b4c450eff5bc91b52d6fede6bc2f85c0"
+ },
+ "sha1_origem": "f2e64275220d19002c7da050e05dcad65b4d68d0",
+ "bytes_origem": 16448,
+ "capturado_em": "2026-11-08T06:38:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_São_Simão.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "f2e64275220d19002c7da050e05dcad65b4d68d0"
+ }
+}

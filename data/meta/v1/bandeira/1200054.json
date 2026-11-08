@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1200054",
+ "uf": "AC",
+ "municipio": "Assis Brasil",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bandeira_Assis_Brasil_-_AC.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Gazilion",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5e0c9777f836caf5e42227dec46cc7bc129b28dfa4573ac20d9d0d3dbf62898a",
+ "rendicoes": {
+  "png": {
+   "bytes": 32693,
+   "sha256": "4a61b1e3babd3429300030770e006c19e1fc361b47c91927bf93191af564dcb0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18490,
+   "sha256": "0207fd0f545f89dd861ba199d96a24188be118d55b0d3dd20232a3243757d49a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 7442,
+   "sha256": "5e0c9777f836caf5e42227dec46cc7bc129b28dfa4573ac20d9d0d3dbf62898a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200054.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200054.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200054.jpg"
+ },
+ "sha1_origem": "84780f855d23899eeec5ec76ce310e0008d95e58",
+ "bytes_origem": 7442,
+ "capturado_em": "2026-11-08T02:30:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Assis_Brasil_-_AC.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "84780f855d23899eeec5ec76ce310e0008d95e58"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3304201",
+ "uf": "RJ",
+ "municipio": "Resende",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Resende_bras%C3%A3o.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/gif",
+ "sha256_origem": "e798bd555231061457a10478e49e73a18ba05db5980d3953cc7e84e954c4272e",
+ "rendicoes": {
+  "png": {
+   "bytes": 41058,
+   "sha256": "41e737cb8f1b8eaad9ee25469b290194911c28953d6bfb60285673df09baec51",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12668,
+   "sha256": "a4ae1ccb86d926e520de27f3bed94c4162779ce66946ce28bb6bf94289bdd53f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3304201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3304201.gif",
+  "bytes": 15943,
+  "sha256": "e798bd555231061457a10478e49e73a18ba05db5980d3953cc7e84e954c4272e"
+ },
+ "sha1_origem": "7e2572050f5280b4626b649581ed9a599a4d755a",
+ "bytes_origem": 15943,
+ "capturado_em": "2026-11-08T06:21:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Resende_brasão.gif",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "7e2572050f5280b4626b649581ed9a599a4d755a"
+ }
+}

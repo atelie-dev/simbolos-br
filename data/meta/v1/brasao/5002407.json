@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5002407",
+ "uf": "MS",
+ "municipio": "Caarapó",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Brasao_Caarapo_MatoGrossodoSul_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "9e6020353d975db8122a5429d781a8d700a1d8e0c37b7210099abab4d3a14f86",
+ "rendicoes": {
+  "png": {
+   "bytes": 157897,
+   "sha256": "fe3b0021dd518031c67a20ac3e04e3c489b270ae180f19a56c0fa046a76e4e18",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 50427,
+   "sha256": "01cbf0f5e2db4e43cd1a95c742534edbce9639f174f7090e6f8cdf792dd1009d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 603860,
+   "sha256": "9e6020353d975db8122a5429d781a8d700a1d8e0c37b7210099abab4d3a14f86"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5002407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5002407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5002407.jpg"
+ },
+ "sha1_origem": "27f07f9c63d761fca56cb0b0e1a11bef7fe3234f",
+ "bytes_origem": 603860,
+ "capturado_em": "2026-11-08T05:03:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Caarapo_MatoGrossodoSul_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "27f07f9c63d761fca56cb0b0e1a11bef7fe3234f"
+ }
+}

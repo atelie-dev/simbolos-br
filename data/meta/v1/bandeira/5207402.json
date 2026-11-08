@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5207402",
+ "uf": "GO",
+ "municipio": "Edéia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bandeira_de_Ed%C3%A9ia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Edéia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "671c4350e3f205904ef6d4b9af46f07175ace6222aab8a53fa11f6faa92a9705",
+ "rendicoes": {
+  "png": {
+   "bytes": 41190,
+   "sha256": "5785852347f4f99128f6d8530fe93e5da6b583d219b8912f4546a0c1c1cfc27b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11028,
+   "sha256": "0c07177ac33e7000fa40cab83773850b1cb05e82d29715cb526e933ebcb82e9c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5207402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5207402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5207402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5207402.jpg",
+  "bytes": 9656,
+  "sha256": "671c4350e3f205904ef6d4b9af46f07175ace6222aab8a53fa11f6faa92a9705"
+ },
+ "sha1_origem": "6f488f47273d1fca5743d1028b0dcf0a320b8bc1",
+ "bytes_origem": 9656,
+ "capturado_em": "2026-11-08T07:17:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Edéia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "6f488f47273d1fca5743d1028b0dcf0a320b8bc1"
+ }
+}

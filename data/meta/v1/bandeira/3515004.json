@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3515004",
+ "uf": "SP",
+ "municipio": "Embu das Artes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/02/BandeiraEmbu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5aa91b981e7c6d2698f5d8c7d5122c2a3bea009dbc5d2789b9446cb576c91b69",
+ "rendicoes": {
+  "png": {
+   "bytes": 77502,
+   "sha256": "f68898310fa1d23670f0b9895127144931fe4788646c99484c043ef043334e22",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26768,
+   "sha256": "baf4e3cc4fff78ee3be24c68687455076d3b2b3a199435315c62c170395041e6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3515004.jpg",
+  "bytes": 578786,
+  "sha256": "5aa91b981e7c6d2698f5d8c7d5122c2a3bea009dbc5d2789b9446cb576c91b69"
+ },
+ "sha1_origem": "398f2bbb33ba0dba0acb9e790b561d7d9506e676",
+ "bytes_origem": 578786,
+ "capturado_em": "2026-11-08T06:27:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraEmbu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:41Z",
+  "estado": "igual",
+  "sha1_commons": "398f2bbb33ba0dba0acb9e790b561d7d9506e676"
+ }
+}

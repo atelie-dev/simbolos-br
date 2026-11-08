@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5107180",
+ "uf": "MT",
+ "municipio": "Ribeirão Cascalheira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bandeira_Ribeir%C3%A3o_Cascalheira_MT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Ribeirão Cascalheira_MT",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8a2f7c110fb00a3c0c9c3d969bebb2b32014b5a0fdad6115844e459e8be52654",
+ "rendicoes": {
+  "png": {
+   "bytes": 46423,
+   "sha256": "bddecfde3fa56b9677808726d3ce7e7e17b91e3a9707758c90f2be05caf96730",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25209,
+   "sha256": "6c1f7083c77348cdd088d720315998cd5cfd1276d3e10d7f9616dd3857d167e9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107180.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107180.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5107180.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5107180.jpg",
+  "bytes": 112267,
+  "sha256": "8a2f7c110fb00a3c0c9c3d969bebb2b32014b5a0fdad6115844e459e8be52654"
+ },
+ "sha1_origem": "13327ab32ed968e0d4a97b9172333670a2152db3",
+ "bytes_origem": 112267,
+ "capturado_em": "2026-11-08T07:15:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Ribeirão_Cascalheira_MT.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "13327ab32ed968e0d4a97b9172333670a2152db3"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3549508",
+ "uf": "SP",
+ "municipio": "São José da Bela Vista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bandeira_S%C3%A3o_Jos%C3%A9_da_Bela_Vista.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9e8dc6b869297503e19431e23ec5aff60a987f8601f0fd61da40f2dc69fe5ead",
+ "rendicoes": {
+  "png": {
+   "bytes": 21694,
+   "sha256": "b3f06759caf50f99621fdfdb273174b36014161b7d51d22906bdec411106b6ca",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15844,
+   "sha256": "7160a8cc0ad21697b183e9a34677de6468a19f8e0f1b95eb0216a26f456f9b52",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3549508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3549508.png",
+  "bytes": 19079,
+  "sha256": "9e8dc6b869297503e19431e23ec5aff60a987f8601f0fd61da40f2dc69fe5ead"
+ },
+ "sha1_origem": "a5bbfba7b808ada3fc7b41d09b26e514324a07f5",
+ "bytes_origem": 19079,
+ "capturado_em": "2026-11-08T06:38:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_São_José_da_Bela_Vista.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "a5bbfba7b808ada3fc7b41d09b26e514324a07f5"
+ }
+}

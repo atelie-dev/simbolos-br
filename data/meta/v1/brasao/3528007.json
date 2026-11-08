@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3528007",
+ "uf": "SP",
+ "municipio": "Macatuba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bras%C3%A3o_Macatuba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4d4ab7c49c70ae18d4b417ebbead61ced288202284c85ad4e72b750a90b0f847",
+ "rendicoes": {
+  "png": {
+   "bytes": 136032,
+   "sha256": "d69ccf9727097397a8798efb4bcf3d12a13503122bc922809e0029ca0277dc69",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32544,
+   "sha256": "0cd6cf47a10032fa7ea03044910bdb5e1d2b8a0936f8b5f0f1a4aebabfdcb224",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3528007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3528007.jpg",
+  "bytes": 37422,
+  "sha256": "4d4ab7c49c70ae18d4b417ebbead61ced288202284c85ad4e72b750a90b0f847"
+ },
+ "sha1_origem": "681f5498e1561e27beffdd42a64a4bc85f8bb27c",
+ "bytes_origem": 37422,
+ "capturado_em": "2026-11-08T06:31:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Macatuba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "681f5498e1561e27beffdd42a64a4bc85f8bb27c"
+ }
+}

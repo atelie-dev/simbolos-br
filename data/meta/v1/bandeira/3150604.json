@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3150604",
+ "uf": "MG",
+ "municipio": "Piracema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bandeira-de-Piracema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Piracema",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "92621d6007076f0f1a48406a8a71371a43afa18058065c84610d3adcadaefbd1",
+ "rendicoes": {
+  "png": {
+   "bytes": 55234,
+   "sha256": "996c5deaf401267a26fffdfa7fe114938a6af734d067fd9b2c9200dc39369c25",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16559,
+   "sha256": "955763c182950aa4e7b5cfdd9e9003d4d7a09a5d671912c41208713476be3d18",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3150604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3150604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3150604.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3150604.jpg",
+  "bytes": 15276,
+  "sha256": "92621d6007076f0f1a48406a8a71371a43afa18058065c84610d3adcadaefbd1"
+ },
+ "sha1_origem": "75cf5a92ca8355188a1754734f95cec718e70eca",
+ "bytes_origem": 15276,
+ "capturado_em": "2026-11-08T06:13:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-de-Piracema.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "75cf5a92ca8355188a1754734f95cec718e70eca"
+ }
+}

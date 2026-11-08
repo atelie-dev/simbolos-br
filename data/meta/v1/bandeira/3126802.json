@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3126802",
+ "uf": "MG",
+ "municipio": "Frei Gaspar",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bandeira_de_Frei_Gaspar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://www.freigaspar.com/",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1fc58fd69be80fa96afc20657917218016ac429f198827b553ad3481445ac080",
+ "rendicoes": {
+  "png": {
+   "bytes": 248442,
+   "sha256": "a16f43d3397a6de1556dc44de30bd93a66593c6af4e55c7c326483806e64fad2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34101,
+   "sha256": "e216f2196c8274ad4fc7d413bbe14c6132395300e43e8b59638a9c2caa2968a5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3126802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3126802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3126802.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3126802.jpg",
+  "bytes": 307119,
+  "sha256": "1fc58fd69be80fa96afc20657917218016ac429f198827b553ad3481445ac080"
+ },
+ "sha1_origem": "613c81defb3304468b168f92a9a4d096be51cd9a",
+ "bytes_origem": 307119,
+ "capturado_em": "2026-11-08T06:07:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Frei_Gaspar.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "613c81defb3304468b168f92a9a4d096be51cd9a"
+ }
+}

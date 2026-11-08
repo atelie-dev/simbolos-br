@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2608909",
+ "uf": "PE",
+ "municipio": "Limoeiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandeira_limoeiro_pe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Limoeiro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "94a06f66c33b4a4eb64053584f14ec945f71befca67ed7ddf1e568cb2ff9c53e",
+ "rendicoes": {
+  "png": {
+   "bytes": 30360,
+   "sha256": "6a9a9f8717f469645b8ff8283e6dfdf6a9ebf57b74abb4e0dc799e49a858534c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10520,
+   "sha256": "257fec4ce0a1b9878b6a1eda761c4b5742c1c0d7e1f5ff2e97ca3b955103b91e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2608909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2608909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2608909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2608909.jpg",
+  "bytes": 10954,
+  "sha256": "94a06f66c33b4a4eb64053584f14ec945f71befca67ed7ddf1e568cb2ff9c53e"
+ },
+ "sha1_origem": "e08c8e474ad8de7be2f707a49e51538365dbe09d",
+ "bytes_origem": 10954,
+ "capturado_em": "2026-11-08T05:45:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_limoeiro_pe.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "e08c8e474ad8de7be2f707a49e51538365dbe09d"
+ }
+}

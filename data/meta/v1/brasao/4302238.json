@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4302238",
+ "uf": "RS",
+ "municipio": "Boa Vista do Incra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bras%C3%A3o_Boa_Vista_do_Incra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Boa Vista do Incra",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "37e4f55039fae8f227e820902b7ea6731883d030d2533920b1cd61dd953207c2",
+ "rendicoes": {
+  "png": {
+   "bytes": 407752,
+   "sha256": "de78b8df8cfc278ddeea80830e8a73d6a67dd66128d897a0fe1897824a02807d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 84033,
+   "sha256": "1a6f3e963413388fcdd83d467d54ed683a197377555b902af0c0934ca5bcdd9c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302238.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302238.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4302238.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4302238.jpg",
+  "bytes": 85759,
+  "sha256": "37e4f55039fae8f227e820902b7ea6731883d030d2533920b1cd61dd953207c2"
+ },
+ "sha1_origem": "fc18c5b3307bb7aa4bde7ca25fe99b99c353092f",
+ "bytes_origem": 85759,
+ "capturado_em": "2026-11-08T06:59:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Boa_Vista_do_Incra.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "fc18c5b3307bb7aa4bde7ca25fe99b99c353092f"
+ }
+}

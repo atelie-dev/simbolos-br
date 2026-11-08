@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3121100",
+ "uf": "MG",
+ "municipio": "Delfim Moreira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bandeira_Delfim_Moreira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Paulo Vinicius da Silva",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "57ea2508a92f69168f78ab68117ad96a6a1cc3bfb75bbc30abbba05551eeec5b",
+ "rendicoes": {
+  "png": {
+   "bytes": 14382,
+   "sha256": "2befab7a969c472729c79b14f078ec7d19dc8307fc94e01e99577578f7ed6e48",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14265,
+   "sha256": "46d50c4e1ea48ff1e85b05329d80e1086df369f5210dc07abe085d7ae9950c52",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3121100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3121100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3121100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3121100.png",
+  "bytes": 19776,
+  "sha256": "57ea2508a92f69168f78ab68117ad96a6a1cc3bfb75bbc30abbba05551eeec5b"
+ },
+ "sha1_origem": "937151307dd331e6904f3d7b930c1f2a7b5854c1",
+ "bytes_origem": 19776,
+ "capturado_em": "2026-11-08T06:05:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Delfim_Moreira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "937151307dd331e6904f3d7b930c1f2a7b5854c1"
+ }
+}

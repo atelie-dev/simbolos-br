@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2801900",
+ "uf": "SE",
+ "municipio": "Cumbe",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Cumbe_band.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cumbe-SE",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d23ed650a456c1cbbf99a09bd47e39753c8c23f17fd5f77a4d4f6a12e9bf114c",
+ "rendicoes": {
+  "png": {
+   "bytes": 95190,
+   "sha256": "e837f4f8b67c0c63f2b54efb02143b32e08af88039172ee3b3a672e49be4287f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29692,
+   "sha256": "828dc015c4771488a4bd91b9bdf64f7724d37438d2dcfd33a94a6e5cc3f0e316",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2801900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2801900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2801900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2801900.jpg",
+  "bytes": 96745,
+  "sha256": "d23ed650a456c1cbbf99a09bd47e39753c8c23f17fd5f77a4d4f6a12e9bf114c"
+ },
+ "sha1_origem": "4548bc4468219016d880fd153a79cce7d4d4055d",
+ "bytes_origem": 96745,
+ "capturado_em": "2026-11-08T05:49:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cumbe_band.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "4548bc4468219016d880fd153a79cce7d4d4055d"
+ }
+}

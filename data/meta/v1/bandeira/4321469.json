@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321469",
+ "uf": "RS",
+ "municipio": "Tio Hugo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Tio_Hugorsbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Tio Hugo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fcfa23c2932b7f3002a89f15bc61ce3ca1a7e6dd96e9025aded79c8ee50303da",
+ "rendicoes": {
+  "png": {
+   "bytes": 11628,
+   "sha256": "fdc50182deff59bff7bd441cd376babc6ec2af026c7ae81e19e42728404ebc88",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7700,
+   "sha256": "9f37e5ad6d268d339114d2819ac5ea89ef812600196f640ccc397044de517f59",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321469.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321469.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321469.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4321469.png",
+  "bytes": 9089,
+  "sha256": "fcfa23c2932b7f3002a89f15bc61ce3ca1a7e6dd96e9025aded79c8ee50303da"
+ },
+ "sha1_origem": "3a4010759f87a79a3090c505f6749eb7faa36f6b",
+ "bytes_origem": 9089,
+ "capturado_em": "2026-11-08T07:10:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Tio_Hugorsbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:38Z",
+  "estado": "igual",
+  "sha1_commons": "3a4010759f87a79a3090c505f6749eb7faa36f6b"
+ }
+}

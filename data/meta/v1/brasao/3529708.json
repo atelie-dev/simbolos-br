@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3529708",
+ "uf": "SP",
+ "municipio": "Miguelópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Miguel%C3%B3polis.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5c28d7a74565294b4666aadf73f93453b81add3e44d700056119afcac63c03dd",
+ "rendicoes": {
+  "png": {
+   "bytes": 336868,
+   "sha256": "cc24ad0affa0c5d40652f2ad9393d3d7b5ef1f487bd7d4ae3b2c7edbf5555626",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58861,
+   "sha256": "e911dd0890155dd980b330248e360b9592bf29d7385b634d96ef7d4c5dbe7e65",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3529708.png",
+  "bytes": 328108,
+  "sha256": "5c28d7a74565294b4666aadf73f93453b81add3e44d700056119afcac63c03dd"
+ },
+ "sha1_origem": "a092e2314f447f6da35618383731f59742532c84",
+ "bytes_origem": 328108,
+ "capturado_em": "2026-11-08T06:31:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Miguelópolis.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "a092e2314f447f6da35618383731f59742532c84"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3511508",
+ "uf": "SP",
+ "municipio": "Cerquilho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Brasao-cerq.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "df3a13d5d724501c7afa78faad37f0ab6e677f8a77c9ed9aee5c3785675bf9e7",
+ "rendicoes": {
+  "png": {
+   "bytes": 65416,
+   "sha256": "6ca87b93723f9c21559eb568c36e5dbbc61f3649d73d162b8c58d779480bc1c1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14019,
+   "sha256": "a5b63f4c0a03e906ef65fa5c81da2912d2afef0fb115f99bb951207434eb9f48",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3511508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3511508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3511508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3511508.jpg",
+  "bytes": 14011,
+  "sha256": "df3a13d5d724501c7afa78faad37f0ab6e677f8a77c9ed9aee5c3785675bf9e7"
+ },
+ "sha1_origem": "0806de02e168204ab328bcbfd607105f82014f29",
+ "bytes_origem": 14011,
+ "capturado_em": "2026-11-08T06:26:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-cerq.jpeg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "0806de02e168204ab328bcbfd607105f82014f29"
+ }
+}

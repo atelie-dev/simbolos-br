@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4306320",
+ "uf": "RS",
+ "municipio": "Derrubadas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_the_Brazilian_city_of_Derrubadas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Município de Derrubadas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "48441c922e4d2e63439412a3ffd0e718c7c34a63540ed37610a397e9fb4ca9c8",
+ "rendicoes": {
+  "png": {
+   "bytes": 75189,
+   "sha256": "e604d6e5d37cfcf36a1ddd4b8c22cf42ffb79e0cee92d822274018053ea2e54b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16845,
+   "sha256": "53e3300c54d9834884d017824b032c2bbf3efe1f3de04c20518799ae5f29853a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306320.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306320.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306320.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4306320.jpg",
+  "bytes": 11298,
+  "sha256": "48441c922e4d2e63439412a3ffd0e718c7c34a63540ed37610a397e9fb4ca9c8"
+ },
+ "sha1_origem": "7657c6142669c586f25e3be81226cb0dcc9ff974",
+ "bytes_origem": 11298,
+ "capturado_em": "2026-11-08T07:02:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_the_Brazilian_city_of_Derrubadas.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "7657c6142669c586f25e3be81226cb0dcc9ff974"
+ }
+}

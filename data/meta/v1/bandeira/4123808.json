@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4123808",
+ "uf": "PR",
+ "municipio": "Santa Izabel do Oeste",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bandeira_de_Santa_Izabel_do_Oeste_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0a243c8464602c432238643d0a1d02174e242811afd21c986bd71c5395893d53",
+ "rendicoes": {
+  "png": {
+   "bytes": 52641,
+   "sha256": "f4926672838233e6398d9ed04b53e7503bf2148944c974979b14bc7555f1ba7d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22189,
+   "sha256": "f9186e1a2f1b96c3e1af36fa75ed63023f8162ab71fa4322f621bab59eacfcaa",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 267658,
+   "sha256": "0a243c8464602c432238643d0a1d02174e242811afd21c986bd71c5395893d53"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4123808.jpg"
+ },
+ "sha1_origem": "9f9e1f41c998feeb06a8799c67c69ffcd59f506f",
+ "bytes_origem": 267658,
+ "capturado_em": "2026-11-08T04:32:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santa_Izabel_do_Oeste_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "9f9e1f41c998feeb06a8799c67c69ffcd59f506f"
+ }
+}

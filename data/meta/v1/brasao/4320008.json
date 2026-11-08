@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4320008",
+ "uf": "RS",
+ "municipio": "Sapucaia do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bras%C3%A3o_sapucaia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Sapucaia do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a2ab2bc262c2a14fe8b8a01ca20c3b445b7f523523a16b044d7306c8d7619471",
+ "rendicoes": {
+  "png": {
+   "bytes": 134215,
+   "sha256": "aedac06f16e4f807efe0a12e4134e7575a9003716c1036ea70b501dc14fdbdce",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49583,
+   "sha256": "abd01edb2ab925cbb7f3fc49c027dbcb733767a140b9c94534a5d01b334730a2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4320008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4320008.jpg",
+  "bytes": 881041,
+  "sha256": "a2ab2bc262c2a14fe8b8a01ca20c3b445b7f523523a16b044d7306c8d7619471"
+ },
+ "sha1_origem": "029781c532c1df5e17410b099291f1fd83cf7ff4",
+ "bytes_origem": 881041,
+ "capturado_em": "2026-11-08T07:10:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_sapucaia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "029781c532c1df5e17410b099291f1fd83cf7ff4"
+ }
+}

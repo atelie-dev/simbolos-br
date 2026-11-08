@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3521200",
+ "uf": "SP",
+ "municipio": "Iporanga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Iporanga.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "91987012f0bb87bbc323700bd48131ac90e1f4a6eb6a4899500ef94f749df81c",
+ "rendicoes": {
+  "png": {
+   "bytes": 345553,
+   "sha256": "483862c9b1f5a23b5a1b7623e3986248cd660fe574a3463a428cad75e8171bc1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 84591,
+   "sha256": "6104e35d272efd662bb638db796afc1b8849395debd26550d60acfa7302cf869",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3521200.png",
+  "bytes": 338129,
+  "sha256": "91987012f0bb87bbc323700bd48131ac90e1f4a6eb6a4899500ef94f749df81c"
+ },
+ "sha1_origem": "2ace6208ded792c323fdfbe6e9ff176fff871a63",
+ "bytes_origem": 338129,
+ "capturado_em": "2026-11-08T06:29:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Iporanga.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "2ace6208ded792c323fdfbe6e9ff176fff871a63"
+ }
+}

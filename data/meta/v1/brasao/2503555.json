@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2503555",
+ "uf": "PB",
+ "municipio": "Cacimbas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bras%C3%A3o_Cacimbas-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cacimbas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "26ab91216ece981c9fecf923f35e27729d9e35c66eb67e5916f0d8b80fd53360",
+ "rendicoes": {
+  "png": {
+   "bytes": 242619,
+   "sha256": "e3dc3f284df7afa9d5486f131f25c9b6f0432c51ca52870674d3e24d880d9435",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41275,
+   "sha256": "3ed3362cbf9bf39c9e148ff73cb6d5ed3bbdc7286a25f47b92a261e344cb5e83",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2503555.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2503555.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2503555.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2503555.jpg",
+  "bytes": 41047,
+  "sha256": "26ab91216ece981c9fecf923f35e27729d9e35c66eb67e5916f0d8b80fd53360"
+ },
+ "sha1_origem": "0f775a889f3bb44129ac671be4f020f6ee285c44",
+ "bytes_origem": 41047,
+ "capturado_em": "2026-11-08T05:40:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Cacimbas-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:47Z",
+  "estado": "igual",
+  "sha1_commons": "0f775a889f3bb44129ac671be4f020f6ee285c44"
+ }
+}

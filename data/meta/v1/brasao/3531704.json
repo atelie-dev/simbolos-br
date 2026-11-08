@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3531704",
+ "uf": "SP",
+ "municipio": "Monteiro Lobato",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Brasao_Monteiro_Lobato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Monteiro Lobato, Brasil",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3d6dac577df2e212e5567227acf92418d6f6d5f9a40b381bec95bf6b32eeda9a",
+ "rendicoes": {
+  "png": {
+   "bytes": 48123,
+   "sha256": "ccd1ccd908d5ceebeed000824ed92a4b2f945bf99fd00329b38301cb5aa6cbab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12861,
+   "sha256": "b85a598c66192002018c35cecf43487ebdc5c505c3b457b213efec9a26d43415",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3531704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3531704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3531704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3531704.jpg",
+  "bytes": 61763,
+  "sha256": "3d6dac577df2e212e5567227acf92418d6f6d5f9a40b381bec95bf6b32eeda9a"
+ },
+ "sha1_origem": "8b3961b7fac8faf843f4fbdf059e33df271765fe",
+ "bytes_origem": 61763,
+ "capturado_em": "2026-11-08T06:32:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Monteiro_Lobato.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "8b3961b7fac8faf843f4fbdf059e33df271765fe"
+ }
+}

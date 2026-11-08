@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2600500",
+ "uf": "PE",
+ "municipio": "Águas Belas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bandeira_aguas_belas.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7ee2a31c5d51dcb13f86e3956566fa52304e5bc76d3659c2af185bea1fb07f3c",
+ "rendicoes": {
+  "png": {
+   "bytes": 34880,
+   "sha256": "30644a031e6454017583c59981967b251fadd499bca84c44b6b8ce01315836b6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24683,
+   "sha256": "b2de109233e70401db4323b71015bdccbdbc52f957c7e32e1cea353c9bc8847c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 17668,
+   "sha256": "7ee2a31c5d51dcb13f86e3956566fa52304e5bc76d3659c2af185bea1fb07f3c"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2600500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2600500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2600500.jpg"
+ },
+ "sha1_origem": "8360f20ec78100759f39006bbb5d8ba2fb1424f2",
+ "bytes_origem": 17668,
+ "capturado_em": "2026-11-08T03:03:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_aguas_belas.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "8360f20ec78100759f39006bbb5d8ba2fb1424f2"
+ }
+}

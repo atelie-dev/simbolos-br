@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4210035",
+ "uf": "SC",
+ "municipio": "Luzerna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bandeira_Municipal_de_Luzerna.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Luzerna",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "94764dc18f058407450757587abb7040e1f38e11869849b4f8a28b72857b9581",
+ "rendicoes": {
+  "png": {
+   "bytes": 72407,
+   "sha256": "3e159e4674b4373b83f44c70064097925f6933d942f05d9bad5413c7ef56321a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22136,
+   "sha256": "482e5a1e663ab38cd8afa55f7fe1e11034af30c50444a5042b1bbcefff275a6f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210035.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210035.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210035.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4210035.png",
+  "bytes": 224113,
+  "sha256": "94764dc18f058407450757587abb7040e1f38e11869849b4f8a28b72857b9581"
+ },
+ "sha1_origem": "f38f4205f8405198dcdab5a53d47dc04cd050dbf",
+ "bytes_origem": 224113,
+ "capturado_em": "2026-11-08T06:54:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Municipal_de_Luzerna.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "f38f4205f8405198dcdab5a53d47dc04cd050dbf"
+ }
+}

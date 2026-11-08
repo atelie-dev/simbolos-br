@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4300703",
+ "uf": "RS",
+ "municipio": "Anta Gorda",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bandeira_de_Anta_Gorda.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Anta Gorda",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2f5de31490f22181b751fc0392da972c09de3f9563a5e9178345edb89e9f4856",
+ "rendicoes": {
+  "png": {
+   "bytes": 38154,
+   "sha256": "1984f5c2342ada8308744c1bfe73bb3886fc91fd56a84abfc9daa9a98513b4ab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17053,
+   "sha256": "871906d6dd3fab9a3fda57354942f1e1e32ad23553b02023aaa376ccf6464d2b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4300703.png",
+  "bytes": 66705,
+  "sha256": "2f5de31490f22181b751fc0392da972c09de3f9563a5e9178345edb89e9f4856"
+ },
+ "sha1_origem": "1dbbdd8ae124f0924f4faaf4669dd4a2cd2bcc1f",
+ "bytes_origem": 66705,
+ "capturado_em": "2026-11-08T06:58:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Anta_Gorda.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "1dbbdd8ae124f0924f4faaf4669dd4a2cd2bcc1f"
+ }
+}

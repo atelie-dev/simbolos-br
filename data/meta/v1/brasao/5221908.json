@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5221908",
+ "uf": "GO",
+ "municipio": "Varjão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bras%C3%A3o_de_Varj%C3%A3o.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Varjão",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "15eed20c8dcc513943743ef07ad26deef52a5c1e6a73d7c838eb8b7184688bdb",
+ "rendicoes": {
+  "png": {
+   "bytes": 269353,
+   "sha256": "ef9f08a71a9942f451b66ce9afcf2620730267f9bc2a85c6d34fa8ed63355fb4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53346,
+   "sha256": "2aa0d36a80f46c493fea92f8ebd31a129a8a17ef7813be62054f2622c98a6de8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5221908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5221908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5221908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5221908.png",
+  "bytes": 861167,
+  "sha256": "15eed20c8dcc513943743ef07ad26deef52a5c1e6a73d7c838eb8b7184688bdb"
+ },
+ "sha1_origem": "5ec9e196c9ed9812e7c5d71a6be69a499738bd0f",
+ "bytes_origem": 861167,
+ "capturado_em": "2026-11-08T07:21:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Varjão.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "5ec9e196c9ed9812e7c5d71a6be69a499738bd0f"
+ }
+}

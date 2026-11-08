@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2607653",
+ "uf": "PE",
+ "municipio": "Itambé",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bandeira_Oficial_Itamb%C3%A9-PE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3c5b6e7747932ba95203ad0e22fb93d4f858aefc503f07212cac3ac264650bf6",
+ "rendicoes": {
+  "png": {
+   "bytes": 35941,
+   "sha256": "1f85619f1abd660de46d68846c56b47425d996f290a12a73e093be21d0f5b867",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17227,
+   "sha256": "55927c396ef32fb63e799a159305814b983ce8f4e80c56a3df33c34bcf1b47b0",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 15019,
+   "sha256": "3c5b6e7747932ba95203ad0e22fb93d4f858aefc503f07212cac3ac264650bf6"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2607653.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2607653.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2607653.jpg"
+ },
+ "sha1_origem": "59bbdb4a2a5870f9f56bd5f9e55e0ce050f2523e",
+ "bytes_origem": 15019,
+ "capturado_em": "2026-11-08T03:06:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Oficial_Itambé-PE.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "59bbdb4a2a5870f9f56bd5f9e55e0ce050f2523e"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4313805",
+ "uf": "RS",
+ "municipio": "Palmitinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bras%C3%A3o_de_Palmitinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Palmitinho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "64d5409c97517cc5233dcd98062836b7f8cb0b3ca3ff73a55f4bf290db37c65c",
+ "rendicoes": {
+  "png": {
+   "bytes": 46124,
+   "sha256": "a715ba1c552a4eb2cf95ea09146e315623eba9d8f7778b217cb5c475deaf971b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12642,
+   "sha256": "e64b45127b84026c8f5360dfa58683408abde07b9922ba18bba7140856c8f7c9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4313805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4313805.jpg",
+  "bytes": 36153,
+  "sha256": "64d5409c97517cc5233dcd98062836b7f8cb0b3ca3ff73a55f4bf290db37c65c"
+ },
+ "sha1_origem": "d00fda8119c996013ede6dae3c8380c45098aa83",
+ "bytes_origem": 36153,
+ "capturado_em": "2026-11-08T07:06:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Palmitinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "d00fda8119c996013ede6dae3c8380c45098aa83"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3508603",
+ "uf": "SP",
+ "municipio": "Cachoeira Paulista",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bras%C3%A3o_de_Cachoeira_Paulista.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cachoeira Paulista",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b91d6d0150d2d6c79c9313690485e7be502ad9c5fdd444ac033698b2ba0f666d",
+ "rendicoes": {
+  "png": {
+   "bytes": 299051,
+   "sha256": "9c3df221ae45cc49a51eae372432d3d389e089304cf3120d24b0772ddfca36c2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 58442,
+   "sha256": "86e68f6f06cab0239cbc8185d3442d18ca82fa5724fa50882dfc07c86adf6626",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3508603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3508603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3508603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3508603.png",
+  "bytes": 300670,
+  "sha256": "b91d6d0150d2d6c79c9313690485e7be502ad9c5fdd444ac033698b2ba0f666d"
+ },
+ "sha1_origem": "4f4888ddccc521505ceb1d3e47ed6580710ad599",
+ "bytes_origem": 300670,
+ "capturado_em": "2026-11-08T06:25:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cachoeira_Paulista.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:59Z",
+  "estado": "igual",
+  "sha1_commons": "4f4888ddccc521505ceb1d3e47ed6580710ad599"
+ }
+}

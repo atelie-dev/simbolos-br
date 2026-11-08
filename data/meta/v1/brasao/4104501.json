@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4104501",
+ "uf": "PR",
+ "municipio": "Capanema",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bras%C3%A3o_de_Capanema_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "502605308cc99327c4ad08ddb1be444678da9db19e9c1ec2f0e8e7ed39e2569d",
+ "rendicoes": {
+  "png": {
+   "bytes": 206331,
+   "sha256": "eb0e93bf8ed3417a0fcb72dd1bb38450573c90c410f67fc05c3115ed97e99fc0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 59666,
+   "sha256": "b6c2e247a295995571da33dd6b43bcc2cd5bacd82b49fe50792f41959a986ab9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 896924,
+   "sha256": "502605308cc99327c4ad08ddb1be444678da9db19e9c1ec2f0e8e7ed39e2569d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104501.jpg"
+ },
+ "sha1_origem": "53185d5f39d2dfd1556c69f9f90df63c0e241353",
+ "bytes_origem": 896924,
+ "capturado_em": "2026-11-08T04:22:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Capanema_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "53185d5f39d2dfd1556c69f9f90df63c0e241353"
+ }
+}

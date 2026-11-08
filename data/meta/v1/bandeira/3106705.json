@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3106705",
+ "uf": "MG",
+ "municipio": "Betim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/BandeiraBetim.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ViniciusBR11; Prefeitura de Betim",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0e58a6026c6e8f8fd22e627fcfd9678206863312d195ed0952017afc81d1b845",
+ "rendicoes": {
+  "png": {
+   "bytes": 32465,
+   "sha256": "2280d349716073092fbb1b037f0c128455cbc81365996ee7f01b39d28bc6e62e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16681,
+   "sha256": "30dbad38a4fc426ea6828dbe67979b40ac495fc54268e428c796aac463e1327b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 115764,
+   "sha256": "0e58a6026c6e8f8fd22e627fcfd9678206863312d195ed0952017afc81d1b845"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3106705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3106705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3106705.jpg"
+ },
+ "sha1_origem": "c662a0ad3c8e30cfac76e3bb9b8aee774d3f0108",
+ "bytes_origem": 115764,
+ "capturado_em": "2026-11-08T03:27:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BandeiraBetim.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "c662a0ad3c8e30cfac76e3bb9b8aee774d3f0108"
+ }
+}

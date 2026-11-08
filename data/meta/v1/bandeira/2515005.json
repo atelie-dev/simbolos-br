@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2515005",
+ "uf": "PB",
+ "municipio": "São Miguel de Taipu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bandeira_S%C3%A3o_Miguel_de_Taipu-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Miguel de Taipu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6acf6341745cf518cfc04517868887c51eb5feab18eba572162693a0b3e76176",
+ "rendicoes": {
+  "png": {
+   "bytes": 131785,
+   "sha256": "b472a920661af7ffc640c7e4f6ea922c9c780e099525bbf773b848f925b71af9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32268,
+   "sha256": "45fa421b747975cff1718bd15da16165102ed88b6c9da92694aed8f87d9f5df3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2515005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2515005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2515005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2515005.jpg",
+  "bytes": 85308,
+  "sha256": "6acf6341745cf518cfc04517868887c51eb5feab18eba572162693a0b3e76176"
+ },
+ "sha1_origem": "881d809f0ba969060b6aafe96ea35870aae613a1",
+ "bytes_origem": 85308,
+ "capturado_em": "2026-11-08T05:43:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_São_Miguel_de_Taipu-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "881d809f0ba969060b6aafe96ea35870aae613a1"
+ }
+}

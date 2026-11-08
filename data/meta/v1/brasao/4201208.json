@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4201208",
+ "uf": "SC",
+ "municipio": "Antônio Carlos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Brasao_Antonio_Carlos_SC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2e5ece2a46cb354ba6f92baaca53ff82808e96fe437caef15f4991129b544e8f",
+ "rendicoes": {
+  "png": {
+   "bytes": 154863,
+   "sha256": "73774d5f8504863e999d7d6870e24be6676b9faac493395489f24fa4b3d1f772",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36776,
+   "sha256": "78fb35278523d83c639112a92a8e755e9969aacff6d530a0c320f580a7b02033",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4201208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4201208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4201208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4201208.jpg",
+  "bytes": 40148,
+  "sha256": "2e5ece2a46cb354ba6f92baaca53ff82808e96fe437caef15f4991129b544e8f"
+ },
+ "sha1_origem": "775e48f3485e04decfd043dd7946a3ab7e92d9f2",
+ "bytes_origem": 40148,
+ "capturado_em": "2026-11-08T06:51:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Antonio_Carlos_SC.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "775e48f3485e04decfd043dd7946a3ab7e92d9f2"
+ }
+}

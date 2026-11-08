@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532207",
+ "uf": "SP",
+ "municipio": "Narandiba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bandeira_de_Narandiba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9ddf96191718165fa96a40a36b2f94b7ef3416d6ddf44159de949cf8608d4e37",
+ "rendicoes": {
+  "png": {
+   "bytes": 68860,
+   "sha256": "f48a962962dbe390ed760520a5a8a0145cd110e10a1a25d5d126a2dbb4c749ae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19122,
+   "sha256": "bc5ade46ed6a7f7019f746b459f33906442250a17b3d2a66de9040135d55ac19",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3532207.jpg",
+  "bytes": 18572,
+  "sha256": "9ddf96191718165fa96a40a36b2f94b7ef3416d6ddf44159de949cf8608d4e37"
+ },
+ "sha1_origem": "7e05f21f9a9ac2bda5d337e518f76bcdea07ffd6",
+ "bytes_origem": 18572,
+ "capturado_em": "2026-11-08T06:32:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Narandiba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "7e05f21f9a9ac2bda5d337e518f76bcdea07ffd6"
+ }
+}

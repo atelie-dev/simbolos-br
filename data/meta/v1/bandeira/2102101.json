@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2102101",
+ "uf": "MA",
+ "municipio": "Brejo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bandeira_Brejo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Brejo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "45336652aaa14d7d7f6cb82fc6ce8d971089624ab40991a7be3c5f0f702665e3",
+ "rendicoes": {
+  "png": {
+   "bytes": 102368,
+   "sha256": "e682d40a881e73f41b418f86823495c3b7ae99998a285afc80a27bd12b66cf60",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23671,
+   "sha256": "18998360c2a4e5cc2803eb2a09f6892aa2b473366fb542cf8efaa62bd1ded01c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2102101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2102101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2102101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2102101.jpg",
+  "bytes": 39848,
+  "sha256": "45336652aaa14d7d7f6cb82fc6ce8d971089624ab40991a7be3c5f0f702665e3"
+ },
+ "sha1_origem": "5c1f400b102a223d3ebb9339e69d8bd5d7ad46a2",
+ "bytes_origem": 39848,
+ "capturado_em": "2026-11-08T05:27:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Brejo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "5c1f400b102a223d3ebb9339e69d8bd5d7ad46a2"
+ }
+}

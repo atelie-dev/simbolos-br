@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3101300",
+ "uf": "MG",
+ "municipio": "Alagoa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Brasao_alagoa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Alagoamg",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "49d80c4a9442af1957fe23f6557cba5e9e4eee331f0eca02f87215a57b55774b",
+ "rendicoes": {
+  "png": {
+   "bytes": 232895,
+   "sha256": "6e80eb4db8ad0b6f3880efb3dbb63c2d9eaecb8f467adee3f47ee316c44d63e8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39238,
+   "sha256": "925807400358d4f9e000d331eb6afab00e6625e013113bb60461bc8efd8ba1b4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3101300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3101300.jpg",
+  "bytes": 49266,
+  "sha256": "49d80c4a9442af1957fe23f6557cba5e9e4eee331f0eca02f87215a57b55774b"
+ },
+ "sha1_origem": "ed1b47448383397c278554723914d2e2a717b608",
+ "bytes_origem": 49266,
+ "capturado_em": "2026-11-08T05:58:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_alagoa.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "ed1b47448383397c278554723914d2e2a717b608"
+ }
+}

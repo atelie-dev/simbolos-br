@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2515930",
+ "uf": "PB",
+ "municipio": "Sertãozinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bras%C3%A3o_de_Sert%C3%A3ozinho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "04cb27dc54260b2f592277b36e6890bd13eec6aa3d9e1b07e48058c567e0e490",
+ "rendicoes": {
+  "png": {
+   "bytes": 112037,
+   "sha256": "1087d3025c46ea3b35bdfd6bd522aa017aafd535d900f9ce9b922727b63eb398",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38681,
+   "sha256": "2253f511f74f1e083d2128b635fc18f673e53b64a27a83b00a0682545f2ebac8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2515930.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2515930.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2515930.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2515930.jpg",
+  "bytes": 334884,
+  "sha256": "04cb27dc54260b2f592277b36e6890bd13eec6aa3d9e1b07e48058c567e0e490"
+ },
+ "sha1_origem": "cce876b6b9335b87e1bcbe3fa5722882457748e3",
+ "bytes_origem": 334884,
+ "capturado_em": "2026-11-08T05:44:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Sertãozinho.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "cce876b6b9335b87e1bcbe3fa5722882457748e3"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3168002",
+ "uf": "MG",
+ "municipio": "Taiobeiras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Brasaotaiobeiras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Taiobeiras",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "23070812c95f71eaeabcc3215b7ab20d8b9ae080b77918e248f5ab9305fb17b2",
+ "rendicoes": {
+  "png": {
+   "bytes": 15050,
+   "sha256": "b6cf03b87d8379953e3b897b7543fbbeed3a8d5ce5d305816d2e377e0d053713",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14215,
+   "sha256": "d6d895b666d2626ff94dd12b7ba4d140b769fea96a0d8a2f5a7a72f740b0d9fd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3168002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3168002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3168002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3168002.png",
+  "bytes": 7190,
+  "sha256": "23070812c95f71eaeabcc3215b7ab20d8b9ae080b77918e248f5ab9305fb17b2"
+ },
+ "sha1_origem": "844e14e478ca62a48e02c87175ff110ddd07e7a6",
+ "bytes_origem": 7190,
+ "capturado_em": "2026-11-08T06:17:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaotaiobeiras.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:44Z",
+  "estado": "igual",
+  "sha1_commons": "844e14e478ca62a48e02c87175ff110ddd07e7a6"
+ }
+}

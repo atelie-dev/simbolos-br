@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3548005",
+ "uf": "SP",
+ "municipio": "Santo Antônio de Posse",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Brasao_St_Antonio_Posse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "58e2955da65256d293498fdf6efd56e3ced0b94d5e9dbb19cc066ed94c578eb5",
+ "rendicoes": {
+  "png": {
+   "bytes": 70342,
+   "sha256": "6c461c97e205d86504bcb44a12026978ae5786567dcb44e5eb1e8444f6030d2e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18002,
+   "sha256": "9168575669e43050ff5a07d6103495066fb9737aca16ccf8e97ea7015bf20b30",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3548005.jpg",
+  "bytes": 45007,
+  "sha256": "58e2955da65256d293498fdf6efd56e3ced0b94d5e9dbb19cc066ed94c578eb5"
+ },
+ "sha1_origem": "382cf848c75d8cebb1c5b43affd4a9b143d7c04f",
+ "bytes_origem": 45007,
+ "capturado_em": "2026-11-08T06:37:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_St_Antonio_Posse.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "382cf848c75d8cebb1c5b43affd4a9b143d7c04f"
+ }
+}

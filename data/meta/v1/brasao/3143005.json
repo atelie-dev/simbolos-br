@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3143005",
+ "uf": "MG",
+ "municipio": "Monte Belo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Brasao_monte_belo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Wcom2",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9352cbd2911f7e32b6f11c97f86371c49a6423acaf1b36594b3408d2488c0cfa",
+ "rendicoes": {
+  "png": {
+   "bytes": 37326,
+   "sha256": "76c0c2e08675496f65b1e1c41c3f950dab357dffcb549b2fd9fd10bd212e2750",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7610,
+   "sha256": "fd36d50fdfdb6608554b9c009ab7c7784be3baebefac09f226e2d16583d09f26",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3143005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3143005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3143005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3143005.jpg",
+  "bytes": 7393,
+  "sha256": "9352cbd2911f7e32b6f11c97f86371c49a6423acaf1b36594b3408d2488c0cfa"
+ },
+ "sha1_origem": "d30ad81b3f3e9c797a05c177cb8e27bec1394073",
+ "bytes_origem": 7393,
+ "capturado_em": "2026-11-08T06:11:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_monte_belo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "d30ad81b3f3e9c797a05c177cb8e27bec1394073"
+ }
+}

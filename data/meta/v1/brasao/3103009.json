@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3103009",
+ "uf": "MG",
+ "municipio": "Antônio Dias",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Brasao-antoniodias-mg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PMAD",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "db4e0f842985c8e3e0601e3ce3b82de44c02a728da09ebe973fc180cad40eb88",
+ "rendicoes": {
+  "png": {
+   "bytes": 118183,
+   "sha256": "6908462ab49c6dc4358d82aa3043763a887c1f5201447344fd975b07ea828ed2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21586,
+   "sha256": "911fd0b026a607e3c8946026f8c2d155b2ed3654941855fef57c88eab9d4197b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3103009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3103009.jpg",
+  "bytes": 12857,
+  "sha256": "db4e0f842985c8e3e0601e3ce3b82de44c02a728da09ebe973fc180cad40eb88"
+ },
+ "sha1_origem": "21893f2abb297f1b7b9dc217cf0332f2b1b15554",
+ "bytes_origem": 12857,
+ "capturado_em": "2026-11-08T05:59:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-antoniodias-mg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "21893f2abb297f1b7b9dc217cf0332f2b1b15554"
+ }
+}

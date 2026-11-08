@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2916708",
+ "uf": "BA",
+ "municipio": "Itaquara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bras%C3%A3o_Itaquara.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Itaquara",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5c36c7313ab042a3c1697a5acaabbbbd9f949ef00ad0dd6b3045caaf78fee773",
+ "rendicoes": {
+  "png": {
+   "bytes": 54661,
+   "sha256": "2c94ce6fa1e0e63a4a951e465566530bf19e9d38fa416b69543a3fec443b22f8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12262,
+   "sha256": "4768f7ecbcff728bb0fd777eb9ef905a624491b92d6a865730df85015fc1f65d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2916708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2916708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2916708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2916708.png",
+  "bytes": 49824,
+  "sha256": "5c36c7313ab042a3c1697a5acaabbbbd9f949ef00ad0dd6b3045caaf78fee773"
+ },
+ "sha1_origem": "35766daa9d18e90ce547020968e7426b1e5a5cf3",
+ "bytes_origem": 49824,
+ "capturado_em": "2026-11-08T05:54:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Itaquara.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "35766daa9d18e90ce547020968e7426b1e5a5cf3"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3115706",
+ "uf": "MG",
+ "municipio": "Central de Minas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Central_de_Minasmgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Central de Minas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b8078c3d492dac5b156acca453ed393f6c194b248ab0377f72ececc54d8728f3",
+ "rendicoes": {
+  "png": {
+   "bytes": 141187,
+   "sha256": "1e3067857926f5f9fa219cb19b0c3fc554aaabd206c7b9225d59c6202c6adccc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26304,
+   "sha256": "92896c3c974d195c816baf69566463afa343a616f4fa8c14d00a4fe482fa8834",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3115706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3115706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3115706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3115706.jpg",
+  "bytes": 15527,
+  "sha256": "b8078c3d492dac5b156acca453ed393f6c194b248ab0377f72ececc54d8728f3"
+ },
+ "sha1_origem": "350f4779ea9235522faf4cfdbaa4262e9a09e081",
+ "bytes_origem": 15527,
+ "capturado_em": "2026-11-08T06:03:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Central_de_Minasmgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:21Z",
+  "estado": "igual",
+  "sha1_commons": "350f4779ea9235522faf4cfdbaa4262e9a09e081"
+ }
+}

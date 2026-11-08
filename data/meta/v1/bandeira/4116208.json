@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4116208",
+ "uf": "PR",
+ "municipio": "Morretes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bandeira_de_Morretes_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c33c193c2c375685e459ab4c70590a1549a91fd3f0bf591f7f32782b6c6e4c2d",
+ "rendicoes": {
+  "png": {
+   "bytes": 63580,
+   "sha256": "545cc4132fa94b380cb8441e3e22cc9a384faad1eda41f850d33f34206416a42",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30346,
+   "sha256": "30340109706b24af4e7c1e5f7823aa24cb95c887fb6e121eca61a17087a59238",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 232678,
+   "sha256": "c33c193c2c375685e459ab4c70590a1549a91fd3f0bf591f7f32782b6c6e4c2d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4116208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4116208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4116208.jpg"
+ },
+ "sha1_origem": "9f9c1182d9a0677992b500dd543621ea1469d08e",
+ "bytes_origem": 232678,
+ "capturado_em": "2026-11-08T04:28:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Morretes_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "9f9c1182d9a0677992b500dd543621ea1469d08e"
+ }
+}

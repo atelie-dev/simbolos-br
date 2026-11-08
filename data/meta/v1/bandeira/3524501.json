@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3524501",
+ "uf": "SP",
+ "municipio": "Jaci",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bandeira_Jaci.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ae0297d720683967cf4c7a00b279aee4e74bcfb94874ffc65dac19d2e237bc72",
+ "rendicoes": {
+  "png": {
+   "bytes": 19093,
+   "sha256": "5dfeadc32a679e988b31a79d135c24286152c4339044c1e8240bf9ea00f1ec1b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9819,
+   "sha256": "1b7341c1bacb7c1527bc2a4878ef94b8cd107f051bbd448d7d62d38b3c286c96",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3524501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3524501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3524501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3524501.png",
+  "bytes": 17233,
+  "sha256": "ae0297d720683967cf4c7a00b279aee4e74bcfb94874ffc65dac19d2e237bc72"
+ },
+ "sha1_origem": "cf8e541dd981421dcb9fb6af6eb0603990492763",
+ "bytes_origem": 17233,
+ "capturado_em": "2026-11-08T06:30:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Jaci.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "cf8e541dd981421dcb9fb6af6eb0603990492763"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3547007",
+ "uf": "SP",
+ "municipio": "Santa Maria da Serra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bras%C3%A3o_Santa_Maria_da_Serra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f9aaf099a78853286b298f5517191a0fab0108db5cb2c7e0a35175020e570de4",
+ "rendicoes": {
+  "png": {
+   "bytes": 44502,
+   "sha256": "8005a9ab7b99fe0943ba139a390febd88aaa155d662de52b0b32168c308415f9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10939,
+   "sha256": "590cc37ccf5c1056393adadf1ec76ba35feb4da8bf42ff420efc3a01e2a6b03b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3547007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3547007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3547007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3547007.jpg",
+  "bytes": 11019,
+  "sha256": "f9aaf099a78853286b298f5517191a0fab0108db5cb2c7e0a35175020e570de4"
+ },
+ "sha1_origem": "6728386f4e83a89a756a7434efaaacc0133c7a25",
+ "bytes_origem": 11019,
+ "capturado_em": "2026-11-08T06:37:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Santa_Maria_da_Serra.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "6728386f4e83a89a756a7434efaaacc0133c7a25"
+ }
+}

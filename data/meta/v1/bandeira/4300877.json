@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4300877",
+ "uf": "RS",
+ "municipio": "Araricá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bandeira_de_Araric%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Araricá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7c3da0911122c703ade761f729f4161a58e2d04efa12fa785027567880835fe4",
+ "rendicoes": {
+  "png": {
+   "bytes": 24789,
+   "sha256": "068b236ea379cdd05c8535fd85246740baff627ab7d27708f48ef2d128d83e24",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12143,
+   "sha256": "b07908d80784b79e033e12d93ed47d8e3999aa2f1581430ba93f32399d69bda0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300877.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300877.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300877.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4300877.jpg",
+  "bytes": 17569,
+  "sha256": "7c3da0911122c703ade761f729f4161a58e2d04efa12fa785027567880835fe4"
+ },
+ "sha1_origem": "1eb45befe729fad90e30005e6b3ae64b4da670b4",
+ "bytes_origem": 17569,
+ "capturado_em": "2026-11-08T06:58:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Araricá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "1eb45befe729fad90e30005e6b3ae64b4da670b4"
+ }
+}

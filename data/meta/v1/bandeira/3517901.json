@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3517901",
+ "uf": "SP",
+ "municipio": "Guaraci",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bandeira_Guaraci.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4ca7185c46605d479809e88cbb9b47383da2282493cfe72796e5490bb859f1cf",
+ "rendicoes": {
+  "png": {
+   "bytes": 7442,
+   "sha256": "096dbcc144316c5c11052daab7f0740c214d0a406a34c10d7249047637923ff6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4492,
+   "sha256": "09ee72fa7735fbd75ba86577a7c854a81b8760c4decb4c15df54465836dd29e1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3517901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3517901.png",
+  "bytes": 3007,
+  "sha256": "4ca7185c46605d479809e88cbb9b47383da2282493cfe72796e5490bb859f1cf"
+ },
+ "sha1_origem": "5d3ec429f8c871b16505a6be120ea79522b144e6",
+ "bytes_origem": 3007,
+ "capturado_em": "2026-11-08T06:28:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Guaraci.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "5d3ec429f8c871b16505a6be120ea79522b144e6"
+ }
+}

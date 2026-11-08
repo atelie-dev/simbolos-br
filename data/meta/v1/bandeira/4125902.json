@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4125902",
+ "uf": "PR",
+ "municipio": "São Pedro do Paraná",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bandeira_S%C3%A3o_Pedro_do_Paran%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c0c83b418bd3b99ef683542ee15acc4fd1c26df35bd5390661bf4e608d9d6281",
+ "rendicoes": {
+  "png": {
+   "bytes": 29395,
+   "sha256": "b9a790bf47fa67ddbc8c64033ae7c3b2d56afd078ea0c40eb09ede6bdf31fb61",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9968,
+   "sha256": "1f4ce3e358082ccff943cbcd5b1835f54985680460214f4a01929e4b133d3e42",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4125902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4125902.jpg",
+  "bytes": 5752,
+  "sha256": "c0c83b418bd3b99ef683542ee15acc4fd1c26df35bd5390661bf4e608d9d6281"
+ },
+ "sha1_origem": "4fdf43afe143e12fd5bd39ac91a5199ddfc8fa53",
+ "bytes_origem": 5752,
+ "capturado_em": "2026-11-08T06:50:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_São_Pedro_do_Paraná.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "4fdf43afe143e12fd5bd39ac91a5199ddfc8fa53"
+ }
+}

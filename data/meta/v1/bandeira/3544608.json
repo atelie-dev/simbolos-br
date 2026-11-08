@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3544608",
+ "uf": "SP",
+ "municipio": "Sabino",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bandeira_Sabino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9d37f9d8974fbf5697f87c09d73aea259c3bf3feb5639ffa92e06d409575d1fa",
+ "rendicoes": {
+  "png": {
+   "bytes": 89815,
+   "sha256": "8ef03404d537a63256a80d859410006d08292eee4679f58aa0fe2a8a4a75fa2b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15168,
+   "sha256": "794fc8a42417ae614d60319a71b3cd8ed0857838a0c8426622f9be4b94654838",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3544608.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3544608.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3544608.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3544608.jpg",
+  "bytes": 13265,
+  "sha256": "9d37f9d8974fbf5697f87c09d73aea259c3bf3feb5639ffa92e06d409575d1fa"
+ },
+ "sha1_origem": "7a01570f7fac13cb2f4e8719b5b5383777ba6133",
+ "bytes_origem": 13265,
+ "capturado_em": "2026-11-08T06:36:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Sabino.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "7a01570f7fac13cb2f4e8719b5b5383777ba6133"
+ }
+}

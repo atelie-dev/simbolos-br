@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2303659",
+ "uf": "CE",
+ "municipio": "Catunda",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5f/BRASAO_DE_CATUNDA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Jônatas Linhares",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c4cd86561fd0ec6edcbffe81192c50f190bf673cb6b535a334d6b96dd5df2914",
+ "rendicoes": {
+  "png": {
+   "bytes": 250992,
+   "sha256": "648852b742f10c3d40ac90923f39a1b243d4a20b515dc23686d8b8acceac7230",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56127,
+   "sha256": "04a2fcf1d8f425a23bc58beac013b86168cf77e1edba182fcee44ec8f92afd20",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2303659.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2303659.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2303659.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2303659.jpg",
+  "bytes": 76299,
+  "sha256": "c4cd86561fd0ec6edcbffe81192c50f190bf673cb6b535a334d6b96dd5df2914"
+ },
+ "sha1_origem": "93e218f9c0357ea6b703b58ac8c17961615df4bf",
+ "bytes_origem": 76299,
+ "capturado_em": "2026-11-08T05:32:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BRASAO_DE_CATUNDA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:36Z",
+  "estado": "igual",
+  "sha1_commons": "93e218f9c0357ea6b703b58ac8c17961615df4bf"
+ }
+}

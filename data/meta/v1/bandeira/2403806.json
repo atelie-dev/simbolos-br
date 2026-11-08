@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2403806",
+ "uf": "RN",
+ "municipio": "Florânia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bandeira_de_Flor%C3%A2nia-RN%2C_Brasil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Coisas de Florânia",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9328d21f109d2980a5266982095806138ba1994241e48272270b60eb1443d553",
+ "rendicoes": {
+  "png": {
+   "bytes": 131483,
+   "sha256": "cd95f85220896ddc2f8685fb351fca259ea4733176c5e3b5d9764265101fb498",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42159,
+   "sha256": "e5990a5c406d8849f1f4a22132a69afddf3e12b72274035ef89433067b3e94f4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2403806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2403806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2403806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2403806.png",
+  "bytes": 403794,
+  "sha256": "9328d21f109d2980a5266982095806138ba1994241e48272270b60eb1443d553"
+ },
+ "sha1_origem": "020e216a4b47e16f7b2088f28fb0bcef4803ad06",
+ "bytes_origem": 403794,
+ "capturado_em": "2026-11-08T05:36:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Florânia-RN,_Brasil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "020e216a4b47e16f7b2088f28fb0bcef4803ad06"
+ }
+}

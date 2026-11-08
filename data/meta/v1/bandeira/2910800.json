@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2910800",
+ "uf": "BA",
+ "municipio": "Feira de Santana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bandeira_de_Feira_de_Santana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "90153aa11ae79538607375e5835d5539a50d0fbe495f66394a7fb8a7f2a1912d",
+ "rendicoes": {
+  "png": {
+   "bytes": 108066,
+   "sha256": "0bb82a8462611106a819d7d319c370d7200a66d644b48f0a2f206cccd2daf37b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22329,
+   "sha256": "ee2fb0f1c1e53e852297fa0cb52d79d034614d52237725de454aaf4d910a7fd1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2910800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2910800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2910800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2910800.jpg",
+  "bytes": 18541,
+  "sha256": "90153aa11ae79538607375e5835d5539a50d0fbe495f66394a7fb8a7f2a1912d"
+ },
+ "sha1_origem": "3a3a36af4ff98f15110c093842de5c64a0503ac5",
+ "bytes_origem": 18541,
+ "capturado_em": "2026-11-08T05:53:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Feira_de_Santana.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "3a3a36af4ff98f15110c093842de5c64a0503ac5"
+ }
+}

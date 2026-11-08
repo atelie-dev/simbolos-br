@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3115102",
+ "uf": "MG",
+ "municipio": "Cássia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bandeiracassia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cássia",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "44bfb44a0309c8d9b4170055212d39ccb54bffd95a40f1434b47c6e2b996c85d",
+ "rendicoes": {
+  "png": {
+   "bytes": 13503,
+   "sha256": "5d874f199c4e21830ce15654de6b966fcd8f3c6897d5489a3338f63041c6b25b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11172,
+   "sha256": "4bd3500e1eb54612f3b2b7868db9da0cf0b2d798eada00c01b24d690a758dcf9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1081,
+   "sha256": "44bfb44a0309c8d9b4170055212d39ccb54bffd95a40f1434b47c6e2b996c85d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3115102.jpg"
+ },
+ "sha1_origem": "4c16308eed1b250c36ac859b7ac87844db8a53a7",
+ "bytes_origem": 1081,
+ "capturado_em": "2026-11-08T03:30:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiracassia.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "4c16308eed1b250c36ac859b7ac87844db8a53a7"
+ }
+}

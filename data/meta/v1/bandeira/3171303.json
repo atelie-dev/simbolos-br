@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3171303",
+ "uf": "MG",
+ "municipio": "Viçosa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bandeira_vi%C3%A7osa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prof. Arlindo de Paula Gonçalves",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6b5b14d159ba7bfed346a82fe4c4ecd3cff0ba05a10613672104b55f01483d00",
+ "rendicoes": {
+  "png": {
+   "bytes": 52974,
+   "sha256": "00a21fe81f831ccc6970adf3c7d73a8c4b74cac942a745d8ea2b43c311d62f6b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12764,
+   "sha256": "d894622f70184b22bdabaa8595b954697c10f927d23b01bd1db1f0563f79d5b4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3171303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3171303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3171303.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3171303.jpg",
+  "bytes": 11160,
+  "sha256": "6b5b14d159ba7bfed346a82fe4c4ecd3cff0ba05a10613672104b55f01483d00"
+ },
+ "sha1_origem": "e5b246387e6f90b9518f8c6d8d20f5f4d43406dd",
+ "bytes_origem": 11160,
+ "capturado_em": "2026-11-08T06:18:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_viçosa.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "e5b246387e6f90b9518f8c6d8d20f5f4d43406dd"
+ }
+}

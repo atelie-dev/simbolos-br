@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314159",
+ "uf": "RS",
+ "municipio": "Paverama",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bras%C3%A3o_de_Paverama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Paverama",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e1bbffc965dda60fb9769518b70dd548038f15cf20b2b07d08ec2f1ab3ac7d29",
+ "rendicoes": {
+  "png": {
+   "bytes": 402148,
+   "sha256": "2d427b04d8b329d8c7f5d1b8fde8663ed0f6f9dd606c1ac53bd2c6d08707dc82",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63580,
+   "sha256": "d33700ec674909d78731f839ccc315cdc8008c2294721834baffb186640ba384",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314159.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314159.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314159.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4314159.jpg",
+  "bytes": 123454,
+  "sha256": "e1bbffc965dda60fb9769518b70dd548038f15cf20b2b07d08ec2f1ab3ac7d29"
+ },
+ "sha1_origem": "a1969fcf8b95e91c5e0614d5b6a82478356cfb97",
+ "bytes_origem": 123454,
+ "capturado_em": "2026-11-08T07:07:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Paverama.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "a1969fcf8b95e91c5e0614d5b6a82478356cfb97"
+ }
+}

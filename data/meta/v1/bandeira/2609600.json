@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2609600",
+ "uf": "PE",
+ "municipio": "Olinda",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bandeira_de_Olinda.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Olinda",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cbe243400370876b8b957cb9ad08449fd9d77576c4e72a706573988e017b4147",
+ "rendicoes": {
+  "png": {
+   "bytes": 32703,
+   "sha256": "77fbecdda672ebdb579d63186fe84ced4bbd601a16e1bc2f1b6baa331b041c54",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17643,
+   "sha256": "1b6f7f51fd88bf0fade4e1d7f6166edfce345010ff85961b4f28bace8cd227b2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2609600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2609600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2609600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2609600.png",
+  "bytes": 157087,
+  "sha256": "cbe243400370876b8b957cb9ad08449fd9d77576c4e72a706573988e017b4147"
+ },
+ "sha1_origem": "22690de90e35178820ce101d3efde451d3a6ed9d",
+ "bytes_origem": 157087,
+ "capturado_em": "2026-11-08T05:45:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Olinda.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "22690de90e35178820ce101d3efde451d3a6ed9d"
+ }
+}

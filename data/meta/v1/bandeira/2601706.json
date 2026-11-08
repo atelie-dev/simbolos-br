@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2601706",
+ "uf": "PE",
+ "municipio": "Belo Jardim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bandeira_de_Belo_Jardim.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "J.Filgueiras",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "61127091b2f066e27db742be1ac2a54dfde95da6d80f9d20eac4ba3fa05a2f2a",
+ "rendicoes": {
+  "png": {
+   "bytes": 37611,
+   "sha256": "007ca9ebb58b9ab6d8ae12c27cd2fe1865f6846de6f1fb4424ec47b1cc803865",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17548,
+   "sha256": "d293b6b24fcbc362505c6e56aadef14daac707f642a11232ebc4a6a20071bc8b",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 6995,
+   "sha256": "61127091b2f066e27db742be1ac2a54dfde95da6d80f9d20eac4ba3fa05a2f2a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2601706.jpg"
+ },
+ "sha1_origem": "f970c8f42d7cb9ec53bfdd607147eb6da323ab0c",
+ "bytes_origem": 6995,
+ "capturado_em": "2026-11-08T03:04:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Belo_Jardim.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "f970c8f42d7cb9ec53bfdd607147eb6da323ab0c"
+ }
+}

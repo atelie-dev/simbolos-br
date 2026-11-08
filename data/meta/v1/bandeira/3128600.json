@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3128600",
+ "uf": "MG",
+ "municipio": "Guarda-Mor",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Guarda-Mormgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Guarda-Mor",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c3b42071aef85890a494b90f1328273655358e97e385dc6fd0a305bfa3509e64",
+ "rendicoes": {
+  "png": {
+   "bytes": 6874,
+   "sha256": "2298a93989f16712b649449b6fb721446c846cd2369777dd6bcfd9e9bda367f7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9474,
+   "sha256": "f74618834a4bbc9ab317527555a5af1ea714fddc0d77f64c00b101aa43b4427b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3128600.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3128600.png",
+  "bytes": 5411,
+  "sha256": "c3b42071aef85890a494b90f1328273655358e97e385dc6fd0a305bfa3509e64"
+ },
+ "sha1_origem": "3ad5edd2ded7911b471e442a7aa049be5ffb54e4",
+ "bytes_origem": 5411,
+ "capturado_em": "2026-11-08T06:08:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Guarda-Mormgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "3ad5edd2ded7911b471e442a7aa049be5ffb54e4"
+ }
+}

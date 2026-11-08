@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5103601",
+ "uf": "MT",
+ "municipio": "Dom Aquino",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bras%C3%A3o_Dom_Aquino_MT.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Dom_Aquino_MT",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4d3c46501d78f966e3c21ecc10db985767722ad40283d2e25b280bc0112fc40b",
+ "rendicoes": {
+  "png": {
+   "bytes": 74439,
+   "sha256": "5309f3c8d6e89c01a7d0c394c8aa06585aae5bd2704991b204b514296176da68",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23306,
+   "sha256": "b41673ba0cd534e20860b3adb9380441419ac4b8133a7a2e484ed78c50c45737",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5103601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5103601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5103601.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5103601.png",
+  "bytes": 32297,
+  "sha256": "4d3c46501d78f966e3c21ecc10db985767722ad40283d2e25b280bc0112fc40b"
+ },
+ "sha1_origem": "5aeed7d4e14001dcef5da7fabbfb18f1eb89e767",
+ "bytes_origem": 32297,
+ "capturado_em": "2026-11-08T07:14:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Dom_Aquino_MT.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:48Z",
+  "estado": "igual",
+  "sha1_commons": "5aeed7d4e14001dcef5da7fabbfb18f1eb89e767"
+ }
+}

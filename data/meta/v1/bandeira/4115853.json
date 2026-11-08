@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4115853",
+ "uf": "PR",
+ "municipio": "Mercedes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bandeira_de_Mercedes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "município de Mercedes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5846f01c1b2c98aec6af66260676cbf4705d53d6b9f2c2d59e66e9bf8851a810",
+ "rendicoes": {
+  "png": {
+   "bytes": 34403,
+   "sha256": "54d8c87d31a1927d88269c86fe7ca10723b2510f1bcbed5d52f2d92bdca36bbf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10560,
+   "sha256": "6dc0a117b26286640465e0070d382ff196cd98a00d391192d0f7ee9abfe984be",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115853.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115853.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115853.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4115853.jpg",
+  "bytes": 7756,
+  "sha256": "5846f01c1b2c98aec6af66260676cbf4705d53d6b9f2c2d59e66e9bf8851a810"
+ },
+ "sha1_origem": "bda939ba7d9be00253f1428922726a5c2cba93d1",
+ "bytes_origem": 7756,
+ "capturado_em": "2026-11-08T06:46:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Mercedes.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "bda939ba7d9be00253f1428922726a5c2cba93d1"
+ }
+}

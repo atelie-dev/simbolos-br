@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4216602",
+ "uf": "SC",
+ "municipio": "São José",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bandeira_Municipal_de_S%C3%A3o_Jos%C3%A9.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Sjofrk",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0f458afe3ac112ee79ac100224f931c77e2b2cdf595210fca1b3bd621254c2a0",
+ "rendicoes": {
+  "png": {
+   "bytes": 36371,
+   "sha256": "efba4ce2a44a27629cf5c52e37c437170037e69e8cddd93ecb934e073f33ad40",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18198,
+   "sha256": "15b149af4789e20c1258e2d97d49bc3bdde2f1ae925d278e3304eadc3bf15f30",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4216602.png",
+  "bytes": 1481966,
+  "sha256": "0f458afe3ac112ee79ac100224f931c77e2b2cdf595210fca1b3bd621254c2a0"
+ },
+ "sha1_origem": "26b1317ab14434ee3e98566205f957b0025ea2c6",
+ "bytes_origem": 1481966,
+ "capturado_em": "2026-11-08T06:57:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Municipal_de_São_José.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "26b1317ab14434ee3e98566205f957b0025ea2c6"
+ }
+}

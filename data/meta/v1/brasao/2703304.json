@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2703304",
+ "uf": "AL",
+ "municipio": "Inhapi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Brasaoinhapi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Danilo Villar2",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "41cc2a2ca142b911ee5beb2d663e0978e07b98e1440f6485924e8bdfc6f41e2f",
+ "rendicoes": {
+  "png": {
+   "bytes": 141671,
+   "sha256": "79349174c09fe20920a711989f66823db2a634f7e5088cf7f97ad973702c5945",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26782,
+   "sha256": "5c4c8c58e2e7e696064d25ca3bdb115c130e7c0d121cc625614201a07fbb5062",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2703304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2703304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2703304.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2703304.jpg",
+  "bytes": 21233,
+  "sha256": "41cc2a2ca142b911ee5beb2d663e0978e07b98e1440f6485924e8bdfc6f41e2f"
+ },
+ "sha1_origem": "dd1357ba041137900ecd51b9e828d14bdeac5eb6",
+ "bytes_origem": 21233,
+ "capturado_em": "2026-11-08T05:48:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoinhapi.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "dd1357ba041137900ecd51b9e828d14bdeac5eb6"
+ }
+}

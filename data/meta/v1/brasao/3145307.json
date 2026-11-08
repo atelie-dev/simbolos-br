@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3145307",
+ "uf": "MG",
+ "municipio": "Novo Cruzeiro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bras%C3%A3o_de_Novo_Cruzeiro%2C_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Novo Cruzeiro",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b51d0bb193fae37e2de5df9db53379379c77799d280e0241b7e6d64c0048d318",
+ "rendicoes": {
+  "png": {
+   "bytes": 73879,
+   "sha256": "4db40161b33bcef3ed37d10f3fe9ac37a74078601966a1b3cb655d8ca375b6d8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27706,
+   "sha256": "aef080e2cf1a4714294be99d5e884de3676a0720c303da2f7fbd97477dac6810",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145307.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145307.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3145307.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3145307.png",
+  "bytes": 60306,
+  "sha256": "b51d0bb193fae37e2de5df9db53379379c77799d280e0241b7e6d64c0048d318"
+ },
+ "sha1_origem": "7898b6153443168fefd50727959493efd561995c",
+ "bytes_origem": 60306,
+ "capturado_em": "2026-11-08T06:12:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Novo_Cruzeiro,_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "7898b6153443168fefd50727959493efd561995c"
+ }
+}

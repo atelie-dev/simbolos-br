@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2920106",
+ "uf": "BA",
+ "municipio": "Mairi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Braz_mairi_index.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Mairi",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4b24d3c11dfccff835448e310dda1887485503f30a7db7c8924d6aca5333c689",
+ "rendicoes": {
+  "png": {
+   "bytes": 21894,
+   "sha256": "731692e1e0b4ce34fff6d00236504d7ee71f89350f352c6f2d799c2669857b50",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7142,
+   "sha256": "d5375758fc2c53b44d491cc27d58dc450dae3d4667835b78205c8ee8445513c4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2920106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2920106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2920106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2920106.png",
+  "bytes": 8053,
+  "sha256": "4b24d3c11dfccff835448e310dda1887485503f30a7db7c8924d6aca5333c689"
+ },
+ "sha1_origem": "c38479752464c842cf8109674fe6b9418d3a45cb",
+ "bytes_origem": 8053,
+ "capturado_em": "2026-11-08T05:55:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Braz_mairi_index.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "c38479752464c842cf8109674fe6b9418d3a45cb"
+ }
+}

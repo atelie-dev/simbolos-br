@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2211001",
+ "uf": "PI",
+ "municipio": "Teresina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bandeira_de_Teresina.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "70bef6f426abb1bf9dad2ca15b70854c6131c4709f7352f4ac5357afbd542cff",
+ "rendicoes": {
+  "png": {
+   "bytes": 78426,
+   "sha256": "711734fe1c8f484d1d49f63c5b276eb6c8825864d5199d35af2eda01a4e490c0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27589,
+   "sha256": "a192e31c4db9ab4e56ddb7b8fff41bcd122b8410493aec98d1740d12482d5857",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 365419,
+   "sha256": "70bef6f426abb1bf9dad2ca15b70854c6131c4709f7352f4ac5357afbd542cff"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2211001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2211001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2211001.jpg"
+ },
+ "sha1_origem": "052c775354b24ff335d47a69856d69605d206bcb",
+ "bytes_origem": 365419,
+ "capturado_em": "2026-11-08T02:43:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Teresina.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "052c775354b24ff335d47a69856d69605d206bcb"
+ }
+}

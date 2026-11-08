@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5203939",
+ "uf": "GO",
+ "municipio": "Buriti de Goiás",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bandeira_de_Buriti_de_Goi%C3%A1s.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Buriti de Goiás",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1672c60ae345bf0f53eb0b36e4d8d1880cd3500496733dff03c550ca4e199793",
+ "rendicoes": {
+  "png": {
+   "bytes": 28428,
+   "sha256": "ad87100be698e10a19e105a1bda0336d717de4b524f084d677a222fa761d1146",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12708,
+   "sha256": "7196cd604a4ae90184eb6e1e81316bb96a2a684e7fc788be8eebfdb4214fb650",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5203939.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5203939.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5203939.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5203939.png",
+  "bytes": 25167,
+  "sha256": "1672c60ae345bf0f53eb0b36e4d8d1880cd3500496733dff03c550ca4e199793"
+ },
+ "sha1_origem": "37bb181d2634707ea7c322e7c468e9123f64f0b4",
+ "bytes_origem": 25167,
+ "capturado_em": "2026-11-08T07:17:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Buriti_de_Goiás.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "37bb181d2634707ea7c322e7c468e9123f64f0b4"
+ }
+}

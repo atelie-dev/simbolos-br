@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3527405",
+ "uf": "SP",
+ "municipio": "Lucélia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bandeira_de_Luc%C3%A9lia_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "fb70cb14fc1d9de60546bb27b1ca4195301302cd4c6d83d5cfea937296ae94e1",
+ "rendicoes": {
+  "png": {
+   "bytes": 45149,
+   "sha256": "90af2d993607d9381130925788f6c8a943996bc30fe684d92f3db7ccf621b92e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19907,
+   "sha256": "052604b1364e78124b3094f60ca8eaeac4ce2c0fe3a854b2229a6939a0eb3480",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 366306,
+   "sha256": "fb70cb14fc1d9de60546bb27b1ca4195301302cd4c6d83d5cfea937296ae94e1"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527405.jpg"
+ },
+ "sha1_origem": "a6fc80b87fc286fdd908799d2532ee42d2dde868",
+ "bytes_origem": 366306,
+ "capturado_em": "2026-11-08T04:07:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Lucélia_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "a6fc80b87fc286fdd908799d2532ee42d2dde868"
+ }
+}

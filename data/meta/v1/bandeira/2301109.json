@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2301109",
+ "uf": "CE",
+ "municipio": "Aracati",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bandeira_de_aracati.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PREFEITURA DO ARACATI",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c161d71953c38650d8032413ce94e393b27bc2230b0abad427c59507484afda9",
+ "rendicoes": {
+  "png": {
+   "bytes": 51096,
+   "sha256": "eda6f7420f8247d363adff31cc47dc5cba08e6c230c55ed420fa1e2a27e60e30",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16091,
+   "sha256": "633a3aad59b9d50fb72c893e76c6f36bae90689341bdb5d635e1a3fa65cb8299",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2301109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2301109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2301109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2301109.png",
+  "bytes": 362503,
+  "sha256": "c161d71953c38650d8032413ce94e393b27bc2230b0abad427c59507484afda9"
+ },
+ "sha1_origem": "36312b5a20228109943e653cc6a5d1ea8da6b732",
+ "bytes_origem": 362503,
+ "capturado_em": "2026-11-08T05:31:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_aracati.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "36312b5a20228109943e653cc6a5d1ea8da6b732"
+ }
+}

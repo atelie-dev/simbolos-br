@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3302858",
+ "uf": "RJ",
+ "municipio": "Mesquita",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bandeira_de_Mesquita_%28Rio_de_Janeiro%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Giro720",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "e739f2a2c4c85f9b53fdf4ed4564a3f39cd0097b094584b55743cb7db7512518",
+ "rendicoes": {
+  "png": {
+   "bytes": 102848,
+   "sha256": "fc7bf38c42c09f3e87661533dcaf755f37aca3fe4d6c08a01f258d49492fed51",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33249,
+   "sha256": "4b6751b73b1f081d3171a9961e8d2392ddffa19e8b06d265baaff8c0598b2e61",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 128694,
+   "sha256": "e739f2a2c4c85f9b53fdf4ed4564a3f39cd0097b094584b55743cb7db7512518"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302858.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302858.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3302858.jpg"
+ },
+ "sha1_origem": "924b26271be3ca75cb3459391a9e5d9bd065a2e3",
+ "bytes_origem": 128694,
+ "capturado_em": "2026-11-08T03:54:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Mesquita_(Rio_de_Janeiro).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "924b26271be3ca75cb3459391a9e5d9bd065a2e3"
+ }
+}

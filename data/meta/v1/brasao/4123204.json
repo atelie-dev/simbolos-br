@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4123204",
+ "uf": "PR",
+ "municipio": "Santa Cecília do Pavão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Brasao_SantaCeciliadoPavao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "049cc9c7901b116f018d1dfeef43cf2b993575011e8d8a1ad6954184b65e5d9b",
+ "rendicoes": {
+  "png": {
+   "bytes": 78130,
+   "sha256": "d45144a4f898f236fa4492916c1dcd962b54275b095ae722fd01cf65386a8dfe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20313,
+   "sha256": "f2a59446c7644a969c16cc7d343cdde222162537c98b040b59a3ecd40004074e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4123204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4123204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4123204.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4123204.jpg",
+  "bytes": 60734,
+  "sha256": "049cc9c7901b116f018d1dfeef43cf2b993575011e8d8a1ad6954184b65e5d9b"
+ },
+ "sha1_origem": "e55a341b216ca5d8b02f4d5e3319b5210497d4c9",
+ "bytes_origem": 60734,
+ "capturado_em": "2026-11-08T06:49:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_SantaCeciliadoPavao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "e55a341b216ca5d8b02f4d5e3319b5210497d4c9"
+ }
+}

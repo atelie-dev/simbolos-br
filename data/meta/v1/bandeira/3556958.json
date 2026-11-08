@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3556958",
+ "uf": "SP",
+ "municipio": "Vitória Brasil",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bandeira_Vit%C3%B3ria_Brasil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d5f059b53807341cf784ef046994e0e4f2a65c8b7169cb4a64c4f7624dd62374",
+ "rendicoes": {
+  "png": {
+   "bytes": 23376,
+   "sha256": "2838984dcbfe4b1e23958d3ba6ed719fc76c60d5a1c8d2c300c35fa50decaecc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11376,
+   "sha256": "0c4210e1b4b83d8fdea6eb3d4e48dd1f0e3d438c778d20b088d9c52fd5c46e47",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556958.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556958.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3556958.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3556958.png",
+  "bytes": 19107,
+  "sha256": "d5f059b53807341cf784ef046994e0e4f2a65c8b7169cb4a64c4f7624dd62374"
+ },
+ "sha1_origem": "15b223c9dcef2f20e2148767e7763c33bbc743c5",
+ "bytes_origem": 19107,
+ "capturado_em": "2026-11-08T06:40:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Vitória_Brasil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "15b223c9dcef2f20e2148767e7763c33bbc743c5"
+ }
+}

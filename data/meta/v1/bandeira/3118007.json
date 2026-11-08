@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3118007",
+ "uf": "MG",
+ "municipio": "Congonhas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bandeira-congonhas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Congonhas City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "def8ad4cc375ae5e67ef3e6897fefb55cd756d49d1386944aa4cfd7dcbf7345c",
+ "rendicoes": {
+  "png": {
+   "bytes": 16131,
+   "sha256": "2ee99c1a1ac041faea65838e473fce2c0650c3ed7342ae6af634636daffa11e4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13933,
+   "sha256": "21d519f500a99351640fde5151712468a7c98d301a5b471380b55714c90bdaf8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3118007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3118007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3118007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3118007.png",
+  "bytes": 10207,
+  "sha256": "def8ad4cc375ae5e67ef3e6897fefb55cd756d49d1386944aa4cfd7dcbf7345c"
+ },
+ "sha1_origem": "281cf9d356fae5fe3f975940fc32b4b061921916",
+ "bytes_origem": 10207,
+ "capturado_em": "2026-11-08T06:04:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-congonhas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "281cf9d356fae5fe3f975940fc32b4b061921916"
+ }
+}

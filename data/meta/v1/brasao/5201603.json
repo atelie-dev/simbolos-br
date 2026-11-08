@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5201603",
+ "uf": "GO",
+ "municipio": "Araçu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bras%C3%A3o_de_Ara%C3%A7u.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Araçu",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b3a8366efa7d8d5613d37bfe003eb996a04b6f2152e8d00373b41a2a83a00943",
+ "rendicoes": {
+  "png": {
+   "bytes": 75551,
+   "sha256": "91d971bd53a205f2547a97a8a6d656f6d2e83b8d6dfbd32e60ccfcaff6afd9e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14185,
+   "sha256": "cd4eb60d0598aa428c1ff4000799bfa3ad10c33e72bef60d0c5e2ad36c444881",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5201603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5201603.png",
+  "bytes": 62991,
+  "sha256": "b3a8366efa7d8d5613d37bfe003eb996a04b6f2152e8d00373b41a2a83a00943"
+ },
+ "sha1_origem": "2aa7c6bbe1ea911764f8110316e0095d4b5fc143",
+ "bytes_origem": 62991,
+ "capturado_em": "2026-11-08T07:16:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Araçu.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:57Z",
+  "estado": "igual",
+  "sha1_commons": "2aa7c6bbe1ea911764f8110316e0095d4b5fc143"
+ }
+}

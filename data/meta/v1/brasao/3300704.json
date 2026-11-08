@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3300704",
+ "uf": "RJ",
+ "municipio": "Cabo Frio",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Brasao_cabofrio.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2950744e92f3ddf7ec2b69c1f3117c76baae4673aa005d608b41e011bf58c0bb",
+ "rendicoes": {
+  "png": {
+   "bytes": 268721,
+   "sha256": "00d43e02ca4de6e9cf60dd718ccb09853f81ab6d6d76ac3f2fe8e38f2e970ee0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60390,
+   "sha256": "eca4853b975b2fc4d4a3e5f5cb75a829a8e93948945505e17357b333edfd599f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3300704.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3300704.png",
+  "bytes": 977754,
+  "sha256": "2950744e92f3ddf7ec2b69c1f3117c76baae4673aa005d608b41e011bf58c0bb"
+ },
+ "sha1_origem": "c449654f236624233e3be9fb71d7c7f91b86dc38",
+ "bytes_origem": 977754,
+ "capturado_em": "2026-11-08T06:20:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_cabofrio.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:36Z",
+  "estado": "igual",
+  "sha1_commons": "c449654f236624233e3be9fb71d7c7f91b86dc38"
+ }
+}

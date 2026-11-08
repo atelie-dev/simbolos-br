@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5209903",
+ "uf": "GO",
+ "municipio": "Iaciara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bras%C3%A3o_de_Iaciara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Iaciara",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c9a474948d98002f1f4a9743e7b02e9ca7c474c9e0a704b02d0078b07527a2a8",
+ "rendicoes": {
+  "png": {
+   "bytes": 38326,
+   "sha256": "c22c306aafae9820354cfecd9e1bcb1690b7573e2b3aabf18ebaee3ecd121317",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10715,
+   "sha256": "ab71f019a5fad86ca52330ae608f045c8a4435309c7413978cf20674007918f9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5209903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5209903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5209903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5209903.jpg",
+  "bytes": 32456,
+  "sha256": "c9a474948d98002f1f4a9743e7b02e9ca7c474c9e0a704b02d0078b07527a2a8"
+ },
+ "sha1_origem": "7abaf2b8ebd5562648ef2bb081e731bcd0233a26",
+ "bytes_origem": 32456,
+ "capturado_em": "2026-11-08T07:18:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Iaciara.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:03Z",
+  "estado": "igual",
+  "sha1_commons": "7abaf2b8ebd5562648ef2bb081e731bcd0233a26"
+ }
+}

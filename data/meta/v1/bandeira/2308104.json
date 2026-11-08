@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2308104",
+ "uf": "CE",
+ "municipio": "Mauriti",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bandeira_de_Mauriti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "José Wilton Montenegro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "57b3cbc6fbc6d7c626ca3d944c4d147d201108842e7b5db774cda661cd57db9e",
+ "rendicoes": {
+  "png": {
+   "bytes": 117998,
+   "sha256": "c84790dee18fe2266d3d3dc06279481b881057d120cfcdedc877a65a105f2d77",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24361,
+   "sha256": "fd31b4adf9182781433c25799d047b20bb8f927fc0e797bb11707e5bfe71c0cd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2308104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2308104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2308104.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2308104.jpg",
+  "bytes": 24438,
+  "sha256": "57b3cbc6fbc6d7c626ca3d944c4d147d201108842e7b5db774cda661cd57db9e"
+ },
+ "sha1_origem": "8e1356993e2ccd01ebea40b931d207e381faed90",
+ "bytes_origem": 24438,
+ "capturado_em": "2026-11-08T05:34:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Mauriti.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "8e1356993e2ccd01ebea40b931d207e381faed90"
+ }
+}

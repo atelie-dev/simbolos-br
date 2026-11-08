@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4301909",
+ "uf": "RS",
+ "municipio": "Barra do Ribeiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bandeira_Barra_do_Ribeiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0013413bdf3c4be11db621523c5650d7380d153b6986ea9d43cef5dffe32f38e",
+ "rendicoes": {
+  "png": {
+   "bytes": 100685,
+   "sha256": "6d55af746e46159ea6c770ebcdad6a1132831cd77fb22a4f0d2c942f44c21354",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31231,
+   "sha256": "4682acc3caadf1a0066862fcfe4fde0e8925c49d6bc50f1e09aa1c229d0d5934",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4301909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4301909.jpg",
+  "bytes": 135142,
+  "sha256": "0013413bdf3c4be11db621523c5650d7380d153b6986ea9d43cef5dffe32f38e"
+ },
+ "sha1_origem": "ed544dd8bc4b3ac06b53586beced638e114c94aa",
+ "bytes_origem": 135142,
+ "capturado_em": "2026-11-08T06:59:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Barra_do_Ribeiro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "ed544dd8bc4b3ac06b53586beced638e114c94aa"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5200555",
+ "uf": "GO",
+ "municipio": "Alto Horizonte",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bras%C3%A3o_Alto_Horizonte_GO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Alto Horizonte_GO",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "db05b6aa2efd2b1ca9324afb093ffa19f38d34807bb202b7edfb1ec34fbb4eac",
+ "rendicoes": {
+  "png": {
+   "bytes": 80367,
+   "sha256": "a5635ca42c3d4bbbfe0b18f0a6cf02537d48b94e9c4f2ec7d29ff0a61f5ea459",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18424,
+   "sha256": "944e034d760532b867fc667df3acb9eb9ff0e51d420af7d92994d248ba36df22",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5200555.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5200555.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5200555.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5200555.png",
+  "bytes": 37123,
+  "sha256": "db05b6aa2efd2b1ca9324afb093ffa19f38d34807bb202b7edfb1ec34fbb4eac"
+ },
+ "sha1_origem": "c5fdc3df2634ad1dc71d7cc82c78738aa4c788da",
+ "bytes_origem": 37123,
+ "capturado_em": "2026-11-08T07:16:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Alto_Horizonte_GO.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "c5fdc3df2634ad1dc71d7cc82c78738aa4c788da"
+ }
+}

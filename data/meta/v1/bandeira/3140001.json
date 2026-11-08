@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3140001",
+ "uf": "MG",
+ "municipio": "Mariana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Mariana_%28Bandeira%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Wikiveti",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b2a3f3ed1e847fffbe98926fcf8e06e208a9f3cbb8003ae4fa184bce3239a4e8",
+ "rendicoes": {
+  "png": {
+   "bytes": 59301,
+   "sha256": "5d14698a1137a6d6869bcd803b962b7571bd3741adbf28f9079f549775a83535",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12009,
+   "sha256": "7fccaca3b4a3bfd6f304ed273703965842c9f20115ca9cfc1974f1db6c0e39b4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3140001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3140001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3140001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3140001.jpg",
+  "bytes": 28813,
+  "sha256": "b2a3f3ed1e847fffbe98926fcf8e06e208a9f3cbb8003ae4fa184bce3239a4e8"
+ },
+ "sha1_origem": "c597d5d97b491d966a4e4806cd9bf18522ce4fa0",
+ "bytes_origem": 28813,
+ "capturado_em": "2026-11-08T06:11:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Mariana_(Bandeira).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "c597d5d97b491d966a4e4806cd9bf18522ce4fa0"
+ }
+}

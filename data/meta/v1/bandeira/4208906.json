@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4208906",
+ "uf": "SC",
+ "municipio": "Jaraguá do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bandeira_JaraguadoSul_SantaCatarina_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal prefecture of jaraguá do Sul",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "145127fbd0f7841fe41037c3876d482607ad0a5f7650ee423b60412ca2f87365",
+ "rendicoes": {
+  "png": {
+   "bytes": 35036,
+   "sha256": "9a30f49092be48dd85dd446226d542544623052ca4ec6f8d53f1d6fe0825f817",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17185,
+   "sha256": "452173e318124dc7cfe24a4e42fd964cbe7a9175ad84200e323e0a03405a5909",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 515430,
+   "sha256": "145127fbd0f7841fe41037c3876d482607ad0a5f7650ee423b60412ca2f87365"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208906.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208906.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4208906.jpg"
+ },
+ "sha1_origem": "3892b18c569bb5d235ec7dc6ee49ec3ea605a981",
+ "bytes_origem": 515430,
+ "capturado_em": "2026-11-08T04:40:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_JaraguadoSul_SantaCatarina_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "3892b18c569bb5d235ec7dc6ee49ec3ea605a981"
+ }
+}

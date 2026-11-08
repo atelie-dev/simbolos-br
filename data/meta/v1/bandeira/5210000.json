@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5210000",
+ "uf": "GO",
+ "municipio": "Inhumas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bandeira_de_Inhumas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Inhumas Brazil",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7a50967277b0c29be0bc6589e5397bae77ef7b742136ced883a5c1365ced6677",
+ "rendicoes": {
+  "png": {
+   "bytes": 42135,
+   "sha256": "a80ff3a0eb4cdadf4170c116d081818d5fec3bea84a6892e43352ebee5c3f73b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17492,
+   "sha256": "f73ff050202da643127bb73eb32e5ac4439e7fd10a833aacee2d00f3f23e9266",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5210000.jpg",
+  "bytes": 17098,
+  "sha256": "7a50967277b0c29be0bc6589e5397bae77ef7b742136ced883a5c1365ced6677"
+ },
+ "sha1_origem": "b325a9d4b836fcd1168b86c4827050fb164e3d87",
+ "bytes_origem": 17098,
+ "capturado_em": "2026-11-08T07:18:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Inhumas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "b325a9d4b836fcd1168b86c4827050fb164e3d87"
+ }
+}

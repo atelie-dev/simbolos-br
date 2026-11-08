@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2500775",
+ "uf": "PB",
+ "municipio": "Aparecida",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bandeira_de_Aparecida-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a01197ecc297e4711b92c6a6be0d9d1ad9c2d55a33038a05bd62476c979c3d55",
+ "rendicoes": {
+  "png": {
+   "bytes": 19906,
+   "sha256": "f7d913d44b35f3bbc930a5ee615d232577db8fea2f81f2707e0584756f35c645",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15661,
+   "sha256": "9f56c9ac802158c6518e55b3ef2571b1e69809763d0345c981314ad1671cae2d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2035,
+   "sha256": "a01197ecc297e4711b92c6a6be0d9d1ad9c2d55a33038a05bd62476c979c3d55"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500775.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500775.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2500775.jpg"
+ },
+ "sha1_origem": "bf0503f304e062e698116961027a46c54b5435cc",
+ "bytes_origem": 2035,
+ "capturado_em": "2026-11-08T02:55:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Aparecida-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "bf0503f304e062e698116961027a46c54b5435cc"
+ }
+}

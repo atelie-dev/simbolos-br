@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3302908",
+ "uf": "RJ",
+ "municipio": "Miguel Pereira",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Brasao-miguelpereira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e36b788fe9913d3c3e9c4ef59e23ec924740d22448ad5ddf02b83d29bee5252d",
+ "rendicoes": {
+  "png": {
+   "bytes": 54055,
+   "sha256": "3bb3f90af82447d0f4e6c71c19f434704f12bd71318b9f095b4f5333bdc8eca9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12699,
+   "sha256": "18794f7dc3cee0f9db37c10c0dd3dac8fbda26fd55de1e46f1573310523b50f1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3302908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3302908.jpg",
+  "bytes": 9026,
+  "sha256": "e36b788fe9913d3c3e9c4ef59e23ec924740d22448ad5ddf02b83d29bee5252d"
+ },
+ "sha1_origem": "b529629404b736c6c5100c82eedf4004860ebe14",
+ "bytes_origem": 9026,
+ "capturado_em": "2026-11-08T06:21:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao-miguelpereira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:28Z",
+  "estado": "igual",
+  "sha1_commons": "b529629404b736c6c5100c82eedf4004860ebe14"
+ }
+}

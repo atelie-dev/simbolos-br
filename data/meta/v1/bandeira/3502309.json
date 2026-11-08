@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3502309",
+ "uf": "SP",
+ "municipio": "Anhembi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Anhembi_bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Anhembi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c7ddcbada9af7b3a47c2884fd49103f2193f979c0402e7f73f10ddb9c006f8a4",
+ "rendicoes": {
+  "png": {
+   "bytes": 81231,
+   "sha256": "62f306dde1524ec18e48fcaea94116fd37477a7e41b6ef7464da8333ab074c6b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20686,
+   "sha256": "5bfd451017d1358382aeb3b3abbf16eb2fbfb04d62255f8dafe9cc5ac6749d27",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3502309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3502309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3502309.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3502309.jpg",
+  "bytes": 49963,
+  "sha256": "c7ddcbada9af7b3a47c2884fd49103f2193f979c0402e7f73f10ddb9c006f8a4"
+ },
+ "sha1_origem": "5b23b5fa9463a3a33d424612772bb3e9e42a4b0e",
+ "bytes_origem": 49963,
+ "capturado_em": "2026-11-08T06:23:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Anhembi_bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "5b23b5fa9463a3a33d424612772bb3e9e42a4b0e"
+ }
+}

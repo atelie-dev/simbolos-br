@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2924207",
+ "uf": "BA",
+ "municipio": "Pedro Alexandre",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bras%C3%A3o_Pedro_Alexandre_Bahia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pedro Alexandre",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "23b01c8ff5fce60d59d3d60d7b217d31c4b4570e862af56711b80f1ad2c262ed",
+ "rendicoes": {
+  "png": {
+   "bytes": 185345,
+   "sha256": "ec40c04254b22e7d0de262f02d77b0b325696d75d9c01ef706c6cb08728dbf39",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36703,
+   "sha256": "9bae7a5a79078d1dceba429085861442dee804c85f6ad0753d72f80a77d043cf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2924207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2924207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2924207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2924207.jpg",
+  "bytes": 75494,
+  "sha256": "23b01c8ff5fce60d59d3d60d7b217d31c4b4570e862af56711b80f1ad2c262ed"
+ },
+ "sha1_origem": "615aef8c086810a1de0dd168903eb24495837759",
+ "bytes_origem": 75494,
+ "capturado_em": "2026-11-08T05:56:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Pedro_Alexandre_Bahia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "615aef8c086810a1de0dd168903eb24495837759"
+ }
+}

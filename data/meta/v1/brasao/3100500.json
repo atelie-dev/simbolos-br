@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3100500",
+ "uf": "MG",
+ "municipio": "Açucena",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bras%C3%A3o_de_A%C3%A7ucena_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "78ecb8c43547d658bd856d6827b59ed0c3b3dacf6699cff1622657620fe36bd4",
+ "rendicoes": {
+  "png": {
+   "bytes": 30277,
+   "sha256": "fe1dfb4a9874161ba8d3cb1dd36027f061db2a2326f1f6f4e3a4095bb9031bf8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14900,
+   "sha256": "4c05b58d213ce37490a46e6fb360f9695bd89852364f6cd04ff866f6d4153be0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3100500.png",
+  "bytes": 25330,
+  "sha256": "78ecb8c43547d658bd856d6827b59ed0c3b3dacf6699cff1622657620fe36bd4"
+ },
+ "sha1_origem": "fa398054d71e4d300240200362209bc36be199a4",
+ "bytes_origem": 25330,
+ "capturado_em": "2026-11-08T05:58:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Açucena_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "fa398054d71e4d300240200362209bc36be199a4"
+ }
+}

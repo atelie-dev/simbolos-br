@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3158904",
+ "uf": "MG",
+ "municipio": "Santana do Manhuaçu",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bras%C3%A3o_Santanadomcu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": "Prefeitura Municipal de Santana do Manhuaçu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4e1e1aaf04a9257fcae1aa46ba0f483f3c68d69a2a456e7b6376ba09ea6c700c",
+ "rendicoes": {
+  "png": {
+   "bytes": 383277,
+   "sha256": "8e962ac611e3471ce571216f73c49980cf7934d6365290f76dcfe0baf8fcbd90",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 70198,
+   "sha256": "31eafce45ca9c37fdc0b86752942db5c29749911a9bc8f09fcd657988e55e698",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3158904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3158904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3158904.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3158904.jpg",
+  "bytes": 107920,
+  "sha256": "4e1e1aaf04a9257fcae1aa46ba0f483f3c68d69a2a456e7b6376ba09ea6c700c"
+ },
+ "sha1_origem": "b61a3166f94ff0c0002ea573ec76563328806899",
+ "bytes_origem": 107920,
+ "capturado_em": "2026-11-08T06:15:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Santanadomcu.jpg",
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "licenca_pendente"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "b61a3166f94ff0c0002ea573ec76563328806899"
+ }
+}

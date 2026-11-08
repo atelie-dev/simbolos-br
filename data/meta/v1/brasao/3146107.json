@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3146107",
+ "uf": "MG",
+ "municipio": "Ouro Preto",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Brasao_ouro_preto.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "D. João V",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "71c5e959eedf60ff341403ccb76e13d0fb8ecd04d5d54b5c63d594188ac0db69",
+ "rendicoes": {
+  "png": {
+   "bytes": 93110,
+   "sha256": "55f398d7682c0e2d84f12b4788a404ad7314a919ea148483ad8b18a37426bb7e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31420,
+   "sha256": "f8fadacf2c2367541e7ef3880c5fdc9c6c3030f7d959a987e9bdea88cc848419",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3146107.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3146107.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3146107.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3146107.png",
+  "bytes": 41814,
+  "sha256": "71c5e959eedf60ff341403ccb76e13d0fb8ecd04d5d54b5c63d594188ac0db69"
+ },
+ "sha1_origem": "cff4867096eb1c9502f8044d22fa1280b4a676ae",
+ "bytes_origem": 41814,
+ "capturado_em": "2026-11-08T06:12:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_ouro_preto.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "cff4867096eb1c9502f8044d22fa1280b4a676ae"
+ }
+}

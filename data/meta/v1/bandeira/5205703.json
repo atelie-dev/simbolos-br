@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5205703",
+ "uf": "GO",
+ "municipio": "Córrego do Ouro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bandeira_de_C%C3%B3rrego_do_Ouro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Córrego do Ouro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "372fca2746ea1b542795aff177b6f093c27befca993330be7ee6eccaabb38705",
+ "rendicoes": {
+  "png": {
+   "bytes": 20679,
+   "sha256": "244b10c402f0ddef01eda4ad1d3860211d85c6699abb27e3061b6c44994c1463",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8500,
+   "sha256": "d04cb1146ec5d83674a2b0308d2c63cd60a8853d74b5e6f0fc829ef4a5e435b5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5205703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5205703.jpg",
+  "bytes": 9650,
+  "sha256": "372fca2746ea1b542795aff177b6f093c27befca993330be7ee6eccaabb38705"
+ },
+ "sha1_origem": "ea71bdf04c97fbaf2c35306c267e33a44cc225c9",
+ "bytes_origem": 9650,
+ "capturado_em": "2026-11-08T07:17:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Córrego_do_Ouro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "ea71bdf04c97fbaf2c35306c267e33a44cc225c9"
+ }
+}

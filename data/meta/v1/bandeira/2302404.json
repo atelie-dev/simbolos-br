@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2302404",
+ "uf": "CE",
+ "municipio": "Boa Viagem",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bandeira_de_Boa_Viagem.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Willamys Carvalho",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6f221b200d33c01a9322c4e2bc103204b79091ddcab22436bf540f782af76dd8",
+ "rendicoes": {
+  "png": {
+   "bytes": 124370,
+   "sha256": "e79f1e6fb245460eca5c4bb2488127a26b87f8d0d8bebe980e599409c7632de2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29043,
+   "sha256": "2c1fbe3f25f3742f67309afb84059938dd30ab7030616765f0ae62d18ac479e4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2302404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2302404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2302404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2302404.jpg",
+  "bytes": 98749,
+  "sha256": "6f221b200d33c01a9322c4e2bc103204b79091ddcab22436bf540f782af76dd8"
+ },
+ "sha1_origem": "714be766f7dfccd60bec9c68e0ffb1712a997311",
+ "bytes_origem": 98749,
+ "capturado_em": "2026-11-08T05:32:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Boa_Viagem.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "714be766f7dfccd60bec9c68e0ffb1712a997311"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2208106",
+ "uf": "PI",
+ "municipio": "Pimenteiras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bandeira_de_Pimenteiras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pimenteiras PI",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "919f23eadd02ad11de23b1977ea697862da21efc9689c56e53406beef16cbbbd",
+ "rendicoes": {
+  "png": {
+   "bytes": 37654,
+   "sha256": "af677eb87bd7a49dcf973af4cc9f08fc975732b7970f46dbcb149daa0ac7f626",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17096,
+   "sha256": "783fe7f66c22bafe193bc91e5e260fb5be7f9985b9cf269fda554043cdde2806",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2208106.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2208106.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2208106.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2208106.png",
+  "bytes": 270834,
+  "sha256": "919f23eadd02ad11de23b1977ea697862da21efc9689c56e53406beef16cbbbd"
+ },
+ "sha1_origem": "7aa571b090a666ca4934512267ea94aabe07207c",
+ "bytes_origem": 270834,
+ "capturado_em": "2026-11-08T05:31:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pimenteiras.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "7aa571b090a666ca4934512267ea94aabe07207c"
+ }
+}

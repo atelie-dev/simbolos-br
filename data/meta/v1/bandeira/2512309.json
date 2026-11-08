@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2512309",
+ "uf": "PB",
+ "municipio": "Princesa Isabel",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bandeira_de_Princesa_Isabel-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "8d580a25c691bd97d359eb5455c50ae6643f08935f3b1b54a140e84d5e368719",
+ "rendicoes": {
+  "png": {
+   "bytes": 65451,
+   "sha256": "b1fec0d040748a0c714e139fafb7dbb9a6bab3539c82fd8536f0b115a77941e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28362,
+   "sha256": "23c0e3d7c83e2f7f942eb995bff5656b446d5f07511ae5fb3f16cf10ccdbb37d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 37153,
+   "sha256": "8d580a25c691bd97d359eb5455c50ae6643f08935f3b1b54a140e84d5e368719"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512309.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512309.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2512309.jpg"
+ },
+ "sha1_origem": "6544f72ca095188cad1363fab75ad3a315907b85",
+ "bytes_origem": 37153,
+ "capturado_em": "2026-11-08T03:00:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Princesa_Isabel-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "6544f72ca095188cad1363fab75ad3a315907b85"
+ }
+}

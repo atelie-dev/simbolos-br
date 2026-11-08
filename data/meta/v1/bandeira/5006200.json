@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5006200",
+ "uf": "MS",
+ "municipio": "Nova Andradina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Band._Nova_Andradina%2C_Brasil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Nova Andradina",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "985ee850b9be50466b1e95e80a708a799cc1ef596b5dc60db0adea580e4f9f02",
+ "rendicoes": {
+  "png": {
+   "bytes": 8873,
+   "sha256": "3c659421ea19900b50ad6b216f9001cf200f25c9ebd40e68f1a1de64bbdabee6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10443,
+   "sha256": "f6ee891773fb1840b38427ce19b50bbf255f6437b9a2cbb1b4f207e0f1b371e3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5006200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5006200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5006200.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5006200.png",
+  "bytes": 3601,
+  "sha256": "985ee850b9be50466b1e95e80a708a799cc1ef596b5dc60db0adea580e4f9f02"
+ },
+ "sha1_origem": "6c3219a8048bd94b72aa6a66ec2d003ecd7ad4b8",
+ "bytes_origem": 3601,
+ "capturado_em": "2026-11-08T07:13:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band._Nova_Andradina,_Brasil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "6c3219a8048bd94b72aa6a66ec2d003ecd7ad4b8"
+ }
+}

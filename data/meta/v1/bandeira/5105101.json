@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5105101",
+ "uf": "MT",
+ "municipio": "Juara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bandeira_de_Juara_%28Mato_Grosso%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Juara",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a700f369ebd771bd663779c0a076407f44364c3f83f4db06629c07a2a7308bed",
+ "rendicoes": {
+  "png": {
+   "bytes": 30304,
+   "sha256": "742413542dbf4ec534a55cb5b1666dccfec20af4234e4b3a4011c231154a8058",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14257,
+   "sha256": "8d4bf40e96f35c1a609b82d6c8220d94c252339182ebadb1d0fa3be8a28d395f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5105101.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5105101.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5105101.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5105101.png",
+  "bytes": 11015,
+  "sha256": "a700f369ebd771bd663779c0a076407f44364c3f83f4db06629c07a2a7308bed"
+ },
+ "sha1_origem": "31b4c1015d6abf16d1c663475742251cbefa76f1",
+ "bytes_origem": 11015,
+ "capturado_em": "2026-11-08T07:14:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Juara_(Mato_Grosso).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "31b4c1015d6abf16d1c663475742251cbefa76f1"
+ }
+}

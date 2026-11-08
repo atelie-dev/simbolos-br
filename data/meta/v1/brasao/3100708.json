@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3100708",
+ "uf": "MG",
+ "municipio": "Água Comprida",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Agua_Comprida_Bras%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f8e7fb6926985bb33b8ad1475e8506d450d02b66b8b1e0f9f0c3ae46df6468ec",
+ "rendicoes": {
+  "png": {
+   "bytes": 23627,
+   "sha256": "63b397044987cfd919b37c27236423c4733b7cb55a236949f3f2c74deebb9c41",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6284,
+   "sha256": "8782bd551a92b15583f2118f08df13a94da29decfd3c896610e8d3242ce0c6d0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3100708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3100708.jpg",
+  "bytes": 19020,
+  "sha256": "f8e7fb6926985bb33b8ad1475e8506d450d02b66b8b1e0f9f0c3ae46df6468ec"
+ },
+ "sha1_origem": "9fba1421c3ffff43128d2cc480d9bf039db32309",
+ "bytes_origem": 19020,
+ "capturado_em": "2026-11-08T05:58:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Agua_Comprida_Brasão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "9fba1421c3ffff43128d2cc480d9bf039db32309"
+ }
+}

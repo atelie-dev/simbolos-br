@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4300505",
+ "uf": "RS",
+ "municipio": "Alpestre",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Banderia_Alpestre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Alpestre.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "df797c1a5a4fbd6c9a9876f65d027f26befe5599dfe8fa6e6df1385f3994f63e",
+ "rendicoes": {
+  "png": {
+   "bytes": 11524,
+   "sha256": "02461b186034b66971291c843c2e026d077f842de03816dd511224f2d7745dd6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5661,
+   "sha256": "1a92a82a37d0076690b912e0f11e2eecc376978deb578054e91b349a54c2c710",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300505.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4300505.jpg",
+  "bytes": 28674,
+  "sha256": "df797c1a5a4fbd6c9a9876f65d027f26befe5599dfe8fa6e6df1385f3994f63e"
+ },
+ "sha1_origem": "b4bdb3d706dca99785b507eec1803506cb76ac5b",
+ "bytes_origem": 28674,
+ "capturado_em": "2026-11-08T06:58:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Banderia_Alpestre.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "b4bdb3d706dca99785b507eec1803506cb76ac5b"
+ }
+}

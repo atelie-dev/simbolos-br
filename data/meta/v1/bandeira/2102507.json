@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2102507",
+ "uf": "MA",
+ "municipio": "Cajari",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/BANDEIRADECAJARI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Wenderson Cutrim",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8d5a4a4b2dbf527c93167de0589c6783c2d082495a4dfdfbfd2becf072a08f10",
+ "rendicoes": {
+  "png": {
+   "bytes": 99468,
+   "sha256": "214bae1addc7beb064aa688049eab19a43c2c76e52512b5c0452429fa2d2031a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36123,
+   "sha256": "ac83ac8dd2fbc74eb6bd7dd7e358de2fc8b8fa47660d0edeb8dec97035182099",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2102507.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2102507.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2102507.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2102507.jpg",
+  "bytes": 524161,
+  "sha256": "8d5a4a4b2dbf527c93167de0589c6783c2d082495a4dfdfbfd2becf072a08f10"
+ },
+ "sha1_origem": "e3853a8ce94089e648ff79ffe70e6cea996bb216",
+ "bytes_origem": 524161,
+ "capturado_em": "2026-11-08T05:27:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BANDEIRADECAJARI.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "e3853a8ce94089e648ff79ffe70e6cea996bb216"
+ }
+}

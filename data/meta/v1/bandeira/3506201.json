@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3506201",
+ "uf": "SP",
+ "municipio": "Bento de Abreu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bandeira_Bento_de_Abreu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7671978fd7bc33543e97832e1d98c00d9adb1d85f3ced5b77698efa8fed81309",
+ "rendicoes": {
+  "png": {
+   "bytes": 32235,
+   "sha256": "c92ef72ed39076734716535465152ed8dc6dca147fd628d11e2dc4cf55faec86",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25796,
+   "sha256": "4ea9c0a7e3a335fc983bfa3282a8a0986aa50e3d0514607d715bde189ec750cc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3506201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3506201.png",
+  "bytes": 29861,
+  "sha256": "7671978fd7bc33543e97832e1d98c00d9adb1d85f3ced5b77698efa8fed81309"
+ },
+ "sha1_origem": "830af7b63a6a62e05506c311bd7e2b7f76739dc9",
+ "bytes_origem": 29861,
+ "capturado_em": "2026-11-08T06:24:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Bento_de_Abreu.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "830af7b63a6a62e05506c311bd7e2b7f76739dc9"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4106308",
+ "uf": "PR",
+ "municipio": "Corbélia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bandeiracorbelia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Batistussi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9af1b9586727988f9054a704aa4786df2bd3202893a1bc4b329254b83ea1e441",
+ "rendicoes": {
+  "png": {
+   "bytes": 104593,
+   "sha256": "15182e469ca861653336892b5d9daec3623784e1d6142c4040ad89b34c78c492",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25916,
+   "sha256": "ac9fec4646ec3faaea7665102a7037f9937f66386fd19f0b8a6aa564bc585acd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4106308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4106308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4106308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4106308.jpg",
+  "bytes": 48222,
+  "sha256": "9af1b9586727988f9054a704aa4786df2bd3202893a1bc4b329254b83ea1e441"
+ },
+ "sha1_origem": "3a729440b2f9be60385dfe6480c1afb971514624",
+ "bytes_origem": 48222,
+ "capturado_em": "2026-11-08T06:43:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiracorbelia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "3a729440b2f9be60385dfe6480c1afb971514624"
+ }
+}

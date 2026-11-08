@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1600204",
+ "uf": "AP",
+ "municipio": "Calçoene",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bandeira_de_Cal%C3%A7oene_AP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Camervan",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5a70df24b23732fec34afa390dfdd3e47e48663716376975e73184ed30b76f5c",
+ "rendicoes": {
+  "png": {
+   "bytes": 25339,
+   "sha256": "d5821cf8851b79b160305b43769113d01b8090b004ab0cdf44600fe68b40e355",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17087,
+   "sha256": "f0318f215ec73229f72ca8e9535dc44f54a1c538f4f056046fd7568e6ed06cea",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 6579,
+   "sha256": "5a70df24b23732fec34afa390dfdd3e47e48663716376975e73184ed30b76f5c"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1600204.jpg"
+ },
+ "sha1_origem": "bf850d9e7d33575c354db630c508bb810a52cecf",
+ "bytes_origem": 6579,
+ "capturado_em": "2026-11-08T02:35:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Calçoene_AP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "bf850d9e7d33575c354db630c508bb810a52cecf"
+ }
+}

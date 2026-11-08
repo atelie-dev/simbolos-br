@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3134004",
+ "uf": "MG",
+ "municipio": "Itinga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bras%C3%A3o_Itinga_MG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Itinga",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ddcc6c3929367da505014d9d4a73766eebdf0e2f25d0380203e7a33c40d75428",
+ "rendicoes": {
+  "png": {
+   "bytes": 156062,
+   "sha256": "a1b43cbf18159e33d054c8145d6c50151c78f66efd0c17fa001f3c1b47c418ce",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56957,
+   "sha256": "68dce97b1061ecac1144f974e47304c865ac24355afe177cbff352bc974b9525",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3134004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3134004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3134004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3134004.png",
+  "bytes": 675869,
+  "sha256": "ddcc6c3929367da505014d9d4a73766eebdf0e2f25d0380203e7a33c40d75428"
+ },
+ "sha1_origem": "b8f01325bffc91e8a6e2c7178a9cb3ba0dcda091",
+ "bytes_origem": 675869,
+ "capturado_em": "2026-11-08T06:09:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Itinga_MG.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "b8f01325bffc91e8a6e2c7178a9cb3ba0dcda091"
+ }
+}

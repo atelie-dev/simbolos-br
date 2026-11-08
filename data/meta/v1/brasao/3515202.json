@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3515202",
+ "uf": "SP",
+ "municipio": "Estrela d'Oeste",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Estrela_d%C2%B4Oeste.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f08d1185297cf36a9fe9b13f58ea2e05c3a39bc482d49f673c53a07b3a1fe7dc",
+ "rendicoes": {
+  "png": {
+   "bytes": 359865,
+   "sha256": "d637cf595e0e99625c166a2ff2d3a3229dd420933b9147d7867fa5889a882db7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60316,
+   "sha256": "8d08e292214972e879d2c3384aecb9a80321a1c1ba91056507eaeb323e4a93cc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3515202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3515202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3515202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3515202.png",
+  "bytes": 354416,
+  "sha256": "f08d1185297cf36a9fe9b13f58ea2e05c3a39bc482d49f673c53a07b3a1fe7dc"
+ },
+ "sha1_origem": "44197e0017f282f2edb44e8daffa5eab66278098",
+ "bytes_origem": 354416,
+ "capturado_em": "2026-11-08T06:27:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Estrela_d´Oeste.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "44197e0017f282f2edb44e8daffa5eab66278098"
+ }
+}

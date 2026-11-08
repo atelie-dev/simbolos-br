@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2602704",
+ "uf": "PE",
+ "municipio": "Buenos Aires",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bras%C3%A3o_de_Buenos_Aires%2C_PE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5f42d7ee700417a195c72890c8401e5e2e232cb6f9812a1f7fcfea6d98c36f01",
+ "rendicoes": {
+  "png": {
+   "bytes": 123605,
+   "sha256": "b4908bdb9d8a6393fa16b3e5da50bf2a415a2a7bbb1fffabd8fc60c2465583b3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55122,
+   "sha256": "71097f5b555aa1d8d253ccd561275a01705fcd4aa30276162cb9f250f09baa98",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 61142,
+   "sha256": "5f42d7ee700417a195c72890c8401e5e2e232cb6f9812a1f7fcfea6d98c36f01"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2602704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2602704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2602704.jpg"
+ },
+ "sha1_origem": "89e1ab79120e834483a8b1b2b9f962e0979ccc04",
+ "bytes_origem": 61142,
+ "capturado_em": "2026-11-08T03:04:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Buenos_Aires,_PE.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "89e1ab79120e834483a8b1b2b9f962e0979ccc04"
+ }
+}

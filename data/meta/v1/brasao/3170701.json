@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3170701",
+ "uf": "MG",
+ "municipio": "Varginha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bras%C3%A3o_de_Varginha.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6777d917c2ba491d403f7e867ae38962899509347edd6361060c10c6af91c5fd",
+ "rendicoes": {
+  "png": {
+   "bytes": 145731,
+   "sha256": "3ee5a15596455584fcf5d580410e2f1d751cd5797935ed33ac4a674307fb4a66",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39560,
+   "sha256": "fed9f360ee0d280b3b6f986718f158691fc36ba156d9b3cf97fda83b416494fc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3170701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3170701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3170701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3170701.png",
+  "bytes": 219276,
+  "sha256": "6777d917c2ba491d403f7e867ae38962899509347edd6361060c10c6af91c5fd"
+ },
+ "sha1_origem": "480734128e8461f4315ae3396f14a5f657a424b1",
+ "bytes_origem": 219276,
+ "capturado_em": "2026-11-08T06:18:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Varginha.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "480734128e8461f4315ae3396f14a5f657a424b1"
+ }
+}

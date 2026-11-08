@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2917805",
+ "uf": "BA",
+ "municipio": "Jaguaripe",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Brasao_Jaguaripe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "400ab60fed4970debc4fe043d470a80c1423a0892496aad5bf28669f48ecfb87",
+ "rendicoes": {
+  "png": {
+   "bytes": 39205,
+   "sha256": "3c9dd9fddee531f31ed5844df92c726952f22ad417509df3701094f6f6ec2b4c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9011,
+   "sha256": "0660e8f3c7fefd7198bb1f9edd667c84a7477c2d6fa8ee92f6c20b5c3a425919",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2917805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2917805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2917805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2917805.jpg",
+  "bytes": 8342,
+  "sha256": "400ab60fed4970debc4fe043d470a80c1423a0892496aad5bf28669f48ecfb87"
+ },
+ "sha1_origem": "ed5fb012e74e5b581d68c4223da0da157fa8f753",
+ "bytes_origem": 8342,
+ "capturado_em": "2026-11-08T05:54:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Jaguaripe.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:33Z",
+  "estado": "igual",
+  "sha1_commons": "ed5fb012e74e5b581d68c4223da0da157fa8f753"
+ }
+}

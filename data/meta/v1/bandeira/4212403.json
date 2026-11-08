@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4212403",
+ "uf": "SC",
+ "municipio": "Pedras Grandes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Band_pedrasg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Confederação Nacional de Municípios",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4a2238f14d98a1b23d7edd8502213142e8fb91be7f97a9912e070a496a3fd072",
+ "rendicoes": {
+  "png": {
+   "bytes": 6334,
+   "sha256": "9e2ff70fffe94e142e129b104464ff833f8619d1782b7dc128a17f59469d56f6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4489,
+   "sha256": "4dc0b9224cf59269efb3e0d18d46219d1ad21b31e85730816ffe86468af49347",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4212403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4212403.png",
+  "bytes": 2639,
+  "sha256": "4a2238f14d98a1b23d7edd8502213142e8fb91be7f97a9912e070a496a3fd072"
+ },
+ "sha1_origem": "d1768bc43a4599fcc6c8acf8d49535a27d02ec30",
+ "bytes_origem": 2639,
+ "capturado_em": "2026-11-08T06:55:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_pedrasg.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "d1768bc43a4599fcc6c8acf8d49535a27d02ec30"
+ }
+}

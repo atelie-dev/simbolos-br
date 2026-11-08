@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5203807",
+ "uf": "GO",
+ "municipio": "Britânia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bras%C3%A3o_de_Brit%C3%A2nia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Britânia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "91fdb4af4a9e4ff85a98b228f5c2ad13b2ba90bb413dadc127348c04f28f1b3a",
+ "rendicoes": {
+  "png": {
+   "bytes": 142226,
+   "sha256": "f7f746d39e43295efc9d89d5acade2f88c02223243f2637a0dd621065cadffb6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31935,
+   "sha256": "53eb8f7910c9cab098b386baecdde9af255225fd5243917c1f5185ccaffd9b92",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5203807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5203807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5203807.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5203807.jpg",
+  "bytes": 27909,
+  "sha256": "91fdb4af4a9e4ff85a98b228f5c2ad13b2ba90bb413dadc127348c04f28f1b3a"
+ },
+ "sha1_origem": "0bdd2ee46f7d3dd0bf9947111707f5211419bc89",
+ "bytes_origem": 27909,
+ "capturado_em": "2026-11-08T07:17:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Britânia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "0bdd2ee46f7d3dd0bf9947111707f5211419bc89"
+ }
+}

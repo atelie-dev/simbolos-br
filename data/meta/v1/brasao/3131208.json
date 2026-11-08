@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3131208",
+ "uf": "MG",
+ "municipio": "Ipanema",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Brasaoipanema.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municiapl de Ipanema",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "41677a586d46b645d00f4ce5ed7305153402199722d7bc80b05c4400a9dfdf9a",
+ "rendicoes": {
+  "png": {
+   "bytes": 30100,
+   "sha256": "cd6d7754f365168051e5bbab1b66a9f59e64080454422d267e520e376179f918",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11125,
+   "sha256": "95b0b800844978caada72dd296f3d2016ca1db7cb765ea0236388a9bb648733c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3131208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3131208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3131208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3131208.png",
+  "bytes": 9702,
+  "sha256": "41677a586d46b645d00f4ce5ed7305153402199722d7bc80b05c4400a9dfdf9a"
+ },
+ "sha1_origem": "40dc5cfd94e7965c7edb10037bdf27ce44cfa460",
+ "bytes_origem": 9702,
+ "capturado_em": "2026-11-08T06:09:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaoipanema.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:43Z",
+  "estado": "igual",
+  "sha1_commons": "40dc5cfd94e7965c7edb10037bdf27ce44cfa460"
+ }
+}

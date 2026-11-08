@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3300902",
+ "uf": "RJ",
+ "municipio": "Cambuci",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bandeira_de_Cambuci.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cambuci",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "80a1ec890f250d2a695bda30494fd6e0cf12b457ff68f73df8f00974ad1968bf",
+ "rendicoes": {
+  "png": {
+   "bytes": 64302,
+   "sha256": "648f130a518cc100330749d60c2edc3d5436ee032b001a979c2ccf0d45ebd5c1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20221,
+   "sha256": "57f92890b45da8b116db2415c44eac3fd3e8b3a30929a3871f7b6b0458f2d23d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3300902.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3300902.png",
+  "bytes": 26087,
+  "sha256": "80a1ec890f250d2a695bda30494fd6e0cf12b457ff68f73df8f00974ad1968bf"
+ },
+ "sha1_origem": "19dcea06178c2243fab6bea6e19de374a6ed2529",
+ "bytes_origem": 26087,
+ "capturado_em": "2026-11-08T06:20:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cambuci.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "19dcea06178c2243fab6bea6e19de374a6ed2529"
+ }
+}

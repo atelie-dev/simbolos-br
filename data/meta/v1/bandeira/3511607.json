@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3511607",
+ "uf": "SP",
+ "municipio": "Cesário Lange",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bandeira_de_Ces%C3%A1rio_Lange.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cesário Lange - SP",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8464b1cadc691a03088cad972ea68b670314f7dd4837d3322e7cfcda06145f67",
+ "rendicoes": {
+  "png": {
+   "bytes": 8457,
+   "sha256": "052441a0ba3c7701c91b3ec46638f1db3586db5de2c1635b13f37b26f08979da",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6734,
+   "sha256": "d2bab4da7969bd4e80ed32e2cb29d138936fdab85f14458c0b489906e7e06619",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3511607.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3511607.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3511607.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3511607.png",
+  "bytes": 3416,
+  "sha256": "8464b1cadc691a03088cad972ea68b670314f7dd4837d3322e7cfcda06145f67"
+ },
+ "sha1_origem": "635de3a2c45d245c157ada6015c7fbd666eb21b2",
+ "bytes_origem": 3416,
+ "capturado_em": "2026-11-08T06:26:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cesário_Lange.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "635de3a2c45d245c157ada6015c7fbd666eb21b2"
+ }
+}

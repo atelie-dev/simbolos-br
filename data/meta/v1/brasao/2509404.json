@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2509404",
+ "uf": "PB",
+ "municipio": "Mogeiro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bras%C3%A3o_de_mogeiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Mogeiro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "10463a27c33b36f29681472a53fb7284c5c77bc4939a4fe0e82cc5d41079cdbb",
+ "rendicoes": {
+  "png": {
+   "bytes": 115750,
+   "sha256": "7212b2adb17303c0490446be508c327e989bcd63a658880e34594368b787be6b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23666,
+   "sha256": "12da7d5ab2dbab32383553b8a00757c15c7d958c971137b91a7cd5dc73a5bd83",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2509404.jpg",
+  "bytes": 18695,
+  "sha256": "10463a27c33b36f29681472a53fb7284c5c77bc4939a4fe0e82cc5d41079cdbb"
+ },
+ "sha1_origem": "879514ae2564b206c9dbcae061141dae6a6dfa37",
+ "bytes_origem": 18695,
+ "capturado_em": "2026-11-08T05:42:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_mogeiro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:15Z",
+  "estado": "igual",
+  "sha1_commons": "879514ae2564b206c9dbcae061141dae6a6dfa37"
+ }
+}

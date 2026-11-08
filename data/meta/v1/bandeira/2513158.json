@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2513158",
+ "uf": "PB",
+ "municipio": "Santa Cecília",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bandeira_santa_cecilia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "João Oliveira da Silva Sales",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "375b1784f0fe7aba1d6a9622c6630bf3f9ff0915bd2205695522a09db3c373ca",
+ "rendicoes": {
+  "png": {
+   "bytes": 93690,
+   "sha256": "2211d1f47b242b4106771a6bd78c29b0eb6ee89c22601bdea12396050f52968f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32804,
+   "sha256": "c8ff2dcf7a3fc2fa4c6e5421c8643f79aa4eaeb5b803febd27dcd6ee1fe807d5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513158.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513158.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513158.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2513158.png",
+  "bytes": 106578,
+  "sha256": "375b1784f0fe7aba1d6a9622c6630bf3f9ff0915bd2205695522a09db3c373ca"
+ },
+ "sha1_origem": "565ad032a661568fe230af442b6a6687b4b7bb23",
+ "bytes_origem": 106578,
+ "capturado_em": "2026-11-08T05:43:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_santa_cecilia.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "565ad032a661568fe230af442b6a6687b4b7bb23"
+ }
+}

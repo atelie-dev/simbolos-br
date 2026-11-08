@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4313086",
+ "uf": "RS",
+ "municipio": "Nova Pádua",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Bandeiranp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Nova Pádua.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c9fc6725178336d8a11546dd72dc43b063941c21a2623340961cb426fb62d77d",
+ "rendicoes": {
+  "png": {
+   "bytes": 27250,
+   "sha256": "55576b1e727e79cd1f652000629a39c50c5cd845921890f53d3e0752c0a80ef5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8413,
+   "sha256": "045215489a1be6b1e01e029415bdced6d96ef4d1c1ca9174a06ae76060ec11a4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313086.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313086.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313086.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4313086.jpg",
+  "bytes": 5839,
+  "sha256": "c9fc6725178336d8a11546dd72dc43b063941c21a2623340961cb426fb62d77d"
+ },
+ "sha1_origem": "0cafcd6b2e3a15121d1016437e89defecc524d0d",
+ "bytes_origem": 5839,
+ "capturado_em": "2026-11-08T07:06:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiranp.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "0cafcd6b2e3a15121d1016437e89defecc524d0d"
+ }
+}

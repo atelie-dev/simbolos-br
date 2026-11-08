@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3112901",
+ "uf": "MG",
+ "municipio": "Caputira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Caputiramgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Caputira",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "35be667927262a3c8b3fc0c05e2eef5a4dc14fcf5111adc95f13c01d0d24d018",
+ "rendicoes": {
+  "png": {
+   "bytes": 10063,
+   "sha256": "fff00222541e87c702b3cf4803e8f99bdfc07b223bc026044f874e434f93f865",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8398,
+   "sha256": "437b0f26e196051984f5ca74ad45f710c94837193e491d0e3432c664ebcaa480",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3112901.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3112901.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3112901.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3112901.png",
+  "bytes": 8008,
+  "sha256": "35be667927262a3c8b3fc0c05e2eef5a4dc14fcf5111adc95f13c01d0d24d018"
+ },
+ "sha1_origem": "0ece44520be70574af42b41748029205d12df2c6",
+ "bytes_origem": 8008,
+ "capturado_em": "2026-11-08T06:02:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Caputiramgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:21Z",
+  "estado": "igual",
+  "sha1_commons": "0ece44520be70574af42b41748029205d12df2c6"
+ }
+}

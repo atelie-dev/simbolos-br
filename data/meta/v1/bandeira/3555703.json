@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3555703",
+ "uf": "SP",
+ "municipio": "União Paulista",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Flag_of_Uni%C3%A3o_Paulista_-_SP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "39fe92607b5de406bb96a80bfb3e5cf7bb6e99032984033287ee43be400df43e",
+ "rendicoes": {
+  "png": {
+   "bytes": 126351,
+   "sha256": "de3e1a8bca768276cabfb66e8cce68d2926f78cb662489e8e84ea918b004a9d2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28349,
+   "sha256": "f3eb265a44636606db0b98f652fee8bc0772577a7864d505c5988eeb3781b168",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3555703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3555703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3555703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3555703.png",
+  "bytes": 220160,
+  "sha256": "39fe92607b5de406bb96a80bfb3e5cf7bb6e99032984033287ee43be400df43e"
+ },
+ "sha1_origem": "310f227b914a8696ea87978ccb5c86d957525db4",
+ "bytes_origem": 220160,
+ "capturado_em": "2026-11-08T06:40:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_União_Paulista_-_SP.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "310f227b914a8696ea87978ccb5c86d957525db4"
+ }
+}

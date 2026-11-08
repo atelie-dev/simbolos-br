@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3304607",
+ "uf": "RJ",
+ "municipio": "Santa Maria Madalena",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Bandeira_de_Santa_Maria_Madalena_%28Rio_de_Janeiro%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Raul Breno Marquardt",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0a674c26a49354cfe5672040124aed25f728ae79411b95731ef9fea218e7e5d8",
+ "rendicoes": {
+  "png": {
+   "bytes": 105259,
+   "sha256": "4d746666702aa93cca3b9374b1ae4647897d94839f49adef047b16ade76fb324",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29509,
+   "sha256": "e8a352d5278739cb9d196f0e58b5ce5a7ee3bde6d430d686829a6311973708fb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304607.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304607.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304607.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3304607.jpg",
+  "bytes": 89226,
+  "sha256": "0a674c26a49354cfe5672040124aed25f728ae79411b95731ef9fea218e7e5d8"
+ },
+ "sha1_origem": "84f4a8fa5a5fd1d16509959614476e64ed0f72bc",
+ "bytes_origem": 89226,
+ "capturado_em": "2026-11-08T06:22:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santa_Maria_Madalena_(Rio_de_Janeiro).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "84f4a8fa5a5fd1d16509959614476e64ed0f72bc"
+ }
+}

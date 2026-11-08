@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4216305",
+ "uf": "SC",
+ "municipio": "São João Batista",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bras%C3%A3o_S%C3%A3o_Jo%C3%A3o_Batista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "96875a30d6ff5fa2d79c1fb74feefeee7e195b67bb83b5a7ff146ca883cdbbb2",
+ "rendicoes": {
+  "png": {
+   "bytes": 18627,
+   "sha256": "6438d7b6af8b28f351e3d3401292c379bc1fe5e64e2b3579ffad74edc45191aa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5664,
+   "sha256": "7fa8d697cf52f64598ccdd5ea1b2d212c3e834a0ee5d05152a9980386dd33a0d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4216305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4216305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4216305.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4216305.jpg",
+  "bytes": 4849,
+  "sha256": "96875a30d6ff5fa2d79c1fb74feefeee7e195b67bb83b5a7ff146ca883cdbbb2"
+ },
+ "sha1_origem": "5e3ac705393d3a51ca784dde9f66874ac419d659",
+ "bytes_origem": 4849,
+ "capturado_em": "2026-11-08T06:57:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_São_João_Batista.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "5e3ac705393d3a51ca784dde9f66874ac419d659"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3153004",
+ "uf": "MG",
+ "municipio": "Pratinha",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Brasao_pratinha.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pratinha",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bb65c20bc8a7b8ab85ba586205f1dd98f6981e017f95b7d0a10ededf9d43684a",
+ "rendicoes": {
+  "png": {
+   "bytes": 9704,
+   "sha256": "4a60232b5635c3139303a87648554bf31fc2ff19d45aa14756468650c90c974f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5305,
+   "sha256": "364d0a19d5d5b8296eeeef822cc81ed7063e14e873ba25a3aabf5c2377d025bd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3153004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3153004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3153004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3153004.png",
+  "bytes": 3499,
+  "sha256": "bb65c20bc8a7b8ab85ba586205f1dd98f6981e017f95b7d0a10ededf9d43684a"
+ },
+ "sha1_origem": "0f16d75d3590c790a26348756a0f0d0cb601faa7",
+ "bytes_origem": 3499,
+ "capturado_em": "2026-11-08T06:14:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_pratinha.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "0f16d75d3590c790a26348756a0f0d0cb601faa7"
+ }
+}

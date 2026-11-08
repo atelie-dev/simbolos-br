@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2400703",
+ "uf": "RN",
+ "municipio": "Alto do Rodrigues",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Bras%C3%A3o_de_Alto_do_Rodrigues%2C_RN.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "O desembargador",
+ "estado": "publicado",
+ "formato_origem": "image/webp",
+ "sha256_origem": "519126b75ef476092f9bf71a6f34189f3d4135935ff847d97d0a6f37b097bfc5",
+ "rendicoes": {
+  "png": {
+   "bytes": 157895,
+   "sha256": "02cc6337f38cc90959ea3f68b4b3adb22d16258f2b28b38da759021d930c3ed7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32930,
+   "sha256": "c8246614aec75ae373584c930ac2b39bda77b31547fc2752eb893fd4eb5c2dde",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2400703.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2400703.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2400703.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2400703.webp",
+  "bytes": 17972,
+  "sha256": "519126b75ef476092f9bf71a6f34189f3d4135935ff847d97d0a6f37b097bfc5"
+ },
+ "sha1_origem": "448a7027b6cc596799553de58352ad0a990319ec",
+ "bytes_origem": 17972,
+ "capturado_em": "2026-11-08T05:35:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Alto_do_Rodrigues,_RN.webp",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:56Z",
+  "estado": "igual",
+  "sha1_commons": "448a7027b6cc596799553de58352ad0a990319ec"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3530102",
+ "uf": "SP",
+ "municipio": "Mirandópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bandeira_Mirand%C3%B3polis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4a1ddc45221007e144a5b7a22455122f78c04f73790eaf1284813047333b33a1",
+ "rendicoes": {
+  "png": {
+   "bytes": 21254,
+   "sha256": "c4baac1fc3ed43deffa492139959b0cb8c0a4d4a9cd2520c12f83ecf956591b9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10373,
+   "sha256": "3ae4568d9caf9ec669b7d06d64bb876cc71393e76f1166c7a90e9f33a8a4f758",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3530102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3530102.png",
+  "bytes": 20788,
+  "sha256": "4a1ddc45221007e144a5b7a22455122f78c04f73790eaf1284813047333b33a1"
+ },
+ "sha1_origem": "aff327bd43a594283e48c1e7979fb65fb86a16bd",
+ "bytes_origem": 20788,
+ "capturado_em": "2026-11-08T06:32:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Mirandópolis.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "aff327bd43a594283e48c1e7979fb65fb86a16bd"
+ }
+}

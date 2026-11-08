@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2928109",
+ "uf": "BA",
+ "municipio": "Santa Maria da Vitória",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bandeira_de_Sta._Maria_da_Vit%C3%B3ria_BA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camervan",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "2e8809c8dc6d47a67e344acaf41fc96d9cff744ed582444e1c72367639bc1c69",
+ "rendicoes": {
+  "png": {
+   "bytes": 16310,
+   "sha256": "63f9299cebebb2ad715d561b12500239ae95ad364530a0f84a4f6aeba97ab5de",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12895,
+   "sha256": "23a54835afac4be86b609ca97368c0ad0b743dd8901b71e091844ce372d75715",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2637,
+   "sha256": "2e8809c8dc6d47a67e344acaf41fc96d9cff744ed582444e1c72367639bc1c69"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2928109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2928109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2928109.jpg"
+ },
+ "sha1_origem": "c2b6eb15c8369739d5ab2bbee7bb8a5153fd77fd",
+ "bytes_origem": 2637,
+ "capturado_em": "2026-11-08T03:23:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Sta._Maria_da_Vitória_BA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "c2b6eb15c8369739d5ab2bbee7bb8a5153fd77fd"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2513851",
+ "uf": "PB",
+ "municipio": "Santo André",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bandeira_Santo_Andr%C3%A9_%28PB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santo André",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f67b5954d74c279a3f7586fdeaaf83540955cb1c56c8200fb95dd33676f7aec1",
+ "rendicoes": {
+  "png": {
+   "bytes": 135989,
+   "sha256": "823de6734d548652fdabc2f8e85d1424d78763014072d56498cdd1d29e448200",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30647,
+   "sha256": "3d830d6e97ceb6f1bfc38a7fd9d11f15257e626cde954f360446b8cf15034401",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513851.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513851.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513851.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2513851.jpg",
+  "bytes": 86792,
+  "sha256": "f67b5954d74c279a3f7586fdeaaf83540955cb1c56c8200fb95dd33676f7aec1"
+ },
+ "sha1_origem": "fe5ddb74026e1f328732143dbc292afbad243098",
+ "bytes_origem": 86792,
+ "capturado_em": "2026-11-08T05:43:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Santo_André_(PB).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "fe5ddb74026e1f328732143dbc292afbad243098"
+ }
+}

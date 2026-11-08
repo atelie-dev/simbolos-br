@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4202206",
+ "uf": "SC",
+ "municipio": "Benedito Novo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/A001.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Benedito Novo",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "30f3d6623a69b176618d5b1ae1651d7cc97c9add190c1c285162634aed91ebd0",
+ "rendicoes": {
+  "png": {
+   "bytes": 8969,
+   "sha256": "4a181cd8e742bdde9a742d50f2f1c5b1e0154dbc4095d94d254c60042ce3da50",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10853,
+   "sha256": "2923aa200b19b8846689aee214a823c21cc6c9a9bf6b7e2011b4f9916b96335b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202206.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4202206.png",
+  "bytes": 6279,
+  "sha256": "30f3d6623a69b176618d5b1ae1651d7cc97c9add190c1c285162634aed91ebd0"
+ },
+ "sha1_origem": "6ec647bbdb873a6075b5508a68adb055ca33b21b",
+ "bytes_origem": 6279,
+ "capturado_em": "2026-11-08T06:52:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:A001.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "6ec647bbdb873a6075b5508a68adb055ca33b21b"
+ }
+}

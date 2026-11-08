@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4214151",
+ "uf": "SC",
+ "municipio": "Princesa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bras%C3%A3o_do_munic%C3%ADpio_de_Princesa_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Princesa (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "160d7bc4f289f67fbfd55c3d41147b6e527d9bed44b21d08cf769fb43fe44404",
+ "rendicoes": {
+  "png": {
+   "bytes": 278052,
+   "sha256": "bfd133ccc92c1596623a65ffad7c1aee7279f222c80c7021941bfe6f119e9dc9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 72582,
+   "sha256": "ad0bd7f827a19f9c829abe6f7ef2565eb471565356079a3790e4fe3054bff4b9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4214151.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4214151.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4214151.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4214151.png",
+  "bytes": 274722,
+  "sha256": "160d7bc4f289f67fbfd55c3d41147b6e527d9bed44b21d08cf769fb43fe44404"
+ },
+ "sha1_origem": "804a7564817e0bf20666733317dd98015c63dc87",
+ "bytes_origem": 274722,
+ "capturado_em": "2026-11-08T06:56:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Princesa_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "804a7564817e0bf20666733317dd98015c63dc87"
+ }
+}

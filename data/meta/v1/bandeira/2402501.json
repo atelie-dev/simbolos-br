@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2402501",
+ "uf": "RN",
+ "municipio": "Carnaubais",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bandeira_de_Carnaubais-RN%2C_Brasil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Magno Marques",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0a0760237ef4aa43ca3df5336f2e680df6ada94cd5cedad37541dfd0057f7b5e",
+ "rendicoes": {
+  "png": {
+   "bytes": 71808,
+   "sha256": "c9a5d973394062d2387d27ee6d280aebcdb0b13bdaec4cc3f51b1d9df79cdf70",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19545,
+   "sha256": "5688bdca8fa33870664a2eb442c1a8f482f80560f904a812c6b20b0a62a5fd7d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2402501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2402501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2402501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2402501.png",
+  "bytes": 87082,
+  "sha256": "0a0760237ef4aa43ca3df5336f2e680df6ada94cd5cedad37541dfd0057f7b5e"
+ },
+ "sha1_origem": "390dd12447f22285d5052ae6fd47ac32f33ba8fa",
+ "bytes_origem": 87082,
+ "capturado_em": "2026-11-08T05:36:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Carnaubais-RN,_Brasil.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "390dd12447f22285d5052ae6fd47ac32f33ba8fa"
+ }
+}

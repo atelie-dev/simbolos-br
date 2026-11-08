@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5212055",
+ "uf": "GO",
+ "municipio": "Jesúpolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bandeira_de_Jes%C3%BApolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Jesúpolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7a9f43dfec5d59c484ad53987ebfcca806ff0443520f4cb6c563fbcb23f4c230",
+ "rendicoes": {
+  "png": {
+   "bytes": 44658,
+   "sha256": "455f426371da3240d6885033cdd95da1f82dfab91dcf3b6312e10bd517330211",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14540,
+   "sha256": "72f6f0482eac35a405d29f4f1dc5e2f440b0d0392f58ffa2571667f51216c4dc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5212055.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5212055.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5212055.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5212055.jpg",
+  "bytes": 12309,
+  "sha256": "7a9f43dfec5d59c484ad53987ebfcca806ff0443520f4cb6c563fbcb23f4c230"
+ },
+ "sha1_origem": "8c7d1f632ce33aefd4864750a2f31ba498529d39",
+ "bytes_origem": 12309,
+ "capturado_em": "2026-11-08T07:18:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Jesúpolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "8c7d1f632ce33aefd4864750a2f31ba498529d39"
+ }
+}

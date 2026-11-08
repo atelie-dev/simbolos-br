@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2909109",
+ "uf": "BA",
+ "municipio": "Coribe",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bras%C3%A3o_de_Coribe_BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Coribe BA",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3ef45872bd93b002b27deeaadf3cc4435fc92b6e8799e1a81b0ba2b0738db614",
+ "rendicoes": {
+  "png": {
+   "bytes": 48823,
+   "sha256": "9c89f48f6bc662b18a3c597c1f5febeb9a8b32af1544869b1c5305c1e91a5696",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10425,
+   "sha256": "5fe0faeb8fe64bc7fadfef8d9e0f122925f1d875a1f656490c994d5c1550d1e3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2909109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2909109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2909109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2909109.jpg",
+  "bytes": 6240,
+  "sha256": "3ef45872bd93b002b27deeaadf3cc4435fc92b6e8799e1a81b0ba2b0738db614"
+ },
+ "sha1_origem": "b63027a0d07b958c95f838fb35a01cfe041838d7",
+ "bytes_origem": 6240,
+ "capturado_em": "2026-11-08T05:52:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Coribe_BA.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "b63027a0d07b958c95f838fb35a01cfe041838d7"
+ }
+}

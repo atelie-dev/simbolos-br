@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5205109",
+ "uf": "GO",
+ "municipio": "Catalão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bras%C3%A3o_de_Catal%C3%A3o.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "ownself",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "76aefdf7ac4fcf0950fb29c13ecb367a9c0f8fe1d39d25d643e79464ba487a94",
+ "rendicoes": {
+  "png": {
+   "bytes": 122430,
+   "sha256": "b313ab86c45e9adccd2ebb3792911893d46fd121c2f7ea6fa84d9fd9448c8123",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27256,
+   "sha256": "78f8f61402b7f3ce9b3a2af784e85a7dafcc31de2ffd03651f4b0502bc2cb9a7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5205109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5205109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5205109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5205109.jpg",
+  "bytes": 36025,
+  "sha256": "76aefdf7ac4fcf0950fb29c13ecb367a9c0f8fe1d39d25d643e79464ba487a94"
+ },
+ "sha1_origem": "ac1c3257dbe17076d36d1705147a85cc6715e0e7",
+ "bytes_origem": 36025,
+ "capturado_em": "2026-11-08T07:17:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Catalão.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "ac1c3257dbe17076d36d1705147a85cc6715e0e7"
+ }
+}

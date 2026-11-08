@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3515301",
+ "uf": "SP",
+ "municipio": "Estrela do Norte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bandeira_Estrela_do_Norte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "df277315470cd3c163e63de8404c2a55e9e70318b34a6c5db2fc59d16d263359",
+ "rendicoes": {
+  "png": {
+   "bytes": 27355,
+   "sha256": "958f9acebb73dc01520351a4e372e6a26400e769d472f9b1b756a84936ac6be5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11899,
+   "sha256": "8f6718ba2958f3d6517aa42d1494247e54be8105d3cd37d1c52a9d88a8545abb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3515301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3515301.jpg",
+  "bytes": 5403,
+  "sha256": "df277315470cd3c163e63de8404c2a55e9e70318b34a6c5db2fc59d16d263359"
+ },
+ "sha1_origem": "a5d4cbf85195333021dbc92367e82ad9b43345da",
+ "bytes_origem": 5403,
+ "capturado_em": "2026-11-08T06:27:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Estrela_do_Norte.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "a5d4cbf85195333021dbc92367e82ad9b43345da"
+ }
+}

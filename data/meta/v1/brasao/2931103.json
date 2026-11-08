@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2931103",
+ "uf": "BA",
+ "municipio": "Tanquinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bras%C3%A3o_de_Tanquinho.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Tanquinho",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b0e675e89ade72e3d94839687b1c14e1874425eef9ee1a147d5d903767510675",
+ "rendicoes": {
+  "png": {
+   "bytes": 140153,
+   "sha256": "5e0d27e9dc35a78815cb2baab7ef1f459cf73391497d8ac0999cec97e8e4f503",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22887,
+   "sha256": "de407777c1269b360b486118d1cd01da93690d991f1aa15bae7340fc202adb14",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2931103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2931103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2931103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2931103.png",
+  "bytes": 141631,
+  "sha256": "b0e675e89ade72e3d94839687b1c14e1874425eef9ee1a147d5d903767510675"
+ },
+ "sha1_origem": "c33d54a062c737e949a5c3162628d8907c03df07",
+ "bytes_origem": 141631,
+ "capturado_em": "2026-11-08T05:57:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Tanquinho.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:13Z",
+  "estado": "igual",
+  "sha1_commons": "c33d54a062c737e949a5c3162628d8907c03df07"
+ }
+}

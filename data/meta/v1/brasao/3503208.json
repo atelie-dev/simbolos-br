@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3503208",
+ "uf": "SP",
+ "municipio": "Araraquara",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/BrasaoAraraquara.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "f0a30796a9ea6d7f49e81b81d852a09f14f7f82fea1af5fdd399c5eb2a5a5114",
+ "rendicoes": {
+  "png": {
+   "bytes": 235608,
+   "sha256": "c58e48e6cea60f7e83a9c6796a2a18377a70e196229627cf22cde345c49cf23e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 78367,
+   "sha256": "7961390a32341cec19bef465e0c0b59ad6f5c6d7e2d6862b5903c3c359c854a9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 126219,
+   "sha256": "f0a30796a9ea6d7f49e81b81d852a09f14f7f82fea1af5fdd399c5eb2a5a5114"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503208.jpg"
+ },
+ "sha1_origem": "17f14e7f50b15c85723c8789832f6d2933a2c4f2",
+ "bytes_origem": 126219,
+ "capturado_em": "2026-11-08T03:57:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoAraraquara.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:30Z",
+  "estado": "igual",
+  "sha1_commons": "17f14e7f50b15c85723c8789832f6d2933a2c4f2"
+ }
+}

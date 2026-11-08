@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3304300",
+ "uf": "RJ",
+ "municipio": "Rio Bonito",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bandeira_de_Rio_Bonito_%28Rio_de_Janeiro%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Francisco Seixas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c91bd276822bf96685ff421f0f27925c3b6a667f980c1c269aed12d833c49af3",
+ "rendicoes": {
+  "png": {
+   "bytes": 8527,
+   "sha256": "1f163b3bc3c435aa3458489b62aebcd69448b43b5de2b29a0a22baa96363670f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5294,
+   "sha256": "f8d783739a59d776a1fd458abf6e0cd8aee16185f73bb41ba7ea6e858515e085",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3304300.png",
+  "bytes": 3309,
+  "sha256": "c91bd276822bf96685ff421f0f27925c3b6a667f980c1c269aed12d833c49af3"
+ },
+ "sha1_origem": "93ee1b29b6ce119a8a76e578f44ae82006d5e95c",
+ "bytes_origem": 3309,
+ "capturado_em": "2026-11-08T06:21:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Rio_Bonito_(Rio_de_Janeiro).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "93ee1b29b6ce119a8a76e578f44ae82006d5e95c"
+ }
+}

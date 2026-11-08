@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4106902",
+ "uf": "PR",
+ "municipio": "Curitiba",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bras%C3%A3o_de_Curitiba.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "2658f645243f9ec5fe87158c3333eeca051899212579510c19a33203186ccc1e",
+ "rendicoes": {
+  "png": {
+   "bytes": 273370,
+   "sha256": "bc4ec535eabc701871cf935d41cb9290efa1485237cb47fb600ef864b456cf04",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 74394,
+   "sha256": "a4d28de2352a7da639caa72ae4c25d2692a77e682a23c28efe59d631cd990908",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 827010,
+   "sha256": "2658f645243f9ec5fe87158c3333eeca051899212579510c19a33203186ccc1e"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4106902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4106902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4106902.jpg"
+ },
+ "sha1_origem": "2c8a7c60a06677a00947918b245d9ba18b02947e",
+ "bytes_origem": 827010,
+ "capturado_em": "2026-11-08T04:23:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Curitiba.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "2c8a7c60a06677a00947918b245d9ba18b02947e"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314803",
+ "uf": "RS",
+ "municipio": "Portão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bras%C3%A3o_de_Port%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Portão",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "637dddd81d5bfc376712acfd661748b250bdf48b67bf7ffda7f05bac2c95a669",
+ "rendicoes": {
+  "png": {
+   "bytes": 184403,
+   "sha256": "eb13bb86f4715eb64fe41e747bf1601695756226bca68515bbadbda636f1c7ed",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49001,
+   "sha256": "ccbc0605187a323ba001fb7497c7e306280da4da5a59623d733f43088d34e00f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4314803.jpg",
+  "bytes": 96168,
+  "sha256": "637dddd81d5bfc376712acfd661748b250bdf48b67bf7ffda7f05bac2c95a669"
+ },
+ "sha1_origem": "9f8a871f67c7ed73998d094ec4f1d7aa37b6f9cf",
+ "bytes_origem": 96168,
+ "capturado_em": "2026-11-08T07:07:28Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Portão.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:09Z",
+  "estado": "igual",
+  "sha1_commons": "9f8a871f67c7ed73998d094ec4f1d7aa37b6f9cf"
+ }
+}

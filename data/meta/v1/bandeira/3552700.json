@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3552700",
+ "uf": "SP",
+ "municipio": "Tabatinga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bandeira_Tabatinga.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "08307b6070a735db43c0d5b65d2c7d689b188687fad34a0ef3e63b08b2da6503",
+ "rendicoes": {
+  "png": {
+   "bytes": 19543,
+   "sha256": "42b8f79a6fcf3bf53307fe95748e384f76c560ac493e4c629efab35dda6d474d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10175,
+   "sha256": "f5b774e5a3bfbb716c8fc4730325008c2e95c549736fb5014b7a8ce9f3f6ca53",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552700.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552700.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3552700.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3552700.png",
+  "bytes": 18191,
+  "sha256": "08307b6070a735db43c0d5b65d2c7d689b188687fad34a0ef3e63b08b2da6503"
+ },
+ "sha1_origem": "2f150467db54551b1fd619a80256414964bd2015",
+ "bytes_origem": 18191,
+ "capturado_em": "2026-11-08T06:39:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Tabatinga.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "2f150467db54551b1fd619a80256414964bd2015"
+ }
+}

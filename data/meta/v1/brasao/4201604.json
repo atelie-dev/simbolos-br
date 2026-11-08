@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4201604",
+ "uf": "SC",
+ "municipio": "Arroio Trinta",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Brasao_arroiotrinta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b34689b0a923fc7511fb3b16107e5859f2671e6e45342982d69b4e4bb1719d60",
+ "rendicoes": {
+  "png": {
+   "bytes": 151257,
+   "sha256": "20f0f245935e31b5e59a99504d41bc7c8dcb91ea3e9b1b75053b29dac71053ea",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35001,
+   "sha256": "5fedc68cf86aa08be51e9793704729b61a0b70334300206da8de08f9ee09b306",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4201604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4201604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4201604.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4201604.jpg",
+  "bytes": 26571,
+  "sha256": "b34689b0a923fc7511fb3b16107e5859f2671e6e45342982d69b4e4bb1719d60"
+ },
+ "sha1_origem": "d0c11d4f21497472cae6e5619b97379fb6cbfd52",
+ "bytes_origem": 26571,
+ "capturado_em": "2026-11-08T06:51:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_arroiotrinta.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:36Z",
+  "estado": "igual",
+  "sha1_commons": "d0c11d4f21497472cae6e5619b97379fb6cbfd52"
+ }
+}

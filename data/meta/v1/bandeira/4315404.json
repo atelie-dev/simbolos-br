@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4315404",
+ "uf": "RS",
+ "municipio": "Redentora",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Bandeira_de_Redentora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Redentora",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d7fdb94bc5f092fb2372eaa57ac05ae4793c22ec5cd12b74cc3538018728249d",
+ "rendicoes": {
+  "png": {
+   "bytes": 52814,
+   "sha256": "0b70f76ee4bf6929bf8dbba944bc7640e3bcf4e6ff41fc399066fd332734b313",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14000,
+   "sha256": "d9a07e0e4e60fc04ba707c368327507877bdff13e06a8f498a32fab5c9197b3b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4315404.jpg",
+  "bytes": 177973,
+  "sha256": "d7fdb94bc5f092fb2372eaa57ac05ae4793c22ec5cd12b74cc3538018728249d"
+ },
+ "sha1_origem": "41d3d838075234730edc209853dc03e64c863fe3",
+ "bytes_origem": 177973,
+ "capturado_em": "2026-11-08T07:07:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Redentora.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "41d3d838075234730edc209853dc03e64c863fe3"
+ }
+}

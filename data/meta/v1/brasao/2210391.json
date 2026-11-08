@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2210391",
+ "uf": "PI",
+ "municipio": "São Miguel do Fidalgo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6b/SMFPI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Caio Carvalho Moura Fé",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a6c4c42b0a367a7feec2d425a0893f5e608570e732185d0a4a7f56e44c9425fc",
+ "rendicoes": {
+  "png": {
+   "bytes": 261052,
+   "sha256": "e96fb3b9b031050ce0eae91d83fdb6a21ca8b394a17e95c790d068bca23d6716",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61054,
+   "sha256": "5b871c092a08b35d81097041567129bcc4c01d34443588b11ef35d995a03e2c4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2210391.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2210391.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2210391.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2210391.jpg",
+  "bytes": 110105,
+  "sha256": "a6c4c42b0a367a7feec2d425a0893f5e608570e732185d0a4a7f56e44c9425fc"
+ },
+ "sha1_origem": "1dc1ca812d62b1178a01451d50268a5221376d3c",
+ "bytes_origem": 110105,
+ "capturado_em": "2026-11-08T05:31:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:SMFPI.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:36Z",
+  "estado": "igual",
+  "sha1_commons": "1dc1ca812d62b1178a01451d50268a5221376d3c"
+ }
+}

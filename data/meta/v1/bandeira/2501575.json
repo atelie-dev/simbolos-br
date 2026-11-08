@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2501575",
+ "uf": "PB",
+ "municipio": "Barra de Santana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Bandeira_Barra_de_Santana-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Barra de Santana",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7ab0656c20e8b55cf0fa26eebc4219236b5ac801993a544e91743c067c60d65f",
+ "rendicoes": {
+  "png": {
+   "bytes": 31245,
+   "sha256": "efa678072feafe506c3eb6ed238f7930f8a41dfe9f8b6db9dd8738775adea392",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13859,
+   "sha256": "fff36c59a91e62b8dc4bd0dbe639d5befcfc738f22230b5f5883e7df8358bcc8",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501575.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501575.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2501575.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2501575.jpg",
+  "bytes": 34041,
+  "sha256": "7ab0656c20e8b55cf0fa26eebc4219236b5ac801993a544e91743c067c60d65f"
+ },
+ "sha1_origem": "baf325e074052273c1cb0aecfd8586701bda43b4",
+ "bytes_origem": 34041,
+ "capturado_em": "2026-11-08T05:39:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Barra_de_Santana-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "baf325e074052273c1cb0aecfd8586701bda43b4"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4100103",
+ "uf": "PR",
+ "municipio": "Abatiá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bras%C3%A3o_de_Armas_do_Munic%C3%ADpio_de_Abati%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Abatiá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2afc099ac458dda0e78c8976da8bd531bedf749bb6ceec97d7909ab6f7ed1c45",
+ "rendicoes": {
+  "png": {
+   "bytes": 280121,
+   "sha256": "c5267ec969a1e77abe3ef4a91c9bf33317ec5456bd1d1c90a3c87af047e13538",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 52150,
+   "sha256": "393493fe9ace8516fc4127f6a5212714102ef15931c674ee898e674305a0ce6e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4100103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4100103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4100103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4100103.jpg",
+  "bytes": 244887,
+  "sha256": "2afc099ac458dda0e78c8976da8bd531bedf749bb6ceec97d7909ab6f7ed1c45"
+ },
+ "sha1_origem": "8d2ee8dcf5532666a0eecf29556a9095bab1fe3e",
+ "bytes_origem": 244887,
+ "capturado_em": "2026-11-08T06:40:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Armas_do_Município_de_Abatiá.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "8d2ee8dcf5532666a0eecf29556a9095bab1fe3e"
+ }
+}

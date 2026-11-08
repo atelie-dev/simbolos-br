@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3526704",
+ "uf": "SP",
+ "municipio": "Leme",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/61/Brasao_Leme_SaoPaulo_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Leme",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c7dce4628a014aa526e128323434a92078b50866e3e78185f99c70366966bd6f",
+ "rendicoes": {
+  "png": {
+   "bytes": 211927,
+   "sha256": "a7cd8c0f18190c5c27c22382e31f8927222759ef8493e9747402523713218940",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 76098,
+   "sha256": "b92de950ba293642bca5d3b6c97906f8c80c89498d94e88174371d542296caa1",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 256027,
+   "sha256": "c7dce4628a014aa526e128323434a92078b50866e3e78185f99c70366966bd6f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3526704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3526704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3526704.jpg"
+ },
+ "sha1_origem": "d477b2dc936646b04a392e0bf84af406cf80368a",
+ "bytes_origem": 256027,
+ "capturado_em": "2026-11-08T04:07:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Leme_SaoPaulo_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:33Z",
+  "estado": "igual",
+  "sha1_commons": "d477b2dc936646b04a392e0bf84af406cf80368a"
+ }
+}

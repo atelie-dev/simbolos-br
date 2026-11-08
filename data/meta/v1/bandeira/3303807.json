@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3303807",
+ "uf": "RJ",
+ "municipio": "Paraty",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bandeira_de_Paraty.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Paraty",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a14e517474580bb04fb320e1e57efa6945016d112c83e41d5ad7f364fca01905",
+ "rendicoes": {
+  "png": {
+   "bytes": 33382,
+   "sha256": "d56ac7930193d86443286c15f05048f01ec27d5b15a1f0a97eb49672cbe80a16",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15433,
+   "sha256": "3a2a7d68bd531ae9bbb929d09b3075e0717d279f598b9ae8e96cba07e73b74b6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3303807.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3303807.png",
+  "bytes": 11044,
+  "sha256": "a14e517474580bb04fb320e1e57efa6945016d112c83e41d5ad7f364fca01905"
+ },
+ "sha1_origem": "6a58abbb4115ac88dbf339dd5ebdd2212ca5b338",
+ "bytes_origem": 11044,
+ "capturado_em": "2026-11-08T06:21:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Paraty.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:09Z",
+  "estado": "igual",
+  "sha1_commons": "6a58abbb4115ac88dbf339dd5ebdd2212ca5b338"
+ }
+}

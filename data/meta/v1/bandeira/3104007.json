@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3104007",
+ "uf": "MG",
+ "municipio": "Araxá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Arax%C3%A1mgbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Araxá",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "73e81cce0e6d58451809964ee6d47dbfd60a333e04ccd18d78176f8e98af404c",
+ "rendicoes": {
+  "png": {
+   "bytes": 42406,
+   "sha256": "0f5c8950ba455c75d218b7dd32c2fb8b510007805a99bf77009cc2969426de0c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10909,
+   "sha256": "01a3477a70a629ed986870f2debd20d3c5e77fcf37636ed2d0b02be5cd4da948",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3104007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3104007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3104007.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3104007.jpg",
+  "bytes": 11273,
+  "sha256": "73e81cce0e6d58451809964ee6d47dbfd60a333e04ccd18d78176f8e98af404c"
+ },
+ "sha1_origem": "d25e5107d2008947f96535ced0631e4919567625",
+ "bytes_origem": 11273,
+ "capturado_em": "2026-11-08T05:59:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Araxámgbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:34Z",
+  "estado": "igual",
+  "sha1_commons": "d25e5107d2008947f96535ced0631e4919567625"
+ }
+}

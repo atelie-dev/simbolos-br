@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3150109",
+ "uf": "MG",
+ "municipio": "Piau",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bandeira_de_Piau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Vpresto",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5683d81af061bdd7902ffefecb8314b6b07b0075cae9ae74174b5bd6343735d6",
+ "rendicoes": {
+  "png": {
+   "bytes": 373720,
+   "sha256": "24f00fead5e1266712a834262c4ea16c6da3700264a5eba71847baae9d9c9991",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60209,
+   "sha256": "fd24002a1e195d86bc9bc663c6625675999ea594d7fddff0a696602ff7a5284f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3150109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3150109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3150109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3150109.jpg",
+  "bytes": 86254,
+  "sha256": "5683d81af061bdd7902ffefecb8314b6b07b0075cae9ae74174b5bd6343735d6"
+ },
+ "sha1_origem": "d323da2486406a7a3708052cd1c178bddb2d8355",
+ "bytes_origem": 86254,
+ "capturado_em": "2026-11-08T06:13:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Piau.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "d323da2486406a7a3708052cd1c178bddb2d8355"
+ }
+}

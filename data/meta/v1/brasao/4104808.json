@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4104808",
+ "uf": "PR",
+ "municipio": "Cascavel",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bras%C3%A3o_de_Cascavel_%28PR%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cascavel (Paraná)",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "29b8db661ba4528c63a1ea082da2fc90b8707422aa132c8b11b437d50f352964",
+ "rendicoes": {
+  "png": {
+   "bytes": 98891,
+   "sha256": "6544b17bdf016861ea8d8e02e52395932d6eb2bbf20b5c405cb37120003a749e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 46895,
+   "sha256": "b2efc50328a6e3125c1c1cc33ef9d505e247f36956a765d8a06e77b9c6789cb9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 20631,
+   "sha256": "29b8db661ba4528c63a1ea082da2fc90b8707422aa132c8b11b437d50f352964"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4104808.jpg"
+ },
+ "sha1_origem": "0e8528ebad1c4c951360aec8add50923b461f86b",
+ "bytes_origem": 20631,
+ "capturado_em": "2026-11-08T04:22:51Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cascavel_(PR).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "0e8528ebad1c4c951360aec8add50923b461f86b"
+ }
+}

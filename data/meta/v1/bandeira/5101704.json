@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5101704",
+ "uf": "MT",
+ "municipio": "Barra do Bugres",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bandeira_de_Barra_do_Bugres_%28Mato_Grosso%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "4fe3d99d745b3cf4d03f0ff9b727ea71441de5807c59dcded978f0d079abbbf3",
+ "rendicoes": {
+  "png": {
+   "bytes": 61408,
+   "sha256": "b0872dcb04ce7180e66a20e6c22130f9f348b2fad54eaa3e7638a60079f2592d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28767,
+   "sha256": "078bf59642c22feb2036989b010926d616ec1f1a9c40deb9b6f59bd9c933ee19",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1489425,
+   "sha256": "4fe3d99d745b3cf4d03f0ff9b727ea71441de5807c59dcded978f0d079abbbf3"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5101704.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5101704.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5101704.jpg"
+ },
+ "sha1_origem": "c8b565e1bb063bae1d499c916e01e647342b0cc5",
+ "bytes_origem": 1489425,
+ "capturado_em": "2026-11-08T05:05:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Barra_do_Bugres_(Mato_Grosso).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "c8b565e1bb063bae1d499c916e01e647342b0cc5"
+ }
+}

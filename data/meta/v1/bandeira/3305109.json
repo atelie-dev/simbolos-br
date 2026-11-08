@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3305109",
+ "uf": "RJ",
+ "municipio": "São João de Meriti",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira-saojoaodemeriti.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de São João de Meriti",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f78e65ec7b982a41916a82a9a33c8200a0417f45a74c7167a99005a888ca8a10",
+ "rendicoes": {
+  "png": {
+   "bytes": 71825,
+   "sha256": "1b8fb6a52ef1aeb9320ddd4632b077aacf8aa9aba2b13f0bd820b7d5903760cc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18099,
+   "sha256": "50d8a2eebe5afb40f24499cd7de66142caedb642780d7eb50ccf8d495e4a7679",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305109.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305109.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3305109.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3305109.jpg",
+  "bytes": 23553,
+  "sha256": "f78e65ec7b982a41916a82a9a33c8200a0417f45a74c7167a99005a888ca8a10"
+ },
+ "sha1_origem": "3f714b75bb632562f4b4a5a24f69ad86555983d7",
+ "bytes_origem": 23553,
+ "capturado_em": "2026-11-08T06:22:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-saojoaodemeriti.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "3f714b75bb632562f4b4a5a24f69ad86555983d7"
+ }
+}

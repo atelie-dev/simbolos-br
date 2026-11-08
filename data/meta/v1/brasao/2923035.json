@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2923035",
+ "uf": "BA",
+ "municipio": "Novo Horizonte",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bras%C3%A3o_de_Novo_Horizonte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "deef5f432a27f16cc5db65d6f2215e62ab06261e6976828f91d8156ac81f140f",
+ "rendicoes": {
+  "png": {
+   "bytes": 59151,
+   "sha256": "4511a5b4eeef4cefd97d8abc544b7bd6e411ca6e4a8bd9bab18771d2ed4806cd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10447,
+   "sha256": "2807353654a7673e99dc53a2a8620958a994a64e68aa8834af94761bb0a676e0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2923035.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2923035.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2923035.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2923035.jpg",
+  "bytes": 10732,
+  "sha256": "deef5f432a27f16cc5db65d6f2215e62ab06261e6976828f91d8156ac81f140f"
+ },
+ "sha1_origem": "1132f77f9f0cd7c1085e1548a39f79e99ebc580b",
+ "bytes_origem": 10732,
+ "capturado_em": "2026-11-08T05:56:03Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Novo_Horizonte.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "1132f77f9f0cd7c1085e1548a39f79e99ebc580b"
+ }
+}

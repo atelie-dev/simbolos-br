@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2200400",
+ "uf": "PI",
+ "municipio": "Altos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bandeira_de_altos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Fundacao mariana",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "67c6092412f276d5439f335ca0868762e2a93d0767fa5a20fc203c51e38d28ba",
+ "rendicoes": {
+  "png": {
+   "bytes": 128632,
+   "sha256": "b0c7c608ed4b9acaff4b1834d9e9e0a12469130f42d68a1de9f5ebaca815310b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21997,
+   "sha256": "248937fed36eb8b6aa4494ae0721107316f3e48cce3d8dfff9ad1672f782f2f1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2200400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2200400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2200400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2200400.jpg",
+  "bytes": 25805,
+  "sha256": "67c6092412f276d5439f335ca0868762e2a93d0767fa5a20fc203c51e38d28ba"
+ },
+ "sha1_origem": "3fb5677425cb67c5d989e5c06c377b146c839766",
+ "bytes_origem": 25805,
+ "capturado_em": "2026-11-08T05:29:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_altos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:16Z",
+  "estado": "igual",
+  "sha1_commons": "3fb5677425cb67c5d989e5c06c377b146c839766"
+ }
+}

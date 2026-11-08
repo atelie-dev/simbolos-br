@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2916500",
+ "uf": "BA",
+ "municipio": "Itapicuru",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bras%C3%A3o_de_Itapicuru.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4c871a323bceeb61e205b2150b93d4edaf89a7f0ef048abbfefe19968b7609d9",
+ "rendicoes": {
+  "png": {
+   "bytes": 293168,
+   "sha256": "9b5a70d2b5437e948ddf72215d727bdf73956a2d253299eabd72acd2042e16d1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55315,
+   "sha256": "c69bd75af44c3967d98d5cec41795a666f82515f6feaf391d974b653d67acd94",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2916500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2916500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2916500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2916500.png",
+  "bytes": 387891,
+  "sha256": "4c871a323bceeb61e205b2150b93d4edaf89a7f0ef048abbfefe19968b7609d9"
+ },
+ "sha1_origem": "943c27c112a289b7f2f1679a81bec6454067bbad",
+ "bytes_origem": 387891,
+ "capturado_em": "2026-11-08T05:54:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Itapicuru.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:04Z",
+  "estado": "igual",
+  "sha1_commons": "943c27c112a289b7f2f1679a81bec6454067bbad"
+ }
+}

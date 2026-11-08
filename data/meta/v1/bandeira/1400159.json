@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1400159",
+ "uf": "RR",
+ "municipio": "Bonfim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandeira_Bonfim_RR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Bonfim.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6dfcbad7d5d01ab68812b5e429ef7f399c5fd2e28db5fbf56c878a54306f328e",
+ "rendicoes": {
+  "png": {
+   "bytes": 9193,
+   "sha256": "1d26b38c181fe04879fec2cde12d18c39ff90652edefaf3644f1d43a3d69bf0b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5535,
+   "sha256": "d39941b67a75223b6ece1eacd238c02e6d9c4b755eebec05599ddbeec22e8ef0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400159.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400159.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400159.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1400159.jpg",
+  "bytes": 22258,
+  "sha256": "6dfcbad7d5d01ab68812b5e429ef7f399c5fd2e28db5fbf56c878a54306f328e"
+ },
+ "sha1_origem": "cec44def394efea717a05e3f0a7ec78142b547b5",
+ "bytes_origem": 22258,
+ "capturado_em": "2026-11-08T05:23:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Bonfim_RR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:43Z",
+  "estado": "igual",
+  "sha1_commons": "cec44def394efea717a05e3f0a7ec78142b547b5"
+ }
+}

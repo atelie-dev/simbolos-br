@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3141207",
+ "uf": "MG",
+ "municipio": "Matutina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Matutina-MG-Brasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "own work",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7585e2eea58b4484e07c271f95b31fd62188940891ae1dcf8bea5990d3a41595",
+ "rendicoes": {
+  "png": {
+   "bytes": 351735,
+   "sha256": "7d06352a8747a09a85280d14c2274a5a1417399b76e937ea538a5a68dd9d4a8c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63788,
+   "sha256": "673d1b3c0c572a9184cf27a334c52c5db7bb1559090bbf0bc64f2b6225d9c9a9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3141207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3141207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3141207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3141207.jpg",
+  "bytes": 91012,
+  "sha256": "7585e2eea58b4484e07c271f95b31fd62188940891ae1dcf8bea5990d3a41595"
+ },
+ "sha1_origem": "c8968a19e65a5f987021b0c8c6011904b7f528c9",
+ "bytes_origem": 91012,
+ "capturado_em": "2026-11-08T06:11:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Matutina-MG-Brasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "c8968a19e65a5f987021b0c8c6011904b7f528c9"
+ }
+}

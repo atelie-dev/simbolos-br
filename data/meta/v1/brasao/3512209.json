@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3512209",
+ "uf": "SP",
+ "municipio": "Conchal",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bras%C3%A3odeconchal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "65194055587a6f437c72536b9d371e03e28a354058bfb219311da660c0dcb586",
+ "rendicoes": {
+  "png": {
+   "bytes": 51697,
+   "sha256": "0aa1111607f4ef0457783039c338860aa2105cc1e0906aeed3e99b8a0d8b9187",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14085,
+   "sha256": "dcda3ae7a8675c28471d9e6ac635051fb72a8dabfcbbae6ed49ec29d02efe649",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3512209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3512209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3512209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3512209.jpg",
+  "bytes": 68578,
+  "sha256": "65194055587a6f437c72536b9d371e03e28a354058bfb219311da660c0dcb586"
+ },
+ "sha1_origem": "07001add2c0a07bf6ab3272303a48b9863de0969",
+ "bytes_origem": 68578,
+ "capturado_em": "2026-11-08T06:26:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasãodeconchal.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "07001add2c0a07bf6ab3272303a48b9863de0969"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1706001",
+ "uf": "TO",
+ "municipio": "Couto Magalhães",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bandeira_de_Couto_de_Magalh%C3%A3es%2C_TO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura de Couto de Magalhães",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9331666ce55f0cb03b0bc85cb0bf2cf3b393570a80bb5db338e11fb222a80cbb",
+ "rendicoes": {
+  "png": {
+   "bytes": 30695,
+   "sha256": "7adc7ca049fa436085ac2fd193ee36977cd0f2f92773779b32ccee15a77ff539",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15833,
+   "sha256": "e0215bec913cdfcc169c5a31652727430d308de8ff8c4442b7d2cb1a18d2ccb4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1706001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1706001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1706001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1706001.jpg",
+  "bytes": 591231,
+  "sha256": "9331666ce55f0cb03b0bc85cb0bf2cf3b393570a80bb5db338e11fb222a80cbb"
+ },
+ "sha1_origem": "97e8e0c84bf1e9a75cc1cedd250c1bcee7a14b91",
+ "bytes_origem": 591231,
+ "capturado_em": "2026-11-08T05:26:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Couto_de_Magalhães,_TO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "97e8e0c84bf1e9a75cc1cedd250c1bcee7a14b91"
+ }
+}

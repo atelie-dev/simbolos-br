@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3521804",
+ "uf": "SP",
+ "municipio": "Itaí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Itai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7d06ade4f39fd83a8b0f206d931cebcd2e714c8aacc2fe4fe0c9af2bb025c4d6",
+ "rendicoes": {
+  "png": {
+   "bytes": 252261,
+   "sha256": "564dc1d78436fe3da4c15dc435741cc6c8f252fa97f59c403c7bdc80efda3fd4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42953,
+   "sha256": "67f97f93b76f03d8ba235e6126219444a4c145bad09fa2d8bfdc94161e77b371",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3521804.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3521804.jpg",
+  "bytes": 162035,
+  "sha256": "7d06ade4f39fd83a8b0f206d931cebcd2e714c8aacc2fe4fe0c9af2bb025c4d6"
+ },
+ "sha1_origem": "ab0c29c0c811d9393725f17d9a293489a5086477",
+ "bytes_origem": 162035,
+ "capturado_em": "2026-11-08T06:29:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Itai.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "ab0c29c0c811d9393725f17d9a293489a5086477"
+ }
+}

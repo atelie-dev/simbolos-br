@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3301504",
+ "uf": "RJ",
+ "municipio": "Cordeiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bandeira-cordeiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8ba7e5433e16cf508f74de643de642f528b7bb88e55dfe23c12dc9ffdb638641",
+ "rendicoes": {
+  "png": {
+   "bytes": 100088,
+   "sha256": "c820651c7512350fafda2163c154a14cc723b66322b8c0125e5c7e3f8f4ed493",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25866,
+   "sha256": "2b5dccfa59a52d8b95628ef6c9af5e476f498b35a28aa1d00882ffc4fcda2a75",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3301504.jpg",
+  "bytes": 101734,
+  "sha256": "8ba7e5433e16cf508f74de643de642f528b7bb88e55dfe23c12dc9ffdb638641"
+ },
+ "sha1_origem": "23b68a9ca59eaaa6af35924081a3f639d738c323",
+ "bytes_origem": 101734,
+ "capturado_em": "2026-11-08T06:21:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-cordeiro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "23b68a9ca59eaaa6af35924081a3f639d738c323"
+ }
+}

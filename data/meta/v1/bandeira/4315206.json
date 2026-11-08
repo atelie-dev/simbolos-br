@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4315206",
+ "uf": "RS",
+ "municipio": "Putinga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bandeira_Putinga.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Putinga",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1bc223df2275a2aaa428b8cb271f366f8dbbc68c1bd88d53836fef36400e0a9d",
+ "rendicoes": {
+  "png": {
+   "bytes": 36402,
+   "sha256": "c5bea3b72a1785c845d23299dd9b7e92ff78bfd1b23d53cceec7d4054cbca6c9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13050,
+   "sha256": "8790ded1f69cfa413879457d38cb597010ddd00cb052387f8ffeb29ab915cc3e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315206.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4315206.png",
+  "bytes": 14610,
+  "sha256": "1bc223df2275a2aaa428b8cb271f366f8dbbc68c1bd88d53836fef36400e0a9d"
+ },
+ "sha1_origem": "50dae046517cf6e05e9c998e9b967820d7692e1c",
+ "bytes_origem": 14610,
+ "capturado_em": "2026-11-08T07:07:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Putinga.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "50dae046517cf6e05e9c998e9b967820d7692e1c"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4107751",
+ "uf": "PR",
+ "municipio": "Figueira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bandeira_de_Figueira%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Dodokiss",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "58d1aa8c1f344b477cb340f4c5de9eb9ab5f59e02f0c8793871c3e615dabfc11",
+ "rendicoes": {
+  "png": {
+   "bytes": 109945,
+   "sha256": "bfaccdaf11313ba48857ba5d07c297e19205b55cd4fecb462738f1c3c7ed2e4e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23513,
+   "sha256": "bbf9c19c5f72809455cc0c9c235513a532bcb52b9974cf75421cb97370aa5d22",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107751.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107751.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4107751.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4107751.jpg",
+  "bytes": 632245,
+  "sha256": "58d1aa8c1f344b477cb340f4c5de9eb9ab5f59e02f0c8793871c3e615dabfc11"
+ },
+ "sha1_origem": "6c915daf72715a0bfc1368b0832ff4550f94ba53",
+ "bytes_origem": 632245,
+ "capturado_em": "2026-11-08T06:43:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Figueira,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "6c915daf72715a0bfc1368b0832ff4550f94ba53"
+ }
+}

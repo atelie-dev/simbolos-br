@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532827",
+ "uf": "SP",
+ "municipio": "Nova Campina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bras%C3%A3o_Nova_Campina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "17a784225edd1a428df2bf034c37040098691358d1fb76e84b83a79902c5d266",
+ "rendicoes": {
+  "png": {
+   "bytes": 58134,
+   "sha256": "55bd92e9f3c4f6479a9f7028f29f552949999cd432d03227535360e92110d874",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12083,
+   "sha256": "c26babe8d223de5935a3e9bc73c58d2e8ab62be6de95cc8a5fe6cb60da693853",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532827.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532827.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3532827.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3532827.jpg",
+  "bytes": 12296,
+  "sha256": "17a784225edd1a428df2bf034c37040098691358d1fb76e84b83a79902c5d266"
+ },
+ "sha1_origem": "e7b8259949c1e1565744a9073be54971cafa77a6",
+ "bytes_origem": 12296,
+ "capturado_em": "2026-11-08T06:33:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Nova_Campina.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "e7b8259949c1e1565744a9073be54971cafa77a6"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3126208",
+ "uf": "MG",
+ "municipio": "Formoso",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Formosomgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Formoso",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "44d90f4cddd6f54771af2d33f0fa764e40cca77eae72ba09459a149ea84fb17d",
+ "rendicoes": {
+  "png": {
+   "bytes": 17708,
+   "sha256": "10e7ea9b3a32ae560f37a11af955f2f15a3048b27a0386e9d0c49f9f84c885e2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12121,
+   "sha256": "72bfc43ef1152f4366c6dda59098fa62330ff93806916ad278302afc96fefde7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3126208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3126208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3126208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3126208.png",
+  "bytes": 14422,
+  "sha256": "44d90f4cddd6f54771af2d33f0fa764e40cca77eae72ba09459a149ea84fb17d"
+ },
+ "sha1_origem": "538f9cafe5a7a5df28bd1bcb88e5aee66321c2f0",
+ "bytes_origem": 14422,
+ "capturado_em": "2026-11-08T06:07:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Formosomgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:30Z",
+  "estado": "igual",
+  "sha1_commons": "538f9cafe5a7a5df28bd1bcb88e5aee66321c2f0"
+ }
+}

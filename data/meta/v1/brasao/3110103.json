@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3110103",
+ "uf": "MG",
+ "municipio": "Caiana",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Caianamgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Caiana",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8dbf2fd64bf7baf2f09ffa4c2db86e745f13faee3df6c6726e3343f1b94e15a9",
+ "rendicoes": {
+  "png": {
+   "bytes": 76723,
+   "sha256": "d8ce1a5cb7926f085b4db7cbf916a429c247daffd00845745b1a4781bc1a0fc4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16026,
+   "sha256": "95967942e9fa5d68f15c7ec9f36c4eb9254b2f16d944a7e36b331be90320cfa0",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3110103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3110103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3110103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3110103.jpg",
+  "bytes": 11434,
+  "sha256": "8dbf2fd64bf7baf2f09ffa4c2db86e745f13faee3df6c6726e3343f1b94e15a9"
+ },
+ "sha1_origem": "ed3c99ba2c0872b1f27b52a41011b7bed4770d95",
+ "bytes_origem": 11434,
+ "capturado_em": "2026-11-08T06:01:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Caianamgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "ed3c99ba2c0872b1f27b52a41011b7bed4770d95"
+ }
+}

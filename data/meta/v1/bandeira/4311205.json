@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4311205",
+ "uf": "RS",
+ "municipio": "Júlio de Castilhos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bandeira_J%C3%BAlio_de_Castilhos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Mauricio Seffrin",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e1823c82e1601b0bde17d4847cd8f0ed1f5bfcadec95e58f38190d7083a52e64",
+ "rendicoes": {
+  "png": {
+   "bytes": 59053,
+   "sha256": "31bd4b0ebd947e768f10f2464f159f39b93174823b1abf28e4b27d8de57015a6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21741,
+   "sha256": "acd3414b3359558872c355e7835cb5cdbc654ff8d80f110cef095432cc020937",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4311205.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4311205.jpg",
+  "bytes": 92492,
+  "sha256": "e1823c82e1601b0bde17d4847cd8f0ed1f5bfcadec95e58f38190d7083a52e64"
+ },
+ "sha1_origem": "9622724767a7f12dabfaff6375b40a047390df0e",
+ "bytes_origem": 92492,
+ "capturado_em": "2026-11-08T07:04:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Júlio_de_Castilhos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "9622724767a7f12dabfaff6375b40a047390df0e"
+ }
+}

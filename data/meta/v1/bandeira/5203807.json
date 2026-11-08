@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5203807",
+ "uf": "GO",
+ "municipio": "Britânia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bandeira_de_Brit%C3%A2nia_%28Goi%C3%A1s%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Britânia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8aa0c316bb08fd84e5b57f5a62db573e72e4dc822123b8e1d399c727b61d8af6",
+ "rendicoes": {
+  "png": {
+   "bytes": 87173,
+   "sha256": "fa05ab03d24b8054d84b4f32e9978bff5d2a9b3d24d0e874cbb88330925cb99a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18839,
+   "sha256": "f0e8555c95b7168c95d4a80f1cdbfc96c816ec6e0e0b28fe94489afdc544cc2c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5203807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5203807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5203807.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5203807.jpg",
+  "bytes": 24154,
+  "sha256": "8aa0c316bb08fd84e5b57f5a62db573e72e4dc822123b8e1d399c727b61d8af6"
+ },
+ "sha1_origem": "368514517fbe6f9f3f025793a5e6813f3e4ce6ea",
+ "bytes_origem": 24154,
+ "capturado_em": "2026-11-08T07:17:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Britânia_(Goiás).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "368514517fbe6f9f3f025793a5e6813f3e4ce6ea"
+ }
+}

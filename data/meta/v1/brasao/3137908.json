@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3137908",
+ "uf": "MG",
+ "municipio": "Lamim",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Brasaodelamim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Leandro RD",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "14f2be321a09f39ec639adfec94167581a55093e06031bda67aa0471efd0ab75",
+ "rendicoes": {
+  "png": {
+   "bytes": 116964,
+   "sha256": "7b1db03be587128503ac1344d7e075bacad04da983811cee8f6258515f38ff07",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21467,
+   "sha256": "058f629a73d18f185b247ebbf8677626cff077596f781feba070bb4a0d84a88b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3137908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3137908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3137908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3137908.jpg",
+  "bytes": 13847,
+  "sha256": "14f2be321a09f39ec639adfec94167581a55093e06031bda67aa0471efd0ab75"
+ },
+ "sha1_origem": "92bda7bc2767576e4c8cabd484f34746610423c2",
+ "bytes_origem": 13847,
+ "capturado_em": "2026-11-08T06:10:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasaodelamim.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:42Z",
+  "estado": "igual",
+  "sha1_commons": "92bda7bc2767576e4c8cabd484f34746610423c2"
+ }
+}

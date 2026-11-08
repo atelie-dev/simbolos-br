@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3544806",
+ "uf": "SP",
+ "municipio": "Sales",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bandeira_Sales.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "098e22b2e5ac59118d6f34ddeb22d0a164311858c81fc7f1d97c0b2d1e7883d7",
+ "rendicoes": {
+  "png": {
+   "bytes": 26446,
+   "sha256": "1f68affa3cc2befeb3e095d31fd9ca84915da9451f4a28390161ed541159fd01",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12463,
+   "sha256": "7166759a59eb5ba6a8bfad2ca11605a1a4215088c6b2116afc3a5b4e7ee52b09",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3544806.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3544806.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3544806.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3544806.png",
+  "bytes": 27864,
+  "sha256": "098e22b2e5ac59118d6f34ddeb22d0a164311858c81fc7f1d97c0b2d1e7883d7"
+ },
+ "sha1_origem": "fce6365aabc6b29d17df6cb766da1850c59630ad",
+ "bytes_origem": 27864,
+ "capturado_em": "2026-11-08T06:36:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Sales.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "fce6365aabc6b29d17df6cb766da1850c59630ad"
+ }
+}

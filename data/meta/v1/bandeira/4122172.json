@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4122172",
+ "uf": "PR",
+ "municipio": "Rio Branco do Ivaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bandeira_Rio_Branco_do_Iva%C3%AD.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b895e51ff8e6b17c0f06014aad2ba252ee5ec22dbdd5398b493fe490ee515c6f",
+ "rendicoes": {
+  "png": {
+   "bytes": 17295,
+   "sha256": "4158359c339fd21db5b7ef6054e0843ba3530d65ddc22d8e968af7bbbd973326",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9931,
+   "sha256": "78cff16f140c284e27b0a961b3c9436c02b5ec2de635152a434c50caaa5ee218",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122172.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122172.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4122172.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4122172.png",
+  "bytes": 6260,
+  "sha256": "b895e51ff8e6b17c0f06014aad2ba252ee5ec22dbdd5398b493fe490ee515c6f"
+ },
+ "sha1_origem": "047eafef62d7bdc2d97081324f160fc786f28f4d",
+ "bytes_origem": 6260,
+ "capturado_em": "2026-11-08T06:48:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Rio_Branco_do_Ivaí.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "047eafef62d7bdc2d97081324f160fc786f28f4d"
+ }
+}

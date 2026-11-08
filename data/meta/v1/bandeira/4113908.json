@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4113908",
+ "uf": "PR",
+ "municipio": "Mallet",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bandeira_de_Mallet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "623aad40db669d3c23d4986ce4a37b4c8e87eba590d0d1c79824d64ab041c242",
+ "rendicoes": {
+  "png": {
+   "bytes": 87345,
+   "sha256": "8236c0461e5008e73ead546adb993b6ed67a9e54dae12085b701b7a80fffd306",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21236,
+   "sha256": "463a17946b214c8c9d407d5c73232231bfa32c564ec254e79bf4aecd1a602453",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4113908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4113908.jpg",
+  "bytes": 23894,
+  "sha256": "623aad40db669d3c23d4986ce4a37b4c8e87eba590d0d1c79824d64ab041c242"
+ },
+ "sha1_origem": "db9bb43076748499966ef0a57444e0d877dc68ed",
+ "bytes_origem": 23894,
+ "capturado_em": "2026-11-08T06:46:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Mallet.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "db9bb43076748499966ef0a57444e0d877dc68ed"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3205002",
+ "uf": "ES",
+ "municipio": "Serra",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bras%C3%A3o_da_Serra_-_ES.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "88c26495c2a12565084d558fd22e59ef8c24555c354772a8eb689189a0a74d15",
+ "rendicoes": {
+  "png": {
+   "bytes": 89877,
+   "sha256": "dd5bd44320209ce54c0cbdb10e658f72ccff4e0f77d5cde5fd0563f886eb619d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35890,
+   "sha256": "87fd70834b22e9235ce755ee40ef18f36ea94903b85bbdae57c0e3fad9014054",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 42656,
+   "sha256": "88c26495c2a12565084d558fd22e59ef8c24555c354772a8eb689189a0a74d15"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3205002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3205002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3205002.jpg"
+ },
+ "sha1_origem": "5bb4140fd079d0351f2109fc0de9722ca3126b29",
+ "bytes_origem": 42656,
+ "capturado_em": "2026-11-08T03:53:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_da_Serra_-_ES.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:55Z",
+  "estado": "igual",
+  "sha1_commons": "5bb4140fd079d0351f2109fc0de9722ca3126b29"
+ }
+}

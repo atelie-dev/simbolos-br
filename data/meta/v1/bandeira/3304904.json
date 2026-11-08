@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3304904",
+ "uf": "RJ",
+ "municipio": "São Gonçalo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Flag_of_S%C3%A3o_Gon%C3%A7alo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Guilherme Paula",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "4c49fcd508f05b561fe9f549e14a0364d82b533be341b30adc752ac7044b2e5d",
+ "rendicoes": {
+  "png": {
+   "bytes": 51451,
+   "sha256": "abfa1d8b33d10627158eeb4783a86d8ccf8390c6aa6d5852239f4449db16d9da",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19848,
+   "sha256": "ee0771376e78e10ba03ef63311b08015cab23333d50285cd70f763dc05999740",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 231288,
+   "sha256": "4c49fcd508f05b561fe9f549e14a0364d82b533be341b30adc752ac7044b2e5d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304904.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304904.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304904.jpg"
+ },
+ "sha1_origem": "909bec24e253d911ccd8eabc29ab1cda7939b7e5",
+ "bytes_origem": 231288,
+ "capturado_em": "2026-11-08T03:55:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_São_Gonçalo.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "909bec24e253d911ccd8eabc29ab1cda7939b7e5"
+ }
+}

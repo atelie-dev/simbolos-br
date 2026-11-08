@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4117404",
+ "uf": "PR",
+ "municipio": "Ourizona",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bandeira_de_Ourizona.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Ourizona",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6afe86419c0967bde00ec80ab321128285cffd7b2dc0e2ca668e8dd0098e0ac9",
+ "rendicoes": {
+  "png": {
+   "bytes": 71424,
+   "sha256": "3a1ad617561939822366d29691f44513fb18699dcda4f4dc41fa87c870a62710",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18651,
+   "sha256": "454cde3254b4006dfd3835e9b669b31ee9e0e5152bfd7744c2edecffb294bd7e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4117404.jpg",
+  "bytes": 19162,
+  "sha256": "6afe86419c0967bde00ec80ab321128285cffd7b2dc0e2ca668e8dd0098e0ac9"
+ },
+ "sha1_origem": "274da2fde072257308ac98933f2699f5efbe72cf",
+ "bytes_origem": 19162,
+ "capturado_em": "2026-11-08T06:47:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ourizona.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "274da2fde072257308ac98933f2699f5efbe72cf"
+ }
+}

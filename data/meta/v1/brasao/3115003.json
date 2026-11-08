@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3115003",
+ "uf": "MG",
+ "municipio": "Cascalho Rico",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Cascalho_Ricomgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Cascalho Rico",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e800512c936057b65c9a90800143057c2a65bf5ac37ad4eb5d97cb3493f81adb",
+ "rendicoes": {
+  "png": {
+   "bytes": 133131,
+   "sha256": "8da29efe48626e1aae2773e815baf5a2eb8be84c3f32f33942ba9010b68a9847",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25995,
+   "sha256": "328610cd2fc78fafdfe177f38e4ddfbf61be77b220199175eaf8928ad2ac004c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3115003.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3115003.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3115003.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3115003.jpg",
+  "bytes": 17756,
+  "sha256": "e800512c936057b65c9a90800143057c2a65bf5ac37ad4eb5d97cb3493f81adb"
+ },
+ "sha1_origem": "5bb335741402d816ebf366bb796b449abf88115a",
+ "bytes_origem": 17756,
+ "capturado_em": "2026-11-08T06:03:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Cascalho_Ricomgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:21Z",
+  "estado": "igual",
+  "sha1_commons": "5bb335741402d816ebf366bb796b449abf88115a"
+ }
+}

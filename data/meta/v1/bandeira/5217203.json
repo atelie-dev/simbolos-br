@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5217203",
+ "uf": "GO",
+ "municipio": "Piranhas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandeira_de_Piranhas%2C_GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Piranhas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "26ad55932d89baa5778a8a7890bd7954c0c90f70759cf9a2047e09a1ceb819cd",
+ "rendicoes": {
+  "png": {
+   "bytes": 15762,
+   "sha256": "f7b9a172fbe9f728b224d89daec4140f69bfb2ed31f6516cd1edb1f8193d4fa2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7732,
+   "sha256": "67e64cec48abcf72e03aedcd77b098a4adbf73184f75b1126ce1333d39edaea5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5217203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5217203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5217203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5217203.jpg",
+  "bytes": 8652,
+  "sha256": "26ad55932d89baa5778a8a7890bd7954c0c90f70759cf9a2047e09a1ceb819cd"
+ },
+ "sha1_origem": "cc90fd8122360e8c58fbc845c83b451bb88bd307",
+ "bytes_origem": 8652,
+ "capturado_em": "2026-11-08T07:19:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Piranhas,_GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "cc90fd8122360e8c58fbc845c83b451bb88bd307"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2605202",
+ "uf": "PE",
+ "municipio": "Escada",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Brasao_escada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "50ea2a134a7930034648ed3c6ad4695eb2a79e63a2c6af60ff3e5e0789676d07",
+ "rendicoes": {
+  "png": {
+   "bytes": 143219,
+   "sha256": "f8b73391dac87318e835fd5aa781d261c851b9a472dac1ee74197804cc77031f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30562,
+   "sha256": "4d231996046dd111f759dc51da38b47c790ab806182ac355dc56010f5648bd00",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2605202.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2605202.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2605202.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2605202.jpg",
+  "bytes": 35498,
+  "sha256": "50ea2a134a7930034648ed3c6ad4695eb2a79e63a2c6af60ff3e5e0789676d07"
+ },
+ "sha1_origem": "23a125009a3c74d777a06563e26f8f3794476a88",
+ "bytes_origem": 35498,
+ "capturado_em": "2026-11-08T05:45:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_escada.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "23a125009a3c74d777a06563e26f8f3794476a88"
+ }
+}

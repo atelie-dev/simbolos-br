@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321352",
+ "uf": "RS",
+ "municipio": "Tavares",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bras%C3%A3o_de_Tavares%2C_RS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of Tavares.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "484d1bd785dd0909146042e8a24facd707c4d878d8373ba13d8188794fb2111f",
+ "rendicoes": {
+  "png": {
+   "bytes": 22819,
+   "sha256": "c4188c8c9210d62717c0e90764c0319be1c2e478865ec82a684603924e1e200c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9028,
+   "sha256": "e4fb6c0f5c7b658470bd66384fc81ce62236f701031f507968e9b9c431dface3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321352.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321352.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4321352.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4321352.png",
+  "bytes": 7177,
+  "sha256": "484d1bd785dd0909146042e8a24facd707c4d878d8373ba13d8188794fb2111f"
+ },
+ "sha1_origem": "61e0e50d09ac2ea31e1faf18a2a513c27dcd7ae8",
+ "bytes_origem": 7177,
+ "capturado_em": "2026-11-08T07:10:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Tavares,_RS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:13Z",
+  "estado": "igual",
+  "sha1_commons": "61e0e50d09ac2ea31e1faf18a2a513c27dcd7ae8"
+ }
+}

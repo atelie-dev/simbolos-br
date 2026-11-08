@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3115474",
+ "uf": "MG",
+ "municipio": "Catuti",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/25/Catutimgbrasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Catuti",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "28e8091a5b94657055eebc2ca7e5f8716d30c9769a2d90b382a9bda07934b93b",
+ "rendicoes": {
+  "png": {
+   "bytes": 103354,
+   "sha256": "38cdee60f0cb0049a30700db8c22a0ae0df6cb2bb7f0c8556badebc6e44b29ff",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18121,
+   "sha256": "3068a48e6ec715a36f1b1ce6764c2f6db28b798faaecae72172957cfb4764e6c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3115474.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3115474.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3115474.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3115474.jpg",
+  "bytes": 21952,
+  "sha256": "28e8091a5b94657055eebc2ca7e5f8716d30c9769a2d90b382a9bda07934b93b"
+ },
+ "sha1_origem": "1dc1ca44ce7d419b98c811c25f8ecad83df8b666",
+ "bytes_origem": 21952,
+ "capturado_em": "2026-11-08T06:03:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Catutimgbrasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:21Z",
+  "estado": "igual",
+  "sha1_commons": "1dc1ca44ce7d419b98c811c25f8ecad83df8b666"
+ }
+}

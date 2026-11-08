@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2501302",
+ "uf": "PB",
+ "municipio": "Aroeiras",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bras%C3%A3o_Aroeiras-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Aroeiras",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6bdeb1f5f254bc747204101b79083f068c2766e8a5fe3672c22c81be36b28f64",
+ "rendicoes": {
+  "png": {
+   "bytes": 39725,
+   "sha256": "12e15edf5cb7056ec02914a9c9259dfc5292f6bfcb604d0f0be438aa3243fc9b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9694,
+   "sha256": "c75272c8a11f2cc4dd587de24f863583edc2266ed995ee3f57fc880faa679f78",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2501302.jpg",
+  "bytes": 6676,
+  "sha256": "6bdeb1f5f254bc747204101b79083f068c2766e8a5fe3672c22c81be36b28f64"
+ },
+ "sha1_origem": "3fc99585f5ab1b21e3d6d84917cf09abd099384f",
+ "bytes_origem": 6676,
+ "capturado_em": "2026-11-08T05:39:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Aroeiras-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "3fc99585f5ab1b21e3d6d84917cf09abd099384f"
+ }
+}

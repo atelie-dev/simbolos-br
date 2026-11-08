@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314209",
+ "uf": "RS",
+ "municipio": "Pedro Osório",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bras%C3%A3o_Pedro_Os%C3%B3rio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pedro Osório",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1ffc6e368915bc7774d859ef6e329f4651e317c2b070203f210a0fdb427fd633",
+ "rendicoes": {
+  "png": {
+   "bytes": 75709,
+   "sha256": "d2469dda5cefbbe685851dfb03fe0322d805ac10f9e45716170bf9eff21ea60d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33312,
+   "sha256": "f5bfa3cdbb54157470b20e522bdba85393ef7a083438a3e27389155c24a44e81",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4314209.png",
+  "bytes": 100084,
+  "sha256": "1ffc6e368915bc7774d859ef6e329f4651e317c2b070203f210a0fdb427fd633"
+ },
+ "sha1_origem": "33b25d5d4e37619f5d80ff4d2ce26cd800c3866f",
+ "bytes_origem": 100084,
+ "capturado_em": "2026-11-08T07:07:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Pedro_Osório.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "33b25d5d4e37619f5d80ff4d2ce26cd800c3866f"
+ }
+}

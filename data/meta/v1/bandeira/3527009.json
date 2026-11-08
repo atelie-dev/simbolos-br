@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3527009",
+ "uf": "SP",
+ "municipio": "Lindóia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bandeira_de_Lind%C3%B3ia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b0dfefb5d800d0dfff056d7c8a0af230b965753647f44237c432f3d921c0238c",
+ "rendicoes": {
+  "png": {
+   "bytes": 43645,
+   "sha256": "f4eae30f1c31b7d0025cd82c93f78ca88d2cdcf6cf6561938e74ca92d125c068",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13844,
+   "sha256": "d718839d24c430e6a868ddd0f5f59fe264f606f0a49a474c96682b7f497235ca",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527009.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3527009.jpg",
+  "bytes": 11710,
+  "sha256": "b0dfefb5d800d0dfff056d7c8a0af230b965753647f44237c432f3d921c0238c"
+ },
+ "sha1_origem": "007ac648979d3a5e7d02fb607f92070cdde4a9d6",
+ "bytes_origem": 11710,
+ "capturado_em": "2026-11-08T06:31:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Lindóia.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:06Z",
+  "estado": "igual",
+  "sha1_commons": "007ac648979d3a5e7d02fb607f92070cdde4a9d6"
+ }
+}

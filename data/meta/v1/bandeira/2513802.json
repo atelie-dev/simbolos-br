@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2513802",
+ "uf": "PB",
+ "municipio": "Santa Teresinha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bandeira_Santa_Terezinha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Santa Terezinha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "149721dfa23d879bc9f1490f8a78128ed93bf502d52b2862af31330eedda9660",
+ "rendicoes": {
+  "png": {
+   "bytes": 70944,
+   "sha256": "8be6982e4e6864cefdb97b72ca76ee7398e0d51edbcfd3cb06a1777b329ca75f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16534,
+   "sha256": "bc4b9752bc7e6764529c2b56b3e3e015a9bc48621182890174f8056892f8fd52",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513802.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513802.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2513802.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2513802.jpg",
+  "bytes": 29151,
+  "sha256": "149721dfa23d879bc9f1490f8a78128ed93bf502d52b2862af31330eedda9660"
+ },
+ "sha1_origem": "bdff0648f2af6d8aa8553042ea8fab75d42f4669",
+ "bytes_origem": 29151,
+ "capturado_em": "2026-11-08T05:43:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Santa_Terezinha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:53Z",
+  "estado": "igual",
+  "sha1_commons": "bdff0648f2af6d8aa8553042ea8fab75d42f4669"
+ }
+}

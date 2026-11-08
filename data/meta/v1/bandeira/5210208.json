@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5210208",
+ "uf": "GO",
+ "municipio": "Iporá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira_de_Ipor%C3%A1%2C_GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Flavio",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1c9a1aa166eac9001ddffe291c327b0f297d4c5ebd5e9a194aa5acfdcbb093b8",
+ "rendicoes": {
+  "png": {
+   "bytes": 40712,
+   "sha256": "9aa63aa1d74a7956aa035d7f824ae8f22a174c6d412085064f879731c4bb4ee7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20316,
+   "sha256": "3d727e378e1cc79244aa68b64deeb83e6f06ed81c2b9c8f7870cb06ad68295f3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210208.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210208.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5210208.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5210208.jpg",
+  "bytes": 325999,
+  "sha256": "1c9a1aa166eac9001ddffe291c327b0f297d4c5ebd5e9a194aa5acfdcbb093b8"
+ },
+ "sha1_origem": "8a477577d8ff6bc3508224c669ef6ee6183b3819",
+ "bytes_origem": 325999,
+ "capturado_em": "2026-11-08T07:18:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Iporá,_GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "8a477577d8ff6bc3508224c669ef6ee6183b3819"
+ }
+}

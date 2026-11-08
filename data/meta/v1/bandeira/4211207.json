@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211207",
+ "uf": "SC",
+ "municipio": "Morro da Fumaça",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bandeira_morrodafumaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Rblaurindo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c7a152c4c9ee0d675b52830872fd3b75fb8fe427b99570d62f1f70df79b9a7b7",
+ "rendicoes": {
+  "png": {
+   "bytes": 62743,
+   "sha256": "be73709ed0a7d45bbed4e2184f5b8422266ef814fcd7125021db261e3bbf3878",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18532,
+   "sha256": "0e37474851b925f54dda65bd43dd77fce17ca1884ec15c06e87866d365362db2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211207.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4211207.jpg",
+  "bytes": 52324,
+  "sha256": "c7a152c4c9ee0d675b52830872fd3b75fb8fe427b99570d62f1f70df79b9a7b7"
+ },
+ "sha1_origem": "583830140de62d6b3e6fff471af9540605871a8c",
+ "bytes_origem": 52324,
+ "capturado_em": "2026-11-08T06:55:06Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_morrodafumaca.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "583830140de62d6b3e6fff471af9540605871a8c"
+ }
+}

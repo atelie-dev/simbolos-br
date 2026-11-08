@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3170404",
+ "uf": "MG",
+ "municipio": "Unaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bandeira_de_Una%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Unaí, MG",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7f326eccc511b937e6cec62cd58040d61e83dccf860f11e3825121b89923c628",
+ "rendicoes": {
+  "png": {
+   "bytes": 111041,
+   "sha256": "e16fe458bd3f27b232ed505cb5c011e995bf70299de4113a49e2d99bed080551",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25572,
+   "sha256": "41bb58fe5940735e2b61c45d27c7b961856fd826d2dcc6d6ecbc0bcfc5abee77",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3170404.jpg",
+  "bytes": 47994,
+  "sha256": "7f326eccc511b937e6cec62cd58040d61e83dccf860f11e3825121b89923c628"
+ },
+ "sha1_origem": "c84aab1ce79de2b4d5927d4be0069a891a24ea93",
+ "bytes_origem": 47994,
+ "capturado_em": "2026-11-08T06:18:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Unaí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "c84aab1ce79de2b4d5927d4be0069a891a24ea93"
+ }
+}

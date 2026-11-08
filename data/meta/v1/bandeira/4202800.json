@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4202800",
+ "uf": "SC",
+ "municipio": "Braço do Norte",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bandeira_de_Bra%C3%A7o_do_Norte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Braço do Norte",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2090b22c1ff4e64ebd26ea472fb0ef2d1a2e01940a82e69b0510fa8cb2653387",
+ "rendicoes": {
+  "png": {
+   "bytes": 31343,
+   "sha256": "99eab2f82c8cead38c4b88f1ce0f30f9d466736275785393dde1691c90656b34",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8766,
+   "sha256": "f720f297728bd3687927ed94f1da83b37a0ee243be8e60c8a47cb2e190d48d8b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4202800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4202800.jpg",
+  "bytes": 4807,
+  "sha256": "2090b22c1ff4e64ebd26ea472fb0ef2d1a2e01940a82e69b0510fa8cb2653387"
+ },
+ "sha1_origem": "3f515694145eca5f7be3259cf9c13ad5cb7fa2ed",
+ "bytes_origem": 4807,
+ "capturado_em": "2026-11-08T06:52:20Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Braço_do_Norte.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:00Z",
+  "estado": "igual",
+  "sha1_commons": "3f515694145eca5f7be3259cf9c13ad5cb7fa2ed"
+ }
+}

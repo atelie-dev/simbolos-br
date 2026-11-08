@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2616407",
+ "uf": "PE",
+ "municipio": "Vitória de Santo Antão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira_vitoria_de_santo_antao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a41e32c1a2cd41170aa9ad11a3153fbeefbd0dbf275a7c17aae55761f3ea60bd",
+ "rendicoes": {
+  "png": {
+   "bytes": 84081,
+   "sha256": "8be8f78be310812445b278f47aac65690819368c85a7774b9263a5b710ea2329",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25235,
+   "sha256": "b0dd7927069860329fa0ddae86125be13a1112004e940c7e83975387cc3e38fe",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2616407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2616407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2616407.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2616407.jpg",
+  "bytes": 71874,
+  "sha256": "a41e32c1a2cd41170aa9ad11a3153fbeefbd0dbf275a7c17aae55761f3ea60bd"
+ },
+ "sha1_origem": "e488e5ef4047c7b74cb57821899a15d58ffcf43c",
+ "bytes_origem": 71874,
+ "capturado_em": "2026-11-08T05:47:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_vitoria_de_santo_antao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "e488e5ef4047c7b74cb57821899a15d58ffcf43c"
+ }
+}

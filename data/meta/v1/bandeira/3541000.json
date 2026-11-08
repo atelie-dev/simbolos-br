@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3541000",
+ "uf": "SP",
+ "municipio": "Praia Grande",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bandeira-Praia_Grande.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "eaf07ad51e323be5a74adb6d4cdf828e2e7ba411329a2628e60f1e2639358d59",
+ "rendicoes": {
+  "png": {
+   "bytes": 14516,
+   "sha256": "377616eff66105c3cc06c9f70300b8e16ef541fc5e27c86cfb1fa7d4697d8ddb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8234,
+   "sha256": "0ccff1d5d998d2ea43d3c627eae00219b8f888de0ce0845f3c087b26bc890546",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3541000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3541000.png",
+  "bytes": 4777,
+  "sha256": "eaf07ad51e323be5a74adb6d4cdf828e2e7ba411329a2628e60f1e2639358d59"
+ },
+ "sha1_origem": "85ef2e36ead006f5dcc21662ed00a6202c4757ec",
+ "bytes_origem": 4777,
+ "capturado_em": "2026-11-08T06:35:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-Praia_Grande.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "85ef2e36ead006f5dcc21662ed00a6202c4757ec"
+ }
+}

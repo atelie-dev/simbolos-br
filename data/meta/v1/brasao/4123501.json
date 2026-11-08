@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4123501",
+ "uf": "PR",
+ "municipio": "Santa Helena",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bras%C3%A3o_de_Santa_Helena_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "22d8ff5ed4120f1e24d056ffd84aedfe134ba8f001f935ad921d91d5ac0adb08",
+ "rendicoes": {
+  "png": {
+   "bytes": 184963,
+   "sha256": "a7435035fb20daf5322297c06314fd2a9559067469fae117e94baf00dc471318",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61379,
+   "sha256": "de7878d78677aac179b6b2c4dda9f204779a1ad9c5a9111e785abdd6a814cacd",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 277314,
+   "sha256": "22d8ff5ed4120f1e24d056ffd84aedfe134ba8f001f935ad921d91d5ac0adb08"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4123501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4123501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4123501.jpg"
+ },
+ "sha1_origem": "d011b3f45a0ee9b2ca00f25d2ba107acd188351e",
+ "bytes_origem": 277314,
+ "capturado_em": "2026-11-08T04:32:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Santa_Helena_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "d011b3f45a0ee9b2ca00f25d2ba107acd188351e"
+ }
+}

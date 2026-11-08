@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1100304",
+ "uf": "RO",
+ "municipio": "Vilhena",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bras%C3%A3o_de_Vilhena_-_RO.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "7aec97fc0fae835ea33def99327e44d7df3a83f6607cfac6dce876c33bcd2372",
+ "rendicoes": {
+  "png": {
+   "bytes": 299393,
+   "sha256": "d5319cfedf1a72c69bb581fe16cf192cee13c291ab54fcb628faaa987553f833",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 89430,
+   "sha256": "a0f96fa8910650a01441ed142468e0b02c9bd8f06ad23bd294d0f5d909472b8d",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 76381,
+   "sha256": "7aec97fc0fae835ea33def99327e44d7df3a83f6607cfac6dce876c33bcd2372"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1100304.jpg"
+ },
+ "sha1_origem": "8f4ab5ef37e1bbe6188bf4dc8ab96333dc67b7e9",
+ "bytes_origem": 76381,
+ "capturado_em": "2026-11-08T02:29:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Vilhena_-_RO.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "8f4ab5ef37e1bbe6188bf4dc8ab96333dc67b7e9"
+ }
+}

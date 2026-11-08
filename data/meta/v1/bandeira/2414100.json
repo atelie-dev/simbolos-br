@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2414100",
+ "uf": "RN",
+ "municipio": "Tenente Ananias",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bandeira_de_Tenente_Ananias_%28RN%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Dirk Schönberger",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "530b788e440675c8e981417f9be715a384eaf821e9aa67627a2110d18f95d555",
+ "rendicoes": {
+  "png": {
+   "bytes": 13080,
+   "sha256": "8a9d28e50e0a7ce796c9e18d58a2652b79f92f91cbca28ee8c30d82ce32d9436",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16072,
+   "sha256": "ca29223a5baa1368431bbc2eb844305b77bda56eef9888d1379377d306c3278d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2414100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2414100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2414100.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2414100.png",
+  "bytes": 13356,
+  "sha256": "530b788e440675c8e981417f9be715a384eaf821e9aa67627a2110d18f95d555"
+ },
+ "sha1_origem": "620ceeb9a8d13d52a0c446d0949ae65eec535399",
+ "bytes_origem": 13356,
+ "capturado_em": "2026-11-08T05:39:14Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Tenente_Ananias_(RN).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "620ceeb9a8d13d52a0c446d0949ae65eec535399"
+ }
+}

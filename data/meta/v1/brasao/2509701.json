@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2509701",
+ "uf": "PB",
+ "municipio": "Monteiro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Brasao_monteiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Monteiro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e6e5ec39b3a4693610c070aac0bb6b5e03caf63593d75ffb095a48f47d493afc",
+ "rendicoes": {
+  "png": {
+   "bytes": 95288,
+   "sha256": "2444f197085997a255c7520af62452c2a57d3ed79d14c228e85634d02622d308",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20220,
+   "sha256": "0533ddf15608dae8bc97c965ffb0d00712d5a405fc11c2899740b1f89eed2fad",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509701.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509701.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2509701.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2509701.jpg",
+  "bytes": 19797,
+  "sha256": "e6e5ec39b3a4693610c070aac0bb6b5e03caf63593d75ffb095a48f47d493afc"
+ },
+ "sha1_origem": "59c9964f0e6eb4ff00e00b5e84ad1b769aa71f6d",
+ "bytes_origem": 19797,
+ "capturado_em": "2026-11-08T05:42:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_monteiro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "59c9964f0e6eb4ff00e00b5e84ad1b769aa71f6d"
+ }
+}

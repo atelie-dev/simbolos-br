@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4317103",
+ "uf": "RS",
+ "municipio": "Sant'Ana do Livramento",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Santana_do_Livramento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Camara de Santana do Livramento",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "53ee333c5f46ac8aa268f5848f5a336ed931c3fc3d2678085ff2f78db1f6a513",
+ "rendicoes": {
+  "png": {
+   "bytes": 36934,
+   "sha256": "be679a841e22bcf1123bd71ea8982b79db649c2b36c9fefc08ce515f9b83aeaf",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13569,
+   "sha256": "8de67aacd86b02c0f6cdc6da17be8b82a91554259d7b49aacc8c6fcffe80ce58",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317103.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317103.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4317103.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4317103.jpg",
+  "bytes": 12721,
+  "sha256": "53ee333c5f46ac8aa268f5848f5a336ed931c3fc3d2678085ff2f78db1f6a513"
+ },
+ "sha1_origem": "d474a1ce59a52b1aaab9d799bff1003c3fc76af0",
+ "bytes_origem": 12721,
+ "capturado_em": "2026-11-08T07:08:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Santana_do_Livramento.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:29Z",
+  "estado": "igual",
+  "sha1_commons": "d474a1ce59a52b1aaab9d799bff1003c3fc76af0"
+ }
+}

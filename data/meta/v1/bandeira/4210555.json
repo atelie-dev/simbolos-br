@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4210555",
+ "uf": "SC",
+ "municipio": "Marema",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bandeira_do_munic%C3%ADpio_de_Marema_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Marema (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e247657f0c6231df70e379d998b576f935595e854d29ecb48143013f5a880dd3",
+ "rendicoes": {
+  "png": {
+   "bytes": 53871,
+   "sha256": "55d185326e343b17a51088b40cdeb78d454da89946996050e531850dcf3e26f9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27162,
+   "sha256": "83998eb9b343623ebe92f1f9b5c8b3a9f383a51111dcab25f1a6d7b46da4d14f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210555.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210555.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210555.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4210555.png",
+  "bytes": 1619376,
+  "sha256": "e247657f0c6231df70e379d998b576f935595e854d29ecb48143013f5a880dd3"
+ },
+ "sha1_origem": "826ed8e61d088660209e7590cd9afcdb9ff64eab",
+ "bytes_origem": 1619376,
+ "capturado_em": "2026-11-08T06:54:53Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Marema_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "826ed8e61d088660209e7590cd9afcdb9ff64eab"
+ }
+}

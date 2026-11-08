@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4208401",
+ "uf": "SC",
+ "municipio": "Itapiranga",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Brasao_itapiranga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f1f6874f02a2a8e4e13a3351cfccfe5e25b9cc32a380c5b5bc5ccd66841919ef",
+ "rendicoes": {
+  "png": {
+   "bytes": 155902,
+   "sha256": "4f9204323e7a0caa51feeee049f24b29ae089336cdf7a364b24b62cd8d4a8550",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34872,
+   "sha256": "23abb7421afe9336ab2478726405ece4612de8414b9775ebf62325459208e71c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4208401.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4208401.jpg",
+  "bytes": 35459,
+  "sha256": "f1f6874f02a2a8e4e13a3351cfccfe5e25b9cc32a380c5b5bc5ccd66841919ef"
+ },
+ "sha1_origem": "62e46f85268760cbdd0899be4302cd45cb522798",
+ "bytes_origem": 35459,
+ "capturado_em": "2026-11-08T06:54:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_itapiranga.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:38Z",
+  "estado": "igual",
+  "sha1_commons": "62e46f85268760cbdd0899be4302cd45cb522798"
+ }
+}

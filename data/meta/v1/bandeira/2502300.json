@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2502300",
+ "uf": "PB",
+ "municipio": "Bom Sucesso",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bandeira_de_Bom_Sucesso-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "e536716a17a0492966dafbd96bb0c5cb7920c4227fcbb5e99b70de42e5ac9b49",
+ "rendicoes": {
+  "png": {
+   "bytes": 51663,
+   "sha256": "307f8d67584bc2b9335f81fc921e01f057f7b3ede793e28c58800173a70e7e39",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19845,
+   "sha256": "1be9146776dcdc58033bf7285a9f71902f450610af79a2331ee98b29cd0034d8",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 147035,
+   "sha256": "e536716a17a0492966dafbd96bb0c5cb7920c4227fcbb5e99b70de42e5ac9b49"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2502300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2502300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2502300.jpg"
+ },
+ "sha1_origem": "600c6ad38fb4afb7cbf5c37a437875b4aeb27753",
+ "bytes_origem": 147035,
+ "capturado_em": "2026-11-08T02:56:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bom_Sucesso-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "600c6ad38fb4afb7cbf5c37a437875b4aeb27753"
+ }
+}

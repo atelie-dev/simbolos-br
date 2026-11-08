@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2202711",
+ "uf": "PI",
+ "municipio": "Cocal de Telha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bandeira_de_Cocal_de_Telha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Município de Cocal de Telha",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5c39c8fbeec686c1caa0ba6f5cdb6380e7fe7774be6b4f50f018c80f2e1b6da6",
+ "rendicoes": {
+  "png": {
+   "bytes": 69732,
+   "sha256": "ad1e7bb707eaadd3b76d09cdf9d88b738ca067bf619bfe795976993b861dde5f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20589,
+   "sha256": "b8831b62b7df1189c5dce62c9eea1dbf108480275082b452c95535dba2e1efee",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2202711.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2202711.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2202711.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2202711.jpg",
+  "bytes": 115664,
+  "sha256": "5c39c8fbeec686c1caa0ba6f5cdb6380e7fe7774be6b4f50f018c80f2e1b6da6"
+ },
+ "sha1_origem": "6242155f70584dc493401b2c19580aaaee9444d1",
+ "bytes_origem": 115664,
+ "capturado_em": "2026-11-08T05:30:02Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cocal_de_Telha.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "6242155f70584dc493401b2c19580aaaee9444d1"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4115705",
+ "uf": "PR",
+ "municipio": "Matinhos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bandeira_Matinhos%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Matinhos",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f293e50f47a567907d41a512d175497e475d5e174bf7182fc878a7db52ece07d",
+ "rendicoes": {
+  "png": {
+   "bytes": 73605,
+   "sha256": "f3314c20cdd9bcfd4cb844d497b6dc51b587f87c6fdc1f0ccddcf721cb001376",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36646,
+   "sha256": "729e73a5a707558f96b3fd9862affdd7a5116fbbb0ca789c05f90fd66ea379ef",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115705.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115705.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4115705.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4115705.jpg",
+  "bytes": 565062,
+  "sha256": "f293e50f47a567907d41a512d175497e475d5e174bf7182fc878a7db52ece07d"
+ },
+ "sha1_origem": "e6ac11c0fba2ffcc7f5134ad494b744642e20639",
+ "bytes_origem": 565062,
+ "capturado_em": "2026-11-08T06:46:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Matinhos,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "e6ac11c0fba2ffcc7f5134ad494b744642e20639"
+ }
+}

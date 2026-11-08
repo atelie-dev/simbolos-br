@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3111002",
+ "uf": "MG",
+ "municipio": "Campestre",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Campestremgbandeira.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Campestre",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9ce104074c08948d226e702ff8d97ffc76325212d2435058bb52e7173fd953ce",
+ "rendicoes": {
+  "png": {
+   "bytes": 16051,
+   "sha256": "bf8c595bf7884f73cf1d6d261cdf11b935a6bf62c415c22b9d0b7e8ac40ac48c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7466,
+   "sha256": "97ef3038f43db3c1b23eb479d134e330489be6b75130f9d3a323a4f8f975f141",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3111002.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3111002.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3111002.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3111002.png",
+  "bytes": 5220,
+  "sha256": "9ce104074c08948d226e702ff8d97ffc76325212d2435058bb52e7173fd953ce"
+ },
+ "sha1_origem": "ff9521b86f4b4c1ace141ac93796529984ae48d3",
+ "bytes_origem": 5220,
+ "capturado_em": "2026-11-08T06:02:00Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Campestremgbandeira.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "ff9521b86f4b4c1ace141ac93796529984ae48d3"
+ }
+}

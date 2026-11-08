@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2930402",
+ "uf": "BA",
+ "municipio": "Serra Preta",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bras%C3%A3o_de_Serra_Preta.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Serra Preta",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6bf11bd042d93d02d1e1d43b14de083a2334ca705fd8ecfe6982fb3a0c13114a",
+ "rendicoes": {
+  "png": {
+   "bytes": 46511,
+   "sha256": "389c77bc308058af73bcef84d510d6bbfd05b57f9f0b5a0626fae14bd32c2b06",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12342,
+   "sha256": "f18ee5051d5c6fa2256baa5d7e93df8f05778cb655337bb40a1bc9418bbdae11",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2930402.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2930402.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2930402.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2930402.png",
+  "bytes": 39487,
+  "sha256": "6bf11bd042d93d02d1e1d43b14de083a2334ca705fd8ecfe6982fb3a0c13114a"
+ },
+ "sha1_origem": "d1ebf036f0ffde54b3cfa07e4101566184c33730",
+ "bytes_origem": 39487,
+ "capturado_em": "2026-11-08T05:57:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Serra_Preta.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "d1ebf036f0ffde54b3cfa07e4101566184c33730"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2801603",
+ "uf": "SE",
+ "municipio": "Cedro de São João",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Flag_of_Cedro_de_S%C3%A3o_Jo%C3%A3o.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Blackcat",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "83a04496275511a8b839085dd5538ad003f4c60195289a2f820b6f67c13648ed",
+ "rendicoes": {
+  "png": {
+   "bytes": 15021,
+   "sha256": "06ac81c90e1c4c90e5f6b87f87b6dc4fdbf774a86b6462a84b49b19019c74ae6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11517,
+   "sha256": "8e60ff7252c955ab742d53ce649d89eab051201de3570c3db2f9130e11f83b9c",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 597,
+   "sha256": "83a04496275511a8b839085dd5538ad003f4c60195289a2f820b6f67c13648ed"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2801603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2801603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2801603.jpg"
+ },
+ "sha1_origem": "81db5e4384eaa3943f6f02bc997ba40f0a57dcd5",
+ "bytes_origem": 597,
+ "capturado_em": "2026-11-08T03:12:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Flag_of_Cedro_de_São_João.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:27Z",
+  "estado": "igual",
+  "sha1_commons": "81db5e4384eaa3943f6f02bc997ba40f0a57dcd5"
+ }
+}

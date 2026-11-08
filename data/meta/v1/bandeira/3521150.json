@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3521150",
+ "uf": "SP",
+ "municipio": "Ipiguá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bandeira_ipigua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Tiello67",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0b647f88468aa227363f000efc7087056876c5030fbd5e337fd73a3fd83e5078",
+ "rendicoes": {
+  "png": {
+   "bytes": 35915,
+   "sha256": "cd115d20c4c4db9ed1bf56996b8e588b20a9abec31b92cd3ec55f984d73bc00f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14351,
+   "sha256": "cbb5c6960848955572899e46ff49cdea1da1ef8de2ef1b321997af42c3c7111f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521150.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521150.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3521150.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3521150.jpg",
+  "bytes": 41499,
+  "sha256": "0b647f88468aa227363f000efc7087056876c5030fbd5e337fd73a3fd83e5078"
+ },
+ "sha1_origem": "f5340ecdc8901d898ddf98f7fcaf34d037503b64",
+ "bytes_origem": 41499,
+ "capturado_em": "2026-11-08T06:29:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_ipigua.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "f5340ecdc8901d898ddf98f7fcaf34d037503b64"
+ }
+}

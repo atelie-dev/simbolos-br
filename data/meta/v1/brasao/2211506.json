@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2211506",
+ "uf": "PI",
+ "municipio": "Vera Mendes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bras%C3%A3o_de_Vera_Mendes_PI.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Vera Mendes",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "51447e5b7c22eaf8197349a7dddf1ff6350d0afbb18d5cbae77c91b2a352e8bc",
+ "rendicoes": {
+  "png": {
+   "bytes": 64699,
+   "sha256": "79a1280731f9ff2a0dd0dda7389a634ace835c89b501d891035bdd012703a93e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11910,
+   "sha256": "fadb5202ccb2a6ca889e1850024a8e211fa0f79b65a3f39b7d39617fc0c94908",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2211506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2211506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2211506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2211506.png",
+  "bytes": 58672,
+  "sha256": "51447e5b7c22eaf8197349a7dddf1ff6350d0afbb18d5cbae77c91b2a352e8bc"
+ },
+ "sha1_origem": "4fbe78b25ddf09c915838e207b106bf3d89731db",
+ "bytes_origem": 58672,
+ "capturado_em": "2026-11-08T05:31:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Vera_Mendes_PI.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:14Z",
+  "estado": "igual",
+  "sha1_commons": "4fbe78b25ddf09c915838e207b106bf3d89731db"
+ }
+}

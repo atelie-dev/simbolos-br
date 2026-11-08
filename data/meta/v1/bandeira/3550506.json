@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3550506",
+ "uf": "SP",
+ "municipio": "São Pedro do Turvo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bandeira_de_S%C3%A3o_Pedro_do_Turvo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Pedro do Turvo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "48a579d725bf40267f5e7e037fa5a2412226c4af18c3162de12b7fe3753b035b",
+ "rendicoes": {
+  "png": {
+   "bytes": 232828,
+   "sha256": "682910b4ab7cfe856863a4588516c7317ec9472d7eafe8bf64dc485b5af8d697",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27352,
+   "sha256": "7b857e69a3fed45f6c65f3e5d26a85599a4db525e921bfc6551b18351c4a54ae",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3550506.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3550506.jpg",
+  "bytes": 119191,
+  "sha256": "48a579d725bf40267f5e7e037fa5a2412226c4af18c3162de12b7fe3753b035b"
+ },
+ "sha1_origem": "f04a23e1fad5b10e8ba05a93f84a031eb85fbde6",
+ "bytes_origem": 119191,
+ "capturado_em": "2026-11-08T06:38:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Pedro_do_Turvo.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:14Z",
+  "estado": "igual",
+  "sha1_commons": "f04a23e1fad5b10e8ba05a93f84a031eb85fbde6"
+ }
+}

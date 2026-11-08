@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3151008",
+ "uf": "MG",
+ "municipio": "Piranguinho",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Brasao_pir1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c0bcc74433f3bd298f0b1c2997f5ccfb668ad934f1fb0c8aca1560ebda60a19a",
+ "rendicoes": {
+  "png": {
+   "bytes": 206963,
+   "sha256": "bd972c76e0b6c6eebba828b5243d0fd0f75a5b365737244a0c3b608e53baa33f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45613,
+   "sha256": "1aa89cb3193e5cf4773247ec2ff298fdf0f51d41a9681b1f0682719fb62817e4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3151008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3151008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3151008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3151008.jpg",
+  "bytes": 47832,
+  "sha256": "c0bcc74433f3bd298f0b1c2997f5ccfb668ad934f1fb0c8aca1560ebda60a19a"
+ },
+ "sha1_origem": "6d4fe400acd0d05cfe974b558ff59fd08aa4676d",
+ "bytes_origem": 47832,
+ "capturado_em": "2026-11-08T06:13:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_pir1.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:40Z",
+  "estado": "igual",
+  "sha1_commons": "6d4fe400acd0d05cfe974b558ff59fd08aa4676d"
+ }
+}

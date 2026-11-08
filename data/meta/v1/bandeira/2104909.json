@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2104909",
+ "uf": "MA",
+ "municipio": "Guimarães",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira-guimaraesma.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Guimarães City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "be925298df9eb69147757be2a45cceb40c2164382cc35f8aaf5632371f37969a",
+ "rendicoes": {
+  "png": {
+   "bytes": 25406,
+   "sha256": "de5c1034a2ee54f2ccb996a90dbff40008c2279bea9fcee4b5d5265864213a43",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10486,
+   "sha256": "c1225ca679cba93a3376a0f924ef58e5ec3977ebd4dea91dcafe41ee86aef64c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2104909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2104909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2104909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2104909.png",
+  "bytes": 25009,
+  "sha256": "be925298df9eb69147757be2a45cceb40c2164382cc35f8aaf5632371f37969a"
+ },
+ "sha1_origem": "1d945e1be0c3a495d5b3397c6b0060077ef66b79",
+ "bytes_origem": 25009,
+ "capturado_em": "2026-11-08T05:28:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-guimaraesma.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:39Z",
+  "estado": "igual",
+  "sha1_commons": "1d945e1be0c3a495d5b3397c6b0060077ef66b79"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3527405",
+ "uf": "SP",
+ "municipio": "Lucélia",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bras%C3%A3o_de_Luc%C3%A9lia_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5d18231e4ca16ee92a8cc217a79484fb34fe84c411d77ecd6727b0faec765fbb",
+ "rendicoes": {
+  "png": {
+   "bytes": 201088,
+   "sha256": "5112ffefb7b395ba04d1735ee38513e6ec579ea6135e68844138a6948910bb28",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 70060,
+   "sha256": "665ba62dc502438643253ff2fffbe300f3895dc09a571fe48021e034f83e1cc7",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 365172,
+   "sha256": "5d18231e4ca16ee92a8cc217a79484fb34fe84c411d77ecd6727b0faec765fbb"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3527405.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3527405.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3527405.jpg"
+ },
+ "sha1_origem": "4a2d028151fb139926495986b35bf663e0545b22",
+ "bytes_origem": 365172,
+ "capturado_em": "2026-11-08T04:07:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Lucélia_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:05Z",
+  "estado": "igual",
+  "sha1_commons": "4a2d028151fb139926495986b35bf663e0545b22"
+ }
+}

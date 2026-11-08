@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3530102",
+ "uf": "SP",
+ "municipio": "Mirandópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bras%C3%A3o_Mirandopolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Mirandópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1049e8d90cb5a9e97952df023a652607bf7ad83c5253588097df47ae8e56d451",
+ "rendicoes": {
+  "png": {
+   "bytes": 35356,
+   "sha256": "9301d23f218b3c53dec49873ffaa22a1064433ac362e1281c5784eb381d78a9c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10168,
+   "sha256": "b74ca941ab5779ef10e43ab4b19ef70a50cf8a79cfa19bb3426b083e8317fb66",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3530102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3530102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3530102.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3530102.jpg",
+  "bytes": 7483,
+  "sha256": "1049e8d90cb5a9e97952df023a652607bf7ad83c5253588097df47ae8e56d451"
+ },
+ "sha1_origem": "a6b5c8575977acb615ecbe9cfab4dfee6a957114",
+ "bytes_origem": 7483,
+ "capturado_em": "2026-11-08T06:32:04Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Mirandopolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:51Z",
+  "estado": "igual",
+  "sha1_commons": "a6b5c8575977acb615ecbe9cfab4dfee6a957114"
+ }
+}

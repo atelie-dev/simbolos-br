@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4216008",
+ "uf": "SC",
+ "municipio": "São Carlos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bandeira_de_S%C3%A3o_Carlos-SC_120_X_84.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Nahyra Cobs",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dd42456d4aa64a6a6aed3b1d158a616cbc7ee2514571f85ebb13da340ac3a3c9",
+ "rendicoes": {
+  "png": {
+   "bytes": 15959,
+   "sha256": "b548da1a28eb57e37d1197cffd26c49b93d7e57762c99756e0e7b6a8a1a44099",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11638,
+   "sha256": "1791ea61a9a6c64042a79ea19a4f052a583dcee4ef76e5be333f8bf83afb8195",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216008.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216008.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216008.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4216008.jpg",
+  "bytes": 1577645,
+  "sha256": "dd42456d4aa64a6a6aed3b1d158a616cbc7ee2514571f85ebb13da340ac3a3c9"
+ },
+ "sha1_origem": "6b24b4c9395bfb10d39ba85ba0c1f25dce4efb01",
+ "bytes_origem": 1577645,
+ "capturado_em": "2026-11-08T06:56:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Carlos-SC_120_X_84.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "6b24b4c9395bfb10d39ba85ba0c1f25dce4efb01"
+ }
+}

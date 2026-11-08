@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3501400",
+ "uf": "SP",
+ "municipio": "Álvaro de Carvalho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bandeira_%C3%81lvaro_de_Carvalho.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a062da947b187a8ef9804e875e6839b5caaaa67e7852bb373c4ce0e5c918d804",
+ "rendicoes": {
+  "png": {
+   "bytes": 23192,
+   "sha256": "0c20273feb736dc06112a31dc42daf5afe1ff59692b2623a48806445895308ac",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8980,
+   "sha256": "596fc03388868e1f8f82122989c1fc178855a46fe164ef2ed92795db5742ff3d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501400.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501400.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3501400.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3501400.png",
+  "bytes": 23175,
+  "sha256": "a062da947b187a8ef9804e875e6839b5caaaa67e7852bb373c4ce0e5c918d804"
+ },
+ "sha1_origem": "fd1324d10e36e5aad2774b7b11ed1a2b8a4f8e39",
+ "bytes_origem": 23175,
+ "capturado_em": "2026-11-08T06:23:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Álvaro_de_Carvalho.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:24Z",
+  "estado": "igual",
+  "sha1_commons": "fd1324d10e36e5aad2774b7b11ed1a2b8a4f8e39"
+ }
+}

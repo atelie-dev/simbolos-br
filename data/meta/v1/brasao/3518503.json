@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3518503",
+ "uf": "SP",
+ "municipio": "Guareí",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bras%C3%A3o_Guare%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "aee1368b6ec9a3b75e98a6f4d20dbdbd1dbf10c551c59fb8fec1e5da8c8cc3de",
+ "rendicoes": {
+  "png": {
+   "bytes": 174405,
+   "sha256": "d90aa292b26f531b3f4bc502dfec1bbd4ec11fe1549669673bd4c2ef51340dbe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34130,
+   "sha256": "7403ea714470ad62efea7f892303c9811365971712f168ec99697e3fe37c3ecc",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3518503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3518503.jpg",
+  "bytes": 38736,
+  "sha256": "aee1368b6ec9a3b75e98a6f4d20dbdbd1dbf10c551c59fb8fec1e5da8c8cc3de"
+ },
+ "sha1_origem": "37f9a8ebf89c134be926f1ee5d280606b808ea03",
+ "bytes_origem": 38736,
+ "capturado_em": "2026-11-08T06:28:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Guareí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "37f9a8ebf89c134be926f1ee5d280606b808ea03"
+ }
+}

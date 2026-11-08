@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3553005",
+ "uf": "SP",
+ "municipio": "Taguaí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bandeira_Tagua%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Matheusitai26",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "57a1dc05268693e119fa5f4d375e36d969fe97edd6c1c7d36a6145045cd42725",
+ "rendicoes": {
+  "png": {
+   "bytes": 23036,
+   "sha256": "f2838c5cb2207e6fcef532fe34b47ffe810794946f070a70778616b17ac52531",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11767,
+   "sha256": "70219ac6eb09d4e280e56e1a61df12f9e8da5576b5a44b0b44fdfe258d67890b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3553005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3553005.jpg",
+  "bytes": 23075,
+  "sha256": "57a1dc05268693e119fa5f4d375e36d969fe97edd6c1c7d36a6145045cd42725"
+ },
+ "sha1_origem": "a1690cf27834759afc700639c36ffa83491dc5da",
+ "bytes_origem": 23075,
+ "capturado_em": "2026-11-08T06:39:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Taguaí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "a1690cf27834759afc700639c36ffa83491dc5da"
+ }
+}

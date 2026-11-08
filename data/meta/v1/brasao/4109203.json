@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4109203",
+ "uf": "PR",
+ "municipio": "Guaraci",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bras%C3%A3o_Guaraci_PR.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura Municipal de Guaraci - PR",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d020ae1c036c236db095ab7b79fc66400147acbb465c7efa732386729bd30b62",
+ "rendicoes": {
+  "png": {
+   "bytes": 175155,
+   "sha256": "55339c34c6b6b6cd1a6d56160840f5e57b41044790341aad3e1aed09292ead8c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34598,
+   "sha256": "5505e40404237b1911f68a2cdc05ef4ef88cf741f74100272c8592da96bdaf9e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4109203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4109203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4109203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4109203.png",
+  "bytes": 193943,
+  "sha256": "d020ae1c036c236db095ab7b79fc66400147acbb465c7efa732386729bd30b62"
+ },
+ "sha1_origem": "a53ceb1488abff85663e32eb1ff05c4cd49bf70f",
+ "bytes_origem": 193943,
+ "capturado_em": "2026-11-08T06:44:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Guaraci_PR.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:49Z",
+  "estado": "igual",
+  "sha1_commons": "a53ceb1488abff85663e32eb1ff05c4cd49bf70f"
+ }
+}

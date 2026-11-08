@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4110201",
+ "uf": "PR",
+ "municipio": "Inácio Martins",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bandeira_de_In%C3%A1cio_Martins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Qwertasdf",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8f91249494ec0306afa3f3499e0d6c84ef64c75d4c71844fbca9db08898ea3f0",
+ "rendicoes": {
+  "png": {
+   "bytes": 68307,
+   "sha256": "e12756e4477fc8880e776f0b69b1614df4277d6fdaa0c620ece1cb8e4b484b53",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18984,
+   "sha256": "f0f3c6e436491a525253fb43f24cde9de586f1b5c74e21818f0e2a9230472699",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4110201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4110201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4110201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4110201.jpg",
+  "bytes": 89204,
+  "sha256": "8f91249494ec0306afa3f3499e0d6c84ef64c75d4c71844fbca9db08898ea3f0"
+ },
+ "sha1_origem": "ab76120ae4e2c85733362de1cc525c5be391fc39",
+ "bytes_origem": 89204,
+ "capturado_em": "2026-11-08T06:44:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Inácio_Martins.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "ab76120ae4e2c85733362de1cc525c5be391fc39"
+ }
+}

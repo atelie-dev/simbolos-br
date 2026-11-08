@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3543253",
+ "uf": "SP",
+ "municipio": "Ribeirão Grande",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ribeir%C3%A3o_Grande_CoatOfArms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d6b3cdddb930da56f89a23cb4c1bdcd211590863824f6b9c240caca3f770dad0",
+ "rendicoes": {
+  "png": {
+   "bytes": 128868,
+   "sha256": "134aeaa72ba0e5184483231a7188811b7203396aeba2278c1186ed02a10ad430",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27373,
+   "sha256": "270b7896672ef02a4a4096e745621590d7574d0d7a7415237714b8bd6f1239da",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3543253.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3543253.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3543253.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3543253.jpg",
+  "bytes": 63443,
+  "sha256": "d6b3cdddb930da56f89a23cb4c1bdcd211590863824f6b9c240caca3f770dad0"
+ },
+ "sha1_origem": "892e53c0d3aeacf412aed4da64e3133206da2396",
+ "bytes_origem": 63443,
+ "capturado_em": "2026-11-08T06:36:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Ribeirão_Grande_CoatOfArms.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "892e53c0d3aeacf412aed4da64e3133206da2396"
+ }
+}

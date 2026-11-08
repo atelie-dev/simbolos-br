@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2927408",
+ "uf": "BA",
+ "municipio": "Salvador",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bandeira_de_Salvador.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c153463cdc9c07bc04cbfa7337a9960317a6ebe55acc1fb95d0c514ca7a7fabe",
+ "rendicoes": {
+  "png": {
+   "bytes": 33598,
+   "sha256": "38b07de5c08af57162dd97cce57d277cbbd687d4665f83fc50102432ee2d1432",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15757,
+   "sha256": "46e2648d414753018f7fcd0e0f96374801a2cde2c5409db0ededb1ce1af0f51a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 16756,
+   "sha256": "c153463cdc9c07bc04cbfa7337a9960317a6ebe55acc1fb95d0c514ca7a7fabe"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2927408.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2927408.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2927408.jpg"
+ },
+ "sha1_origem": "113047fefaddb808b90662c5dc3beb832df11181",
+ "bytes_origem": 16756,
+ "capturado_em": "2026-11-08T03:22:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Salvador.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:11Z",
+  "estado": "igual",
+  "sha1_commons": "113047fefaddb808b90662c5dc3beb832df11181"
+ }
+}

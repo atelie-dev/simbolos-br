@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3503505",
+ "uf": "SP",
+ "municipio": "Areias",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Areias_brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6f779568fa5902d6ebd8c06412344b6c77d09e520ea8de85284b072c92a8045c",
+ "rendicoes": {
+  "png": {
+   "bytes": 29390,
+   "sha256": "18031c6aeebc116810918eea64ce3e5450f43822b2cf8f9a55bfa8b0ee6a2565",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13074,
+   "sha256": "76cd1fe0de5677645d5da326dc2b3fc77963af209484fd43aa67602b267d144f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503505.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503505.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3503505.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3503505.png",
+  "bytes": 11429,
+  "sha256": "6f779568fa5902d6ebd8c06412344b6c77d09e520ea8de85284b072c92a8045c"
+ },
+ "sha1_origem": "30ce0fa4da78774f1d7984541e0180acadc638dc",
+ "bytes_origem": 11429,
+ "capturado_em": "2026-11-08T06:23:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Areias_brasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:35Z",
+  "estado": "igual",
+  "sha1_commons": "30ce0fa4da78774f1d7984541e0180acadc638dc"
+ }
+}

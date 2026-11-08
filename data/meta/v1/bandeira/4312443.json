@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4312443",
+ "uf": "RS",
+ "municipio": "Morrinhos do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Morrinhos_do_Sulbandeirars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Morrinhos do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8f9f20ace1897ac90de5337f7111aa551eb6106ef8731c767a9aa28401701e97",
+ "rendicoes": {
+  "png": {
+   "bytes": 65454,
+   "sha256": "b073f24f34639b45986cbabc101cded43971ceb113b46d6248b414cb97a8087f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16555,
+   "sha256": "5be9f99ae2d93fef4cb0c8c86ca987677450ef22df7862c43cb092d9141a67ce",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312443.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312443.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4312443.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4312443.jpg",
+  "bytes": 13673,
+  "sha256": "8f9f20ace1897ac90de5337f7111aa551eb6106ef8731c767a9aa28401701e97"
+ },
+ "sha1_origem": "42bbee77074b072a8fe5cab1fd327ee9945b5b5b",
+ "bytes_origem": 13673,
+ "capturado_em": "2026-11-08T07:05:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Morrinhos_do_Sulbandeirars.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:33Z",
+  "estado": "igual",
+  "sha1_commons": "42bbee77074b072a8fe5cab1fd327ee9945b5b5b"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5005004",
+ "uf": "MS",
+ "municipio": "Jardim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bandeira_jardim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Jardim-MS",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "14a4225315bc313024cd7b156a748fc03581f1dc248aaf84b9eea29c8ef5ea20",
+ "rendicoes": {
+  "png": {
+   "bytes": 32424,
+   "sha256": "556e99b1185130ab5e2584125401881732a4cd155bc40b992ba585d02fb2dbd2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12648,
+   "sha256": "96b2812d6db92d6430fc34e127ae4c69c66ea14948fc1aad2d77618889e63cdf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5005004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5005004.jpg",
+  "bytes": 8883,
+  "sha256": "14a4225315bc313024cd7b156a748fc03581f1dc248aaf84b9eea29c8ef5ea20"
+ },
+ "sha1_origem": "57a5df5867ad8a0bd86b3e6e0107656f48e9228f",
+ "bytes_origem": 8883,
+ "capturado_em": "2026-11-08T07:13:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_jardim.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "57a5df5867ad8a0bd86b3e6e0107656f48e9228f"
+ }
+}

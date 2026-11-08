@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5001508",
+ "uf": "MS",
+ "municipio": "Bandeirantes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bandeira_de_Bandeirantes%2C_MS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Paulo Higa",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5623b3c19929add60cc670af6a2f7d7623cea186c95ac4fde4a37a51b9a6c3b4",
+ "rendicoes": {
+  "png": {
+   "bytes": 25423,
+   "sha256": "6cd99a4469dfe1e59c6d1db52eb9a85abe78f1b98f041981897db43511ded2b1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14251,
+   "sha256": "76085ab0e34094afb8478a78a82f499f1d190a229320ac37888a244219d36b72",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5001508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5001508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5001508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5001508.png",
+  "bytes": 229656,
+  "sha256": "5623b3c19929add60cc670af6a2f7d7623cea186c95ac4fde4a37a51b9a6c3b4"
+ },
+ "sha1_origem": "bbb43909463717f96a64aa41dcfb5dbcb3a55cd9",
+ "bytes_origem": 229656,
+ "capturado_em": "2026-11-08T07:12:24Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Bandeirantes,_MS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "bbb43909463717f96a64aa41dcfb5dbcb3a55cd9"
+ }
+}

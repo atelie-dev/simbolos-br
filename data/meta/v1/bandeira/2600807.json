@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2600807",
+ "uf": "PE",
+ "municipio": "Altinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bandeira_Altinho.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "2642c2c8f75dbeb53e514b441f46bd94bb488a7748f6f1e077733dfe11e9e2bb",
+ "rendicoes": {
+  "png": {
+   "bytes": 3663,
+   "sha256": "aaedddaafb671fe01351b55e421bfd3a7b1a448df4b40c6be150286b5e5aac3b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11941,
+   "sha256": "40f1c4bf619822db1658e878bf5d93d021f2a90ef6c79ae93e28a18cade76132",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 3763,
+   "sha256": "2642c2c8f75dbeb53e514b441f46bd94bb488a7748f6f1e077733dfe11e9e2bb"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2600807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2600807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2600807.jpg"
+ },
+ "sha1_origem": "2c0eefd45f09cf8607409eb2ea67a80d8c9e679b",
+ "bytes_origem": 3763,
+ "capturado_em": "2026-11-08T03:03:54Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Altinho.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "2c0eefd45f09cf8607409eb2ea67a80d8c9e679b"
+ }
+}

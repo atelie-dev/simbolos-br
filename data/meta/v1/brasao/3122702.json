@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3122702",
+ "uf": "MG",
+ "municipio": "Dom Silvério",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bras%C3%A3o_de_Dom_Silv%C3%A9rio%2C_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b495c3a133b692113d2fad49fa4ec677748e1e9c6a503775beb0b07c7547d08e",
+ "rendicoes": {
+  "png": {
+   "bytes": 279079,
+   "sha256": "4a6a857dc82a14d8648df331c04f9d7d893973bbd787cdcdcaadb25fc4527dd5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56917,
+   "sha256": "e3102e03a22469c0613f56d0a917c004080fb6a60c1ff98f6c5f6b46d850a21f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3122702.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3122702.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3122702.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3122702.jpg",
+  "bytes": 53979,
+  "sha256": "b495c3a133b692113d2fad49fa4ec677748e1e9c6a503775beb0b07c7547d08e"
+ },
+ "sha1_origem": "a52d718120a222320acd8c305bb7669aa1db579e",
+ "bytes_origem": 53979,
+ "capturado_em": "2026-11-08T06:06:10Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Dom_Silvério,_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "a52d718120a222320acd8c305bb7669aa1db579e"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4102604",
+ "uf": "PR",
+ "municipio": "Barracão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bandeira_de_Barrac%C3%A3o%2C_PR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4aa808e006d7bf4bd71e9d23142c324314a87299dfc6882bacc4702a2d5ff0c9",
+ "rendicoes": {
+  "png": {
+   "bytes": 118945,
+   "sha256": "3af47a77f37a46cc8f56ba274c71cd8bfe37f4f5a0389c8732797b13540a67c1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27931,
+   "sha256": "130fff1ee0e28e2444c73a7b3de60773d0b4ee1449be0c745d737faab0c73713",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4102604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4102604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4102604.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4102604.jpg",
+  "bytes": 77769,
+  "sha256": "4aa808e006d7bf4bd71e9d23142c324314a87299dfc6882bacc4702a2d5ff0c9"
+ },
+ "sha1_origem": "d8256c54efba38480a59d1f271219727258b150b",
+ "bytes_origem": 77769,
+ "capturado_em": "2026-11-08T06:41:39Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Barracão,_PR.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "d8256c54efba38480a59d1f271219727258b150b"
+ }
+}

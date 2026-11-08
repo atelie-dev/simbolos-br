@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3541000",
+ "uf": "SP",
+ "municipio": "Praia Grande",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bras%C3%A3o_do_munic%C3%ADpio_de_Praia_Grande%2C_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Henrique3d",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0c71f07fb4fd56dad4b8d4c24d1e10188b4db8967b3d66387a50c0ad174cb960",
+ "rendicoes": {
+  "png": {
+   "bytes": 227219,
+   "sha256": "cb332af831028658d987799eaba7dde1ba2fccb7984e0385674964ac4f154f0f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61571,
+   "sha256": "aad11dbdf1825ef2325aa45194ed518bf311dbc443d57d7e3e2cbf8bc3611526",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 593560,
+   "sha256": "0c71f07fb4fd56dad4b8d4c24d1e10188b4db8967b3d66387a50c0ad174cb960"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3541000.jpg"
+ },
+ "sha1_origem": "57a5a3ec43814f931e427c1a2dfd44be0859d8ec",
+ "bytes_origem": 593560,
+ "capturado_em": "2026-11-08T04:13:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_do_município_de_Praia_Grande,_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:17Z",
+  "estado": "igual",
+  "sha1_commons": "57a5a3ec43814f931e427c1a2dfd44be0859d8ec"
+ }
+}

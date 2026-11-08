@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4321329",
+ "uf": "RS",
+ "municipio": "Taquaruçu do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Taquaru%C3%A7u_do_Sulrsbandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Taquaruçu do Sul",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "69e52461d95474b7ccbb528a203008bf7a6ddfa41880c363d12482b51d2f94bd",
+ "rendicoes": {
+  "png": {
+   "bytes": 72969,
+   "sha256": "3a4795ab56b04a285733f89b4d46a4766d8ea1c4937f9bf61bd84ee09125c34b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13740,
+   "sha256": "1ed01f6972903e41287ca021e34a9edd4d2747ee5f0020aea11321314f910360",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321329.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321329.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4321329.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4321329.jpg",
+  "bytes": 8535,
+  "sha256": "69e52461d95474b7ccbb528a203008bf7a6ddfa41880c363d12482b51d2f94bd"
+ },
+ "sha1_origem": "a6ef5d877bcd12dc9893ff8784932fc192e53d41",
+ "bytes_origem": 8535,
+ "capturado_em": "2026-11-08T07:10:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Taquaruçu_do_Sulrsbandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:38Z",
+  "estado": "igual",
+  "sha1_commons": "a6ef5d877bcd12dc9893ff8784932fc192e53d41"
+ }
+}

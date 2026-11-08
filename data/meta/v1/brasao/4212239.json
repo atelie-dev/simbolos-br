@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4212239",
+ "uf": "SC",
+ "municipio": "Paraíso",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Para%C3%ADsosc_brasao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "IGHXGDF",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "14fc8a76c427cb078cb063d9b04f11d15c5f798dbcfbffb02b4cd101e80204d8",
+ "rendicoes": {
+  "png": {
+   "bytes": 344267,
+   "sha256": "817ad41a348ca8436f10aa338cde298d6cfe5cee05839dadcec7dd865dcd4a38",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 70359,
+   "sha256": "c461000d07257e33e16052c98d58f3c763f94045521a693f94c1dd8954772d4d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4212239.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4212239.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4212239.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4212239.jpg",
+  "bytes": 55790,
+  "sha256": "14fc8a76c427cb078cb063d9b04f11d15c5f798dbcfbffb02b4cd101e80204d8"
+ },
+ "sha1_origem": "cfdf66c84593c1e2de0463b5eba2b5541ddf38aa",
+ "bytes_origem": 55790,
+ "capturado_em": "2026-11-08T06:55:40Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Paraísosc_brasao.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "cfdf66c84593c1e2de0463b5eba2b5541ddf38aa"
+ }
+}

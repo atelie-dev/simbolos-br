@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4102406",
+ "uf": "PR",
+ "municipio": "Bandeirantes",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bandeirantes_%28PR%29_-_brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "http://www.bandeirantes.pr.gov.br/",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "118f54ad6d6185abeceff41e1b9beb626d76507b868a4a0c50dfdde3c398f32e",
+ "rendicoes": {
+  "png": {
+   "bytes": 129896,
+   "sha256": "43a885c728e9a4b2e6ef345018fe64ed20fed763ec7246fc531407083cf4f4c3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36166,
+   "sha256": "e3592f09e41cd35be0c168d9ded315b2354ee88576ac901e17e0b2a72321dcde",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4102406.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4102406.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4102406.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4102406.png",
+  "bytes": 132020,
+  "sha256": "118f54ad6d6185abeceff41e1b9beb626d76507b868a4a0c50dfdde3c398f32e"
+ },
+ "sha1_origem": "17ba7eb284232e80fb83e7c2b10db64688fa85b3",
+ "bytes_origem": 132020,
+ "capturado_em": "2026-11-08T06:41:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeirantes_(PR)_-_brasao.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "17ba7eb284232e80fb83e7c2b10db64688fa85b3"
+ }
+}

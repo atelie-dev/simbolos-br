@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4315057",
+ "uf": "RS",
+ "municipio": "Porto Mauá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/PortoMau%C3%A1sbandeirars.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Porto Mauá",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "755baa1be75c5a577430b458e15fb49ddb1e86aeefe2b851a6626e288452595f",
+ "rendicoes": {
+  "png": {
+   "bytes": 5660,
+   "sha256": "af39bb27755190030f2aac167875b13a9bcf956de5688fb28bbc29d05e7282a6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6394,
+   "sha256": "fffd6ff042209e10095bd41837b8fcd4f77697e96fb07134850183710e997098",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315057.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315057.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4315057.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4315057.png",
+  "bytes": 4049,
+  "sha256": "755baa1be75c5a577430b458e15fb49ddb1e86aeefe2b851a6626e288452595f"
+ },
+ "sha1_origem": "4263c53ca85c88d74b84d0d26f9e993ed0c7e4a5",
+ "bytes_origem": 4049,
+ "capturado_em": "2026-11-08T07:07:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:PortoMauásbandeirars.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:35Z",
+  "estado": "igual",
+  "sha1_commons": "4263c53ca85c88d74b84d0d26f9e993ed0c7e4a5"
+ }
+}

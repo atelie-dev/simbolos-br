@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2203909",
+ "uf": "PI",
+ "municipio": "Floriano",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bandeira_de_Floriano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Dr. Salomão Oka",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7576bc76a0a2e804519a607bb46ddaf68823370a6787be42a6bbc9b355203ea4",
+ "rendicoes": {
+  "png": {
+   "bytes": 82336,
+   "sha256": "1cbc9dad03f7c3e429342747defbc26b42754bda4f413211e86a4a4ff8cae286",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29862,
+   "sha256": "9f64619f05b554461c6453584f961d462a82c5501860747f2716c66369816702",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2203909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2203909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2203909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2203909.jpg",
+  "bytes": 420242,
+  "sha256": "7576bc76a0a2e804519a607bb46ddaf68823370a6787be42a6bbc9b355203ea4"
+ },
+ "sha1_origem": "96aee176e2fbe8edaa5ff93ff6789944c45fc75c",
+ "bytes_origem": 420242,
+ "capturado_em": "2026-11-08T05:30:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Floriano.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:03Z",
+  "estado": "igual",
+  "sha1_commons": "96aee176e2fbe8edaa5ff93ff6789944c45fc75c"
+ }
+}

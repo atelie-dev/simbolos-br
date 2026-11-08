@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3529005",
+ "uf": "SP",
+ "municipio": "Marília",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bandeira_de_Mar%C3%ADlia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Marília",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "43a2ce3eb73093da37b1931b5646c6c7a52e95f11a65fcd8197d6dadcb5f5fad",
+ "rendicoes": {
+  "png": {
+   "bytes": 40954,
+   "sha256": "7bc31d8883ced8a70e8d05ba6e2375b1164b8ca8edbd836d06eff4e3f4a8fc59",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17776,
+   "sha256": "6dff16d9982715d6c4ae5f281cf050042a563fb11e583b26464821e8a84ba5c2",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 107485,
+   "sha256": "43a2ce3eb73093da37b1931b5646c6c7a52e95f11a65fcd8197d6dadcb5f5fad"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529005.jpg"
+ },
+ "sha1_origem": "0c0c569e3632d640a26c571177aab8466bf65976",
+ "bytes_origem": 107485,
+ "capturado_em": "2026-11-08T04:08:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Marília.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:07Z",
+  "estado": "igual",
+  "sha1_commons": "0c0c569e3632d640a26c571177aab8466bf65976"
+ }
+}

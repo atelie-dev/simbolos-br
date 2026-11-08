@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1300805",
+ "uf": "AM",
+ "municipio": "Borba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bandeira_de_Borba%2C_AM.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Borba",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "02cd2a2dcab1a94a909bedde207afc63dc7bec2f197fbd5e94e219c427890aff",
+ "rendicoes": {
+  "png": {
+   "bytes": 9870,
+   "sha256": "93022feccdd10dd2a2c3f53b4a99a1dcb287c7c872b51660edaccb9fd7e9469a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5880,
+   "sha256": "61178d1ed18e0e5e662231e1982b037ba67bbfb11f6bf266f5a6eea2c146cd5f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1300805.png",
+  "bytes": 4560,
+  "sha256": "02cd2a2dcab1a94a909bedde207afc63dc7bec2f197fbd5e94e219c427890aff"
+ },
+ "sha1_origem": "82b6e98e3177f77278a04082661096145f522cd7",
+ "bytes_origem": 4560,
+ "capturado_em": "2026-11-08T05:22:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Borba,_AM.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:59Z",
+  "estado": "igual",
+  "sha1_commons": "82b6e98e3177f77278a04082661096145f522cd7"
+ }
+}

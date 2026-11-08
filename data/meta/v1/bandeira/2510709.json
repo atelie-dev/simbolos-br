@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2510709",
+ "uf": "PB",
+ "municipio": "Passagem",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_Passagem_%28PB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Passagem",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "51b1ff1e81598820f9f1d7ae4fb101eae2176c00f7b69e29d807558a33bcf8aa",
+ "rendicoes": {
+  "png": {
+   "bytes": 19091,
+   "sha256": "df7bae0aa7f720b6549b01d789d6b23a3b7e6eebd55c4d83776261f178a7c0d9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8083,
+   "sha256": "aed548663e1b775cfa01ffd5f70e4fa5eca3f4324a09ffaf4c4c25fc8b6424af",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510709.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2510709.jpg",
+  "bytes": 18968,
+  "sha256": "51b1ff1e81598820f9f1d7ae4fb101eae2176c00f7b69e29d807558a33bcf8aa"
+ },
+ "sha1_origem": "e59891e8585d1cd7d581e5dd1f42eceb74da6a75",
+ "bytes_origem": 18968,
+ "capturado_em": "2026-11-08T05:42:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Passagem_(PB).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "e59891e8585d1cd7d581e5dd1f42eceb74da6a75"
+ }
+}

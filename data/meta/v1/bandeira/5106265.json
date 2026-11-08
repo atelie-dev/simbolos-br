@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5106265",
+ "uf": "MT",
+ "municipio": "Novo Mundo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Bandeira_Novo_Mundo_MT.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Novo Mundo_MT",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c3cffdb1a5d3e5ea87fbd7112691ab94c9fa16fb502ddf092b8f36e59bec7464",
+ "rendicoes": {
+  "png": {
+   "bytes": 13713,
+   "sha256": "8b3dc56b4cb47d9e6a3d29941fd89252aa3813ff87dd56b43fdbc311a7368aca",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6046,
+   "sha256": "9f43f163430dab19aeeedadd5df28a7d28072768b7a158e38cef98fcbffad1ab",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106265.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106265.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5106265.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5106265.png",
+  "bytes": 5506,
+  "sha256": "c3cffdb1a5d3e5ea87fbd7112691ab94c9fa16fb502ddf092b8f36e59bec7464"
+ },
+ "sha1_origem": "b8dd61b96bfbb5b05f9eb2858430de3d299d87fd",
+ "bytes_origem": 5506,
+ "capturado_em": "2026-11-08T07:15:16Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Novo_Mundo_MT.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "b8dd61b96bfbb5b05f9eb2858430de3d299d87fd"
+ }
+}

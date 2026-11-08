@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3526209",
+ "uf": "SP",
+ "municipio": "Juquitiba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandeira_juquitiba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "município de juquitiba",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8d2f3d8b24397050d9773c4e0245a51ad86abde009832c82ed3cd77c639f2cae",
+ "rendicoes": {
+  "png": {
+   "bytes": 16598,
+   "sha256": "da870988c5e33302e0200cf2ebf440ab9d9accf8c4470e344d68f621d3ccfa0d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5910,
+   "sha256": "a7be9fd6e77894a2e3fa7b636a02e0df804649210ee6bc11d1f37f316068c7b1",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3526209.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3526209.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3526209.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3526209.jpg",
+  "bytes": 5051,
+  "sha256": "8d2f3d8b24397050d9773c4e0245a51ad86abde009832c82ed3cd77c639f2cae"
+ },
+ "sha1_origem": "60f16ce7ac9d11bddd8b2edb580bf10c43394bfa",
+ "bytes_origem": 5051,
+ "capturado_em": "2026-11-08T06:30:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_juquitiba.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:21Z",
+  "estado": "igual",
+  "sha1_commons": "60f16ce7ac9d11bddd8b2edb580bf10c43394bfa"
+ }
+}

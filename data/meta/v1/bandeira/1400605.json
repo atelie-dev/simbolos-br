@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1400605",
+ "uf": "RR",
+ "municipio": "São Luiz do Anauá",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bandeira_Sao_Luiz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of São Luiz.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "77eed5c2443e4ae46964a2afc930c6149c1c486a0fc1ba5d9dacde282de06171",
+ "rendicoes": {
+  "png": {
+   "bytes": 11062,
+   "sha256": "1e0a6b8f55b738b3f222bf1c204ecacaf2403a4253e6adc483dd84a3adcd6a04",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5298,
+   "sha256": "8ae132f7d91da98c4b3ac5a4adb39139a2392c3ac9f96d4428c52998ee2cd935",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1400605.jpg",
+  "bytes": 23338,
+  "sha256": "77eed5c2443e4ae46964a2afc930c6149c1c486a0fc1ba5d9dacde282de06171"
+ },
+ "sha1_origem": "e349946944796b06270c328bcaf2a9178bdaf791",
+ "bytes_origem": 23338,
+ "capturado_em": "2026-11-08T05:23:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Sao_Luiz.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:54Z",
+  "estado": "igual",
+  "sha1_commons": "e349946944796b06270c328bcaf2a9178bdaf791"
+ }
+}

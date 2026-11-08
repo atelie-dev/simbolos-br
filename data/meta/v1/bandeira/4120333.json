@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4120333",
+ "uf": "PR",
+ "municipio": "Prado Ferreira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandeira_Prado_Ferreira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "HugoHenriqueCAP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cbe086f76f8cf3a4e11cfd5d40ca25ffc5ace9be517be3487d7744c8b9e8aabe",
+ "rendicoes": {
+  "png": {
+   "bytes": 24351,
+   "sha256": "5073a94a5ef78d9a9ac60ffb1cac98c227cca49c58988692c6f1ebe2287aa576",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6757,
+   "sha256": "06ca30b41020aedfab72af4b9c15e5c63cbc302b2444daa28f9eeb46cfefd3cd",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4120333.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4120333.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4120333.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4120333.jpg",
+  "bytes": 4996,
+  "sha256": "cbe086f76f8cf3a4e11cfd5d40ca25ffc5ace9be517be3487d7744c8b9e8aabe"
+ },
+ "sha1_origem": "5b9514c2504d7b69db8ae0b098f94e97b9d11e3c",
+ "bytes_origem": 4996,
+ "capturado_em": "2026-11-08T06:48:13Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Prado_Ferreira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:52Z",
+  "estado": "igual",
+  "sha1_commons": "5b9514c2504d7b69db8ae0b098f94e97b9d11e3c"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2802403",
+ "uf": "SE",
+ "municipio": "Gararu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Band_gararu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal Gararu",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "65c825e897e93d10c2f5de3ec6947ba12cc39edf59638817566c2a93e1dc3dce",
+ "rendicoes": {
+  "png": {
+   "bytes": 56782,
+   "sha256": "c8323a8205e559bd6a212e75ed4f5e02d3227f41e3a2610895fecf2f1297c357",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21017,
+   "sha256": "6ad491068d8e8984d69b8ad2fb74f077ffcbe9b89a67a580507fd26178a051b6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2802403.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2802403.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2802403.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2802403.png",
+  "bytes": 270108,
+  "sha256": "65c825e897e93d10c2f5de3ec6947ba12cc39edf59638817566c2a93e1dc3dce"
+ },
+ "sha1_origem": "1020222a2a087867491adc8f28597c3886e45f74",
+ "bytes_origem": 270108,
+ "capturado_em": "2026-11-08T05:49:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Band_gararu.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:37Z",
+  "estado": "igual",
+  "sha1_commons": "1020222a2a087867491adc8f28597c3886e45f74"
+ }
+}

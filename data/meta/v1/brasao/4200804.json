@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4200804",
+ "uf": "SC",
+ "municipio": "Anchieta",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Brasao_anchieta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3710cf74cee4bef397f295cffa6f7e69a7d5298ded4c0f3eaf618322d8ae2aaa",
+ "rendicoes": {
+  "png": {
+   "bytes": 194710,
+   "sha256": "cd76be6c9e4aa4edfd88d08ebd10295116707e653460a8259860918e9e6bc639",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47168,
+   "sha256": "46f7953b909cbadf2faf596a84461687810d4d944bbefbfff843f3919b51ca27",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4200804.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4200804.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4200804.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4200804.jpg",
+  "bytes": 516960,
+  "sha256": "3710cf74cee4bef397f295cffa6f7e69a7d5298ded4c0f3eaf618322d8ae2aaa"
+ },
+ "sha1_origem": "67c437ea462162e08275772379d620e67007ee4e",
+ "bytes_origem": 516960,
+ "capturado_em": "2026-11-08T06:51:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_anchieta.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:35Z",
+  "estado": "igual",
+  "sha1_commons": "67c437ea462162e08275772379d620e67007ee4e"
+ }
+}

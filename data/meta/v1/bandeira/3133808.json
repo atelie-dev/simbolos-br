@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3133808",
+ "uf": "MG",
+ "municipio": "Itaúna",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bandeiraitauna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "João da Silva",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "108f9f47f8f7ed27dc745067400799c587d5822458fa4cc3dd96d6eec10e70c7",
+ "rendicoes": {
+  "png": {
+   "bytes": 25395,
+   "sha256": "7c6d81fc3567da4a6fcbd8a4feb4cbac8984dc39fe6b259370be9a0577f75662",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6086,
+   "sha256": "8d1d80733e806695c8dd4bb01341dabd00d4e15ca639fefd30252ccf1b99e592",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3133808.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3133808.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3133808.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3133808.jpg",
+  "bytes": 4625,
+  "sha256": "108f9f47f8f7ed27dc745067400799c587d5822458fa4cc3dd96d6eec10e70c7"
+ },
+ "sha1_origem": "dbf6fa857ff722ea7e00c9f3a41ce796e7dc3e29",
+ "bytes_origem": 4625,
+ "capturado_em": "2026-11-08T06:09:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeiraitauna.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:25Z",
+  "estado": "igual",
+  "sha1_commons": "dbf6fa857ff722ea7e00c9f3a41ce796e7dc3e29"
+ }
+}

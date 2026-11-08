@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4211876",
+ "uf": "SC",
+ "municipio": "Paial",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bandeira_do_munic%C3%ADpio_de_Paial_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Paial",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "066d33054348ebf3c8afe0390a9e39b4369cc96d752a1838170d4e2472b4d6f8",
+ "rendicoes": {
+  "png": {
+   "bytes": 43392,
+   "sha256": "7022dcb20206ff5368a7958de228a25b8e90b4bd7e4d036173e6afc0113b7e17",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18615,
+   "sha256": "24317f2e59beb5d132e787ae922b514213717c9ded265aa5ec0a978dc8c36abf",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211876.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211876.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4211876.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4211876.png",
+  "bytes": 315812,
+  "sha256": "066d33054348ebf3c8afe0390a9e39b4369cc96d752a1838170d4e2472b4d6f8"
+ },
+ "sha1_origem": "ff19848f31e28ee8933056fae76d688f99d5a486",
+ "bytes_origem": 315812,
+ "capturado_em": "2026-11-08T06:55:30Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Paial_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "ff19848f31e28ee8933056fae76d688f99d5a486"
+ }
+}

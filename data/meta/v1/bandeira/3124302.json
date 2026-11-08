@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3124302",
+ "uf": "MG",
+ "municipio": "Espinosa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bandeira_Espinosa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Espinosa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2ab8e0895cd470e84d8e01079c0a2d3114f19c3d17fedba1ecd622732e8319c1",
+ "rendicoes": {
+  "png": {
+   "bytes": 196641,
+   "sha256": "f5b8364fc4c87fdf9b28dece3b960104d78f7c7277c2b8fb38a5fd1fd4df8bb3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34423,
+   "sha256": "5b5f7ccd04ed7e4926f3930e76860f778eed8062dbc362d1ab97f92b2a460aa9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3124302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3124302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3124302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3124302.jpg",
+  "bytes": 32977,
+  "sha256": "2ab8e0895cd470e84d8e01079c0a2d3114f19c3d17fedba1ecd622732e8319c1"
+ },
+ "sha1_origem": "a528d2ee04cc16144b3e20df05d70b6ca36890e0",
+ "bytes_origem": 32977,
+ "capturado_em": "2026-11-08T06:06:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Espinosa.JPG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "a528d2ee04cc16144b3e20df05d70b6ca36890e0"
+ }
+}

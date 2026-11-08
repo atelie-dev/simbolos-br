@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1303304",
+ "uf": "AM",
+ "municipio": "Novo Aripuanã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Mtrp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipio de Novo Aripuanã",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d1c84bdbe5b762b860572abae2f74584dbd4ef8286178f205cf90815b85c7c3c",
+ "rendicoes": {
+  "png": {
+   "bytes": 39769,
+   "sha256": "8b0f39800e3152bca94812c7bf9adba1347be6e219706b4743825c014e8cc9ab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16413,
+   "sha256": "49c109bb4352b9eea5d38cf015ace83c244729115300a93761fb2be4f467e0b5",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303304.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303304.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303304.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1303304.png",
+  "bytes": 27205,
+  "sha256": "d1c84bdbe5b762b860572abae2f74584dbd4ef8286178f205cf90815b85c7c3c"
+ },
+ "sha1_origem": "74b00ccd77bb61174159f721cd4c761dc98cbf58",
+ "bytes_origem": 27205,
+ "capturado_em": "2026-11-08T05:23:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Mtrp.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:34Z",
+  "estado": "igual",
+  "sha1_commons": "74b00ccd77bb61174159f721cd4c761dc98cbf58"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2505204",
+ "uf": "PB",
+ "municipio": "Cuitegi",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bandeira_de_Cuitegi-PB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "917a68454f95b6ff71ecfe0eac9d6e11a02122af5d91f70d4ba87f885effa2bf",
+ "rendicoes": {
+  "png": {
+   "bytes": 66818,
+   "sha256": "619c7009d21c8db35ae83dc954915553610e826882cd967c8fc6dc632f29a002",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24817,
+   "sha256": "921a859d53e9cf0e7ad76b818dd7833f401a7656b19b0d6fea9121eefcd672cb",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 836921,
+   "sha256": "917a68454f95b6ff71ecfe0eac9d6e11a02122af5d91f70d4ba87f885effa2bf"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2505204.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2505204.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2505204.jpg"
+ },
+ "sha1_origem": "5ef1ea3fc4c635d336b3b483ee239620018bf930",
+ "bytes_origem": 836921,
+ "capturado_em": "2026-11-08T02:57:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Cuitegi-PB.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:02Z",
+  "estado": "igual",
+  "sha1_commons": "5ef1ea3fc4c635d336b3b483ee239620018bf930"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4322004",
+ "uf": "RS",
+ "municipio": "Triunfo",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Triunfo-RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Tancredo Fernandes",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4d8d6e98da64727c349ebb70ab6d2aef890407ef4d0ba06f7018626cb6ec5f8f",
+ "rendicoes": {
+  "png": {
+   "bytes": 32820,
+   "sha256": "1df0cdfb460666433d050b8a73a16991dd59a19c9f1cee49e5c842f8c3495709",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7836,
+   "sha256": "03955bcd99c751fa517f082a700a54dc1fe2b886805f504b1530b9e1784af291",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4322004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4322004.jpg",
+  "bytes": 5113,
+  "sha256": "4d8d6e98da64727c349ebb70ab6d2aef890407ef4d0ba06f7018626cb6ec5f8f"
+ },
+ "sha1_origem": "787cdfb502efb9e673d3942ad83992003ffb8289",
+ "bytes_origem": 5113,
+ "capturado_em": "2026-11-08T07:11:18Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Triunfo-RS.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:38Z",
+  "estado": "igual",
+  "sha1_commons": "787cdfb502efb9e673d3942ad83992003ffb8289"
+ }
+}

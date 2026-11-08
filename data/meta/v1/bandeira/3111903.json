@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3111903",
+ "uf": "MG",
+ "municipio": "Cana Verde",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bandeira_Cana_Verde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Cana Verde",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e1afd2682a67d787278337cd7adf66fd81385c1710a1d5174c992c98398e8d2d",
+ "rendicoes": {
+  "png": {
+   "bytes": 18221,
+   "sha256": "5d331530d1486d025eee49caf871269abf9362b9a9152a42b6589d6cb08b72a1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6375,
+   "sha256": "32af06998b19e2d6078353e7bc6d13d618311bcd2d44b25b74ae78c9ca091e92",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3111903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3111903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3111903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3111903.jpg",
+  "bytes": 3035,
+  "sha256": "e1afd2682a67d787278337cd7adf66fd81385c1710a1d5174c992c98398e8d2d"
+ },
+ "sha1_origem": "cb9e5d4bef32040cf664a15f858c7fb374217157",
+ "bytes_origem": 3035,
+ "capturado_em": "2026-11-08T06:02:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Cana_Verde.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "cb9e5d4bef32040cf664a15f858c7fb374217157"
+ }
+}

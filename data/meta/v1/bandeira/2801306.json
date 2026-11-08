@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2801306",
+ "uf": "SE",
+ "municipio": "Capela",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bandeira_capela.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Capela-SE",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ce746120602c609b2994731a3a0a0658d7264162caa7d3fbe9d2e07dbe3fdcde",
+ "rendicoes": {
+  "png": {
+   "bytes": 71010,
+   "sha256": "359ebfe28c52ff60eec8a0d09781fbd3721018d3c414496473c500014bd75664",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28721,
+   "sha256": "75d342f9573e4d00b4e3cc41ada5e1c527c982a716262749de50fbb452ac2cc3",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 56319,
+   "sha256": "ce746120602c609b2994731a3a0a0658d7264162caa7d3fbe9d2e07dbe3fdcde"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2801306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2801306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2801306.jpg"
+ },
+ "sha1_origem": "4ab7b31a8d2091e49a21bfa74ecfb9926c9dd683",
+ "bytes_origem": 56319,
+ "capturado_em": "2026-11-08T03:11:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_capela.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "4ab7b31a8d2091e49a21bfa74ecfb9926c9dd683"
+ }
+}

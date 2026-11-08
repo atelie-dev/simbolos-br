@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1200708",
+ "uf": "AC",
+ "municipio": "Xapuri",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Bandeira-xapuri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Xapuri City Hall",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "acda4e3d0c56f5e20d0cfce2a08b2ec59654ce154b0007a608408f9f82787154",
+ "rendicoes": {
+  "png": {
+   "bytes": 45696,
+   "sha256": "775bc7b298c442a6dad70c2bf9ae35ada5609ffd51b230a4bce2d5727bcdea2e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18295,
+   "sha256": "793875087e43074d3767a94b229d3d4622de21b7689e19c807df4d3077d438b4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1200708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1200708.jpg",
+  "bytes": 172833,
+  "sha256": "acda4e3d0c56f5e20d0cfce2a08b2ec59654ce154b0007a608408f9f82787154"
+ },
+ "sha1_origem": "ace1f9db7ac60105d0fb78aa907c8bfdb80aa5e9",
+ "bytes_origem": 172833,
+ "capturado_em": "2026-11-08T05:22:19Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-xapuri.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "ace1f9db7ac60105d0fb78aa907c8bfdb80aa5e9"
+ }
+}

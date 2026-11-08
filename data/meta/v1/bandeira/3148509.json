@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3148509",
+ "uf": "MG",
+ "municipio": "Pavão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bandeira_do_munic%C3%ADpio_de_Pav%C3%A3o_MG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Mayconalvesgonçalves",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "78624ee26655688f1b3370a8f3e25d18e8f975c3282d76d6d1ea9296d2e1080b",
+ "rendicoes": {
+  "png": {
+   "bytes": 42049,
+   "sha256": "5db40dc51cd87e1bde9254291c8891d49b74addb891e7e87bd94713230c5f538",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16701,
+   "sha256": "306c54e4ec4ef51dae480c060dc5ca9ea32d210ae05bf5ef28fcf68c537a4d75",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3148509.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3148509.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3148509.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3148509.jpg",
+  "bytes": 361591,
+  "sha256": "78624ee26655688f1b3370a8f3e25d18e8f975c3282d76d6d1ea9296d2e1080b"
+ },
+ "sha1_origem": "50ec4851ad98d59296590d6c7c48c8f6ab98090e",
+ "bytes_origem": 361591,
+ "capturado_em": "2026-11-08T06:13:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Pavão_MG.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "50ec4851ad98d59296590d6c7c48c8f6ab98090e"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532306",
+ "uf": "SP",
+ "municipio": "Natividade da Serra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bandeira_de_Natividade_da_Serra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Natividade da Serra",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5d7fc8b8b8f9bf0f41e0fa59a3f58e5806b007dd17ce90eb64bc912a3c984a57",
+ "rendicoes": {
+  "png": {
+   "bytes": 102707,
+   "sha256": "6c8a3beeb27bfae0f383ee85dfa283abba878950b221e59e58a505505befc51c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24047,
+   "sha256": "56b1dbec2f909e07132c381ff430f231914d2b768cdf0a42cc1463f94003ab0e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532306.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532306.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532306.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3532306.jpg",
+  "bytes": 69437,
+  "sha256": "5d7fc8b8b8f9bf0f41e0fa59a3f58e5806b007dd17ce90eb64bc912a3c984a57"
+ },
+ "sha1_origem": "c1f1897983f1fa9246183cecaf606ad969e2951c",
+ "bytes_origem": 69437,
+ "capturado_em": "2026-11-08T06:32:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Natividade_da_Serra.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "c1f1897983f1fa9246183cecaf606ad969e2951c"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5211503",
+ "uf": "GO",
+ "municipio": "Itumbiara",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Nova_Bandeira_de_Itumbiara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Municipality of Itumbiara",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "72728874486ee657298389edc00e6c38db2d6b89ffcca790e4f2e0e8b1ea012d",
+ "rendicoes": {
+  "png": {
+   "bytes": 115641,
+   "sha256": "0f62469ebda6a9107df8431cc5aad90b73ea6c24713c855faaabf17bd7c5b55b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20293,
+   "sha256": "4e417482f698510003bf99361a627c0264c0efd4c967ae9947bf9efc4b3ffbad",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5211503.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5211503.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5211503.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5211503.jpg",
+  "bytes": 72098,
+  "sha256": "72728874486ee657298389edc00e6c38db2d6b89ffcca790e4f2e0e8b1ea012d"
+ },
+ "sha1_origem": "8d29cca031de9dc90dd3d2fd87dc8cc1870fdb74",
+ "bytes_origem": 72098,
+ "capturado_em": "2026-11-08T07:18:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Nova_Bandeira_de_Itumbiara.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:34Z",
+  "estado": "igual",
+  "sha1_commons": "8d29cca031de9dc90dd3d2fd87dc8cc1870fdb74"
+ }
+}

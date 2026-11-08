@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5215231",
+ "uf": "GO",
+ "municipio": "Novo Gama",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bandeira_de_Novo_Gama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Novo Gama, GO",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a1be5985d95e4973dedfefde3d55f517921bf5e0b91fc74cbada2ad5dbca1e03",
+ "rendicoes": {
+  "png": {
+   "bytes": 136315,
+   "sha256": "93ed9b05e655552d1ebb4d15f9ffcb6d732e497ebfd9809ae8f4ea644e29ad82",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33068,
+   "sha256": "fffb3286ae0e9910ae5d7f654890c2722a0d8c3513f28d42511c0a3023b026c4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5215231.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5215231.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5215231.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5215231.jpg",
+  "bytes": 58000,
+  "sha256": "a1be5985d95e4973dedfefde3d55f517921bf5e0b91fc74cbada2ad5dbca1e03"
+ },
+ "sha1_origem": "972e1fab2e3363d5c0120514f1060aac84aedbf4",
+ "bytes_origem": 58000,
+ "capturado_em": "2026-11-08T07:19:33Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Novo_Gama.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "972e1fab2e3363d5c0120514f1060aac84aedbf4"
+ }
+}

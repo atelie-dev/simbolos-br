@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3505708",
+ "uf": "SP",
+ "municipio": "Barueri",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Barueri.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ffbb427bb28e19e2be1280220e557f75a6fa8924b4c8f2ce2a069ce47adb6a75",
+ "rendicoes": {
+  "png": {
+   "bytes": 319022,
+   "sha256": "121d6aded88c47bac3eea387670847b120ea11c490fe100fd8245cfbafc756ce",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 66399,
+   "sha256": "181c433ad1119114b163a30ef249ed1e4c1b92bba955291a0cd3daeb1896fb8a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505708.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505708.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505708.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3505708.png",
+  "bytes": 2477307,
+  "sha256": "ffbb427bb28e19e2be1280220e557f75a6fa8924b4c8f2ce2a069ce47adb6a75"
+ },
+ "sha1_origem": "4f441ec76364c2ccc0d697a84136ac0a3b30abb7",
+ "bytes_origem": 2477307,
+ "capturado_em": "2026-11-08T06:24:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Barueri.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "4f441ec76364c2ccc0d697a84136ac0a3b30abb7"
+ }
+}

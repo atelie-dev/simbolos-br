@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3505005",
+ "uf": "SP",
+ "municipio": "Barão de Antonina",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bar%C3%A3o_de_Antonina.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5d2726aad98d9afdb76f87f961140a951d7fbb6be132e34f7d0850b5102eefc7",
+ "rendicoes": {
+  "png": {
+   "bytes": 389367,
+   "sha256": "617a0ad3ae1ec6274705427510ce380dd157374303d4c5283b064990ee968142",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 65521,
+   "sha256": "e005a6b6af1db61fc5ae17636e519e41caa16f72b0870c0b2a8aa3ba59126f54",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3505005.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3505005.png",
+  "bytes": 391407,
+  "sha256": "5d2726aad98d9afdb76f87f961140a951d7fbb6be132e34f7d0850b5102eefc7"
+ },
+ "sha1_origem": "6753361856e717f6f298e77da6bf010bafbbc45c",
+ "bytes_origem": 391407,
+ "capturado_em": "2026-11-08T06:24:15Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Barão_de_Antonina.PNG",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:26Z",
+  "estado": "igual",
+  "sha1_commons": "6753361856e717f6f298e77da6bf010bafbbc45c"
+ }
+}

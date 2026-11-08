@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3548906",
+ "uf": "SP",
+ "municipio": "São Carlos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/42/BrasaoSaoCarlosSP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "d500607f96220a86d4b8edf897bc2571899b6ec347b329994aa9b646137d799d",
+ "rendicoes": {
+  "png": {
+   "bytes": 239389,
+   "sha256": "9c901466a189618f376a61e3693129651869ee647db3f811930980356174f579",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 71927,
+   "sha256": "4d368d54623ccb3184669bd3817d8a6d59041d2793a6d196544ccb2f64150de8",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 205697,
+   "sha256": "d500607f96220a86d4b8edf897bc2571899b6ec347b329994aa9b646137d799d"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548906.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548906.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3548906.jpg"
+ },
+ "sha1_origem": "9127053027bb964cb74968351824749604aad477",
+ "bytes_origem": 205697,
+ "capturado_em": "2026-11-08T04:16:43Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:BrasaoSaoCarlosSP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:31Z",
+  "estado": "igual",
+  "sha1_commons": "9127053027bb964cb74968351824749604aad477"
+ }
+}

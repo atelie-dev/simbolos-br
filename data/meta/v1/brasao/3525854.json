@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3525854",
+ "uf": "SP",
+ "municipio": "Jumirim",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bras%C3%A3o_Jumirim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "68fabe72b51fed9f166ac33468b04820f5060c8bb8dc48331e1b10c71326dd47",
+ "rendicoes": {
+  "png": {
+   "bytes": 59896,
+   "sha256": "aeda6baedba122f124a096051a3b27d6b9a1ce3dc2e74e86025e1757f8267ed5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13122,
+   "sha256": "bcafcd6768fb081d5cdb8319a864c59aed2b70ca5311b6eedb4c37925056052a",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3525854.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3525854.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3525854.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3525854.jpg",
+  "bytes": 13584,
+  "sha256": "68fabe72b51fed9f166ac33468b04820f5060c8bb8dc48331e1b10c71326dd47"
+ },
+ "sha1_origem": "1d02af2970fe3284977c97c5fa107b2be0655b2e",
+ "bytes_origem": 13584,
+ "capturado_em": "2026-11-08T06:30:56Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Jumirim.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:50Z",
+  "estado": "igual",
+  "sha1_commons": "1d02af2970fe3284977c97c5fa107b2be0655b2e"
+ }
+}

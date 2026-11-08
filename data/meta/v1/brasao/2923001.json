@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2923001",
+ "uf": "BA",
+ "municipio": "Nova Viçosa",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bras%C3%A3o_de_Nova_Vi%C3%A7osa_-_BA.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "04c4c7d5a0a005eb7e20385752498c56bb3cdc3b528a3e3e290d3a1b0432a7c4",
+ "rendicoes": {
+  "png": {
+   "bytes": 227839,
+   "sha256": "bbb8c2cdfe159a38a7364be530b702715c77c544ba8accc46fbf50198b5baedb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 67232,
+   "sha256": "24ccef08322616b1da25045b7e11f709945151dc5932306903706549db6a4dfe",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 581043,
+   "sha256": "04c4c7d5a0a005eb7e20385752498c56bb3cdc3b528a3e3e290d3a1b0432a7c4"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2923001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2923001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2923001.jpg"
+ },
+ "sha1_origem": "20aa02d55fdf95fadc232158bdf9453942936ec2",
+ "bytes_origem": 581043,
+ "capturado_em": "2026-11-08T03:21:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Nova_Viçosa_-_BA.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "20aa02d55fdf95fadc232158bdf9453942936ec2"
+ }
+}

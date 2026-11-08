@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5107909",
+ "uf": "MT",
+ "municipio": "Sinop",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bras%C3%A3o_sinop_mt.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5fb98556cb23a6ed37b30034a8d01239f0eb48eb1eac993924c48c8407448d4b",
+ "rendicoes": {
+  "png": {
+   "bytes": 62415,
+   "sha256": "ebb3722dfc597d64536f0b3bc1776cbf1bd905afc0c1faa3aa93a88de572680d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61273,
+   "sha256": "0e4e0e565d5241996ca631ea0e00b63dde6665f61e1428ad5635cdd9a69f5b6f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5107909.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5107909.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5107909.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5107909.png",
+  "bytes": 51482,
+  "sha256": "5fb98556cb23a6ed37b30034a8d01239f0eb48eb1eac993924c48c8407448d4b"
+ },
+ "sha1_origem": "1de1402a95db799cbcb2e2c7aa9b7ceb67b39305",
+ "bytes_origem": 51482,
+ "capturado_em": "2026-11-08T07:15:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_sinop_mt.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:19Z",
+  "estado": "igual",
+  "sha1_commons": "1de1402a95db799cbcb2e2c7aa9b7ceb67b39305"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2310951",
+ "uf": "CE",
+ "municipio": "Pires Ferreira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bandeira_de_Pires_Ferreira.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "ae8fcae88b154e00ce7384bafc5b4e0643f30e3a03a71a83f16abf0ad94a584c",
+ "rendicoes": {
+  "png": {
+   "bytes": 53530,
+   "sha256": "24fe58f8141c13490e8d7a2b432ca68ce3d0e3c262b453862a5b1cbd1415d0ff",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17281,
+   "sha256": "8954a576ddbfeec5ef5c048323893fef0951aca041e7a1fd942dd6339c882682",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 131015,
+   "sha256": "ae8fcae88b154e00ce7384bafc5b4e0643f30e3a03a71a83f16abf0ad94a584c"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2310951.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2310951.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2310951.jpg"
+ },
+ "sha1_origem": "faa1793c25a763e613a441930d07659823b5106f",
+ "bytes_origem": 131015,
+ "capturado_em": "2026-11-08T02:48:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Pires_Ferreira.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:10Z",
+  "estado": "igual",
+  "sha1_commons": "faa1793c25a763e613a441930d07659823b5106f"
+ }
+}

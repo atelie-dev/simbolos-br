@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2801504",
+ "uf": "SE",
+ "municipio": "Carmópolis",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bras%C3%A3o_de_Carm%C3%B3polis%2C_Sergipe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b7fb01125b52ddd269e642ced932a29f74e100457db6ee4696ca5378f25699a1",
+ "rendicoes": {
+  "png": {
+   "bytes": 309627,
+   "sha256": "38eb1ca76b942fd9db21be4e916c9bd6f28af693c01367b18444ff602b214801",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62391,
+   "sha256": "5d543613f390ff8864172555d2bab474204bad7d1d30f61ddc12daae0c87a246",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2801504.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2801504.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2801504.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2801504.jpg",
+  "bytes": 106484,
+  "sha256": "b7fb01125b52ddd269e642ced932a29f74e100457db6ee4696ca5378f25699a1"
+ },
+ "sha1_origem": "a1ca7fd63fd99a26feacb7bb3abcbaa5709965a9",
+ "bytes_origem": 106484,
+ "capturado_em": "2026-11-08T05:49:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Carmópolis,_Sergipe.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:00Z",
+  "estado": "igual",
+  "sha1_commons": "a1ca7fd63fd99a26feacb7bb3abcbaa5709965a9"
+ }
+}

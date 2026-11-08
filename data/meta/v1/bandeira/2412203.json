@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2412203",
+ "uf": "RN",
+ "municipio": "São José de Mipibu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bandeira_de_S%C3%A3o_Jos%C3%A9_de_Mipibu-RN%2C_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de São José de Mipibu",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "46012c8434b705bb7514db195a47c365d4082b98ed7be4945709f86dc12ef8f7",
+ "rendicoes": {
+  "png": {
+   "bytes": 25856,
+   "sha256": "d39ce6101ef60b6cac1cf4fa800f6990778271f4df7ffdc9c4ab71029dcebef2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8722,
+   "sha256": "55d920b2e0898b316bb8906d5f0661f1fbc7732f39533c8cd725d752e67c8f62",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2412203.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2412203.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2412203.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2412203.jpg",
+  "bytes": 6902,
+  "sha256": "46012c8434b705bb7514db195a47c365d4082b98ed7be4945709f86dc12ef8f7"
+ },
+ "sha1_origem": "9ba1a6ffdf9d2d2746075a136b81b8729f29a6de",
+ "bytes_origem": 6902,
+ "capturado_em": "2026-11-08T05:38:52Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_José_de_Mipibu-RN,_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "9ba1a6ffdf9d2d2746075a136b81b8729f29a6de"
+ }
+}

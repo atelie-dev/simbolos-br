@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3540259",
+ "uf": "SP",
+ "municipio": "Pontalinda",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bras%C3%A3o_de_Pontalinda%2C_SP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Pontalinda/SP",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2a2d7b20f83b25223ddeeeeb7b7bc36f0c92e31e06e4852e266c2b7ff3d7b8ba",
+ "rendicoes": {
+  "png": {
+   "bytes": 38056,
+   "sha256": "cdd8512ae8b2865fe1ee6fbb817185a02e679bfafcb9f8ddbaa3601205fff3ce",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7995,
+   "sha256": "1f9c2fb2c2c3ed20555b65863a7d0389f7b55e48081215a5cf1c2af22514421d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540259.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540259.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3540259.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3540259.jpg",
+  "bytes": 4767,
+  "sha256": "2a2d7b20f83b25223ddeeeeb7b7bc36f0c92e31e06e4852e266c2b7ff3d7b8ba"
+ },
+ "sha1_origem": "bc254ff82b2f735170979edbb565e60d0bf2c0f9",
+ "bytes_origem": 4767,
+ "capturado_em": "2026-11-08T06:35:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Pontalinda,_SP.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:09Z",
+  "estado": "igual",
+  "sha1_commons": "bc254ff82b2f735170979edbb565e60d0bf2c0f9"
+ }
+}

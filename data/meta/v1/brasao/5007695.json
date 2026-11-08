@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5007695",
+ "uf": "MS",
+ "municipio": "São Gabriel do Oeste",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bras%C3%A3o_de_S%C3%A3o_Gabriel_do_Oeste_%28MS%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Wmrcon",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c9c46e5c405a4173927ed107f88ec92999242b1a4ad52a9cf3a098cd652ef5e0",
+ "rendicoes": {
+  "png": {
+   "bytes": 389658,
+   "sha256": "280dc1bf62166aeaf7429b31ad75d2ac09889b7063300f8b9c89e65a6bfedcb8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 73703,
+   "sha256": "8978158063d345924b67961be9c5a3f805f7ad7bc733ea9f89e7446b1c5f9741",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5007695.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5007695.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/5007695.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5007695.jpg",
+  "bytes": 69373,
+  "sha256": "c9c46e5c405a4173927ed107f88ec92999242b1a4ad52a9cf3a098cd652ef5e0"
+ },
+ "sha1_origem": "4de68f2dcbfcc4415b927c688449176ade9840ba",
+ "bytes_origem": 69373,
+ "capturado_em": "2026-11-08T07:13:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_São_Gabriel_do_Oeste_(MS).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:12Z",
+  "estado": "igual",
+  "sha1_commons": "4de68f2dcbfcc4415b927c688449176ade9840ba"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2304707",
+ "uf": "CE",
+ "municipio": "Granja",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_de_Granja_-_CE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "1173ad04ebf4f3dac99fcb9fae9f3929e9600470cf64e126a8f5522091b910dd",
+ "rendicoes": {
+  "png": {
+   "bytes": 46329,
+   "sha256": "10f2f62e6b1589d3707f9ca7f7eeca88dcba662602c8c4e6e9c83049af2acc3e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20045,
+   "sha256": "63398d36269c0b83c2752487b25a5a9beb92bfc214b591d8cd2023174b8aeabc",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 319182,
+   "sha256": "1173ad04ebf4f3dac99fcb9fae9f3929e9600470cf64e126a8f5522091b910dd"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304707.jpg"
+ },
+ "sha1_origem": "9e87fb348796b28000bf62218a8ae19745824955",
+ "bytes_origem": 319182,
+ "capturado_em": "2026-11-08T02:45:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Granja_-_CE.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:04Z",
+  "estado": "igual",
+  "sha1_commons": "9e87fb348796b28000bf62218a8ae19745824955"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4220000",
+ "uf": "SC",
+ "municipio": "Balneário Rincão",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bras%C3%A3o_de_Balne%C3%A1rio_Rinc%C3%A3o_-_SC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Heitor Fonseca Amaro (Armação do Itapocorói)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9ce62044aa39358341a7e7d945999bc3e9a3672430f8efe4a708767a737d4a01",
+ "rendicoes": {
+  "png": {
+   "bytes": 150391,
+   "sha256": "3539b80e14ab51d0fca913906db81327ace72e7e65fff03fe4b125eb1a1cef90",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23888,
+   "sha256": "5dd8115493984beb4e7e67bfd82658afb69e0c258cfd10515e9c9f2cfa3802fb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4220000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4220000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4220000.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4220000.jpg",
+  "bytes": 15503,
+  "sha256": "9ce62044aa39358341a7e7d945999bc3e9a3672430f8efe4a708767a737d4a01"
+ },
+ "sha1_origem": "d08db6cca2423262a46de1f71fac212076dd3772",
+ "bytes_origem": 15503,
+ "capturado_em": "2026-11-08T06:58:22Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Balneário_Rincão_-_SC.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:58Z",
+  "estado": "igual",
+  "sha1_commons": "d08db6cca2423262a46de1f71fac212076dd3772"
+ }
+}

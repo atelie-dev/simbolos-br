@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4308706",
+ "uf": "RS",
+ "municipio": "Gaurama",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Gauramabrasonbr.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Gaurama",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "372240383c1fad833a3d246c371c1656345eb4c4e1a25a697bb31a54d529d2d3",
+ "rendicoes": {
+  "png": {
+   "bytes": 45272,
+   "sha256": "c0e910b50ba8ffd5c23ede168a1b065c4373c04752e035fb1426d0954514a0ae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17803,
+   "sha256": "090eeb17f2442a9ab79c5227b2fbf5eaa55fc77d0e7af52dd5a28d70fe1a8355",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308706.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308706.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4308706.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4308706.png",
+  "bytes": 14073,
+  "sha256": "372240383c1fad833a3d246c371c1656345eb4c4e1a25a697bb31a54d529d2d3"
+ },
+ "sha1_origem": "9b602e415039cf069bcb38f37e7f490f4091269f",
+ "bytes_origem": 14073,
+ "capturado_em": "2026-11-08T07:03:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Gauramabrasonbr.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:31Z",
+  "estado": "igual",
+  "sha1_commons": "9b602e415039cf069bcb38f37e7f490f4091269f"
+ }
+}

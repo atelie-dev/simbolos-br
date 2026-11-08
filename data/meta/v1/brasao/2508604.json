@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2508604",
+ "uf": "PB",
+ "municipio": "Lucena",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Brasao_lucena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Lucena",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "65f83711753d5bbca3af10c5a6f3886e05d7b274cdf002728a3af011541c2059",
+ "rendicoes": {
+  "png": {
+   "bytes": 48976,
+   "sha256": "9dead2d2f580f1befed9f96173b0457eb8cf660db175d674ddf3e7877259a842",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10960,
+   "sha256": "ed8dc9355c9cfe8e33daa42db44ce4d711229862f7c09fbaab22b19b06d42036",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2508604.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2508604.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2508604.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2508604.jpg",
+  "bytes": 11730,
+  "sha256": "65f83711753d5bbca3af10c5a6f3886e05d7b274cdf002728a3af011541c2059"
+ },
+ "sha1_origem": "dbdd5778f3de3248b0d10caf791eb62196a625c8",
+ "bytes_origem": 11730,
+ "capturado_em": "2026-11-08T05:41:41Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_lucena.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:39Z",
+  "estado": "igual",
+  "sha1_commons": "dbdd5778f3de3248b0d10caf791eb62196a625c8"
+ }
+}

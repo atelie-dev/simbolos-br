@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3523800",
+ "uf": "SP",
+ "municipio": "Itobi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Itobi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipio de Itobi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "52bf74d5576c2d80a91ddcd1bd302b661992c2cffe7c6322a09ed256f43575c4",
+ "rendicoes": {
+  "png": {
+   "bytes": 76028,
+   "sha256": "11132e9685b1f2186a5aaeb2caec9dd5256c86c29d9d68c59ba487bfbb3e8b0e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13995,
+   "sha256": "3caef5d176ba29544a226c794aa4d0e88d8d4700b77e77c3644b0021f90a904e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3523800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3523800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3523800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3523800.jpg",
+  "bytes": 18388,
+  "sha256": "52bf74d5576c2d80a91ddcd1bd302b661992c2cffe7c6322a09ed256f43575c4"
+ },
+ "sha1_origem": "729701b27304bb994096f59d95c65d7d3f0be341",
+ "bytes_origem": 18388,
+ "capturado_em": "2026-11-08T06:30:21Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Itobi.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:32Z",
+  "estado": "igual",
+  "sha1_commons": "729701b27304bb994096f59d95c65d7d3f0be341"
+ }
+}

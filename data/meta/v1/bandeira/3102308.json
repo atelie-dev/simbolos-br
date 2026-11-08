@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3102308",
+ "uf": "MG",
+ "municipio": "Alvinópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bandeira-alvin%C3%B3polis-mg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "PM Alvinópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "467abefbf25e13d19c693d87393351e4f823aa12d8d261f7c28b9bf6fbce377a",
+ "rendicoes": {
+  "png": {
+   "bytes": 68698,
+   "sha256": "a605b1ca2b827957594eb725bb88dbd5489ca90b0bc7150fbcd37def662a3e06",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22241,
+   "sha256": "db743614563ee9bae3c93fe9251ca2d31791a1ea8bfa1d1f29968d1277ee3744",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3102308.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3102308.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3102308.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3102308.jpg",
+  "bytes": 59418,
+  "sha256": "467abefbf25e13d19c693d87393351e4f823aa12d8d261f7c28b9bf6fbce377a"
+ },
+ "sha1_origem": "2bf1f4e5d09b034ffed9f529be8b1871cfe4a982",
+ "bytes_origem": 59418,
+ "capturado_em": "2026-11-08T05:59:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira-alvinópolis-mg.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:38Z",
+  "estado": "igual",
+  "sha1_commons": "2bf1f4e5d09b034ffed9f529be8b1871cfe4a982"
+ }
+}

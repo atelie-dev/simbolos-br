@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3170206",
+ "uf": "MG",
+ "municipio": "Uberlândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bandeira_de_Uberl%C3%A2ndia.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "own work",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "beff28818c7fb5e59234e9566307252df01b682456486dd7b8a680b9e0451140",
+ "rendicoes": {
+  "png": {
+   "bytes": 53609,
+   "sha256": "fb5957cbca806e106491315bc47abc0dbb69c967ee7f349b3843effacf6587f1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26780,
+   "sha256": "8fff686a5fbe528edeab07add38f28aac003d65f6e91feda3029eb3276fc72ec",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 691,
+   "sha256": "beff28818c7fb5e59234e9566307252df01b682456486dd7b8a680b9e0451140"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3170206.jpg"
+ },
+ "sha1_origem": "ec63be1ef4434fcc524ed8fc121f414fda0629ce",
+ "bytes_origem": 691,
+ "capturado_em": "2026-11-08T03:50:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Uberlândia.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:15Z",
+  "estado": "igual",
+  "sha1_commons": "ec63be1ef4434fcc524ed8fc121f414fda0629ce"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2500809",
+ "uf": "PB",
+ "municipio": "Araçagi",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bras%C3%A3o_Ara%C3%A7agi-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Araçagi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ec977bcc71c0195d8aa2050a831f3812c72c20b87258faadd862a4c12f383283",
+ "rendicoes": {
+  "png": {
+   "bytes": 63075,
+   "sha256": "3e5241368b0858084f942b1ab120bd0acffdf73b6a2cf353286382804f66bd2b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14434,
+   "sha256": "202b2330f7b796500027b6ffcf3017f9d3e14cacdddf17aedac326c8062c67be",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500809.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500809.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2500809.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2500809.jpg",
+  "bytes": 11537,
+  "sha256": "ec977bcc71c0195d8aa2050a831f3812c72c20b87258faadd862a4c12f383283"
+ },
+ "sha1_origem": "96a25206a810edc55a21a525dbe37cfffbf7db86",
+ "bytes_origem": 11537,
+ "capturado_em": "2026-11-08T05:39:42Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Araçagi-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "96a25206a810edc55a21a525dbe37cfffbf7db86"
+ }
+}

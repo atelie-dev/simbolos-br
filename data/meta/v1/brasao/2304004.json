@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2304004",
+ "uf": "CE",
+ "municipio": "Coreaú",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Corea%C3%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Coreaú",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c524cd0db0be44e084bc2017a3bb0fca6e5a45e20a26e185d409bdd10cd406cb",
+ "rendicoes": {
+  "png": {
+   "bytes": 208448,
+   "sha256": "f32a025b9aef60b0ace03a16a9148ade2d05433cdcbc91c0378faf23f6e69fb7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 46103,
+   "sha256": "3b2d48f3bced4502893f5aabbc69429cd7d8e1cf77c8f5bb232e20069061418f",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2304004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2304004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2304004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2304004.jpg",
+  "bytes": 164476,
+  "sha256": "c524cd0db0be44e084bc2017a3bb0fca6e5a45e20a26e185d409bdd10cd406cb"
+ },
+ "sha1_origem": "82dc28af664ef54c42d39be02e058676a660c827",
+ "bytes_origem": 164476,
+ "capturado_em": "2026-11-08T05:32:38Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Coreaú.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:25Z",
+  "estado": "igual",
+  "sha1_commons": "82dc28af664ef54c42d39be02e058676a660c827"
+ }
+}

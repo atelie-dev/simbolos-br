@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2517001",
+ "uf": "PB",
+ "municipio": "Umbuzeiro",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Brasao_umbuzeiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Umbuzeiro",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "52ae2c7de51a6126a7c5801e2d364bb9ee3af87cd42668515197d05f2ee0d855",
+ "rendicoes": {
+  "png": {
+   "bytes": 177127,
+   "sha256": "116e3adb0917f4884ed8dc35c2dc8565a0eb66462887d70d7cb19ea466624557",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33288,
+   "sha256": "9a5a661e482b15106f8608ef28c1cc6a7f4e83a981943375434d06fc4401fb56",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2517001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2517001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2517001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2517001.jpg",
+  "bytes": 27947,
+  "sha256": "52ae2c7de51a6126a7c5801e2d364bb9ee3af87cd42668515197d05f2ee0d855"
+ },
+ "sha1_origem": "9dea787fbe25bf05395e9d634c825b8da22160cb",
+ "bytes_origem": 27947,
+ "capturado_em": "2026-11-08T05:44:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_umbuzeiro.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "9dea787fbe25bf05395e9d634c825b8da22160cb"
+ }
+}

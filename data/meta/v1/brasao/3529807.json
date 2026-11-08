@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3529807",
+ "uf": "SP",
+ "municipio": "Mineiros do Tietê",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Braz%C3%A3o_mtiete.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Ramirez1996",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5880f5bcf3acb550ae9e77a346ce5f72117c8756e29c7b109818f7b1fc90801d",
+ "rendicoes": {
+  "png": {
+   "bytes": 243154,
+   "sha256": "daf3324d61f5db18077efd17a00563262d16f5796f3712fe8e3ded279702a4b8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42026,
+   "sha256": "13657890b9b383d5ff8ffbe076a452acb5136ca98db4d2132b5b1cd04e99f660",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529807.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529807.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3529807.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3529807.jpg",
+  "bytes": 28951,
+  "sha256": "5880f5bcf3acb550ae9e77a346ce5f72117c8756e29c7b109818f7b1fc90801d"
+ },
+ "sha1_origem": "f57b4211d29b3d991960be53cc993596e89dc15f",
+ "bytes_origem": 28951,
+ "capturado_em": "2026-11-08T06:31:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brazão_mtiete.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:20Z",
+  "estado": "igual",
+  "sha1_commons": "f57b4211d29b3d991960be53cc993596e89dc15f"
+ }
+}

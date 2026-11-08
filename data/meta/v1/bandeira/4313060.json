@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4313060",
+ "uf": "RS",
+ "municipio": "Nova Hartz",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nova_Hartzbandeirars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Nova Hartz",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "59673d7b9621cc7d830bf13ccb5fc93d10686bb5eea26187da0fb5f445da8051",
+ "rendicoes": {
+  "png": {
+   "bytes": 46712,
+   "sha256": "97f00688b566f2ec6e8dcfbb4e2c84c0620d5e1456354fd83a1f53c9b63d7a05",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10763,
+   "sha256": "c58b90c6a7fc26fc0dc138e5b37a0a3c494be8510960642873f2b670e68efb8d",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313060.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313060.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4313060.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4313060.jpg",
+  "bytes": 8201,
+  "sha256": "59673d7b9621cc7d830bf13ccb5fc93d10686bb5eea26187da0fb5f445da8051"
+ },
+ "sha1_origem": "94f80a7b7492ed13f97a020af9803c111a569c91",
+ "bytes_origem": 8201,
+ "capturado_em": "2026-11-08T07:06:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Nova_Hartzbandeirars.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:34Z",
+  "estado": "igual",
+  "sha1_commons": "94f80a7b7492ed13f97a020af9803c111a569c91"
+ }
+}

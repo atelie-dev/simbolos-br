@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4117305",
+ "uf": "PR",
+ "municipio": "Ortigueira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bandeira_de_Ortigueira_-_PR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3eecb9bd51acd9ba23966bf63711b029ef0e1f80b5a4c663fae5fd46a154ae4a",
+ "rendicoes": {
+  "png": {
+   "bytes": 49813,
+   "sha256": "d534a9a752d9820d905c3dabd64b664402d83110306d44db251f6b7afb0f2878",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19025,
+   "sha256": "319552334a47d5061803705dfcdcf8cd09794c15a687be02f3a0235a901f6da6",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 355718,
+   "sha256": "3eecb9bd51acd9ba23966bf63711b029ef0e1f80b5a4c663fae5fd46a154ae4a"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117305.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117305.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4117305.jpg"
+ },
+ "sha1_origem": "9a63457eae638aeedc4aca39a5c79c6b1a6bc199",
+ "bytes_origem": 355718,
+ "capturado_em": "2026-11-08T04:29:26Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Ortigueira_-_PR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:08Z",
+  "estado": "igual",
+  "sha1_commons": "9a63457eae638aeedc4aca39a5c79c6b1a6bc199"
+ }
+}

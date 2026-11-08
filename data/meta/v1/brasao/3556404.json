@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3556404",
+ "uf": "SP",
+ "municipio": "Vargem Grande do Sul",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Brasao_vgsul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3f735798cfe34ddce185c0e942f299b69ade880a6d55233fedf1c79be43e3123",
+ "rendicoes": {
+  "png": {
+   "bytes": 87775,
+   "sha256": "325efc6fc193001e178c74a8de20d7f82f34d7eb7428607a138f91732f0344b8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21717,
+   "sha256": "335c57a555ad670fda9ba2a2238b3c332acc09f2c4876917549cb7dfb9b6540c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3556404.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3556404.jpg",
+  "bytes": 94321,
+  "sha256": "3f735798cfe34ddce185c0e942f299b69ade880a6d55233fedf1c79be43e3123"
+ },
+ "sha1_origem": "4c5f3dc6aaa6b04dd413454c766cd16520953330",
+ "bytes_origem": 94321,
+ "capturado_em": "2026-11-08T06:40:27Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_vgsul.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:41Z",
+  "estado": "igual",
+  "sha1_commons": "4c5f3dc6aaa6b04dd413454c766cd16520953330"
+ }
+}

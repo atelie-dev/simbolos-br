@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4314407",
+ "uf": "RS",
+ "municipio": "Pelotas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bras%C3%A3o_de_Pelotas.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Câmara Municipal de Pelotas",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "c01e7cecce06705cb63ff3dca31394cabf1344acb8366c041bc4cd7d1c5b31c4",
+ "rendicoes": {
+  "png": {
+   "bytes": 185551,
+   "sha256": "4d0bc8809f1239d652da46d1ed73b886f2678108c0fe15b1ef9140cbad526668",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62861,
+   "sha256": "51013cf3221c236a944de3e8f566837cf977969bb0bfadf0f41281e83311a5bb",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 93905,
+   "sha256": "c01e7cecce06705cb63ff3dca31394cabf1344acb8366c041bc4cd7d1c5b31c4"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314407.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314407.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4314407.jpg"
+ },
+ "sha1_origem": "b50e6f791046a15ac7011b97ee2c5a0c5971d232",
+ "bytes_origem": 93905,
+ "capturado_em": "2026-11-08T04:56:48Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Pelotas.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:08Z",
+  "estado": "igual",
+  "sha1_commons": "b50e6f791046a15ac7011b97ee2c5a0c5971d232"
+ }
+}

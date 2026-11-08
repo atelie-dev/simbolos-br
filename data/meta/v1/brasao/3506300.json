@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3506300",
+ "uf": "SP",
+ "municipio": "Bernardino de Campos",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Brasao_de_Bernardino_de_Campos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura do Município de Bernardino de Campos São Paulo, Brasil",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7670425dbb5384114b6dc814c0daece80a9ab7c1aba009783a971ee4729e8bb0",
+ "rendicoes": {
+  "png": {
+   "bytes": 134532,
+   "sha256": "5299eca2537349802fb33535d21292e708005531de0b7340b70ddb3e16fa2c48",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25597,
+   "sha256": "ab22adac129abcb0f561d4111a4e5583cc3d756eee1d875a882b586d43d44830",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3506300.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3506300.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3506300.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3506300.jpg",
+  "bytes": 13500,
+  "sha256": "7670425dbb5384114b6dc814c0daece80a9ab7c1aba009783a971ee4729e8bb0"
+ },
+ "sha1_origem": "fdbcb2be1bb03bc234c6ac951c643c16de6edb9f",
+ "bytes_origem": 13500,
+ "capturado_em": "2026-11-08T06:24:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_de_Bernardino_de_Campos.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "fdbcb2be1bb03bc234c6ac951c643c16de6edb9f"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4126603",
+ "uf": "PR",
+ "municipio": "Siqueira Campos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bandeira_de_Siqueira_Campos%2C_PR_300x200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Batistussi",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a39a8be34e4f7c56b19a61be442c0d9303af1e5a02931daf0dc66a5abc0a332f",
+ "rendicoes": {
+  "png": {
+   "bytes": 54332,
+   "sha256": "e51b22b81ddad17ec50ec1e327687316bc0061e8bddbab3296ef9c7e9c0c0a2d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13131,
+   "sha256": "e373dc090899e5afb2e33bb9b336646ee39eee8a16cbc295cf9aefaac1e38bf3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126603.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126603.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4126603.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4126603.jpg",
+  "bytes": 12177,
+  "sha256": "a39a8be34e4f7c56b19a61be442c0d9303af1e5a02931daf0dc66a5abc0a332f"
+ },
+ "sha1_origem": "d258c3d4c18648ee90c20e485174cdf1fcb6181b",
+ "bytes_origem": 12177,
+ "capturado_em": "2026-11-08T06:50:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Siqueira_Campos,_PR_300x200.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "d258c3d4c18648ee90c20e485174cdf1fcb6181b"
+ }
+}

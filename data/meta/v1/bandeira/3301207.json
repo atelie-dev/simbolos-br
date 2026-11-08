@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3301207",
+ "uf": "RJ",
+ "municipio": "Carmo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bandeira_de_Carmo_%28Rio_de_Janeiro%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "5a5599b170a704c360e11309c1f492e0fe8c75874e7bd0454a93e86f0af58774",
+ "rendicoes": {
+  "png": {
+   "bytes": 7134,
+   "sha256": "37a8d31988550548d8a706e4f0b05d8f5fa17b65d70e97308da72c75baabd981",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17132,
+   "sha256": "a77613b30ccec53ccb0b79ea4862ff5c52d8996849059c973b8387b979a700e9",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 3140,
+   "sha256": "5a5599b170a704c360e11309c1f492e0fe8c75874e7bd0454a93e86f0af58774"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3301207.jpg"
+ },
+ "sha1_origem": "1a9102600e347b5d1556688658b623244dca394c",
+ "bytes_origem": 3140,
+ "capturado_em": "2026-11-08T03:54:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Carmo_(Rio_de_Janeiro).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:01Z",
+  "estado": "igual",
+  "sha1_commons": "1a9102600e347b5d1556688658b623244dca394c"
+ }
+}

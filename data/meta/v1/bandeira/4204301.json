@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4204301",
+ "uf": "SC",
+ "municipio": "Concórdia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bandeira_Concordia_SantaCatarina_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "CityBreakingDown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "aa7c014946eba203c1a1d15fe4ec830a64acbbac52a467c16480c46b9376206f",
+ "rendicoes": {
+  "png": {
+   "bytes": 50478,
+   "sha256": "4cc78ab048ac786ccdd7dc602235cff6a87658ffab29c42a49b58ddf2f34e4e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23702,
+   "sha256": "735b9e9e1eb819e969bf359cefd73d24ffe0eefd262b20ce77b18f2bfc421f37",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 132485,
+   "sha256": "aa7c014946eba203c1a1d15fe4ec830a64acbbac52a467c16480c46b9376206f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4204301.jpg"
+ },
+ "sha1_origem": "68ea20eb4866f6c608936d89afbe647c45ce0f81",
+ "bytes_origem": 132485,
+ "capturado_em": "2026-11-08T04:37:44Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Concordia_SantaCatarina_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:45Z",
+  "estado": "igual",
+  "sha1_commons": "68ea20eb4866f6c608936d89afbe647c45ce0f81"
+ }
+}

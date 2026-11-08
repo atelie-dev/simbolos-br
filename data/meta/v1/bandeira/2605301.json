@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2605301",
+ "uf": "PE",
+ "municipio": "Exu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bandeira_do_Exu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Pytágoras Cordeiro de Oliveira",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3aea035a00cea7475ce2631e2563b8128ee1a0a0a69a8e7902b4b264457ac757",
+ "rendicoes": {
+  "png": {
+   "bytes": 57492,
+   "sha256": "b49b83ef935e2688bab81089c227c35e0787f001a097d0c2659b77253c0b3889",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17875,
+   "sha256": "5363b4ff145fcdbc28149a1fd9785af2bfd7edf93d89ac831eb211940e373e19",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2605301.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2605301.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2605301.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2605301.jpg",
+  "bytes": 19052,
+  "sha256": "3aea035a00cea7475ce2631e2563b8128ee1a0a0a69a8e7902b4b264457ac757"
+ },
+ "sha1_origem": "c627ace131eb1336c080e057be6e096ea159397f",
+ "bytes_origem": 19052,
+ "capturado_em": "2026-11-08T05:45:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_Exu.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:17Z",
+  "estado": "igual",
+  "sha1_commons": "c627ace131eb1336c080e057be6e096ea159397f"
+ }
+}

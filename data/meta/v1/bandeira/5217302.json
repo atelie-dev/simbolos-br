@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5217302",
+ "uf": "GO",
+ "municipio": "Pirenópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bandeira_pirenopolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Pirenópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "64d07d06017ad711d6d50bcfee8d2871777cc4c64f0734d0a62115395774ff6d",
+ "rendicoes": {
+  "png": {
+   "bytes": 62341,
+   "sha256": "979cb4724451fdba8091d5cd93c3f66a763231ab360a2b3900c911ddc2fde626",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21106,
+   "sha256": "68b227fe38bbdca51c699dedaaaeb02cf0d54790a05682266cfcbb94368f96c3",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5217302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5217302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5217302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5217302.jpg",
+  "bytes": 54012,
+  "sha256": "64d07d06017ad711d6d50bcfee8d2871777cc4c64f0734d0a62115395774ff6d"
+ },
+ "sha1_origem": "e4677f9f5189a2cfb837bba55127b399e175c568",
+ "bytes_origem": 54012,
+ "capturado_em": "2026-11-08T07:19:55Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_pirenopolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:23Z",
+  "estado": "igual",
+  "sha1_commons": "e4677f9f5189a2cfb837bba55127b399e175c568"
+ }
+}

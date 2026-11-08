@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4209201",
+ "uf": "SC",
+ "municipio": "Lacerdópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bandeira_Lacerdopolis_SantaCatarina_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Lacerdópolis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7ee4e451f477e81753623fafc02b08d92e61dd129946d9e71150e19483fa2228",
+ "rendicoes": {
+  "png": {
+   "bytes": 24327,
+   "sha256": "c7b90c0815c004bfc6fc9a1e61d1a121af94a1586d57aa757d08f66d8608508c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6558,
+   "sha256": "027b44231d1b49908be1c7b8de6c5f078a554599004a32d1119397e2a6669783",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4209201.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4209201.jpg",
+  "bytes": 3760,
+  "sha256": "7ee4e451f477e81753623fafc02b08d92e61dd129946d9e71150e19483fa2228"
+ },
+ "sha1_origem": "f04aed87c06dd0d4edf735e84b0c160895aa89b2",
+ "bytes_origem": 3760,
+ "capturado_em": "2026-11-08T06:54:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Lacerdopolis_SantaCatarina_Brasil.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "f04aed87c06dd0d4edf735e84b0c160895aa89b2"
+ }
+}

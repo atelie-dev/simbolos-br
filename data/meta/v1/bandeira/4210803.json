@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4210803",
+ "uf": "SC",
+ "municipio": "Meleiro",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Bandeira_do_munic%C3%ADpio_de_Meleiro_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Meleiro (SC)",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4db52399b4365afc5956bfbd3105a80cfdddf161fd9408e9fbbe264ee8c5e5ce",
+ "rendicoes": {
+  "png": {
+   "bytes": 58471,
+   "sha256": "ea7abc731019a55a92042e4a620ccddaa30e036b8f3487a7d4ddbcdcf47a26d9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22889,
+   "sha256": "f5be7baa86d8b474dc07f6965d5c3aaf537d7bd525509f4e5d6c2eba30579ccb",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210803.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210803.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4210803.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4210803.png",
+  "bytes": 299020,
+  "sha256": "4db52399b4365afc5956bfbd3105a80cfdddf161fd9408e9fbbe264ee8c5e5ce"
+ },
+ "sha1_origem": "9d4639eee42106601f61d35be9627c6c14d36d70",
+ "bytes_origem": 299020,
+ "capturado_em": "2026-11-08T06:54:58Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Meleiro_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:20Z",
+  "estado": "igual",
+  "sha1_commons": "9d4639eee42106601f61d35be9627c6c14d36d70"
+ }
+}

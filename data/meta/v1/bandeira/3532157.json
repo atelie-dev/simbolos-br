@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3532157",
+ "uf": "SP",
+ "municipio": "Nantes",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bandeira_Nantes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9134cddeb3939259e18286bce17499e91c4fd0a3020a95e02e62894bed01e6fa",
+ "rendicoes": {
+  "png": {
+   "bytes": 20078,
+   "sha256": "e47068c9cc4656d61a5099b2f0043c47ffcedf5d4680bdbf28b4859c4da43e9d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12792,
+   "sha256": "7cd977f8ec090ac112e2101c448473b4a72150e72b66a30932173af5a985a906",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532157.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532157.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3532157.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3532157.png",
+  "bytes": 18443,
+  "sha256": "9134cddeb3939259e18286bce17499e91c4fd0a3020a95e02e62894bed01e6fa"
+ },
+ "sha1_origem": "6152efcc2b16be92e302088f22c244f0aa17ec31",
+ "bytes_origem": 18443,
+ "capturado_em": "2026-11-08T06:32:45Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Nantes.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:50Z",
+  "estado": "igual",
+  "sha1_commons": "6152efcc2b16be92e302088f22c244f0aa17ec31"
+ }
+}

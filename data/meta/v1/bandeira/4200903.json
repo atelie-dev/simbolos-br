@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4200903",
+ "uf": "SC",
+ "municipio": "Angelina",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bandeira_do_munic%C3%ADpio_de_Angelina_%28SC%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Angelina",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d64dc44ee2ec41c2a289878538e9bc57d361eaab0f77813d5c338b6fa21baa50",
+ "rendicoes": {
+  "png": {
+   "bytes": 35633,
+   "sha256": "4a4df898bc6185445353b0ebd1a4383fcf933ddd55e051baca301b22f497bdd1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18330,
+   "sha256": "a91c8369d72ac62faa6bc864307207ee18d809655c5cb63ef335f478ec46d522",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4200903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4200903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4200903.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4200903.png",
+  "bytes": 298932,
+  "sha256": "d64dc44ee2ec41c2a289878538e9bc57d361eaab0f77813d5c338b6fa21baa50"
+ },
+ "sha1_origem": "15b4b5905ff13dac52d8ac3c21e308cd0f9e7018",
+ "bytes_origem": 298932,
+ "capturado_em": "2026-11-08T06:51:35Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_do_município_de_Angelina_(SC).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:18Z",
+  "estado": "igual",
+  "sha1_commons": "15b4b5905ff13dac52d8ac3c21e308cd0f9e7018"
+ }
+}

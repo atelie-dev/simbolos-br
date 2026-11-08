@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1400605",
+ "uf": "RR",
+ "municipio": "São Luiz do Anauá",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Brasao_Sao_Luiz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipality of São Luiz.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "004b36c49e75e04aede9a9d2d11d5bdadc10c0b2be5630d79b32261099499929",
+ "rendicoes": {
+  "png": {
+   "bytes": 36470,
+   "sha256": "977a20c3115923839438216e85b56063ecdfd04e6c55df5625b4d17277a8e7ad",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9214,
+   "sha256": "b3f05e05b7db7f478eaa6bbb9479b862535294bd43f336682020723c73256bac",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1400605.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1400605.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1400605.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1400605.jpg",
+  "bytes": 47430,
+  "sha256": "004b36c49e75e04aede9a9d2d11d5bdadc10c0b2be5630d79b32261099499929"
+ },
+ "sha1_origem": "6a18c15740a447ec1ef15ec9a31b30bb791669ee",
+ "bytes_origem": 47430,
+ "capturado_em": "2026-11-08T05:23:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_Sao_Luiz.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:34Z",
+  "estado": "igual",
+  "sha1_commons": "6a18c15740a447ec1ef15ec9a31b30bb791669ee"
+ }
+}

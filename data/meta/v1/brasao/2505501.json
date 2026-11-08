@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2505501",
+ "uf": "PB",
+ "municipio": "Vista Serrana",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Brasao_de_Vista_Serrana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Domínio Público",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dfd05a880cb62dc2572577558b1a4234771f8b3f3b914b16ff96b60e16991706",
+ "rendicoes": {
+  "png": {
+   "bytes": 295511,
+   "sha256": "7c4e38d2b8124806eb5d2b4d1815c86f446c8058e3e9734f5cab01c6f17f2bd0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49762,
+   "sha256": "9a0dcf54dac97167c50351bbe85e2411cb53890350b9d380ccadd198201ce5ae",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2505501.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2505501.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2505501.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2505501.jpg",
+  "bytes": 130569,
+  "sha256": "dfd05a880cb62dc2572577558b1a4234771f8b3f3b914b16ff96b60e16991706"
+ },
+ "sha1_origem": "88351d861f0e54ba07611c723809d8cc29e9e5a4",
+ "bytes_origem": 130569,
+ "capturado_em": "2026-11-08T05:41:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasao_de_Vista_Serrana.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:37Z",
+  "estado": "igual",
+  "sha1_commons": "88351d861f0e54ba07611c723809d8cc29e9e5a4"
+ }
+}

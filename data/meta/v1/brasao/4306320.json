@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4306320",
+ "uf": "RS",
+ "municipio": "Derrubadas",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bras%C3%A3o_Derrubadas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Derrubadas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7844fe73bb1c612dca092c9450dbff2b9dae21f18d48ae43ce84436090e34dc4",
+ "rendicoes": {
+  "png": {
+   "bytes": 180670,
+   "sha256": "4fe119ef8605f5776f6989a6e4e5d1c65d2186aab60bd53151d655b28941819d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31310,
+   "sha256": "a911dc3fc4da50372aa3bb6d4042e37902637513b430a733d98f6ce13d3807c2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4306320.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4306320.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4306320.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4306320.jpg",
+  "bytes": 27987,
+  "sha256": "7844fe73bb1c612dca092c9450dbff2b9dae21f18d48ae43ce84436090e34dc4"
+ },
+ "sha1_origem": "42c140f58a2d6fd39471fcec4e00cc6875c79ee9",
+ "bytes_origem": 27987,
+ "capturado_em": "2026-11-08T07:02:05Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Derrubadas.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:48Z",
+  "estado": "igual",
+  "sha1_commons": "42c140f58a2d6fd39471fcec4e00cc6875c79ee9"
+ }
+}

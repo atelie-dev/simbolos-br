@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2301950",
+ "uf": "CE",
+ "municipio": "Barreira",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bandeira_de_Barreira_CE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Barreira CE",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d07acf6bf70bf4b1abad99e1ebf4855d332f03aa6a5a6eda05ac3ae9c6f31569",
+ "rendicoes": {
+  "png": {
+   "bytes": 53491,
+   "sha256": "eaf3fa753e54c513bb6244af007c8875242cfbd04d0d90469d9eef3bce64240b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19159,
+   "sha256": "1af566e1ad450397a9bc55b7155d73ece815757ad8a0ec868212e02f64cdf4ed",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2301950.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2301950.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2301950.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2301950.png",
+  "bytes": 381641,
+  "sha256": "d07acf6bf70bf4b1abad99e1ebf4855d332f03aa6a5a6eda05ac3ae9c6f31569"
+ },
+ "sha1_origem": "dec2ace47f288c37873d2ad4cc4b95ec5ae7bf22",
+ "bytes_origem": 381641,
+ "capturado_em": "2026-11-08T05:32:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Barreira_CE.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:58Z",
+  "estado": "igual",
+  "sha1_commons": "dec2ace47f288c37873d2ad4cc4b95ec5ae7bf22"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3548500",
+ "uf": "SP",
+ "municipio": "Santos",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bandeira_de_Santos_%28S%C3%A3o_Paulo%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Own work",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "2f8b01dedeaa4c8ee2dc443886615cafe2c03c630d8bb966717e6e7a60c2f67b",
+ "rendicoes": {
+  "png": {
+   "bytes": 68698,
+   "sha256": "eb32d632c0ba957baa1a04b33239bfe483ffb58e42b3359a4e49983b49862906",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23022,
+   "sha256": "b44f253150709e61809a8413ccec8ef537dd0345cf7e6ca34b83e89746616b6f",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 1006909,
+   "sha256": "2f8b01dedeaa4c8ee2dc443886615cafe2c03c630d8bb966717e6e7a60c2f67b"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3548500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3548500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3548500.jpg"
+ },
+ "sha1_origem": "5c7e629eaf67053dea45399e808ff7ea072dd3ea",
+ "bytes_origem": 1006909,
+ "capturado_em": "2026-11-08T04:16:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santos_(São_Paulo).svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "5c7e629eaf67053dea45399e808ff7ea072dd3ea"
+ }
+}

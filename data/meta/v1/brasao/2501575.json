@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2501575",
+ "uf": "PB",
+ "municipio": "Barra de Santana",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bras%C3%A3o_Barra_de_Santana-PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Barra de Santana",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "87856c0aa92858327e1ff0b8d8b64e0ebaaf689fd70b1a5c53c2e798707f51f5",
+ "rendicoes": {
+  "png": {
+   "bytes": 108423,
+   "sha256": "9efeef867f82854e3fadc440d9a10f61bfeb75d48b27181bb91dacea2e084f88",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23581,
+   "sha256": "4b3c80c72a627348ce2504e4cfb24de4b4f21de040027b35e489840a49f150e2",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501575.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501575.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2501575.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2501575.jpg",
+  "bytes": 19249,
+  "sha256": "87856c0aa92858327e1ff0b8d8b64e0ebaaf689fd70b1a5c53c2e798707f51f5"
+ },
+ "sha1_origem": "00de211e6c2945cf4b8a8316098c271376951233",
+ "bytes_origem": 19249,
+ "capturado_em": "2026-11-08T05:39:57Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Barra_de_Santana-PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:46Z",
+  "estado": "igual",
+  "sha1_commons": "00de211e6c2945cf4b8a8316098c271376951233"
+ }
+}

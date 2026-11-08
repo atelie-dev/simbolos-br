@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3534500",
+ "uf": "SP",
+ "municipio": "Oscar Bressane",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bras%C3%A3o_Oscar_Bressane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "87537fde9f9a1d07841fa28df071b6fb7ca6cc486fa1d8951eb57ee76dc200e2",
+ "rendicoes": {
+  "png": {
+   "bytes": 107910,
+   "sha256": "7e071f6c28748dfbcfa086ca66899e1e864100f5c310d93991d6d9883c450c4e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24604,
+   "sha256": "f9983210121e1967a294f25d2583deb55eb277c99e8be2d34d2d3f38f3f33dd7",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3534500.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3534500.jpg",
+  "bytes": 28404,
+  "sha256": "87537fde9f9a1d07841fa28df071b6fb7ca6cc486fa1d8951eb57ee76dc200e2"
+ },
+ "sha1_origem": "d22a4ff31d554576a5e4c402d5edd9343bc84333",
+ "bytes_origem": 28404,
+ "capturado_em": "2026-11-08T06:33:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Oscar_Bressane.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:52Z",
+  "estado": "igual",
+  "sha1_commons": "d22a4ff31d554576a5e4c402d5edd9343bc84333"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2503555",
+ "uf": "PB",
+ "municipio": "Cacimbas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandeira_cacimbas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Cacimbas",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b31191238e2893b4639ddccce0065e61f9ae26da64b4cfa8a6f1ac9957dba086",
+ "rendicoes": {
+  "png": {
+   "bytes": 14209,
+   "sha256": "2ef4aa63c91088dba78d4043d524fc1148d764911902d8ac9e4b132480c1ccd4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4553,
+   "sha256": "779e39e19db762a189ee07ebae34ca6c1757adb382fca7a2736c81b58c4c2427",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503555.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503555.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503555.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2503555.png",
+  "bytes": 6418,
+  "sha256": "b31191238e2893b4639ddccce0065e61f9ae26da64b4cfa8a6f1ac9957dba086"
+ },
+ "sha1_origem": "097bffc36f9c5de8924e43c517cfb00945810426",
+ "bytes_origem": 6418,
+ "capturado_em": "2026-11-08T05:40:25Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_cacimbas.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:56Z",
+  "estado": "igual",
+  "sha1_commons": "097bffc36f9c5de8924e43c517cfb00945810426"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3525508",
+ "uf": "SP",
+ "municipio": "Joanópolis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bandeira_Joan%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1ca122c28e6c2ace93ae128154ea979c4f88be70767cf9c80aa45e6db93d7e56",
+ "rendicoes": {
+  "png": {
+   "bytes": 57610,
+   "sha256": "4383d615fd630c5a69d8004a2f876defda8f5c8537b7d9143d59eaf106839a57",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12064,
+   "sha256": "1f191c8a94eeb1e0731b63ea860b5f03e896ca035761032c565b43301c95fb03",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3525508.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3525508.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3525508.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3525508.jpg",
+  "bytes": 13905,
+  "sha256": "1ca122c28e6c2ace93ae128154ea979c4f88be70767cf9c80aa45e6db93d7e56"
+ },
+ "sha1_origem": "30d9df9c1031f4590fea779403d7f5eda6bfb1d9",
+ "bytes_origem": 13905,
+ "capturado_em": "2026-11-08T06:30:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Joanópolis.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:48Z",
+  "estado": "igual",
+  "sha1_commons": "30d9df9c1031f4590fea779403d7f5eda6bfb1d9"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4300554",
+ "uf": "RS",
+ "municipio": "Alto Alegre",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_Alto_Alegre_RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "54a987877a1a852dfc6b32153f188b5d710a73c8eb0aa528f880e7895c1f7be7",
+ "rendicoes": {
+  "png": {
+   "bytes": 237403,
+   "sha256": "1a1f1d757690e5ac0a694df2f1e2925839b9fe50165359a216e224e91377496b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37733,
+   "sha256": "5a384b802cfeccfe98fbaeb4d6c6ed8262252c3dd8020a75273e7f7e0cb082f6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300554.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300554.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4300554.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4300554.jpg",
+  "bytes": 33899,
+  "sha256": "54a987877a1a852dfc6b32153f188b5d710a73c8eb0aa528f880e7895c1f7be7"
+ },
+ "sha1_origem": "3b44a124e97156cc98a05ae241b37f29e8106dea",
+ "bytes_origem": 33899,
+ "capturado_em": "2026-11-08T06:58:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Alto_Alegre_RS.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:42Z",
+  "estado": "igual",
+  "sha1_commons": "3b44a124e97156cc98a05ae241b37f29e8106dea"
+ }
+}

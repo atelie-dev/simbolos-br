@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2303907",
+ "uf": "CE",
+ "municipio": "Chaval",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bras%C3%A3o_Chaval_%28CE%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f13b481a07fd375074c5dedeb3d365fd267b70b5db43d76d6cb027c072ead32d",
+ "rendicoes": {
+  "png": {
+   "bytes": 76267,
+   "sha256": "b1904a58cb57faba7957b86709f4e11b25914504121ee2b1cbb7abdea0896afe",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21676,
+   "sha256": "bb466f33978324d9b65b11f8559c1ab469c7d0dabcab0b974c1e7b126e913ef4",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2303907.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2303907.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2303907.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2303907.png",
+  "bytes": 74331,
+  "sha256": "f13b481a07fd375074c5dedeb3d365fd267b70b5db43d76d6cb027c072ead32d"
+ },
+ "sha1_origem": "2d66893a733b93de76786f00e51428eda2850837",
+ "bytes_origem": 74331,
+ "capturado_em": "2026-11-08T05:32:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Chaval_(CE).png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:48Z",
+  "estado": "igual",
+  "sha1_commons": "2d66893a733b93de76786f00e51428eda2850837"
+ }
+}

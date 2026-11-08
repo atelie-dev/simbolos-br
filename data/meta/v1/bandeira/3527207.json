@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3527207",
+ "uf": "SP",
+ "municipio": "Lorena",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bandeira_Lorena_SaoPaulo_Brasil_2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "FORTES",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a738796101f25115b0adfbb8b6c27a73f6eb5c08bac0da9f622a3a7f9e06e26f",
+ "rendicoes": {
+  "png": {
+   "bytes": 20441,
+   "sha256": "699dad70b3d73732acb6eef89e17034903eec7ac81c2a0a0fb4b9e5144262039",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15139,
+   "sha256": "5e1826af798a13f3dcfebf1f3736c1e1ca046e6cd981fad7f793a4e5ef90c858",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 4920,
+   "sha256": "a738796101f25115b0adfbb8b6c27a73f6eb5c08bac0da9f622a3a7f9e06e26f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527207.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527207.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3527207.jpg"
+ },
+ "sha1_origem": "a05d90eea1edd6753417730c2d55aa431734f423",
+ "bytes_origem": 4920,
+ "capturado_em": "2026-11-08T04:07:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Lorena_SaoPaulo_Brasil_2.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:49Z",
+  "estado": "igual",
+  "sha1_commons": "a05d90eea1edd6753417730c2d55aa431734f423"
+ }
+}

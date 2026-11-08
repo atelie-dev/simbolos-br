@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5221577",
+ "uf": "GO",
+ "municipio": "Uirapuru",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bandeira_Uirapuru-GO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Uirapuru, Goiás.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "dcde83aaf298a570536b6391330173737cc1ba4082eaf3209004349b869a6b39",
+ "rendicoes": {
+  "png": {
+   "bytes": 34823,
+   "sha256": "e49204541c71ee8e2544ff73302129a93e090b171ef4a88610b84b46942fcf7c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20035,
+   "sha256": "98050ceca5a873e5d36c4fedb50ea6f6b93f3398af927298e23e9d46398db118",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5221577.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5221577.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5221577.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5221577.png",
+  "bytes": 40010,
+  "sha256": "dcde83aaf298a570536b6391330173737cc1ba4082eaf3209004349b869a6b39"
+ },
+ "sha1_origem": "41f08cf610928f1123a5317935aa32630a98eec9",
+ "bytes_origem": 40010,
+ "capturado_em": "2026-11-08T07:20:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Uirapuru-GO.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:55Z",
+  "estado": "igual",
+  "sha1_commons": "41f08cf610928f1123a5317935aa32630a98eec9"
+ }
+}

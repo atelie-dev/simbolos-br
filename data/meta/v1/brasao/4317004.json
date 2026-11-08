@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4317004",
+ "uf": "RS",
+ "municipio": "Santana da Boa Vista",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bras%C3%A3o_de_Santana_da_Boa_Vista%2C_RS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "C.P.D.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4154507ff973e49d184ec06c5781693d819e4f78b68a9152786e80220bc24348",
+ "rendicoes": {
+  "png": {
+   "bytes": 252714,
+   "sha256": "fed215219fad4707ddb52265fde3a895def343baae856b77768cf46ecebb3bf1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 71343,
+   "sha256": "83ea2c1943698b094b6fb8181c139bc7e646de456c6aeeb2faa68941c264c7ac",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4317004.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4317004.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4317004.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4317004.png",
+  "bytes": 323651,
+  "sha256": "4154507ff973e49d184ec06c5781693d819e4f78b68a9152786e80220bc24348"
+ },
+ "sha1_origem": "27c6224099d8627a2e60594724cc6917d27d7e80",
+ "bytes_origem": 323651,
+ "capturado_em": "2026-11-08T07:08:36Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Santana_da_Boa_Vista,_RS.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:11Z",
+  "estado": "igual",
+  "sha1_commons": "27c6224099d8627a2e60594724cc6917d27d7e80"
+ }
+}

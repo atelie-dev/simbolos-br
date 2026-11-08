@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3137908",
+ "uf": "MG",
+ "municipio": "Lamim",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Bandeira.Lamim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "LeandroRD",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "12c40f035c797cf8b8ea8891ce2571d6f3049ed97961ce591c35709838298ee7",
+ "rendicoes": {
+  "png": {
+   "bytes": 187315,
+   "sha256": "f8df62844b25f16e0ee3ebf62eb9c90c28ffa824052acca574f6c4b46f1e60d2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26747,
+   "sha256": "57abe6cd3bf58408249f4ee1fc05eeb94753e4a842f3411fc6b18b109940a7a9",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3137908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3137908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3137908.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3137908.jpg",
+  "bytes": 32263,
+  "sha256": "12c40f035c797cf8b8ea8891ce2571d6f3049ed97961ce591c35709838298ee7"
+ },
+ "sha1_origem": "9435c3869940718eb16d487e57465fd5d63b9d62",
+ "bytes_origem": 32263,
+ "capturado_em": "2026-11-08T06:10:34Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira.Lamim.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:40Z",
+  "estado": "igual",
+  "sha1_commons": "9435c3869940718eb16d487e57465fd5d63b9d62"
+ }
+}

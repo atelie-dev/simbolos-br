@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1400506",
+ "uf": "RR",
+ "municipio": "São João da Baliza",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bandeira_de_S%C3%A3o_Jo%C3%A3o_da_Baliza_-_RR.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "81173232a963d6d5bf509c2844e7008d71626360bca7a766d9308fd595c2fd4c",
+ "rendicoes": {
+  "png": {
+   "bytes": 15529,
+   "sha256": "2402ede9b53808979f9aec4d95543b466d41b4d978b5345fb5a97ef630d89317",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12582,
+   "sha256": "f44900a903e6b761da5a1cac9b7bb1693b7d75fa9a42a6c40f66fa05a1b55d65",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 12702,
+   "sha256": "81173232a963d6d5bf509c2844e7008d71626360bca7a766d9308fd595c2fd4c"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400506.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400506.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1400506.jpg"
+ },
+ "sha1_origem": "27b84def9a0aef07f3109b661782890a3eb20c28",
+ "bytes_origem": 12702,
+ "capturado_em": "2026-11-08T02:32:31Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_João_da_Baliza_-_RR.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "27b84def9a0aef07f3109b661782890a3eb20c28"
+ }
+}

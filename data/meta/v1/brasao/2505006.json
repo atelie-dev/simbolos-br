@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2505006",
+ "uf": "PB",
+ "municipio": "Cubati",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bras%C3%A3o_de_Cubati%2C_PB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Seridó 10",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "08fd163b45247cec80e0424da05633a4a0bea7bc0ec1a2ad90c5f3cbd38dc91e",
+ "rendicoes": {
+  "png": {
+   "bytes": 300612,
+   "sha256": "f612a5ee0b0d883e7216578fc0eae6b79dcdff603d9626382e68a37e9199b1d8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 45961,
+   "sha256": "33d8a7930ef15069e39f8680295b8d19a7a95e94c3bc662014bdaff3d8a998c6",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2505006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2505006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2505006.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2505006.jpg",
+  "bytes": 118631,
+  "sha256": "08fd163b45247cec80e0424da05633a4a0bea7bc0ec1a2ad90c5f3cbd38dc91e"
+ },
+ "sha1_origem": "c4154f2479cc4cc4486b16090ab222a950110b09",
+ "bytes_origem": 118631,
+ "capturado_em": "2026-11-08T05:40:50Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Cubati,_PB.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:01Z",
+  "estado": "igual",
+  "sha1_commons": "c4154f2479cc4cc4486b16090ab222a950110b09"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1302900",
+ "uf": "AM",
+ "municipio": "Maués",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bras%C3%A3o_de_Mau%C3%A9s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4a0770057fe18a7bf5077055c4be89df87fd2130cda647d0dbc1786b40a97898",
+ "rendicoes": {
+  "png": {
+   "bytes": 69061,
+   "sha256": "03829a856eea9a8cf9a11eab308cf19cf0de90fd735966c3e4e20b6b48e9ab95",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17999,
+   "sha256": "78247951e04d5f5a3ae6bcf268a16a7f6e19dbb73af3624b30111a2fcc3efbad",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1302900.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1302900.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1302900.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1302900.jpg",
+  "bytes": 45143,
+  "sha256": "4a0770057fe18a7bf5077055c4be89df87fd2130cda647d0dbc1786b40a97898"
+ },
+ "sha1_origem": "b02d1951046edbd337d8b16c27d508864d4a68d8",
+ "bytes_origem": 45143,
+ "capturado_em": "2026-11-08T05:23:08Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Maués.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:07Z",
+  "estado": "igual",
+  "sha1_commons": "b02d1951046edbd337d8b16c27d508864d4a68d8"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4306759",
+ "uf": "RS",
+ "municipio": "Doutor Ricardo",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Doutor_Ricardobanders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Doutor Ricardo",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "24c356ca30753e2d7e2f03cfae9ca78760513fe7224b97a666bd462a8fc5f381",
+ "rendicoes": {
+  "png": {
+   "bytes": 60540,
+   "sha256": "0abd00ebe106da65b282845862a89805aadca01e362aa14c4eab4da2b07178ea",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14570,
+   "sha256": "513480e8c16336bf6f265bce7d17fc45b1e36ec0f1fbb22f9ac9c9393ccb213c",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306759.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306759.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4306759.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4306759.jpg",
+  "bytes": 7288,
+  "sha256": "24c356ca30753e2d7e2f03cfae9ca78760513fe7224b97a666bd462a8fc5f381"
+ },
+ "sha1_origem": "bd7d9964811428c97d59f1bc9c47c40accdc83b5",
+ "bytes_origem": 7288,
+ "capturado_em": "2026-11-08T07:02:23Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Doutor_Ricardobanders.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:26Z",
+  "estado": "igual",
+  "sha1_commons": "bd7d9964811428c97d59f1bc9c47c40accdc83b5"
+ }
+}

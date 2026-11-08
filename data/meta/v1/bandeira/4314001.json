@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "4314001",
+ "uf": "RS",
+ "municipio": "Paraí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bandeira_Para%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Murilo Rn'R",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1d512409746c1e3b1ebee1d0ecce3079b95cf66120c754b6b805fc67ff8ba3ca",
+ "rendicoes": {
+  "png": {
+   "bytes": 42347,
+   "sha256": "f58f70462f29844649114ec921af6e79e201320c9000a9d66028e8afb367d476",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20615,
+   "sha256": "175b324193c6df485e06eb2f87fd8e0cc5b131295373a7e026bf352549409485",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4314001.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4314001.jpg",
+  "bytes": 379673,
+  "sha256": "1d512409746c1e3b1ebee1d0ecce3079b95cf66120c754b6b805fc67ff8ba3ca"
+ },
+ "sha1_origem": "5ac24b995d098c42a61dd707c616849e923480b3",
+ "bytes_origem": 379673,
+ "capturado_em": "2026-11-08T07:06:46Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Paraí.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:51Z",
+  "estado": "igual",
+  "sha1_commons": "5ac24b995d098c42a61dd707c616849e923480b3"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3510609",
+ "uf": "SP",
+ "municipio": "Carapicuíba",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Carapicuiba_bandeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2f024fd0244531f59933fbd876837b0cffdc397da5761d6fefc124be8027d3c8",
+ "rendicoes": {
+  "png": {
+   "bytes": 51540,
+   "sha256": "12d535b45b4477bee20dc1baf7833aa215848ceecc673dbda27fc08df4919428",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15780,
+   "sha256": "227aed544ef8361a4d79e144e52d22f12b83a951b453fb37282592fb622e577b",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3510609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3510609.jpg",
+  "bytes": 21587,
+  "sha256": "2f024fd0244531f59933fbd876837b0cffdc397da5761d6fefc124be8027d3c8"
+ },
+ "sha1_origem": "dc955dde9f83c6e6178157adbaa62afbd047029d",
+ "bytes_origem": 21587,
+ "capturado_em": "2026-11-08T06:25:59Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Carapicuiba_bandeira.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:21Z",
+  "estado": "igual",
+  "sha1_commons": "dc955dde9f83c6e6178157adbaa62afbd047029d"
+ }
+}

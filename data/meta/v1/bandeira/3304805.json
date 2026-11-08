@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3304805",
+ "uf": "RJ",
+ "municipio": "São Fidélis",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bandeira_de_S%C3%A3o_Fid%C3%A9lis_-_Decreto-25-72.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Grok (modelo Aurora da xAI). Prompt e supervisão de Alexandre Mury para restauração técnica fiel aos decretos de 1963 e 1972.",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e102b241fd4e47ca59f868552e6d765d0492a6d1e269c952713e691c3e2c9162",
+ "rendicoes": {
+  "png": {
+   "bytes": 104560,
+   "sha256": "61739c8b922c1fcdbb184f29a46f82a13f95a93786bd22784445a44d82a38b09",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31056,
+   "sha256": "e7d629114e646ab5ef7926aa5ea15b5bfa66a0a139809d80a83d870cfaabae23",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3304805.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3304805.png",
+  "bytes": 1985683,
+  "sha256": "e102b241fd4e47ca59f868552e6d765d0492a6d1e269c952713e691c3e2c9162"
+ },
+ "sha1_origem": "9b780eb96e5ec420c54a2f00eef8d4c1a9edb2ec",
+ "bytes_origem": 1985683,
+ "capturado_em": "2026-11-08T06:22:12Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_São_Fidélis_-_Decreto-25-72.png",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:13Z",
+  "estado": "igual",
+  "sha1_commons": "9b780eb96e5ec420c54a2f00eef8d4c1a9edb2ec"
+ }
+}

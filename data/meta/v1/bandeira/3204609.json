@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3204609",
+ "uf": "ES",
+ "municipio": "Santa Teresa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bandeira_de_Santa_Teresa_%28Esp%C3%ADrito_Santo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Santa Teresa (Espírito Santo)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2d44fbcb155ce649b6f8dfd3be2ab4800c7f490126ba5c14a8d1888c7b8f1d60",
+ "rendicoes": {
+  "png": {
+   "bytes": 72609,
+   "sha256": "6da791fdaebc8c0a7260f1871da161b60b24b1a4c1ed8007756ce02d70a45a30",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16173,
+   "sha256": "36cf47528fd29ddbc28f103ae1f0f745ccefe482e9d36ea64fe6cc5485a8be34",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3204609.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3204609.jpg",
+  "bytes": 13466,
+  "sha256": "2d44fbcb155ce649b6f8dfd3be2ab4800c7f490126ba5c14a8d1888c7b8f1d60"
+ },
+ "sha1_origem": "450c6e6204b072a2c327fd8fb1bf13488dd72a87",
+ "bytes_origem": 13466,
+ "capturado_em": "2026-11-08T06:20:07Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santa_Teresa_(Espírito_Santo).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "450c6e6204b072a2c327fd8fb1bf13488dd72a87"
+ }
+}

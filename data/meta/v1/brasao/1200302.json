@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "1200302",
+ "uf": "AC",
+ "municipio": "Feijó",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bras%C3%A3o_de_Feij%C3%B3.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "Prefeitura Municipal de Feijó",
+ "estado": "publicado",
+ "formato_origem": "image/webp",
+ "sha256_origem": "0f651100591d055a90b8d171cdbb53a107f767bf066891f35d34f22bb9e75c64",
+ "rendicoes": {
+  "png": {
+   "bytes": 85775,
+   "sha256": "78296d3f0e413117d6c75030570954d04d56504635cd5941516c2be677f66385",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20770,
+   "sha256": "77137a18630640b0546a7b7b59b49bf61cf545453e807debc9f2a772a1439815",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1200302.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1200302.webp",
+  "bytes": 11222,
+  "sha256": "0f651100591d055a90b8d171cdbb53a107f767bf066891f35d34f22bb9e75c64"
+ },
+ "sha1_origem": "1fc122dc689358f5a625e26402d922d692985e54",
+ "bytes_origem": 11222,
+ "capturado_em": "2026-11-08T05:22:11Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Feijó.webp",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:02Z",
+  "estado": "igual",
+  "sha1_commons": "1fc122dc689358f5a625e26402d922d692985e54"
+ }
+}

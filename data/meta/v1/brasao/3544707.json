@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "3544707",
+ "uf": "SP",
+ "municipio": "Sagres",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bras%C3%A3o_Sagres.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1337985325698b92f30dbe03924c55f973f671ff6cb139414023584ee457fa96",
+ "rendicoes": {
+  "png": {
+   "bytes": 48782,
+   "sha256": "5bd67321df2b9565787388be13465cdaecb6ee58d60d066fa982be4095bbafad",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12321,
+   "sha256": "db7ddc8df0412c50735ba60f8b252d6e8b0d89248d4717c1f6acd9057b3e3566",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3544707.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3544707.jpg",
+  "bytes": 11414,
+  "sha256": "1337985325698b92f30dbe03924c55f973f671ff6cb139414023584ee457fa96"
+ },
+ "sha1_origem": "c3e89527e37c0c23a1b3d5164c85c416724b71db",
+ "bytes_origem": 11414,
+ "capturado_em": "2026-11-08T06:36:49Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_Sagres.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:54Z",
+  "estado": "igual",
+  "sha1_commons": "c3e89527e37c0c23a1b3d5164c85c416724b71db"
+ }
+}

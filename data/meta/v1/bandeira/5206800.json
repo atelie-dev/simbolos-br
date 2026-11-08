@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "5206800",
+ "uf": "GO",
+ "municipio": "Damolândia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bandeira_Damol%C3%A2ndia-GO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura municipal de Damolândia, Goiás.",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c80ece54ed14a4876f946c5cb46baead3c84dcacde1ba7626e2ccbf9bb71348c",
+ "rendicoes": {
+  "png": {
+   "bytes": 20483,
+   "sha256": "15fd5838af2a2efb9f4ac182fc76197b220d2e9ba6f41fff850c416350065c1b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12337,
+   "sha256": "dfa166914e4a89bd480ca2e51028ad5dc942f96345ea60385c39b4c243fd965e",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5206800.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5206800.jpg",
+  "bytes": 11087,
+  "sha256": "c80ece54ed14a4876f946c5cb46baead3c84dcacde1ba7626e2ccbf9bb71348c"
+ },
+ "sha1_origem": "6ed25b603cca02f97ff9ce5a8127e4a3ebdbb4b5",
+ "bytes_origem": 11087,
+ "capturado_em": "2026-11-08T07:17:47Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Damolândia-GO.jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:46Z",
+  "estado": "igual",
+  "sha1_commons": "6ed25b603cca02f97ff9ce5a8127e4a3ebdbb4b5"
+ }
+}

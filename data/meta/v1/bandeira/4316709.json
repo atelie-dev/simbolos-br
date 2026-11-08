@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4316709",
+ "uf": "RS",
+ "municipio": "Santa Bárbara do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bandeira_de_Santa_B%C3%A1rbara_do_Sul_-_RS.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "3631fe3df0c981fc32bbb0cdb320594e032dadfae689f022d3d8917387212c8f",
+ "rendicoes": {
+  "png": {
+   "bytes": 40200,
+   "sha256": "6bbaacbeb335a59fd45f375a25888eb7d5b459ecc17a051cb6c12a9689b7d394",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21401,
+   "sha256": "85467cb1a537c1b3c5078652ee9db88b129c8e4c43781af2f571d37337e47eee",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 604374,
+   "sha256": "3631fe3df0c981fc32bbb0cdb320594e032dadfae689f022d3d8917387212c8f"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4316709.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4316709.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4316709.jpg"
+ },
+ "sha1_origem": "ec83459015977844dc796dd2c0c300a45a94dc3b",
+ "bytes_origem": 604374,
+ "capturado_em": "2026-11-08T04:58:29Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_de_Santa_Bárbara_do_Sul_-_RS.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:06:12Z",
+  "estado": "igual",
+  "sha1_commons": "ec83459015977844dc796dd2c0c300a45a94dc3b"
+ }
+}

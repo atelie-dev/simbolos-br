@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4203006",
+ "uf": "SC",
+ "municipio": "Caçador",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Bandeira_Cacador.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Vetorização/Vectorization: Claudemir Todo Bom",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "73b92701fdd7be19f5b3b213f0bfb3d28ac2e99595672eefa6e081f2a1c9ab17",
+ "rendicoes": {
+  "png": {
+   "bytes": 65745,
+   "sha256": "984921b5749f6055cf75bc742de38a160a6ba27ede69c98b50b23fe65b736a81",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36175,
+   "sha256": "a27ba8eeb28c95d5464cf8db375e0abac7c76e58e696141983fa4f35457fc285",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 231517,
+   "sha256": "73b92701fdd7be19f5b3b213f0bfb3d28ac2e99595672eefa6e081f2a1c9ab17"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203006.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203006.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4203006.jpg"
+ },
+ "sha1_origem": "4fbbabca2c0622202c234a0d35891c5ff10665ff",
+ "bytes_origem": 231517,
+ "capturado_em": "2026-11-08T04:37:01Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_Cacador.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "4fbbabca2c0622202c234a0d35891c5ff10665ff"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3527108",
+ "uf": "SP",
+ "municipio": "Lins",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bras%C3%A3o_de_Lins_-_SP.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "BrCaLeTo",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "acae00368bc223b32e2ef7a25a7ee69e62a037bcc9efd7f5ee091a21462add17",
+ "rendicoes": {
+  "png": {
+   "bytes": 208514,
+   "sha256": "7d6169580533a363257f65c5ea303a3922bbfe2d8242d46577ad92cb58733444",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 66868,
+   "sha256": "faa7b7ce186ba5aec6c8e868bac5db60e873f53b4217f0cd5811a7bfe29abc20",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 378025,
+   "sha256": "acae00368bc223b32e2ef7a25a7ee69e62a037bcc9efd7f5ee091a21462add17"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3527108.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3527108.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3527108.jpg"
+ },
+ "sha1_origem": "4678a55a8218f9d583ed8924e453a185bfa3214f",
+ "bytes_origem": 378025,
+ "capturado_em": "2026-11-08T04:07:32Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Lins_-_SP.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:05Z",
+  "estado": "igual",
+  "sha1_commons": "4678a55a8218f9d583ed8924e453a185bfa3214f"
+ }
+}

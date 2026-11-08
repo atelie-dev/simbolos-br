@@ -1,0 +1,52 @@
+{
+ "codigo_ibge": "2910602",
+ "uf": "BA",
+ "municipio": "Esplanada",
+ "tipo": "brasao",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bras%C3%A3o_de_Esplanada_%28Melhor_qualidade%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Esplanada",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "298dc15b0c1a27749f0cb85719945e413740e1de713e6325532fc06979be9159",
+ "rendicoes": {
+  "png": {
+   "bytes": 222569,
+   "sha256": "59149f50acd94881f5364495ea5671e3b4adfce8e173b7cb259324cc4fa2f677",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36307,
+   "sha256": "f154723c07ed42cd819e1411017c84b3898a95b363103648f3299ea9a3caf230",
+   "lado": 512
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2910602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2910602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2910602.jpg"
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2910602.jpg",
+  "bytes": 50466,
+  "sha256": "298dc15b0c1a27749f0cb85719945e413740e1de713e6325532fc06979be9159"
+ },
+ "sha1_origem": "7b5047d5b246b03330c7274715fe1d0f5c34015e",
+ "bytes_origem": 50466,
+ "capturado_em": "2026-11-08T05:53:09Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Brasão_de_Esplanada_(Melhor_qualidade).jpg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:07:02Z",
+  "estado": "igual",
+  "sha1_commons": "7b5047d5b246b03330c7274715fe1d0f5c34015e"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4104303",
+ "uf": "PR",
+ "municipio": "Campo Mourão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bandeira_CampoMourao_Parana_Brasil.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture of Campo Mourao",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "296bbe213b8c834ca1f0e3d60e6d5176aaee7201df41bdd9b022a92ec68cbaf7",
+ "rendicoes": {
+  "png": {
+   "bytes": 54935,
+   "sha256": "c529f4ff39b98f5067802a7e8dc3f3e3c9171048ce6097cf8d5b8a067ad11172",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20955,
+   "sha256": "06695a597734a4d160458df5a81bd01f75296f3911ec9ce17fd073d4f2d93d82",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 723736,
+   "sha256": "296bbe213b8c834ca1f0e3d60e6d5176aaee7201df41bdd9b022a92ec68cbaf7"
+  }
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4104303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4104303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4104303.jpg"
+ },
+ "sha1_origem": "0475b7ba687554447199405be439cd8b10f0db32",
+ "bytes_origem": 723736,
+ "capturado_em": "2026-11-08T04:22:37Z",
+ "captura_fonte": "mtime",
+ "titulo_commons": "File:Bandeira_CampoMourao_Parana_Brasil.svg",
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionavel"
+  ]
+ },
+ "verificacao": {
+  "em": "2026-11-08T16:05:44Z",
+  "estado": "igual",
+  "sha1_commons": "0475b7ba687554447199405be439cd8b10f0db32"
+ }
+}
