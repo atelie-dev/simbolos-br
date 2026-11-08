@@ -34,6 +34,12 @@ const pct = resumo.cobertura_pct.toLocaleString("pt-BR", { minimumFractionDigits
 const destaques = JSON.parse(
   readFileSync(resolve(process.cwd(), "src/data/destaques.json"), "utf8"),
 ) as { c: string; n: string; u: string }[];
+
+const pix = JSON.parse(readFileSync(resolve(process.cwd(), "src/data/pix.json"), "utf8")) as {
+  codigo: string;
+  chave: string;
+  nome: string;
+};
 ---
 
 <Base title="Símbolos · coletivo.dev.br">
@@ -254,7 +260,23 @@ const destaques = JSON.parse(
           <a class="btn" href={SPONSORS} target="_blank" rel="noopener">
             GitHub Sponsors
           </a>
-          <button type="button" class="btn btn--ghost" disabled>PIX — chave em definição</button>
+
+          <div class="pix">
+            <img
+              src={`${base}pix-qr.svg`}
+              alt={`QR Code do PIX para ${pix.chave}`}
+              width="132"
+              height="132"
+            />
+            <div class="pix-texto">
+              <p class="pix-rotulo">PIX · valor livre</p>
+              <p class="pix-chave">{pix.chave}</p>
+              <button type="button" class="btn btn--ghost" data-pix={pix.codigo}>
+                Copiar código
+              </button>
+            </div>
+          </div>
+
           <p class="nota">
             Sem anúncio, sem vender destaque e sem vender "verificação". O custo
             real entra no primeiro relatório mensal.
@@ -375,6 +397,16 @@ const destaques = JSON.parse(
           dica.textContent = "copiado";
           setTimeout(() => (dica.textContent = ""), 1500);
         }
+      });
+    });
+
+    document.querySelectorAll<HTMLButtonElement>("[data-pix]").forEach((botao) => {
+      botao.addEventListener("click", () => {
+        const original = botao.textContent;
+        navigator.clipboard?.writeText(botao.dataset.pix ?? "").then(() => {
+          botao.textContent = "copiado";
+          setTimeout(() => (botao.textContent = original), 1500);
+        });
       });
     });
 
@@ -892,6 +924,48 @@ const destaques = JSON.parse(
       flex-direction: column;
       gap: 0.625rem;
       align-items: flex-start;
+    }
+
+    .pix {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 1rem;
+      padding: 0.875rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r-card);
+      box-shadow: var(--shadow-card);
+    }
+
+    .pix img {
+      display: block;
+      width: 132px;
+      height: 132px;
+      border-radius: 6px;
+    }
+
+    .pix-texto {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.375rem;
+    }
+
+    .pix-rotulo {
+      margin: 0;
+      font-size: 10px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .pix-chave {
+      margin: 0;
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      overflow-wrap: anywhere;
+      max-width: 22ch;
     }
 
     .confianca {

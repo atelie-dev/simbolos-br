@@ -93,4 +93,7 @@ estaduais ainda não entraram, e 783 municípios não têm nenhum símbolo publi
 
 O acervo não tem anúncio nem patrocínio. Domínio, armazenamento e tempo de
 curadoria são pagos por quem mantém — e por quem quiser ajudar:
-[GitHub Sponsors](https://github.com/sponsors/fabiob).
+
+- [GitHub Sponsors](https://github.com/sponsors/fabiob)
+- PIX: valor livre; QR e copia-e-cola em `/simbolos#apoiar`. A chave é aleatória
+  (UUID), não um e-mail — o BR Code é público e carrega a chave em texto claro.

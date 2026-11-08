@@ -29,6 +29,7 @@ from . import (
     lotes,
     malha,
     maritaca,
+    pix,
     provedores,
     publicacao,
     r2,
@@ -806,6 +807,26 @@ def acervo_cmd(
     t.add_row("pulados (hash igual)", str(res["pulados"]))
     t.add_row("falhas", str(len(res["falhas"])))
     t.add_row("tamanho", f"{res['bytes'] / 1024 / 1024:.1f} MB")
+    console.print(t)
+
+
+@app.command("pix")
+def pix_cmd(
+    codigo: Annotated[
+        str | None, typer.Option(help="BR Code; sem ele regenera do data/pix.json")
+    ] = None,
+) -> None:
+    """Valida o BR Code do PIX e gera o QR que o site publica."""
+    r = pix.registrar(codigo) if codigo else pix.gerar()
+    t = Table(title="pix")
+    t.add_column("medida")
+    t.add_column("valor")
+    t.add_row("CRC", f"{r['crc']} ({'confere' if r['ok'] else 'NAO CONFERE'})")
+    t.add_row("chave", r["chave"] or "-")
+    t.add_row("titular", r["nome"] or "-")
+    t.add_row("cidade", r["cidade"] or "-")
+    t.add_row("valor", r["valor"] or "livre")
+    t.add_row("QR", f"{r['bytes_qr'] / 1024:.1f} KB")
     console.print(t)
 
 
