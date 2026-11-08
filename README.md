@@ -88,3 +88,9 @@ contestação são parte do produto.
 
 O fluxo de contribuição está em construção. Lacunas conhecidas: os 27 símbolos
 estaduais ainda não entraram, e 783 municípios não têm nenhum símbolo publicado.
+
+## Apoiar
+
+O acervo não tem anúncio nem patrocínio. Domínio, armazenamento e tempo de
+curadoria são pagos por quem mantém — e por quem quiser ajudar:
+[GitHub Sponsors](https://github.com/sponsors/fabiob).

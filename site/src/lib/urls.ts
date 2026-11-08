@@ -5,6 +5,7 @@
 export const CDN = import.meta.env.PUBLIC_CDN_BASE ?? "https://simbolos.coletivo.dev.br";
 export const SITE = import.meta.env.PUBLIC_SITE_BASE ?? "https://coletivo.dev.br/simbolos";
 export const GITHUB = "https://github.com/atelie-dev/simbolos-br";
+export const SPONSORS = "https://github.com/sponsors/fabiob";
 
 // BASE_URL vem sem barra final ("/simbolos"); concatenar direto gera
 // "/simbolosapi/...". Normalizar aqui, uma vez, evita o erro em cada página.

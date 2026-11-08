@@ -5,7 +5,7 @@ import Base from "../layouts/Base.astro";
 import Busca from "../components/Busca.astro";
 import Topo from "../components/Topo.astro";
 import Rodape from "../components/Rodape.astro";
-import { BASE as base, embedUrl } from "../lib/urls";
+import { BASE as base, SPONSORS, embedUrl } from "../lib/urls";
 
 // Gerado por `simbolos indice` antes do build; lido do disco para não depender
 // de como o bundler trata import de JSON em `public/`.
@@ -251,12 +251,13 @@ const destaques = JSON.parse(
           </p>
         </div>
         <div class="apoio-acoes">
-          <button type="button" class="btn" disabled>GitHub Sponsors — em breve</button>
+          <a class="btn" href={SPONSORS} target="_blank" rel="noopener">
+            GitHub Sponsors
+          </a>
           <button type="button" class="btn btn--ghost" disabled>PIX — chave em definição</button>
           <p class="nota">
-            Preferimos deixar explícito que ainda não está pronto do que exibir um
-            botão que não funciona. Custos reais serão publicados com o primeiro
-            relatório mensal.
+            Sem anúncio, sem vender destaque e sem vender "verificação". O custo
+            real entra no primeiro relatório mensal.
           </p>
         </div>
       </div>
