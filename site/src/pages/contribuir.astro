@@ -295,13 +295,32 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
     border: 1px solid var(--border);
     border-radius: var(--r-card);
     background: var(--surface);
-    padding: var(--step-4);
     box-shadow: var(--shadow-card);
+    /* O padding lateral e inferior fica no conteúdo; o topo é a faixa do legend. */
+    padding: 0 0 var(--step-4);
   }
+  /* Legend como cabeçalho do card: float tira o legend da linha da borda e o
+     transforma em bloco normal dentro do fieldset (o truque que funciona nos
+     três motores). `overflow` no fieldset contém o float e respeita o raio. */
   legend {
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.8rem var(--step-4);
+    margin-bottom: var(--step-3);
+    background: var(--accent-soft);
+    border-bottom: 1px solid var(--border);
+    border-radius: calc(var(--r-card) - 1px) calc(var(--r-card) - 1px) 0 0;
     font-family: var(--font-display);
     font-size: var(--step-4);
-    padding: 0 0.4rem;
+    line-height: 1.25;
+    color: var(--ink);
+  }
+  fieldset {
+    overflow: hidden;
+  }
+  fieldset > :not(legend) {
+    padding-inline: var(--step-4);
   }
   .campo {
     display: grid;
