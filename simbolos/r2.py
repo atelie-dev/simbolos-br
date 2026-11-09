@@ -227,6 +227,34 @@ def _enviar(
     return resumo
 
 
+def apagar(chaves: list[str], *, papel: str = "cdn") -> dict:
+    """Remove objetos do bucket. Usado quando um item publicado é rejeitado.
+
+    A URL de embed é contrato para o que foi publicado — não para o que foi
+    recusado. Deixar o arquivo servindo seria manter no ar exatamente o que a
+    revisão disse que está errado.
+    """
+    if not chaves:
+        return {"apagados": 0}
+    balde = nome_bucket(papel)
+    s3 = cliente()
+    apagados = 0
+    for i in range(0, len(chaves), 1000):
+        lote = chaves[i : i + 1000]
+        s3.delete_objects(
+            Bucket=balde,
+            Delete={"Objects": [{"Key": k} for k in lote], "Quiet": True},
+        )
+        apagados += len(lote)
+
+    caminho = LEDGER_ACERVO if papel == "acervo" else LEDGER_CDN
+    ledger = _carregar_ledger(caminho)
+    for chave in chaves:
+        ledger.pop(chave, None)
+    _gravar_ledger(caminho, ledger)
+    return {"apagados": apagados, "objetos": len(ledger)}
+
+
 def enviar_cdn(
     raiz: Path,
     registros: list[dict],

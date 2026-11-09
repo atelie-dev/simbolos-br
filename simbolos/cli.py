@@ -750,6 +750,24 @@ def importar_cmd(
     console.print(f"-> {importar.CATALOGO} (rode `simbolos publicar` depois)")
 
 
+@app.command("rejeitar")
+def rejeitar_cmd(
+    codigo: Annotated[str, typer.Argument(help="codigo IBGE do municipio")],
+    tipo: Annotated[str, typer.Option(help="brasao | bandeira")],
+    motivo: Annotated[str, typer.Option(help="por que a imagem foi recusada")],
+) -> None:
+    """Marca um item como rejeitado, sem apagar o original.
+
+    O sidecar passa a estado rejeitado (que o indice ignora) e o catalogo guarda
+    o motivo. A imagem fica em data/fontes como evidencia do que foi recusado.
+    """
+    if tipo not in importar.TIPOS:
+        raise typer.BadParameter("tipo deve ser brasao ou bandeira")
+    r = importar.rejeitar(codigo, tipo, motivo)
+    console.print(f"rejeitado: {r['codigo']}/{r['tipo']} — {r['motivo']}")
+    console.print("rode `simbolos publicar` e `simbolos indice` para tirar do site")
+
+
 @app.command("fontes")
 def fontes_cmd(
     arquivo: Annotated[Path, typer.Option(help="catalogo publicado")] = DATA.parent
@@ -944,8 +962,16 @@ def r2_cmd(
     forcar: Annotated[
         bool, typer.Option("--forcar/--incremental", help="reenvia mesmo com hash igual")
     ] = False,
+    limpar_rejeitados: Annotated[
+        bool, typer.Option("--limpar-rejeitados", help="apaga do CDN o que foi rejeitado")
+    ] = False,
 ) -> None:
     """Sobe embed/ e meta/ para o bucket publico (simbolos-br-cdn)."""
+    if limpar_rejeitados:
+        chaves = importar.chaves_rejeitadas()
+        r = r2.apagar(chaves)
+        console.print(f"apagados {r['apagados']} objetos do CDN; ledger com {r['objetos']}")
+        return
     if not arquivo.exists():
         raise typer.BadParameter("nada publicado ainda: rode simbolos publicar")
     registros = json.loads(arquivo.read_text())

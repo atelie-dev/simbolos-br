@@ -437,10 +437,18 @@ def publicar(
     # catalogo em disco pode estar atrasado em horas sem prejuizo.
     anterior = raiz / "catalogo.json"
     indice = indice_meta()
+    # Rejeição é decisão registrada: não se republica por estar no catálogo
+    # antigo nem por ter rendition no disco.
+    rejeitados = {
+        (item["codigo_ibge"], tipo)
+        for item in catalogo.values()
+        for tipo in ("brasao", "bandeira")
+        if (item.get(tipo) or {}).get("rejeitado")
+    }
     if anterior.exists():
         for reg in json.loads(anterior.read_text()):
             chave = (reg.get("codigo_ibge"), reg.get("tipo"))
-            if reg.get("estado") != "publicado":
+            if reg.get("estado") != "publicado" or chave in rejeitados:
                 continue
             atual = indice.get(chave)
             # O catalogo so vence quando traz o hash da origem e o sidecar nao:
@@ -456,6 +464,9 @@ def publicar(
             if tipo not in item:
                 continue
             chave = (item["codigo_ibge"], tipo)
+            if chave in rejeitados:
+                resumo["rejeitados"] = resumo.get("rejeitados", 0) + 1
+                continue
             reg = None
             if (
                 chave in indice

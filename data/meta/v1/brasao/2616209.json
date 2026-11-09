@@ -7,7 +7,7 @@
  "licenca": "NOASSERTION",
  "balde": "pendente",
  "autor": null,
- "estado": "publicado",
+ "estado": "rejeitado",
  "formato_origem": "image/jpeg",
  "sha256_origem": "5b517232eb9fb6bcad6ff918dff7f714b96061ac99f23f08b55d340e276abc4d",
  "sha1_origem": "c666fec4330921323553e9cef480d2de30d2e731",
@@ -45,5 +45,10 @@
   "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2616209.svg",
   "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2616209.png",
   "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2616209.jpg"
+ },
+ "rejeitado": {
+  "motivo": "fotografia da bandeira com reflexo de flash",
+  "em": "2026-11-09T03:40:10Z",
+  "por": "revisao visual"
  }
 }

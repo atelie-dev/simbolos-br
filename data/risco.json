@@ -1,18 +1,18 @@
 {
- "gerado_em": "2026-11-09T03:17:43Z",
+ "gerado_em": "2026-11-09T03:46:34Z",
  "premissas": [
   "vetor é sempre baixo por decisão (D21)",
   "o SVG publicado é a fonte, byte a byte, e vai versionado em data/vetores",
   "quando ele ainda não está lá, o motivo vetor_versionavel registra a dívida"
  ],
  "resumo": {
-  "itens": 8637,
-  "risco_alto": 326,
+  "itens": 8633,
+  "risco_alto": 322,
   "risco_baixo": 8311,
   "por_motivo": {
-   "licenca_pendente": 327,
-   "nao_verificado": 258,
-   "origem_fora_do_commons": 258,
+   "licenca_pendente": 323,
+   "nao_verificado": 254,
+   "origem_fora_do_commons": 254,
    "vetor_versionado": 1170
   }
  },
@@ -444,19 +444,6 @@
    "tipo": "brasao",
    "uf": "BA",
    "municipio": "São Desidério",
-   "balde": "pendente",
-   "espelhos": [],
-   "motivo": [
-    "origem_fora_do_commons",
-    "licenca_pendente",
-    "nao_verificado"
-   ]
-  },
-  {
-   "codigo_ibge": "2929255",
-   "tipo": "brasao",
-   "uf": "BA",
-   "municipio": "São Gabriel",
    "balde": "pendente",
    "espelhos": [],
    "motivo": [
@@ -1813,19 +1800,6 @@
    ]
   },
   {
-   "codigo_ibge": "3140605",
-   "tipo": "brasao",
-   "uf": "MG",
-   "municipio": "Materlândia",
-   "balde": "pendente",
-   "espelhos": [],
-   "motivo": [
-    "origem_fora_do_commons",
-    "licenca_pendente",
-    "nao_verificado"
-   ]
-  },
-  {
    "codigo_ibge": "3143609",
    "tipo": "brasao",
    "uf": "MG",
@@ -2693,36 +2667,10 @@
    ]
   },
   {
-   "codigo_ibge": "2615409",
-   "tipo": "brasao",
-   "uf": "PE",
-   "municipio": "Toritama",
-   "balde": "pendente",
-   "espelhos": [],
-   "motivo": [
-    "origem_fora_do_commons",
-    "licenca_pendente",
-    "nao_verificado"
-   ]
-  },
-  {
    "codigo_ibge": "2616100",
    "tipo": "brasao",
    "uf": "PE",
    "municipio": "Verdejante",
-   "balde": "pendente",
-   "espelhos": [],
-   "motivo": [
-    "origem_fora_do_commons",
-    "licenca_pendente",
-    "nao_verificado"
-   ]
-  },
-  {
-   "codigo_ibge": "2616209",
-   "tipo": "brasao",
-   "uf": "PE",
-   "municipio": "Vertentes",
    "balde": "pendente",
    "espelhos": [],
    "motivo": [

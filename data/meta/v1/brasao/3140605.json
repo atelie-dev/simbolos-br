@@ -7,7 +7,7 @@
  "licenca": "NOASSERTION",
  "balde": "pendente",
  "autor": null,
- "estado": "publicado",
+ "estado": "rejeitado",
  "formato_origem": "image/png",
  "sha256_origem": "8963498f72e6993a01e278f5a76ccf89084c25a17b6d47f5d44e8998036aa8fa",
  "sha1_origem": "643be524d9d6c6138f6f6403703a490e08d33e41",
@@ -45,5 +45,10 @@
   "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3140605.svg",
   "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3140605.png",
   "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/3140605.jpg"
+ },
+ "rejeitado": {
+  "motivo": "ambiguo: brasao dentro de bandeira branca, precisa de recorte",
+  "em": "2026-11-09T03:40:10Z",
+  "por": "revisao visual"
  }
 }

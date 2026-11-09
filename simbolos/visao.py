@@ -21,7 +21,7 @@ PROVEDOR_VISAO = "neuralwatt"
 MODELO_VISAO = "deepseek-v4.1-flash"
 MODELO_DECISAO = "clef-flash"
 # O prompt é dado, não código: versione para poder comparar no conjunto rotulado.
-PERGUNTAS_VERSAO = 1
+PERGUNTAS_VERSAO = 2
 SISTEMAONE = "/systemone"
 
 # Classificador discriminativo: uma passada, sem tokens de saída, com
@@ -29,9 +29,13 @@ SISTEMAONE = "/systemone"
 PERGUNTAS = {
     "tipo": {
         "type": "choice",
-        "instructions": "Classifique a imagem.",
+        "instructions": (
+            "Classifique a imagem. Se houver pano, campo retangular ou faixa de tecido, "
+            "responda bandeira — mesmo que o escudo esteja ao centro e em destaque. "
+            "O escudo dentro do pano não faz da imagem um brasão."
+        ),
         "criteria": {
-            "brasao": "Escudo/heráldica municipal, com ou sem coroa mural, suportes e listel.",
+            "brasao": "Escudo/heráldica municipal isolado, com ou sem coroa mural, suportes e listel.",
             "bandeira": "Pano ou pavilhão, geralmente retangular, com campo e símbolo ao centro.",
             "logo": "Marca gráfica, tipografia, slogan ou ícone institucional; não é o brasão.",
             "outro": "Foto, mapa, documento, pessoa, ícone de interface ou outra coisa.",
@@ -40,8 +44,8 @@ PERGUNTAS = {
     "tem_marca_dagua": {
         "type": "noul",
         "instructions": (
-            "Há texto, selo, crédito ou logo sobreposto à arte que não faz parte dela "
-            "(watermark de banco de imagem, marca do site, textura)?"
+            "Há texto, selo, prêmio, indicador ou logo que não faz parte da arte — "
+            "sobreposto a ela OU ao lado dela no mesmo arquivo?"
         ),
     },
     "fundo_limpo": {
@@ -198,6 +202,8 @@ def verificar_decisao(
         if s["vazia"]
         else "marca_dagua"
         if agua > 0.5
+        else "fundo_sujo"
+        if fundo <= 0.5
         else None
         if escolha in ("brasao", "bandeira")
         else escolha
@@ -219,6 +225,9 @@ def verificar_decisao(
             escolha in ("brasao", "bandeira")
             and confianca >= 0.6
             and agua <= 0.5
+            # Brasão tem que estar isolado; bandeira é pano retangular por
+            # natureza, e exigir "fundo limpo" dela reprova bandeira limpa.
+            and (escolha == "bandeira" or fundo > 0.5)
             and not s["vazia"]
         ),
         "rejeitar_motivo": motivo,

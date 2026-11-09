@@ -7,7 +7,7 @@
  "licenca": "NOASSERTION",
  "balde": "pendente",
  "autor": null,
- "estado": "publicado",
+ "estado": "rejeitado",
  "formato_origem": "image/png",
  "sha256_origem": "6ab7bc56ea541a01b0313436e9cb1ec278c87596cccb05d6969570b531ff8847",
  "sha1_origem": "0caf13658fa07bf941586185f67a351fee50d139",
@@ -45,5 +45,10 @@
   "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2615409.svg",
   "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2615409.png",
   "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2615409.jpg"
+ },
+ "rejeitado": {
+  "motivo": "imagem e a bandeira com o brasao ao centro, nao o brasao isolado",
+  "em": "2026-11-09T03:40:09Z",
+  "por": "revisao visual"
  }
 }

@@ -61649,7 +61649,12 @@
     "confianca": 0.8837,
     "confianca_extracao": null
    },
-   "arquivo": "fontes/v1/brasao/2616209.jpg"
+   "arquivo": "fontes/v1/brasao/2616209.jpg",
+   "rejeitado": {
+    "motivo": "fotografia da bandeira com reflexo de flash",
+    "em": "2026-11-09T03:40:10Z",
+    "por": "revisao visual"
+   }
   }
  },
  "2101251": {
@@ -193859,7 +193864,12 @@
     "confianca": 0.6808,
     "confianca_extracao": null
    },
-   "arquivo": "fontes/v1/brasao/2929255.jpg"
+   "arquivo": "fontes/v1/brasao/2929255.jpg",
+   "rejeitado": {
+    "motivo": "imagem e a bandeira, nao o brasao",
+    "em": "2026-11-09T03:40:11Z",
+    "por": "revisao visual"
+   }
   }
  },
  "2930154": {
@@ -195323,7 +195333,12 @@
     "confianca": 0.9387,
     "confianca_extracao": null
    },
-   "arquivo": "fontes/v1/brasao/3140605.png"
+   "arquivo": "fontes/v1/brasao/3140605.png",
+   "rejeitado": {
+    "motivo": "ambiguo: brasao dentro de bandeira branca, precisa de recorte",
+    "em": "2026-11-09T03:40:10Z",
+    "por": "revisao visual"
+   }
   }
  },
  "3143609": {
@@ -196254,7 +196269,12 @@
     "confianca": 0.8927,
     "confianca_extracao": null
    },
-   "arquivo": "fontes/v1/brasao/2615409.png"
+   "arquivo": "fontes/v1/brasao/2615409.png",
+   "rejeitado": {
+    "motivo": "imagem e a bandeira com o brasao ao centro, nao o brasao isolado",
+    "em": "2026-11-09T03:40:09Z",
+    "por": "revisao visual"
+   }
   }
  },
  "2616100": {

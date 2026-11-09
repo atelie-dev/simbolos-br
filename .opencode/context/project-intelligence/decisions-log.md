@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.5 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.6 | Updated: 2026-11-08 -->
 
 # Decisions Log — Símbolos BR
 
@@ -451,3 +451,37 @@ pacotes livres. A visão custou US$ 0,0001 por imagem.
 **Armadilha registrada:** o mesmo arquivo aparece em várias páginas do mesmo
 município (719 ocorrências para 403 URLs). Deduplicar por URL antes de importar,
 senão o acervo ganha centenas de itens que são o mesmo arquivo.
+
+## D26 — Rejeição é registro, não apagamento (2026-11-09)
+
+**Decisão:** `simbolos rejeitar` marca o item no catálogo e põe o sidecar em
+`estado: rejeitado`; `publicar` e o índice ignoram rejeitados; `r2
+--limpar-rejeitados` apaga as três renditions e o sidecar do CDN, e o purge tira
+do edge. O original fica em `data/fontes` como evidência do que foi recusado.
+
+**Por quê:** a revisão visual do mantenedor confirmou 4 dos 5 erros de tipo e
+todos os lockups. E `fundo_limpo` era **calculado e ignorado** na decisão — o
+sinal existia e não valia nada, que é pior que não existir.
+
+**Portão v2:** desempate explícito no `tipo` ("pano retangular com escudo ao
+centro é bandeira; o escudo dentro do pano não faz dele brasão"),
+`tem_marca_dagua` passa a cobrir selo/prêmio **ao lado** da arte, e brasão exige
+`fundo_limpo` — bandeira não, porque pano é retangular por natureza e exigir
+fundo limpo reprovava bandeira limpa. A importação passa a guardar
+`perguntas_versao`, `fundo_limpo`, `marca_dagua`, `precisa_recorte` e
+`rejeitar_motivo`.
+
+**Rejeitado:** apagar arquivo e histórico (o acervo registra o que recusou e por
+quê); exigir fundo limpo de bandeira.
+
+**Consequência:** rejeitados Toritama, Materlândia, Vertentes e São Gabriel
+(brasão) — 4.951 → 4.947 municípios cobertos. O v2 acerta o tipo em Toritama e
+Vertentes e classifica Cavalcante como logo, mas **ainda não pega selo ao lado**
+(Buritis); os 84 brasões em paisagem seguem publicados, com `precisa_recorte`
+registrado para o recorte futuro.
+
+**Armadilha registrada:** `r2` só sobe o que o catálogo lista, então rejeitar não
+tira nada do CDN; e o edge guarda png/jpg por 7 dias (`cf-cache-status: HIT` com
+`age` alto). Apagar do R2 sem **purge** deixa o arquivo servindo. A zona
+`coletivo.dev.br` está ativa agora e o purge responde 200 — o 403 antigo era de
+zona pendente, não de permissão.

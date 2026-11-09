@@ -7,7 +7,7 @@
  "licenca": "NOASSERTION",
  "balde": "pendente",
  "autor": null,
- "estado": "publicado",
+ "estado": "rejeitado",
  "formato_origem": "image/jpeg",
  "sha256_origem": "4dcb35176555b28415eb095452e209a8f417f01e2de4cb9eb9b6d4d69548fa75",
  "sha1_origem": "7a1a2784e34bee0ce8b79ec12852824d8b9886a9",
@@ -45,5 +45,10 @@
   "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2929255.svg",
   "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2929255.png",
   "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/2929255.jpg"
+ },
+ "rejeitado": {
+  "motivo": "imagem e a bandeira, nao o brasao",
+  "em": "2026-11-09T03:40:11Z",
+  "por": "revisao visual"
  }
 }

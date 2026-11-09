@@ -76,6 +76,49 @@ def achados(*, uf: str | None = None) -> list[dict]:
     return sorted(por_url.values(), key=lambda a: (a["uf"], a["codigo"], a["url"]))
 
 
+def rejeitar(codigo: str, tipo: str, motivo: str, *, por: str = "revisao visual") -> dict:
+    """Marca um item importado como rejeitado — sem apagar nada.
+
+    O acervo não apaga: registra. O sidecar passa a `estado: rejeitado` (que
+    `indice_meta` já ignora), e o catálogo guarda o motivo. A imagem original
+    fica em `data/fontes` como evidência do que foi recusado e por quê.
+    """
+    catalogo: dict = json.loads(CATALOGO.read_text())
+    item = catalogo.get(codigo)
+    if not item or not item.get(tipo):
+        raise KeyError(f"{codigo}/{tipo} nao esta no catalogo")
+    marcado = {"motivo": motivo, "em": publicacao.agora(), "por": por}
+    item[tipo]["rejeitado"] = marcado
+
+    sidecar = publicacao.META / tipo / f"{codigo}.json"
+    if sidecar.exists():
+        registro = json.loads(sidecar.read_text())
+        registro["estado"] = "rejeitado"
+        registro["rejeitado"] = marcado
+        tmp = sidecar.with_suffix(".json.tmp")
+        tmp.write_text(json.dumps(registro, ensure_ascii=False, indent=1) + "\n")
+        tmp.replace(sidecar)
+
+    tmp = CATALOGO.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(catalogo, ensure_ascii=False, indent=1) + "\n")
+    tmp.replace(CATALOGO)
+    return {"codigo": codigo, "tipo": tipo, **marcado}
+
+
+def chaves_rejeitadas() -> list[str]:
+    """Chaves do CDN dos itens rejeitados: as três renditions e o sidecar."""
+    catalogo: dict = json.loads(CATALOGO.read_text())
+    chaves: list[str] = []
+    for item in catalogo.values():
+        for tipo in TIPOS:
+            if not (item.get(tipo) or {}).get("rejeitado"):
+                continue
+            codigo = item["codigo_ibge"]
+            chaves += [f"embed/v1/{tipo}/{codigo}.{ext}" for ext in ("svg", "png", "jpg")]
+            chaves.append(f"meta/v1/{tipo}/{codigo}.json")
+    return chaves
+
+
 def _visao(conteudo: bytes, mime: str, contexto: str) -> dict:
     """Roda o portão de visão sobre os bytes, sem baixar de novo.
 
@@ -137,6 +180,7 @@ def importar(*, uf: str | None = None, limite: int = 0, sem_visao: bool = False)
             continue
         conteudo, mime = obtido
 
+        decisao: dict = {}
         if sem_visao:
             tipo = achado["tipo_palpite"]
             aceito, confianca = tipo in TIPOS, None
@@ -189,8 +233,13 @@ def importar(*, uf: str | None = None, limite: int = 0, sem_visao: bool = False)
             "precisa_visao": False,
             "visao": {
                 "motor": "sem-visao" if sem_visao else "systemone",
+                "perguntas_versao": decisao.get("perguntas_versao"),
                 "confianca": confianca,
                 "confianca_extracao": achado["confianca_extracao"],
+                "fundo_limpo": decisao.get("fundo_limpo"),
+                "marca_dagua": decisao.get("marca_dagua"),
+                "precisa_recorte": decisao.get("precisa_recorte"),
+                "rejeitar_motivo": decisao.get("rejeitar_motivo"),
             },
             "arquivo": publicacao._relativo(arquivo),
         }
