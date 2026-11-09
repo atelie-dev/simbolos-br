@@ -1,0 +1,49 @@
+{
+ "codigo_ibge": "1300631",
+ "uf": "AM",
+ "municipio": "Beruri",
+ "tipo": "bandeira",
+ "origem": "https://aam.org.br/wp-content/uploads/aam-municipios/beruri/1b8d9cc2e68f85eec16bc4c8dd238d0a.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "578f2957bc26c322fda8f7ac16b31c3ae09db8fbe2ff439f94a2eb59984792ab",
+ "sha1_origem": "ca5abd824285663c0cd2ae3726f631c42909bc89",
+ "bytes_origem": 194072,
+ "capturado_em": "2026-11-09T06:35:45Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 54063,
+   "sha256": "0781f32e88a11aa639fb0acb33c7aa299094df6a61e52cf3ef3d7f49194d35bd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15713,
+   "sha256": "7d2e23c20d5b54866e43dccc22eae86e48153fd5b13f52941e7dd10e0ebf507d",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1300631.png",
+  "bytes": 194072,
+  "sha256": "578f2957bc26c322fda8f7ac16b31c3ae09db8fbe2ff439f94a2eb59984792ab",
+  "sha1": "ca5abd824285663c0cd2ae3726f631c42909bc89"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300631.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300631.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300631.jpg"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "codigo_ibge": "1302553",
+ "uf": "AM",
+ "municipio": "Manaquiri",
+ "tipo": "bandeira",
+ "origem": "https://aam.org.br/wp-content/uploads/aam-municipios/manaquiri/674863a4f63bb717884444053a91ab38.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c3311dcbb08f7be55251613e57b26dab58369dd3ba618edaf3b6ec60bedccf3f",
+ "sha1_origem": "d34689850c15cf2c1a067ae6736ad58e90583d8c",
+ "bytes_origem": 19854,
+ "capturado_em": "2026-11-09T06:36:41Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 118252,
+   "sha256": "03710a46bea4ea52e3e1b744540dfd1ee391e63f7f9ba3f386df643ec7657668",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23814,
+   "sha256": "d308c9b46a48abc88a5c22f5cab5901c1b089f6a6aa7a230b7d67cd0d9ed254b",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1302553.png",
+  "bytes": 19854,
+  "sha256": "c3311dcbb08f7be55251613e57b26dab58369dd3ba618edaf3b6ec60bedccf3f",
+  "sha1": "d34689850c15cf2c1a067ae6736ad58e90583d8c"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302553.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302553.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302553.jpg"
+ }
+}

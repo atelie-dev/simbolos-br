@@ -1,0 +1,49 @@
+{
+ "codigo_ibge": "1302009",
+ "uf": "AM",
+ "municipio": "Itapiranga",
+ "tipo": "bandeira",
+ "origem": "https://aam.org.br/wp-content/uploads/aam-municipios/itapiranga/370051281c50d24fe129e47a922c7dd7.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3c308c4b7390a1772512e21ebe5d58d57efbd7621fa12b1263b2eaf4ef73a3c1",
+ "sha1_origem": "880144b0c0d2691ada12b9c3f222ec28fd6f64ba",
+ "bytes_origem": 876426,
+ "capturado_em": "2026-11-09T06:36:28Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 94367,
+   "sha256": "ee195f7b3a5875d08c56b6c01d6a73d8533d707654d137799933f0287b37c657",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20433,
+   "sha256": "93a49df87cf31cc7aa3f1987328b89b8338e2946d18f69a1c70ee285e7ee7c02",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1302009.png",
+  "bytes": 876426,
+  "sha256": "3c308c4b7390a1772512e21ebe5d58d57efbd7621fa12b1263b2eaf4ef73a3c1",
+  "sha1": "880144b0c0d2691ada12b9c3f222ec28fd6f64ba"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302009.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302009.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302009.jpg"
+ }
+}

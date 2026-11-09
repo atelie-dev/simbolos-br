@@ -1,0 +1,49 @@
+{
+ "codigo_ibge": "1304302",
+ "uf": "AM",
+ "municipio": "Urucará",
+ "tipo": "bandeira",
+ "origem": "https://aam.org.br/wp-content/uploads/aam-municipios/urucara/bb91e0f5870d67d203c5fb39de8e05ad.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e60f91ed9894f4867fd1658c8eb2e7622e06005d00d552173491611d582e395b",
+ "sha1_origem": "8200943b093b210235c96e519693ca1c1e915a28",
+ "bytes_origem": 876852,
+ "capturado_em": "2026-11-09T06:37:35Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 98839,
+   "sha256": "051f740a458c3b36aa9dc5a98bec0da0d32b6ec210f33158f8a61f5e63d89194",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29310,
+   "sha256": "fad82b38dcda43c51389271bd48649ca3f17c238a86bfa39658420df963073b7",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1304302.png",
+  "bytes": 876852,
+  "sha256": "e60f91ed9894f4867fd1658c8eb2e7622e06005d00d552173491611d582e395b",
+  "sha1": "8200943b093b210235c96e519693ca1c1e915a28"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1304302.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1304302.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1304302.jpg"
+ }
+}

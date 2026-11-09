@@ -1,0 +1,49 @@
+{
+ "codigo_ibge": "1301159",
+ "uf": "AM",
+ "municipio": "Careiro da Várzea",
+ "tipo": "bandeira",
+ "origem": "https://aam.org.br/wp-content/uploads/aam-municipios/careiro-da-varzea/5db48a0eaff260c50709625f37998c98.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "272ecfd6709c9f6c5d072324a2ec30a4cdbdb205a3e53e1d7585946542a90dcf",
+ "sha1_origem": "8e65bdf273f3e06ac6d89fb745e34729d5eb92a4",
+ "bytes_origem": 124324,
+ "capturado_em": "2026-11-09T06:36:02Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 20334,
+   "sha256": "4721b775fa9c8b1c74a785d34d1c1e1e13ae81552c8f6ca38b3d3e870d06fa28",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9675,
+   "sha256": "b592b75019328a6ce1dc9cf91d680b2b3914d7bf9005e06e10265e35de98506c",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1301159.png",
+  "bytes": 124324,
+  "sha256": "272ecfd6709c9f6c5d072324a2ec30a4cdbdb205a3e53e1d7585946542a90dcf",
+  "sha1": "8e65bdf273f3e06ac6d89fb745e34729d5eb92a4"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301159.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301159.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301159.jpg"
+ }
+}

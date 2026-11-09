@@ -1,0 +1,49 @@
+{
+ "codigo_ibge": "1304104",
+ "uf": "AM",
+ "municipio": "Tapauá",
+ "tipo": "bandeira",
+ "origem": "https://aam.org.br/wp-content/uploads/aam-municipios/tapaua/2356f913008cc6b82220757d522f3359.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5bba0674afa48bfd48f8b09db42bad88d1007812c97682cc3b1c10270d846df8",
+ "sha1_origem": "83b626bc1c0a58488a68b3d573ab18ac31fb97e5",
+ "bytes_origem": 271869,
+ "capturado_em": "2026-11-09T06:37:25Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 71317,
+   "sha256": "e47dd72b8e373e5b93b82f96f224d49426a7fa6f3359712a063472b4a55ebc15",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27613,
+   "sha256": "bd390d0af0e479eb8be35cb1f6aa04ea272bbab3552fa5dea8757bdcefe00a18",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1304104.png",
+  "bytes": 271869,
+  "sha256": "5bba0674afa48bfd48f8b09db42bad88d1007812c97682cc3b1c10270d846df8",
+  "sha1": "83b626bc1c0a58488a68b3d573ab18ac31fb97e5"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1304104.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1304104.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1304104.jpg"
+ }
+}

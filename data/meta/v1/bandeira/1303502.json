@@ -1,0 +1,49 @@
+{
+ "codigo_ibge": "1303502",
+ "uf": "AM",
+ "municipio": "Pauini",
+ "tipo": "bandeira",
+ "origem": "https://aam.org.br/wp-content/uploads/aam-municipios/pauini/2066bab337cb981bd5efca3cdee7fcb6.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "651b158011257afb72df75943dc727377d903087a5f5b32630b1907ec1bf7cee",
+ "sha1_origem": "3cfd854aac06594d8f560a6890ce6ee26c3d1ef6",
+ "bytes_origem": 728555,
+ "capturado_em": "2026-11-09T06:37:01Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 82396,
+   "sha256": "0e8063efae6dea848fafaef37c98e713ea6b9b4bd54cc49c848d0ebaa586c053",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22737,
+   "sha256": "021ddd8f77f94f631728d93b8d8e3284fb29f6e3a2656f7a0bf998316912eb94",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1303502.png",
+  "bytes": 728555,
+  "sha256": "651b158011257afb72df75943dc727377d903087a5f5b32630b1907ec1bf7cee",
+  "sha1": "3cfd854aac06594d8f560a6890ce6ee26c3d1ef6"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303502.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303502.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303502.jpg"
+ }
+}

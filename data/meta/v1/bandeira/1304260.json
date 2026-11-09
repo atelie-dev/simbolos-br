@@ -1,0 +1,49 @@
+{
+ "codigo_ibge": "1304260",
+ "uf": "AM",
+ "municipio": "Uarini",
+ "tipo": "bandeira",
+ "origem": "https://aam.org.br/wp-content/uploads/aam-municipios/uarini/7f755a2c38419812fc76029573c7a05e.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "754b4fa3dc11d69930093845dccddeb9ac25d6de77b8937f0af576297553972a",
+ "sha1_origem": "2243845b6a6c812252001228a1bca516fbc165b6",
+ "bytes_origem": 579463,
+ "capturado_em": "2026-11-09T06:37:32Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 77460,
+   "sha256": "00e1d3db079253a792332483abe9348d9d39d781cefacef626c6e211a3138261",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13338,
+   "sha256": "8044e14faea4c5bac7f6e819ba537fbffca03778eeca1e1396d5938df026cf9a",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1304260.png",
+  "bytes": 579463,
+  "sha256": "754b4fa3dc11d69930093845dccddeb9ac25d6de77b8937f0af576297553972a",
+  "sha1": "2243845b6a6c812252001228a1bca516fbc165b6"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1304260.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1304260.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1304260.jpg"
+ }
+}

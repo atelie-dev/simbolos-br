@@ -1,0 +1,49 @@
+{
+ "codigo_ibge": "1300144",
+ "uf": "AM",
+ "municipio": "Apuí",
+ "tipo": "bandeira",
+ "origem": "https://aam.org.br/wp-content/uploads/aam-municipios/apui/90bdc4f2a9cf19b5df9f9a6ecbe15025.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cc35fd1f8bd50bbba2f25dc039acb8eff446698fc72daf40a6bc4ff1a9421dea",
+ "sha1_origem": "a2bb00819ddb8feb4560b4f0b42a495366740f0f",
+ "bytes_origem": 55516,
+ "capturado_em": "2026-11-09T06:35:35Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 48766,
+   "sha256": "6cf096a400d37b3952fdbc29591f8b21ef48d3c29007efad2ff5f44af184a5df",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11406,
+   "sha256": "3fc83de3bfac0bd9dee2eca5f6468e245030fcc515500948e50ad6f32aa5e069",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1300144.png",
+  "bytes": 55516,
+  "sha256": "cc35fd1f8bd50bbba2f25dc039acb8eff446698fc72daf40a6bc4ff1a9421dea",
+  "sha1": "a2bb00819ddb8feb4560b4f0b42a495366740f0f"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300144.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300144.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1300144.jpg"
+ }
+}

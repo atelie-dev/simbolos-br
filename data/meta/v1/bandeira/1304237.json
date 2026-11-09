@@ -1,0 +1,49 @@
+{
+ "codigo_ibge": "1304237",
+ "uf": "AM",
+ "municipio": "Tonantins",
+ "tipo": "bandeira",
+ "origem": "https://aam.org.br/wp-content/uploads/aam-municipios/tonantins/a3c86f4ec3b1f396f1d14a666e377d9f.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "575043ac2668130bc3f47773a77c9a87241b58c327b839afa953a7281d723436",
+ "sha1_origem": "5abc84770972918680c305baa7c53befe2cef02a",
+ "bytes_origem": 669113,
+ "capturado_em": "2026-11-09T06:37:29Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 90597,
+   "sha256": "d56aff8ca5b67924572d643801dfbb9d63af05c8c5caee0cb34ed12e73d23913",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26724,
+   "sha256": "0f27a0e600cad90b2b28f3bab1dd0cf24c3ebddf48bbc7ce8e92d315bebb1296",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1304237.png",
+  "bytes": 669113,
+  "sha256": "575043ac2668130bc3f47773a77c9a87241b58c327b839afa953a7281d723436",
+  "sha1": "5abc84770972918680c305baa7c53befe2cef02a"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1304237.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1304237.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1304237.jpg"
+ }
+}

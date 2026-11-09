@@ -20,6 +20,7 @@ from . import (
     SPIKE,
     UFS,
     USER_AGENT,
+    aam,
     catalogo,
     centros,
     commons,
@@ -767,6 +768,37 @@ def rejeitar_cmd(
     r = importar.rejeitar(codigo, tipo, motivo)
     console.print(f"rejeitado: {r['codigo']}/{r['tipo']} — {r['motivo']}")
     console.print("rode `simbolos publicar` e `simbolos indice` para tirar do site")
+
+
+@app.command("aam")
+def aam_cmd(
+    limite: Annotated[int, typer.Option(help="0 = todos")] = 0,
+    forcar: Annotated[
+        bool, typer.Option("--forcar", help="reimporta mesmo se o tipo ja existir")
+    ] = False,
+) -> None:
+    """Coleta os simbolos no site da AAM (associacao dos municipios do AM).
+
+    Uma requisicao le os 62 municipios; cada imagem passa pelo portao de visao,
+    que decide o tipo e se aceita. Entra pendente, sem licenca afirmada: o
+    simbolo e do municipio, nao da associacao.
+    """
+    with console.status("lendo a AAM..."):
+        r = aam.coletar(limite=limite, forcar=forcar)
+
+    t = Table(title="AAM · Amazonas")
+    t.add_column("medida")
+    t.add_column("valor", justify="right")
+    t.add_row("municipios lidos", str(r["lidos"]))
+    t.add_row("importados", str(r["importados"]))
+    t.add_row("ja tinham", str(r["ja_tinha"]))
+    t.add_row("rejeitados pela visao", str(r["rejeitados"]))
+    t.add_row("sem municipio no IBGE", str(r["sem_municipio"]))
+    t.add_row("falhas de download", str(r["falhas"]))
+    t.add_row("tamanho", f"{r['bytes'] / 1024 / 1024:.1f} MB")
+    t.add_row("custo da visao", f"US$ {r['visao_usd']:.4f}")
+    console.print(t)
+    console.print(f"-> {aam.CATALOGO} (rode `simbolos publicar` depois)")
 
 
 @app.command("fontes")

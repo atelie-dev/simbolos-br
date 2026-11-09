@@ -1,0 +1,49 @@
+{
+ "codigo_ibge": "1301951",
+ "uf": "AM",
+ "municipio": "Itamarati",
+ "tipo": "bandeira",
+ "origem": "https://aam.org.br/wp-content/uploads/aam-municipios/itamarati/2897b38587fe7e33e706f52ba5f799fd.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9d893a41e0ee3a8e259445b1174711ae3b02a8bbcc73a2d6970843e0bb0980ba",
+ "sha1_origem": "905447e0e586909ddee9a39f695c74cc3a8d53df",
+ "bytes_origem": 852565,
+ "capturado_em": "2026-11-09T06:36:26Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 82347,
+   "sha256": "f1f97963f980f9eb6bb65b0ae11e16b82fbfa471e33d17dc87aa61eef6f2ed2e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24780,
+   "sha256": "c01a7c34ea467529dd71ffcdd65d80847e8eccff535909d824fb0113843e7d3d",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1301951.png",
+  "bytes": 852565,
+  "sha256": "9d893a41e0ee3a8e259445b1174711ae3b02a8bbcc73a2d6970843e0bb0980ba",
+  "sha1": "905447e0e586909ddee9a39f695c74cc3a8d53df"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301951.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301951.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1301951.jpg"
+ }
+}

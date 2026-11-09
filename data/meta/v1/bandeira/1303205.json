@@ -1,0 +1,49 @@
+{
+ "codigo_ibge": "1303205",
+ "uf": "AM",
+ "municipio": "Novo Airão",
+ "tipo": "bandeira",
+ "origem": "https://aam.org.br/wp-content/uploads/aam-municipios/novo-airao/adfc93adf69fc28d223bd704b3ffdebf.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1e445e61c69928dc483d41b7d956829829d76db3a1cbcd318b92288b7acf7181",
+ "sha1_origem": "d28773e7b82fa5cc9b865a892f618e591294ee74",
+ "bytes_origem": 56569,
+ "capturado_em": "2026-11-09T06:36:55Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 188239,
+   "sha256": "7cd1be192057630fffc3b9975e7f95a0368882c172de287fcc5fce4372dfad9b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24345,
+   "sha256": "e5333450d09a1fcad2cfcfdac4d78ff80e43edf8b3a3afb3b9b40ececab7c681",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1303205.png",
+  "bytes": 56569,
+  "sha256": "1e445e61c69928dc483d41b7d956829829d76db3a1cbcd318b92288b7acf7181",
+  "sha1": "d28773e7b82fa5cc9b865a892f618e591294ee74"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303205.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303205.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303205.jpg"
+ }
+}

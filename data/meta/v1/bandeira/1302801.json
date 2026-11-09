@@ -1,0 +1,49 @@
+{
+ "codigo_ibge": "1302801",
+ "uf": "AM",
+ "municipio": "Maraã",
+ "tipo": "bandeira",
+ "origem": "https://aam.org.br/wp-content/uploads/aam-municipios/maraa/b2fd490ef76dfe684506b3bb97bd3ad0.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4a3cc1e13e6a4391c19028c37ec38bf1a5b55b5f9e6f9c65ce467661d3a1a5d7",
+ "sha1_origem": "be834462b92f086ae377c198f4d529f083703b5c",
+ "bytes_origem": 416798,
+ "capturado_em": "2026-11-09T06:36:46Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 46715,
+   "sha256": "bc4dcee5a29455ed8badf48bbe52caee27c6af7f24eba8755f7e1e464cd353d5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16138,
+   "sha256": "2fe4c8a6efbc8e1aa33a0ddd71ccb211dd1d09fe54b3822bca88396f1dec1639",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1302801.png",
+  "bytes": 416798,
+  "sha256": "4a3cc1e13e6a4391c19028c37ec38bf1a5b55b5f9e6f9c65ce467661d3a1a5d7",
+  "sha1": "be834462b92f086ae377c198f4d529f083703b5c"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302801.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302801.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1302801.jpg"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "codigo_ibge": "1304401",
+ "uf": "AM",
+ "municipio": "Urucurituba",
+ "tipo": "brasao",
+ "origem": "https://aam.org.br/wp-content/uploads/aam-municipios/urucurituba/cdbc24dd0be31b01640d3327e2f33e5f.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8462ddb627336bca0b62c725b3881c6866147f067c37592537b9fe7582145d8a",
+ "sha1_origem": "a26bb137d35fc43f50602282b30b596833112803",
+ "bytes_origem": 637651,
+ "capturado_em": "2026-11-09T06:37:38Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 83730,
+   "sha256": "7a1b3aba09ffbe48aec9d0a1ffc43af317882201c8b69d5a0bf2ffcc78ceb63b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16136,
+   "sha256": "074e0df733245bc3a6fb3c03ddb3ac99b0754288976f6fabb4cd04439cdc508e",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1304401.png",
+  "bytes": 637651,
+  "sha256": "8462ddb627336bca0b62c725b3881c6866147f067c37592537b9fe7582145d8a",
+  "sha1": "a26bb137d35fc43f50602282b30b596833112803"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1304401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1304401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/1304401.jpg"
+ }
+}

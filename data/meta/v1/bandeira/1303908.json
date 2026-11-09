@@ -1,0 +1,49 @@
+{
+ "codigo_ibge": "1303908",
+ "uf": "AM",
+ "municipio": "São Paulo de Olivença",
+ "tipo": "bandeira",
+ "origem": "https://aam.org.br/wp-content/uploads/aam-municipios/sao-paulo-de-olivenca/62ef011ffd92f542c098b6ffeba6693d.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "54e55beb01db99457a02c5f8b0f7d48668c9082a30ad3f9889f03bbcafb369e1",
+ "sha1_origem": "9e5e4bcdcc323a21da8f1d7619b8ea67d73ad2cd",
+ "bytes_origem": 463877,
+ "capturado_em": "2026-11-09T06:37:15Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 52314,
+   "sha256": "ac10250c167725b4e4e74a2e51a3612f2e83e76f088e4aa701a71773f90d5e55",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17510,
+   "sha256": "e28a4a5ae718a2f3b787dd98732821db0b1fd8aecbffe213952d697a8f3c5e4f",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1303908.png",
+  "bytes": 463877,
+  "sha256": "54e55beb01db99457a02c5f8b0f7d48668c9082a30ad3f9889f03bbcafb369e1",
+  "sha1": "9e5e4bcdcc323a21da8f1d7619b8ea67d73ad2cd"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303908.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303908.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1303908.jpg"
+ }
+}
