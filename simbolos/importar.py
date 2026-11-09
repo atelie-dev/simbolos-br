@@ -208,9 +208,8 @@ def importar(*, uf: str | None = None, limite: int = 0, sem_visao: bool = False)
             "municipio": achado["municipio"],
         }
         existente = item.get(tipo)
-        if existente and existente.get("fonte") != "govbr":
-            # O catálogo já tem este tipo vindo de Wikidata/Commons: não troca
-            # uma fonte com licença clara por uma sem licença nenhuma.
+        if existente and (existente.get("rejeitado") or existente.get("fonte") != "govbr"):
+            # Rejeição é decisão registrada: reimportar não a desfaz.
             resumo["ja_tinha"] += 1
             motivo("ja_tinha")
             continue
