@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2206605",
+ "uf": "PI",
+ "municipio": "Monte Alegre do Piauí",
+ "tipo": "brasao",
+ "origem": "https://montealegredopiaui.pi.gov.br/imagens/simbolo_.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "444ecd1fb1e08596f6c17fa87fd31425abf705222788fa3294429b2f82b64bc8",
+ "sha1_origem": "30227c98d0e9b9ca00f203c4e1d187b8ae857ffe",
+ "bytes_origem": 153325,
+ "capturado_em": "2026-11-09T03:08:14Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 154103,
+   "sha256": "89169a464092cc612f95a0b0a6230f14303f5b4105b6fbed9dea923abc0bcb9c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49523,
+   "sha256": "1a037baf5774371cbf5db2071da0e115fae52591ee15d74f4a8da6b880d9d977",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2206605.png",
+  "bytes": 153325,
+  "sha256": "444ecd1fb1e08596f6c17fa87fd31425abf705222788fa3294429b2f82b64bc8",
+  "sha1": "30227c98d0e9b9ca00f203c4e1d187b8ae857ffe"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

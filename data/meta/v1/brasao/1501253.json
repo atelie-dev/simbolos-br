@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1501253",
+ "uf": "PA",
+ "municipio": "Bannach",
+ "tipo": "brasao",
+ "origem": "https://bannach.pa.gov.br/wp-content/uploads/2025/01/2.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7b80c5de27a106e4a8dadaaab4e65e05670e2c11323af0779d5480ca45d9dfde",
+ "sha1_origem": "dae53b82e43aa49be081091c4042c44a71d0f80f",
+ "bytes_origem": 678625,
+ "capturado_em": "2026-11-09T03:04:59Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 176999,
+   "sha256": "5d847587f169bb46c05612fd9146ccac9220f44c329d94ba35dfe595b7770340",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 51016,
+   "sha256": "47c668406032fef1c20def6dc6252374e4784eef76b0400e49c516ec1af88714",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1501253.png",
+  "bytes": 678625,
+  "sha256": "7b80c5de27a106e4a8dadaaab4e65e05670e2c11323af0779d5480ca45d9dfde",
+  "sha1": "dae53b82e43aa49be081091c4042c44a71d0f80f"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

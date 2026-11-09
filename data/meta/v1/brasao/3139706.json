@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3139706",
+ "uf": "MG",
+ "municipio": "Maravilhas",
+ "tipo": "brasao",
+ "origem": "https://maravilhas.mg.gov.br/uploads/config/16693/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "43a2c5371559d3ba379976693393066ca6ac09a0c8abbb2eb5d5b79543c0cf68",
+ "sha1_origem": "ca847f6cd563b19d4833294aa5ff8089aaa8443f",
+ "bytes_origem": 219999,
+ "capturado_em": "2026-11-09T03:02:38Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 154716,
+   "sha256": "6a460198e14919f6a11ddcc32196365a0ad49d2113adabe20f6d4c081923301f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39159,
+   "sha256": "794528616bdc5b9b6ee1899aa33756beeaddb6793519a3a7351240a596d8cb58",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3139706.png",
+  "bytes": 219999,
+  "sha256": "43a2c5371559d3ba379976693393066ca6ac09a0c8abbb2eb5d5b79543c0cf68",
+  "sha1": "ca847f6cd563b19d4833294aa5ff8089aaa8443f"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1720499",
+ "uf": "TO",
+ "municipio": "São Valério",
+ "tipo": "brasao",
+ "origem": "https://saovalerio.to.gov.br/wp-content/uploads/2025/01/Brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2da6ca39a8ce272c6354c3003ddaa296ba42b42034477e22b1e16ff13c46111b",
+ "sha1_origem": "3f71296dd2523fd1b0695178b03b842929731ba3",
+ "bytes_origem": 133254,
+ "capturado_em": "2026-11-09T03:11:54Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 153370,
+   "sha256": "a61a723662a31f16f6da43264ba533f042a1f747963b1cf6f1c6e612df286646",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30332,
+   "sha256": "d0b773e1107db2c1a7a2f933bbfe7d07f2b98c2ec4fa4ca7563186f5e559abde",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1720499.png",
+  "bytes": 133254,
+  "sha256": "2da6ca39a8ce272c6354c3003ddaa296ba42b42034477e22b1e16ff13c46111b",
+  "sha1": "3f71296dd2523fd1b0695178b03b842929731ba3"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

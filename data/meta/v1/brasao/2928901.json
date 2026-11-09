@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2928901",
+ "uf": "BA",
+ "municipio": "São Desidério",
+ "tipo": "brasao",
+ "origem": "http://saodesiderio.ba.gov.br/wp-content/uploads/2012/12/brasao.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f2908ed161bedc37265fb03692473ef9bf272211260dd78a8271127c32758fe8",
+ "sha1_origem": "168ad23344ef3ba1dd3681631bd19fb8020ba5c9",
+ "bytes_origem": 14803,
+ "capturado_em": "2026-11-09T02:57:38Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 54405,
+   "sha256": "0d155a6e8c4866a60afb638e0de52c6f99d89ce1ee37b4094ba94e4f11bfdf3a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14555,
+   "sha256": "bf875db6fdf857c6680877d69917c63ae42e8ce5d726e56551816d74e084af9b",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2928901.jpg",
+  "bytes": 14803,
+  "sha256": "f2908ed161bedc37265fb03692473ef9bf272211260dd78a8271127c32758fe8",
+  "sha1": "168ad23344ef3ba1dd3681631bd19fb8020ba5c9"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

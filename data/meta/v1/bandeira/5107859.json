@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5107859",
+ "uf": "MT",
+ "municipio": "São Félix do Araguaia",
+ "tipo": "bandeira",
+ "origem": "https://saofelixdoaraguaia.mt.gov.br/wp-content/uploads/2025/04/Sao_Felix_do_Araguaia.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d5eeed3a01d83de8aa8cf1f4475f678b02d3d3c328fb5cdb66b08adf8a787e0c",
+ "sha1_origem": "5e80dcb62187402e4100f88d257c9398f71c8ff3",
+ "bytes_origem": 32973,
+ "capturado_em": "2026-11-09T03:04:48Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 47065,
+   "sha256": "18fb1d00fa6767c227f80036df798516e2b204bc512d1b69f3dc65023f3bde56",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17231,
+   "sha256": "e78e6f91e236134a50e137f4095b94b9061efc5d0fcb1e9eca67ee69a2e10a10",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5107859.jpg",
+  "bytes": 32973,
+  "sha256": "d5eeed3a01d83de8aa8cf1f4475f678b02d3d3c328fb5cdb66b08adf8a787e0c",
+  "sha1": "5e80dcb62187402e4100f88d257c9398f71c8ff3"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

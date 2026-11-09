@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2207900",
+ "uf": "PI",
+ "municipio": "Pedro II",
+ "tipo": "brasao",
+ "origem": "https://www.pedroii.pi.gov.br/Arquitetura/Imagens/prefeitura/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6da67d12444e45d975c99e0d9859fd793a9d4eeb1f11d23abd954aaee25612b1",
+ "sha1_origem": "35ba1b9862755b95060cc58747e9b6f687424cb8",
+ "bytes_origem": 15847,
+ "capturado_em": "2026-11-09T03:08:18Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 18030,
+   "sha256": "bf768049fd0752354d980bbc1bf6a18bd8e73dc88c9f69e0a072c27f24fb60ea",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5516,
+   "sha256": "db2cebd73bb82bb93bb60a34765460d626a9351db8d5f1d930ce5b3c863cd135",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2207900.png",
+  "bytes": 15847,
+  "sha256": "6da67d12444e45d975c99e0d9859fd793a9d4eeb1f11d23abd954aaee25612b1",
+  "sha1": "35ba1b9862755b95060cc58747e9b6f687424cb8"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

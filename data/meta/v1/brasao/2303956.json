@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2303956",
+ "uf": "CE",
+ "municipio": "Chorozinho",
+ "tipo": "brasao",
+ "origem": "https://s3.amazonaws.com/portalleg-producao/ce_pm_chorozinho/brasaochorozinho.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0e17c9c101ea49f509fe6dc9e4d75cf62b27ff9455819457703570703ae357d9",
+ "sha1_origem": "3806a172c47b58b9ac56c23ce23c29e6cecf88a4",
+ "bytes_origem": 227018,
+ "capturado_em": "2026-11-09T02:58:02Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 185540,
+   "sha256": "297dd4e7783981a7ac5331652e1b870faf0c323d40e790ef575f6108116efc4b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35639,
+   "sha256": "6ad866520a34072a134dc0587ac59cbea5318927a109aa49e46def1a94c4c29c",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2303956.png",
+  "bytes": 227018,
+  "sha256": "0e17c9c101ea49f509fe6dc9e4d75cf62b27ff9455819457703570703ae357d9",
+  "sha1": "3806a172c47b58b9ac56c23ce23c29e6cecf88a4"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

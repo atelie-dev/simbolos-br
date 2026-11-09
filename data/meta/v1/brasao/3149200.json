@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3149200",
+ "uf": "MG",
+ "municipio": "Pedrinópolis",
+ "tipo": "brasao",
+ "origem": "https://pedrinopolis.mg.gov.br/assets/img/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b960a5ec14f1cd20d01f1c4c0fe6e9201d6499cdf1e7c0c40727bf3b62f06bc4",
+ "sha1_origem": "a274a4078d690de47c1bd43ccd0392ac73eb08ce",
+ "bytes_origem": 121641,
+ "capturado_em": "2026-11-09T03:03:03Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 35249,
+   "sha256": "de5694b14fc59343ce89b2ffffb180615871a86482e1b71cc5a43ff3b869b3fc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9233,
+   "sha256": "2b62b72be8842cbe916fc835323b08390ff5b2255e8ac738fab2f8173e2e3abe",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3149200.png",
+  "bytes": 121641,
+  "sha256": "b960a5ec14f1cd20d01f1c4c0fe6e9201d6499cdf1e7c0c40727bf3b62f06bc4",
+  "sha1": "a274a4078d690de47c1bd43ccd0392ac73eb08ce"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5003108",
+ "uf": "MS",
+ "municipio": "Corguinho",
+ "tipo": "brasao",
+ "origem": "https://corguinho.ms.gov.br/uploads/config/20/brasao_corguinho.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fece8e10300950e90d480d6961668332f7f5c48a7f311d4854c7838b7b5e97a5",
+ "sha1_origem": "23bbc5fccdbf2034d6393b90c5f6ab84a9a81928",
+ "bytes_origem": 82141,
+ "capturado_em": "2026-11-09T03:03:53Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 80283,
+   "sha256": "f25877e1d6ba82c903c5eef2585634921db20e452b7d9c6a1dfdcc017a8d4107",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27282,
+   "sha256": "ec461c91cf9da12a1fe62caacd97a601244bd9637ffc1ffef6cdc672a8bfcbf2",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5003108.png",
+  "bytes": 82141,
+  "sha256": "fece8e10300950e90d480d6961668332f7f5c48a7f311d4854c7838b7b5e97a5",
+  "sha1": "23bbc5fccdbf2034d6393b90c5f6ab84a9a81928"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

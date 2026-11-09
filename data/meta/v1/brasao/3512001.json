@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3512001",
+ "uf": "SP",
+ "municipio": "Colina",
+ "tipo": "brasao",
+ "origem": "https://ecrie.com.br/sistema/conteudos/imagem/g_62_1_2_14072020150330.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "274cfa38516f046b067e2a5fff2d815009b843735c00ab0559e71df005c6207c",
+ "sha1_origem": "c476e32ec751a9ec504144710ac8e9ef3e5caa4a",
+ "bytes_origem": 11341,
+ "capturado_em": "2026-11-09T03:10:24Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 38821,
+   "sha256": "06ca60ab3bc3779785077d5868c936e7428e6b49a07550870001cea4628f51a7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10343,
+   "sha256": "7333154c3f80fc829d4945c1347323c8988a989fa7ab583fd0fe35eda02f8ac6",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3512001.jpg",
+  "bytes": 11341,
+  "sha256": "274cfa38516f046b067e2a5fff2d815009b843735c00ab0559e71df005c6207c",
+  "sha1": "c476e32ec751a9ec504144710ac8e9ef3e5caa4a"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

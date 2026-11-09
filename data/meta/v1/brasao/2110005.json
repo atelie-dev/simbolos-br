@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2110005",
+ "uf": "MA",
+ "municipio": "Santa Luzia",
+ "tipo": "brasao",
+ "origem": "https://santaluzia.ma.gov.br/upload/simbolos/15602.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a19b810a01e9c73a9d229ef00a8211b3507f169c460e4fee48f65d3b25ce6fa6",
+ "sha1_origem": "96ac352518e92a373505989c04eba79e22b6156a",
+ "bytes_origem": 17620,
+ "capturado_em": "2026-11-09T03:01:44Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 76163,
+   "sha256": "199c83b4a977c72edbd839891116550d6aaaa2cc0b72291ee1e3ea1d487c9107",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13473,
+   "sha256": "bd7fe8e78d141d5be3533d76c038d58ba99e96e8e7526ae38b1add917d2f210b",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2110005.jpg",
+  "bytes": 17620,
+  "sha256": "a19b810a01e9c73a9d229ef00a8211b3507f169c460e4fee48f65d3b25ce6fa6",
+  "sha1": "96ac352518e92a373505989c04eba79e22b6156a"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

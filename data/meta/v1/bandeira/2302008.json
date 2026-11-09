@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2302008",
+ "uf": "CE",
+ "municipio": "Barro",
+ "tipo": "bandeira",
+ "origem": "https://barro.ce.gov.br/link/link62.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fee0124b113250f54c51613f36e823f08b9050414ca88224d6b38e5fe5be9dd1",
+ "sha1_origem": "a57d712587619e5d38b219dca148988167c2a3e0",
+ "bytes_origem": 16665,
+ "capturado_em": "2026-11-09T02:57:49Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 48344,
+   "sha256": "1fd09b60ed1ad62ed2f1736892830de99db542eaaa74298acd6cf5ecfceb6d28",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13344,
+   "sha256": "03fbfa5f59aaf6e36a1132067d9fa7022855a269082766ed4c862edac9e7fe1d",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2302008.jpg",
+  "bytes": 16665,
+  "sha256": "fee0124b113250f54c51613f36e823f08b9050414ca88224d6b38e5fe5be9dd1",
+  "sha1": "a57d712587619e5d38b219dca148988167c2a3e0"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

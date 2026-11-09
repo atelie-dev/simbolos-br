@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2403707",
+ "uf": "RN",
+ "municipio": "Felipe Guerra",
+ "tipo": "brasao",
+ "origem": "https://felipeguerra.rn.gov.br/wp-content/uploads/2025/06/Brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "494c6cbfc762c0119b149e4f01aa62f57784e84edc132d918aa974a9b5df185b",
+ "sha1_origem": "3a6afe5598daf1cfb0b53381283b1470a2b6475f",
+ "bytes_origem": 37698,
+ "capturado_em": "2026-11-09T03:09:29Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 44322,
+   "sha256": "00ab38ceec5913d2f912de601b52cb5f965fedceed13a621df9e9ac4b70778b5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11642,
+   "sha256": "5258bdcd88db8d505029682b38daaf6b724f80e6b9fefb727dca4a90913f6811",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2403707.png",
+  "bytes": 37698,
+  "sha256": "494c6cbfc762c0119b149e4f01aa62f57784e84edc132d918aa974a9b5df185b",
+  "sha1": "3a6afe5598daf1cfb0b53381283b1470a2b6475f"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

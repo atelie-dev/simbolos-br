@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1708304",
+ "uf": "TO",
+ "municipio": "Goianorte",
+ "tipo": "brasao",
+ "origem": "https://www.goianorte.to.gov.br/storage/empresa_params/2023/01/brasao-pm-goianorte-pequeno-min.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6186a5ae49a595b7bc396dab8178f1b781e13d014ec4c706c4128c301679603c",
+ "sha1_origem": "5943e92de685d1e06d582c493b6459c7c9914cdd",
+ "bytes_origem": 11698,
+ "capturado_em": "2026-11-09T03:11:08Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 35062,
+   "sha256": "ad91e3033141e8ae5e73fd733d5efddd7dbdccbf91bd332baf3dbb9b9393fc18",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13798,
+   "sha256": "7eb728afd8e68dc701ef10a17a6d961dc7fa318e44934723c6cc4af4c022eed6",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1708304.png",
+  "bytes": 11698,
+  "sha256": "6186a5ae49a595b7bc396dab8178f1b781e13d014ec4c706c4128c301679603c",
+  "sha1": "5943e92de685d1e06d582c493b6459c7c9914cdd"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

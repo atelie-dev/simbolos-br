@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1303908",
+ "uf": "AM",
+ "municipio": "São Paulo de Olivença",
+ "tipo": "brasao",
+ "origem": "https://saopaulodeolivenca.am.gov.br/wp-content/uploads/2026/03/brasao-spo.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "08927f9d2b89f41066f053df0b54959b43ffb0a68536803d83b49635af1c214a",
+ "sha1_origem": "7c109d01c91d1967d59c928fcc2a0c3931bf772f",
+ "bytes_origem": 173645,
+ "capturado_em": "2026-11-09T02:56:44Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 174426,
+   "sha256": "591893d2976f3f86299d991f150b9079913146ef69171479f94f2df314e78896",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61935,
+   "sha256": "60e17842cfb19578fd2b1e0a39dc6d732573c8c8f18fe41eeb35e3761cf1cda2",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1303908.png",
+  "bytes": 173645,
+  "sha256": "08927f9d2b89f41066f053df0b54959b43ffb0a68536803d83b49635af1c214a",
+  "sha1": "7c109d01c91d1967d59c928fcc2a0c3931bf772f"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2100709",
+ "uf": "MA",
+ "municipio": "Anajatuba",
+ "tipo": "brasao",
+ "origem": "https://anajatuba.ma.gov.br/link/link144.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "52758de4cd4319c5ab0a4976a432cac8ac6513bd548d67af72dfc1c57e03f91b",
+ "sha1_origem": "885ba44024ca4c34adbd28f839f4ebc004643f0d",
+ "bytes_origem": 39698,
+ "capturado_em": "2026-11-09T03:01:08Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 75343,
+   "sha256": "96c810e5e265cf09d9d3b3007cec4321c9bbb33bdf9491c940b0b77c10e087f6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22851,
+   "sha256": "66101775109d22156bdc4b3f7535286c5ce539372f0d0bffeb3a6be438dc39b5",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2100709.jpg",
+  "bytes": 39698,
+  "sha256": "52758de4cd4319c5ab0a4976a432cac8ac6513bd548d67af72dfc1c57e03f91b",
+  "sha1": "885ba44024ca4c34adbd28f839f4ebc004643f0d"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

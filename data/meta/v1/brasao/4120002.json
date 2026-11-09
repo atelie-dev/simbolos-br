@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4120002",
+ "uf": "PR",
+ "municipio": "Porecatu",
+ "tipo": "brasao",
+ "origem": "https://porecatu.pr.gov.br/storage/2025/02/brasao-300x285.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bc7e890af4ad57facd499f0af74782b7b4cd3b249e9a084980e0e94fef979a47",
+ "sha1_origem": "79721231ef55c693d8b0da81f126bd3598df8014",
+ "bytes_origem": 19876,
+ "capturado_em": "2026-11-09T03:08:48Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 125128,
+   "sha256": "2ea895cc182f65ff01d24f434da48a052b03a7604d3cf4ca87685adbeed00078",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22586,
+   "sha256": "1ea9b4d545eb07ec1ace0a9c015840f97b0c20de58a6067492296bc3d5b8d4ff",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4120002.jpg",
+  "bytes": 19876,
+  "sha256": "bc7e890af4ad57facd499f0af74782b7b4cd3b249e9a084980e0e94fef979a47",
+  "sha1": "79721231ef55c693d8b0da81f126bd3598df8014"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

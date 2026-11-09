@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2106631",
+ "uf": "MA",
+ "municipio": "Matões do Norte",
+ "tipo": "brasao",
+ "origem": "https://matoesdonorte.ma.gov.br/link/link138.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "437f6b068e0279de8239790864b658cc3207b94fd6a84d5709eb432b90bbd4d8",
+ "sha1_origem": "875c64c4d09d281040215269e13a9f48ac392e0e",
+ "bytes_origem": 69477,
+ "capturado_em": "2026-11-09T03:01:32Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 65806,
+   "sha256": "6ffc6fa144be83cc81d1472aed1f5477dc95d263a36a515a480c328f975e22e0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28218,
+   "sha256": "f6656227fff1225833887af2f875f848726388e06e15203de0dc0594238d36af",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2106631.jpg",
+  "bytes": 69477,
+  "sha256": "437f6b068e0279de8239790864b658cc3207b94fd6a84d5709eb432b90bbd4d8",
+  "sha1": "875c64c4d09d281040215269e13a9f48ac392e0e"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

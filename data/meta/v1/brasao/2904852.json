@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2904852",
+ "uf": "BA",
+ "municipio": "Cabaceiras do Paraguaçu",
+ "tipo": "brasao",
+ "origem": "https://cabaceirasdoparaguacu.ba.gov.br/imagens/Brasao_Cabaceiras_do_Paraguacu_BA.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6b284e124528ea18882d09bf922d78437447efc6802da0e9823f844bd0347902",
+ "sha1_origem": "03ce4b47d0a5dda3b5dc485683e915da682d9fb2",
+ "bytes_origem": 28429,
+ "capturado_em": "2026-11-09T02:57:15Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 29533,
+   "sha256": "8d78abd27b520a5d21728b069433f1adbaff8b2c38fb9587e7e0db83338caf6a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8025,
+   "sha256": "1ba2ea7dc586678a46f3dd2421269572a0c8338212b3007296f5cfc2d26b4210",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2904852.jpg",
+  "bytes": 28429,
+  "sha256": "6b284e124528ea18882d09bf922d78437447efc6802da0e9823f844bd0347902",
+  "sha1": "03ce4b47d0a5dda3b5dc485683e915da682d9fb2"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4121257",
+ "uf": "PR",
+ "municipio": "Ramilândia",
+ "tipo": "brasao",
+ "origem": "https://www.ramilandia.pr.gov.br//uploads/wysiwyg//458cba6.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dc3e19dde891355ca996ec2a7d60ab2f62e8bb20ed6a519a6fb148cf5de5fe70",
+ "sha1_origem": "c66abee0358fc871a6b65ce79a1b9af240ddf5d0",
+ "bytes_origem": 867162,
+ "capturado_em": "2026-11-09T03:08:53Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 364264,
+   "sha256": "78e8677ad947fdecc4eb726cf7d2c2cbbdb2bebd0394b2221f6b0014dd643b7e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 83644,
+   "sha256": "c2dcb2af49afba7e5153c6c348ba5f2e0b11e99b0299dcac3601cc83883a7a04",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4121257.jpg",
+  "bytes": 867162,
+  "sha256": "dc3e19dde891355ca996ec2a7d60ab2f62e8bb20ed6a519a6fb148cf5de5fe70",
+  "sha1": "c66abee0358fc871a6b65ce79a1b9af240ddf5d0"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

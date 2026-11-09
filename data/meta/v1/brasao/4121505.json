@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4121505",
+ "uf": "PR",
+ "municipio": "Rebouças",
+ "tipo": "brasao",
+ "origem": "https://reboucas.pr.gov.br/wp-content/uploads/2023/05/brasao.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "33dc040228577a5dafee2e387ffbcab40efb7317cd8b7cc44181608c65c80317",
+ "sha1_origem": "20f721c8058dbd357c37db0a5a1b1c57eddfd549",
+ "bytes_origem": 19396,
+ "capturado_em": "2026-11-09T03:09:03Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 71390,
+   "sha256": "c9135d75ec1ea2dc2c0f8f794659a90ab9b47e0b36f8b097bfd82953f43a3c56",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17859,
+   "sha256": "eb12e95cea96286096cfdc2a1b56db658a25787a407fbb6efe4c9e7d637036ba",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4121505.jpg",
+  "bytes": 19396,
+  "sha256": "33dc040228577a5dafee2e387ffbcab40efb7317cd8b7cc44181608c65c80317",
+  "sha1": "20f721c8058dbd357c37db0a5a1b1c57eddfd549"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

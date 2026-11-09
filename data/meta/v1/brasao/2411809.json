@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2411809",
+ "uf": "RN",
+ "municipio": "São Fernando",
+ "tipo": "brasao",
+ "origem": "https://saofernando.rn.gov.br/link/link190.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e0a4847e047427a0288f650efbaf7372dc6c0532a2bdc651859760c44c8b0355",
+ "sha1_origem": "62b9be053c37d37ed499e02b0a97eacc15fe7ec4",
+ "bytes_origem": 91296,
+ "capturado_em": "2026-11-09T03:09:54Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 68505,
+   "sha256": "3baaaacc9a9e82a660d5d89b88d25d8ad032367295127a2681f495bb83640dcb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30877,
+   "sha256": "b0f9f840e705d390109fe4e99d9aa89836d87d60a912d7234a283c28f7e4a5ad",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2411809.jpg",
+  "bytes": 91296,
+  "sha256": "e0a4847e047427a0288f650efbaf7372dc6c0532a2bdc651859760c44c8b0355",
+  "sha1": "62b9be053c37d37ed499e02b0a97eacc15fe7ec4"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

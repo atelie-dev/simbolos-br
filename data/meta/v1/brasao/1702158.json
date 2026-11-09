@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1702158",
+ "uf": "TO",
+ "municipio": "Araguanã",
+ "tipo": "brasao",
+ "origem": "https://www.araguana.to.gov.br/storage/empresa_params/2023/02/araguana-brasao2.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9c1c9e2b9018f1ba4e536c8e98d79534daf542c7b0171cf572f7ef547006abd6",
+ "sha1_origem": "bd683fe243c867635c7699a39ffbfc705bf4b0d0",
+ "bytes_origem": 25475,
+ "capturado_em": "2026-11-09T03:10:44Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 26332,
+   "sha256": "5afdbb8e84215815599700f795e72182a2f8b19613676aae5e44d2431a03a537",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7059,
+   "sha256": "4b1b5888472f6f91bf7e38ec26d61943473d14f45efc651e0d51b8468bfa2335",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1702158.png",
+  "bytes": 25475,
+  "sha256": "9c1c9e2b9018f1ba4e536c8e98d79534daf542c7b0171cf572f7ef547006abd6",
+  "sha1": "bd683fe243c867635c7699a39ffbfc705bf4b0d0"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

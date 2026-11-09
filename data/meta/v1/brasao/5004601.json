@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5004601",
+ "uf": "MS",
+ "municipio": "Itaquiraí",
+ "tipo": "brasao",
+ "origem": "https://cdn1.itaquirai.ms.gov.br/uploads/page_file/file/34/bras_o-itaquira_-ms.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "aaab4ed0b899a6a1e5064614bc75c1d97902492ec7fb57b849f09270f36cc259",
+ "sha1_origem": "8ffcf670465ce0d3f389e6841f7cf1f6e516b5cd",
+ "bytes_origem": 339378,
+ "capturado_em": "2026-11-09T03:03:56Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 166735,
+   "sha256": "d5ece317ac90ede48c54aebe562c10aec99880252c27ff90e1223cf476af269b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32271,
+   "sha256": "7f906fe9e5eae4c84c1d736ab208e6ac9239204621dce8779a254fd73a1453d0",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5004601.jpg",
+  "bytes": 339378,
+  "sha256": "aaab4ed0b899a6a1e5064614bc75c1d97902492ec7fb57b849f09270f36cc259",
+  "sha1": "8ffcf670465ce0d3f389e6841f7cf1f6e516b5cd"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

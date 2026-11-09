@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2111805",
+ "uf": "MA",
+ "municipio": "Sítio Novo",
+ "tipo": "brasao",
+ "origem": "https://sitionovo.ma.gov.br/upload/simbolos/45790.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c87590a4dbc96501f2ac1882d78f00730a8cd9d991cb3460cc39977f9d4fafe6",
+ "sha1_origem": "43e98109862f800c8b33cbbda81283038f6d7524",
+ "bytes_origem": 36960,
+ "capturado_em": "2026-11-09T03:01:53Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 39463,
+   "sha256": "c2ae5504f802baf68070f7e91650d91767234ceb5ac05b9b83b104ab93cd6825",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11992,
+   "sha256": "afd06a988bfba331d34979fec052322c60175d79f889c88bef04ea982e4a2aa8",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2111805.png",
+  "bytes": 36960,
+  "sha256": "c87590a4dbc96501f2ac1882d78f00730a8cd9d991cb3460cc39977f9d4fafe6",
+  "sha1": "43e98109862f800c8b33cbbda81283038f6d7524"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

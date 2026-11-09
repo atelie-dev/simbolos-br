@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2705408",
+ "uf": "AL",
+ "municipio": "Monteirópolis",
+ "tipo": "brasao",
+ "origem": "https://monteiropolis.al.gov.br/wp-content/uploads/2025/02/brasao.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "badb315de880aa55cf2505d881bfcb8a64652cb6b733cebc39e4fed019f189df",
+ "sha1_origem": "e0cdd4547f7ac4f7ec7141720dd5e0ebd83806d8",
+ "bytes_origem": 28211,
+ "capturado_em": "2026-11-09T02:56:25Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 29271,
+   "sha256": "cc294aa36060d612f7e5e1e11f1363153f88ddd816f591f18adba8201d7c195d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7294,
+   "sha256": "1e3f5a66f2d2b8a98479fa6db2737594a63225d118059d7ca491928a3e4d2b61",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2705408.jpg",
+  "bytes": 28211,
+  "sha256": "badb315de880aa55cf2505d881bfcb8a64652cb6b733cebc39e4fed019f189df",
+  "sha1": "e0cdd4547f7ac4f7ec7141720dd5e0ebd83806d8"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

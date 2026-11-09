@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1705102",
+ "uf": "TO",
+ "municipio": "Chapada da Natividade",
+ "tipo": "bandeira",
+ "origem": "https://chapadadanatividade.to.gov.br/arquivos/imagem_pagina/b0145bf6651f771c4ce954f64b18c4be.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c2c6454bcd9989bba807b036b102d2cc210d0b667ecadf5fb09ff0b942224f70",
+ "sha1_origem": "0c3420ed451a3105d2912d4d510e2c751e2ff3aa",
+ "bytes_origem": 8669,
+ "capturado_em": "2026-11-09T03:10:53Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 90320,
+   "sha256": "4b155d4cc2bfea408c688b0dc81e0a63b2a18733988d620c6824c49b9253527e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16392,
+   "sha256": "d86c776e96b4d3d4b33ae5f8b771ac13acda84e504d8696dcdb080de37116b50",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1705102.jpg",
+  "bytes": 8669,
+  "sha256": "c2c6454bcd9989bba807b036b102d2cc210d0b667ecadf5fb09ff0b942224f70",
+  "sha1": "0c3420ed451a3105d2912d4d510e2c751e2ff3aa"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

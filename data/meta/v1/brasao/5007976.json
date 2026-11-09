@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5007976",
+ "uf": "MS",
+ "municipio": "Taquarussu",
+ "tipo": "brasao",
+ "origem": "https://taquarussu.ms.gov.br/wp-content/uploads/2017/04/brasão-taquarussu.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a0c620794f13ea7cb403efe29f2000012252771fc47a62f59a4aa5e652c36de3",
+ "sha1_origem": "db414951c71d8ebbe824e7b0d9f2af85f86d3035",
+ "bytes_origem": 148898,
+ "capturado_em": "2026-11-09T03:04:05Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 166981,
+   "sha256": "3b1494e2435fbf47fc1fca6ed2b59182b67c02f802c5fa6a9e4767bb8ee24369",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43957,
+   "sha256": "bfa652c06d23d65642d6e25934a71d79afb4aab396ae1f3f61efc089717c6e92",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5007976.jpg",
+  "bytes": 148898,
+  "sha256": "a0c620794f13ea7cb403efe29f2000012252771fc47a62f59a4aa5e652c36de3",
+  "sha1": "db414951c71d8ebbe824e7b0d9f2af85f86d3035"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

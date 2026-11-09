@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2930154",
+ "uf": "BA",
+ "municipio": "Serra do Ramalho",
+ "tipo": "brasao",
+ "origem": "https://serradoramalho.ba.gov.br/uploads/identidade/serradoramalho/1793039832147-996839621.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2de0743a4a9cd6530f7e0e63d20a0424f6e0ee6be205bf6714c93a9d0989d5ab",
+ "sha1_origem": "74a75755008cd353ad01a3785a3831944338694b",
+ "bytes_origem": 89127,
+ "capturado_em": "2026-11-09T02:57:41Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 272122,
+   "sha256": "ce5cc0ebd4f856ea85db0b036e9b21da0a122e7c95d39d7e801ab0f481913f6a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 69425,
+   "sha256": "40d9d2c071e1c6730142a8a65720a9b1658f4f9c1d1644de2ab8338562a4065f",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2930154.png",
+  "bytes": 89127,
+  "sha256": "2de0743a4a9cd6530f7e0e63d20a0424f6e0ee6be205bf6714c93a9d0989d5ab",
+  "sha1": "74a75755008cd353ad01a3785a3831944338694b"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

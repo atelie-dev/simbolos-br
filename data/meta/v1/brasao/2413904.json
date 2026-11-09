@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2413904",
+ "uf": "RN",
+ "municipio": "Taipu",
+ "tipo": "brasao",
+ "origem": "https://taipu.rn.gov.br/storage/pages/June2021/brasao-150x150.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "88a42afbfebad645097a513da0506965341209568a69c2efc6a3b7470baefee2",
+ "sha1_origem": "f0863d567e5549ad8e66257f8fdd95cca4bcab16",
+ "bytes_origem": 42209,
+ "capturado_em": "2026-11-09T03:10:01Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 45265,
+   "sha256": "31e65d077548e97cf508f9f129ac303a88df43d10519a15a6b1b39e2fde96916",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12316,
+   "sha256": "1b3edf484a740915710bd2fec33068f7680b94dd855d04ef35597beb467116a6",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2413904.png",
+  "bytes": 42209,
+  "sha256": "88a42afbfebad645097a513da0506965341209568a69c2efc6a3b7470baefee2",
+  "sha1": "f0863d567e5549ad8e66257f8fdd95cca4bcab16"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

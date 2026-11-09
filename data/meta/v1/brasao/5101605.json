@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5101605",
+ "uf": "MT",
+ "municipio": "Barão de Melgaço",
+ "tipo": "brasao",
+ "origem": "https://baraodemelgaco.mt.gov.br/arquivos/Brasao/Barao-de-Melgaco.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b22c5bb10baace625e732c6bd784f778b141a5589b27dc21e19f3cafe472bb0c",
+ "sha1_origem": "bb373d28629aa79871d74dd62a1788fcd07cca36",
+ "bytes_origem": 10611,
+ "capturado_em": "2026-11-09T03:04:08Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 83310,
+   "sha256": "bbd6f47c9d6080aef27e87f7d1877de6df61c2cefcdad9fa7ed2a1c532fbbcb1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14340,
+   "sha256": "2734c7b7af781374efd93c18a622f96e891e234e2809e79e8db2d2a0d875dce0",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5101605.jpg",
+  "bytes": 10611,
+  "sha256": "b22c5bb10baace625e732c6bd784f778b141a5589b27dc21e19f3cafe472bb0c",
+  "sha1": "bb373d28629aa79871d74dd62a1788fcd07cca36"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

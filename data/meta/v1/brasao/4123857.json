@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4123857",
+ "uf": "PR",
+ "municipio": "Santa Maria do Oeste",
+ "tipo": "brasao",
+ "origem": "https://santamariadooeste.pr.gov.br/uploads/bras%C3%A3ooo.jpeg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fca5ec308548a6c3c36ea2f70685c2f9009fad3d16f57a9ef215726266a75b48",
+ "sha1_origem": "634f14d0d997e2a486df811c83555b711fdbe20a",
+ "bytes_origem": 148462,
+ "capturado_em": "2026-11-09T03:09:13Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 339524,
+   "sha256": "988009461894b27aa80b2c7161493c9e2c184ba1b6224be27f930eb1b88c66e3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56892,
+   "sha256": "d7903038aeae9cd274d39885f2c4271b551861c08702cfd353b1930527d93778",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4123857.jpg",
+  "bytes": 148462,
+  "sha256": "fca5ec308548a6c3c36ea2f70685c2f9009fad3d16f57a9ef215726266a75b48",
+  "sha1": "634f14d0d997e2a486df811c83555b711fdbe20a"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

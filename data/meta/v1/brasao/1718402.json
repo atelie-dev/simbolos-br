@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1718402",
+ "uf": "TO",
+ "municipio": "Presidente Kennedy",
+ "tipo": "brasao",
+ "origem": "https://presidentekennedy.to.gov.br/_next/image?url=%2Fapi%2Fmedia%2Ffile%2F20251125125645419-7eceebfa-bf79-4d77-a638-8eb2df2777bf.png%3Fprefix%3Dmedia&w=384&q=100",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9df1c4b46416ef5f2489315eebb5930984339fd7891a35a501d09f74b9b8c0fa",
+ "sha1_origem": "5d0752dd1b7b05db8302309c4f6ea89d62d38498",
+ "bytes_origem": 38914,
+ "capturado_em": "2026-11-09T03:11:44Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 98880,
+   "sha256": "c424affbdc7ccd6807ba4004688e7492f851276d7a9e4e65d1e99f2520322716",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41949,
+   "sha256": "aae1644fc06956c6bdd2462ee78ef48b7c1b073977955ce94664cec706c7a77f",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1718402.png",
+  "bytes": 38914,
+  "sha256": "9df1c4b46416ef5f2489315eebb5930984339fd7891a35a501d09f74b9b8c0fa",
+  "sha1": "5d0752dd1b7b05db8302309c4f6ea89d62d38498"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

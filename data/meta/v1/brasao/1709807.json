@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1709807",
+ "uf": "TO",
+ "municipio": "Ipueiras",
+ "tipo": "brasao",
+ "origem": "https://ipueiras.to.gov.br/wp-content/uploads/2025/03/300px-Ipueiras_Tocantins.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4570264c488dd6264a676c3d79414b7b89bf9f6fb11727ee2fd053ec99dc2cdc",
+ "sha1_origem": "58d7bfaf27390d8986c5bf915ca2de7c985f299a",
+ "bytes_origem": 19197,
+ "capturado_em": "2026-11-09T03:11:11Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 138078,
+   "sha256": "523f5dc826262d107c49ce37a574cc4a30d6f0c1e6322e17a38f70c506db199b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23637,
+   "sha256": "15b7fea3e7ec7782bb6793ed960e8bf548106417bf2c474f456a3d6b27ea6d5b",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1709807.jpg",
+  "bytes": 19197,
+  "sha256": "4570264c488dd6264a676c3d79414b7b89bf9f6fb11727ee2fd053ec99dc2cdc",
+  "sha1": "58d7bfaf27390d8986c5bf915ca2de7c985f299a"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

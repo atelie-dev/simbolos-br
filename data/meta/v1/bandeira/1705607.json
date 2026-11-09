@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1705607",
+ "uf": "TO",
+ "municipio": "Conceição do Tocantins",
+ "tipo": "bandeira",
+ "origem": "https://conceicaodotocantins.to.gov.br/wp-content/uploads/2023/12/bandeira.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ba514f126119e30f100e41853330b9be347baa2959c429d6c201fe17e545b318",
+ "sha1_origem": "b101a8612a2f5da5da49868a50bb09d2a25deec3",
+ "bytes_origem": 43511,
+ "capturado_em": "2026-11-09T03:11:01Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 58311,
+   "sha256": "90cfce9813c6c0c41e62bfb1f27538c3d1a5f40f48d1f3a59e62001a029ff351",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20567,
+   "sha256": "de16a2b8e6345418f4fa4e83cfa57b44a47b8c8028cc2ac9b692e08e8808f620",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1705607.jpg",
+  "bytes": 43511,
+  "sha256": "ba514f126119e30f100e41853330b9be347baa2959c429d6c201fe17e545b318",
+  "sha1": "b101a8612a2f5da5da49868a50bb09d2a25deec3"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

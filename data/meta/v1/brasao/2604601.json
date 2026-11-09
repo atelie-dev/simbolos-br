@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2604601",
+ "uf": "PE",
+ "municipio": "Condado",
+ "tipo": "brasao",
+ "origem": "http://site.condado.pe.gov.br/wp-content/uploads/2021/09/Brasao-Logo-Condado2.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ea6ea9c1d2f6307aa8a38a1ac15917ea5623a5eeab0834f66c984dd26d0847d2",
+ "sha1_origem": "c7e0e208bb9cfd05ca2260c357ae0927f5a93ecc",
+ "bytes_origem": 176523,
+ "capturado_em": "2026-11-09T03:07:05Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 177589,
+   "sha256": "8f9cddb959868b953de7ab59602f1141487faef1389edfcb64e291dd192b693d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42697,
+   "sha256": "87a042158500cef45751b005fffd1a92abc5b01967b163e588c37c5a2cc33d52",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2604601.png",
+  "bytes": 176523,
+  "sha256": "ea6ea9c1d2f6307aa8a38a1ac15917ea5623a5eeab0834f66c984dd26d0847d2",
+  "sha1": "c7e0e208bb9cfd05ca2260c357ae0927f5a93ecc"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

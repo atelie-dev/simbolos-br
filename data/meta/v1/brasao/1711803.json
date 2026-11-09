@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1711803",
+ "uf": "TO",
+ "municipio": "Juarina",
+ "tipo": "brasao",
+ "origem": "https://juarina.to.gov.br/wp-content/uploads/2025/01/image-289x300-1.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "28a8339b3840f017d31c425aad0ed93f455c3ee1f04b4e9d9ab00fcb59dee4be",
+ "sha1_origem": "c338b1b92c249ea95a5b1a0e5f5edada22d3cd56",
+ "bytes_origem": 93895,
+ "capturado_em": "2026-11-09T03:11:19Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 111496,
+   "sha256": "73618d5276f6f90795eada69d85caf822218ee555d078eb24341d7df84a50bb6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21204,
+   "sha256": "a881ba72560db0795cf6877f4691c311bce4d8edd45ceeded4d8535ec90b234a",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1711803.png",
+  "bytes": 93895,
+  "sha256": "28a8339b3840f017d31c425aad0ed93f455c3ee1f04b4e9d9ab00fcb59dee4be",
+  "sha1": "c338b1b92c249ea95a5b1a0e5f5edada22d3cd56"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

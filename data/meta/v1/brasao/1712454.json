@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1712454",
+ "uf": "TO",
+ "municipio": "Luzinópolis",
+ "tipo": "brasao",
+ "origem": "https://www.luzinopolis.to.gov.br/storage/empresa_params/2023/02/brasao-png-luzinopolis-min.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8b7585b58c8589a3c246ecc0e7ccb88e04de416d8dc41be23ac8777eaca392f2",
+ "sha1_origem": "c54f7557a03f4f34219a79aa5f90c317b94b20d2",
+ "bytes_origem": 15974,
+ "capturado_em": "2026-11-09T03:11:20Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 50397,
+   "sha256": "51af2a0b8ae85adc4b84291d313a5c326a2a8f176932e23c7e95f161311d4401",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19156,
+   "sha256": "12ba5eed1b723fae681ded17d6304c7f05674132cfaa0d278e795c280949da89",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1712454.png",
+  "bytes": 15974,
+  "sha256": "8b7585b58c8589a3c246ecc0e7ccb88e04de416d8dc41be23ac8777eaca392f2",
+  "sha1": "c54f7557a03f4f34219a79aa5f90c317b94b20d2"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

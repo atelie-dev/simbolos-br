@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3204955",
+ "uf": "ES",
+ "municipio": "São Roque do Canaã",
+ "tipo": "brasao",
+ "origem": "https://saoroquedocanaa.es.gov.br/assets/img/brasao_site.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cc8c146d0d6d34586758bb8104ea71800b84df51496054dd253527a0315d570f",
+ "sha1_origem": "dae010304a3621a1bdad84ba8fa23c097a26e099",
+ "bytes_origem": 5918,
+ "capturado_em": "2026-11-09T02:58:39Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 8058,
+   "sha256": "aef8f0b1c3f76157daf5dff4264f341a7409877186f303614eb67647d1056e06",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 3716,
+   "sha256": "cebeddba2d97ac8aea1d51e8c81dcea4e5d9684f96b95e71612b3d1cfbe984fa",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3204955.png",
+  "bytes": 5918,
+  "sha256": "cc8c146d0d6d34586758bb8104ea71800b84df51496054dd253527a0315d570f",
+  "sha1": "dae010304a3621a1bdad84ba8fa23c097a26e099"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

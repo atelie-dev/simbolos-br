@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5107297",
+ "uf": "MT",
+ "municipio": "São José do Povo",
+ "tipo": "brasao",
+ "origem": "https://www.saojosedopovo.mt.gov.br/images/10.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e9c577034b24eb1b3684c4aeaccec05d945389d45f7b2256ea791ba6fce54a52",
+ "sha1_origem": "eba797c99e2d9268fab51d68edf70c827e4a6100",
+ "bytes_origem": 222019,
+ "capturado_em": "2026-11-09T03:04:38Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 163486,
+   "sha256": "39afe819af7fb5baf4745aee5b5bd85a0705d3f9d7707d0af59cb9b63f10a5bd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44492,
+   "sha256": "6f84cb0e446b856fe78e1e31427029cb005218f0c3f148b8488946cac86306c9",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5107297.png",
+  "bytes": 222019,
+  "sha256": "e9c577034b24eb1b3684c4aeaccec05d945389d45f7b2256ea791ba6fce54a52",
+  "sha1": "eba797c99e2d9268fab51d68edf70c827e4a6100"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

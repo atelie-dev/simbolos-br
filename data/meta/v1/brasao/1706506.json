@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1706506",
+ "uf": "TO",
+ "municipio": "Darcinópolis",
+ "tipo": "brasao",
+ "origem": "https://www.darcinopolis.to.gov.br/storage/empresa_params/2025/01/brasao-removebg-preview.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "61d77f2efddc9fcc5d9cd9775c01fff63089eacdc28541c19f2bc190d0cc2479",
+ "sha1_origem": "32d86ec8a3ea1fba92c0a593c992be1d8ed94cef",
+ "bytes_origem": 113516,
+ "capturado_em": "2026-11-09T03:11:02Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 107385,
+   "sha256": "fb33ba184765bdd9269ca19a20ee9d1b2fd819168d9fb602d1bdb172c09c1b1b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27608,
+   "sha256": "dd3a5a0b79bae524f8f78f3cb796c6afa0d3100181a193d7be1b593f359b4fe9",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1706506.png",
+  "bytes": 113516,
+  "sha256": "61d77f2efddc9fcc5d9cd9775c01fff63089eacdc28541c19f2bc190d0cc2479",
+  "sha1": "32d86ec8a3ea1fba92c0a593c992be1d8ed94cef"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

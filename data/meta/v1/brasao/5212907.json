@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5212907",
+ "uf": "GO",
+ "municipio": "Marzagão",
+ "tipo": "brasao",
+ "origem": "https://marzagao.go.gov.br/wp-content/uploads/2021/01/Brasao_de_Marzagao.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d87fdab90cc1416161e790a94af8c1b7fb7919f26c2220c428a9ef0b54df80c5",
+ "sha1_origem": "4c312e7f08fbf3147f82cec16d8e2b6e5157aea3",
+ "bytes_origem": 57725,
+ "capturado_em": "2026-11-09T02:59:54Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 384481,
+   "sha256": "3457473468d13c03d97937203b57fb12301724c9fd34db3cf6a83951fa168052",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 69965,
+   "sha256": "2265b3cd10e584164f4d5dce3d1b48005fadf0a361220adac364ce164372310b",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5212907.jpg",
+  "bytes": 57725,
+  "sha256": "d87fdab90cc1416161e790a94af8c1b7fb7919f26c2220c428a9ef0b54df80c5",
+  "sha1": "4c312e7f08fbf3147f82cec16d8e2b6e5157aea3"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

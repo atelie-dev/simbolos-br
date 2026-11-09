@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3154457",
+ "uf": "MG",
+ "municipio": "Riachinho",
+ "tipo": "brasao",
+ "origem": "https://riachinho.mg.gov.br/wa_images/prefeitura-de-riachinho-mg-brasao2.fw.png?v=1l2ol90",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "df26908f5264fa8fdab0f0a3932ba5169844c4846b542885e9d5416a88a0851e",
+ "sha1_origem": "60ddb289193bde75a7bdb163aae4d745ef6e54bb",
+ "bytes_origem": 35583,
+ "capturado_em": "2026-11-09T03:03:08Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 37491,
+   "sha256": "fe93a6075c722755695b555cd420b65bd7372ea2ebd876fd7b7c227fe58139de",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10920,
+   "sha256": "3d64a6e35bf94404e82c389f4069fbdab73e0e10459cdc1f1c812381f37f016f",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3154457.png",
+  "bytes": 35583,
+  "sha256": "df26908f5264fa8fdab0f0a3932ba5169844c4846b542885e9d5416a88a0851e",
+  "sha1": "60ddb289193bde75a7bdb163aae4d745ef6e54bb"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

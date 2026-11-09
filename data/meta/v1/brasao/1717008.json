@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1717008",
+ "uf": "TO",
+ "municipio": "Pindorama do Tocantins",
+ "tipo": "brasao",
+ "origem": "https://pindoramadotocantins.to.gov.br/wp-content/uploads/2024/11/pindorama-do-tocantins.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "55ff3186fab8877cfb4da9f5a9b3367cd41c7ff8cbdde1f507883f6ce3e51a4e",
+ "sha1_origem": "3894066a4127bd8799b9a77129f1c21f08196442",
+ "bytes_origem": 9127,
+ "capturado_em": "2026-11-09T03:11:41Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 102949,
+   "sha256": "22c82849fe55a03dfb933ff7f8b7789564fe2ca4e12ccd3c2994ed7716e3e95c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17554,
+   "sha256": "7c67e963066dfcc98df606a2205cd6ba5f5c77fad543fb2e27366316c6d95f85",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1717008.jpg",
+  "bytes": 9127,
+  "sha256": "55ff3186fab8877cfb4da9f5a9b3367cd41c7ff8cbdde1f507883f6ce3e51a4e",
+  "sha1": "3894066a4127bd8799b9a77129f1c21f08196442"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

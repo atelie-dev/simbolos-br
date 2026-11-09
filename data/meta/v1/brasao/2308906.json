@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2308906",
+ "uf": "CE",
+ "municipio": "Morrinhos",
+ "tipo": "brasao",
+ "origem": "https://morrinhos.ce.gov.br/link/link120.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a248172774a5864cdff38f655b49a5029c8ca5d1b8431de5ed018d5f557a9290",
+ "sha1_origem": "3c449459a79c40a8be8621f27c76297245b09ddc",
+ "bytes_origem": 88354,
+ "capturado_em": "2026-11-09T02:58:18Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 83671,
+   "sha256": "1ebece786434dcf514828b82dac6e3809bf08888acd6f6c4def36bb445d00059",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30987,
+   "sha256": "159a05dda05c01d7a375442f2e358aab9dfc6fcf4ad3157f74c041431a7a71fe",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2308906.jpg",
+  "bytes": 88354,
+  "sha256": "a248172774a5864cdff38f655b49a5029c8ca5d1b8431de5ed018d5f557a9290",
+  "sha1": "3c449459a79c40a8be8621f27c76297245b09ddc"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

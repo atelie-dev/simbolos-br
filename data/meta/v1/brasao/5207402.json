@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5207402",
+ "uf": "GO",
+ "municipio": "Edéia",
+ "tipo": "brasao",
+ "origem": "https://edeia.go.gov.br/wp-content/uploads/2026/10/logo.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7299c1829aff4946edfb8c6d2056cfc284e36c43baf0763372e810601c96f63c",
+ "sha1_origem": "5dbd76379d99dd8ccf14873c95a60fff1941bea7",
+ "bytes_origem": 8442,
+ "capturado_em": "2026-11-09T02:59:21Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 10166,
+   "sha256": "16f3d30f6fd4569f25519c865ff306db8891e0d9ab56599c5ee9ad8348bc505a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5350,
+   "sha256": "906b0211d0c4dd67f36b49ba843d3701b56256f221bd0051dac7f3ef243547f1",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5207402.png",
+  "bytes": 8442,
+  "sha256": "7299c1829aff4946edfb8c6d2056cfc284e36c43baf0763372e810601c96f63c",
+  "sha1": "5dbd76379d99dd8ccf14873c95a60fff1941bea7"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

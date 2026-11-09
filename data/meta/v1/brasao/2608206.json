@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2608206",
+ "uf": "PE",
+ "municipio": "Joaquim Nabuco",
+ "tipo": "brasao",
+ "origem": "https://joaquimnabuco.pe.gov.br/wp-content/uploads/2025/02/brasao-logo.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "37bc026aa47ee71d60cfbfcff3274d7dd957921016b4dc46aa19a33d3052dc1a",
+ "sha1_origem": "d957f9c556f9e53ca7c19d1c10f7c4f5fe29c296",
+ "bytes_origem": 69344,
+ "capturado_em": "2026-11-09T03:07:17Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 148004,
+   "sha256": "03c96c85a897a5347e80dd109d1b912afbc8b26016a700256aface958c325e2f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26467,
+   "sha256": "c9244bff469b72fe841203edb6ec2fb28f1942d4493ce16dc956379b257530db",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2608206.jpg",
+  "bytes": 69344,
+  "sha256": "37bc026aa47ee71d60cfbfcff3274d7dd957921016b4dc46aa19a33d3052dc1a",
+  "sha1": "d957f9c556f9e53ca7c19d1c10f7c4f5fe29c296"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

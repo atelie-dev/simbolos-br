@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2702553",
+ "uf": "AL",
+ "municipio": "Estrela de Alagoas",
+ "tipo": "bandeira",
+ "origem": "https://estreladealagoas.al.gov.br/wp-content/uploads/2021/05/bandeiraestreladealagoas.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bf22b8e23cccfa64fc2fe8fae7b9ff726f017cf70ba9cc7685a67b074e5aaaf1",
+ "sha1_origem": "de41512456b8c3d17d3305499fea5fe7d02f2c19",
+ "bytes_origem": 18473,
+ "capturado_em": "2026-11-09T02:55:20Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 21603,
+   "sha256": "dfa70ef8d64552e0474bea0596d2c371ea361c2097e42425b20c967b9d0bf72e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14108,
+   "sha256": "6b9b6335c40bccccba7696a967d9eb44f0060c62cc0e603c2621dae3d687db17",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2702553.png",
+  "bytes": 18473,
+  "sha256": "bf22b8e23cccfa64fc2fe8fae7b9ff726f017cf70ba9cc7685a67b074e5aaaf1",
+  "sha1": "de41512456b8c3d17d3305499fea5fe7d02f2c19"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

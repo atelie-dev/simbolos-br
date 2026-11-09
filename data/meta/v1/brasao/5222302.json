@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5222302",
+ "uf": "GO",
+ "municipio": "Vila Propício",
+ "tipo": "brasao",
+ "origem": "https://vilapropicio.go.gov.br/wp-content/uploads/2025/09/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7523662fb5cce1a4757b94024a241d50265309015820fc15d2be5efc5588783c",
+ "sha1_origem": "69c38c28ef9a87bcbbf396e42484bf1edcaee665",
+ "bytes_origem": 365420,
+ "capturado_em": "2026-11-09T03:01:07Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 338375,
+   "sha256": "24d697e8afd879a5b9079d08155a6ce5306d51353974f3caa3eae189465ee65e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 63773,
+   "sha256": "6af064d62d6e812cace94db533dc208edd9f6581ef13f24b6b30789e05113ec0",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5222302.png",
+  "bytes": 365420,
+  "sha256": "7523662fb5cce1a4757b94024a241d50265309015820fc15d2be5efc5588783c",
+  "sha1": "69c38c28ef9a87bcbbf396e42484bf1edcaee665"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

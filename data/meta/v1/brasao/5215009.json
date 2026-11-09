@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5215009",
+ "uf": "GO",
+ "municipio": "Nova Veneza",
+ "tipo": "brasao",
+ "origem": "http://novaveneza.go.gov.br/wp-content/uploads/2019/12/logo-2.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "38a8b06dfde09650129e829d21567526ef9dc476fe421cd0f594c5d816921a01",
+ "sha1_origem": "2d4d9642bb4787b92a5b8e9d490e1e1a34d08d29",
+ "bytes_origem": 139775,
+ "capturado_em": "2026-11-09T03:00:17Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 131482,
+   "sha256": "6ec057eba4dd697349382f1b557dc74dcc4c1d8d371a07d4f36edcacd290ae5b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25631,
+   "sha256": "0ecf1f746efff257db5badb609c4800164addc07f07cc401342cc463067fd9b9",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5215009.png",
+  "bytes": 139775,
+  "sha256": "38a8b06dfde09650129e829d21567526ef9dc476fe421cd0f594c5d816921a01",
+  "sha1": "2d4d9642bb4787b92a5b8e9d490e1e1a34d08d29"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

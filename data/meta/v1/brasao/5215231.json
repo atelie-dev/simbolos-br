@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5215231",
+ "uf": "GO",
+ "municipio": "Novo Gama",
+ "tipo": "brasao",
+ "origem": "https://novogama.go.leg.br/wp-content/uploads/2023/05/brasao-novo-gama.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "43e7827503e5997de6c2b685e8d245719587cd23fa42cff64e528cb910bbb1d7",
+ "sha1_origem": "c2266b1e35bad665fbd031d467f63d238e9a9c51",
+ "bytes_origem": 634658,
+ "capturado_em": "2026-11-09T03:00:20Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 223718,
+   "sha256": "77dadbf421618bbeeb60a88c10fe71c5e5c52525470f79a4c6e24faabb7b1c37",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49256,
+   "sha256": "9ce3acd18ee27b8670bcb42c131296d0efac44301cf956c1fa95e8f4ab21807a",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5215231.png",
+  "bytes": 634658,
+  "sha256": "43e7827503e5997de6c2b685e8d245719587cd23fa42cff64e528cb910bbb1d7",
+  "sha1": "c2266b1e35bad665fbd031d467f63d238e9a9c51"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

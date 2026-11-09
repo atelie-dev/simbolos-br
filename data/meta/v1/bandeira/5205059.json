@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5205059",
+ "uf": "GO",
+ "municipio": "Castelândia",
+ "tipo": "bandeira",
+ "origem": "https://castelandia.go.gov.br/wp-content/uploads/2025/02/Bandeira_de_Castelandia.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "30286a7b8cb4c8de01663f99b637d1cf550fe6ff213c90be1bcc445c23ba73a9",
+ "sha1_origem": "1e5d5a5df2fc3aaa1087baa59b6166058bdc7af4",
+ "bytes_origem": 12613,
+ "capturado_em": "2026-11-09T02:59:01Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 12982,
+   "sha256": "af1389c3304d2a73537c169a12b1f542ca73603e3e2295f6748128968499e9b1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13503,
+   "sha256": "f26d95642d861ef498136ac6e0f73f0debb8eb10fd8fbf8f7a498e452b62cd63",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5205059.png",
+  "bytes": 12613,
+  "sha256": "30286a7b8cb4c8de01663f99b637d1cf550fe6ff213c90be1bcc445c23ba73a9",
+  "sha1": "1e5d5a5df2fc3aaa1087baa59b6166058bdc7af4"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

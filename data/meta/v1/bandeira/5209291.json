@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5209291",
+ "uf": "GO",
+ "municipio": "Guaraíta",
+ "tipo": "bandeira",
+ "origem": "https://www.guaraita.go.gov.br/wp-content/uploads/2025/03/Bandeira_de_Guaraita.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e73bbbcf086869a63001fd6af392674ca115f7ef731b74e08486c34e7f3a1828",
+ "sha1_origem": "816387002973484864a2a21e22ea2f51dce662e6",
+ "bytes_origem": 7333,
+ "capturado_em": "2026-11-09T02:59:28Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 36824,
+   "sha256": "50a3b90335e0833eecb9888259c581ae27219a131418973e28b77b6b08cda050",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10652,
+   "sha256": "22fe15d823b9d8207fc7aade42a9ff5e513d9846706a059c14d72a5e5f6c8180",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5209291.jpg",
+  "bytes": 7333,
+  "sha256": "e73bbbcf086869a63001fd6af392674ca115f7ef731b74e08486c34e7f3a1828",
+  "sha1": "816387002973484864a2a21e22ea2f51dce662e6"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

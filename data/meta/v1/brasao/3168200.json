@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3168200",
+ "uf": "MG",
+ "municipio": "Tapiraí",
+ "tipo": "brasao",
+ "origem": "https://www.tapirai.mg.gov.br/wp-content/uploads/2019/07/tapirai-mg-brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1c9ff6b95deb0ffc96d5f96906c0385e08a0c512a2632e56521c42a36b805664",
+ "sha1_origem": "db90313a73999c2744d55fb315c74d4b56bcfc06",
+ "bytes_origem": 639298,
+ "capturado_em": "2026-11-09T03:03:36Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 148500,
+   "sha256": "bc2e21e17a6a3eab5a26c21818fc02ecc1aa9e0680b5e071a58bec89fe8b64b4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39618,
+   "sha256": "457d939a01a8b896008cb43ab227e7856b59a926fb7f27b6721711ad383aa796",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3168200.png",
+  "bytes": 639298,
+  "sha256": "1c9ff6b95deb0ffc96d5f96906c0385e08a0c512a2632e56521c42a36b805664",
+  "sha1": "db90313a73999c2744d55fb315c74d4b56bcfc06"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

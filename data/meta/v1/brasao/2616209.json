@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2616209",
+ "uf": "PE",
+ "municipio": "Vertentes",
+ "tipo": "brasao",
+ "origem": "https://vertentes.pe.gov.br/wp-content/uploads/2022/04/Bandeira-1024x998.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5b517232eb9fb6bcad6ff918dff7f714b96061ac99f23f08b55d340e276abc4d",
+ "sha1_origem": "c666fec4330921323553e9cef480d2de30d2e731",
+ "bytes_origem": 87559,
+ "capturado_em": "2026-11-09T03:07:51Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 268612,
+   "sha256": "3098bdf791992449f8ccc2c1e11117fbe010e12018db1d9ca9622b126750ef31",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33695,
+   "sha256": "3e6d81cbb6c9c5a64897b68c905e5af37d0fb66b4b5ad5a7b4d66bf768b44f5d",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2616209.jpg",
+  "bytes": 87559,
+  "sha256": "5b517232eb9fb6bcad6ff918dff7f714b96061ac99f23f08b55d340e276abc4d",
+  "sha1": "c666fec4330921323553e9cef480d2de30d2e731"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

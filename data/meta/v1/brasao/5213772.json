@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5213772",
+ "uf": "GO",
+ "municipio": "Montividiu do Norte",
+ "tipo": "brasao",
+ "origem": "https://montividiudonorte.go.gov.br/wp-content/uploads/2025/02/brasao-1024x847.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3ed2cb14dbabff57cb31df5fef842ae5cb9e815a6e0ce71b59d720ed10aede0f",
+ "sha1_origem": "2dada4f6458995252e39b5a76c59107472def9e1",
+ "bytes_origem": 103910,
+ "capturado_em": "2026-11-09T02:59:59Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 205266,
+   "sha256": "00a5167fc81593c8f6153399568f6bf937b912cb57e389511fd8a337acadd998",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47135,
+   "sha256": "dd6ac76182e362bc9829a2c71e30092c69b43d03088d452954d04ea5a917d694",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5213772.jpg",
+  "bytes": 103910,
+  "sha256": "3ed2cb14dbabff57cb31df5fef842ae5cb9e815a6e0ce71b59d720ed10aede0f",
+  "sha1": "2dada4f6458995252e39b5a76c59107472def9e1"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

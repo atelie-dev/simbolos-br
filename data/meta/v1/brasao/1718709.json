@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1718709",
+ "uf": "TO",
+ "municipio": "Rio dos Bois",
+ "tipo": "brasao",
+ "origem": "https://www.riodosbois.to.gov.br/storage/empresa_params/2025/01/brasao-rio-dos-bois-2025-min.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cdfe3cb5d7ea785062ab0f8542880eedbb032abd0c37d93f0aa8fc774e817c48",
+ "sha1_origem": "e71bdd5d71c70755cbeb8dff1463c0646244285b",
+ "bytes_origem": 71969,
+ "capturado_em": "2026-11-09T03:11:47Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 242766,
+   "sha256": "fac130913c8b0f6996f76791cd6dee50c7eee36ba89f91ab0345f3f104c6e2f1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 57125,
+   "sha256": "c2ec9aecf1a8aaa43808a072c58f8a21f0b71827eb9160cbe3390cac386d47c1",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1718709.png",
+  "bytes": 71969,
+  "sha256": "cdfe3cb5d7ea785062ab0f8542880eedbb032abd0c37d93f0aa8fc774e817c48",
+  "sha1": "e71bdd5d71c70755cbeb8dff1463c0646244285b"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

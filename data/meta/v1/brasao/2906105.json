@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2906105",
+ "uf": "BA",
+ "municipio": "Canápolis",
+ "tipo": "brasao",
+ "origem": "https://www.canapolis.ba.gov.br/site/wp-content/uploads/2019/05/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c4d22e82b0d3a6d7e0af5c89eb74a8a7984d5443a3ae45b075977791e12595bf",
+ "sha1_origem": "495e22a02ec28830bb75eb112a0f7c0ca5b06623",
+ "bytes_origem": 185211,
+ "capturado_em": "2026-11-09T02:57:20Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 176128,
+   "sha256": "0fc44706cc9a7465b3940204b63e86d81f2b8fb7a0421647007916026d9641f1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32202,
+   "sha256": "cc47f1ba57bf01f77762f461a3105cb2de8dfb99836e515bbc81069feced3ad5",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2906105.png",
+  "bytes": 185211,
+  "sha256": "c4d22e82b0d3a6d7e0af5c89eb74a8a7984d5443a3ae45b075977791e12595bf",
+  "sha1": "495e22a02ec28830bb75eb112a0f7c0ca5b06623"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

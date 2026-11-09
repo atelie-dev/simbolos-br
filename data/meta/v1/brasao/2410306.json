@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2410306",
+ "uf": "RN",
+ "municipio": "Serra Caiada",
+ "tipo": "brasao",
+ "origem": "https://serracaiada.rn.gov.br/link/link66.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "54bb3062d82244d69b544cab23b36191bdc62f80bfe612dbd8a6d19fbedfdc04",
+ "sha1_origem": "7e941fd47d1280c743d37a31ee16a99992df73d7",
+ "bytes_origem": 74848,
+ "capturado_em": "2026-11-09T03:09:53Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 71519,
+   "sha256": "4e1735b3ace72c17e14743039bca4d1b4a9ebe819e71720efefaa4486de6fc8b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18849,
+   "sha256": "d8c7a79c16b892def37889235542b49e8c0b96082ffd41066df10522f84d535e",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2410306.jpg",
+  "bytes": 74848,
+  "sha256": "54bb3062d82244d69b544cab23b36191bdc62f80bfe612dbd8a6d19fbedfdc04",
+  "sha1": "7e941fd47d1280c743d37a31ee16a99992df73d7"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

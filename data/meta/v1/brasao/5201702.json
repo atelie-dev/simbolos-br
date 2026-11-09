@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5201702",
+ "uf": "GO",
+ "municipio": "Aragarças",
+ "tipo": "brasao",
+ "origem": "https://www.aragarcas.go.leg.br/wp-content/uploads/2024/01/brasao-1.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0c50648c43e82c25b3610909ee704227b8969791ae704d47b7acf9790e8b223d",
+ "sha1_origem": "6c4cf67c21b133875fe8dd62fbddf6e35e220804",
+ "bytes_origem": 87299,
+ "capturado_em": "2026-11-09T02:58:46Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 236769,
+   "sha256": "e7d179941b41dac94ee5afa1d9a25fdd654c2c9649390a271a45f837f1ce02c1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56387,
+   "sha256": "8947764a816ecc14987c7f4b47dde6ff34757d145c61703b665611f719a392e1",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5201702.jpg",
+  "bytes": 87299,
+  "sha256": "0c50648c43e82c25b3610909ee704227b8969791ae704d47b7acf9790e8b223d",
+  "sha1": "6c4cf67c21b133875fe8dd62fbddf6e35e220804"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2304285",
+ "uf": "CE",
+ "municipio": "Eusébio",
+ "tipo": "brasao",
+ "origem": "https://eusebio.ce.gov.br/link/link69.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c979e8f72bef09d1b88961d6f22869d95801bf56f853e2e3e01f9c65d4a90b43",
+ "sha1_origem": "f13bdec6c60c08d51dac742a9dff29138ce8d825",
+ "bytes_origem": 84850,
+ "capturado_em": "2026-11-09T02:58:03Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 86398,
+   "sha256": "b7afde67818a83f69cdbff52d581a0b4608380b401ac493614f45c52855d0a1f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29693,
+   "sha256": "0953f0ac5362e2650370badd44f4b980eda2fac9bf3e36df0004833b38dce35c",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2304285.jpg",
+  "bytes": 84850,
+  "sha256": "c979e8f72bef09d1b88961d6f22869d95801bf56f853e2e3e01f9c65d4a90b43",
+  "sha1": "f13bdec6c60c08d51dac742a9dff29138ce8d825"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

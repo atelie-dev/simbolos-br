@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3156304",
+ "uf": "MG",
+ "municipio": "Rodeiro",
+ "tipo": "brasao",
+ "origem": "https://rodeiro.mg.gov.br/img/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "462f07ee7bc5d286523e50b6fb713801b539566a56d3053bf7c5219683abffed",
+ "sha1_origem": "1f1cf2065de2a586379ce659549ee961c5e09d86",
+ "bytes_origem": 48641,
+ "capturado_em": "2026-11-09T03:03:11Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 54040,
+   "sha256": "1288c15b6c1d55682769c46851bf9167f7c8666c1f6092cb2ad9c70b3e7e7139",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21465,
+   "sha256": "0ff9da006ee9b12768a46c45ef953ae348bdbfae5f347d3d675fd00e89453839",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3156304.png",
+  "bytes": 48641,
+  "sha256": "462f07ee7bc5d286523e50b6fb713801b539566a56d3053bf7c5219683abffed",
+  "sha1": "1f1cf2065de2a586379ce659549ee961c5e09d86"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

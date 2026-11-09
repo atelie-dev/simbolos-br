@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2608602",
+ "uf": "PE",
+ "municipio": "Lagoa do Ouro",
+ "tipo": "bandeira",
+ "origem": "https://lagoadoouro.pe.gov.br/imagens/bandeira_jucati.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f896e6a5dfe86cb6aa08936d0a7da569104162cc52de9fefc7f9518fc2c4fc89",
+ "sha1_origem": "02c61d9bcfb65b29d2aa5c56f01b8a447146eaa2",
+ "bytes_origem": 21019,
+ "capturado_em": "2026-11-09T03:07:18Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 26145,
+   "sha256": "b193a84ed0ee8af3a88fa93bd01ab4eb4eb79263462650a090383b42c0e0ad31",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9456,
+   "sha256": "5a3cd984ef61e6eae9b0803ceb76c3aa494894e105742b063028c80b3b48216e",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2608602.png",
+  "bytes": 21019,
+  "sha256": "f896e6a5dfe86cb6aa08936d0a7da569104162cc52de9fefc7f9518fc2c4fc89",
+  "sha1": "02c61d9bcfb65b29d2aa5c56f01b8a447146eaa2"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

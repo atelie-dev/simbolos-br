@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3143609",
+ "uf": "MG",
+ "municipio": "Morro da Garça",
+ "tipo": "brasao",
+ "origem": "https://morrodagarca.mg.gov.br/images/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "55ccdb5788186bc8c15c772d48c86511e0795c87db744260577546c33d4b577d",
+ "sha1_origem": "fb0bb70d6e6edae54f97e943094a721c7eaf6512",
+ "bytes_origem": 123992,
+ "capturado_em": "2026-11-09T03:02:45Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 119502,
+   "sha256": "732cb67bb91bbb98ee0b968d4ea9c92848f1e496ab2bcd0b3538d7233612ab41",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37232,
+   "sha256": "ef8660392da6f94fd0e01243054c879c324dddf34e79bddef0ca649c207102ec",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3143609.png",
+  "bytes": 123992,
+  "sha256": "55ccdb5788186bc8c15c772d48c86511e0795c87db744260577546c33d4b577d",
+  "sha1": "fb0bb70d6e6edae54f97e943094a721c7eaf6512"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

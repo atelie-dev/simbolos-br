@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3132909",
+ "uf": "MG",
+ "municipio": "Itamogi",
+ "tipo": "brasao",
+ "origem": "http://itamogi.mg.gov.br/wp-content/uploads/2021/02/brasao_brilho.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4a33e27ba04d329fc4aff35d28a8851185874979995002f7bedeb887f23543b3",
+ "sha1_origem": "ab6fa46cd3f8f4aedbdcab4c6d59d0fe4382f610",
+ "bytes_origem": 22489,
+ "capturado_em": "2026-11-09T03:02:08Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 22388,
+   "sha256": "917bfb82952cde14793747492abf842c88ce7f3eb9b5dc7ed018a2aefde7529f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6416,
+   "sha256": "8b6b2eb9954389ba8a3e1598a4d0c6855d82a9472994feed20ac44cf70704f1a",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3132909.png",
+  "bytes": 22489,
+  "sha256": "4a33e27ba04d329fc4aff35d28a8851185874979995002f7bedeb887f23543b3",
+  "sha1": "ab6fa46cd3f8f4aedbdcab4c6d59d0fe4382f610"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

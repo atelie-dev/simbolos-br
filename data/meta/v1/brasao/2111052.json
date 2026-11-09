@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2111052",
+ "uf": "MA",
+ "municipio": "São João do Paraíso",
+ "tipo": "brasao",
+ "origem": "https://saojoaodoparaiso.ma.gov.br/upload/simbolos/77960.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "716bb556a0e05cf7617d101b550637241d16363cfd80aae270b1aeec2616d5aa",
+ "sha1_origem": "e0fde2d4e4cf650b0719ce223a03ed274d974a67",
+ "bytes_origem": 593349,
+ "capturado_em": "2026-11-09T03:01:50Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 150850,
+   "sha256": "0054ac4a91084bc71658fca809d3e1e4dd4031279fc8188ffad50801db26f798",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 51732,
+   "sha256": "f073ad80d6d29732609a2eac7a26fae174f0c41a0dd3a4cd2d4f1e944faf592c",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2111052.png",
+  "bytes": 593349,
+  "sha256": "716bb556a0e05cf7617d101b550637241d16363cfd80aae270b1aeec2616d5aa",
+  "sha1": "e0fde2d4e4cf650b0719ce223a03ed274d974a67"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

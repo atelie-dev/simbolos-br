@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2514305",
+ "uf": "PB",
+ "municipio": "São José de Caiana",
+ "tipo": "brasao",
+ "origem": "http://saojosedecaiana.pb.gov.br/admin/tinyfinder/assets/uploads/img/zgqa4sy8.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "495bddd1bcee97912f8d6a8bbe465b1ef1605fa94e5fa9a73a360056d0bf9d99",
+ "sha1_origem": "f20b48dad22cce186751363a183710659dcde8ae",
+ "bytes_origem": 13998,
+ "capturado_em": "2026-11-09T03:05:29Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 64141,
+   "sha256": "b8aa23b3033bd53faab7343dfeb885b5db5c9f7e030c349cbb02b3e2e20e083c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18012,
+   "sha256": "4e41029664e9a03885c148801b2031552aacf69d44c9bac16be8d51a5dce0fbf",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2514305.jpg",
+  "bytes": 13998,
+  "sha256": "495bddd1bcee97912f8d6a8bbe465b1ef1605fa94e5fa9a73a360056d0bf9d99",
+  "sha1": "f20b48dad22cce186751363a183710659dcde8ae"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

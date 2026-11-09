@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5220280",
+ "uf": "GO",
+ "municipio": "São Patrício",
+ "tipo": "brasao",
+ "origem": "https://saopatricio.go.gov.br/wp-content/uploads/2025/01/BRASAO-SAO-PATRICIO-FUNDO-TRANSPARENTE.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "89cc2b4413aa46cc8a578c06de25103bf0904c6954260f348049295e5a1708c2",
+ "sha1_origem": "f7dfa9d7e194e312f18eb7fe7c2fdae77c62ac3c",
+ "bytes_origem": 602037,
+ "capturado_em": "2026-11-09T03:00:56Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 246072,
+   "sha256": "178683bb6f7d45fed878709fae0359f5eab997a2a53b7c9dc89925d2e7d287e4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 48870,
+   "sha256": "494089e512633a96105b448cb5f9893b0cfe9e7d733ca481fe2608d7aa01588f",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5220280.png",
+  "bytes": 602037,
+  "sha256": "89cc2b4413aa46cc8a578c06de25103bf0904c6954260f348049295e5a1708c2",
+  "sha1": "f7dfa9d7e194e312f18eb7fe7c2fdae77c62ac3c"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

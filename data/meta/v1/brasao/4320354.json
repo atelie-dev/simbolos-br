@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4320354",
+ "uf": "RS",
+ "municipio": "Sentinela do Sul",
+ "tipo": "brasao",
+ "origem": "https://www.sentineladosul.rs.gov.br/images/xbrasao.png.pagespeed.ic.LcDcnkO__O.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "13decadb336d4d83e875b92148efb8175807b4c17fe858cc7a65c6af22595ef3",
+ "sha1_origem": "2e9e607754f529e9b26ef50082d3e6446c26f8e9",
+ "bytes_origem": 31701,
+ "capturado_em": "2026-11-09T03:10:18Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 34786,
+   "sha256": "358b903044485d812598bd5b3d3204cd7ba30d417bf59379ae19806d5f03011d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10669,
+   "sha256": "8d2cd8a5244aa77855e683e89e03a89cfee0987cf1e441a24283430995d4b538",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4320354.png",
+  "bytes": 31701,
+  "sha256": "13decadb336d4d83e875b92148efb8175807b4c17fe858cc7a65c6af22595ef3",
+  "sha1": "2e9e607754f529e9b26ef50082d3e6446c26f8e9"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

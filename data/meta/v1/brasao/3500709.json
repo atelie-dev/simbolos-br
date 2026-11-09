@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3500709",
+ "uf": "SP",
+ "municipio": "Agudos",
+ "tipo": "brasao",
+ "origem": "https://agudos.sp.gov.br/public/admin/globalarq/uploads/files/__thumbs/teste50(2).jpg/teste50(2)__450x419.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "abe4879e66398427bc68f08412f463022c0561e91d2515f2535a3ca43887bcd1",
+ "sha1_origem": "50e2db82e4b8aa746c9a89832c79d8441ab25820",
+ "bytes_origem": 47667,
+ "capturado_em": "2026-11-09T03:10:20Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 292293,
+   "sha256": "ee22e4186504759d04b96395e84f0122a6d040df46623fb22ab0ac862cf6b99b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56999,
+   "sha256": "69e0fbc19f6cd0858beada01ac827fbfb24fecd4e39d8b4a384d6a14663b60fc",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3500709.jpg",
+  "bytes": 47667,
+  "sha256": "abe4879e66398427bc68f08412f463022c0561e91d2515f2535a3ca43887bcd1",
+  "sha1": "50e2db82e4b8aa746c9a89832c79d8441ab25820"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

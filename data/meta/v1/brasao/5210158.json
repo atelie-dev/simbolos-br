@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5210158",
+ "uf": "GO",
+ "municipio": "Ipiranga de Goiás",
+ "tipo": "brasao",
+ "origem": "https://ipirangadegoias.go.gov.br/wp-content/uploads/2021/06/brasao.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1a9fcbe0a11997e0cdae1a43e542ad160df673c4340928f8c15dd5ce8ff796e6",
+ "sha1_origem": "5b42e78b0db7125eeab9f60dcf91a5ea06b03c8c",
+ "bytes_origem": 22653,
+ "capturado_em": "2026-11-09T02:59:36Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 152500,
+   "sha256": "7fcfd752596f1d73cc743c96261f839eb6c3866a64beafa87f22c9e3d4881031",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27440,
+   "sha256": "4219a875369cdde2a0dd154b2c7b099b21162ddf3cf2f850da7bdd82476e4917",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5210158.jpg",
+  "bytes": 22653,
+  "sha256": "1a9fcbe0a11997e0cdae1a43e542ad160df673c4340928f8c15dd5ce8ff796e6",
+  "sha1": "5b42e78b0db7125eeab9f60dcf91a5ea06b03c8c"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

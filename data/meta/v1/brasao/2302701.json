@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2302701",
+ "uf": "CE",
+ "municipio": "Campos Sales",
+ "tipo": "brasao",
+ "origem": "https://campossales.ce.gov.br/link/link75.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6d174cb9a3815d399999ed55f68cebc1ff3daff2de6c15a3562e0bda8ce11ef2",
+ "sha1_origem": "a7aeab1582f737e285df15e5c498d3c4c1fc4a9c",
+ "bytes_origem": 106681,
+ "capturado_em": "2026-11-09T02:57:58Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 98340,
+   "sha256": "16116504634f875f46af62a66a4c7ad3ca225d4d5cc4d6db9ada40a4368be680",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22000,
+   "sha256": "fe6a3fbce048a40d195707aaf44bf0563eb68e76eea0cc1fa30547d2e0566d78",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2302701.png",
+  "bytes": 106681,
+  "sha256": "6d174cb9a3815d399999ed55f68cebc1ff3daff2de6c15a3562e0bda8ce11ef2",
+  "sha1": "a7aeab1582f737e285df15e5c498d3c4c1fc4a9c"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

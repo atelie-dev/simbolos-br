@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5209804",
+ "uf": "GO",
+ "municipio": "Hidrolina",
+ "tipo": "brasao",
+ "origem": "https://hidrolina.go.gov.br/wp-content/uploads/2021/01/brasa-300x300.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9b53a4462473da98d64f6c2e87efb4995f36ef2654b8134aec9b0854a0dbad55",
+ "sha1_origem": "52924e8d7be7feabded40f153a542ce1468bee1a",
+ "bytes_origem": 19055,
+ "capturado_em": "2026-11-09T02:59:31Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 112170,
+   "sha256": "8ea5d5f8a2f2db897d364557b3c8396de7c03f2e1acb434a146b3791cc690074",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23465,
+   "sha256": "1ad8165e478f24eb51794cdf181ce1b95d53ec50b698f4f2e0b8114b9ff9fc30",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5209804.jpg",
+  "bytes": 19055,
+  "sha256": "9b53a4462473da98d64f6c2e87efb4995f36ef2654b8134aec9b0854a0dbad55",
+  "sha1": "52924e8d7be7feabded40f153a542ce1468bee1a"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

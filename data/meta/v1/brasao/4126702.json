@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4126702",
+ "uf": "PR",
+ "municipio": "Tamboara",
+ "tipo": "brasao",
+ "origem": "https://tamboara.pr.gov.br/wp-content/uploads/2022/05/brasao-tamboara.fw_.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8df468ad39ee016c647a77b785236eeba5c3fc389c803118589ac8d121f6473e",
+ "sha1_origem": "3a0449ecaa3c4a4a289d9ddd580cff29224f60f4",
+ "bytes_origem": 363680,
+ "capturado_em": "2026-11-09T03:09:21Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 151978,
+   "sha256": "13e592517f8e790b6ec25cac713c7bff087ebfe43186316f8a27f499fb9ffa84",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40475,
+   "sha256": "75b4fb930e4167f04b19f4cd6c3971abd743e6edbcb4f2b054d7ea045a2b39f2",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4126702.png",
+  "bytes": 363680,
+  "sha256": "8df468ad39ee016c647a77b785236eeba5c3fc389c803118589ac8d121f6473e",
+  "sha1": "3a0449ecaa3c4a4a289d9ddd580cff29224f60f4"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

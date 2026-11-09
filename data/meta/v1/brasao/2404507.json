@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2404507",
+ "uf": "RN",
+ "municipio": "Guamaré",
+ "tipo": "brasao",
+ "origem": "https://guamare.rn.gov.br/link/link66.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e4bcb953d40f5ca93b8ef9ad3388ea19784a448e9638de7ca26207133c1fe404",
+ "sha1_origem": "48d2b6459ba10cf7e51fa744aba486763d2b2d2b",
+ "bytes_origem": 70577,
+ "capturado_em": "2026-11-09T03:09:31Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 71921,
+   "sha256": "b10dd72663e9bf655ceeeab66b8abc2fbb0c43e281e42069723dd61b6acbb232",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13322,
+   "sha256": "3b94993d96bbd9a75f1c82cc8d624d1ec83c26f8553dce728fd0aa20f10d899a",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2404507.jpg",
+  "bytes": 70577,
+  "sha256": "e4bcb953d40f5ca93b8ef9ad3388ea19784a448e9638de7ca26207133c1fe404",
+  "sha1": "48d2b6459ba10cf7e51fa744aba486763d2b2d2b"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

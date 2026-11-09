@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3140605",
+ "uf": "MG",
+ "municipio": "Materlândia",
+ "tipo": "brasao",
+ "origem": "https://materlandia.mg.gov.br/imagens/bandeira_materlandia.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "8963498f72e6993a01e278f5a76ccf89084c25a17b6d47f5d44e8998036aa8fa",
+ "sha1_origem": "643be524d9d6c6138f6f6403703a490e08d33e41",
+ "bytes_origem": 48069,
+ "capturado_em": "2026-11-09T03:02:41Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 52985,
+   "sha256": "1121e862adb8b8929088f4a1250f1c0800cfaac021b23c9ac1638a3804fc84d6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16020,
+   "sha256": "06719b71da3f8b4aa0e14c0516bec211efe493834314b0da1f065d302ea53b6c",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3140605.png",
+  "bytes": 48069,
+  "sha256": "8963498f72e6993a01e278f5a76ccf89084c25a17b6d47f5d44e8998036aa8fa",
+  "sha1": "643be524d9d6c6138f6f6403703a490e08d33e41"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

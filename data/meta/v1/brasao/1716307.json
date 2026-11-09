@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1716307",
+ "uf": "TO",
+ "municipio": "Pau D'Arco",
+ "tipo": "brasao",
+ "origem": "https://paudarco.to.gov.br/wp-content/uploads/2025/06/brasao-vetorizado-de-pau-d-39-arco-2.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "da575447ccfa6b20b15d2255d2bf826a4b7e9ee58d8a3fe81dfdc47d8ac9afe9",
+ "sha1_origem": "03431c16d77e2883a65da12ed42b5afbbe136084",
+ "bytes_origem": 265949,
+ "capturado_em": "2026-11-09T03:11:36Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 256986,
+   "sha256": "681968d5d66be0d21e6e0fbcabe8fc533a20bb72cdbd6a1716155b4d341f7a0e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61439,
+   "sha256": "0300760b0de8d1f118f5eccd8eb882e23b584b77bae17a16fca64fa84a6d10dc",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1716307.png",
+  "bytes": 265949,
+  "sha256": "da575447ccfa6b20b15d2255d2bf826a4b7e9ee58d8a3fe81dfdc47d8ac9afe9",
+  "sha1": "03431c16d77e2883a65da12ed42b5afbbe136084"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1703701",
+ "uf": "TO",
+ "municipio": "Brejinho de Nazaré",
+ "tipo": "brasao",
+ "origem": "https://brejinhodenazare.to.gov.br/wp-content/uploads/2025/01/brasao-min.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "dc30a9965aeae93391d1c4657e267895bb33da5b0c24ea9d54ea324996984c93",
+ "sha1_origem": "0a785779d457abaf8ca404f11aedf04ef0d6c878",
+ "bytes_origem": 76907,
+ "capturado_em": "2026-11-09T03:10:52Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 72189,
+   "sha256": "1112619efc0795777c8436f8a67de45039628d71d6070bab6ec5b34798c8c978",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16132,
+   "sha256": "5700e3199dc24ca977ce1610264cfca0af3054f36fc132d8603af0d5b75fe1de",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1703701.png",
+  "bytes": 76907,
+  "sha256": "dc30a9965aeae93391d1c4657e267895bb33da5b0c24ea9d54ea324996984c93",
+  "sha1": "0a785779d457abaf8ca404f11aedf04ef0d6c878"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

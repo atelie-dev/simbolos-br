@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1300508",
+ "uf": "AM",
+ "municipio": "Barreirinha",
+ "tipo": "brasao",
+ "origem": "https://barreirinha.am.gov.br/wp-content/uploads/2023/03/brasao-e-significado.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c3176e68968bae164012c41241baeea76d8b7c538506ae7801fd4f10cd0624fb",
+ "sha1_origem": "086532f3849cbcfe1fc41d34ae62c0217eb2d626",
+ "bytes_origem": 316343,
+ "capturado_em": "2026-11-09T02:56:31Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 88111,
+   "sha256": "9600523ecb5abab70c03314973eb2618cf351219a62d5faee2ce504301d25e39",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27181,
+   "sha256": "e48df21d71ded4b9200e1ce458d017ce3e204a732608b7cd09e8d2aab76c7baf",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1300508.jpg",
+  "bytes": 316343,
+  "sha256": "c3176e68968bae164012c41241baeea76d8b7c538506ae7801fd4f10cd0624fb",
+  "sha1": "086532f3849cbcfe1fc41d34ae62c0217eb2d626"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

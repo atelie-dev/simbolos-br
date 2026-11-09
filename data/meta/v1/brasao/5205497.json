@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5205497",
+ "uf": "GO",
+ "municipio": "Cidade Ocidental",
+ "tipo": "brasao",
+ "origem": "https://cidadeocidental.go.gov.br/wp-content/uploads/2025/12/ff27ca1fabd38e85ec8e782592e5f3f8.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f1a167b0b43d5b6e46e4310991ee167523f62548aa997be64e45c0897da14f96",
+ "sha1_origem": "66742daee98d5b9376964bf53bb850c1ac98438f",
+ "bytes_origem": 307915,
+ "capturado_em": "2026-11-09T02:59:08Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 189254,
+   "sha256": "2ff20fc739b1153c8b0421cf05614e0be146dc1b2b245c93a439421b2aef94f8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 56595,
+   "sha256": "6be4609f459085bbe8933d0d2b4ec8888727c93ac79cfb319992ab5308a036f8",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5205497.png",
+  "bytes": 307915,
+  "sha256": "f1a167b0b43d5b6e46e4310991ee167523f62548aa997be64e45c0897da14f96",
+  "sha1": "66742daee98d5b9376964bf53bb850c1ac98438f"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

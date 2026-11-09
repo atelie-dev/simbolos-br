@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2109007",
+ "uf": "MA",
+ "municipio": "Porto Franco",
+ "tipo": "brasao",
+ "origem": "https://portofranco.ma.gov.br/upload/simbolos/86608.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d4851c637e325b343cdf4460d950db0fc5da868b974e4aeef773924c7fb16374",
+ "sha1_origem": "4e2fbee57e89c4ce0b1ef7a91b4f3084ab2dcecc",
+ "bytes_origem": 56733,
+ "capturado_em": "2026-11-09T03:01:37Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 52768,
+   "sha256": "53b5ec703da4ee4b2e8cb7de2bc5ecbc84d7247563471dd0b1a2e9175ca229bd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12393,
+   "sha256": "3af517a365ab60c340298dfe960ed40396062a889d90f6ce1dc85aff9f400672",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2109007.png",
+  "bytes": 56733,
+  "sha256": "d4851c637e325b343cdf4460d950db0fc5da868b974e4aeef773924c7fb16374",
+  "sha1": "4e2fbee57e89c4ce0b1ef7a91b4f3084ab2dcecc"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

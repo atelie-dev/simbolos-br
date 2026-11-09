@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2704609",
+ "uf": "AL",
+ "municipio": "Maravilha",
+ "tipo": "brasao",
+ "origem": "https://maravilha.al.gov.br/images/2019/12/27/maravilha-coat.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c6cc65b6c1ff9a8c5bd83c16d2cc17d839ae0f6d9110950f423a66071f1d8497",
+ "sha1_origem": "4b22b9fd083ba5772dac60fcb8ab19aaa6a573ef",
+ "bytes_origem": 7147,
+ "capturado_em": "2026-11-09T02:56:21Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 28841,
+   "sha256": "2445a53e5396a9816a389a8d482fb5bcb6f71182277956eb62dce7a2ed30d38d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7351,
+   "sha256": "cd64d1728fc0aebfe8338744066ca5c05600a06e139f956b1728e31d71c1ad59",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2704609.jpg",
+  "bytes": 7147,
+  "sha256": "c6cc65b6c1ff9a8c5bd83c16d2cc17d839ae0f6d9110950f423a66071f1d8497",
+  "sha1": "4b22b9fd083ba5772dac60fcb8ab19aaa6a573ef"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

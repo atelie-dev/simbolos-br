@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2201176",
+ "uf": "PI",
+ "municipio": "Barra D'Alcântara",
+ "tipo": "brasao",
+ "origem": "https://barradalcantara.pi.gov.br/wp-content/uploads/elementor/thumbs/Brasao-Barra-Dalcantara-qqo2jt8ykm872ww23rl16iz75v1sq9nah4my74cvdc.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cd41c2c9c5e38f25cfbfe956c43567967e30ad0c880072a53c0a20fbe44276bd",
+ "sha1_origem": "33e2c481be80f6a423cc7a599287fc49d54504a2",
+ "bytes_origem": 29479,
+ "capturado_em": "2026-11-09T03:08:02Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 31710,
+   "sha256": "14c584f4cf4f9d009fb2525c1f892590f64fc41a5df3afb29421a8c0bf787b78",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14385,
+   "sha256": "0489cee11183f3167e94660374d3f2267dbdce147840ebf983aea7979d4dce20",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2201176.png",
+  "bytes": 29479,
+  "sha256": "cd41c2c9c5e38f25cfbfe956c43567967e30ad0c880072a53c0a20fbe44276bd",
+  "sha1": "33e2c481be80f6a423cc7a599287fc49d54504a2"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2927606",
+ "uf": "BA",
+ "municipio": "Santa Brígida",
+ "tipo": "brasao",
+ "origem": "https://santabrigida.ba.gov.br/internas/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ec6c5b4511c6896b0d972795041efeae1ad1dcc7ef4573f54fa49362a9586795",
+ "sha1_origem": "7b06844daf746be2b39bd7e07bee1adca8014ea1",
+ "bytes_origem": 425090,
+ "capturado_em": "2026-11-09T02:57:36Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 185343,
+   "sha256": "6b9925dcaf8a9020534bf13a9c7c9cfacc70a825fe5f6d5b9bb2c62a17bef7d4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 50911,
+   "sha256": "b9abf471e48fd1fa592802a5d4a8cb2034c007feb690c7ba66a0ff1b3727e37f",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2927606.png",
+  "bytes": 425090,
+  "sha256": "ec6c5b4511c6896b0d972795041efeae1ad1dcc7ef4573f54fa49362a9586795",
+  "sha1": "7b06844daf746be2b39bd7e07bee1adca8014ea1"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

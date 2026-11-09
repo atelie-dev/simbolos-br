@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4103008",
+ "uf": "PR",
+ "municipio": "Boa Esperança",
+ "tipo": "brasao",
+ "origem": "https://antigo.boaesperanca.pr.gov.br/img/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "24cbfb4ecb0a53e162017bf14fdc9a7fc355f6726c57411a91a9a895c9b3949e",
+ "sha1_origem": "0ed40f67414dc123b25fd4de6874f40754870014",
+ "bytes_origem": 26740,
+ "capturado_em": "2026-11-09T03:08:26Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 26277,
+   "sha256": "bfc32c2da6488ab4812f78b82700fccc63f4e677f0dcb7af8c70bde4887eec49",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6686,
+   "sha256": "658e3a4a300a3483df1136415df75f4b7278e42504054b428b6ee0bb24a0c2cb",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4103008.png",
+  "bytes": 26740,
+  "sha256": "24cbfb4ecb0a53e162017bf14fdc9a7fc355f6726c57411a91a9a895c9b3949e",
+  "sha1": "0ed40f67414dc123b25fd4de6874f40754870014"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

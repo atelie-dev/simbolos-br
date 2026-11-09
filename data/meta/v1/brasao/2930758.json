@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2930758",
+ "uf": "BA",
+ "municipio": "Sítio do Mato",
+ "tipo": "brasao",
+ "origem": "https://sitiodomato.ba.gov.br/uploads/identidade/sitiodomato/1793039833350-690439797.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a92b1b84db52cc6186bbe671647a0793a4063277794c2613ea327fe128d85ef1",
+ "sha1_origem": "1db5b976b2d6f02219e666d3bf5390387ea39dc9",
+ "bytes_origem": 105503,
+ "capturado_em": "2026-11-09T02:57:42Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 312024,
+   "sha256": "14e19fcf11fed54534e1d0b8efe62e344c4e6c5a2c1083ded1b877aa9a68a85d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 81915,
+   "sha256": "791bc285d073a3aca02390b5a258f4ace4f4476f713c7e2d881f3f8bf36da992",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2930758.png",
+  "bytes": 105503,
+  "sha256": "a92b1b84db52cc6186bbe671647a0793a4063277794c2613ea327fe128d85ef1",
+  "sha1": "1db5b976b2d6f02219e666d3bf5390387ea39dc9"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

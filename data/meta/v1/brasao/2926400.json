@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2926400",
+ "uf": "BA",
+ "municipio": "Riacho de Santana",
+ "tipo": "brasao",
+ "origem": "https://riachodesantana.ba.gov.br/uploads/identidade/riachodesantana/1793039827823-634854212.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3df7737c20392ba4f639e0385c7ebf0eea74e64d547636206fd131860cbdfce0",
+ "sha1_origem": "ef2bf3668e3aa677ffd64100c0085e67956b66cd",
+ "bytes_origem": 85370,
+ "capturado_em": "2026-11-09T02:57:34Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 322296,
+   "sha256": "0820dceb412ae0b4324a3434e6815f41eb621ecef2d7ac48a790bd70a841d4ef",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 70534,
+   "sha256": "6b06f2011121771866330ddd7d59048210336914da886ff7224ae10ed9d233cf",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2926400.png",
+  "bytes": 85370,
+  "sha256": "3df7737c20392ba4f639e0385c7ebf0eea74e64d547636206fd131860cbdfce0",
+  "sha1": "ef2bf3668e3aa677ffd64100c0085e67956b66cd"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

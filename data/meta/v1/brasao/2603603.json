@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2603603",
+ "uf": "PE",
+ "municipio": "Camutanga",
+ "tipo": "brasao",
+ "origem": "http://camutanga.pe.gov.br/wp-content/uploads/2021/03/brasao.jpeg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ad4d82c4969a3ddb5da9c4809077277d5ee30670e8b397a1539beb062c4e4d07",
+ "sha1_origem": "83780162b780bbbf5260ff5ff7b852588293bd82",
+ "bytes_origem": 48354,
+ "capturado_em": "2026-11-09T03:05:32Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 219010,
+   "sha256": "792c43ab52417b7b4310bf96a57d02602ee93cee3d6e63bdce6f8e5e5a27ff08",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39031,
+   "sha256": "da1ddf24cebcf70245bddcc5f38bd95ea59254021bb187d6e3a5ecab8ae5d55d",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2603603.jpg",
+  "bytes": 48354,
+  "sha256": "ad4d82c4969a3ddb5da9c4809077277d5ee30670e8b397a1539beb062c4e4d07",
+  "sha1": "83780162b780bbbf5260ff5ff7b852588293bd82"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1703073",
+ "uf": "TO",
+ "municipio": "Barra do Ouro",
+ "tipo": "brasao",
+ "origem": "https://www.barradoouro.to.gov.br/storage/empresa_params/2025/10/brasao-transp-min-1761788137.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "dcf0c13698501f00950ad1559ef9a747e5032ea65cd39d24fb3dcfb471fd061c",
+ "sha1_origem": "fe67f05d7ff938e6562202b65c40bf245b20a9d6",
+ "bytes_origem": 51902,
+ "capturado_em": "2026-11-09T03:10:47Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 146562,
+   "sha256": "6b076ef11326db1b9339bcd3b1ee36ba78fd256996c53093855c34ccb29a50ea",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41796,
+   "sha256": "9060b22c07899fc8114d562ddb2c950c91c96f52ceb0070ce8131ddd09972e5d",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1703073.png",
+  "bytes": 51902,
+  "sha256": "dcf0c13698501f00950ad1559ef9a747e5032ea65cd39d24fb3dcfb471fd061c",
+  "sha1": "fe67f05d7ff938e6562202b65c40bf245b20a9d6"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

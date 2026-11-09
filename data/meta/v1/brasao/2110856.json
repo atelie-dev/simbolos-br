@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2110856",
+ "uf": "MA",
+ "municipio": "São Francisco do Brejão",
+ "tipo": "brasao",
+ "origem": "https://saofranciscodobrejao.ma.gov.br/upload/simbolos/88186.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "567c88135a736bf7fda8582353ada8b7939cca54e25353adaaf71d54d2b363c3",
+ "sha1_origem": "f9b6950a9fcfd77a8a956ccfedd8272d085170b8",
+ "bytes_origem": 218433,
+ "capturado_em": "2026-11-09T03:01:46Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 217643,
+   "sha256": "3ce7ba8b8332683012ecb54a467645588506c12109b2a85387776e922d36c8b7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 52371,
+   "sha256": "0ba8e893d0026b48b96f41e11b776fc1785b4a2262b018af7c249c34a2b440d8",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2110856.jpg",
+  "bytes": 218433,
+  "sha256": "567c88135a736bf7fda8582353ada8b7939cca54e25353adaaf71d54d2b363c3",
+  "sha1": "f9b6950a9fcfd77a8a956ccfedd8272d085170b8"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

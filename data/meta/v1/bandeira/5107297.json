@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5107297",
+ "uf": "MT",
+ "municipio": "São José do Povo",
+ "tipo": "bandeira",
+ "origem": "https://www.saojosedopovo.mt.gov.br/images/bandeira.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "930ac0b74c62660dd716a268c7aa5858471cd4b79954c8bac35b009ddd4835c3",
+ "sha1_origem": "94e325eaf1f50376ea28d64f2c8e1574a408abe3",
+ "bytes_origem": 86227,
+ "capturado_em": "2026-11-09T03:04:39Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 79262,
+   "sha256": "478d4388fe0a137526b787b1a66844184bc04fe2a5654866a5fadd6fbf06ca8b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27720,
+   "sha256": "f335db84d5fbf98c0e5e6e33b0a813c709465f9fb5dcc64afa46e3262c6d61ce",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5107297.jpg",
+  "bytes": 86227,
+  "sha256": "930ac0b74c62660dd716a268c7aa5858471cd4b79954c8bac35b009ddd4835c3",
+  "sha1": "94e325eaf1f50376ea28d64f2c8e1574a408abe3"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2309409",
+ "uf": "CE",
+ "municipio": "Novo Oriente",
+ "tipo": "brasao",
+ "origem": "https://novooriente.ce.gov.br/link/link365.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ea6431c1805ac8e3478764f950a451e791b8d179cb512b4bf0fcfcb0b47f7b41",
+ "sha1_origem": "9e798e97f3e82a8ca7963dee203b48337be6ecb3",
+ "bytes_origem": 65374,
+ "capturado_em": "2026-11-09T02:58:23Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 66313,
+   "sha256": "2cfa41ab793435a67b376949588d019cccd746949e67bcc9bb073aeb92b2d083",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24765,
+   "sha256": "e91ce1d16165453c22055d69c3db8441e2637d29526e2ada47af2cd5787c27da",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2309409.jpg",
+  "bytes": 65374,
+  "sha256": "ea6431c1805ac8e3478764f950a451e791b8d179cb512b4bf0fcfcb0b47f7b41",
+  "sha1": "9e798e97f3e82a8ca7963dee203b48337be6ecb3"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

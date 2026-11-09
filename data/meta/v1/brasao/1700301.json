@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1700301",
+ "uf": "TO",
+ "municipio": "Aguiarnópolis",
+ "tipo": "brasao",
+ "origem": "https://www.aguiarnopolis.to.gov.br/storage/empresa_params/brasao-aguiarnopolis-1.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8a398280e5b26fbb0d6fb6105e18fe14faa06c9691812a49b693f36eaf753f1c",
+ "sha1_origem": "3b5c4f8b98e002c321a2ec1c2c93f81f20aa87c5",
+ "bytes_origem": 626388,
+ "capturado_em": "2026-11-09T03:10:37Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 190803,
+   "sha256": "b31d790f20b2c13fa468e686ca6dbb9e5c483a06c80cda8bf7aa34ea9e373185",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55511,
+   "sha256": "12a9c7f928b952f145e8be361ec789ea2a0b1237a6b77ea3266eee3aa1933a3d",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1700301.jpg",
+  "bytes": 626388,
+  "sha256": "8a398280e5b26fbb0d6fb6105e18fe14faa06c9691812a49b693f36eaf753f1c",
+  "sha1": "3b5c4f8b98e002c321a2ec1c2c93f81f20aa87c5"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

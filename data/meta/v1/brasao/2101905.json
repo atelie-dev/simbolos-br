@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2101905",
+ "uf": "MA",
+ "municipio": "Bequimão",
+ "tipo": "brasao",
+ "origem": "https://bequimao.ma.gov.br/image/brasaobequimao.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a45108397c15e9342eab6c644a0f1c8a1356d900df21779b7364bda40a53278a",
+ "sha1_origem": "9c77954695c412f37ff886560036c0005535f9c9",
+ "bytes_origem": 21273,
+ "capturado_em": "2026-11-09T03:01:11Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 150370,
+   "sha256": "dcfff7e2648c8f1463197b004eb5f04e54bc40c9693ef64c7566d6a280618b03",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26979,
+   "sha256": "a093e858fedc9314331a9806b25ca475d16ac0f9e3b477695ff2e514a6223ddd",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2101905.jpg",
+  "bytes": 21273,
+  "sha256": "a45108397c15e9342eab6c644a0f1c8a1356d900df21779b7364bda40a53278a",
+  "sha1": "9c77954695c412f37ff886560036c0005535f9c9"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

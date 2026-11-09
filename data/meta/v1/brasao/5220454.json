@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5220454",
+ "uf": "GO",
+ "municipio": "Senador Canedo",
+ "tipo": "brasao",
+ "origem": "https://senadorcanedo.go.gov.br/wp-content/uploads/2021/11/Brasao_de_Senador_Canedo.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "71522cf1022dd919da7ae82c314906bb4485c0b0c04c65bd6d2aab962906c1fa",
+ "sha1_origem": "c391283ab7392ae02e274df818c92a0c058a9b8c",
+ "bytes_origem": 5046,
+ "capturado_em": "2026-11-09T03:00:58Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 39700,
+   "sha256": "e31616460b052849266aa5c68c203a2185b204925f955e9af05920d9b20b31b3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9299,
+   "sha256": "6697a4c0a1b65b3e17ed452e454b6af0fe0337b1986e8c9d42215b71013e4940",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5220454.jpg",
+  "bytes": 5046,
+  "sha256": "71522cf1022dd919da7ae82c314906bb4485c0b0c04c65bd6d2aab962906c1fa",
+  "sha1": "c391283ab7392ae02e274df818c92a0c058a9b8c"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

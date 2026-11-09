@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1716505",
+ "uf": "TO",
+ "municipio": "Pedro Afonso",
+ "tipo": "bandeira",
+ "origem": "https://pedroafonso.to.gov.br/api/media/file/20250326124336451-af2e3e51-5792-46ce-81bd-5f1634bf65af.png?prefix=media",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "094cc745120a9ddfe31d2e80e91f470a110187399f79a74ce2fdd9237f2d5090",
+ "sha1_origem": "5b87857a08b0411259fa2f4ce109b52eb12b4ac8",
+ "bytes_origem": 110666,
+ "capturado_em": "2026-11-09T03:11:38Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 60394,
+   "sha256": "b5f9c414d06e8b0ca9325bf68a2a40b4be65ccf744645d0d19d7b7d059ae7a43",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22739,
+   "sha256": "4c6b8ef9f5733da768d90aecf26a8dd2821d54e7eafcccf6c023e3e9bb835be6",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1716505.png",
+  "bytes": 110666,
+  "sha256": "094cc745120a9ddfe31d2e80e91f470a110187399f79a74ce2fdd9237f2d5090",
+  "sha1": "5b87857a08b0411259fa2f4ce109b52eb12b4ac8"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

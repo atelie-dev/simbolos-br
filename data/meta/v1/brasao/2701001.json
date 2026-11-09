@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2701001",
+ "uf": "AL",
+ "municipio": "Boca da Mata",
+ "tipo": "brasao",
+ "origem": "https://bocadamata.al.gov.br/sites/bocadamata.al.gov.br/files/bras%C3%A3obocadamata.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "daf2433ef21e587efe4dcc2f0b42ff479aa1ebf3a1228fff605c2efc92c8e0d6",
+ "sha1_origem": "29d98cc0dd2660620fdee528b00b8633691e02de",
+ "bytes_origem": 540720,
+ "capturado_em": "2026-11-09T02:55:19Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 127892,
+   "sha256": "3da71908931baf70d7b6b47814008a76091ab6964bb184576249ac13ed4a1956",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 55206,
+   "sha256": "5f6f1ef473cc17d0306a0ce344ed8e8fdeaee4f0d379a2a024c0cbf60f3555cb",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2701001.png",
+  "bytes": 540720,
+  "sha256": "daf2433ef21e587efe4dcc2f0b42ff479aa1ebf3a1228fff605c2efc92c8e0d6",
+  "sha1": "29d98cc0dd2660620fdee528b00b8633691e02de"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

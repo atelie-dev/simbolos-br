@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2703809",
+ "uf": "AL",
+ "municipio": "Joaquim Gomes",
+ "tipo": "bandeira",
+ "origem": "https://joaquimgomes.al.gov.br/wp-content/uploads/2025/01/bandeirajoaquimgomes.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "265d57f5d81d79e81efe5bb63c9ec287aebf13dd63d373382ab6de06b2d40a20",
+ "sha1_origem": "b8869dbff223b3d744bb50b0b098e6f3eec26bfc",
+ "bytes_origem": 22696,
+ "capturado_em": "2026-11-09T02:55:21Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 23257,
+   "sha256": "1062c94eec71a1ce39c6e5bc869b47374ae12cce54114f579952db5a12c1c692",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8338,
+   "sha256": "d54889e196890c20aa0fdf846861703e2b5824ce3c44732bcec88b4cd13c97d1",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2703809.png",
+  "bytes": 22696,
+  "sha256": "265d57f5d81d79e81efe5bb63c9ec287aebf13dd63d373382ab6de06b2d40a20",
+  "sha1": "b8869dbff223b3d744bb50b0b098e6f3eec26bfc"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

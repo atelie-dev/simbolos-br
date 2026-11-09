@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5216452",
+ "uf": "GO",
+ "municipio": "Perolândia",
+ "tipo": "brasao",
+ "origem": "https://perolandia.go.gov.br/wp-content/uploads/2023/12/brasao-perolandia.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3ffab5a1a1334be6b80026ed39298bb0c9aea7bdfdec1a67d5438fa87af1ef11",
+ "sha1_origem": "59c45fb81f12b3a4b9e4c30d55932ffb6fb42242",
+ "bytes_origem": 30599,
+ "capturado_em": "2026-11-09T03:00:26Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 115107,
+   "sha256": "485b3f81295509907c314b9feb25f1e65499184c5615ce78c6bbbbc03e078c12",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26905,
+   "sha256": "7a5a1fecadfce44cfaee72d4c9a7c7f80ff2a6dc548b7cf855b4b6cbd921b5ee",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5216452.jpg",
+  "bytes": 30599,
+  "sha256": "3ffab5a1a1334be6b80026ed39298bb0c9aea7bdfdec1a67d5438fa87af1ef11",
+  "sha1": "59c45fb81f12b3a4b9e4c30d55932ffb6fb42242"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

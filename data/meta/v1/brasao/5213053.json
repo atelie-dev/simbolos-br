@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5213053",
+ "uf": "GO",
+ "municipio": "Mimoso de Goiás",
+ "tipo": "brasao",
+ "origem": "https://mimosodegoias.go.gov.br/wp-content/uploads/2021/10/Mimoso-de-Goias-Coat.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "405d0d8be29cb832647875702ff76143850d096cb4d02eb14cdcbd25d7f80667",
+ "sha1_origem": "2671f84fcd2849a351ab4024b64f664aff94be96",
+ "bytes_origem": 64514,
+ "capturado_em": "2026-11-09T02:59:57Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 75195,
+   "sha256": "b4756a0c617aa387555336f1169515fb179789e866560a59caa850ab146dfbd1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18953,
+   "sha256": "38efd52a3da07bb335a947bc2ab68d90e1d75db9ae53fc424061c1e05996fea6",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5213053.png",
+  "bytes": 64514,
+  "sha256": "405d0d8be29cb832647875702ff76143850d096cb4d02eb14cdcbd25d7f80667",
+  "sha1": "2671f84fcd2849a351ab4024b64f664aff94be96"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

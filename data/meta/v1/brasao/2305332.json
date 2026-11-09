@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2305332",
+ "uf": "CE",
+ "municipio": "Ibicuitinga",
+ "tipo": "brasao",
+ "origem": "https://ibicuitinga.ce.gov.br/link/link64.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d79f8b2c31f41e594a9c5dcef1d252542b697aea017e2c546b5313947e88a2e6",
+ "sha1_origem": "e675008dc2b8e052f097990123317976adbe1821",
+ "bytes_origem": 40359,
+ "capturado_em": "2026-11-09T02:58:10Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 37718,
+   "sha256": "27bbc9531deeed7c54c13ff37b5c986ed17a8178dbeddd7fe0f7efdb0c02f9a5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29053,
+   "sha256": "e7b883419b98ee43e3ea9cb9261e9ee34a933a8ad62a7167ef5e1083b2c39158",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2305332.jpg",
+  "bytes": 40359,
+  "sha256": "d79f8b2c31f41e594a9c5dcef1d252542b697aea017e2c546b5313947e88a2e6",
+  "sha1": "e675008dc2b8e052f097990123317976adbe1821"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

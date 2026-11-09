@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4102703",
+ "uf": "PR",
+ "municipio": "Barra do Jacaré",
+ "tipo": "brasao",
+ "origem": "https://barradojacare.pr.gov.br/images/brasao-barrajacare.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bd993c1eb585964a7c46bae62d638c3029227ef2fbe2915eb836cdbbee904fb8",
+ "sha1_origem": "9ae0595deca95c3206fdf3100b2caf0417517017",
+ "bytes_origem": 1901014,
+ "capturado_em": "2026-11-09T03:08:25Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 331541,
+   "sha256": "5c6175257d470217ed2604942fa2d491a3373a50166526d7687bdf1783e4b422",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 81319,
+   "sha256": "5de8c4155dff2f03db5cb44123b6387db154026a3ab098d4cc000c7eb9620ed5",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4102703.png",
+  "bytes": 1901014,
+  "sha256": "bd993c1eb585964a7c46bae62d638c3029227ef2fbe2915eb836cdbbee904fb8",
+  "sha1": "9ae0595deca95c3206fdf3100b2caf0417517017"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

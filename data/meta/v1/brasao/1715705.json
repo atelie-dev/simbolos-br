@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1715705",
+ "uf": "TO",
+ "municipio": "Palmeirante",
+ "tipo": "brasao",
+ "origem": "https://www.palmeirante.to.gov.br/storage/empresa_params/2023/02/brasao-cm-palmeirante.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "acae306b3d7ea2e6a261092bfdc5d82cce0b2cb703ab6adc2eef35403dd86e35",
+ "sha1_origem": "556cc7afdd21a1b0ec77b66a28ee79ac6bdc568f",
+ "bytes_origem": 29964,
+ "capturado_em": "2026-11-09T03:11:30Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 32482,
+   "sha256": "965e2baec15f98c022b87541130b9a6271e40e4c229ee042ef0a91888c60cf8f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9652,
+   "sha256": "96e300d6c72bb8998b31f23b4b914113aa9d0f1945f163304f75dab2981d2e05",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1715705.png",
+  "bytes": 29964,
+  "sha256": "acae306b3d7ea2e6a261092bfdc5d82cce0b2cb703ab6adc2eef35403dd86e35",
+  "sha1": "556cc7afdd21a1b0ec77b66a28ee79ac6bdc568f"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

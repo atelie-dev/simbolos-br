@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5206602",
+ "uf": "GO",
+ "municipio": "Cumari",
+ "tipo": "brasao",
+ "origem": "https://cumari.go.gov.br/wp-content/uploads/2025/09/Brasao.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e5fc6c08d60a56575baff0e25b41135569c0331e76ea49ba5249b3d35dc37742",
+ "sha1_origem": "cf6f0c620b91a840cd752584f42aee606d6b3218",
+ "bytes_origem": 122123,
+ "capturado_em": "2026-11-09T02:59:11Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 394070,
+   "sha256": "3a7372bd4d56de8d0bb8520262e194f999a47d86e26fd0195f1aadfad4b25463",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 82550,
+   "sha256": "87a5f2419f0ba62c2195fba17d144b47078fbd6daa4cb3687540e806afc40483",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5206602.jpg",
+  "bytes": 122123,
+  "sha256": "e5fc6c08d60a56575baff0e25b41135569c0331e76ea49ba5249b3d35dc37742",
+  "sha1": "cf6f0c620b91a840cd752584f42aee606d6b3218"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

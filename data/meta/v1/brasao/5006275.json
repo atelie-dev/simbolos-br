@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5006275",
+ "uf": "MS",
+ "municipio": "Paraíso das Águas",
+ "tipo": "brasao",
+ "origem": "https://paraisodasaguas.ms.gov.br/uploads/pagina/arquivos/brasao.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "32e7ecb438bb3c9b8e0a570629f44af24d6d0668278e95ac6948ce0aae57bfa8",
+ "sha1_origem": "454c09d918d9598d4ff6b7751a106c8ceb328789",
+ "bytes_origem": 449575,
+ "capturado_em": "2026-11-09T03:04:00Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 245960,
+   "sha256": "e0eb824c799d92c0bb2000309fb29eeaf1e61741751cbe1f64c53ea9a402a1e2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53868,
+   "sha256": "290b4f9b5592f1ce661d23bd909bb2abb3454fb3b0c084b933fad473cea5fd0e",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5006275.jpg",
+  "bytes": 449575,
+  "sha256": "32e7ecb438bb3c9b8e0a570629f44af24d6d0668278e95ac6948ce0aae57bfa8",
+  "sha1": "454c09d918d9598d4ff6b7751a106c8ceb328789"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

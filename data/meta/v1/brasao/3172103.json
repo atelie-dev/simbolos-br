@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3172103",
+ "uf": "MG",
+ "municipio": "Volta Grande",
+ "tipo": "brasao",
+ "origem": "https://voltagrande.mg.gov.br/wp-content/uploads/2024/07/BARSAO-VOLTA-GRANDE.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "152cde7fcf03d09c735501e24ead507270f434dbec466970da249e242d506a27",
+ "sha1_origem": "489ee7c3ecbf544a64e9124af0581487275145e6",
+ "bytes_origem": 21352,
+ "capturado_em": "2026-11-09T03:03:49Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 22114,
+   "sha256": "6b6d7c81c14c353f3f3a04fbca2b6535389be7735b129c6a716656a2ea34cb2a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6286,
+   "sha256": "6b03e7287011ccdb439a092c94349fff5778b88366118e49feea61e6344c7b41",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3172103.png",
+  "bytes": 21352,
+  "sha256": "152cde7fcf03d09c735501e24ead507270f434dbec466970da249e242d506a27",
+  "sha1": "489ee7c3ecbf544a64e9124af0581487275145e6"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

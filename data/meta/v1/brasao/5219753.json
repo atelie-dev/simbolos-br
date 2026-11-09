@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5219753",
+ "uf": "GO",
+ "municipio": "Santo Antônio do Descoberto",
+ "tipo": "brasao",
+ "origem": "https://santoantoniododescoberto.go.gov.br/wp-content/uploads/2025/04/1280px-Brasao_de_Santa_Antonio_do_Descoberto-1024x702.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2e86069edaca46ce655acce3821a3df868f1a8d52ef904858005047ea5cb348a",
+ "sha1_origem": "32f6f1de974f141d987d557d9e7dc25d5fecd048",
+ "bytes_origem": 222579,
+ "capturado_em": "2026-11-09T03:00:46Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 218174,
+   "sha256": "9508e99d4e55845be28e64d1e4ca50ec73a9bc387c1b960bb9174b32aaf74faa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38689,
+   "sha256": "0978f960438288f24fc1e99630286919de4591e673dbced3694745582853cd35",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5219753.png",
+  "bytes": 222579,
+  "sha256": "2e86069edaca46ce655acce3821a3df868f1a8d52ef904858005047ea5cb348a",
+  "sha1": "32f6f1de974f141d987d557d9e7dc25d5fecd048"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

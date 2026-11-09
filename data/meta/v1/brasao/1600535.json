@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1600535",
+ "uf": "AP",
+ "municipio": "Porto Grande",
+ "tipo": "brasao",
+ "origem": "https://portogrande.ap.gov.br/link/link66.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "08ad67e3d4547a8354c50a5504c30efffc8471b6a494cae8933a8df3b0b309e5",
+ "sha1_origem": "7d807ececf67e22c8ab5878345d9f64fdce3dc1e",
+ "bytes_origem": 76514,
+ "capturado_em": "2026-11-09T02:57:05Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 76409,
+   "sha256": "4595461a3c539d372f90974fe49e904132fcf2ce3c424b734e3cbac58e92e13f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29955,
+   "sha256": "b573ef6dc56104a333d6b555c797b46e0a942cb17f629b13bff55c984beddfd4",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1600535.jpg",
+  "bytes": 76514,
+  "sha256": "08ad67e3d4547a8354c50a5504c30efffc8471b6a494cae8933a8df3b0b309e5",
+  "sha1": "7d807ececf67e22c8ab5878345d9f64fdce3dc1e"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

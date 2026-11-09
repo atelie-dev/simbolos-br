@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2609204",
+ "uf": "PE",
+ "municipio": "Maraial",
+ "tipo": "brasao",
+ "origem": "https://maraial.pe.gov.br/wp-content/uploads/2024/02/Brasao-Maraial.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ebdf198ca327008a566e2d6259f3aedc1a4f2f419c9e26c2f005004910c34dfd",
+ "sha1_origem": "f129585d7df036af480630dc0bc457c3be10a71f",
+ "bytes_origem": 573934,
+ "capturado_em": "2026-11-09T03:07:25Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 164184,
+   "sha256": "9990d6e9f701a24e8269e952380e3e4b6421a29ae46abd6f161da48f5e90c53b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44299,
+   "sha256": "55f0f47ebc7a2538b4ee6fab83f43446c0bc178106902bccf6a057d24a94bac5",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2609204.png",
+  "bytes": 573934,
+  "sha256": "ebdf198ca327008a566e2d6259f3aedc1a4f2f419c9e26c2f005004910c34dfd",
+  "sha1": "f129585d7df036af480630dc0bc457c3be10a71f"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

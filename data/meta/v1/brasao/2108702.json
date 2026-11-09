@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2108702",
+ "uf": "MA",
+ "municipio": "Pio XII",
+ "tipo": "brasao",
+ "origem": "https://pioxii.ma.gov.br/link/link77.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f77ee3bf696a9807b4d4ed42163c083d3a995b6037894de770dddf8f68fc36e6",
+ "sha1_origem": "cbf2a289a15465cc7dd2a953df2d8964eaead779",
+ "bytes_origem": 40086,
+ "capturado_em": "2026-11-09T03:01:35Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 48031,
+   "sha256": "92f0917bb90682302e71bc1f0c8957d51c53a07aa8bce14c29998cab8f2024c8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20302,
+   "sha256": "858d87936027e4cb8bb4dfd8dbbdf591feb6407027d4791f5cc2979c20aa371e",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2108702.jpg",
+  "bytes": 40086,
+  "sha256": "f77ee3bf696a9807b4d4ed42163c083d3a995b6037894de770dddf8f68fc36e6",
+  "sha1": "cbf2a289a15465cc7dd2a953df2d8964eaead779"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

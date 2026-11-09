@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2304954",
+ "uf": "CE",
+ "municipio": "Guaiúba",
+ "tipo": "brasao",
+ "origem": "https://guaiuba.ce.gov.br/link/link66.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2d1556446406092cf41ed3da664039fc362df5f711edf676a67d53e5252ce002",
+ "sha1_origem": "bc7d2e1fd052ecf40adf923515bb4c02f0159a37",
+ "bytes_origem": 112006,
+ "capturado_em": "2026-11-09T02:58:08Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 111947,
+   "sha256": "a503230d6ee8105e487af12060b6e895bb84326facf449f2624c1a8d0684b36c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22014,
+   "sha256": "f178b007b7819f77f4994177a6e6dd5ee2f9ef0d114f344858757bf4c17f9159",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2304954.jpg",
+  "bytes": 112006,
+  "sha256": "2d1556446406092cf41ed3da664039fc362df5f711edf676a67d53e5252ce002",
+  "sha1": "bc7d2e1fd052ecf40adf923515bb4c02f0159a37"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

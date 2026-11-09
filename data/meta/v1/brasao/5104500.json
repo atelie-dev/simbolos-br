@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5104500",
+ "uf": "MT",
+ "municipio": "Indiavaí",
+ "tipo": "brasao",
+ "origem": "https://indiavai.mt.gov.br/arquivos/Diversos/Links-Uteis/brasao_Prefeitura_de_Indiavai.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "07896feb009f44b868c2a0ad65932c58a324f45bfc2b7c816c82f31f98153cc3",
+ "sha1_origem": "439ee225bbb75dd96edee377f0a08748bb16a473",
+ "bytes_origem": 14605,
+ "capturado_em": "2026-11-09T03:04:12Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 47273,
+   "sha256": "bdbf4cd84c5bb5b1d336120a2dcbd811f76a6eabd23f9002d9d690da462732e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18440,
+   "sha256": "804e418831409b5e909bd21d8f9e896b445f548142071bea0e4fbe61c7740cd1",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5104500.png",
+  "bytes": 14605,
+  "sha256": "07896feb009f44b868c2a0ad65932c58a324f45bfc2b7c816c82f31f98153cc3",
+  "sha1": "439ee225bbb75dd96edee377f0a08748bb16a473"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

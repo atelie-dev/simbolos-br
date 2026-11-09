@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5100102",
+ "uf": "MT",
+ "municipio": "Acorizal",
+ "tipo": "brasao",
+ "origem": "https://acorizal.mt.gov.br/arquivos/Brasao/phpThumb_generated_thumbnail_9.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0b12a73ca8616cb40a1e76dcfc6bf1fefe73303260995acfd565cb5f8b43fede",
+ "sha1_origem": "bc653a0d8916410d28c73bad914b5d49ad844e9c",
+ "bytes_origem": 26492,
+ "capturado_em": "2026-11-09T03:04:07Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 54063,
+   "sha256": "3086457318e113dd0aa36fff13f33f7d65b649ca2a7a2a9c3f5e34636a7431fa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11652,
+   "sha256": "979d5a2b87ec8518ad10d4cbf680a1f5b7f5136c306ea64c6e5f03ef70d026f9",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5100102.jpg",
+  "bytes": 26492,
+  "sha256": "0b12a73ca8616cb40a1e76dcfc6bf1fefe73303260995acfd565cb5f8b43fede",
+  "sha1": "bc653a0d8916410d28c73bad914b5d49ad844e9c"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

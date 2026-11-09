@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2300606",
+ "uf": "CE",
+ "municipio": "Altaneira",
+ "tipo": "brasao",
+ "origem": "https://altaneira.ce.gov.br/link/link71.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1d0d0991f2e1d10f09c08e59ef4cf8985f3e966c0d35678556f96dea2a1ddc5d",
+ "sha1_origem": "9f955e985317066a746654d4c9d0ff827d5d43c5",
+ "bytes_origem": 129261,
+ "capturado_em": "2026-11-09T02:57:45Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 128404,
+   "sha256": "7252b6f41d38cffb16b357dd182998e7967511d84136bc563256c8af15342921",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35231,
+   "sha256": "0f5b9d63a51ec4e22113560f94f03eaee1df7e07799f8680462a3d8857d1e4c2",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2300606.jpg",
+  "bytes": 129261,
+  "sha256": "1d0d0991f2e1d10f09c08e59ef4cf8985f3e966c0d35678556f96dea2a1ddc5d",
+  "sha1": "9f955e985317066a746654d4c9d0ff827d5d43c5"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

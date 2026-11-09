@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2107001",
+ "uf": "MA",
+ "municipio": "Montes Altos",
+ "tipo": "brasao",
+ "origem": "https://montesaltos.ma.gov.br/upload/simbolos/48507.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "055832e2172b155a7de0901a8d1ba5ac849e436612a4a07a0dd0f570182bdff0",
+ "sha1_origem": "1cc03f2eb66a3d64dbbe854fd0c74ce4bd0b1e53",
+ "bytes_origem": 97810,
+ "capturado_em": "2026-11-09T03:01:34Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 315402,
+   "sha256": "377aa63a7aafd8e594d2d0ae6721dbd9ef97bac6ed361298f6e731045a10cc29",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53663,
+   "sha256": "184d35a954074760e89006be319d3cac7fa13fc177ea85f691b71fa363963d20",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2107001.jpg",
+  "bytes": 97810,
+  "sha256": "055832e2172b155a7de0901a8d1ba5ac849e436612a4a07a0dd0f570182bdff0",
+  "sha1": "1cc03f2eb66a3d64dbbe854fd0c74ce4bd0b1e53"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

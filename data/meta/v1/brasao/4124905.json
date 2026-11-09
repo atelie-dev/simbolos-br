@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4124905",
+ "uf": "PR",
+ "municipio": "São João do Caiuá",
+ "tipo": "brasao",
+ "origem": "https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/05/29.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f8295865a568fc306a48ae578052a6efffdf70550afd35083d53e2d34e442b53",
+ "sha1_origem": "bc70b9b0f8e9faca36cd5d1ac2d1f169f257ba52",
+ "bytes_origem": 546653,
+ "capturado_em": "2026-11-09T03:09:17Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 241956,
+   "sha256": "f968071f6d164e6abb11d688cea241006f669e7d6b52f3b40da6326002965313",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 75714,
+   "sha256": "ce78bb896f2aa57439b20dfeb437fb696b7659e95e3bcfbd75696bd027a1b40a",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4124905.png",
+  "bytes": 546653,
+  "sha256": "f8295865a568fc306a48ae578052a6efffdf70550afd35083d53e2d34e442b53",
+  "sha1": "bc70b9b0f8e9faca36cd5d1ac2d1f169f257ba52"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

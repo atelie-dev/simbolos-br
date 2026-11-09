@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5212808",
+ "uf": "GO",
+ "municipio": "Mara Rosa",
+ "tipo": "brasao",
+ "origem": "https://mararosa.go.gov.br/wp-content/uploads/2020/05/brasão-mara-rosa.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f0ad37cbe55dfa4560b1e87328af5c520b4b0c71b1d634591f5da6caec83e427",
+ "sha1_origem": "f0340ab71ca1c3a7e3cf489c55c20a19f82b47ef",
+ "bytes_origem": 237868,
+ "capturado_em": "2026-11-09T02:59:52Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 189033,
+   "sha256": "8fbf734ad633a7f89135f7c62ec2a1b2e9ce2635bf9c56de8111e1c477bda7d6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31990,
+   "sha256": "b0e6a95d3d6a799897e34d45e87663f0ffa37614581ba2b43c18b76b4b6f72dc",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5212808.png",
+  "bytes": 237868,
+  "sha256": "f0ad37cbe55dfa4560b1e87328af5c520b4b0c71b1d634591f5da6caec83e427",
+  "sha1": "f0340ab71ca1c3a7e3cf489c55c20a19f82b47ef"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

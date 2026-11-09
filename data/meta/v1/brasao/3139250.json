@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3139250",
+ "uf": "MG",
+ "municipio": "Mamonas",
+ "tipo": "brasao",
+ "origem": "https://mamonas.mg.gov.br/wp-content/uploads/2025/09/brasao-mamonas.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4b769e1b5d9c0bb356bea004962d8b0a9978f7bdb381d5f18792fd362e935754",
+ "sha1_origem": "7f3f660c6faeb531922dc44f274f9a60a8cdf04b",
+ "bytes_origem": 246613,
+ "capturado_em": "2026-11-09T03:02:35Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 230512,
+   "sha256": "075410cc4b5832e0049cbd88f5746e7c52951699cffbd0d8390ea9a1deef32fd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 65908,
+   "sha256": "600003e3ec3f1a9bafe4008e0edc7e519eccfcd22b6a0d1ad1593cf030c19d6d",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3139250.png",
+  "bytes": 246613,
+  "sha256": "4b769e1b5d9c0bb356bea004962d8b0a9978f7bdb381d5f18792fd362e935754",
+  "sha1": "7f3f660c6faeb531922dc44f274f9a60a8cdf04b"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

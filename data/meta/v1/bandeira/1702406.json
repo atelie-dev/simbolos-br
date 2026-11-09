@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1702406",
+ "uf": "TO",
+ "municipio": "Arraias",
+ "tipo": "bandeira",
+ "origem": "https://arraias.to.gov.br/wp-content/uploads/2023/02/BANDEIRA_DE_ARRAIAS.webp",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/webp",
+ "sha256_origem": "5ed35438e5932610ea6c014b24747fb3deaec03ae7b285b284145ba999b93bc2",
+ "sha1_origem": "82d91f88a758b94dfa4ab4e8ce16069dfe1ddf28",
+ "bytes_origem": 16008,
+ "capturado_em": "2026-11-09T03:10:46Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 23876,
+   "sha256": "eb5b7a00fbe2059bc448d52681e7fef85acf0c07cf8569a0d17befcb3128a07c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18668,
+   "sha256": "12cf76ff791c2b104fdc720c33dca9dc94fde4a72144f6707c08707447da99e2",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1702406.webp",
+  "bytes": 16008,
+  "sha256": "5ed35438e5932610ea6c014b24747fb3deaec03ae7b285b284145ba999b93bc2",
+  "sha1": "82d91f88a758b94dfa4ab4e8ce16069dfe1ddf28"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

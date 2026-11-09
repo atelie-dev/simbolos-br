@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3159704",
+ "uf": "MG",
+ "municipio": "Santa Rosa da Serra",
+ "tipo": "brasao",
+ "origem": "https://santarosadaserra.mg.gov.br/assets/img/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "38070bbd635d96311e95b08c744b6f5648bc2f810109069873c19ddc228f3520",
+ "sha1_origem": "d41da421f2b7c79cf9ae824788f1bec914024d60",
+ "bytes_origem": 121501,
+ "capturado_em": "2026-11-09T03:03:18Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 39878,
+   "sha256": "c4faf2733fdb508030f2e4d17e2bbfde9829bce52e325aa966a6469c750f171e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 15493,
+   "sha256": "6df0bc6764b02d42050581ca20fbb5b74c2e16c188fb19d981e9464c2f61ba8f",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3159704.png",
+  "bytes": 121501,
+  "sha256": "38070bbd635d96311e95b08c744b6f5648bc2f810109069873c19ddc228f3520",
+  "sha1": "d41da421f2b7c79cf9ae824788f1bec914024d60"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

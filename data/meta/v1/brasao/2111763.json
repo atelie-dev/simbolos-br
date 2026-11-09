@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2111763",
+ "uf": "MA",
+ "municipio": "Senador La Rocque",
+ "tipo": "brasao",
+ "origem": "https://senadorlarocque.ma.gov.br/upload/simbolos/57970.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a9ff8a00dfc0ceb3ded5cc55b84de56663ce83771a95018783b66b5c19eafb30",
+ "sha1_origem": "5c142045a58c3a053aae4fd99f362a0e1a25fe6e",
+ "bytes_origem": 112988,
+ "capturado_em": "2026-11-09T03:01:52Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 324328,
+   "sha256": "ac8bbc56f033e2462f4a51d06b57f85c22cb8e28009388a9158d65d2922808e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54669,
+   "sha256": "aabcb4beea979adbc18a59f9ddcdab7c078fbcdf68a0124b8642926007377108",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2111763.jpg",
+  "bytes": 112988,
+  "sha256": "a9ff8a00dfc0ceb3ded5cc55b84de56663ce83771a95018783b66b5c19eafb30",
+  "sha1": "5c142045a58c3a053aae4fd99f362a0e1a25fe6e"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

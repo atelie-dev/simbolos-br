@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1505031",
+ "uf": "PA",
+ "municipio": "Novo Progresso",
+ "tipo": "brasao",
+ "origem": "https://novoprogresso.pa.gov.br/wp-content/uploads/2019/03/BRASAO.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9c7af729d840962206b12bf4591a4a3fbb83b08893ef650200238f7a309bf1af",
+ "sha1_origem": "1ff919ea9ac5058fefbcab4f9d83ec61bcfa0ee3",
+ "bytes_origem": 20008,
+ "capturado_em": "2026-11-09T03:05:03Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 115583,
+   "sha256": "c56978e7333227208a6660bfcdaf0ebac3346cd1660532ba0415301a2bc9b93c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24897,
+   "sha256": "66fc2fa224b6ccda0ed563120c3ce75c05af7f8592328fd7f4fc3cab4e42648c",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1505031.jpg",
+  "bytes": 20008,
+  "sha256": "9c7af729d840962206b12bf4591a4a3fbb83b08893ef650200238f7a309bf1af",
+  "sha1": "1ff919ea9ac5058fefbcab4f9d83ec61bcfa0ee3"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

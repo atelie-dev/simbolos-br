@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2304608",
+ "uf": "CE",
+ "municipio": "General Sampaio",
+ "tipo": "brasao",
+ "origem": "https://generalsampaio.ce.gov.br/link/link129.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e899624d6b37da20f328cb7b8d8a97bb072e725b0d6f65796f03303363a20dac",
+ "sha1_origem": "d45771c95b9481f6cfaf1e34adc851e230a2b16b",
+ "bytes_origem": 114750,
+ "capturado_em": "2026-11-09T02:58:06Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 107959,
+   "sha256": "ec34fed2e5075cc969a929ccd1fbac19e5ea64a7458110172b23d6c3f84af4c7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25266,
+   "sha256": "13e18a2cb82adaaa98a3a07c3528c2efe329697e5e8ca8dac40d0686105f32ab",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2304608.png",
+  "bytes": 114750,
+  "sha256": "e899624d6b37da20f328cb7b8d8a97bb072e725b0d6f65796f03303363a20dac",
+  "sha1": "d45771c95b9481f6cfaf1e34adc851e230a2b16b"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

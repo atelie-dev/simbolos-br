@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1304237",
+ "uf": "AM",
+ "municipio": "Tonantins",
+ "tipo": "brasao",
+ "origem": "https://tonantins.am.gov.br/wp-content/uploads/2025/01/cropped-01.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "efe3dac9eec7c28a74ec7b150b62ac19bd5137e9e03ef0ee3895e9b352e888aa",
+ "sha1_origem": "6d928f801da328271228bdd06445656fc5c8fb8b",
+ "bytes_origem": 103099,
+ "capturado_em": "2026-11-09T02:57:00Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 119291,
+   "sha256": "24dbbcd6e2cfa78b09fbcec8c3aea7f089a9239d707cb150f0275fae296e1cac",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36095,
+   "sha256": "e4bcf0652a5123983d960b0b10b7d01a1cd3c178d4a7611b1b5b568f8f6fa169",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1304237.png",
+  "bytes": 103099,
+  "sha256": "efe3dac9eec7c28a74ec7b150b62ac19bd5137e9e03ef0ee3895e9b352e888aa",
+  "sha1": "6d928f801da328271228bdd06445656fc5c8fb8b"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

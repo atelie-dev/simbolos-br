@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2708808",
+ "uf": "AL",
+ "municipio": "São Sebastião",
+ "tipo": "brasao",
+ "origem": "https://saosebastiao.al.gov.br/uploads/image/paginas/brasaopq.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f2a2c1cfb22dccc548b578766e155431552c5257b53a3c2a7c978aec8417e888",
+ "sha1_origem": "dee2990b3077e167df41b6b0a6e3f0f267da2e2b",
+ "bytes_origem": 30407,
+ "capturado_em": "2026-11-09T02:56:28Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 33082,
+   "sha256": "7d62b6e509fa8cec9ffd67be418daa435a51e9771369f71c1b6687711154bc5e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9720,
+   "sha256": "ee662de725a7e734af2c50e96f1b16424e160993cd266da4c00c15934ae9b1fa",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2708808.png",
+  "bytes": 30407,
+  "sha256": "f2a2c1cfb22dccc548b578766e155431552c5257b53a3c2a7c978aec8417e888",
+  "sha1": "dee2990b3077e167df41b6b0a6e3f0f267da2e2b"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

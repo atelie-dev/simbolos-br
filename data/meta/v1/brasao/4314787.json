@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4314787",
+ "uf": "RS",
+ "municipio": "Ponte Preta",
+ "tipo": "brasao",
+ "origem": "https://pontepreta.rs.gov.br/uploads/texto/4/upload20171017085007(1).png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "9087cbee722deb8cfe21c4e8497973400c1291ec2c73ea809e45df0e7700fe04",
+ "sha1_origem": "bee2631c47cb85744d73744679e50fc5af5341c7",
+ "bytes_origem": 51783,
+ "capturado_em": "2026-11-09T03:10:11Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 52406,
+   "sha256": "9e4ffc4013a840fb9abf72fb4c7185dc158e355d8de3ca0da622d132ca9ca8c2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14727,
+   "sha256": "e7e35b053a392a0c8d978a6d1e24f326449f901acc9a0ab0ef0e84e80ffbe9ee",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4314787.png",
+  "bytes": 51783,
+  "sha256": "9087cbee722deb8cfe21c4e8497973400c1291ec2c73ea809e45df0e7700fe04",
+  "sha1": "bee2631c47cb85744d73744679e50fc5af5341c7"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

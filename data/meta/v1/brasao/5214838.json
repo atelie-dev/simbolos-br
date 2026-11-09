@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5214838",
+ "uf": "GO",
+ "municipio": "Nova Crixás",
+ "tipo": "brasao",
+ "origem": "https://novacrixas.go.gov.br/wp-content/uploads/2025/06/Nova_Crixas.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "79db8120d2320e3eaef98d851b858336e131dc61cf7b212738de7a09a1d7a2bf",
+ "sha1_origem": "16544a4758bf48360657632cb4f6ac0eab47629c",
+ "bytes_origem": 23938,
+ "capturado_em": "2026-11-09T03:00:11Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 155243,
+   "sha256": "e17d8f48f1af535ab0d502282981b33f1a51bce990b5526d8b1a7549e1728a6d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29956,
+   "sha256": "9edb46d265cd54e3d1b633b58e528d3d3f7ab4929231cb022ade419b531302d0",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5214838.jpg",
+  "bytes": 23938,
+  "sha256": "79db8120d2320e3eaef98d851b858336e131dc61cf7b212738de7a09a1d7a2bf",
+  "sha1": "16544a4758bf48360657632cb4f6ac0eab47629c"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

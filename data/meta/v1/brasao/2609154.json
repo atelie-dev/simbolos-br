@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2609154",
+ "uf": "PE",
+ "municipio": "Manari",
+ "tipo": "brasao",
+ "origem": "https://manari.pe.gov.br/v1/wp-content/uploads/2025/04/brasao-e-bandeira-manari-pe.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ea91ef345735d8f04bb656c1bdf01023e02d608731f69c5c75cf7f1b0a31eb04",
+ "sha1_origem": "2ac47230639176fa3d8f624b36edf51db0b2c75d",
+ "bytes_origem": 146669,
+ "capturado_em": "2026-11-09T03:07:23Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 101563,
+   "sha256": "173345e81378bffdd952cb56358d8129a0d4ad15988e98b3a40163253a7665ac",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21596,
+   "sha256": "149a7c51d874e3494c1050bb20b70fba2d61abbbe8520af5fe4e0e479b3cd4a5",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2609154.jpg",
+  "bytes": 146669,
+  "sha256": "ea91ef345735d8f04bb656c1bdf01023e02d608731f69c5c75cf7f1b0a31eb04",
+  "sha1": "2ac47230639176fa3d8f624b36edf51db0b2c75d"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

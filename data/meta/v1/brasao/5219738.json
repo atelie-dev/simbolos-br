@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5219738",
+ "uf": "GO",
+ "municipio": "Santo Antônio de Goiás",
+ "tipo": "brasao",
+ "origem": "https://santoantoniodegoias.go.gov.br/wp-content/uploads/2026/08/brsao-1.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "7554a393de0d528b2f8d53ab91658c5ccabbe7223bd04e9ab50b7d7b5bb9d210",
+ "sha1_origem": "d920ea80194d4ff6af3ea143d5fa16689d0053e1",
+ "bytes_origem": 63179,
+ "capturado_em": "2026-11-09T03:00:43Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 62397,
+   "sha256": "129528bef5f04ac219051cea692d45f0c59110e5f83f3b3349b77e54c4da091a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16826,
+   "sha256": "a58d721fcba6376b41f94204bf1c6b3ca54dac0f43a931a0be8aab3bd5b0672d",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5219738.png",
+  "bytes": 63179,
+  "sha256": "7554a393de0d528b2f8d53ab91658c5ccabbe7223bd04e9ab50b7d7b5bb9d210",
+  "sha1": "d920ea80194d4ff6af3ea143d5fa16689d0053e1"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1100452",
+ "uf": "RO",
+ "municipio": "Buritis",
+ "tipo": "brasao",
+ "origem": "http://buritis.ro.gov.br/wp-content/uploads/2026/06/brasao_logo_buritis_selo_ouro_2025.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e1df3f4d986fc63561c80027aca723200e214d0687f824244b7c3f70c18dad2c",
+ "sha1_origem": "2bdf02c2e16f0a6541d844e7ecf36bf94df95c4e",
+ "bytes_origem": 70203,
+ "capturado_em": "2026-11-09T03:10:04Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 60449,
+   "sha256": "78f6a6d33a657ae94fc9cd4c3dafdfa7a7024eff47222cfe3161b8e1d4b579b6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12699,
+   "sha256": "792d06c12b1dae5a1420c3aeea6d168c70bc959f41d093da8c22214afc5e2865",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1100452.png",
+  "bytes": 70203,
+  "sha256": "e1df3f4d986fc63561c80027aca723200e214d0687f824244b7c3f70c18dad2c",
+  "sha1": "2bdf02c2e16f0a6541d844e7ecf36bf94df95c4e"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

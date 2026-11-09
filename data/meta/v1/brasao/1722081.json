@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1722081",
+ "uf": "TO",
+ "municipio": "Wanderlândia",
+ "tipo": "brasao",
+ "origem": "https://wanderlandia.to.gov.br/wp-content/uploads/2023/09/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "263136d818e2e793eeef5446674de4200e3017c3e8fc8a61691e6c44d890fce7",
+ "sha1_origem": "251f2e3c8db39902ec9c00440c67f6f93c51d649",
+ "bytes_origem": 93643,
+ "capturado_em": "2026-11-09T03:11:57Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 93326,
+   "sha256": "c9397916abe6265569714b194c74d29391591e3404be3c65c6837265e0591c4d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17198,
+   "sha256": "44a2f4aea437b499c9e8b9bda9b06f6359027393065e4c33d9b40ca5ade173ad",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1722081.png",
+  "bytes": 93643,
+  "sha256": "263136d818e2e793eeef5446674de4200e3017c3e8fc8a61691e6c44d890fce7",
+  "sha1": "251f2e3c8db39902ec9c00440c67f6f93c51d649"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

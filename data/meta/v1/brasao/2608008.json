@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2608008",
+ "uf": "PE",
+ "municipio": "Jataúba",
+ "tipo": "brasao",
+ "origem": "https://jatauba.pe.gov.br/wp-content/uploads/2022/04/jat11.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "fa4be710ad4b1afc1b0f2256ece18513153459001647aafa8648050cd8268e20",
+ "sha1_origem": "34e96feaf3c5d96f093358c26f1b512b08fd080d",
+ "bytes_origem": 35133,
+ "capturado_em": "2026-11-09T03:07:12Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 152385,
+   "sha256": "d9cf92de59aefcf0765d95bda2b619f6b8b9e56239bc4aca46f1cc48fe408a50",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 30225,
+   "sha256": "d504d820d6dec9bee2f274b5bb27a2366d4ed11662f73869ff6dae06187c5cbe",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2608008.jpg",
+  "bytes": 35133,
+  "sha256": "fa4be710ad4b1afc1b0f2256ece18513153459001647aafa8648050cd8268e20",
+  "sha1": "34e96feaf3c5d96f093358c26f1b512b08fd080d"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

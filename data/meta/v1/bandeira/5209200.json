@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5209200",
+ "uf": "GO",
+ "municipio": "Guapó",
+ "tipo": "bandeira",
+ "origem": "https://guapo.go.gov.br/wp-content/uploads/2024/02/bandeira.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "03dddaff90a4db6195e039291a751e2502540c4d395f428bf16dc60e3e73177e",
+ "sha1_origem": "8ebb99ba8af3603e1907270470db36a462432c0a",
+ "bytes_origem": 47530,
+ "capturado_em": "2026-11-09T02:59:25Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 59154,
+   "sha256": "f2a7d7b7eddc2224ec2664f38cc5417b7aa715a73219e3041fb7051e96233ec8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19720,
+   "sha256": "f53af6c6eaf4686938f6f07187b5bdf9859f90058b3aa031730d45552e291fb0",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5209200.jpg",
+  "bytes": 47530,
+  "sha256": "03dddaff90a4db6195e039291a751e2502540c4d395f428bf16dc60e3e73177e",
+  "sha1": "8ebb99ba8af3603e1907270470db36a462432c0a"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

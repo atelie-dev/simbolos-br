@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5210406",
+ "uf": "GO",
+ "municipio": "Itaberaí",
+ "tipo": "brasao",
+ "origem": "https://itaberai.go.gov.br/wp-content/uploads/2026/07/FOTO-DA-LOGO-1-1024x1024.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e1501bb7b11174947528929ccf4cc23c90d740d4edc1661417b0fe018ba2f2fc",
+ "sha1_origem": "b4fe39039032e0aadec72327f30b5108d644e370",
+ "bytes_origem": 217863,
+ "capturado_em": "2026-11-09T02:59:46Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 116182,
+   "sha256": "9165dcd7cf95ee1c6539cb309a8a03a20ed72c53bb2b9201d9ec990799c3771e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40303,
+   "sha256": "2c20a201a1d91144127c3377483959338b1cbc6f3b6c814bbc812106e076a765",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5210406.png",
+  "bytes": 217863,
+  "sha256": "e1501bb7b11174947528929ccf4cc23c90d740d4edc1661417b0fe018ba2f2fc",
+  "sha1": "b4fe39039032e0aadec72327f30b5108d644e370"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5203559",
+ "uf": "GO",
+ "municipio": "Bonfinópolis",
+ "tipo": "brasao",
+ "origem": "https://www.bonfinopolis.go.gov.br/wp-content/uploads/2020/01/Brasão-246x300.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c0aaca6ba414ce85abd99658f9601d1b167876a1bf5e6f0a6a6c7ff48e45faad",
+ "sha1_origem": "ad2f8a551b6c1939c5cf6bbf88453aa70ee8784b",
+ "bytes_origem": 23760,
+ "capturado_em": "2026-11-09T02:58:49Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 121974,
+   "sha256": "50f65c77a6038b9f631ea530c81d55bd9d60c584ef3b99643edc3a444e57def8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29124,
+   "sha256": "a859c3be131b183c917a84bd1903a54f95a744433b3af296d2bef756145dceb0",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5203559.jpg",
+  "bytes": 23760,
+  "sha256": "c0aaca6ba414ce85abd99658f9601d1b167876a1bf5e6f0a6a6c7ff48e45faad",
+  "sha1": "ad2f8a551b6c1939c5cf6bbf88453aa70ee8784b"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2306009",
+ "uf": "CE",
+ "municipio": "Iracema",
+ "tipo": "brasao",
+ "origem": "https://iracema.ce.gov.br/link/link366.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c7208a1be249e2ca4ca97a0af41e0fb93ea8a1138c31bc22802902637b0eba16",
+ "sha1_origem": "42f63dfc33fb84e5db647d46429ebf77bc5a0cd6",
+ "bytes_origem": 62981,
+ "capturado_em": "2026-11-09T02:58:13Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 56803,
+   "sha256": "d391f3f3d19dad964257ed9ff06db041fe7cb25aa8ef9a3b0f2afd0daff65222",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32905,
+   "sha256": "1044df58a449650c8598da077898fc96475c7b833f786b8806388ffc3df57378",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2306009.jpg",
+  "bytes": 62981,
+  "sha256": "c7208a1be249e2ca4ca97a0af41e0fb93ea8a1138c31bc22802902637b0eba16",
+  "sha1": "42f63dfc33fb84e5db647d46429ebf77bc5a0cd6"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

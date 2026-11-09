@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1507201",
+ "uf": "PA",
+ "municipio": "São Domingos do Capim",
+ "tipo": "brasao",
+ "origem": "https://saodomingosdocapim.pa.gov.br/link/link80.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b93f836b3ab802a3227d4df7662abefbd8c1a6fd899f784543590185fada375e",
+ "sha1_origem": "149cf1f4386f778a54e9f09847d664b244a29b26",
+ "bytes_origem": 480054,
+ "capturado_em": "2026-11-09T03:05:19Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 43951,
+   "sha256": "e333c36e98fcdad6fb9788e8b2b3db3df19548a5e8006ed7211780ea612e76a9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24558,
+   "sha256": "f48d7d1b0da6d2fae1e674b2160a369874d3ac5bcc69e5ddf2260553da02ba7b",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1507201.jpg",
+  "bytes": 480054,
+  "sha256": "b93f836b3ab802a3227d4df7662abefbd8c1a6fd899f784543590185fada375e",
+  "sha1": "149cf1f4386f778a54e9f09847d664b244a29b26"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2513307",
+ "uf": "PB",
+ "municipio": "Santa Helena",
+ "tipo": "bandeira",
+ "origem": "https://santahelena.pb.gov.br/uploads/files/Bandeira_de_Santa_Helena_PB.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bb7c083d67b06a033196dd260b8edbbeb5da9b54b53169e754e595c06dbd4847",
+ "sha1_origem": "48c323222c766a9815bb7e9636aa2e17f5bf498a",
+ "bytes_origem": 39486,
+ "capturado_em": "2026-11-09T03:05:28Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 51226,
+   "sha256": "4ef92adb69972c93e050279f9bce23474651befe9d591a0446a5c986c983bb2d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18607,
+   "sha256": "0949fee1aeda2e7d0807a27d051e241fdaa6589f7abcee1ad57cbb24598a3e83",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2513307.jpg",
+  "bytes": 39486,
+  "sha256": "bb7c083d67b06a033196dd260b8edbbeb5da9b54b53169e754e595c06dbd4847",
+  "sha1": "48c323222c766a9815bb7e9636aa2e17f5bf498a"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

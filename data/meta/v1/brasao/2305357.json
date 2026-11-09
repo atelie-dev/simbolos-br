@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2305357",
+ "uf": "CE",
+ "municipio": "Icapuí",
+ "tipo": "brasao",
+ "origem": "https://icapui.ce.gov.br/link/link168.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "da33067f0a2779e82863dffb928980881aa66273c7a34b66d5faf8e851073dd4",
+ "sha1_origem": "7ddd95330013c79d19962384598070561b76caba",
+ "bytes_origem": 98482,
+ "capturado_em": "2026-11-09T02:58:12Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 93743,
+   "sha256": "155e4998cfb87193db44a02891a74dfa44a1f321b44f7f2781915699b9e65302",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19558,
+   "sha256": "86343f8276578fa6f2382c89bec79e0a6041d126cfedb67ff8d5a10b5a5357ee",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2305357.png",
+  "bytes": 98482,
+  "sha256": "da33067f0a2779e82863dffb928980881aa66273c7a34b66d5faf8e851073dd4",
+  "sha1": "7ddd95330013c79d19962384598070561b76caba"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

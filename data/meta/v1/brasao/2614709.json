@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2614709",
+ "uf": "PE",
+ "municipio": "Tacaimbó",
+ "tipo": "brasao",
+ "origem": "https://tacaimbo.pe.gov.br/wp-content/uploads/2025/03/Brasao-png-sem-fundo-1-1024x1024.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2b7d0450731841e3deee58c0884f5474914c21c7cd878b682f8f9cc0fcc92fce",
+ "sha1_origem": "d6cb4df79186f300b17df6f852859a17128142a3",
+ "bytes_origem": 1139013,
+ "capturado_em": "2026-11-09T03:07:41Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 340521,
+   "sha256": "a7e7936e95adc1e1e7ee3c779709df0836b65ce3a05dee9d794434599d693b00",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61141,
+   "sha256": "c6bd2dec291e127d294e9becce3216a81e10c7ed4d0acc6e0ec9309a37f86a2a",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2614709.png",
+  "bytes": 1139013,
+  "sha256": "2b7d0450731841e3deee58c0884f5474914c21c7cd878b682f8f9cc0fcc92fce",
+  "sha1": "d6cb4df79186f300b17df6f852859a17128142a3"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

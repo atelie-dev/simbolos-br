@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2106201",
+ "uf": "MA",
+ "municipio": "Luís Domingues",
+ "tipo": "brasao",
+ "origem": "https://www.luisdomingues.ma.gov.br/image/brasaoluis.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ac5b8a05086b0e6a8764294978b1f66b22b3e79afb0a0cfd8c036bac1b76ada8",
+ "sha1_origem": "8d9c64478fd4f127aa7bd1b8a6a2f663a8c1c93f",
+ "bytes_origem": 220932,
+ "capturado_em": "2026-11-09T03:01:30Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 145469,
+   "sha256": "ddebe6fb5a4732ed45fdaf8b2da9b48e65497d4a251aa249478c9473ce77211d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38185,
+   "sha256": "d0d3c73326b4bfeba8ed34b71ee7d4b928e08430534035d6ffc6084f92440b8a",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2106201.png",
+  "bytes": 220932,
+  "sha256": "ac5b8a05086b0e6a8764294978b1f66b22b3e79afb0a0cfd8c036bac1b76ada8",
+  "sha1": "8d9c64478fd4f127aa7bd1b8a6a2f663a8c1c93f"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

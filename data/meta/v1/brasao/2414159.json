@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2414159",
+ "uf": "RN",
+ "municipio": "Tenente Laurentino Cruz",
+ "tipo": "brasao",
+ "origem": "https://tenentelaurentinocruz.rn.gov.br/link/link66.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "311f1e243100a79e578e1b9ed84e1ba8d2d0298dc9c29cbd8f13bc59d778210f",
+ "sha1_origem": "e597de10ae73b2afe5f9e3b87da8e7a979b51683",
+ "bytes_origem": 96978,
+ "capturado_em": "2026-11-09T03:10:03Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 95961,
+   "sha256": "d2b0050390cf1923dac225dbccd3c53966c38c0589403e788398a50018560f9e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25568,
+   "sha256": "f34f2ecb576eb261c12b335416324871d6dccb8ced3a788c81124627fc4810a8",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2414159.jpg",
+  "bytes": 96978,
+  "sha256": "311f1e243100a79e578e1b9ed84e1ba8d2d0298dc9c29cbd8f13bc59d778210f",
+  "sha1": "e597de10ae73b2afe5f9e3b87da8e7a979b51683"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1717206",
+ "uf": "TO",
+ "municipio": "Piraquê",
+ "tipo": "brasao",
+ "origem": "https://www.piraque.to.gov.br/storage/empresa_params/2023/02/brasao-piraque.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "903baa5a4597d3cb54cdc241927058add85bccae6e16d4756f6ebf06a72cb391",
+ "sha1_origem": "64d299e41b8b49e08d2be61021b3bd78cfdfe29b",
+ "bytes_origem": 28287,
+ "capturado_em": "2026-11-09T03:11:43Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 28231,
+   "sha256": "c2dbea0a2f9ffe3c8514303d813f15dbf3f81ef45d76557a80b190884c64b20a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7094,
+   "sha256": "31a9ce308b3b02386509c30f8d127939655713de14f4f43fe4de32106a317ab0",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1717206.png",
+  "bytes": 28287,
+  "sha256": "903baa5a4597d3cb54cdc241927058add85bccae6e16d4756f6ebf06a72cb391",
+  "sha1": "64d299e41b8b49e08d2be61021b3bd78cfdfe29b"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

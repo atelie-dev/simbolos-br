@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2313559",
+ "uf": "CE",
+ "municipio": "Tururu",
+ "tipo": "bandeira",
+ "origem": "https://tururu.ce.gov.br/link/link42.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2b8891600ffe944b9601c29eb790e5135cda971e891c65883ac30678616a1dc1",
+ "sha1_origem": "ffb91cf7940945dc6e324348cb1458b5a29613fc",
+ "bytes_origem": 206388,
+ "capturado_em": "2026-11-09T02:58:30Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 202561,
+   "sha256": "5d7966afc15423497a61a50ab6cccce351e7720c4a402a70b3a81b0f2771215f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27600,
+   "sha256": "eabc6bdfc9689ab898ce5a3d4dadfa8f5ba03bf44d2b641195be0acfbe3fd5c1",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2313559.png",
+  "bytes": 206388,
+  "sha256": "2b8891600ffe944b9601c29eb790e5135cda971e891c65883ac30678616a1dc1",
+  "sha1": "ffb91cf7940945dc6e324348cb1458b5a29613fc"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

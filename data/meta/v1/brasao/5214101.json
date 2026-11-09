@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5214101",
+ "uf": "GO",
+ "municipio": "Mutunópolis",
+ "tipo": "brasao",
+ "origem": "https://mutunopolis.go.gov.br/wp-content/uploads/2022/01/Clipboard-12-de-Janeiro-de-2022-as-17_10-1024x973.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1633998d8d8525b11ea427305f81307b683be19d762d6f559175384e2e482c63",
+ "sha1_origem": "f114ae4d69a269547c1ee63e39c06e5a73f3c5d9",
+ "bytes_origem": 547044,
+ "capturado_em": "2026-11-09T03:00:07Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 161293,
+   "sha256": "0c17b675948ca39ce63ffe2efdc2f5121ba731caff753acf52042daef98a5ae8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40365,
+   "sha256": "1ff0e4ab6f6dff863f6d16b286d777c4dadddf707e4dc282d480037a58176a1c",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5214101.png",
+  "bytes": 547044,
+  "sha256": "1633998d8d8525b11ea427305f81307b683be19d762d6f559175384e2e482c63",
+  "sha1": "f114ae4d69a269547c1ee63e39c06e5a73f3c5d9"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

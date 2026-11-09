@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1506559",
+ "uf": "PA",
+ "municipio": "Santa Luzia do Pará",
+ "tipo": "brasao",
+ "origem": "https://santaluziadopara.pa.gov.br/link/link146.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "84e6cec4c133cdae05a9ba78296205a6ea1b75af67cfcb6a0e4e9f4d6bf9c751",
+ "sha1_origem": "6a7402a009f1ef06d5f5aace39ed6b28bea0df6d",
+ "bytes_origem": 64435,
+ "capturado_em": "2026-11-09T03:05:16Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 70513,
+   "sha256": "63de022f24238fd8b9cc3e4aa5d82777b1727ae90e8710c61ed57f436d7955b5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18961,
+   "sha256": "b3b3e1b517a15cac0f1c5de48f4b7710bd41fc051fde7d0954efcefce42faf2d",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1506559.jpg",
+  "bytes": 64435,
+  "sha256": "84e6cec4c133cdae05a9ba78296205a6ea1b75af67cfcb6a0e4e9f4d6bf9c751",
+  "sha1": "6a7402a009f1ef06d5f5aace39ed6b28bea0df6d"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

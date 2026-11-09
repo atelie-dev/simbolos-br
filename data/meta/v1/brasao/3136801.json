@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3136801",
+ "uf": "MG",
+ "municipio": "Juramento",
+ "tipo": "brasao",
+ "origem": "https://juramento.mg.gov.br/wp-content/uploads/2023/08/brasao-juramento.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4bc57731358d2bb9bee9ddcc6c3c801a4ac01696367b530bd2f0e5f33cd621ed",
+ "sha1_origem": "60024ee0cf141d7b861e6dd75b0cf2c32d4dd251",
+ "bytes_origem": 222273,
+ "capturado_em": "2026-11-09T03:02:28Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 218769,
+   "sha256": "729e5fbd902385958e7553ad87600c6a264733c796a89fedd84c9aa51109dfe1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38929,
+   "sha256": "a966c5cb5990f200aea90f0c1fffcf8bcaa7aede0033fb294546003d9f8ebc59",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3136801.png",
+  "bytes": 222273,
+  "sha256": "4bc57731358d2bb9bee9ddcc6c3c801a4ac01696367b530bd2f0e5f33cd621ed",
+  "sha1": "60024ee0cf141d7b861e6dd75b0cf2c32d4dd251"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

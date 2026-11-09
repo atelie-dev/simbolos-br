@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4321634",
+ "uf": "RS",
+ "municipio": "Três Arroios",
+ "tipo": "brasao",
+ "origem": "https://tresarroios.rs.gov.br/wp-content/uploads/cropped-brasao-tres-arroios-rs.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2c505c0775937338a60a369e47000d6be7a9c1e2f39c3d2ac3a2c52f53c72345",
+ "sha1_origem": "3c8945482491d9c1071b72da510aaf337cf0cca2",
+ "bytes_origem": 16580,
+ "capturado_em": "2026-11-09T03:10:19Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 36324,
+   "sha256": "a5bd1cff3609bed0b444f16dfe169ca89e36562afd2e2b786ac9c0c53e495964",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9598,
+   "sha256": "3fbc89fd2821d290f42b07215207edd99452d3a94251bd3b864039ce99fd03df",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4321634.jpg",
+  "bytes": 16580,
+  "sha256": "2c505c0775937338a60a369e47000d6be7a9c1e2f39c3d2ac3a2c52f53c72345",
+  "sha1": "3c8945482491d9c1071b72da510aaf337cf0cca2"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

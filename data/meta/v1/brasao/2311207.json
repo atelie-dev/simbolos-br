@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2311207",
+ "uf": "CE",
+ "municipio": "Potengi",
+ "tipo": "brasao",
+ "origem": "https://potengi.ce.gov.br/link/link75.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "d0fc4afa5f4c5b9e4c10e7a07266514486550bafa5411beeb13c8b81c2f97078",
+ "sha1_origem": "38ee723cb721b0f6f9938fb16bb4dc043b5ddc0a",
+ "bytes_origem": 90547,
+ "capturado_em": "2026-11-09T02:58:26Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 89814,
+   "sha256": "240de607dbb716d6aa422ecf9c35963ce8e8268970a3e9330fc1ff6f2f71b4b3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21525,
+   "sha256": "6b7b957dcd3de5b450a77ae8208ac481b5f2f57b5e6a7777b056be388c1efe06",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2311207.jpg",
+  "bytes": 90547,
+  "sha256": "d0fc4afa5f4c5b9e4c10e7a07266514486550bafa5411beeb13c8b81c2f97078",
+  "sha1": "38ee723cb721b0f6f9938fb16bb4dc043b5ddc0a"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

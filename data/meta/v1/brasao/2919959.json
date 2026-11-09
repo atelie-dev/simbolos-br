@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2919959",
+ "uf": "BA",
+ "municipio": "Maetinga",
+ "tipo": "brasao",
+ "origem": "https://maetinga.ba.gov.br/wp-content/uploads/2023/05/Brasao_de_Maetinga.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "87d691f85f4df1d2f171bedc939577630c00e12055908920ee0bc52e368e9eab",
+ "sha1_origem": "a6c4cffef6fe2410e24c44925444c51a8574ff48",
+ "bytes_origem": 9215,
+ "capturado_em": "2026-11-09T02:57:24Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 42996,
+   "sha256": "bcec4d3ab8ea2558e5bfba239931ef693f3a77e4b7bf1f1e19d839362f49c8f1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9325,
+   "sha256": "7722a8fa499f6c170f7d8517deaf512bf54ee4dfc0caaa6aa499e6b14a1456cd",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2919959.jpg",
+  "bytes": 9215,
+  "sha256": "87d691f85f4df1d2f171bedc939577630c00e12055908920ee0bc52e368e9eab",
+  "sha1": "a6c4cffef6fe2410e24c44925444c51a8574ff48"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

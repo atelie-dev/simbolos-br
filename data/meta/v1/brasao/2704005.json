@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2704005",
+ "uf": "AL",
+ "municipio": "Junqueiro",
+ "tipo": "brasao",
+ "origem": "https://junqueiro.al.gov.br/wp-content/uploads/2025/11/BRASAO-JUNQUEIRO.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e17123c6b1893535964e8e684421105f1b2ad819dc25b933f0b4dc555e50ddd1",
+ "sha1_origem": "ebf35bbbdb7a1e2f1cb437839865f2d37e6e28bd",
+ "bytes_origem": 284419,
+ "capturado_em": "2026-11-09T02:55:27Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 92135,
+   "sha256": "7142e7885c561ced6ce01247c14f3b53d22f8e750de5b186f1e18e9f2aef7d80",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22566,
+   "sha256": "5137b7e9c05d5d6bc79461676ba6b3b8c6d0f4a8ad74f12d3174668ff42d60c7",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2704005.png",
+  "bytes": 284419,
+  "sha256": "e17123c6b1893535964e8e684421105f1b2ad819dc25b933f0b4dc555e50ddd1",
+  "sha1": "ebf35bbbdb7a1e2f1cb437839865f2d37e6e28bd"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

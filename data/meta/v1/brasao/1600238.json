@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1600238",
+ "uf": "AP",
+ "municipio": "Ferreira Gomes",
+ "tipo": "brasao",
+ "origem": "https://ferreiragomes.ap.gov.br/link/link66.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9ac5a436b19e50b6ea6e5e4fc0701318b2b7244f5154847df05e946b9f3024f0",
+ "sha1_origem": "3434fcab1af056666f5e632a4050a85189f64f47",
+ "bytes_origem": 132377,
+ "capturado_em": "2026-11-09T02:57:04Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 117773,
+   "sha256": "b04267e07af5164577bf2a0ae4b5cbe0e2b66dbbf48cdf48643b0cc7d4c95732",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35019,
+   "sha256": "25333e462e4c3f780fc8a58d9004d933b3dccfaeeb5d94bae69dc39d5cce4aef",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1600238.jpg",
+  "bytes": 132377,
+  "sha256": "9ac5a436b19e50b6ea6e5e4fc0701318b2b7244f5154847df05e946b9f3024f0",
+  "sha1": "3434fcab1af056666f5e632a4050a85189f64f47"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

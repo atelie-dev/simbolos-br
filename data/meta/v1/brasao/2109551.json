@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2109551",
+ "uf": "MA",
+ "municipio": "Ribamar Fiquene",
+ "tipo": "brasao",
+ "origem": "https://ribamarfiquene.ma.gov.br/upload/simbolos/56064.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "859eb5c90ce50c30b2d0d2c1105e3a10cab759c9b7477f179600aed71c21c72d",
+ "sha1_origem": "7f54c1668aa75bac9025c277e17363662aa5b037",
+ "bytes_origem": 453093,
+ "capturado_em": "2026-11-09T03:01:43Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 124672,
+   "sha256": "e564cad79585d2f187af4d12e9a0162d12fb0f1c561588b2743e8cd7fc12ca23",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 34222,
+   "sha256": "d9b89559f92dba6775932b3b63ad2dd3ae98d4ef4c8c7d0409451e5055f8f01e",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2109551.png",
+  "bytes": 453093,
+  "sha256": "859eb5c90ce50c30b2d0d2c1105e3a10cab759c9b7477f179600aed71c21c72d",
+  "sha1": "7f54c1668aa75bac9025c277e17363662aa5b037"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

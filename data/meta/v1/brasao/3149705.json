@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3149705",
+ "uf": "MG",
+ "municipio": "Perdigão",
+ "tipo": "brasao",
+ "origem": "https://perdigao.mg.gov.br/imagens/editor/images/2016/Simbolos/Brasao.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5cd329f46d43ec5924b6e2c1e4067a40d1c205c5d3c1aac8a5b6f0a461b553a8",
+ "sha1_origem": "c747712115e73ebea34f088f5b128576e6197783",
+ "bytes_origem": 58084,
+ "capturado_em": "2026-11-09T03:03:05Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 90162,
+   "sha256": "fbf49da490e08fb1605025a4d34ee62688876be4fe04e0d0bd69df5e609e4851",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22618,
+   "sha256": "467e21cbd06e9d2fc670153009d2e5401aba0d4e6affaa231a44e85d15cde29e",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3149705.jpg",
+  "bytes": 58084,
+  "sha256": "5cd329f46d43ec5924b6e2c1e4067a40d1c205c5d3c1aac8a5b6f0a461b553a8",
+  "sha1": "c747712115e73ebea34f088f5b128576e6197783"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

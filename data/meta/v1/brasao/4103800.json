@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4103800",
+ "uf": "PR",
+ "municipio": "Cambira",
+ "tipo": "brasao",
+ "origem": "https://cambira.pr.gov.br/wp-content/uploads/2018/04/Brasao_cambira.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "bbd70b3404ec2abdc1055f067ba52025f753aecb859120d4de89f9c1ed3a981e",
+ "sha1_origem": "97273ac0c567489ff91004eafe97afa88476cdce",
+ "bytes_origem": 59478,
+ "capturado_em": "2026-11-09T03:08:27Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 59899,
+   "sha256": "c33a6b5dd440c43469f2270a2bc2247b167c10c9bb3b7cf4f8405c43dbfe1893",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39891,
+   "sha256": "d1dbf5668062afdd103faa5779816bb6c4f7dd393218896977e88632dd29325a",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4103800.png",
+  "bytes": 59478,
+  "sha256": "bbd70b3404ec2abdc1055f067ba52025f753aecb859120d4de89f9c1ed3a981e",
+  "sha1": "97273ac0c567489ff91004eafe97afa88476cdce"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

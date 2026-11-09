@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5220264",
+ "uf": "GO",
+ "municipio": "São Miguel do Passa Quatro",
+ "tipo": "brasao",
+ "origem": "https://saomigueldopassaquatro.go.gov.br/wp-content/uploads/2020/03/brasao_municipal1_sao_miguel_passa_4_Small-1.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b77662a86fd85bbcaf2b35dcf12a93c43b4982e7f13e05f9b707650e1ec74d26",
+ "sha1_origem": "1253244835dc47c79b27caea33735487f681dc97",
+ "bytes_origem": 147443,
+ "capturado_em": "2026-11-09T03:00:50Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 179011,
+   "sha256": "0968ddd6d42bc25a45f4420f96ba48846356e7bb0313231d0853ef404abcf9b2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 47058,
+   "sha256": "f59056d2d528d015306c96b39e28d6e098cbd257911bf2d60facfade036083e9",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5220264.png",
+  "bytes": 147443,
+  "sha256": "b77662a86fd85bbcaf2b35dcf12a93c43b4982e7f13e05f9b707650e1ec74d26",
+  "sha1": "1253244835dc47c79b27caea33735487f681dc97"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5204300",
+ "uf": "GO",
+ "municipio": "Caçu",
+ "tipo": "brasao",
+ "origem": "https://cacu.go.gov.br/wp-content/uploads/2026/10/image-2.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "dfbc1f3214858a2ab3e879913c56ac103eb7041300dc9f5f5c21cf085c4aef9a",
+ "sha1_origem": "68cb8c8ffe2eb09f98ceb65f783366760f47a5a5",
+ "bytes_origem": 976662,
+ "capturado_em": "2026-11-09T02:58:56Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 296081,
+   "sha256": "5515048b88ba34aa459731a1fe04bfe9a3bd79dc75a568197436c75b20b1a0ff",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62130,
+   "sha256": "233a0fc68c929cb352e23f76dcfd7e2958f2b6b361fce0b131f7b0336d922b98",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5204300.png",
+  "bytes": 976662,
+  "sha256": "dfbc1f3214858a2ab3e879913c56ac103eb7041300dc9f5f5c21cf085c4aef9a",
+  "sha1": "68cb8c8ffe2eb09f98ceb65f783366760f47a5a5"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

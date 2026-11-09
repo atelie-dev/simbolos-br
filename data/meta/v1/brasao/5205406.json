@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5205406",
+ "uf": "GO",
+ "municipio": "Ceres",
+ "tipo": "brasao",
+ "origem": "https://ceres.go.gov.br/wp-content/uploads/2021/03/Brasao.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "6d1719456ed4702b40c1c6b85b677be693b196f80bec26969d7b0469c529c8ec",
+ "sha1_origem": "e79ac2a3a81a66455a8834c2e57e2a8daf4cc5f9",
+ "bytes_origem": 85261,
+ "capturado_em": "2026-11-09T02:59:05Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 247655,
+   "sha256": "c8d12fe5220d532cce567bc120f17b42366444346b78cf1dad2cc8de1d4a2c1c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 39519,
+   "sha256": "ebe578bffef4307e1c78d9f10754f079ed39489af03378872e8df3612cf1442a",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5205406.jpg",
+  "bytes": 85261,
+  "sha256": "6d1719456ed4702b40c1c6b85b677be693b196f80bec26969d7b0469c529c8ec",
+  "sha1": "e79ac2a3a81a66455a8834c2e57e2a8daf4cc5f9"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

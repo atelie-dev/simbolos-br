@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4111001",
+ "uf": "PR",
+ "municipio": "Itambaracá",
+ "tipo": "brasao",
+ "origem": "https://itambaraca.pr.gov.br/assets/cdc6915f-9d81-483a-95cd-cff7aa792f0a?height=96&format=webp",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/webp",
+ "sha256_origem": "7165146933e19c6fe08956e68a59d644bc239d9cea1080048cfe7720428ee480",
+ "sha1_origem": "1456d85024753df217b75bb7fc621bda25ed84a5",
+ "bytes_origem": 6254,
+ "capturado_em": "2026-11-09T03:08:30Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 24818,
+   "sha256": "b3bb0670e1bc59287d7055eedf13eefb6ecdfe94d6838d856199aa1d008be7dd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 6507,
+   "sha256": "d38231e41f0e677a2149b2e81285a8ba73e06afa2b90687454713cd9c1737227",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4111001.webp",
+  "bytes": 6254,
+  "sha256": "7165146933e19c6fe08956e68a59d644bc239d9cea1080048cfe7720428ee480",
+  "sha1": "1456d85024753df217b75bb7fc621bda25ed84a5"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

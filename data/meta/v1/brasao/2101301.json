@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2101301",
+ "uf": "MA",
+ "municipio": "Bacuri",
+ "tipo": "brasao",
+ "origem": "https://bacuri.ma.gov.br/link/link66.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9be0ef15bee715621e27c252fa0f12ed3f59fba2fac17570f454032b36142c2c",
+ "sha1_origem": "20dd4d9e389530439fd8b9ce29559dfc87e75f58",
+ "bytes_origem": 49737,
+ "capturado_em": "2026-11-09T03:01:10Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 41743,
+   "sha256": "3481496347dca71c114172b74f4a68ee12445070da2c31ffe6052b31bc721847",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21045,
+   "sha256": "d3870d52c0d7ae6583b24574c574f5b7dcf67223d6f1bc1f1735a78ee759cc39",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2101301.jpg",
+  "bytes": 49737,
+  "sha256": "9be0ef15bee715621e27c252fa0f12ed3f59fba2fac17570f454032b36142c2c",
+  "sha1": "20dd4d9e389530439fd8b9ce29559dfc87e75f58"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

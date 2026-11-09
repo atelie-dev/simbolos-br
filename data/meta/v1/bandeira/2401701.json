@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2401701",
+ "uf": "RN",
+ "municipio": "Bom Jesus",
+ "tipo": "bandeira",
+ "origem": "https://site.bomjesus.rn.gov.br/storage/pages/July2019/bandeira.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a8150b10946311da7f6b1bfe597f1af2438670cfdffe5628f8b587e86c8c9939",
+ "sha1_origem": "048c25c2363fd4b5e4abd0fe1d8e990e769f4f0d",
+ "bytes_origem": 97960,
+ "capturado_em": "2026-11-09T03:09:27Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 161326,
+   "sha256": "81976d6970bf44dcd0d737e8d0b5836b6ec793496b9f7b70ed522947440c8ef7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25865,
+   "sha256": "ac7b0c261a5b55b504baaf0ccd4a25b25a255ecea840d0f097cc85919110704e",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2401701.jpg",
+  "bytes": 97960,
+  "sha256": "a8150b10946311da7f6b1bfe597f1af2438670cfdffe5628f8b587e86c8c9939",
+  "sha1": "048c25c2363fd4b5e4abd0fe1d8e990e769f4f0d"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

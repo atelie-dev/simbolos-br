@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1506195",
+ "uf": "PA",
+ "municipio": "Rurópolis",
+ "tipo": "brasao",
+ "origem": "https://ruropolis.pa.gov.br/wp-content/uploads/2024/07/BRASAO.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "1d537899dbe24c8198236f2574445b3e692f9c631fa0148275cc2518134e0b6a",
+ "sha1_origem": "60ef0503dd49423a6df84b551de741fb96fd52e2",
+ "bytes_origem": 26224,
+ "capturado_em": "2026-11-09T03:05:14Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 27920,
+   "sha256": "36433f6b613f34b5a374d0bac8d8dccafe5ff8b2684f504fbaaaaa8fef210ee9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12478,
+   "sha256": "0fd00b0f0287b967532ece2d2ef4279485d16b45389f94f50568d360c3ef4ec6",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1506195.png",
+  "bytes": 26224,
+  "sha256": "1d537899dbe24c8198236f2574445b3e692f9c631fa0148275cc2518134e0b6a",
+  "sha1": "60ef0503dd49423a6df84b551de741fb96fd52e2"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

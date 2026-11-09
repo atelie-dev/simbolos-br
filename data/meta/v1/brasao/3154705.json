@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3154705",
+ "uf": "MG",
+ "municipio": "Ribeirão Vermelho",
+ "tipo": "brasao",
+ "origem": "http://ribeiraovermelho.mg.gov.br/wp-content/uploads/2018/03/WhatsApp-Image-2023-10-30-at-16.18.48-253x300.jpeg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5d0a54467595ce7afc180b8997d308c2d2ad6571c88b100206601d0a4cb88f93",
+ "sha1_origem": "f39b477788778b9491e0fd49b74ca7710b5737e1",
+ "bytes_origem": 20681,
+ "capturado_em": "2026-11-09T03:03:09Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 110917,
+   "sha256": "8b4af42084de07c9a028ea6b2cdd605387b091a73b419d6f29c1eb59dda89a6b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24292,
+   "sha256": "8b0db714c18530671a1ee1f453fedd279393192c444aad0e6cd63c4fd931a3b9",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3154705.jpg",
+  "bytes": 20681,
+  "sha256": "5d0a54467595ce7afc180b8997d308c2d2ad6571c88b100206601d0a4cb88f93",
+  "sha1": "f39b477788778b9491e0fd49b74ca7710b5737e1"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

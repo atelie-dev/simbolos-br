@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3515129",
+ "uf": "SP",
+ "municipio": "Emilianópolis",
+ "tipo": "brasao",
+ "origem": "https://emilianopolis.sp.gov.br/arquivos/configuracoes/brasao(1).jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5bd3fd59c5836cdf920427a0cd731f538f49ac2cd73eb3f5d70e68035099575f",
+ "sha1_origem": "2ac03ef9546c1de9a412a1752042511439535df9",
+ "bytes_origem": 8763,
+ "capturado_em": "2026-11-09T03:10:25Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 33750,
+   "sha256": "dfb251c7a4bd5113bf44f521ed8679e5753e3ba03e7afa7126949a946f4acf8f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9166,
+   "sha256": "bce9f7ca8d121faf6f751315db5d9c20f2056d8685e9f6325215b5a8c9915bcc",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3515129.jpg",
+  "bytes": 8763,
+  "sha256": "5bd3fd59c5836cdf920427a0cd731f538f49ac2cd73eb3f5d70e68035099575f",
+  "sha1": "2ac03ef9546c1de9a412a1752042511439535df9"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

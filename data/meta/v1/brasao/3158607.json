@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3158607",
+ "uf": "MG",
+ "municipio": "Santana do Deserto",
+ "tipo": "brasao",
+ "origem": "https://santanadodeserto.mg.gov.br/wp-content/uploads/brasao-novo.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "76d928218f470a0bd8ee60e54f6d8df388239b3323c43731973de2299689a69d",
+ "sha1_origem": "e0c462603000cd70740bc01fd9f413503f067124",
+ "bytes_origem": 176899,
+ "capturado_em": "2026-11-09T03:03:15Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 145804,
+   "sha256": "8c98b645f1a94e90b118d6c50c5553e63bd3d616368857e4488db703d0de5daa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 38038,
+   "sha256": "89bc377ef98d536ce031297d525de543daf070da1302d8c3d59b5212b3f24733",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3158607.png",
+  "bytes": 176899,
+  "sha256": "76d928218f470a0bd8ee60e54f6d8df388239b3323c43731973de2299689a69d",
+  "sha1": "e0c462603000cd70740bc01fd9f413503f067124"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

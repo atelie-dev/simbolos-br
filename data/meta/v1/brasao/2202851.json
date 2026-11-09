@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2202851",
+ "uf": "PI",
+ "municipio": "Coronel José Dias",
+ "tipo": "brasao",
+ "origem": "https://coroneljosedias.pi.gov.br/wp-content/uploads/2025/06/brasao-r7hp1m0mikeqyh6cpbodvalqq45b51imjw4h1p7ows.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cfd0793b84312791432045f48afb0a92d931235ef6ecd3c31ce8e1a0aee369af",
+ "sha1_origem": "24ec9744d9b3d6088f8253a4d7871b91ab466537",
+ "bytes_origem": 29926,
+ "capturado_em": "2026-11-09T03:08:09Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 32750,
+   "sha256": "4afb3acd9eb3df7af1270a6029ce21c59ef3891857b989fd5fa23343147de7bc",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9442,
+   "sha256": "fa0acec9d7009e4beb8b5e84068dc318596d6982052a55cab7b1cd0eded85359",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2202851.png",
+  "bytes": 29926,
+  "sha256": "cfd0793b84312791432045f48afb0a92d931235ef6ecd3c31ce8e1a0aee369af",
+  "sha1": "24ec9744d9b3d6088f8253a4d7871b91ab466537"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

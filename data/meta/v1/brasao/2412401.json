@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2412401",
+ "uf": "RN",
+ "municipio": "São José do Seridó",
+ "tipo": "brasao",
+ "origem": "https://saojosedoserido.rn.gov.br/link/link112.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "455cf022a6864dcaa07e62aaf15bfcbb28088e52886ae4f4969569c669c83f04",
+ "sha1_origem": "75da144b60a946106f787650a2b265727dbf6c55",
+ "bytes_origem": 37913,
+ "capturado_em": "2026-11-09T03:09:57Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 80507,
+   "sha256": "9a14e274def7a5434c18caa6a690e7d37a393d48398171c1352f399ec3ed9d49",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20053,
+   "sha256": "4f55e34f71e00e08d65f916e590eda83597aa84d69a089a780db3c80a4a3aab7",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2412401.jpg",
+  "bytes": 37913,
+  "sha256": "455cf022a6864dcaa07e62aaf15bfcbb28088e52886ae4f4969569c669c83f04",
+  "sha1": "75da144b60a946106f787650a2b265727dbf6c55"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

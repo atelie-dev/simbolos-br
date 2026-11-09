@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2405009",
+ "uf": "RN",
+ "municipio": "Jaçanã",
+ "tipo": "bandeira",
+ "origem": "https://www.submit.10envolve.com.br/uploads/bbc51c9b05670dd41f3e22d12976f526d9b522f4/13a9cc1bc77749b90c5b60cd128c48c8.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4a4fe06406003bd51b9ff737b20144ef119bb011d8d5e9c609bd872f00ae3a70",
+ "sha1_origem": "6e64881b1a8def722a1820f4d6ba973c5c17e7ad",
+ "bytes_origem": 1553122,
+ "capturado_em": "2026-11-09T03:09:49Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 67741,
+   "sha256": "cf5eacacd00f5f81c615f45830aed1ed7af06c1d03a906d63662afdfc4f6d778",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24334,
+   "sha256": "def0f5f84c93e79ce83dddb895747187ceb30f02dbf50ce94a6a2b50c83a4c9c",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2405009.png",
+  "bytes": 1553122,
+  "sha256": "4a4fe06406003bd51b9ff737b20144ef119bb011d8d5e9c609bd872f00ae3a70",
+  "sha1": "6e64881b1a8def722a1820f4d6ba973c5c17e7ad"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

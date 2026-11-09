@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4116406",
+ "uf": "PR",
+ "municipio": "Nossa Senhora das Graças",
+ "tipo": "brasao",
+ "origem": "https://nossasenhoradasgracas.pr.gov.br/uploads/pagina/arquivos/BRASAO-MUNICIPIO-DE-NOSSA-SENHORA-DAS-GRACAS.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "83266016557d506683990b69a62c825184d3d5a4c0554398e12fc6fb451a74a6",
+ "sha1_origem": "473af1c8406127f4bd7c0ad349a98a484fcf817f",
+ "bytes_origem": 8838451,
+ "capturado_em": "2026-11-09T03:08:42Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 309288,
+   "sha256": "e279166a57098918d74d6a4f1837156139682d110895b9de5ca54580871a6e91",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 69144,
+   "sha256": "65a225cd41dff7d3c5bf0c55ecd807bf8d17bd695c18887b852d4fd2560874f8",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4116406.png",
+  "bytes": 8838451,
+  "sha256": "83266016557d506683990b69a62c825184d3d5a4c0554398e12fc6fb451a74a6",
+  "sha1": "473af1c8406127f4bd7c0ad349a98a484fcf817f"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

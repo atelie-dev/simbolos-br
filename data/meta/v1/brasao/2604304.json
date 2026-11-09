@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2604304",
+ "uf": "PE",
+ "municipio": "Cedro",
+ "tipo": "brasao",
+ "origem": "https://cedro.pe.gov.br/link/link293.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "852f8db9785c2a9794b6487c2fc5557824decf93d2f9d8812291b26c3ff60115",
+ "sha1_origem": "b7f5fef62f06bf5982c80f78d549e53070b3eda1",
+ "bytes_origem": 79174,
+ "capturado_em": "2026-11-09T03:05:33Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 75659,
+   "sha256": "66c0ed48886bc9d9991049a67f3382af67e9bf76b6e3d14bf91ee277b7d90317",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21302,
+   "sha256": "e48342fde2307826d56a7f8ff206320fdc5bb67e48a037de3d4d43a4163b1f02",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2604304.jpg",
+  "bytes": 79174,
+  "sha256": "852f8db9785c2a9794b6487c2fc5557824decf93d2f9d8812291b26c3ff60115",
+  "sha1": "b7f5fef62f06bf5982c80f78d549e53070b3eda1"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

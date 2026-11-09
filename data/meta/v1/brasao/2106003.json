@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2106003",
+ "uf": "MA",
+ "municipio": "Lima Campos",
+ "tipo": "brasao",
+ "origem": "https://limacampos.ma.gov.br/link/link110.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b356ff3bd9e0dfaf793b18debfb0cc0b0fa1987fd83a91948de2436e5aa30213",
+ "sha1_origem": "794d22b45c69099ed23c22bdbc4cd6a9297f2003",
+ "bytes_origem": 22266,
+ "capturado_em": "2026-11-09T03:01:26Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 83069,
+   "sha256": "591ae69927563bac6ca8ad8022398bc179fbb9e1b9302cf633956dfbe552c577",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18717,
+   "sha256": "6c02f29255c179178877a7aff1365b231ea7c8fefa424e52117cc6aec8ba0045",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2106003.jpg",
+  "bytes": 22266,
+  "sha256": "b356ff3bd9e0dfaf793b18debfb0cc0b0fa1987fd83a91948de2436e5aa30213",
+  "sha1": "794d22b45c69099ed23c22bdbc4cd6a9297f2003"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5107180",
+ "uf": "MT",
+ "municipio": "Ribeirão Cascalheira",
+ "tipo": "brasao",
+ "origem": "https://ribeiraocascalheira.mt.gov.br/arquivos/Brasao/Ano_de_2019/Brasao_Incolor_Mun-Ribeirao-Cascalheira_MT.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "dda5c4995c629c6522220a44acd3472b0686d5d7670f2cf035b76e02cf878178",
+ "sha1_origem": "3194459a02b9550097429b281b5626c5e2f96694",
+ "bytes_origem": 86888,
+ "capturado_em": "2026-11-09T03:04:36Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 232003,
+   "sha256": "e34f50f273a3e584da1ab86a635b5025ba1fa88f46a8b5c8846f9c1e667a4ed9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54209,
+   "sha256": "13add6606c0a5451e25008f625247cfa6e5244f359a251039eeae1588a22e133",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5107180.png",
+  "bytes": 86888,
+  "sha256": "dda5c4995c629c6522220a44acd3472b0686d5d7670f2cf035b76e02cf878178",
+  "sha1": "3194459a02b9550097429b281b5626c5e2f96694"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

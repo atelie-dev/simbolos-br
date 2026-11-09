@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3158953",
+ "uf": "MG",
+ "municipio": "Santana do Paraíso",
+ "tipo": "brasao",
+ "origem": "https://backoffice-api.portalfacil.srv.br/template48/images/brasao.webp",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/webp",
+ "sha256_origem": "bd9d0bd4b9a4bef1b034142e57b32265d6073684689468372cdb534a01617df8",
+ "sha1_origem": "e5605acaf8397e084823a09fc39abb9c72a79f15",
+ "bytes_origem": 7600,
+ "capturado_em": "2026-11-09T03:03:17Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 11238,
+   "sha256": "dedfbcbe482f3ba93cae0dcbd5a2a9f1bf7bbe160edfb225d8c719985b225ea9",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 4940,
+   "sha256": "1dc8b56d12c026d295963c10d982e733835f6003dac4b068f165d318fa29495f",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3158953.webp",
+  "bytes": 7600,
+  "sha256": "bd9d0bd4b9a4bef1b034142e57b32265d6073684689468372cdb534a01617df8",
+  "sha1": "e5605acaf8397e084823a09fc39abb9c72a79f15"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

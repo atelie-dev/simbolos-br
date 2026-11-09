@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1506161",
+ "uf": "PA",
+ "municipio": "Rio Maria",
+ "tipo": "brasao",
+ "origem": "https://riomaria.pa.gov.br/wp-content/uploads/2025/03/BRASAO-RIO-MARIA-883x1024.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "09c97c559f14ffc898f5b1b05079936372bf22b25e8e95e6e3e91a15f91ef37e",
+ "sha1_origem": "c8ba49d99103745647919f56fa7c4008c4ae5c90",
+ "bytes_origem": 246353,
+ "capturado_em": "2026-11-09T03:05:12Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 144249,
+   "sha256": "55960a04a30e0223fc55fca8d261a0633a0e99293469613b4aa71d040f3ce7f8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 49112,
+   "sha256": "0f73c2d4372eb303b0a8424c3ed44b2cec51b98ef19c34c768982371dc6412f4",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1506161.png",
+  "bytes": 246353,
+  "sha256": "09c97c559f14ffc898f5b1b05079936372bf22b25e8e95e6e3e91a15f91ef37e",
+  "sha1": "c8ba49d99103745647919f56fa7c4008c4ae5c90"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

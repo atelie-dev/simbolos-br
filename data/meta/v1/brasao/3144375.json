@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3144375",
+ "uf": "MG",
+ "municipio": "Natalândia",
+ "tipo": "brasao",
+ "origem": "https://natalandia.mg.gov.br/wa_images/brasao_natalandia.fw_1.png?v=1kqe6em",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f1afd989f0cd7efbc3b4d80e1240e09cd67cf733f7201f66c63f51a5ed9fcff3",
+ "sha1_origem": "25ba41da2dc2d63fb810056821c3bdc42b4f1051",
+ "bytes_origem": 22054,
+ "capturado_em": "2026-11-09T03:02:50Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 23819,
+   "sha256": "18352fde1572361a75f0655c4bc552fbee5830d9b0d22cba97a0e6541b79436d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8383,
+   "sha256": "f9f9ded30abc4331c170cdca5db628b38cb719adb41a52e9e98c321a8ffa3872",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3144375.png",
+  "bytes": 22054,
+  "sha256": "f1afd989f0cd7efbc3b4d80e1240e09cd67cf733f7201f66c63f51a5ed9fcff3",
+  "sha1": "25ba41da2dc2d63fb810056821c3bdc42b4f1051"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

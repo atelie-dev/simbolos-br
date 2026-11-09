@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2405900",
+ "uf": "RN",
+ "municipio": "João Dias",
+ "tipo": "bandeira",
+ "origem": "https://joaodias.rn.gov.br/link/link154.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ec70c0bb8f39ad9fa2c60609d1da2e2ecaa73c74083a62bff81dfb040d523ed3",
+ "sha1_origem": "a885244f726c3f3ab6715705fcbea26763beb9be",
+ "bytes_origem": 480054,
+ "capturado_em": "2026-11-09T03:09:52Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 44055,
+   "sha256": "19b9f6d24b08cbe35c2f682d92e16b0b39f14fa4aceaa647196ea06405b8870f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18402,
+   "sha256": "b3440e0094517c60c2d1239170c6d99dfbbbbe7f50a0080f6b073187f1334feb",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2405900.jpg",
+  "bytes": 480054,
+  "sha256": "ec70c0bb8f39ad9fa2c60609d1da2e2ecaa73c74083a62bff81dfb040d523ed3",
+  "sha1": "a885244f726c3f3ab6715705fcbea26763beb9be"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

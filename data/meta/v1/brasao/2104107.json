@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2104107",
+ "uf": "MA",
+ "municipio": "Fortaleza dos Nogueiras",
+ "tipo": "brasao",
+ "origem": "https://fortalezadosnogueiras.ma.gov.br/upload/simbolos/17843.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e01525c14720ba00919c02fdf12e0abd9cd02c93454f711715e531a96b8b204b",
+ "sha1_origem": "fcdec9f90ef874665a87ce39fcd40f27467ab527",
+ "bytes_origem": 1853072,
+ "capturado_em": "2026-11-09T03:01:19Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 95698,
+   "sha256": "f61faed9b7ed830fcdc8c423f0c608bcc37aa8a0744bc7ce2ffe6f999bca8116",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31025,
+   "sha256": "67c63e53ae8d439e9d986a9f5a7756bbba411d51ae6c6fc878ddc872d8bb6723",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2104107.png",
+  "bytes": 1853072,
+  "sha256": "e01525c14720ba00919c02fdf12e0abd9cd02c93454f711715e531a96b8b204b",
+  "sha1": "fcdec9f90ef874665a87ce39fcd40f27467ab527"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

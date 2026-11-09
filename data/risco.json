@@ -1,16 +1,18 @@
 {
- "gerado_em": "2026-11-08T20:12:07Z",
+ "gerado_em": "2026-11-09T03:17:43Z",
  "premissas": [
   "vetor é sempre baixo por decisão (D21)",
   "o SVG publicado é a fonte, byte a byte, e vai versionado em data/vetores",
   "quando ele ainda não está lá, o motivo vetor_versionavel registra a dívida"
  ],
  "resumo": {
-  "itens": 8379,
-  "risco_alto": 68,
+  "itens": 8637,
+  "risco_alto": 326,
   "risco_baixo": 8311,
   "por_motivo": {
-   "licenca_pendente": 69,
+   "licenca_pendente": 327,
+   "nao_verificado": 258,
+   "origem_fora_do_commons": 258,
    "vetor_versionado": 1170
   }
  },
@@ -38,6 +40,97 @@
    ]
   },
   {
+   "codigo_ibge": "2701001",
+   "tipo": "brasao",
+   "uf": "AL",
+   "municipio": "Boca da Mata",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2702553",
+   "tipo": "bandeira",
+   "uf": "AL",
+   "municipio": "Estrela de Alagoas",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2703809",
+   "tipo": "bandeira",
+   "uf": "AL",
+   "municipio": "Joaquim Gomes",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2704005",
+   "tipo": "brasao",
+   "uf": "AL",
+   "municipio": "Junqueiro",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2704609",
+   "tipo": "brasao",
+   "uf": "AL",
+   "municipio": "Maravilha",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2705408",
+   "tipo": "brasao",
+   "uf": "AL",
+   "municipio": "Monteirópolis",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2706422",
+   "tipo": "bandeira",
+   "uf": "AL",
+   "municipio": "Pariconha",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "2707503",
    "tipo": "bandeira",
    "uf": "AL",
@@ -46,6 +139,149 @@
    "espelhos": [],
    "motivo": [
     "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2708808",
+   "tipo": "brasao",
+   "uf": "AL",
+   "municipio": "São Sebastião",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1300086",
+   "tipo": "brasao",
+   "uf": "AM",
+   "municipio": "Anamã",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1300508",
+   "tipo": "brasao",
+   "uf": "AM",
+   "municipio": "Barreirinha",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1301100",
+   "tipo": "brasao",
+   "uf": "AM",
+   "municipio": "Careiro",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1302306",
+   "tipo": "brasao",
+   "uf": "AM",
+   "municipio": "Jutaí",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1303304",
+   "tipo": "brasao",
+   "uf": "AM",
+   "municipio": "Novo Aripuanã",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1303908",
+   "tipo": "brasao",
+   "uf": "AM",
+   "municipio": "São Paulo de Olivença",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1304237",
+   "tipo": "brasao",
+   "uf": "AM",
+   "municipio": "Tonantins",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1304260",
+   "tipo": "brasao",
+   "uf": "AM",
+   "municipio": "Uarini",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1600238",
+   "tipo": "brasao",
+   "uf": "AP",
+   "municipio": "Ferreira Gomes",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1600535",
+   "tipo": "brasao",
+   "uf": "AP",
+   "municipio": "Porto Grande",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
    ]
   },
   {
@@ -60,6 +296,32 @@
    ]
   },
   {
+   "codigo_ibge": "2904852",
+   "tipo": "brasao",
+   "uf": "BA",
+   "municipio": "Cabaceiras do Paraguaçu",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2906105",
+   "tipo": "brasao",
+   "uf": "BA",
+   "municipio": "Canápolis",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "2913200",
    "tipo": "brasao",
    "uf": "BA",
@@ -68,6 +330,19 @@
    "espelhos": [],
    "motivo": [
     "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2914406",
+   "tipo": "brasao",
+   "uf": "BA",
+   "municipio": "Iraquara",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
    ]
   },
   {
@@ -115,6 +390,32 @@
    ]
   },
   {
+   "codigo_ibge": "2919959",
+   "tipo": "brasao",
+   "uf": "BA",
+   "municipio": "Maetinga",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2926400",
+   "tipo": "brasao",
+   "uf": "BA",
+   "municipio": "Riacho de Santana",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "2927101",
    "tipo": "brasao",
    "uf": "BA",
@@ -126,6 +427,97 @@
    ]
   },
   {
+   "codigo_ibge": "2927606",
+   "tipo": "brasao",
+   "uf": "BA",
+   "municipio": "Santa Brígida",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2928901",
+   "tipo": "brasao",
+   "uf": "BA",
+   "municipio": "São Desidério",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2929255",
+   "tipo": "brasao",
+   "uf": "BA",
+   "municipio": "São Gabriel",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2930154",
+   "tipo": "brasao",
+   "uf": "BA",
+   "municipio": "Serra do Ramalho",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2930758",
+   "tipo": "brasao",
+   "uf": "BA",
+   "municipio": "Sítio do Mato",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2300408",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Aiuaba",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2300606",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Altaneira",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "2301000",
    "tipo": "brasao",
    "uf": "CE",
@@ -134,6 +526,201 @@
    "espelhos": [],
    "motivo": [
     "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2301406",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Aratuba",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2301703",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Aurora",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2302008",
+   "tipo": "bandeira",
+   "uf": "CE",
+   "municipio": "Barro",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2302503",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Brejo Santo",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2302701",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Campos Sales",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2303931",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Choró",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2303956",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Chorozinho",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2304285",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Eusébio",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2304459",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Fortim",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2304608",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "General Sampaio",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2304954",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Guaiúba",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2305332",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Ibicuitinga",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2305357",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Icapuí",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2306009",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Iracema",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2306553",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Itarema",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
    ]
   },
   {
@@ -159,6 +746,84 @@
    ]
   },
   {
+   "codigo_ibge": "2308708",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Morada Nova",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2308906",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Morrinhos",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2309102",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Mulungu",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2309409",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Novo Oriente",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2310902",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Piquet Carneiro",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2311207",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Potengi",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "2312700",
    "tipo": "brasao",
    "uf": "CE",
@@ -170,6 +835,656 @@
    ]
   },
   {
+   "codigo_ibge": "2313559",
+   "tipo": "bandeira",
+   "uf": "CE",
+   "municipio": "Tururu",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2313708",
+   "tipo": "brasao",
+   "uf": "CE",
+   "municipio": "Umari",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3204609",
+   "tipo": "brasao",
+   "uf": "ES",
+   "municipio": "Santa Teresa",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3204955",
+   "tipo": "brasao",
+   "uf": "ES",
+   "municipio": "São Roque do Canaã",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5200506",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Aloândia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5201702",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Aragarças",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5203559",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Bonfinópolis",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5204201",
+   "tipo": "bandeira",
+   "uf": "GO",
+   "municipio": "Cachoeira de Goiás",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5204300",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Caçu",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5204557",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Caldazinha",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5205059",
+   "tipo": "bandeira",
+   "uf": "GO",
+   "municipio": "Castelândia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5205307",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Cavalcante",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5205406",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Ceres",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5205497",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Cidade Ocidental",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5206602",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Cumari",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5207402",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Edéia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5207907",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Flores de Goiás",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5209200",
+   "tipo": "bandeira",
+   "uf": "GO",
+   "municipio": "Guapó",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5209291",
+   "tipo": "bandeira",
+   "uf": "GO",
+   "municipio": "Guaraíta",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5209457",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Guarinos",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5209804",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Hidrolina",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5209937",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Inaciolândia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5210158",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Ipiranga de Goiás",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5210406",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Itaberaí",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5210901",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Itapaci",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5212105",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Joviânia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5212808",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Mara Rosa",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5212907",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Marzagão",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5213053",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Mimoso de Goiás",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5213772",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Montividiu do Norte",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5214101",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Mutunópolis",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5214838",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Nova Crixás",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5215009",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Nova Veneza",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5215231",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Novo Gama",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5216452",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Perolândia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5218789",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Rio Quente",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5219258",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Santa Fé de Goiás",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5219738",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Santo Antônio de Goiás",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5219753",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Santo Antônio do Descoberto",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5219902",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "São Francisco de Goiás",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5220264",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "São Miguel do Passa Quatro",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5220280",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "São Patrício",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5220454",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Senador Canedo",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5222005",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Vianópolis",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5222302",
+   "tipo": "brasao",
+   "uf": "GO",
+   "municipio": "Vila Propício",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2100709",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Anajatuba",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2101301",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Bacuri",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2101905",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Bequimão",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2104099",
+   "tipo": "bandeira",
+   "uf": "MA",
+   "municipio": "Formosa da Serra Negra",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2104107",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Fortaleza dos Nogueiras",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "2104552",
    "tipo": "brasao",
    "uf": "MA",
@@ -178,6 +1493,214 @@
    "espelhos": [],
    "motivo": [
     "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2106003",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Lima Campos",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2106201",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Luís Domingues",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2106631",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Matões do Norte",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2107001",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Montes Altos",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2108702",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Pio XII",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2109007",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Porto Franco",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2109270",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Presidente Sarney",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2109551",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Ribamar Fiquene",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2110005",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Santa Luzia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2110856",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "São Francisco do Brejão",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2111052",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "São João do Paraíso",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2111763",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Senador La Rocque",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2111805",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Sítio Novo",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2112001",
+   "tipo": "brasao",
+   "uf": "MA",
+   "municipio": "Tasso Fragoso",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3102704",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Cachoeira de Pajeú",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3111150",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Campo Azul",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
    ]
   },
   {
@@ -214,6 +1737,32 @@
    ]
   },
   {
+   "codigo_ibge": "3132909",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Itamogi",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3136801",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Juramento",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "3136959",
    "tipo": "bandeira",
    "uf": "MG",
@@ -222,6 +1771,188 @@
    "espelhos": [],
    "motivo": [
     "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3138351",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Leme do Prado",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3139250",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Mamonas",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3139706",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Maravilhas",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3140605",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Materlândia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3143609",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Morro da Garça",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3143807",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Munhoz",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3144375",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Natalândia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3145455",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Olhos-d'Água",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3149200",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Pedrinópolis",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3149705",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Perdigão",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3154457",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Riachinho",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3154705",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Ribeirão Vermelho",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3156304",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Rodeiro",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3158607",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Santana do Deserto",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
    ]
   },
   {
@@ -236,6 +1967,84 @@
    ]
   },
   {
+   "codigo_ibge": "3158953",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Santana do Paraíso",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3159704",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Santa Rosa da Serra",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3164803",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "São Sebastião do Rio Preto",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3168200",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Tapiraí",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3171105",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Veríssimo",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3172103",
+   "tipo": "brasao",
+   "uf": "MG",
+   "municipio": "Volta Grande",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "5002902",
    "tipo": "bandeira",
    "uf": "MS",
@@ -247,6 +2056,45 @@
    ]
   },
   {
+   "codigo_ibge": "5003108",
+   "tipo": "brasao",
+   "uf": "MS",
+   "municipio": "Corguinho",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5004601",
+   "tipo": "brasao",
+   "uf": "MS",
+   "municipio": "Itaquiraí",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5004809",
+   "tipo": "brasao",
+   "uf": "MS",
+   "municipio": "Japorã",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "5005251",
    "tipo": "bandeira",
    "uf": "MS",
@@ -255,6 +2103,71 @@
    "espelhos": [],
    "motivo": [
     "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "5006275",
+   "tipo": "brasao",
+   "uf": "MS",
+   "municipio": "Paraíso das Águas",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5007976",
+   "tipo": "brasao",
+   "uf": "MS",
+   "municipio": "Taquarussu",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5100102",
+   "tipo": "brasao",
+   "uf": "MT",
+   "municipio": "Acorizal",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5101605",
+   "tipo": "brasao",
+   "uf": "MT",
+   "municipio": "Barão de Melgaço",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5101852",
+   "tipo": "brasao",
+   "uf": "MT",
+   "municipio": "Bom Jesus do Araguaia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
    ]
   },
   {
@@ -280,6 +2193,58 @@
    ]
   },
   {
+   "codigo_ibge": "5104500",
+   "tipo": "brasao",
+   "uf": "MT",
+   "municipio": "Indiavaí",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5105002",
+   "tipo": "brasao",
+   "uf": "MT",
+   "municipio": "Jauru",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5106240",
+   "tipo": "brasao",
+   "uf": "MT",
+   "municipio": "Nova Ubiratã",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5106455",
+   "tipo": "brasao",
+   "uf": "MT",
+   "municipio": "Planalto da Serra",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "5107008",
    "tipo": "bandeira",
    "uf": "MT",
@@ -288,6 +2253,71 @@
    "espelhos": [],
    "motivo": [
     "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "5107180",
+   "tipo": "brasao",
+   "uf": "MT",
+   "municipio": "Ribeirão Cascalheira",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5107297",
+   "tipo": "bandeira",
+   "uf": "MT",
+   "municipio": "São José do Povo",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5107297",
+   "tipo": "brasao",
+   "uf": "MT",
+   "municipio": "São José do Povo",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5107776",
+   "tipo": "brasao",
+   "uf": "MT",
+   "municipio": "Santa Terezinha",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "5107859",
+   "tipo": "bandeira",
+   "uf": "MT",
+   "municipio": "São Félix do Araguaia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
    ]
   },
   {
@@ -302,6 +2332,19 @@
    ]
   },
   {
+   "codigo_ibge": "1501253",
+   "tipo": "brasao",
+   "uf": "PA",
+   "municipio": "Bannach",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "1502905",
    "tipo": "bandeira",
    "uf": "PA",
@@ -321,6 +2364,71 @@
    "espelhos": [],
    "motivo": [
     "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1505031",
+   "tipo": "brasao",
+   "uf": "PA",
+   "municipio": "Novo Progresso",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1505635",
+   "tipo": "brasao",
+   "uf": "PA",
+   "municipio": "Piçarra",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1506161",
+   "tipo": "brasao",
+   "uf": "PA",
+   "municipio": "Rio Maria",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1506195",
+   "tipo": "brasao",
+   "uf": "PA",
+   "municipio": "Rurópolis",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1506559",
+   "tipo": "brasao",
+   "uf": "PA",
+   "municipio": "Santa Luzia do Pará",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
    ]
   },
   {
@@ -335,6 +2443,19 @@
    ]
   },
   {
+   "codigo_ibge": "1507201",
+   "tipo": "brasao",
+   "uf": "PA",
+   "municipio": "São Domingos do Capim",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "1508100",
    "tipo": "bandeira",
    "uf": "PA",
@@ -343,6 +2464,32 @@
    "espelhos": [],
    "motivo": [
     "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2502409",
+   "tipo": "brasao",
+   "uf": "PB",
+   "municipio": "Bonito de Santa Fé",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2503407",
+   "tipo": "brasao",
+   "uf": "PB",
+   "municipio": "Cacimba de Areia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
    ]
   },
   {
@@ -368,6 +2515,136 @@
    ]
   },
   {
+   "codigo_ibge": "2513307",
+   "tipo": "bandeira",
+   "uf": "PB",
+   "municipio": "Santa Helena",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2514305",
+   "tipo": "brasao",
+   "uf": "PB",
+   "municipio": "São José de Caiana",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2603603",
+   "tipo": "brasao",
+   "uf": "PE",
+   "municipio": "Camutanga",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2604304",
+   "tipo": "brasao",
+   "uf": "PE",
+   "municipio": "Cedro",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2604601",
+   "tipo": "brasao",
+   "uf": "PE",
+   "municipio": "Condado",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2608008",
+   "tipo": "brasao",
+   "uf": "PE",
+   "municipio": "Jataúba",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2608206",
+   "tipo": "brasao",
+   "uf": "PE",
+   "municipio": "Joaquim Nabuco",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2608602",
+   "tipo": "bandeira",
+   "uf": "PE",
+   "municipio": "Lagoa do Ouro",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2609154",
+   "tipo": "brasao",
+   "uf": "PE",
+   "municipio": "Manari",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2609204",
+   "tipo": "brasao",
+   "uf": "PE",
+   "municipio": "Maraial",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "2612554",
    "tipo": "bandeira",
    "uf": "PE",
@@ -376,6 +2653,32 @@
    "espelhos": [],
    "motivo": [
     "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "2614006",
+   "tipo": "brasao",
+   "uf": "PE",
+   "municipio": "Serrita",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2614709",
+   "tipo": "brasao",
+   "uf": "PE",
+   "municipio": "Tacaimbó",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
    ]
   },
   {
@@ -390,6 +2693,201 @@
    ]
   },
   {
+   "codigo_ibge": "2615409",
+   "tipo": "brasao",
+   "uf": "PE",
+   "municipio": "Toritama",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2616100",
+   "tipo": "brasao",
+   "uf": "PE",
+   "municipio": "Verdejante",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2616209",
+   "tipo": "brasao",
+   "uf": "PE",
+   "municipio": "Vertentes",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2201176",
+   "tipo": "brasao",
+   "uf": "PI",
+   "municipio": "Barra D'Alcântara",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2201739",
+   "tipo": "brasao",
+   "uf": "PI",
+   "municipio": "Betânia do Piauí",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2202059",
+   "tipo": "brasao",
+   "uf": "PI",
+   "municipio": "Cabeceiras do Piauí",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2202851",
+   "tipo": "brasao",
+   "uf": "PI",
+   "municipio": "Coronel José Dias",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2203602",
+   "tipo": "brasao",
+   "uf": "PI",
+   "municipio": "Eliseu Martins",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2206605",
+   "tipo": "brasao",
+   "uf": "PI",
+   "municipio": "Monte Alegre do Piauí",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2207900",
+   "tipo": "brasao",
+   "uf": "PI",
+   "municipio": "Pedro II",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2208908",
+   "tipo": "brasao",
+   "uf": "PI",
+   "municipio": "Ribeiro Gonçalves",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "4102703",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Barra do Jacaré",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "4103008",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Boa Esperança",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "4103800",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Cambira",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "4108700",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Grandes Rios",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "4110953",
    "tipo": "brasao",
    "uf": "PR",
@@ -398,6 +2896,19 @@
    "espelhos": [],
    "motivo": [
     "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4111001",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Itambaracá",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
    ]
   },
   {
@@ -467,6 +2978,32 @@
    ]
   },
   {
+   "codigo_ibge": "4115754",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Mauá da Serra",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "4116406",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Nossa Senhora das Graças",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "4119509",
    "tipo": "brasao",
    "uf": "PR",
@@ -489,6 +3026,19 @@
    ]
   },
   {
+   "codigo_ibge": "4120002",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Porecatu",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "4120903",
    "tipo": "bandeira",
    "uf": "PR",
@@ -500,6 +3050,71 @@
    ]
   },
   {
+   "codigo_ibge": "4121257",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Ramilândia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "4121307",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Rancho Alegre",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "4121505",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Rebouças",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "4123857",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Santa Maria do Oeste",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "4124905",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "São João do Caiuá",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "4126256",
    "tipo": "bandeira",
    "uf": "PR",
@@ -508,6 +3123,19 @@
    "espelhos": [],
    "motivo": [
     "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4126702",
+   "tipo": "brasao",
+   "uf": "PR",
+   "municipio": "Tamboara",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
    ]
   },
   {
@@ -643,6 +3271,188 @@
    ]
   },
   {
+   "codigo_ibge": "2401701",
+   "tipo": "bandeira",
+   "uf": "RN",
+   "municipio": "Bom Jesus",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2403707",
+   "tipo": "brasao",
+   "uf": "RN",
+   "municipio": "Felipe Guerra",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2404507",
+   "tipo": "brasao",
+   "uf": "RN",
+   "municipio": "Guamaré",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2405009",
+   "tipo": "bandeira",
+   "uf": "RN",
+   "municipio": "Jaçanã",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2405900",
+   "tipo": "bandeira",
+   "uf": "RN",
+   "municipio": "João Dias",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2410306",
+   "tipo": "brasao",
+   "uf": "RN",
+   "municipio": "Serra Caiada",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2411809",
+   "tipo": "brasao",
+   "uf": "RN",
+   "municipio": "São Fernando",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2411908",
+   "tipo": "brasao",
+   "uf": "RN",
+   "municipio": "São Francisco do Oeste",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2412401",
+   "tipo": "brasao",
+   "uf": "RN",
+   "municipio": "São José do Seridó",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2412906",
+   "tipo": "bandeira",
+   "uf": "RN",
+   "municipio": "São Tomé",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2413706",
+   "tipo": "brasao",
+   "uf": "RN",
+   "municipio": "Sítio Novo",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2413904",
+   "tipo": "brasao",
+   "uf": "RN",
+   "municipio": "Taipu",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "2414159",
+   "tipo": "brasao",
+   "uf": "RN",
+   "municipio": "Tenente Laurentino Cruz",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1100452",
+   "tipo": "brasao",
+   "uf": "RO",
+   "municipio": "Buritis",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "4306320",
    "tipo": "bandeira",
    "uf": "RS",
@@ -665,6 +3475,45 @@
    ]
   },
   {
+   "codigo_ibge": "4314787",
+   "tipo": "brasao",
+   "uf": "RS",
+   "municipio": "Ponte Preta",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "4319307",
+   "tipo": "brasao",
+   "uf": "RS",
+   "municipio": "São Paulo das Missões",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "4320354",
+   "tipo": "brasao",
+   "uf": "RS",
+   "municipio": "Sentinela do Sul",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "4321105",
    "tipo": "bandeira",
    "uf": "RS",
@@ -684,6 +3533,19 @@
    "espelhos": [],
    "motivo": [
     "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4321634",
+   "tipo": "brasao",
+   "uf": "RS",
+   "municipio": "Três Arroios",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
    ]
   },
   {
@@ -720,6 +3582,58 @@
    ]
   },
   {
+   "codigo_ibge": "3500709",
+   "tipo": "brasao",
+   "uf": "SP",
+   "municipio": "Agudos",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3509254",
+   "tipo": "brasao",
+   "uf": "SP",
+   "municipio": "Cajati",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3512001",
+   "tipo": "brasao",
+   "uf": "SP",
+   "municipio": "Colina",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "3515129",
+   "tipo": "brasao",
+   "uf": "SP",
+   "municipio": "Emilianópolis",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "3522703",
    "tipo": "bandeira",
    "uf": "SP",
@@ -739,6 +3653,19 @@
    "espelhos": [],
    "motivo": [
     "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "3532843",
+   "tipo": "brasao",
+   "uf": "SP",
+   "municipio": "Nova Canaã Paulista",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
    ]
   },
   {
@@ -753,6 +3680,240 @@
    ]
   },
   {
+   "codigo_ibge": "3546207",
+   "tipo": "brasao",
+   "uf": "SP",
+   "municipio": "Santa Cruz da Conceição",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1700301",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Aguiarnópolis",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1700707",
+   "tipo": "bandeira",
+   "uf": "TO",
+   "municipio": "Alvorada",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1700707",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Alvorada",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1702158",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Araguanã",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1702406",
+   "tipo": "bandeira",
+   "uf": "TO",
+   "municipio": "Arraias",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1703073",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Barra do Ouro",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1703701",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Brejinho de Nazaré",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1705102",
+   "tipo": "bandeira",
+   "uf": "TO",
+   "municipio": "Chapada da Natividade",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1705607",
+   "tipo": "bandeira",
+   "uf": "TO",
+   "municipio": "Conceição do Tocantins",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1706506",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Darcinópolis",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1708254",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Tabocão",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1708304",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Goianorte",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1709005",
+   "tipo": "bandeira",
+   "uf": "TO",
+   "municipio": "Goiatins",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1709807",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Ipueiras",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1710706",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Itaguatins",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1711803",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Juarina",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1712454",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Luzinópolis",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
    "codigo_ibge": "1714880",
    "tipo": "bandeira",
    "uf": "TO",
@@ -761,6 +3922,201 @@
    "espelhos": [],
    "motivo": [
     "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1715705",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Palmeirante",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1715754",
+   "tipo": "bandeira",
+   "uf": "TO",
+   "municipio": "Palmeirópolis",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1715754",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Palmeirópolis",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1716307",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Pau D'Arco",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1716505",
+   "tipo": "bandeira",
+   "uf": "TO",
+   "municipio": "Pedro Afonso",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1717008",
+   "tipo": "bandeira",
+   "uf": "TO",
+   "municipio": "Pindorama do Tocantins",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1717008",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Pindorama do Tocantins",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1717206",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Piraquê",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1718402",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Presidente Kennedy",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1718659",
+   "tipo": "bandeira",
+   "uf": "TO",
+   "municipio": "Rio da Conceição",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1718709",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Rio dos Bois",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1720200",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "São Miguel do Tocantins",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1720499",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "São Valério",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1721109",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Tocantínia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
+   ]
+  },
+  {
+   "codigo_ibge": "1722081",
+   "tipo": "brasao",
+   "uf": "TO",
+   "municipio": "Wanderlândia",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente",
+    "nao_verificado"
    ]
   }
  ]

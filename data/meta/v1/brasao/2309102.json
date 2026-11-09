@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2309102",
+ "uf": "CE",
+ "municipio": "Mulungu",
+ "tipo": "brasao",
+ "origem": "https://mulungu.ce.gov.br/link/link138.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5204cb3f789b499998959b509755b30461e0f44fcb4a801a84e9c4bf6ed48e2f",
+ "sha1_origem": "367d3926d7271129c28519a583a4c8e89d69ec40",
+ "bytes_origem": 91718,
+ "capturado_em": "2026-11-09T02:58:20Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 87513,
+   "sha256": "e774222ead3a41274f2bb6f802c0a30432310f7132920e6ca62a3818a476c87c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20359,
+   "sha256": "9be0234774748051146a01e871f27d1d53f6ab738327dd8e4311aff8ad406405",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2309102.png",
+  "bytes": 91718,
+  "sha256": "5204cb3f789b499998959b509755b30461e0f44fcb4a801a84e9c4bf6ed48e2f",
+  "sha1": "367d3926d7271129c28519a583a4c8e89d69ec40"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

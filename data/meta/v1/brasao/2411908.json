@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2411908",
+ "uf": "RN",
+ "municipio": "São Francisco do Oeste",
+ "tipo": "brasao",
+ "origem": "https://saofranciscodooeste.rn.gov.br/link/link143.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cf632757344d5a97a79153c89b07a03d6dbeb048bb3a096cb7fd58443aade9b2",
+ "sha1_origem": "3f98d9c8ed732606614f5484ce79ffc62d684f28",
+ "bytes_origem": 103338,
+ "capturado_em": "2026-11-09T03:09:56Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 114777,
+   "sha256": "69e15aa50fb648e92cac1a75e7b637bec7572770ef4ca4ed1e6fe1e139675fe6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32673,
+   "sha256": "714d937ac9d408876930c3bad4b7137179f53a65d9731e8391042cdd3dbaff36",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2411908.jpg",
+  "bytes": 103338,
+  "sha256": "cf632757344d5a97a79153c89b07a03d6dbeb048bb3a096cb7fd58443aade9b2",
+  "sha1": "3f98d9c8ed732606614f5484ce79ffc62d684f28"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

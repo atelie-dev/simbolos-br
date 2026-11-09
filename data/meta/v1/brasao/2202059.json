@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2202059",
+ "uf": "PI",
+ "municipio": "Cabeceiras do Piauí",
+ "tipo": "brasao",
+ "origem": "https://cabeceirasdopiaui.pi.gov.br/wp-content/uploads/2026/08/Brasao_municipal_de_Cabeceiras_do_Piaui.jpeg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a281f5ca6bb23ab02d003f6a3a965fc2cd9423b78a7a6cf8b6487b2560750334",
+ "sha1_origem": "eac67c150ac659498635b1a363013ed0c29dc727",
+ "bytes_origem": 14355,
+ "capturado_em": "2026-11-09T03:08:07Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 78737,
+   "sha256": "67f4c93c79b185acdc86257f7eb707625bf53b1f0b7fa564fde5b6b32908fe54",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18286,
+   "sha256": "8d3a342affb50fad8dea4160494c58efb89b3f3ab9c7bbd11875635d4451f445",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2202059.jpg",
+  "bytes": 14355,
+  "sha256": "a281f5ca6bb23ab02d003f6a3a965fc2cd9423b78a7a6cf8b6487b2560750334",
+  "sha1": "eac67c150ac659498635b1a363013ed0c29dc727"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

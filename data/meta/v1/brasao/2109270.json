@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2109270",
+ "uf": "MA",
+ "municipio": "Presidente Sarney",
+ "tipo": "brasao",
+ "origem": "https://presidentesarney.ma.gov.br/upload/simbolos/52769.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "26ed07d76410ba54866411f55c33b5722a9f437fbc046fc6329304a4c74626fc",
+ "sha1_origem": "641ada8806009651bd380371e23aa5d99068bcb3",
+ "bytes_origem": 1424447,
+ "capturado_em": "2026-11-09T03:01:40Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 291696,
+   "sha256": "8d672a9ae96efde7c902b23f19f1bad070706e43bd0ced2943019452696adfaa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62292,
+   "sha256": "a2db892865aa1c9ed92c5939a36fd0fc6562afe24acaec449a6e802226e2711f",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2109270.png",
+  "bytes": 1424447,
+  "sha256": "26ed07d76410ba54866411f55c33b5722a9f437fbc046fc6329304a4c74626fc",
+  "sha1": "641ada8806009651bd380371e23aa5d99068bcb3"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

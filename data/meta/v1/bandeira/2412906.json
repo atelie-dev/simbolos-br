@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2412906",
+ "uf": "RN",
+ "municipio": "São Tomé",
+ "tipo": "bandeira",
+ "origem": "https://saotome.rn.gov.br/wp-content/uploads/2023/02/bandeira-sao-tome-300x220.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "de33692fe076473ba6864dc894534033340d2e36aa9765caf37dc38e276b0bcc",
+ "sha1_origem": "171484e360fa1b8d76655e543c74eddb422b1b5b",
+ "bytes_origem": 21913,
+ "capturado_em": "2026-11-09T03:09:58Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 23934,
+   "sha256": "a6c4e2839d274167a8dc0a03c2d303b090ffb12e97fed777ba77d5458181f670",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9205,
+   "sha256": "161cc60bcbffd247bbd831d2e7587e0d8c95664f1d4f9b59a77cc48d29e71fcf",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2412906.png",
+  "bytes": 21913,
+  "sha256": "de33692fe076473ba6864dc894534033340d2e36aa9765caf37dc38e276b0bcc",
+  "sha1": "171484e360fa1b8d76655e543c74eddb422b1b5b"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

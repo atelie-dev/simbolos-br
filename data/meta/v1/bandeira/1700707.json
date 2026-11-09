@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1700707",
+ "uf": "TO",
+ "municipio": "Alvorada",
+ "tipo": "bandeira",
+ "origem": "https://alvorada.to.gov.br/wp-content/uploads/2024/10/1205a4b2e4470e6d8e48d2fbc866d894.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "1723a1b2e6e9f32ce56795f7e1742f5fe46af4754db27435861483cfd5d46b30",
+ "sha1_origem": "b58bc860932ec2540bec1965d6d8be7432f7cb6b",
+ "bytes_origem": 54176,
+ "capturado_em": "2026-11-09T03:10:40Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 64322,
+   "sha256": "06dfb533a87c2571a8d1b0f407cf9fcbad0dff709f6e41e8bd6c20b9711ac9b4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22717,
+   "sha256": "bf5d9bd671b552d9533949ce5d10d77655e9fe548ae8f876fd13b8c3a68f7759",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1700707.jpg",
+  "bytes": 54176,
+  "sha256": "1723a1b2e6e9f32ce56795f7e1742f5fe46af4754db27435861483cfd5d46b30",
+  "sha1": "b58bc860932ec2540bec1965d6d8be7432f7cb6b"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

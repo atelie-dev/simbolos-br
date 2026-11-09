@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3138351",
+ "uf": "MG",
+ "municipio": "Leme do Prado",
+ "tipo": "brasao",
+ "origem": "https://digitaliza-institucional.s3.us-east-2.amazonaws.com/municipio-de-leme-do-prado/site/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "685a6b33d25750c8609f452e8a4b7440936d5e6948f13643a2ce0cc012f7f214",
+ "sha1_origem": "327fb0ea750ec5a873beb312c3d0b7841b52888a",
+ "bytes_origem": 314915,
+ "capturado_em": "2026-11-09T03:02:31Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 75686,
+   "sha256": "9853d9e77401b585614d4aa1e83dfab19109f5cf62965d0668beb6b9a44bcd32",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26011,
+   "sha256": "6a7ad4572b584235ce0a65d83e5075d8718db2be9b7da508627646e35d56f231",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3138351.png",
+  "bytes": 314915,
+  "sha256": "685a6b33d25750c8609f452e8a4b7440936d5e6948f13643a2ce0cc012f7f214",
+  "sha1": "327fb0ea750ec5a873beb312c3d0b7841b52888a"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

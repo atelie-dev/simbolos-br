@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3145455",
+ "uf": "MG",
+ "municipio": "Olhos-d'Água",
+ "tipo": "brasao",
+ "origem": "https://www.olhosdagua.mg.gov.br/wp-content/uploads/2026/01/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cf9ec3f7ebbf841c378d2f016e5d85e5cd7e7fd7f34d66e1fc1d2645dae92ee0",
+ "sha1_origem": "75d5ab74ceb78891aabaa8ac563162164bc7c902",
+ "bytes_origem": 1524861,
+ "capturado_em": "2026-11-09T03:02:54Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 277101,
+   "sha256": "aa437f0260cf8492ce4836929bb5fd0d87a947754b7d8e731d41cb9ad4c9a5da",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 71896,
+   "sha256": "7975b74c5ade7309bf8333108735cc6ecbfb2d12964a06eb945df3e6c4fbafd0",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3145455.png",
+  "bytes": 1524861,
+  "sha256": "cf9ec3f7ebbf841c378d2f016e5d85e5cd7e7fd7f34d66e1fc1d2645dae92ee0",
+  "sha1": "75d5ab74ceb78891aabaa8ac563162164bc7c902"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

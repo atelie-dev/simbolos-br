@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1720200",
+ "uf": "TO",
+ "municipio": "São Miguel do Tocantins",
+ "tipo": "brasao",
+ "origem": "https://saomigueldotocantins.to.gov.br/wp-content/uploads/2024/08/Brasao-2.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2378b779352e28e15c7cc863959fc7361a697141ee6bb72a5cc23fcf8a934d05",
+ "sha1_origem": "4e5bc081d0d9da2df98b53bb05c9c686cd6f3f3c",
+ "bytes_origem": 222400,
+ "capturado_em": "2026-11-09T03:11:51Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 169167,
+   "sha256": "ae8cf8fa68f287534b38a8490356a492f014ce2c8acbf7117be6fee5707849e8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54472,
+   "sha256": "7848863216f3ed9a56efd206327880e9912c506e67a0e8987f26b9e03952b930",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1720200.png",
+  "bytes": 222400,
+  "sha256": "2378b779352e28e15c7cc863959fc7361a697141ee6bb72a5cc23fcf8a934d05",
+  "sha1": "4e5bc081d0d9da2df98b53bb05c9c686cd6f3f3c"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

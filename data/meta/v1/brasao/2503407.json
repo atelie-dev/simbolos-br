@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2503407",
+ "uf": "PB",
+ "municipio": "Cacimba de Areia",
+ "tipo": "brasao",
+ "origem": "http://cacimbadeareia.pb.gov.br/admin/tinyfinder/assets/uploads/img/jrulpolz.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "01faf07a6a87026a0401485a9f16e56670d3065e5e4efe74060f8dc79566395a",
+ "sha1_origem": "66ffe3bded0c750d9aa03c9dbe0ca538ca1e4d60",
+ "bytes_origem": 21121,
+ "capturado_em": "2026-11-09T03:05:21Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 35273,
+   "sha256": "b56c63df775de0008aec1edd13f40ab60357daccb26692a2297d4c3fc67fee50",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9194,
+   "sha256": "c2324c3ba0016f941299fef7a56f21874464a75c6077f427cd66c654fac1a60a",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2503407.jpg",
+  "bytes": 21121,
+  "sha256": "01faf07a6a87026a0401485a9f16e56670d3065e5e4efe74060f8dc79566395a",
+  "sha1": "66ffe3bded0c750d9aa03c9dbe0ca538ca1e4d60"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

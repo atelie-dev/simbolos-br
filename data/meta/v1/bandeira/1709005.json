@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1709005",
+ "uf": "TO",
+ "municipio": "Goiatins",
+ "tipo": "bandeira",
+ "origem": "https://goiatins.to.gov.br/wp-content/uploads/2026/04/Bandeira_de_Goiatins.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "dee321b1242c00667c11844bb85f1ced541a98c1d0d8ce0f34ed689322c46f6c",
+ "sha1_origem": "00ac81763741a5b4b26262a2dddb2c5c80d5a45e",
+ "bytes_origem": 98756,
+ "capturado_em": "2026-11-09T03:11:10Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 45438,
+   "sha256": "8621752afcfbb0d2e4f4016c25367a95b0ca4cf0536472868181d7c1a9e2fe68",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20837,
+   "sha256": "f48f1d2973c483590b55e59dc2d1a6670c97ade6dda5ba457d1a7f2d8aebf822",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1709005.png",
+  "bytes": 98756,
+  "sha256": "dee321b1242c00667c11844bb85f1ced541a98c1d0d8ce0f34ed689322c46f6c",
+  "sha1": "00ac81763741a5b4b26262a2dddb2c5c80d5a45e"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

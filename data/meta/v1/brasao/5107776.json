@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5107776",
+ "uf": "MT",
+ "municipio": "Santa Terezinha",
+ "tipo": "brasao",
+ "origem": "https://santaterezinha.mt.gov.br/wp-content/uploads/2021/02/brasao-santa-terezinha.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2cdbb59f4e6f543803590a969ff61d3bde992fe0a23c5193b90173f1c2333da4",
+ "sha1_origem": "e997f7de154904038ba94d8b4249e4d454e1e02c",
+ "bytes_origem": 88956,
+ "capturado_em": "2026-11-09T03:04:47Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 74032,
+   "sha256": "6539a37f33e7acf87b1fecb98c14a24de2549bcb68869e4fcc08197913ca9f81",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23907,
+   "sha256": "44526e758588fe074e1be87f5fafd7528d77d8c7002a48d111f0904ce9a33947",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5107776.png",
+  "bytes": 88956,
+  "sha256": "2cdbb59f4e6f543803590a969ff61d3bde992fe0a23c5193b90173f1c2333da4",
+  "sha1": "e997f7de154904038ba94d8b4249e4d454e1e02c"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5212105",
+ "uf": "GO",
+ "municipio": "Joviânia",
+ "tipo": "brasao",
+ "origem": "https://joviania.go.gov.br/wp-content/uploads/2021/01/WhatsApp-Image-2021-01-14-at-09.30.13-300x200.jpeg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "00592b039860627bac6d238602b13242974f936c29e4ef2423016481405752ad",
+ "sha1_origem": "104497c107253decd2a651bb89888f8ac27ff687",
+ "bytes_origem": 9347,
+ "capturado_em": "2026-11-09T02:59:49Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 55566,
+   "sha256": "d0ae424aca9a89c64f8ae291482e7456bd63676f490b560e0793396835a9d30b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12865,
+   "sha256": "9ffac9018448aae0dbc0845f100e95e0c422796a5afd38f6368a4eedee4cf04a",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5212105.jpg",
+  "bytes": 9347,
+  "sha256": "00592b039860627bac6d238602b13242974f936c29e4ef2423016481405752ad",
+  "sha1": "104497c107253decd2a651bb89888f8ac27ff687"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

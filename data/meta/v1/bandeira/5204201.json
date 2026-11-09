@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5204201",
+ "uf": "GO",
+ "municipio": "Cachoeira de Goiás",
+ "tipo": "bandeira",
+ "origem": "https://cachoeiradegoias.go.gov.br/wp-content/uploads/2026/06/Bandeira-Cc.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "74adf0af3c6c52a34cf365da0fd52f185e1b0ecce3296d38297ac06c4858faab",
+ "sha1_origem": "e830b5fdb6c3eb83a84e490f42c088405a767084",
+ "bytes_origem": 88833,
+ "capturado_em": "2026-11-09T02:58:52Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 27826,
+   "sha256": "ea9bb385a3310580f640699e6f34afe0ac60205324bb26be5f3d8c4f475fbd3b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11701,
+   "sha256": "ac65c474464556f196128762980d9b4e28c65463135c5f8d4150ca0d4e4afd2c",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5204201.png",
+  "bytes": 88833,
+  "sha256": "74adf0af3c6c52a34cf365da0fd52f185e1b0ecce3296d38297ac06c4858faab",
+  "sha1": "e830b5fdb6c3eb83a84e490f42c088405a767084"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

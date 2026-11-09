@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1505635",
+ "uf": "PA",
+ "municipio": "Piçarra",
+ "tipo": "brasao",
+ "origem": "https://picarra.pa.gov.br/wp-content/uploads/2024/01/BRASAO-PICARRA.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d762b8198a40d0aa2fab3a236193b5604f3941dc3f0ae573b60aa914ee97ea18",
+ "sha1_origem": "bbf838f7e28d7ab59752e9df71a101a327e2e627",
+ "bytes_origem": 2186168,
+ "capturado_em": "2026-11-09T03:05:09Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 257732,
+   "sha256": "d7da4c6b4be0ed5efa83ed851d9da12a646fcc2edb8bbb03b65044d39ecc6d08",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 61853,
+   "sha256": "19bed24580c5e58d9117ee396c3fd00400597b9e7a67316c157b78e36713f5d2",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1505635.png",
+  "bytes": 2186168,
+  "sha256": "d762b8198a40d0aa2fab3a236193b5604f3941dc3f0ae573b60aa914ee97ea18",
+  "sha1": "bbf838f7e28d7ab59752e9df71a101a327e2e627"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

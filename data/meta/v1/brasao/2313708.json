@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2313708",
+ "uf": "CE",
+ "municipio": "Umari",
+ "tipo": "brasao",
+ "origem": "https://umari.ce.gov.br/link/link271.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "99153dc7cf0ac9537a53d312b1ce39d874b33235660ae453214976d9360928f5",
+ "sha1_origem": "d8c1ec2730ae769fe7f7da9841476bb8e2976727",
+ "bytes_origem": 49576,
+ "capturado_em": "2026-11-09T02:58:31Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 44463,
+   "sha256": "e0354dcfa8348b6c95c2c4809d1550179f486efc51ae4f48c51171efc46a4489",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23109,
+   "sha256": "94047538816c819d82f507c6e7bd9990ad2570b3c10b3a6816f7326cbda7bd05",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2313708.png",
+  "bytes": 49576,
+  "sha256": "99153dc7cf0ac9537a53d312b1ce39d874b33235660ae453214976d9360928f5",
+  "sha1": "d8c1ec2730ae769fe7f7da9841476bb8e2976727"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

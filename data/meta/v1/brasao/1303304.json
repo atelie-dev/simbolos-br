@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1303304",
+ "uf": "AM",
+ "municipio": "Novo Aripuanã",
+ "tipo": "brasao",
+ "origem": "https://novoaripuana.am.gov.br/wp-content/uploads/2026/04/brasao-n-aripuana-512-512-300x300-1.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "2ac9da6529ed356b2b06e3dadc7c32ec154952f4f5ee24e9938bac92f24d5977",
+ "sha1_origem": "02ba496c99449e62d6a99673e0b16b0a6f20d121",
+ "bytes_origem": 119239,
+ "capturado_em": "2026-11-09T02:56:40Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 120815,
+   "sha256": "2d21421bc989ce2fb9b97bf8250eb88dd8bc1a7ec3d281c581621913d78bfb80",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24576,
+   "sha256": "d7dd8092f9e48af549bc7ae659e7bd4d4eb5c9d0b3744d34e8bea569a0d435c8",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1303304.png",
+  "bytes": 119239,
+  "sha256": "2ac9da6529ed356b2b06e3dadc7c32ec154952f4f5ee24e9938bac92f24d5977",
+  "sha1": "02ba496c99449e62d6a99673e0b16b0a6f20d121"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

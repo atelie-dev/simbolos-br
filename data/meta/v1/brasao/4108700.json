@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4108700",
+ "uf": "PR",
+ "municipio": "Grandes Rios",
+ "tipo": "brasao",
+ "origem": "https://www.grandesrios.pr.gov.br/img/brasao_grios.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0230da4df4028a8adf6b4f18c5d14ea0ed9c8486648a4ff7f31b6f25d16e7e0a",
+ "sha1_origem": "00f2a450afb688380f756a62a5dd985057b5907c",
+ "bytes_origem": 109370,
+ "capturado_em": "2026-11-09T03:08:29Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 143188,
+   "sha256": "007133871a7d3d92b092e6257b7752a63c18d31837776452f8acd92fc18ce3f4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44993,
+   "sha256": "92aa4b982ae414b6e5051272df66c483e0d214cee4c54fefe029f3eb315216ec",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4108700.png",
+  "bytes": 109370,
+  "sha256": "0230da4df4028a8adf6b4f18c5d14ea0ed9c8486648a4ff7f31b6f25d16e7e0a",
+  "sha1": "00f2a450afb688380f756a62a5dd985057b5907c"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

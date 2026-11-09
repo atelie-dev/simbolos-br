@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1300086",
+ "uf": "AM",
+ "municipio": "Anamã",
+ "tipo": "brasao",
+ "origem": "https://anama.am.gov.br/wp-content/uploads/2025/02/cropped-Design-sem-nome-1.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d7c03039483582ad2422c6db6d8cf5a600cbd6f63f6305d73620b053e4b245ef",
+ "sha1_origem": "ca88a3efda6db013877bd5974f781878427476d4",
+ "bytes_origem": 201398,
+ "capturado_em": "2026-11-09T02:56:29Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 217217,
+   "sha256": "41e401ef1292d903b957117d2d425320acf0277e3ff8805846fff937854c5089",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 50423,
+   "sha256": "3eaec790f994d08bc26394cc2635078d88de94b0b888b349dae1fe42fd80c97d",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1300086.png",
+  "bytes": 201398,
+  "sha256": "d7c03039483582ad2422c6db6d8cf5a600cbd6f63f6305d73620b053e4b245ef",
+  "sha1": "ca88a3efda6db013877bd5974f781878427476d4"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

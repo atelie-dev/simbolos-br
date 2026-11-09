@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5101852",
+ "uf": "MT",
+ "municipio": "Bom Jesus do Araguaia",
+ "tipo": "brasao",
+ "origem": "https://bomjesusdoaraguaia.mt.gov.br/arquivos/Brasao/GWS_Brasao-de-Bom-Jesus-do-Araguaia_Prefeitura-de-BJA.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "714339d908d57ca2a243170513354846de17ed368b9d3e1120a59985c273d134",
+ "sha1_origem": "adb5ac811c223302624e3e85d29dd894fb80246b",
+ "bytes_origem": 551958,
+ "capturado_em": "2026-11-09T03:04:10Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 204827,
+   "sha256": "150f94b2f8f7857323fc8b2bea0893e13173fa3be9223fede8171931cd523200",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 44130,
+   "sha256": "f4aa1ab2808a9078b62c2683d10658c734712a31fabbb58ed672d2604dd2459c",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5101852.png",
+  "bytes": 551958,
+  "sha256": "714339d908d57ca2a243170513354846de17ed368b9d3e1120a59985c273d134",
+  "sha1": "adb5ac811c223302624e3e85d29dd894fb80246b"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

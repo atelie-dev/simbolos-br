@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2706422",
+ "uf": "AL",
+ "municipio": "Pariconha",
+ "tipo": "bandeira",
+ "origem": "https://pariconha.al.gov.br/wp-content/uploads/2024/04/bandeira.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3c022e74f6928c2c8d042790c20cb0f10374806ac3f6988d102c4fdcfffc0f13",
+ "sha1_origem": "51607d4484f5d29d6abea0590be102858dcc24d5",
+ "bytes_origem": 21523,
+ "capturado_em": "2026-11-09T02:56:26Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 21858,
+   "sha256": "89616d9bb3887439e58818d3baf9612595c8d2e96a0f1c102537ffbdd4a24570",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12247,
+   "sha256": "ee07cb32ab8c51c7f16794accdb002c76d06160fc33609404af50be4253caf77",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2706422.png",
+  "bytes": 21523,
+  "sha256": "3c022e74f6928c2c8d042790c20cb0f10374806ac3f6988d102c4fdcfffc0f13",
+  "sha1": "51607d4484f5d29d6abea0590be102858dcc24d5"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

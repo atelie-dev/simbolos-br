@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1715754",
+ "uf": "TO",
+ "municipio": "Palmeirópolis",
+ "tipo": "bandeira",
+ "origem": "https://palmeiropolis.to.gov.br/wp-content/uploads/2025/01/images.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4f50069b89bf3c0b5736ff3f4fe117ca1e11fbf84b51d3fc35e30dd8f7950335",
+ "sha1_origem": "f74f34dee96f31ec67f5e743f470b8337909aea1",
+ "bytes_origem": 9525,
+ "capturado_em": "2026-11-09T03:11:33Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 47652,
+   "sha256": "dcd3d83f22a63feb9deefeb556d87dd32a93b06376a232bc073d0cfeed11626b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14434,
+   "sha256": "c2ee1e00bf3660146530cc919852dcdb22cab5a641b33b3bd140dda0b423fe7e",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1715754.jpg",
+  "bytes": 9525,
+  "sha256": "4f50069b89bf3c0b5736ff3f4fe117ca1e11fbf84b51d3fc35e30dd8f7950335",
+  "sha1": "f74f34dee96f31ec67f5e743f470b8337909aea1"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2308708",
+ "uf": "CE",
+ "municipio": "Morada Nova",
+ "tipo": "brasao",
+ "origem": "https://moradanova.ce.gov.br/link/link199.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "426191f7932ee1b7e67c5f339b0f6e44ed2d11994d30db06b78eac1252b4f217",
+ "sha1_origem": "5681aadcc7c529dfca2331b0a09aa3d95e9be5a6",
+ "bytes_origem": 140322,
+ "capturado_em": "2026-11-09T02:58:17Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 119233,
+   "sha256": "5f4852f7ecba9635f913ebbeb1588b8cc7d0e598c7144162c1cedd1c560e27f5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35531,
+   "sha256": "ebd312c98d7e15a0ec8251e830a5897b29da0c960fe076da06ba8cd2520cd63c",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2308708.png",
+  "bytes": 140322,
+  "sha256": "426191f7932ee1b7e67c5f339b0f6e44ed2d11994d30db06b78eac1252b4f217",
+  "sha1": "5681aadcc7c529dfca2331b0a09aa3d95e9be5a6"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

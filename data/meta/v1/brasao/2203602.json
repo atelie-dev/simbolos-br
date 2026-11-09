@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2203602",
+ "uf": "PI",
+ "municipio": "Eliseu Martins",
+ "tipo": "brasao",
+ "origem": "http://eliseumartins.pi.gov.br/wp-content/uploads/2020/08/BRASAO-ELISEU-MARTINS-PIAUI.jpeg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e9af6fa911c007e66431d98504faf8bfd83e0b7da21819596ab932a1734b5c67",
+ "sha1_origem": "3b288c2f8e978fa822f82421f0bfc2a1a538d96e",
+ "bytes_origem": 84265,
+ "capturado_em": "2026-11-09T03:08:13Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 220671,
+   "sha256": "d2cdfaa693cc17352df209d67e136dcc5bccf7db6345dc7588ad50de95cc3ef2",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41766,
+   "sha256": "bfe38364912a8de23896573d8bcc5f294ee19681e6da13784c2ff7fa68eee607",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2203602.jpg",
+  "bytes": 84265,
+  "sha256": "e9af6fa911c007e66431d98504faf8bfd83e0b7da21819596ab932a1734b5c67",
+  "sha1": "3b288c2f8e978fa822f82421f0bfc2a1a538d96e"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

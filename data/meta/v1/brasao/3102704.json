@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3102704",
+ "uf": "MG",
+ "municipio": "Cachoeira de Pajeú",
+ "tipo": "brasao",
+ "origem": "https://digitaliza-institucional.s3.us-east-2.amazonaws.com/municipio-de-cachoeira-de-pajeu/site/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c2560231a968fa616b701c880e2c9247cbdb6d98789e8def66ba96cb5781a8ae",
+ "sha1_origem": "fea7fa9e12ef452b6172ade805264aee04575e43",
+ "bytes_origem": 14097,
+ "capturado_em": "2026-11-09T03:02:01Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 13537,
+   "sha256": "139be896caec44942b91d4f198a3f6c600ad9f24477f03ef8290e37bc5d7f434",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8392,
+   "sha256": "448702dca4affadba261c56f474ab5883effa4f3a6f02336f7325e9d1d78a437",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3102704.png",
+  "bytes": 14097,
+  "sha256": "c2560231a968fa616b701c880e2c9247cbdb6d98789e8def66ba96cb5781a8ae",
+  "sha1": "fea7fa9e12ef452b6172ade805264aee04575e43"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

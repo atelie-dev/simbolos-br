@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5200506",
+ "uf": "GO",
+ "municipio": "Aloândia",
+ "tipo": "brasao",
+ "origem": "https://aloandia.go.gov.br/wp-content/uploads/2024/05/brasao-logo.jpeg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "18a25f951beebc356d238a9247af66387292e3edb9e8fd3d22510f7bceda8a74",
+ "sha1_origem": "8508967d6a4889062f0da9d8e1b4d284e2ead5f3",
+ "bytes_origem": 31411,
+ "capturado_em": "2026-11-09T02:58:41Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 114584,
+   "sha256": "6f98d385fb412ce9b7cdb845fc655d7c3b2e07229c23accd5edf242bb70702be",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22721,
+   "sha256": "9a316cbe03887225a59099760fdb3ecd88b65110e44e90de28c68191dc293889",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5200506.jpg",
+  "bytes": 31411,
+  "sha256": "18a25f951beebc356d238a9247af66387292e3edb9e8fd3d22510f7bceda8a74",
+  "sha1": "8508967d6a4889062f0da9d8e1b4d284e2ead5f3"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

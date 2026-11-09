@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1715754",
+ "uf": "TO",
+ "municipio": "Palmeirópolis",
+ "tipo": "brasao",
+ "origem": "https://palmeiropolis.to.gov.br/wp-content/uploads/2025/01/Imagem-do-WhatsApp-de-2025-01-07-as-16.00.52_7b165f07.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0d4bf33b0140f83b518d65a78a83fec01a1ecbe19761e6c1a7351ba6e7b48d4f",
+ "sha1_origem": "ceeb74862286f679544c3bb6326faef74fa90f65",
+ "bytes_origem": 14064,
+ "capturado_em": "2026-11-09T03:11:32Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 54109,
+   "sha256": "e24cdd1aec7b879357f799d07fcf10ee2d45edfd1a0223ed6eda1ffb636bf2f3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10802,
+   "sha256": "4f9c9eb6e04f6e410198a5be410ef8e0242c68221c5d6298e6a89f39375457cb",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1715754.jpg",
+  "bytes": 14064,
+  "sha256": "0d4bf33b0140f83b518d65a78a83fec01a1ecbe19761e6c1a7351ba6e7b48d4f",
+  "sha1": "ceeb74862286f679544c3bb6326faef74fa90f65"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

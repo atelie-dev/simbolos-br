@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1302306",
+ "uf": "AM",
+ "municipio": "Jutaí",
+ "tipo": "brasao",
+ "origem": "https://jutai.am.gov.br/wp-content/uploads/2024/01/brasao-jutai-512-512-300x300.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "68fcf76142d613129661cf51505d4a2e839a78619fb614d9bd7cf569a1dc2667",
+ "sha1_origem": "266a48789fe28e6b901dcc3045b18fabf9253e62",
+ "bytes_origem": 158909,
+ "capturado_em": "2026-11-09T02:56:36Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 161682,
+   "sha256": "5cfcb609ed85f3fedae0cbccfb544d8e3842ceb10859fd789ecdddfa07dae5b1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 35281,
+   "sha256": "c48513a6dfc2f336482a978bfcf10d0f0c38b013d257d7d4da35412d7d3cd204",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1302306.png",
+  "bytes": 158909,
+  "sha256": "68fcf76142d613129661cf51505d4a2e839a78619fb614d9bd7cf569a1dc2667",
+  "sha1": "266a48789fe28e6b901dcc3045b18fabf9253e62"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

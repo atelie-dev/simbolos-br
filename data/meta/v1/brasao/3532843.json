@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3532843",
+ "uf": "SP",
+ "municipio": "Nova Canaã Paulista",
+ "tipo": "brasao",
+ "origem": "https://novacanaapaulista.sp.gov.br/wp-content/uploads/2021/05/Brasao-Copia-1.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cd6186fdd58c88d5480b4c2c9d09d221fd15bfe3ab8d4763344770c452e3846a",
+ "sha1_origem": "2cbbb2c67cd3896b5bfdc50e47f5d9e376f7d391",
+ "bytes_origem": 10668,
+ "capturado_em": "2026-11-09T03:10:32Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 35607,
+   "sha256": "2eb639ec282f119a86c53154208232233244122b4a98e8138d137e85ddbb96c4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10701,
+   "sha256": "c73b05a3804c6218620111f6ec7946c756898d9b24ccbf0eaaccdfd1ab50faa8",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3532843.png",
+  "bytes": 10668,
+  "sha256": "cd6186fdd58c88d5480b4c2c9d09d221fd15bfe3ab8d4763344770c452e3846a",
+  "sha1": "2cbbb2c67cd3896b5bfdc50e47f5d9e376f7d391"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

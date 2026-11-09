@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5210901",
+ "uf": "GO",
+ "municipio": "Itapaci",
+ "tipo": "brasao",
+ "origem": "https://itapaci.go.gov.br/wp-content/uploads/2019/07/Itapaci.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "026f353e8830b60bc60e51278eea78871fc6703363d103961cc8b5dcfc45ecba",
+ "sha1_origem": "47b684215aaf90d8d4881aeacb27131d481b31f9",
+ "bytes_origem": 40179,
+ "capturado_em": "2026-11-09T02:59:47Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 190290,
+   "sha256": "b455189074ff0f955496b27562952a402af8da177b2370b211389df7878f6ce4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37111,
+   "sha256": "d4472afd1ce342a77a4f1c0d25acc6ad80fdcddcd544f4287bfbf75d80b4c154",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5210901.jpg",
+  "bytes": 40179,
+  "sha256": "026f353e8830b60bc60e51278eea78871fc6703363d103961cc8b5dcfc45ecba",
+  "sha1": "47b684215aaf90d8d4881aeacb27131d481b31f9"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

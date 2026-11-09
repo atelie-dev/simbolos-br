@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1721109",
+ "uf": "TO",
+ "municipio": "Tocantínia",
+ "tipo": "brasao",
+ "origem": "https://www.tocantinia.to.gov.br/storage/empresa_params/2025/03/brasao-15.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "e65d5ee7b4573ba8022d30976d77dc023c3598b6a825ce7b16f3f58a91639bb7",
+ "sha1_origem": "9ce753aa8ac65c122e610e84fafbac65fd10b5f5",
+ "bytes_origem": 79291,
+ "capturado_em": "2026-11-09T03:11:55Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 81925,
+   "sha256": "151dd239e2f95b409549bd9a0a735003421853a09ef31cf849a7b82ab2f4c940",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 37921,
+   "sha256": "eb43dea68618d11cb7efd7b4a0eb8044c2169f9834d88a2d2babf63f4b1b4f43",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1721109.png",
+  "bytes": 79291,
+  "sha256": "e65d5ee7b4573ba8022d30976d77dc023c3598b6a825ce7b16f3f58a91639bb7",
+  "sha1": "9ce753aa8ac65c122e610e84fafbac65fd10b5f5"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

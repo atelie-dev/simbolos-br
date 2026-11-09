@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1708254",
+ "uf": "TO",
+ "municipio": "Tabocão",
+ "tipo": "brasao",
+ "origem": "https://pejqrytqvgwnjdcxjarm.supabase.co/storage/v1/object/public/logos/logo_1778391871855.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "2acaf07886058545449da16418997d4bdacc7b98d5d2648d8100116679459a4d",
+ "sha1_origem": "8a65e242ea7a112016b94988c8ebb85c2c36ebde",
+ "bytes_origem": 32954,
+ "capturado_em": "2026-11-09T03:11:06Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 137791,
+   "sha256": "5028d19367e0169336df5531de1fbf048147d9c12d21d0d55e325e6533313bfb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27779,
+   "sha256": "44242591e409c7fc4a45ba67a29502ea82236c44372cad3f9226f99c33e15f1c",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1708254.jpg",
+  "bytes": 32954,
+  "sha256": "2acaf07886058545449da16418997d4bdacc7b98d5d2648d8100116679459a4d",
+  "sha1": "8a65e242ea7a112016b94988c8ebb85c2c36ebde"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

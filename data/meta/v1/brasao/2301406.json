@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2301406",
+ "uf": "CE",
+ "municipio": "Aratuba",
+ "tipo": "brasao",
+ "origem": "https://aratuba.ce.gov.br/link/link271.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "65351f7c965ba32b95841a03700f6c2e042279101fdca7f9b73b59fa200201d2",
+ "sha1_origem": "299b84694308235045720b4012343cbb243eba0a",
+ "bytes_origem": 65964,
+ "capturado_em": "2026-11-09T02:57:47Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 66514,
+   "sha256": "3404066909f6a74f41712928090aa941efbfbaabcb2dc2dd909d920ebd6185ce",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21237,
+   "sha256": "217c4a26ccdc7dee8465026a6e90b1b4d0962d86d754b14291877d84380c2d99",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2301406.png",
+  "bytes": 65964,
+  "sha256": "65351f7c965ba32b95841a03700f6c2e042279101fdca7f9b73b59fa200201d2",
+  "sha1": "299b84694308235045720b4012343cbb243eba0a"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5105002",
+ "uf": "MT",
+ "municipio": "Jauru",
+ "tipo": "brasao",
+ "origem": "https://jauru.mt.gov.br/arquivos/Brasao/mt-jauru-brasao.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b6a117679a2d8bcf0be6fefb566a882db5ce6be3e079d994b06d94b4adcaa15a",
+ "sha1_origem": "3dde4d1d4a0e6df7722b7c46ba56603d9cd73f30",
+ "bytes_origem": 22771,
+ "capturado_em": "2026-11-09T03:04:15Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 43501,
+   "sha256": "40b153d68187db50e10caebcaed146da73682c2a60348542fbfbb82147f7a113",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 9856,
+   "sha256": "fc313b16596a1fd3c5ec82031fde0183ca2e791b7bb6cc948ca481e919df46b0",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5105002.jpg",
+  "bytes": 22771,
+  "sha256": "b6a117679a2d8bcf0be6fefb566a882db5ce6be3e079d994b06d94b4adcaa15a",
+  "sha1": "3dde4d1d4a0e6df7722b7c46ba56603d9cd73f30"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

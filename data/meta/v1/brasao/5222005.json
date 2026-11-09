@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5222005",
+ "uf": "GO",
+ "municipio": "Vianópolis",
+ "tipo": "brasao",
+ "origem": "https://vianopolis.go.gov.br/wp-content/uploads/2022/11/BRASAO-VIANOPOLIS-1024x847.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b1e747d7cca3eb11e50e4b23c9a86cdca6ed70e6bb4765ec6bc5a4f7a3cc544c",
+ "sha1_origem": "e32ac4eec6cc179f9fe5187bc2341f258e237307",
+ "bytes_origem": 356090,
+ "capturado_em": "2026-11-09T03:01:02Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 177386,
+   "sha256": "80445492917fe04a732a4e7d2853ed3093a7e4339f4391ba990d6cdbedd28742",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 52166,
+   "sha256": "3743aa9ec1c0867696f1740f64b6c853a6cf2ad13d50d233958ac0860d2703b9",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5222005.png",
+  "bytes": 356090,
+  "sha256": "b1e747d7cca3eb11e50e4b23c9a86cdca6ed70e6bb4765ec6bc5a4f7a3cc544c",
+  "sha1": "e32ac4eec6cc179f9fe5187bc2341f258e237307"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

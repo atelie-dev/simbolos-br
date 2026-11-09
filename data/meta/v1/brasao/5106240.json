@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5106240",
+ "uf": "MT",
+ "municipio": "Nova Ubiratã",
+ "tipo": "brasao",
+ "origem": "https://novaubirata.mt.gov.br/arquivos/2024/07/05/brasao_pref_nova-ubirata.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "788461c79c25de80773bd063630d6166806890ee9650697f5a3e7e8ab8b74449",
+ "sha1_origem": "e2c93f4322fc645ec84963a7abab01e41b300b8b",
+ "bytes_origem": 41300,
+ "capturado_em": "2026-11-09T03:04:23Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 47245,
+   "sha256": "fa00b64df9bcea07e7b11b67541ec12044717318c35b84899071e692f1d2c077",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8916,
+   "sha256": "f9d86fabeb368ca1468397c88f12e44055d408d081b3c13ad05100eab293f5a9",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5106240.png",
+  "bytes": 41300,
+  "sha256": "788461c79c25de80773bd063630d6166806890ee9650697f5a3e7e8ab8b74449",
+  "sha1": "e2c93f4322fc645ec84963a7abab01e41b300b8b"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

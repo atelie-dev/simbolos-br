@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5219902",
+ "uf": "GO",
+ "municipio": "São Francisco de Goiás",
+ "tipo": "brasao",
+ "origem": "https://saofranciscodegoias.go.gov.br/wp-content/uploads/2022/01/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "5a2674db6c48324506d103eae0827ac2ac854c805c1fca72749c0e1cef53feb0",
+ "sha1_origem": "e50a1feb21fcd82153dcc0edb5c3ebcc704f74d3",
+ "bytes_origem": 358772,
+ "capturado_em": "2026-11-09T03:00:48Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 236190,
+   "sha256": "9c2f3cf370d910b7f92d041bb705bf04f10a1d0860f880def6bc4c638498cfba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 53659,
+   "sha256": "3f3cc2326c61d5b0c3d5795942c942f1c775e45108381e6f1711a4853444a5b1",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5219902.png",
+  "bytes": 358772,
+  "sha256": "5a2674db6c48324506d103eae0827ac2ac854c805c1fca72749c0e1cef53feb0",
+  "sha1": "e50a1feb21fcd82153dcc0edb5c3ebcc704f74d3"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

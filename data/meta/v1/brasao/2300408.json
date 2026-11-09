@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2300408",
+ "uf": "CE",
+ "municipio": "Aiuaba",
+ "tipo": "brasao",
+ "origem": "https://aiuaba.ce.gov.br/link/link172.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "039999096b3603657fefea2a7439c67115ccfea3adbfd05f0377a18b9d669b4f",
+ "sha1_origem": "160d08be918cac36ad33f97fbf7f35f6568b60f8",
+ "bytes_origem": 480054,
+ "capturado_em": "2026-11-09T02:57:44Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 59210,
+   "sha256": "65a2c128d5239502425a4597d0e292674dc7bb08d76163b944f0e37e77184c0a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 28624,
+   "sha256": "7b74eb5bd7ed293e71ad07c11dcf7b157a13fc891505360a656bc43115a9cc0f",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2300408.jpg",
+  "bytes": 480054,
+  "sha256": "039999096b3603657fefea2a7439c67115ccfea3adbfd05f0377a18b9d669b4f",
+  "sha1": "160d08be918cac36ad33f97fbf7f35f6568b60f8"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3171105",
+ "uf": "MG",
+ "municipio": "Veríssimo",
+ "tipo": "brasao",
+ "origem": "https://verissimo.mg.gov.br/assets/img/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "b5658e8324bbd5765a091a1872841766f1108b51c5f22494d9008b219c726d44",
+ "sha1_origem": "c855a4cea08150aaaa0c7ba4f3cecde55977d18f",
+ "bytes_origem": 89322,
+ "capturado_em": "2026-11-09T03:03:44Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 23517,
+   "sha256": "32fe1a6b0c4462325b3308155d0f2207dbc6bf2b38ecf6505ac068938cb27038",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8356,
+   "sha256": "46be21eec46a9c6c25c7fbde726baec2886598d266c794e06c997ee760d87793",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3171105.png",
+  "bytes": 89322,
+  "sha256": "b5658e8324bbd5765a091a1872841766f1108b51c5f22494d9008b219c726d44",
+  "sha1": "c855a4cea08150aaaa0c7ba4f3cecde55977d18f"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

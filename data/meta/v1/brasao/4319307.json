@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4319307",
+ "uf": "RS",
+ "municipio": "São Paulo das Missões",
+ "tipo": "brasao",
+ "origem": "https://www.saopaulodasmissoes.rs.gov.br/site/Brasoes/210/cabecalho.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cc6b3894367b2c78f3742d744bbc042180f89cb2156d3420cf992dfd280fef2f",
+ "sha1_origem": "b197d1c34dc623195251cdbe9a0a582905c8aeec",
+ "bytes_origem": 2193283,
+ "capturado_em": "2026-11-09T03:10:14Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 294733,
+   "sha256": "ce9fc520fb6add7de32c170691456926403f021c47a1e04372227103523db012",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 65481,
+   "sha256": "aa45dd6e3328b271e00bb5243ca3d2b531c8e7314f4a341c30a3da1c125fcd0a",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4319307.png",
+  "bytes": 2193283,
+  "sha256": "cc6b3894367b2c78f3742d744bbc042180f89cb2156d3420cf992dfd280fef2f",
+  "sha1": "b197d1c34dc623195251cdbe9a0a582905c8aeec"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3164803",
+ "uf": "MG",
+ "municipio": "São Sebastião do Rio Preto",
+ "tipo": "brasao",
+ "origem": "https://saosebastiaodoriopreto.mg.gov.br/images/brasao.jpeg?1690985782",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "44c77bbf8355b38f5f67d72a3000b426d70d863160bfbf22e8d39e690bd71557",
+ "sha1_origem": "0f206d68ee7de50f0a4ab6a2a41b4a9f8ef4f2f8",
+ "bytes_origem": 86564,
+ "capturado_em": "2026-11-09T03:03:28Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 241643,
+   "sha256": "d614a5b9b53ca1b7a5fa9fc1122f6f2c18b201ef4d87b226415ced7dfa15bb51",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 54703,
+   "sha256": "78000a5ee9ecb32379e4d28914ae6d31aacce1f4c9e286ae7eb400027f3d2b52",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3164803.jpg",
+  "bytes": 86564,
+  "sha256": "44c77bbf8355b38f5f67d72a3000b426d70d863160bfbf22e8d39e690bd71557",
+  "sha1": "0f206d68ee7de50f0a4ab6a2a41b4a9f8ef4f2f8"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

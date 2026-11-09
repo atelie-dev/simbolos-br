@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2306553",
+ "uf": "CE",
+ "municipio": "Itarema",
+ "tipo": "brasao",
+ "origem": "https://itarema.ce.gov.br/link/link207.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5a132953e5f8780a71bf2a377683246b15f69cd09a20b324c8c3af7b257e8065",
+ "sha1_origem": "7bee72ea8e460fe3391ee00456bd7866b95fc694",
+ "bytes_origem": 105371,
+ "capturado_em": "2026-11-09T02:58:15Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 81744,
+   "sha256": "da3eb0b38a8b9038075873a8edc67290fc99e8d9d556e4255cca0537b36fa246",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25377,
+   "sha256": "569891622368fdca17b8e6fa77a5f47f074bd2abf5edb2acc1bb280f0c42effb",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2306553.jpg",
+  "bytes": 105371,
+  "sha256": "5a132953e5f8780a71bf2a377683246b15f69cd09a20b324c8c3af7b257e8065",
+  "sha1": "7bee72ea8e460fe3391ee00456bd7866b95fc694"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

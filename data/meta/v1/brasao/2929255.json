@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2929255",
+ "uf": "BA",
+ "municipio": "São Gabriel",
+ "tipo": "brasao",
+ "origem": "https://saogabriel.ba.gov.br/wp-content/uploads/2025/02/Bandeira_de_Sao_Gabriel_Bahia-768x559-1.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4dcb35176555b28415eb095452e209a8f417f01e2de4cb9eb9b6d4d69548fa75",
+ "sha1_origem": "7a1a2784e34bee0ce8b79ec12852824d8b9886a9",
+ "bytes_origem": 33452,
+ "capturado_em": "2026-11-09T02:57:39Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 93618,
+   "sha256": "3c2cd8b321d9abdd8a11d699184c96c269badb36210c194116a498b8cc7e7f97",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 24477,
+   "sha256": "8caf217bdd920a633eb191f7bfb4a35abdddbb921eda2e6a7c68c8ae10317233",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2929255.jpg",
+  "bytes": 33452,
+  "sha256": "4dcb35176555b28415eb095452e209a8f417f01e2de4cb9eb9b6d4d69548fa75",
+  "sha1": "7a1a2784e34bee0ce8b79ec12852824d8b9886a9"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

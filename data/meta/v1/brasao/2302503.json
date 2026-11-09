@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2302503",
+ "uf": "CE",
+ "municipio": "Brejo Santo",
+ "tipo": "brasao",
+ "origem": "https://www.brejosanto.ce.gov.br/wp-content/uploads/2021/10/SIMBOLO.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "64cf44d1f3c34ee410df0d15fea11479f672cc2f55c6cefbdec167bfdecfa409",
+ "sha1_origem": "f7f3b20352dc63ca4055df2f99f404b3a33e9983",
+ "bytes_origem": 554220,
+ "capturado_em": "2026-11-09T02:57:56Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 122973,
+   "sha256": "88a2d046f582e95df845e83d2d9fd1ebb58c99ec2ba3aa6a684e472dca368a3e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 41237,
+   "sha256": "47f1870c98b5d971ba29dedeb17ac4d76f0a1c90f0455e6f757a145db3826e89",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2302503.png",
+  "bytes": 554220,
+  "sha256": "64cf44d1f3c34ee410df0d15fea11479f672cc2f55c6cefbdec167bfdecfa409",
+  "sha1": "f7f3b20352dc63ca4055df2f99f404b3a33e9983"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

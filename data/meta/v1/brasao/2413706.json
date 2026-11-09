@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2413706",
+ "uf": "RN",
+ "municipio": "Sítio Novo",
+ "tipo": "brasao",
+ "origem": "https://sitionovo.rn.gov.br/link/link77.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "61ff782cdf5c9d1a8671b042353534e098ca228fe1e9145f572281d36ac3402c",
+ "sha1_origem": "d0cb5ca2b209709c1fd115bda5edb0908df78f86",
+ "bytes_origem": 111226,
+ "capturado_em": "2026-11-09T03:10:00Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 95688,
+   "sha256": "4537e4a6a81684549224335936195cdfeea79c83c59017bc24dce84c30ee3260",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27367,
+   "sha256": "1aae881d3cbdfa56b32f91c7271a5eaace5e4bd2fffbaabb2967776ae0db22f0",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2413706.jpg",
+  "bytes": 111226,
+  "sha256": "61ff782cdf5c9d1a8671b042353534e098ca228fe1e9145f572281d36ac3402c",
+  "sha1": "d0cb5ca2b209709c1fd115bda5edb0908df78f86"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

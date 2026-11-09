@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2614006",
+ "uf": "PE",
+ "municipio": "Serrita",
+ "tipo": "brasao",
+ "origem": "https://serrita.pe.gov.br/link/link43.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "169168291a347900fd322813d75488046f03a41e25a7fe63c523cd5baabab414",
+ "sha1_origem": "128fe53ea1b4b9438330a86af6fb8c3abb1608f7",
+ "bytes_origem": 24419,
+ "capturado_em": "2026-11-09T03:07:32Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 185036,
+   "sha256": "2b2ccb24900b440793219ed986f941159cf92229324afdf3c87148a36dc2c3d8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29778,
+   "sha256": "e19330610f4fcdcc81ddab162491814076148fa8568ce90397d4282e01064f5d",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2614006.jpg",
+  "bytes": 24419,
+  "sha256": "169168291a347900fd322813d75488046f03a41e25a7fe63c523cd5baabab414",
+  "sha1": "128fe53ea1b4b9438330a86af6fb8c3abb1608f7"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2104099",
+ "uf": "MA",
+ "municipio": "Formosa da Serra Negra",
+ "tipo": "bandeira",
+ "origem": "https://formosadaserranegra.ma.gov.br/upload/simbolos/89911.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "10fdba83ae8a5b39170002786b79308b6a1f01fcf259a8c9a92efa7c09ae410b",
+ "sha1_origem": "6720de5b60736bd29fc1d262fe59a60d4b95b8a5",
+ "bytes_origem": 5959,
+ "capturado_em": "2026-11-09T03:01:15Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 54028,
+   "sha256": "51bdc7a0f060b04e7573e07ac70be320664ac9c4864517c05943169296294185",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13244,
+   "sha256": "8c7031d8e551a6c1ba223c71c7d1c9bce94e57476faadbc9c04d18e6a7db34c2",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2104099.jpg",
+  "bytes": 5959,
+  "sha256": "10fdba83ae8a5b39170002786b79308b6a1f01fcf259a8c9a92efa7c09ae410b",
+  "sha1": "6720de5b60736bd29fc1d262fe59a60d4b95b8a5"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5207907",
+ "uf": "GO",
+ "municipio": "Flores de Goiás",
+ "tipo": "brasao",
+ "origem": "https://floresdegoias.go.gov.br/wp-content/uploads/2026/09/brasaao.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7b927b13007189e263f5e576c7a8704cb609918e26d0042243e9035eaad36b7c",
+ "sha1_origem": "ee60fd75f2fc57733a1b9dd4e6e40e2218822cf7",
+ "bytes_origem": 16407,
+ "capturado_em": "2026-11-09T02:59:23Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 101481,
+   "sha256": "cd99edca489d03a4b1a7bb32b184f1e35c4314859d6b848485085a0f60eed58c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20897,
+   "sha256": "5f47d03843acf73097aacc0f25db1c4e016cb1ef231c799ea08d8f2ef2860943",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5207907.jpg",
+  "bytes": 16407,
+  "sha256": "7b927b13007189e263f5e576c7a8704cb609918e26d0042243e9035eaad36b7c",
+  "sha1": "ee60fd75f2fc57733a1b9dd4e6e40e2218822cf7"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

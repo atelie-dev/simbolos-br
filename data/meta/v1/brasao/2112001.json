@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2112001",
+ "uf": "MA",
+ "municipio": "Tasso Fragoso",
+ "tipo": "brasao",
+ "origem": "https://tassofragoso.ma.gov.br/upload/simbolos/58493.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "02e7571e0052816f8e440438cc413028d3e17a19d5aaf8cfff99680e9919bfd4",
+ "sha1_origem": "de1e38bdf46055c7df07d03031a53d117f89e5a2",
+ "bytes_origem": 206444,
+ "capturado_em": "2026-11-09T03:01:57Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 165138,
+   "sha256": "57dea847f251549446e9761c38451b98770a50ed26928a8ba002bc9293e4fb68",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25882,
+   "sha256": "f986351ea41fe7cd6a7720078cfa5fb593c8aa9a1e90c04ed477d0581f1d7975",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2112001.png",
+  "bytes": 206444,
+  "sha256": "02e7571e0052816f8e440438cc413028d3e17a19d5aaf8cfff99680e9919bfd4",
+  "sha1": "de1e38bdf46055c7df07d03031a53d117f89e5a2"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

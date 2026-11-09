@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5205307",
+ "uf": "GO",
+ "municipio": "Cavalcante",
+ "tipo": "brasao",
+ "origem": "https://cavalcante.go.gov.br/wp-content/uploads/2024/07/Brasao-Cavalcante.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "afa82f0ffb091596bf8a24db46c1b067c6abff0e3dcfaa4d3d6664501d5d0e00",
+ "sha1_origem": "233d763fc1409fc77239fabb144a19519a1bd143",
+ "bytes_origem": 46267,
+ "capturado_em": "2026-11-09T02:59:03Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 48444,
+   "sha256": "0af80cb3a0199cbdff784521c0e77768809a647282ff2d1743585d77b89acf75",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19333,
+   "sha256": "8c0eb92ebd41cc82b3bf2f6cf04053fc11b0c38c659bbef6fe612a913e76c5d2",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5205307.png",
+  "bytes": 46267,
+  "sha256": "afa82f0ffb091596bf8a24db46c1b067c6abff0e3dcfaa4d3d6664501d5d0e00",
+  "sha1": "233d763fc1409fc77239fabb144a19519a1bd143"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

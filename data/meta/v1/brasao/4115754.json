@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4115754",
+ "uf": "PR",
+ "municipio": "Mauá da Serra",
+ "tipo": "brasao",
+ "origem": "https://www.mauadaserra.pr.gov.br/img/brasao-maua.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "06d629210122f2f14f2a1aa11f0bf03845881655eef777cf73f303b70a1652a0",
+ "sha1_origem": "9d39011556b71e5cf4ec44bce4b19dfa449b94ca",
+ "bytes_origem": 108304,
+ "capturado_em": "2026-11-09T03:08:32Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 114454,
+   "sha256": "ac323946a5adc0eda6873aec223836c7238c9760bcd67429d3539b6352c370d5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32251,
+   "sha256": "bf7de39dc148615107f0c7aed98d456c0c3a11055f2c21985407021f7c2d2001",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4115754.png",
+  "bytes": 108304,
+  "sha256": "06d629210122f2f14f2a1aa11f0bf03845881655eef777cf73f303b70a1652a0",
+  "sha1": "9d39011556b71e5cf4ec44bce4b19dfa449b94ca"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

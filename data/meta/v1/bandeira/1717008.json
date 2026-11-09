@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1717008",
+ "uf": "TO",
+ "municipio": "Pindorama do Tocantins",
+ "tipo": "bandeira",
+ "origem": "https://pindoramadotocantins.to.gov.br/wp-content/uploads/2024/10/bandeira-14-1024x640.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "18346008a460fd8bb6dbe50f8115420357a17938ec69eaf1135176292610acb3",
+ "sha1_origem": "2dfcc1d4ee5151b23d68c70de05b4d1d71d2b9fc",
+ "bytes_origem": 17542,
+ "capturado_em": "2026-11-09T03:11:40Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 23765,
+   "sha256": "652df7f10693d41825f880dddc3fec73856e374c0333e4b05c937b62209428a6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13009,
+   "sha256": "015ee556c246103b3e23087f3701858965bf9fec18d73d4fbcc9fd51e27e1f78",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1717008.png",
+  "bytes": 17542,
+  "sha256": "18346008a460fd8bb6dbe50f8115420357a17938ec69eaf1135176292610acb3",
+  "sha1": "2dfcc1d4ee5151b23d68c70de05b4d1d71d2b9fc"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1700707",
+ "uf": "TO",
+ "municipio": "Alvorada",
+ "tipo": "brasao",
+ "origem": "https://alvorada.to.gov.br/wp-content/uploads/2024/10/3ffa483477e54b2b26bfcc8a1f1c9f66.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "d94fa1bf784ab567c4850276b8d07e8730c233222c8dbf5356c78c95c76c2c5d",
+ "sha1_origem": "5f01aabf6a8a90c876dffe23530f591d19030d63",
+ "bytes_origem": 233101,
+ "capturado_em": "2026-11-09T03:10:43Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 175814,
+   "sha256": "a1f88f903e04cce213a1be0e9cb5e5e6a5e1c0fad0e301da89265d8817db22ff",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 43705,
+   "sha256": "71bdcb0d17b87c0e290e7331f709513c61f5f0c277a7876fff1dca5dbe592ea1",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1700707.png",
+  "bytes": 233101,
+  "sha256": "d94fa1bf784ab567c4850276b8d07e8730c233222c8dbf5356c78c95c76c2c5d",
+  "sha1": "5f01aabf6a8a90c876dffe23530f591d19030d63"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2301703",
+ "uf": "CE",
+ "municipio": "Aurora",
+ "tipo": "brasao",
+ "origem": "https://aurora.ce.gov.br/link/link502.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "958faff3b95822b875d72d5f116eaf469ec9f4ad1dd994b133bccfd6b6d28d64",
+ "sha1_origem": "fa3be03139a98891280ed11b5fbb50ac5f6a0d65",
+ "bytes_origem": 60303,
+ "capturado_em": "2026-11-09T02:57:48Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 63138,
+   "sha256": "e31afece286d4529121ae8c06c588352e13ee3105fbd0b7cb379d68f76a99a8c",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 20013,
+   "sha256": "50db939ae98fb3ca90114e7658994a6c5e8cfafa9661d0497d40c7c033fc291b",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2301703.jpg",
+  "bytes": 60303,
+  "sha256": "958faff3b95822b875d72d5f116eaf469ec9f4ad1dd994b133bccfd6b6d28d64",
+  "sha1": "fa3be03139a98891280ed11b5fbb50ac5f6a0d65"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

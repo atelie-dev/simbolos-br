@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5219258",
+ "uf": "GO",
+ "municipio": "Santa Fé de Goiás",
+ "tipo": "brasao",
+ "origem": "https://santafedegoias.go.gov.br/wp-content/uploads/2025/01/Brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "02e3e0411dee25206bb124f83aa68028111bcc5c26ec46ea23201cad7c571aac",
+ "sha1_origem": "6bab46a16f0517303310de272d3d12ce86a569c2",
+ "bytes_origem": 390646,
+ "capturado_em": "2026-11-09T03:00:40Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 308201,
+   "sha256": "06a9da696e4a673db4a1223126f5f02147c94c83ff78d5dab85bfc54614cc734",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 66110,
+   "sha256": "87f4f5a8c2c6c7730443bfaf0efecbb0cfe26918b7bb9ff8b3e54b176b9e8468",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5219258.png",
+  "bytes": 390646,
+  "sha256": "02e3e0411dee25206bb124f83aa68028111bcc5c26ec46ea23201cad7c571aac",
+  "sha1": "6bab46a16f0517303310de272d3d12ce86a569c2"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

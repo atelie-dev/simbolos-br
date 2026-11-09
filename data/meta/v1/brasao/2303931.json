@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2303931",
+ "uf": "CE",
+ "municipio": "Choró",
+ "tipo": "brasao",
+ "origem": "https://choro.ce.gov.br/link/link60.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "fea0cfa28abffe82530761404a9c07abbbda6df6da5bfdc73bbc07264cd64a16",
+ "sha1_origem": "c1a757311126120a5bdfa99489b24a67d38264ab",
+ "bytes_origem": 95935,
+ "capturado_em": "2026-11-09T02:57:59Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 96340,
+   "sha256": "9b39ac3f72d92ade292ed86168407941a290860e2fc3d3bcc26c4265d281ad1e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25459,
+   "sha256": "20dfe8099d3ef980060700aef3845395d043fa84f047565bece1888cf4fe8144",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2303931.png",
+  "bytes": 95935,
+  "sha256": "fea0cfa28abffe82530761404a9c07abbbda6df6da5bfdc73bbc07264cd64a16",
+  "sha1": "c1a757311126120a5bdfa99489b24a67d38264ab"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

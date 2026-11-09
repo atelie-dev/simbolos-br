@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2304459",
+ "uf": "CE",
+ "municipio": "Fortim",
+ "tipo": "brasao",
+ "origem": "https://fortim.ce.gov.br/link/link205.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4f32b850b17bcb956621d1cff4eee1e82176ca58650d4be284516b27408e9d66",
+ "sha1_origem": "2e2956a0680dbe73fba0c313d6ca1b362ca06a24",
+ "bytes_origem": 193316,
+ "capturado_em": "2026-11-09T02:58:05Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 142571,
+   "sha256": "d6a1212e2097d625f15be5829fc1b0e5fdada35818990ce2c71c026e5003cccb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25434,
+   "sha256": "0b8ef998a75b8f233665922c1e311db5cb3813c2f8f6b017d6828d0df0f9d5c6",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2304459.png",
+  "bytes": 193316,
+  "sha256": "4f32b850b17bcb956621d1cff4eee1e82176ca58650d4be284516b27408e9d66",
+  "sha1": "2e2956a0680dbe73fba0c313d6ca1b362ca06a24"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

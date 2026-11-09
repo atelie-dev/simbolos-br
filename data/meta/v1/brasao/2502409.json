@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2502409",
+ "uf": "PB",
+ "municipio": "Bonito de Santa Fé",
+ "tipo": "brasao",
+ "origem": "https://bonitodesantafe.pb.gov.br/link/link75.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "9edf6c8ca06ca16fb26de9e5624c12a09d55c43a4710b64928d627c9e4f2db9c",
+ "sha1_origem": "dc5cf0064d17772e911cd4e6472c15a723a65cfe",
+ "bytes_origem": 30921,
+ "capturado_em": "2026-11-09T03:05:20Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 26836,
+   "sha256": "69cd8cdabe8664fce2b5d6e1b84fdddfc54835193e5fcc344ea673b724f5c262",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17957,
+   "sha256": "c010112c7c997d9b3e3a1c4348b9b8ab4a875b931cebed041a324e15e6bb02c1",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2502409.jpg",
+  "bytes": 30921,
+  "sha256": "9edf6c8ca06ca16fb26de9e5624c12a09d55c43a4710b64928d627c9e4f2db9c",
+  "sha1": "dc5cf0064d17772e911cd4e6472c15a723a65cfe"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2201739",
+ "uf": "PI",
+ "municipio": "Betânia do Piauí",
+ "tipo": "brasao",
+ "origem": "https://betaniadopiaui.pi.gov.br/wp-content/uploads/2026/08/cropped-bra.webp",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/webp",
+ "sha256_origem": "ade2a86f8aad192a0d74c780b0c346ac7e2e91b463959b180bc620d66b147ff3",
+ "sha1_origem": "51ff2bb49df22aaf05061f326d6ee84ec060a449",
+ "bytes_origem": 19910,
+ "capturado_em": "2026-11-09T03:08:04Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 105266,
+   "sha256": "a852f308053457104fd71dbb38fd4f03d5b15614a1d0fbdfced61e7b811d9913",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19059,
+   "sha256": "6891e9afcdd3ac7c7056326d1f009bd810dc2e686952dd1e5feae113085db38e",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2201739.webp",
+  "bytes": 19910,
+  "sha256": "ade2a86f8aad192a0d74c780b0c346ac7e2e91b463959b180bc620d66b147ff3",
+  "sha1": "51ff2bb49df22aaf05061f326d6ee84ec060a449"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

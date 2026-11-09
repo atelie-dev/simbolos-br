@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "4121307",
+ "uf": "PR",
+ "municipio": "Rancho Alegre",
+ "tipo": "brasao",
+ "origem": "https://ranchoalegre.pr.gov.br/assets/img/brasao/brasao.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0ea0c419eb2f271fbe40926de4735cae1c33f70d3c88cf67ed363c1f9f9ce616",
+ "sha1_origem": "d55e42d67c3b17b77d2a682041a3bcd95e3cbc1a",
+ "bytes_origem": 1012002,
+ "capturado_em": "2026-11-09T03:08:59Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 239030,
+   "sha256": "eb9398e495a20d62d5327d568e1ea708d26c783be00bf55fd58d3455d17112b8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 66894,
+   "sha256": "2aea8c0d6ffe89f83b9e4672af22bec827b6a0041183351a14c1814e8caba883",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4121307.jpg",
+  "bytes": 1012002,
+  "sha256": "0ea0c419eb2f271fbe40926de4735cae1c33f70d3c88cf67ed363c1f9f9ce616",
+  "sha1": "d55e42d67c3b17b77d2a682041a3bcd95e3cbc1a"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

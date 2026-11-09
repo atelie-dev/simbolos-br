@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5209937",
+ "uf": "GO",
+ "municipio": "Inaciolândia",
+ "tipo": "brasao",
+ "origem": "https://inaciolandia.go.gov.br/wp-content/uploads/2025/04/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "4f4194bd652d9c54e6316548a97c501ef0d26e46bd23a995a9e07ecd7d523da8",
+ "sha1_origem": "28ab8ad88ccda5a38529969e14f2c0646ca7acbf",
+ "bytes_origem": 50146,
+ "capturado_em": "2026-11-09T02:59:34Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 43487,
+   "sha256": "26dfa1a47a33c4063b33f1974d3e9231b02b0c8b4602132a4f9296aa593330aa",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 8393,
+   "sha256": "27f60eec6279b18c137ca002e83d454e4e7b096dde34a050933c61e2c1f42b15",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5209937.png",
+  "bytes": 50146,
+  "sha256": "4f4194bd652d9c54e6316548a97c501ef0d26e46bd23a995a9e07ecd7d523da8",
+  "sha1": "28ab8ad88ccda5a38529969e14f2c0646ca7acbf"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5204557",
+ "uf": "GO",
+ "municipio": "Caldazinha",
+ "tipo": "brasao",
+ "origem": "https://caldazinha.go.gov.br/wp-content/uploads/2025/02/brasao-1.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0a35ea6dc148600bde0fe315496ac6022fd9f4904c1d665846283d48a4e6406c",
+ "sha1_origem": "75b022818d9ccd09e0e98993b5b8c80c66c6c267",
+ "bytes_origem": 262548,
+ "capturado_em": "2026-11-09T02:58:59Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 190083,
+   "sha256": "974b4685444840da5aa175cfbe50667f0e5407e13cf088df873ef4846580ff54",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 60068,
+   "sha256": "14edda1f5fdc2b3addd6d6959f67612c9cb155f337309ce37b3dbd11f4e79ba3",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5204557.png",
+  "bytes": 262548,
+  "sha256": "0a35ea6dc148600bde0fe315496ac6022fd9f4904c1d665846283d48a4e6406c",
+  "sha1": "75b022818d9ccd09e0e98993b5b8c80c66c6c267"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

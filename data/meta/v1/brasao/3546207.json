@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3546207",
+ "uf": "SP",
+ "municipio": "Santa Cruz da Conceição",
+ "tipo": "brasao",
+ "origem": "http://antigo.santacruzdaconceicao.sp.gov.br/novo_site/img/icones/brasao.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c0898f6c62978c788635c7feb2c3034da3157f60161b3fafb48e0198d57c8765",
+ "sha1_origem": "399ea72f5c800404ab8da66e0771a42951724483",
+ "bytes_origem": 37289,
+ "capturado_em": "2026-11-09T03:10:34Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 29063,
+   "sha256": "a11139e1dde07d7aa880419009f74efe8688ec13a16f1543cae1abd8c7ecf8e5",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7423,
+   "sha256": "28cbcafb393d9c2526b1eb7e6bf721e01fa035a8a7acc4d5981bf4a1d6657a6d",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3546207.jpg",
+  "bytes": 37289,
+  "sha256": "c0898f6c62978c788635c7feb2c3034da3157f60161b3fafb48e0198d57c8765",
+  "sha1": "399ea72f5c800404ab8da66e0771a42951724483"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

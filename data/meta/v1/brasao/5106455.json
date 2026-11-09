@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5106455",
+ "uf": "MT",
+ "municipio": "Planalto da Serra",
+ "tipo": "brasao",
+ "origem": "https://planaltodaserra.mt.gov.br/arquivos/Brasao/Ano_de_2018/GWS---Brasão--Municipal--Planalto--da--Serra--MT.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6dee300b43b2a2f8aede4160184ef37d01151cc645d763918da6a703807ed7bd",
+ "sha1_origem": "9b11a536e544eeee97ca6ecafe7297b102c33c52",
+ "bytes_origem": 29905,
+ "capturado_em": "2026-11-09T03:04:26Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 82777,
+   "sha256": "0e31e2306680d78e0a6a2bc97a9a32d5506c7889a02e8096575ba701e0f02974",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21894,
+   "sha256": "df3b87f1251223cf37325c502b5fc39fd77c9ad4a5a90c69917efd23295f57aa",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5106455.png",
+  "bytes": 29905,
+  "sha256": "6dee300b43b2a2f8aede4160184ef37d01151cc645d763918da6a703807ed7bd",
+  "sha1": "9b11a536e544eeee97ca6ecafe7297b102c33c52"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

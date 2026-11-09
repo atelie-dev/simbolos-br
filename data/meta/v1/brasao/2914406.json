@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2914406",
+ "uf": "BA",
+ "municipio": "Iraquara",
+ "tipo": "brasao",
+ "origem": "https://www.cagep.com.br/storage/images/2024/07/file-arms-prefeitura-municipal-de-iraquara-ba.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "09f8c867873efa7117deaf7babf02820d64794c85705d0f0f207302267c3fc30",
+ "sha1_origem": "aa6a2d1258924c817a33e65c3f457f8442ca8ab2",
+ "bytes_origem": 248802,
+ "capturado_em": "2026-11-09T02:57:23Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 245869,
+   "sha256": "08064f87387e12b753cbf8c640aae1e7c4c2b28d21e41197d528b3641c98e8f8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 40371,
+   "sha256": "d6e4048d5dc5033b8d27a87924f3d49ce57be9f46247a6d9e7506c8c749603cc",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2914406.png",
+  "bytes": 248802,
+  "sha256": "09f8c867873efa7117deaf7babf02820d64794c85705d0f0f207302267c3fc30",
+  "sha1": "aa6a2d1258924c817a33e65c3f457f8442ca8ab2"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

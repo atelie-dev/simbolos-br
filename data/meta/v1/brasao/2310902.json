@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2310902",
+ "uf": "CE",
+ "municipio": "Piquet Carneiro",
+ "tipo": "brasao",
+ "origem": "https://piquetcarneiro.ce.gov.br/link/link313.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f372eb848c92c5e8cf32144bc180d526ab99acb31db9afaed9d362e6a4c3867d",
+ "sha1_origem": "cbec317f4ee78f792ac320c1a1fd165c18ee4c60",
+ "bytes_origem": 49001,
+ "capturado_em": "2026-11-09T02:58:25Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 43619,
+   "sha256": "cd9e234ecf5eedf624fd9d4c83e5b88170fee3855ff106353941331e2d9ce864",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18468,
+   "sha256": "f9046445bc969596e549ba946acdf98451537968ef4224e7632512f67c95ec15",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2310902.png",
+  "bytes": 49001,
+  "sha256": "f372eb848c92c5e8cf32144bc180d526ab99acb31db9afaed9d362e6a4c3867d",
+  "sha1": "cbec317f4ee78f792ac320c1a1fd165c18ee4c60"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

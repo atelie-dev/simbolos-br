@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2208908",
+ "uf": "PI",
+ "municipio": "Ribeiro Gonçalves",
+ "tipo": "brasao",
+ "origem": "https://ribeirogoncalves.pi.gov.br/wp-content/uploads/2025/06/brasao-e1771443884905.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ae0e609c4fc793a985d7ee2d6f2df514c8dcbfe6342ad713162a3fe60266dbb2",
+ "sha1_origem": "c520214d69d55a7e083c5647d1d03ac1ab182454",
+ "bytes_origem": 248264,
+ "capturado_em": "2026-11-09T03:08:21Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 159824,
+   "sha256": "6e693b9b30c7e51223ddc44f47f88d2483da91a5361d3035b9cc87cbd5987776",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33612,
+   "sha256": "c396b3004e0e01e87c2f471defe394dfd8dc3b74ddf4d15706c072309be9c4b2",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2208908.png",
+  "bytes": 248264,
+  "sha256": "ae0e609c4fc793a985d7ee2d6f2df514c8dcbfe6342ad713162a3fe60266dbb2",
+  "sha1": "c520214d69d55a7e083c5647d1d03ac1ab182454"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

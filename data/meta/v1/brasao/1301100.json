@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1301100",
+ "uf": "AM",
+ "municipio": "Careiro",
+ "tipo": "brasao",
+ "origem": "https://careiro.am.gov.br/wp-content/uploads/2026/03/Brasao-Careiro-1-768x592.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "51eb669a6d373d852375da1e87354f2cb0b5edd8acfc7f4b18a12cb8caba306e",
+ "sha1_origem": "0ea6222a5281e962db1f79a5ac6bb05c81c917a1",
+ "bytes_origem": 206027,
+ "capturado_em": "2026-11-09T02:56:33Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 121917,
+   "sha256": "c83236ca51bb400dfd9e3a53c99723e16dc0a39c4ef59423050f7d137f511528",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 36440,
+   "sha256": "4c7d494cd99fef78d356be065854b7af14b792fd960dc2664263c28e9c2a64de",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1301100.png",
+  "bytes": 206027,
+  "sha256": "51eb669a6d373d852375da1e87354f2cb0b5edd8acfc7f4b18a12cb8caba306e",
+  "sha1": "0ea6222a5281e962db1f79a5ac6bb05c81c917a1"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

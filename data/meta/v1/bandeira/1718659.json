@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1718659",
+ "uf": "TO",
+ "municipio": "Rio da Conceição",
+ "tipo": "bandeira",
+ "origem": "https://riodaconceicao.to.gov.br/wp-content/uploads/2023/03/bandeira-oficial-1024x716.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "90aecc0fe41d1a3f715646d1588209893d59808283da1210844461386b77bc2b",
+ "sha1_origem": "6e301db18dc008253cf7fae95985a3cdb0886f25",
+ "bytes_origem": 61602,
+ "capturado_em": "2026-11-09T03:11:46Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 76091,
+   "sha256": "a25439fdf33554c9333f71814197db0b37c08563ff06a2e580f6fa7769f7d3ed",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21747,
+   "sha256": "112258d48ce1a0cb78919a33b19544649a08bf8ad0cfcc789e5bec7720307d06",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1718659.jpg",
+  "bytes": 61602,
+  "sha256": "90aecc0fe41d1a3f715646d1588209893d59808283da1210844461386b77bc2b",
+  "sha1": "6e301db18dc008253cf7fae95985a3cdb0886f25"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

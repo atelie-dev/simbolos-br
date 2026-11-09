@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "3509254",
+ "uf": "SP",
+ "municipio": "Cajati",
+ "tipo": "brasao",
+ "origem": "https://cajati.sp.gov.br/public/admin/globalarq/uploads/images/brasao_sic.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f3a030f5ad409043dc17f6d63bbe27c223ba84f72d287ee26483e98223aa34f7",
+ "sha1_origem": "2d74443a6055080222a6b2d12d850d27fb33e526",
+ "bytes_origem": 123452,
+ "capturado_em": "2026-11-09T03:10:22Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 112047,
+   "sha256": "367f047ac461fa89ebed086428f932a8e6aef7e0ee9f3789f2914e1527d747f8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29986,
+   "sha256": "66093968e5f65556acae239345eac202df96598c79a4e07edaa32331c2502ba3",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/3509254.png",
+  "bytes": 123452,
+  "sha256": "f3a030f5ad409043dc17f6d63bbe27c223ba84f72d287ee26483e98223aa34f7",
+  "sha1": "2d74443a6055080222a6b2d12d850d27fb33e526"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

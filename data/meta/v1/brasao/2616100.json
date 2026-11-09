@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2616100",
+ "uf": "PE",
+ "municipio": "Verdejante",
+ "tipo": "brasao",
+ "origem": "https://verdejante.pe.gov.br/link/link339.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "55e0c926b33d185464526d3d9c1385eedcec51bfd5b63aa1c69ea5a67decb445",
+ "sha1_origem": "e604714c448908c41e533a00d1a96ce920618010",
+ "bytes_origem": 196544,
+ "capturado_em": "2026-11-09T03:07:48Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 194190,
+   "sha256": "e44baf23775dfb0f0e27622997e9c430c1aff9ba5a67f1c809a1d81187f479e1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 42844,
+   "sha256": "66d458801bfee5eecc844d9a04f56b79f4a061394df723ec799dc8ada0e1d407",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2616100.jpg",
+  "bytes": 196544,
+  "sha256": "55e0c926b33d185464526d3d9c1385eedcec51bfd5b63aa1c69ea5a67decb445",
+  "sha1": "e604714c448908c41e533a00d1a96ce920618010"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

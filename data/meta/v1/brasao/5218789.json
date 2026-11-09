@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5218789",
+ "uf": "GO",
+ "municipio": "Rio Quente",
+ "tipo": "brasao",
+ "origem": "https://rioquente.go.gov.br/wp-content/uploads/2024/04/Brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c8b2f436dd46741a48ee091985ffa874790ecd067b15e329925341ba653f3360",
+ "sha1_origem": "2a31f5bc3272e2ef9e7a8c0106bd2b3cda17fdcb",
+ "bytes_origem": 1071126,
+ "capturado_em": "2026-11-09T03:00:35Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 338850,
+   "sha256": "e1e87d0558dcccc3438bbdc708fb502fe452d8c099df0dc159377de13b00138b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 62785,
+   "sha256": "7a187ecaedd9f6d23ea8f427cd07efe7585c0bf6a27a33aec508e46e9f66129e",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5218789.png",
+  "bytes": 1071126,
+  "sha256": "c8b2f436dd46741a48ee091985ffa874790ecd067b15e329925341ba653f3360",
+  "sha1": "2a31f5bc3272e2ef9e7a8c0106bd2b3cda17fdcb"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1710706",
+ "uf": "TO",
+ "municipio": "Itaguatins",
+ "tipo": "brasao",
+ "origem": "https://www.itaguatins.to.gov.br/storage/empresa_params/2023/01/bandeira-removebg-preview.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "a94a81aa48a87e86561f26d606ff551cdf681db0f32bd28323c6dcca9cca35c0",
+ "sha1_origem": "b0c555c7d27b9c994a494834e0997b6eb0ea4bf9",
+ "bytes_origem": 47732,
+ "capturado_em": "2026-11-09T03:11:13Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 49060,
+   "sha256": "8f98a90a05ff69200bf6f41757374ff39ce96c9443d06ea4df0432be11370a86",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10853,
+   "sha256": "fe045ff05eea4ab4b5eb26b5adb058ee2d292fbd22e599ccf8be34d01e53cd53",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1710706.png",
+  "bytes": 47732,
+  "sha256": "a94a81aa48a87e86561f26d606ff551cdf681db0f32bd28323c6dcca9cca35c0",
+  "sha1": "b0c555c7d27b9c994a494834e0997b6eb0ea4bf9"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

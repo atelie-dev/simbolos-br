@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5209457",
+ "uf": "GO",
+ "municipio": "Guarinos",
+ "tipo": "brasao",
+ "origem": "https://guarinos.go.gov.br/wp-content/uploads/2022/01/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "49a7a665f43706dbe1ac10c45c262f61fd7100baae8372857093e65e472a2a36",
+ "sha1_origem": "b26d96e16fde15a91e4f4302fbd26940f33d8ee7",
+ "bytes_origem": 20855,
+ "capturado_em": "2026-11-09T02:59:29Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 21938,
+   "sha256": "a357b50f30f648fa87c45780f7377b75ea593932dca56b56ae961c3f53d43508",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7041,
+   "sha256": "d1eb2f38ba0383269b68b6798ed129923c113d9372446455498c688b5df2cd35",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/5209457.png",
+  "bytes": 20855,
+  "sha256": "49a7a665f43706dbe1ac10c45c262f61fd7100baae8372857093e65e472a2a36",
+  "sha1": "b26d96e16fde15a91e4f4302fbd26940f33d8ee7"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}
