@@ -131,6 +131,13 @@ compartilha 1.214, pendente 69.
   `r2`. Pular o `urls` deixa o sidecar público sem as três URLs, e o consumidor
   precisa baixar o catálogo inteiro para descobrir onde o arquivo está (aconteceu
   com os 258 importados do crawl).
+- **`wrangler deploy` do Worker falha calado quando a saída passa por pipe**: o
+  terminal mostra só "Logs were written to …", e o erro real (build, por
+  exemplo) está no log. Depois de cada deploy, conferir se apareceu
+  "Uploaded … / Deployed …"; se não, ler o log.
+- **O Worker é `.js` puro.** Uma anotação TypeScript (`const X: Record<…> = {}`)
+  quebra o build com "Expected ; but found :" e o script antigo continua no ar —
+  o teste de comportamento é o que revela.
 - **`data/vetores` e `dist/embed` têm o mesmo conteúdo por construção.** Quem
   manda é `data/vetores`; `simbolos vetores` recusa sobrescrever sem `--forcar` e
   manda o divergente para `data/vetores/conflito/`.
