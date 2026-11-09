@@ -145,3 +145,23 @@
   color: var(--muted);
   font-size: 0.875rem;
 }
+
+/* Selo oficial da licença, ao lado do código SPDX. O link leva à escritura. */
+.card .licenca {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.375rem 0.5rem;
+}
+
+.card .lic-badge {
+  display: inline-block;
+  line-height: 0;
+}
+
+.card .lic-badge img {
+  display: block;
+  width: 88px;
+  height: 31px;
+  border-radius: 2px;
+}

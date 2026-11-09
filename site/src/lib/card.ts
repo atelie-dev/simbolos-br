@@ -45,6 +45,26 @@ const BALDE: Record<string, string> = {
   oficial: "oficial",
 };
 
+/**
+ * Selo oficial da CC, com link para a escritura da licença.
+ *
+ * Os arquivos ficam em `public/cc/` (88×31, do licensebuttons.net): carregar de
+ * terceiro a cada visita entregaria o IP do visitante a quem serve o selo. Nas
+ * licenças sem selo (NOASSERTION), o texto do balde já diz o que se sabe.
+ */
+const LICENCAS: Record<string, { arquivo: string; nome: string; deed: string }> = {
+  "CC0-1.0": {
+    arquivo: "cc/cc-zero.png",
+    nome: "CC0 1.0",
+    deed: "https://creativecommons.org/publicdomain/zero/1.0/",
+  },
+  "CC-BY-SA-4.0": {
+    arquivo: "cc/by-sa.png",
+    nome: "CC BY-SA 4.0",
+    deed: "https://creativecommons.org/licenses/by-sa/4.0/",
+  },
+};
+
 export function cardHtml(
   entrada: CardEntrada,
   tipo: "brasao" | "bandeira",
@@ -88,6 +108,10 @@ export function cardHtml(
   const autor = item.autor
     ? `<div><dt>Autor</dt><dd>${esc(item.autor)}</dd></div>`
     : "";
+  const lic = LICENCAS[item.licenca ?? ""];
+  const seloLic = lic
+    ? `<a class="lic-badge" href="${esc(lic.deed)}" rel="license noopener"><img src="${esc(opcoes.base)}${lic.arquivo}" alt="${esc(lic.nome)}" width="88" height="31" loading="lazy" /></a>`
+    : "";
   const origem = item.origem
     ? `<a href="${esc(item.origem)}" rel="noopener">${esc(host(item.origem))}</a>`
     : "não registrada";
@@ -102,7 +126,7 @@ export function cardHtml(
       ${selo}
     </div>
     <dl class="detalhes">
-      <div><dt>Licença</dt><dd class="licenca"><span class="selo selo--${esc(item.balde ?? "")}">${esc(BALDE[item.balde ?? ""] ?? "?")}</span> <code>${esc(item.licenca)}</code></dd></div>
+      <div><dt>Licença</dt><dd class="licenca"><span class="selo selo--${esc(item.balde ?? "")}">${esc(BALDE[item.balde ?? ""] ?? "?")}</span> <code>${esc(item.licenca)}</code> ${seloLic}</dd></div>
       ${autor}
       <div><dt>Origem</dt><dd>${origem}</dd></div>
       <div><dt>Formatos</dt><dd class="num">${formatos
