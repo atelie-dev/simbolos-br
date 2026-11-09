@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2615409",
+ "uf": "PE",
+ "municipio": "Toritama",
+ "tipo": "bandeira",
+ "origem": "https://toritama.pe.gov.br/wp-content/uploads/2024/07/Bandeira-de-Toritama-300x181.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6ab7bc56ea541a01b0313436e9cb1ec278c87596cccb05d6969570b531ff8847",
+ "sha1_origem": "0caf13658fa07bf941586185f67a351fee50d139",
+ "bytes_origem": 35168,
+ "capturado_em": "2026-11-09T04:05:19Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 38253,
+   "sha256": "a92e86cb6a8ad6a6d305a6606d4739effe52d2f732b90b9f8d7bdea014854584",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13306,
+   "sha256": "5d49b75da6cc93cc84a63dd36c61f74dd4e42dda2d22f344ef6c2c8c97a06921",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2615409.png",
+  "bytes": 35168,
+  "sha256": "6ab7bc56ea541a01b0313436e9cb1ec278c87596cccb05d6969570b531ff8847",
+  "sha1": "0caf13658fa07bf941586185f67a351fee50d139"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

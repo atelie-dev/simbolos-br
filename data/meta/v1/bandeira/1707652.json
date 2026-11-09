@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1707652",
+ "uf": "TO",
+ "municipio": "Figueirópolis",
+ "tipo": "bandeira",
+ "origem": "https://figueiropolis.to.gov.br/arquivos/imagem_pagina/e75a7d531aed26e33ed9268395766483.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "eb7f927e1b5fbe3b2f3d5abde10155da58323cc304a400f480f7f9622fdd9121",
+ "sha1_origem": "35eed3a213816a9a946af7869026635a7337e7db",
+ "bytes_origem": 59968,
+ "capturado_em": "2026-11-09T04:08:28Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 72476,
+   "sha256": "445ce977d8843e3c02077e30d881d9d7f5048e1cc456d749d45956b8ee606f48",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19106,
+   "sha256": "5c441e23ed6504fc49b22c8c69a525f457ee79c6f011f6beffd2cfc79e0b181a",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1707652.jpg",
+  "bytes": 59968,
+  "sha256": "eb7f927e1b5fbe3b2f3d5abde10155da58323cc304a400f480f7f9622fdd9121",
+  "sha1": "35eed3a213816a9a946af7869026635a7337e7db"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "1302553",
+ "uf": "AM",
+ "municipio": "Manaquiri",
+ "tipo": "brasao",
+ "origem": "https://ecrie.com.br/sistema/conteudos/imagem/g_157_1_1_17042023140504.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "4be6a5c3890c86fb9ff973f2e39d7b2b9606ec2e0af4e25504d8511d2c963431",
+ "sha1_origem": "84300420b2859f6daa1f400e5701055c0c201cb6",
+ "bytes_origem": 35913,
+ "capturado_em": "2026-11-09T03:54:00Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 108647,
+   "sha256": "9b953e412d7cea42c7eda15adb90d51b52b5ef64e8b11270e9db47f61e58e40d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26467,
+   "sha256": "4cb962fff864bf6a902e6418a5632398c84360b0ace8d6030627322b34459956",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/1302553.jpg",
+  "bytes": 35913,
+  "sha256": "4be6a5c3890c86fb9ff973f2e39d7b2b9606ec2e0af4e25504d8511d2c963431",
+  "sha1": "84300420b2859f6daa1f400e5701055c0c201cb6"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

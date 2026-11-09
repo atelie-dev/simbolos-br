@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2612455",
+ "uf": "PE",
+ "municipio": "Santa Cruz",
+ "tipo": "bandeira",
+ "origem": "https://santacruz.pe.gov.br/wp-content/uploads/2024/09/Bandeira-do-Municipio.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c6e2a64aec5c5b04ccf218070ecdb1ec82417684676673c2c46ec9797836a263",
+ "sha1_origem": "2b709e4c891fb9067cfb2b8f3c371f92d1f44384",
+ "bytes_origem": 267557,
+ "capturado_em": "2026-11-09T04:05:08Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 170479,
+   "sha256": "77803141845567437e8edc502d4f803bf5a36b826d72972a7ab424d4aa13690a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 32677,
+   "sha256": "424d59a670aab788ae6958badcb75afc123e4602b327ff91e1c2663abe507097",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2612455.png",
+  "bytes": 267557,
+  "sha256": "c6e2a64aec5c5b04ccf218070ecdb1ec82417684676673c2c46ec9797836a263",
+  "sha1": "2b709e4c891fb9067cfb2b8f3c371f92d1f44384"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

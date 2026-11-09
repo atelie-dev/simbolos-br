@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "5215009",
+ "uf": "GO",
+ "municipio": "Nova Veneza",
+ "tipo": "bandeira",
+ "origem": "http://novaveneza.go.gov.br/wp-content/uploads/2019/12/Nova-Veneza-Flag-1-1-1.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "90fb6678f5f241a1f562f46425b9fbf302458e01784c749fa610a5e3c21ff8e0",
+ "sha1_origem": "5ef53b56d4db6c67fe63f61ce61300599f9aabb4",
+ "bytes_origem": 19146,
+ "capturado_em": "2026-11-09T03:57:34Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 70528,
+   "sha256": "8acc4b3c695571886e86abe1c5ca1b59ff78aad35052e6e057eeccb69f539fdd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17453,
+   "sha256": "19763aab4911f7fa069c019ff24395297f40bdf4d1381ddfdc83e3507830982d",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5215009.jpg",
+  "bytes": 19146,
+  "sha256": "90fb6678f5f241a1f562f46425b9fbf302458e01784c749fa610a5e3c21ff8e0",
+  "sha1": "5ef53b56d4db6c67fe63f61ce61300599f9aabb4"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

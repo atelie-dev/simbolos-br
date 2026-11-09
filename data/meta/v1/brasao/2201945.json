@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2201945",
+ "uf": "PI",
+ "municipio": "Boqueirão do Piauí",
+ "tipo": "brasao",
+ "origem": "https://boqueiraodopiaui.pi.gov.br/Arquitetura/Imagens/brasao.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "c0266c32ffd7c5b62b8aa57247f4471b8d10a33efeaf1eae6e65c054f93fec7c",
+ "sha1_origem": "166b2f12eaf617ff9e085b0451d1bdb6d1d88032",
+ "bytes_origem": 10987,
+ "capturado_em": "2026-11-09T04:05:36Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 13412,
+   "sha256": "628a1920be21e7bad5025b9b5de1a87d83a64415fd90863fe5bf61f41ff5a9ae",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 5542,
+   "sha256": "a564e25e58677f2c25c4331f20a9c057a3314b52ebd2ca6993321e8126f4deee",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/2201945.png",
+  "bytes": 10987,
+  "sha256": "c0266c32ffd7c5b62b8aa57247f4471b8d10a33efeaf1eae6e65c054f93fec7c",
+  "sha1": "166b2f12eaf617ff9e085b0451d1bdb6d1d88032"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

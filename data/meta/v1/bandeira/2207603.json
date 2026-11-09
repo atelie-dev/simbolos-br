@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2207603",
+ "uf": "PI",
+ "municipio": "Parnaguá",
+ "tipo": "bandeira",
+ "origem": "https://www.parnagua.pi.gov.br/wp-content/uploads/2024/02/Brasao-Parnagua.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "96131c7575392350892de59f4d9b936c7d83644d9cb862979a3fa0db6347f65e",
+ "sha1_origem": "5ab1802eb02665ecb85169ef454adae9a38a4fdd",
+ "bytes_origem": 6145,
+ "capturado_em": "2026-11-09T04:05:47Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 41561,
+   "sha256": "4980f9235f4bac186119598b9ec44d2e444c85f2481ea75be0170764964d3a76",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10861,
+   "sha256": "5eed833b710c859e79c3afba5b9e973a67a92afd3227f072fe54414b7c2c309d",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2207603.jpg",
+  "bytes": 6145,
+  "sha256": "96131c7575392350892de59f4d9b936c7d83644d9cb862979a3fa0db6347f65e",
+  "sha1": "5ab1802eb02665ecb85169ef454adae9a38a4fdd"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "codigo_ibge": "2605806",
+ "uf": "PE",
+ "municipio": "Frei Miguelinho",
+ "tipo": "bandeira",
+ "origem": "https://freimiguelinho.pe.gov.br/wp-content/uploads/2024/04/bandeira-de-frei-miguelinho.png",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3e3e70325839f718e68b35f53904f6e49afe724a2cd8e37eeb3bcf1e892709e3",
+ "sha1_origem": "81ee2b2e17d08b5de77f21b820f1be6c0be214f7",
+ "bytes_origem": 71034,
+ "capturado_em": "2026-11-09T04:04:47Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 74819,
+   "sha256": "5d83ebbdc746be2f3513299c6d646ac3fb7fc49bc5fcf4fabd8f3da7f55a7ae3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14538,
+   "sha256": "80c55adb2566406b28379db848239f283fd5ab989ac50d5998cbcb5c3062db97",
+   "lado": 512
+  }
+ },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2605806.png",
+  "bytes": 71034,
+  "sha256": "3e3e70325839f718e68b35f53904f6e49afe724a2cd8e37eeb3bcf1e892709e3",
+  "sha1": "81ee2b2e17d08b5de77f21b820f1be6c0be214f7"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente",
+   "nao_verificado"
+  ]
+ }
+}
