@@ -76,6 +76,19 @@ def achados(*, uf: str | None = None) -> list[dict]:
     return sorted(por_url.values(), key=lambda a: (a["uf"], a["codigo"], a["url"]))
 
 
+def _marcar_sidecar(codigo: str, tipo: str, marcado: dict) -> None:
+    """Passa o sidecar para rejeitado, sem apagar o arquivo."""
+    sidecar = publicacao.META / tipo / f"{codigo}.json"
+    if not sidecar.exists():
+        return
+    registro = json.loads(sidecar.read_text())
+    registro["estado"] = "rejeitado"
+    registro["rejeitado"] = marcado
+    tmp = sidecar.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(registro, ensure_ascii=False, indent=1) + "\n")
+    tmp.replace(sidecar)
+
+
 def rejeitar(codigo: str, tipo: str, motivo: str, *, por: str = "revisao visual") -> dict:
     """Marca um item importado como rejeitado — sem apagar nada.
 
@@ -89,15 +102,7 @@ def rejeitar(codigo: str, tipo: str, motivo: str, *, por: str = "revisao visual"
         raise KeyError(f"{codigo}/{tipo} nao esta no catalogo")
     marcado = {"motivo": motivo, "em": publicacao.agora(), "por": por}
     item[tipo]["rejeitado"] = marcado
-
-    sidecar = publicacao.META / tipo / f"{codigo}.json"
-    if sidecar.exists():
-        registro = json.loads(sidecar.read_text())
-        registro["estado"] = "rejeitado"
-        registro["rejeitado"] = marcado
-        tmp = sidecar.with_suffix(".json.tmp")
-        tmp.write_text(json.dumps(registro, ensure_ascii=False, indent=1) + "\n")
-        tmp.replace(sidecar)
+    _marcar_sidecar(codigo, tipo, marcado)
 
     tmp = CATALOGO.with_suffix(".json.tmp")
     tmp.write_text(json.dumps(catalogo, ensure_ascii=False, indent=1) + "\n")
@@ -153,6 +158,7 @@ def importar(*, uf: str | None = None, limite: int = 0, sem_visao: bool = False)
         "ja_tinha": 0,
         "falhas": 0,
         "sem_tipo": 0,
+        "reclassificados": 0,
         "visao_usd": 0.0,
         "bytes": 0,
         "motivos": {},
@@ -207,6 +213,22 @@ def importar(*, uf: str | None = None, limite: int = 0, sem_visao: bool = False)
             "uf": achado["uf"],
             "municipio": achado["municipio"],
         }
+        # Reclassificação: o mesmo arquivo já importado sob outro tipo sai como
+        # rejeitado — senão a imagem fica publicada nos dois slots.
+        agora = publicacao.agora()
+        for outro in TIPOS:
+            if outro == tipo:
+                continue
+            anterior = item.get(outro) or {}
+            if anterior.get("fonte") != "govbr" or anterior.get("url") != url:
+                continue
+            if anterior.get("rejeitado"):
+                continue
+            marcado = {"motivo": f"reclassificado como {tipo}", "em": agora, "por": "importar"}
+            anterior["rejeitado"] = marcado
+            _marcar_sidecar(achado["codigo"], outro, marcado)
+            resumo["reclassificados"] += 1
+
         existente = item.get(tipo)
         if existente and (existente.get("rejeitado") or existente.get("fonte") != "govbr"):
             # Rejeição é decisão registrada: reimportar não a desfaz.

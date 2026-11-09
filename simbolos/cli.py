@@ -740,6 +740,7 @@ def importar_cmd(
     t.add_row("importados", str(r["importados"]))
     t.add_row("rejeitados pela visao", str(r["rejeitados"]))
     t.add_row("ja tinham fonte melhor", str(r["ja_tinha"]))
+    t.add_row("reclassificados", str(r["reclassificados"]))
     t.add_row("sem tipo", str(r["sem_tipo"]))
     t.add_row("falhas de download", str(r["falhas"]))
     t.add_row("tamanho", f"{r['bytes'] / 1024 / 1024:.1f} MB")
