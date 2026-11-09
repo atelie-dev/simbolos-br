@@ -42,19 +42,32 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
 
       <fieldset>
         <legend>2. Qual item?</legend>
-        <label class="campo">
-          Município
-          <input id="busca" list="lista-municipios" placeholder="Comece a digitar o nome" autocomplete="off" />
-        </label>
-        <datalist id="lista-municipios"></datalist>
-        <p class="ajuda" id="escolhido">Nenhum município escolhido.</p>
-        <label class="campo">
-          Tipo
-          <select name="tipo">
-            <option value="brasao">Brasão</option>
-            <option value="bandeira">Bandeira</option>
-          </select>
-        </label>
+
+        <div id="escolha-municipio">
+          <label class="campo">
+            Município
+            <input id="busca" list="lista-municipios" placeholder="Comece a digitar o nome" autocomplete="off" />
+          </label>
+          <datalist id="lista-municipios"></datalist>
+          <p class="ajuda">Escolha da lista. Em seguida você vê o que já está publicado.</p>
+        </div>
+
+        <div id="item-escolhido" hidden>
+          <div class="item-topo">
+            <p id="item-nome" class="item-nome"></p>
+            <div class="item-acoes">
+              <button type="button" id="outro-tipo" class="trocar" hidden></button>
+              <button type="button" id="trocar" class="trocar">trocar município</button>
+            </div>
+          </div>
+          <div id="tiles" class="escolhas"></div>
+          <p id="item-nota" class="ajuda"></p>
+          <input type="hidden" name="codigo" />
+          <input type="hidden" name="municipio" />
+          <input type="hidden" name="uf" />
+        </div>
+
+        <input type="hidden" name="tipo" value="brasao" />
       </fieldset>
 
       <fieldset id="campo-relato">
@@ -132,23 +145,48 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
 
 <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer is:inline></script>
 <script>
+  import { BASE, metaUrl } from "../lib/urls";
+  import { cardHtml } from "../lib/card";
+
   const form = document.getElementById("relato") as HTMLFormElement;
   const busca = document.getElementById("busca") as HTMLInputElement;
   const lista = document.getElementById("lista-municipios") as HTMLDataListElement;
-  const escolhido = document.getElementById("escolhido") as HTMLParagraphElement;
   const status = document.getElementById("status") as HTMLParagraphElement;
   const botao = form.querySelector("button[type=submit]") as HTMLButtonElement;
+  const painel = document.getElementById("item-escolhido") as HTMLDivElement;
+  const blocoBusca = document.getElementById("escolha-municipio") as HTMLDivElement;
+  const nomeEl = document.getElementById("item-nome") as HTMLParagraphElement;
+  const tilesEl = document.getElementById("tiles") as HTMLDivElement;
+  const notaEl = document.getElementById("item-nota") as HTMLParagraphElement;
+  const trocar = document.getElementById("trocar") as HTMLButtonElement;
+  const outroTipo = document.getElementById("outro-tipo") as HTMLButtonElement;
+  const tipoHidden = form.querySelector("input[name=tipo]") as HTMLInputElement;
 
-  let municipios: Array<{ c: string; n: string; u: string }> = [];
+  type Tipo = "brasao" | "bandeira";
+  // Quando o link traz ?tipo=, mostramos só aquele item: a página do município
+  // já disse sobre qual símbolo é o relato.
+  let tipoUnico: Tipo | null = null;
+
+  type Municipio = {
+    c: string;
+    n: string;
+    u: string;
+    b: number;
+    f: number;
+    bv: number;
+    fv: number;
+  };
+
+  let municipios: Municipio[] = [];
   let carregado = false;
-  let selecionado: { c: string; n: string; u: string } | null = null;
+  let selecionado: Municipio | null = null;
 
   async function carregar() {
-    if (carregado) return;
+    if (carregado) return municipios;
     carregado = true;
-    const r = await fetch(`${import.meta.env.BASE_URL}/api/v1/municipios.json`);
+    const r = await fetch(`${BASE}api/v1/municipios.json`);
     const dados = await r.json();
-    municipios = dados.filter((m: { c: string }) => m.c.length === 7);
+    municipios = dados.filter((m: Municipio) => m.c.length === 7);
     const frag = document.createDocumentFragment();
     for (const m of municipios) {
       const o = document.createElement("option");
@@ -156,15 +194,158 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
       frag.append(o);
     }
     lista.append(frag);
+    return municipios;
   }
 
-  busca?.addEventListener("focus", carregar);
+  const rotulo = (tipo: string) => (tipo === "brasao" ? "Brasão" : "Bandeira");
+  const artigo = (tipo: string) => (tipo === "brasao" ? "o" : "a");
+  const existe = (m: Municipio, tipo: string) => Boolean(tipo === "brasao" ? m.b : m.f);
+  const vetorial = (m: Municipio, tipo: string) => Boolean(tipo === "brasao" ? m.bv : m.fv);
+
+  // Miniatura do que está publicado, com licença lida do sidecar. O relato
+  // passa a ser sobre o arquivo que a pessoa está vendo, não sobre um nome.
+  function itemDoSidecar(d: Record<string, unknown> | null, m: Municipio, tipo: "brasao" | "bandeira") {
+    if (!d) {
+      // Sem sidecar, ainda dá para mostrar a arte; os formatos vêm do índice.
+      const rends: Record<string, { bytes: number }> = { png: { bytes: 0 }, jpg: { bytes: 0 } };
+      if (vetorial(m, tipo)) rends.svg = { bytes: 0 };
+      return { licenca: null, balde: null, autor: null, origem: null, rendicoes: rends, arte: null };
+    }
+    return {
+      licenca: (d.licenca as string) ?? null,
+      balde: (d.balde as string) ?? null,
+      autor: (d.autor as string) ?? null,
+      origem: (d.origem as string) ?? null,
+      rendicoes: (d.rendicoes as Record<string, { bytes: number }>) ?? {},
+      arte: (d.arte as { l: number; a: number }) ?? null,
+    };
+  }
+
+  async function montarCard(m: Municipio, tipo: "brasao" | "bandeira", atual: string) {
+    const caixa = document.createElement("div");
+    caixa.className = "escolha";
+    caixa.dataset.tipo = tipo;
+
+    const topo = document.createElement("label");
+    topo.className = "escolha-topo";
+    const radio = document.createElement("input");
+    radio.type = "radio";
+    radio.name = "tipo-escolha";
+    radio.value = tipo;
+    radio.checked = tipo === atual;
+    const texto = document.createElement("span");
+    texto.textContent = existe(m, tipo)
+      ? `Reportar sobre ${artigo(tipo)} ${rotulo(tipo).toLowerCase()}`
+      : `${rotulo(tipo)}: ainda não temos`;
+    topo.append(radio, texto);
+
+    const hospede = document.createElement("div");
+    hospede.className = "escolha-card";
+
+    let dados: Record<string, unknown> | null = null;
+    if (existe(m, tipo)) {
+      try {
+        const r = await fetch(metaUrl(m.c, tipo));
+        if (r.ok) dados = await r.json();
+      } catch {
+        dados = null;
+      }
+    }
+    const item = existe(m, tipo) ? itemDoSidecar(dados, m, tipo) : undefined;
+    const temArte = Boolean(dados?.arte) || vetorial(m, tipo);
+    hospede.innerHTML = cardHtml({ c: m.c, n: m.n }, tipo, item, {
+      base: BASE,
+      acoes: false,
+      selo: temArte,
+    });
+
+    // Clicar no card seleciona o item; clicar num link continua sendo link.
+    hospede.addEventListener("click", (evento) => {
+      if ((evento.target as HTMLElement).closest("a")) return;
+      radio.checked = true;
+      sincronizar();
+    });
+
+    caixa.append(topo, hospede);
+    return caixa;
+  }
+
+  function sincronizar() {
+    if (!selecionado) return;
+    const marcado = form.querySelector<HTMLInputElement>("input[name=tipo-escolha]:checked");
+    if (!marcado) return;
+    const tipo = marcado.value;
+    tipoHidden.value = tipo;
+
+    if (existe(selecionado, tipo)) {
+      notaEl.textContent = "";
+      return;
+    }
+    // Não há o que relatar num item que não existe: isso é contribuição.
+    notaEl.textContent = `Ainda não temos ${artigo(tipo)} ${rotulo(tipo).toLowerCase()} de ${selecionado.n}. Se você tem a fonte oficial, use Contribuir.`;
+    const fluxoContrib = form.querySelector<HTMLInputElement>("input[name=fluxo][value=contribuicao]");
+    const tipoSimbolo = form.querySelector<HTMLInputElement>("input[name=contribuicao][value=simbolo]");
+    if (fluxoContrib) fluxoContrib.checked = true;
+    if (tipoSimbolo) tipoSimbolo.checked = true;
+    trocarFluxo();
+  }
+
+  async function desenharTiles(m: Municipio) {
+    const atual = (tipoUnico || (tipoHidden.value as Tipo) || "brasao") as Tipo;
+    const tipos: Tipo[] = tipoUnico ? [tipoUnico] : ["brasao", "bandeira"];
+    tilesEl.classList.toggle("escolhas--uma", tipos.length === 1);
+    const caixas = await Promise.all(tipos.map((t) => montarCard(m, t, atual)));
+    tilesEl.replaceChildren(...caixas);
+    tilesEl.querySelectorAll("input[name=tipo-escolha]").forEach((el) => {
+      el.addEventListener("change", sincronizar);
+    });
+    if (tipoUnico) {
+      outroTipo.hidden = false;
+      outroTipo.textContent = tipoUnico === "brasao" ? "ver a bandeira" : "ver o brasão";
+    } else {
+      outroTipo.hidden = true;
+    }
+    sincronizar();
+  }
+
+  function escolher(m: Municipio) {
+    selecionado = m;
+    (form.querySelector("input[name=codigo]") as HTMLInputElement).value = m.c;
+    (form.querySelector("input[name=municipio]") as HTMLInputElement).value = m.n;
+    (form.querySelector("input[name=uf]") as HTMLInputElement).value = m.u;
+    nomeEl.textContent = `${m.n} (${m.u})`;
+    blocoBusca.hidden = true;
+    painel.hidden = false;
+    void desenharTiles(m);
+  }
+
+  function limpar() {
+    form.reset();
+    selecionado = null;
+    tipoHidden.value = "brasao";
+    painel.hidden = true;
+    blocoBusca.hidden = false;
+    busca.value = "";
+    status.textContent = "";
+    status.className = "status";
+    trocarFluxo();
+  }
+
+  busca?.addEventListener("focus", () => void carregar());
   busca?.addEventListener("input", () => {
     const alvo = busca.value.trim().toLowerCase();
-    selecionado = municipios.find((m) => `${m.n} (${m.u})`.toLowerCase() === alvo) || null;
-    escolhido.textContent = selecionado
-      ? `${selecionado.n} (${selecionado.u}) — código ${selecionado.c}`
-      : "Nenhum município escolhido.";
+    const achado = municipios.find((m) => `${m.n} (${m.u})`.toLowerCase() === alvo);
+    if (achado) escolher(achado);
+  });
+  trocar?.addEventListener("click", () => {
+    limpar();
+    busca.focus();
+  });
+  outroTipo?.addEventListener("click", () => {
+    if (!selecionado) return;
+    tipoUnico = tipoUnico === "brasao" ? "bandeira" : "brasao";
+    tipoHidden.value = tipoUnico;
+    void desenharTiles(selecionado);
   });
 
   const radiosFluxo = [...form.querySelectorAll<HTMLInputElement>("input[name=fluxo]")];
@@ -245,14 +426,13 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
         status.textContent = resposta.erro || "Não foi possível enviar agora.";
         return;
       }
+      const duplicado = Boolean(resposta.duplicado);
+      const url = String(resposta.url || "");
+      limpar();
       status.className = "status ok";
-      status.innerHTML = resposta.duplicado
+      status.innerHTML = duplicado
         ? "Este relato já foi recebido nas últimas 24 horas."
-        : `Recebido. Acompanhe em <a href="${resposta.url}" rel="noopener">${resposta.url}</a>. Nada muda no acervo sem alguém confirmar.`;
-      form.reset();
-      selecionado = null;
-      escolhido.textContent = "Nenhum município escolhido.";
-      trocarFluxo();
+        : `Recebido. Acompanhe em <a href="${url}" rel="noopener">${url}</a>. Nada muda no acervo sem alguém confirmar.`;
     } catch {
       status.className = "status erro";
       status.textContent = "Falha de rede. Tente de novo.";
@@ -264,24 +444,18 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
   // Pré-preenchimento vindo da página do município: ?cod=3550308&tipo=brasao
   const params = new URLSearchParams(location.search);
   const cod = params.get("cod");
-  const tipo = params.get("tipo");
+  const tipoInicial = params.get("tipo");
+  if (tipoInicial === "brasao" || tipoInicial === "bandeira") {
+    tipoUnico = tipoInicial;
+    tipoHidden.value = tipoInicial;
+  }
   if (cod) {
-    fetch(`${import.meta.env.BASE_URL}/api/v1/municipios.json`)
-      .then((r) => r.json())
-      .then((dados) => {
-        municipios = dados.filter((m: { c: string }) => m.c.length === 7);
-        carregado = true;
+    carregar()
+      .then(() => {
         const m = municipios.find((x) => x.c === cod);
-        if (m) {
-          selecionado = m;
-          busca.value = `${m.n} (${m.u})`;
-          escolhido.textContent = `${m.n} (${m.u}) — código ${m.c}`;
-        }
+        if (m) escolher(m);
       })
       .catch(() => {});
-  }
-  if (tipo === "bandeira") {
-    (form.querySelector("select[name=tipo]") as HTMLSelectElement).value = "bandeira";
   }
 </script>
 
@@ -322,6 +496,9 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
   }
   fieldset > :not(legend) {
     padding-inline: var(--step-4);
+    /* O legend é flutuante e ocupa 100% da largura: sem clear, um filho que
+       cria contexto próprio (flex/grid) fica com largura zero ao lado dele. */
+    clear: both;
   }
   .campo {
     display: grid;
@@ -374,6 +551,68 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
     .dupla {
       grid-template-columns: 1fr;
     }
+  }
+  .item-topo {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.5rem 1rem;
+  }
+  .item-nome {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: var(--step-3);
+    color: var(--ink);
+  }
+  .trocar {
+    font: inherit;
+    font-size: var(--step-1);
+    color: var(--muted);
+    background: none;
+    border: 0;
+    padding: 0;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  .trocar:hover {
+    color: var(--accent);
+  }
+  .item-acoes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem;
+  }
+  /* O card em si vem de styles/cards.css (mesmo markup do build); aqui só o
+     contêiner de escolha, que é dinâmico e por isso precisa ser global. */
+  .escolhas {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--step-3);
+    margin-top: var(--step-3);
+  }
+  .escolhas--uma {
+    grid-template-columns: 1fr;
+  }
+  :global(.escolha) {
+    display: grid;
+    gap: 0.4rem;
+    align-content: start;
+  }
+  :global(.escolha-topo) {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: var(--step-2);
+    color: var(--ink);
+    cursor: pointer;
+  }
+  :global(.escolha-card) {
+    cursor: pointer;
+  }
+  :global(.escolha:has(input:checked) .card) {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
   }
   .ajuda {
     font-size: var(--step-1);

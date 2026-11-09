@@ -1,0 +1,147 @@
+/* Card de símbolo — usado pela página do município (build) e pelo formulário de
+   relato (navegador). Escopado sob `.card` para não vazar para a landing. */
+
+.card.simbolo {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.card.simbolo .xadrez {
+  display: grid;
+  place-items: center;
+  padding: 1.5rem;
+  min-height: 280px;
+  background-image: conic-gradient(
+    var(--border) 25%,
+    var(--surface) 0 50%,
+    var(--border) 0 75%,
+    var(--surface) 0
+  );
+  background-size: 16px 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.card.simbolo .xadrez img {
+  width: 100%;
+  max-width: 240px;
+  height: auto;
+  display: block;
+}
+
+.card.simbolo .info {
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.875rem;
+  flex: 1;
+}
+
+.card.simbolo .info-topo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.card.simbolo .info h2 {
+  font-size: 1.25rem;
+}
+
+.card.simbolo .detalhes {
+  margin: 0;
+  display: grid;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+}
+
+.card.simbolo .detalhes > div {
+  display: grid;
+  grid-template-columns: 6.5rem 1fr;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+
+.card.simbolo .detalhes dt {
+  color: var(--muted);
+  font-size: 0.8125rem;
+}
+
+.card.simbolo .detalhes dd {
+  margin: 0;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.card.simbolo .detalhes code {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+
+.card .selo {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  border-radius: var(--r-selo);
+  padding: 2px 6px;
+  border: 1px solid currentColor;
+  white-space: nowrap;
+}
+
+.card .selo--livre {
+  color: var(--ok);
+}
+
+.card .selo--compartilha {
+  color: var(--warn);
+}
+
+.card .selo--oficial {
+  color: var(--stop);
+}
+
+.card .selo--tier {
+  color: var(--accent);
+}
+
+.card .selo--revisao {
+  color: var(--muted);
+}
+
+.card.simbolo .acoes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: auto;
+  padding-top: 0.5rem;
+}
+
+.card.simbolo .acoes .btn {
+  font-size: 0.875rem;
+  min-height: 40px;
+}
+
+.card.vazio {
+  padding: 1.5rem;
+  border-style: dashed;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.card.vazio h2 {
+  font-size: 1.125rem;
+}
+
+.card.vazio p {
+  margin: 0;
+  font-size: 0.9375rem;
+}
+
+.card.vazio .nota {
+  color: var(--muted);
+  font-size: 0.875rem;
+}

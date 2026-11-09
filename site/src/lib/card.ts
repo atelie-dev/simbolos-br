@@ -1,0 +1,116 @@
+/**
+ * Markup do card de símbolo, em função pura.
+ *
+ * É a **única** fonte do card: a página do município renderiza no build e o
+ * formulário de relato renderiza no navegador, e os dois precisam ser o mesmo
+ * card — não uma miniatura parecida. Se divergirem, o formulário deixa de
+ * mostrar o que a pessoa viu.
+ *
+ * `opcoes.acoes: false` tira copiar/baixar/reportar, que não fazem sentido
+ * dentro do formulário de relato.
+ */
+
+import { embedUrl } from "./urls";
+import { host, kb, tier } from "./formato";
+
+export type CardEntrada = { c: string; n: string };
+
+export type CardItem = {
+  licenca: string | null;
+  balde: string | null;
+  autor: string | null;
+  origem: string | null;
+  rendicoes: Record<string, { bytes: number }>;
+  arte?: { l: number; a: number } | null;
+};
+
+export type CardOpcoes = {
+  base: string;
+  acoes?: boolean;
+  /** `false` esconde o selo de tier — usado quando não há medida da arte. */
+  selo?: boolean;
+};
+
+const esc = (valor: unknown): string =>
+  String(valor ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+
+const BALDE: Record<string, string> = {
+  livre: "livre",
+  compartilha: "compartilha",
+  oficial: "oficial",
+};
+
+export function cardHtml(
+  entrada: CardEntrada,
+  tipo: "brasao" | "bandeira",
+  item: CardItem | undefined,
+  opcoes: CardOpcoes,
+): string {
+  const rotulo = tipo === "brasao" ? "Brasão" : "Bandeira";
+  const artigo = tipo === "brasao" ? "o" : "a";
+  const linkContribuir = `${esc(opcoes.base)}contribuir?cod=${esc(entrada.c)}&amp;tipo=${tipo}`;
+
+  if (!item) {
+    return `<article class="card vazio">
+  <h2>${rotulo}</h2>
+  <p class="muted">Ainda não temos ${artigo} ${rotulo.toLowerCase()} de ${esc(entrada.n)}.</p>
+  <p class="nota">Símbolo ausente não é símbolo inexistente: pode estar publicado pela prefeitura em PDF. <a href="${linkContribuir}">Enviar o arquivo</a>.</p>
+</article>`;
+  }
+
+  const formatos = (["svg", "png", "jpg"] as const).filter((f) => item.rendicoes[f]);
+  const principal = item.rendicoes.svg ? "svg" : "png";
+  const alvo = embedUrl(entrada.c, tipo, principal);
+  const alt = `${rotulo} de ${entrada.n}`;
+  const snippet = `<img src="${alvo}" alt="${alt}" width="192" height="192">`;
+
+  let selo = "";
+  if (opcoes.selo !== false) {
+    const t = tier(item);
+    selo = `<span class="selo selo--tier">${t.codigo} · ${esc(t.rotulo)}</span>`;
+  }
+
+  const acoes =
+    opcoes.acoes === false
+      ? ""
+      : `<div class="acoes">
+          <button type="button" class="btn btn--ghost" data-copiar="${esc(alvo)}">Copiar URL</button>
+          <button type="button" class="btn btn--ghost" data-copiar="${esc(snippet)}">Copiar &lt;img&gt;</button>
+          <a class="btn" href="${esc(alvo)}" target="_blank" rel="noopener">Baixar ${principal.toUpperCase()}</a>
+          <a class="btn btn--ghost" href="${linkContribuir}">Reportar problema</a>
+        </div>`;
+
+  const autor = item.autor
+    ? `<div><dt>Autor</dt><dd>${esc(item.autor)}</dd></div>`
+    : "";
+  const origem = item.origem
+    ? `<a href="${esc(item.origem)}" rel="noopener">${esc(host(item.origem))}</a>`
+    : "não registrada";
+
+  return `<article class="card simbolo">
+  <div class="xadrez">
+    <img src="${esc(embedUrl(entrada.c, tipo, "png"))}" alt="${esc(alt)}" width="320" height="320" decoding="async" />
+  </div>
+  <div class="info">
+    <div class="info-topo">
+      <h2>${rotulo}</h2>
+      ${selo}
+    </div>
+    <dl class="detalhes">
+      <div><dt>Licença</dt><dd class="licenca"><span class="selo selo--${esc(item.balde ?? "")}">${esc(BALDE[item.balde ?? ""] ?? "?")}</span> <code>${esc(item.licenca)}</code></dd></div>
+      ${autor}
+      <div><dt>Origem</dt><dd>${origem}</dd></div>
+      <div><dt>Formatos</dt><dd class="num">${formatos
+        .map((f) => `${f.toUpperCase()} ${kb(item.rendicoes[f].bytes)}`)
+        .join(" · ")}</dd></div>
+      <div><dt>Revisão</dt><dd><span class="selo selo--revisao">não revisado</span></dd></div>
+    </dl>
+    ${acoes}
+  </div>
+</article>`;
+}
