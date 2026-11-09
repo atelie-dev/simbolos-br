@@ -691,8 +691,13 @@ def completar_cmd(
     falta. O portao de visao decide cada candidato antes de entrar.
     """
     tipos = tuple(tipo or completar.TIPOS)
-    with console.status(f"varrendo categorias de {uf}..."):
-        r = completar.aplicar(uf, tipos=tipos, forcar=forcar, seco=seco, limite=limite)
+    try:
+        with console.status(f"varrendo categorias de {uf}..."):
+            r = completar.aplicar(uf, tipos=tipos, forcar=forcar, seco=seco, limite=limite)
+    except visao.CredencialAusente as exc:
+        erro.print(f"[bold]parou:[/] {exc}")
+        erro.print("nada foi perdido: rodar de novo retoma de onde parou")
+        raise typer.Exit(code=2) from exc
 
     t = Table(title=f"completar · {uf}")
     t.add_column("medida")
@@ -753,7 +758,11 @@ def trocar_cmd(
     do item sao apagados: procedencia e verificacao descrevem um arquivo, e o
     arquivo mudou. Depois rode `publicar`, `verificar-fonte` e `atos`.
     """
-    r = troca.trocar(codigo, tipo, url, licenca=licenca, autor=autor, fonte=fonte, seco=seco)
+    try:
+        r = troca.trocar(codigo, tipo, url, licenca=licenca, autor=autor, fonte=fonte, seco=seco)
+    except visao.CredencialAusente as exc:
+        erro.print(f"[bold]parou:[/] {exc}")
+        raise typer.Exit(code=2) from exc
     if not r["troca"]:
         erro.print(f"{codigo} {tipo}: nao trocou — {r['motivo']}")
         raise typer.Exit(code=1)

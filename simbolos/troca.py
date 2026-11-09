@@ -125,6 +125,10 @@ def trocar(
         f"Candidato a {tipo} do município de {item['municipio']}/{item['uf']}, "
         f"extraído de fonte oficial: {url}",
     )
+    if decisao.get("erro") and visao.erro_de_credencial(str(decisao["erro"])):
+        raise visao.CredencialAusente(
+            f"{item['municipio']}/{item['uf']}: {decisao['erro']} — nada foi trocado"
+        )
     if decisao.get("tipo") != tipo or not decisao.get("aceito"):
         return {
             "troca": False,

@@ -228,6 +228,9 @@ livre 7.557, compartilha 1.331, pendente 348.
   depender desse FIFO — a entrega de segredo para execução unattended está em
   aberto (ver Questões abertas). Se a FIFO morrer no meio, recriar com a
   ferramenta do 1Password (`create_local_env_file`) e refazer o que falhou.
+  Desde 2026-11-09, `completar` e `trocar` **param** com `visao.CredencialAusente`
+  quando a chave some (antes de começar ou no meio da rodada), em vez de contar
+  recusa falsa.
 - **`imageinfo` às vezes vem sem `mime`**, e o original era gravado como `.bin`;
   o `publicar` então não sabia se validava SVG ou abria raster. O conteúdo é a
   verdade: farejar com PIL (`completar._mime_real`) e `simbolos reparar` para
@@ -243,7 +246,7 @@ livre 7.557, compartilha 1.331, pendente 348.
 | Remover o CEP (campo 61) do BR Code | opcional; menos dado pessoal no QR |
 | Nome no BR Code é "FABIO DBATISTA"; trocar por nome comercial | depende do PSP |
 | Rendition 192 px para DANFSE | desenhada, não implementada |
-| Segredo para rodada longa e unattended | **aberto**: o `.env` é FIFO do 1Password e morre com a máquina bloqueada. Candidato: ler a FIFO uma vez no início e exportar para o processo (a rodada inteira herda), ou `op run` com service account. Nunca gravar segredo no repositório |
+| Segredo para rodada longa e unattended | **aberto**: o `.env` é FIFO do 1Password e morre com a máquina bloqueada. O aborto seguro já existe (`visao.CredencialAusente`); falta a entrega que sobrevive ao bloqueio. Candidato: ler a FIFO uma vez no início e exportar para o processo, ou `op run` com service account. Nunca gravar segredo no repositório |
 
 ## Registro de marcas/modelos (para não redescobrir)
 

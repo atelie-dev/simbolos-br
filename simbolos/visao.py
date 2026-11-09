@@ -24,6 +24,22 @@ MODELO_DECISAO = "clef-flash"
 PERGUNTAS_VERSAO = 2
 SISTEMAONE = "/systemone"
 
+
+class CredencialAusente(RuntimeError):
+    """A chave do provedor sumiu no meio da rodada.
+
+    O `.env` é um FIFO do 1Password e para de servir quando a máquina é
+    bloqueada. Sem esta exceção, cada item seguinte vira "rejeitado pela visão"
+    e a rodada termina com números falsos — foi o que aconteceu em 2026-11-09,
+    com 159 recusas que não eram recusas.
+    """
+
+
+def erro_de_credencial(erro: str) -> bool:
+    """Distingue "a chave sumiu" de "esta imagem não abriu"."""
+    e = erro.lower()
+    return any(p in e for p in ("ausente", "401", "403", "unauthorized", "invalid api key"))
+
 # Classificador discriminativo: uma passada, sem tokens de saída, com
 # probabilidades. É o formato certo para "isto é brasão?".
 PERGUNTAS = {

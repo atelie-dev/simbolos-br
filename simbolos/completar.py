@@ -22,7 +22,18 @@ from pathlib import Path
 
 from PIL import Image
 
-from . import DATA, NOMES_UF_COMMONS, catalogo, commons, nomes, publicacao, rede, triagem, visao
+from . import (
+    DATA,
+    NOMES_UF_COMMONS,
+    catalogo,
+    commons,
+    nomes,
+    provedores,
+    publicacao,
+    rede,
+    triagem,
+    visao,
+)
 from .modelos import Candidato
 
 CATALOGO = DATA / "_catalogo" / "catalogo.json"
@@ -152,6 +163,14 @@ def aplicar(
     if limite:
         chaves = chaves[:limite]
 
+    # Sem chave antes de comecar, nao ha o que fazer: melhor parar claro do que
+    # transformar cada item em "rejeitado".
+    if chaves and not seco and not provedores.obter(visao.PROVEDOR_VISAO).chave():
+        raise visao.CredencialAusente(
+            f"{visao.PROVEDOR_VISAO}: chave ausente antes de comecar "
+            "(o .env e um FIFO do 1Password; com a maquina bloqueada ele nao serve)"
+        )
+
     resumo = {
         "uf": uf,
         "categorias": len(por_chave),
@@ -197,6 +216,16 @@ def aplicar(
         custo = (decisao.get("uso") or {}).get("custo")
         if custo:
             resumo["visao_usd"] += float(custo)
+
+        if decisao.get("erro"):
+            if visao.erro_de_credencial(str(decisao["erro"])):
+                raise visao.CredencialAusente(
+                    f"{melhor.municipio}/{uf}: {decisao['erro']} — parou depois de "
+                    f"{resumo['aceitos']} aceitos; rode de novo para retomar"
+                )
+            resumo["falhas"] += 1
+            resumo["detalhe"].append({"codigo": codigo, "erro": str(decisao["erro"])[:120]})
+            continue
 
         if decisao.get("tipo") != tipo or not decisao.get("aceito"):
             resumo["rejeitados"] += 1
