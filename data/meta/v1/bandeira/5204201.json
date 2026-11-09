@@ -37,13 +37,17 @@
   "risco": "alto",
   "motivo": [
    "origem_fora_do_commons",
-   "licenca_pendente",
-   "nao_verificado"
+   "licenca_pendente"
   ]
  },
  "urls": {
   "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204201.svg",
   "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204201.png",
   "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5204201.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T06:17:53Z",
+  "estado": "igual",
+  "http": 200
  }
 }
