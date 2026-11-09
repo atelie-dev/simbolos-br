@@ -9,7 +9,7 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
 
 <Base
   title="Relatar ou contribuir · Símbolos · coletivo.dev.br"
-  description="Aponte um erro ou envie a fonte oficial de um símbolo municipal. Cada envio vira uma issue pública, aguardando confirmação humana."
+  description="Aponte um erro ou envie a fonte oficial de um símbolo municipal. Quem decide se muda é uma pessoa, não o site."
 >
   <Topo />
 
@@ -18,9 +18,10 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
       <p class="eyebrow">Relatar ou contribuir</p>
       <h1>O acervo melhora quando alguém aponta o que está errado.</h1>
       <p class="linha-fina">
-        Nada é alterado automaticamente: cada envio vira uma issue pública e
-        espera a confirmação de quem mantém o acervo. O formulário não recebe
-        arquivo — recebe <strong>fonte</strong>, e o pipeline busca e confere.
+        Quem decide se um relato vira mudança é uma pessoa. O site registra o
+        envio, em público, e você acompanha por um link. Para contribuir com uma
+        imagem, mande o endereço da página oficial: a gente baixa e confere antes
+        de publicar.
       </p>
     </header>
 
@@ -86,7 +87,7 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
         <label class="campo">
           URL da fonte oficial
           <input name="url_fonte" type="url" placeholder="https://prefeitura…" />
-          <span class="ajuda">Obrigatória. O pipeline baixa e confere; não aceitamos upload.</span>
+          <span class="ajuda">Obrigatória. A gente baixa o arquivo do link e confere. Não precisa enviar arquivo.</span>
         </label>
         <div class="dupla">
           <label class="campo">Órgão <input name="orgao" placeholder="prefeitura, câmara…" /></label>
@@ -117,7 +118,7 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
         <label class="campo">
           Contato (opcional)
           <input name="contato" placeholder="como falar com você" maxlength="120" />
-          <span class="ajuda">A issue é pública. Não inclua dados pessoais de terceiros.</span>
+          <span class="ajuda">O envio fica público. Não escreva dados de outras pessoas.</span>
         </label>
         <div class="cf-turnstile" data-sitekey={sitekey} data-theme="auto"></div>
         <button type="submit" class="enviar">Enviar relato</button>
@@ -226,7 +227,7 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
 
     const token = (window as unknown as { turnstile?: { getResponse: () => string } }).turnstile?.getResponse();
     if (!token) {
-      status.textContent = "Aguarde a verificação anti-robo terminar.";
+      status.textContent = "Aguarde a verificação anti-robô terminar.";
       return;
     }
 
@@ -247,7 +248,7 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
       status.className = "status ok";
       status.innerHTML = resposta.duplicado
         ? "Este relato já foi recebido nas últimas 24 horas."
-        : `Recebido. Acompanhe em <a href="${resposta.url}" rel="noopener">${resposta.url}</a> — nada é aplicado sem confirmação humana.`;
+        : `Recebido. Acompanhe em <a href="${resposta.url}" rel="noopener">${resposta.url}</a>. Nada muda no acervo sem alguém confirmar.`;
       form.reset();
       selecionado = null;
       escolhido.textContent = "Nenhum município escolhido.";
