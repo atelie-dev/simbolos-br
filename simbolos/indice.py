@@ -224,6 +224,10 @@ def gerar(destino: Path = DESTINO) -> dict:
             # Última conferência contra a origem (D21): a página usa para dizer
             # "conferido" em vez de repetir "não revisado" para sempre.
             "verificacao": r.get("verificacao"),
+            # Lei que instituiu o símbolo, quando o `leis` achou e o `atos`
+            # gravou. Raro (8 municípios até hoje): o card só mostra a linha
+            # quando existe, em vez de anunciar ausência em 8.649 itens.
+            "ato": r.get("ato"),
         }
         for r in sorted(itens.values(), key=lambda x: (x["codigo_ibge"], x["tipo"]))
     ]

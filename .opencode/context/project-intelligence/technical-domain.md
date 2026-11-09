@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.4 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.5 | Updated: 2026-11-09 -->
 
 # Technical Domain — Símbolos BR
 
@@ -33,6 +33,7 @@ uv run python -m simbolos atestar          # sha1/bytes/data de captura nos side
 uv run python -m simbolos verificar-fonte  # confere os 8.379 no Commons por sha1 (~3 min)
 uv run python -m simbolos risco            # data/risco.json: quem está só no R2
 uv run python -m simbolos urls             # regrava as URLs nos sidecars (backfill)
+uv run python -m simbolos atos             # desce a lei do jsonl do `leis` para os sidecars
 uv run python -m simbolos r2               # sobe embed/ + meta/ para simbolos-br-cdn
 uv run python -m simbolos acervo           # backup privado em simbolos-br-acervo
 uv run python -m simbolos indice           # índice + resumo, lendo os sidecars

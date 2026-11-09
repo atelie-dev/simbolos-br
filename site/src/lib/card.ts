@@ -23,6 +23,8 @@ export type CardItem = {
   rendicoes: Record<string, { bytes: number }>;
   arte?: { l: number; a: number } | null;
   verificacao?: { estado?: string; em?: string } | null;
+  /** Lei que instituiu o símbolo, com a página onde ela foi lida. */
+  ato?: { texto: string; fonte?: string | null; trecho?: string | null } | null;
 };
 
 /**
@@ -153,9 +155,10 @@ export function cardHtml(
           <a class="btn btn--ghost" href="${linkContribuir}">Reportar problema</a>
         </div>`;
 
-  // Toda linha aparece sempre: quando o valor falta, o card diz que falta, em
-  // vez de encolher. Sem isso, dois cards lado a lado têm áreas brancas com
-  // alturas diferentes.
+  // Toda linha obrigatória aparece sempre: quando o valor falta, o card diz que
+  // falta, em vez de encolher. Sem isso, dois cards lado a lado têm áreas
+  // brancas com alturas diferentes. A exceção é o ato oficial, que é achado e
+  // não requisito — essa linha só existe quando há lei.
   const autor = item.autor
     ? `<dd>${esc(item.autor)}</dd>`
     : `<dd class="ausente">não registrado</dd>`;
@@ -170,6 +173,14 @@ export function cardHtml(
   const origem = item.origem
     ? `<a href="${esc(item.origem)}" rel="noopener">${esc(host(item.origem))}</a>`
     : "não registrada";
+  // A lei só aparece quando existe. Licença e autor são contrato: todo item tem
+  // (ou diz que não tem). A norma instituidora é achado — anunciar a ausência
+  // dela em quase todo card ensinaria o leitor a ignorar a linha.
+  const ato = item.ato?.texto
+    ? item.ato.fonte
+      ? `<a href="${esc(item.ato.fonte)}" rel="noopener">${esc(item.ato.texto)}</a>`
+      : esc(item.ato.texto)
+    : "";
 
   return `<article class="card simbolo">
   <div class="xadrez">
@@ -184,6 +195,7 @@ export function cardHtml(
       <div><dt>Licença</dt><dd class="licenca"><span class="selo selo--${esc(item.balde ?? "")}">${esc(BALDE[item.balde ?? ""] ?? "?")}</span> ${licencaTexto} ${seloLic}</dd></div>
       <div><dt>Autor</dt>${autor}</div>
       <div><dt>Origem</dt><dd>${origem}</dd></div>
+      ${ato ? `<div><dt>Ato oficial</dt><dd class="ato">${ato}</dd></div>` : ""}
       <div><dt>Formatos</dt><dd class="num formatos">${formatos
         .map(
           (f) =>

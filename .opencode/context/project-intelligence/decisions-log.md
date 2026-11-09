@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.7 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.8 | Updated: 2026-11-09 -->
 
 # Decisions Log — Símbolos BR
 
@@ -511,3 +511,35 @@ mantenedor decidiu **não rotacionar**, porque este canal é ZDR (sem retenção
 a chave segue em uso, e o registro fica aqui para quem discordar do critério.
 Turnstile: a sitekey é pública (página + var do Worker), o secret é secret do
 Worker.
+
+## D28 — AAM: símbolo sim, biblioteca não; e a lei chega ao card (2026-11-09)
+
+**Decisão:** coletar símbolo no site da AAM (uma página por município, imagem em
+`/wp-content/uploads/aam-municipios/{slug}/{hash}.png`) e **descartar a
+biblioteca**, depois de conferir o conteúdo. E fazer a lei coletada pelo `leis`
+descer até o item: `simbolos atos` grava `ato` no sidecar, o índice leva ao
+`itens.json`, e o card mostra a linha "Ato oficial" **só quando existe**.
+
+**Por quê (medido):** os 62 municípios do AM numa requisição só; 17 candidatos,
+15 entraram, 2 rejeitados pela visão; 6,5 MB, US$ 0,009; cobertura 4.962
+municípios (89,1%). A biblioteca tem 126 documentos — 95 notas técnicas, 27
+boletins de FPM, 2 revistas, 2 cartilhas — e **zero** menção a símbolo, brasão,
+bandeira, escudo ou hino: é acervo de gestão municipal. Já o `leis` tinha 10 atos
+confirmados em 1.218 municípios (0,8%, 0 PDF) parados em `leis.jsonl`, sem
+sidecar e sem card — 11 itens em 8 municípios com lei conhecida e nenhuma
+superfície onde aparecesse.
+
+**Rejeitado:** confiar no `alt` da listagem ("Bandeira de X") para decidir tipo —
+dos 17 candidatos, 1 era brasão e o portão pegou; mostrar "não registrado" na
+linha do ato em 8.645 cards (uma linha vazia 99,9% das vezes ensina o leitor a
+ignorar a linha, e a lei não é requisito do contrato como licença e autor);
+aplicar o ato aos dois tipos quando o texto nomeia um — "institui o brasão" no
+card da bandeira é afirmação falsa, ainda que o link esteja certo; raspar a
+biblioteca por precaução ("pode ter algo") sem ler o conteúdo.
+
+**Consequência:** `simbolos atos` é idempotente e só toca sidecar publicado —
+rejeitado fica de fora. A linha do card linka a página onde a lei foi lida
+(o `ato` guarda `texto`, `fonte` e `trecho`). Os 15 imports da AAM passaram por
+`verificar-fonte` e voltaram **iguais por sha256**, não por link: 8.656 de 8.656
+itens têm data de verificação. O próximo salto da lei não é a prefeitura, é o
+sistema da câmara — e a AAM entrega a URL da câmara dos 62 do AM de graça.

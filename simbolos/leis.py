@@ -11,6 +11,7 @@ espaçadas. Um semáforo separado limita as chamadas ao provedor.
 
 from __future__ import annotations
 
+import html
 import json
 import re
 import socket
@@ -23,8 +24,10 @@ from pathlib import Path
 from urllib.parse import urljoin, urlparse
 from urllib.robotparser import RobotFileParser
 
-from . import DATA, USER_AGENT, maritaca, rede
+from . import DATA, USER_AGENT, maritaca, publicacao, rede
 from .nomes import compacto
+
+COLETA = DATA / "_coleta" / "leis.jsonl"
 
 PADROES_DOMINIO = ("{c}.{uf}.gov.br", "{s}.{uf}.gov.br", "www.{c}.{uf}.gov.br")
 
@@ -526,4 +529,87 @@ def coletar_lote(
                 time.sleep(pausa)
 
     resumo["segundos"] = round(time.time() - inicio, 1)
+    return resumo
+
+
+def _ultimos(caminho: Path) -> dict[str, dict]:
+    """Último registro de cada município — o arquivo é append-only."""
+    ultimo: dict[str, dict] = {}
+    if not caminho.exists():
+        return ultimo
+    for linha in caminho.read_text().splitlines():
+        if not linha.strip():
+            continue
+        try:
+            registro = json.loads(linha)
+        except json.JSONDecodeError:
+            continue
+        ultimo[registro["codigo"]] = registro
+    return ultimo
+
+
+# A lei existe para o símbolo que ela institui. Quando o texto nomeia um tipo,
+# aplicar o ato ao outro seria afirmar o que a norma não diz — "institui o
+# brasão" no card da bandeira é uma frase errada, ainda que o link esteja certo.
+_DE_BRASAO = re.compile(r"bras[aã]o|escudo|armas", re.IGNORECASE)
+_DE_BANDEIRA = re.compile(r"bandeira|pavilh", re.IGNORECASE)
+
+
+def _tipos(texto: str) -> tuple[str, ...]:
+    brasao = bool(_DE_BRASAO.search(texto))
+    bandeira = bool(_DE_BANDEIRA.search(texto))
+    if brasao and not bandeira:
+        return ("brasao",)
+    if bandeira and not brasao:
+        return ("bandeira",)
+    # Nem nomeia, ou nomeia os dois: a norma trata dos símbolos do município.
+    return ("brasao", "bandeira")
+
+
+def atos_aceitos(caminho: Path = COLETA) -> dict[str, dict]:
+    """Lei confirmada por município, com a página e o trecho que a sustentam.
+
+    O texto do ato sozinho não prova nada: sem a página onde ele aparece,
+    ninguém confere depois. O registro guarda os três.
+    """
+    saida: dict[str, dict] = {}
+    for codigo, registro in _ultimos(caminho).items():
+        if not registro.get("ato_aceito") or not registro.get("ato"):
+            continue
+        pagina = next((p for p in registro.get("paginas") or [] if p.get("ato_aceito")), {})
+        trecho = html.unescape((pagina.get("trecho") or "").strip())
+        saida[codigo] = {
+            "texto": html.unescape(registro["ato"].strip()),
+            "fonte": pagina.get("url"),
+            "trecho": trecho or None,
+        }
+    return saida
+
+
+def aplicar_atos(*, caminho: Path = COLETA) -> dict:
+    """Grava a lei nos sidecars já publicados. Idempotente.
+
+    A coleta é do agregado (`leis.jsonl`), mas quem manda é o item: só recebe a
+    lei o sidecar que está publicado. Rejeitado e não publicado ficam de fora —
+    a norma de um símbolo que o acervo não serve não é dado nosso.
+    """
+    atos = atos_aceitos(caminho)
+    resumo = {"candidatos": len(atos), "gravados": 0, "sem_sidecar": 0, "sem_publicacao": 0}
+    for codigo, ato in atos.items():
+        tipos = _tipos(ato["texto"])
+        achou = False
+        for tipo in tipos:
+            arquivo = publicacao.META / tipo / f"{codigo}.json"
+            if not arquivo.exists():
+                continue
+            registro = json.loads(arquivo.read_text())
+            if registro.get("estado") != "publicado":
+                resumo["sem_publicacao"] += 1
+                continue
+            registro["ato"] = ato
+            publicacao.gravar_meta(registro)
+            resumo["gravados"] += 1
+            achou = True
+        if not achou:
+            resumo["sem_sidecar"] += 1
     return resumo

@@ -1,17 +1,17 @@
 {
- "gerado_em": "2026-11-09T06:18:52Z",
+ "gerado_em": "2026-11-09T06:52:37Z",
  "premissas": [
   "vetor é sempre baixo por decisão (D21)",
   "o SVG publicado é a fonte, byte a byte, e vai versionado em data/vetores",
   "quando ele ainda não está lá, o motivo vetor_versionavel registra a dívida"
  ],
  "resumo": {
-  "itens": 8641,
-  "risco_alto": 330,
+  "itens": 8656,
+  "risco_alto": 345,
   "risco_baixo": 8311,
   "por_motivo": {
-   "licenca_pendente": 331,
-   "origem_fora_do_commons": 262,
+   "licenca_pendente": 346,
+   "origem_fora_do_commons": 277,
    "vetor_versionado": 1170
   }
  },
@@ -158,6 +158,18 @@
    ]
   },
   {
+   "codigo_ibge": "1300144",
+   "tipo": "bandeira",
+   "uf": "AM",
+   "municipio": "Apuí",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
    "codigo_ibge": "1300508",
    "tipo": "brasao",
    "uf": "AM",
@@ -170,10 +182,58 @@
    ]
   },
   {
+   "codigo_ibge": "1300631",
+   "tipo": "bandeira",
+   "uf": "AM",
+   "municipio": "Beruri",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
    "codigo_ibge": "1301100",
    "tipo": "brasao",
    "uf": "AM",
    "municipio": "Careiro",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1301159",
+   "tipo": "bandeira",
+   "uf": "AM",
+   "municipio": "Careiro da Várzea",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1301951",
+   "tipo": "bandeira",
+   "uf": "AM",
+   "municipio": "Itamarati",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1302009",
+   "tipo": "bandeira",
+   "uf": "AM",
+   "municipio": "Itapiranga",
    "balde": "pendente",
    "espelhos": [],
    "motivo": [
@@ -195,9 +255,45 @@
   },
   {
    "codigo_ibge": "1302553",
+   "tipo": "bandeira",
+   "uf": "AM",
+   "municipio": "Manaquiri",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1302553",
    "tipo": "brasao",
    "uf": "AM",
    "municipio": "Manaquiri",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1302801",
+   "tipo": "bandeira",
+   "uf": "AM",
+   "municipio": "Maraã",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1303205",
+   "tipo": "bandeira",
+   "uf": "AM",
+   "municipio": "Novo Airão",
    "balde": "pendente",
    "espelhos": [],
    "motivo": [
@@ -218,10 +314,58 @@
    ]
   },
   {
+   "codigo_ibge": "1303502",
+   "tipo": "bandeira",
+   "uf": "AM",
+   "municipio": "Pauini",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1303908",
+   "tipo": "bandeira",
+   "uf": "AM",
+   "municipio": "São Paulo de Olivença",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
    "codigo_ibge": "1303908",
    "tipo": "brasao",
    "uf": "AM",
    "municipio": "São Paulo de Olivença",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1304104",
+   "tipo": "bandeira",
+   "uf": "AM",
+   "municipio": "Tapauá",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1304237",
+   "tipo": "bandeira",
+   "uf": "AM",
+   "municipio": "Tonantins",
    "balde": "pendente",
    "espelhos": [],
    "motivo": [
@@ -243,9 +387,45 @@
   },
   {
    "codigo_ibge": "1304260",
+   "tipo": "bandeira",
+   "uf": "AM",
+   "municipio": "Uarini",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1304260",
    "tipo": "brasao",
    "uf": "AM",
    "municipio": "Uarini",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1304302",
+   "tipo": "bandeira",
+   "uf": "AM",
+   "municipio": "Urucará",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "1304401",
+   "tipo": "brasao",
+   "uf": "AM",
+   "municipio": "Urucurituba",
    "balde": "pendente",
    "espelhos": [],
    "motivo": [

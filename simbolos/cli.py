@@ -535,6 +535,26 @@ def _cobertos() -> set[str]:
     return cobertos
 
 
+@app.command("atos")
+def atos_cmd() -> None:
+    """Grava no sidecar a lei que instituiu o simbolo, achada pelo `leis`.
+
+    O `leis` coleta no agregado (`data/_coleta/leis.jsonl`); aqui a lei desce
+    para o item, que e a verdade que o site le. Idempotente: rodar de novo
+    reescreve o mesmo campo.
+    """
+    r = leis.aplicar_atos()
+    t = Table(title="atos oficiais")
+    t.add_column("medida")
+    t.add_column("valor", justify="right")
+    t.add_row("municipios com lei confirmada", str(r["candidatos"]))
+    t.add_row("sidecars gravados", str(r["gravados"]))
+    t.add_row("sem sidecar", str(r["sem_sidecar"]))
+    t.add_row("fora de publicacao", str(r["sem_publicacao"]))
+    console.print(t)
+    console.print("-> rode `simbolos indice` para o site ver")
+
+
 @app.command("leis")
 def leis_cmd(
     uf: Annotated[str | None, typer.Option(help="sigla da UF; padrao todas")] = None,

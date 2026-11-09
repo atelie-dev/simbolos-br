@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.4 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.5 | Updated: 2026-11-09 -->
 
 # Living Notes — Símbolos BR
 
@@ -27,22 +27,25 @@ o custom domain do R2 liga um host a um bucket, e o bucket é por serviço
 bucket dele, sem Worker. Configurável por `SITE_BASE` / `CDN_BASE` /
 `SERVICO_PATH` em `simbolos/config.py` e no `devenv.nix`.
 
-## Estado em 2026-11-08
+## Estado em 2026-11-09
 
 | Etapa | Situação |
 |---|---|
 | Catálogo IBGE | pronto: 27 UFs, 5.571 municípios (`data/municipios.json`) |
 | Coleta Wikidata + Commons | pronta: 4.353 brasões, 4.037 bandeiras |
 | Triagem | pronta: `data/_catalogo/catalogo.json` (4.790 municípios com item) |
-| Publicação | **concluída**: 8.369 de 8.390 (11 falhas), 1,3 GB |
-| Sidecars no R2 | 8.379 regravados em 2026-11-08 com os campos de D21 (12,7 MB, 0 falhas) |
+| Publicação | **concluída**: 8.656 itens publicados, 0 falha na última passada |
+| Sidecars no R2 | 8.656 regravados, 12,7 MB, 0 falhas |
 | Fontes originais | 7.209 rasters em `data/fontes` (1,3 GB), 0 divergências, backup no bucket privado |
-| Procedência | **conferida**: 8.379 de 8.379 iguais por `sha1` no Commons, em 3 min e 168 requisições, sem baixar arquivo (D21) |
+| Procedência | **conferida**: 8.656 de 8.656 itens com data de verificação; a última rodada pegou 15 (AAM) e achou 15 iguais |
 | Crawl `.gov.br` | **concluído**: 1.218 municípios, 0 falha de LLM, 403 URLs únicas de símbolo em 368 municípios, US$ 0,20 (D24) |
-| Sidecars locais | em `data/meta/v1` (verdade versionável), com `sha1_origem`, `capturado_em`, `verificacao` e `guarda` |
+| AAM (Amazonas) | **concluído**: 62 municípios, 15 símbolos novos, 2 rejeitados pela visão, US$ 0,009 (D28) |
+| Biblioteca da AAM | **descartada**: 126 documentos (95 notas técnicas, 27 FPM, 2 revistas, 2 cartilhas), zero sobre símbolo (D28) |
+| Atos oficiais | 11 itens em 8 municípios com lei confirmada e link da página; linha "Ato oficial" no card só quando existe (D28) |
+| Sidecars locais | em `data/meta/v1` (verdade versionável), com `sha1_origem`, `capturado_em`, `verificacao`, `ato` e `guarda` |
 | Acervo versionado | 1.170 SVGs (287 MB) em `data/vetores` + livro-razão (3,3 MB) em `data/ledger` (D22) |
-| Guarda | 68 itens de risco alto (69 `pendente`, 1 vetorial), 8.311 baixos; vetor tem `espelhos: [commons, git]` |
-| R2 | `simbolos-br-cdn` 1,32 GB (público) + `simbolos-br-acervo` 1,30 GB (**sem domínio**) = 2,62 GB, 26% do free tier |
+| Guarda | 345 itens de risco alto (346 `pendente`, 277 fora do Commons), 8.311 baixos; vetor tem `espelhos: [commons, git]` |
+| R2 | `simbolos-br-cdn` (público) + `simbolos-br-acervo` (**sem domínio**) = 2,62 GB, 26% do free tier |
 | Site | **no ar**: landing, `/consultar`, `/cobertura`, `/sobre`, `/contribuir`, 5.571 municípios, 27 estados, portal na raiz |
 | Relatos | `/simbolos/contribuir` → Worker + Turnstile + GitHub App: issue com `aguardando-confirmacao`, nada automático (D27) |
 | URLs | limpas, sem barra (`build.format: "file"`) e com `link rel=canonical` |
@@ -51,15 +54,15 @@ bucket dele, sem Worker. Configurável por `SITE_BASE` / `CDN_BASE` /
 | Apoio | GitHub Sponsors ativo; PIX com chave UUID e sem `txid` |
 | Pacotes npm/PyPI/Composer | não começaram |
 
-Números públicos: 8.379 itens, 4.788 municípios cobertos (85,9%), 1.170 itens
-vetoriais. Vetorial por tipo: 573 municípios com brasão em SVG, 597 com bandeira
-em SVG, 364 com os dois. Baldes (contados nos sidecars): livre 7.096,
-compartilha 1.214, pendente 69.
+Números públicos: 8.656 itens, 4.962 municípios cobertos (89,1%), 4.578 com
+brasão, 4.078 com bandeira. Vetorial por tipo: 573 municípios com brasão em SVG,
+597 com bandeira em SVG, 1.170 itens vetoriais. Baldes (contados nos sidecars):
+livre 7.096, compartilha 1.214, pendente 346.
 
 ## Próximo passo, em ordem
 
-1. **Portão de visão** nos 915 itens antigos e nos 267 importados do crawl:
-   confirmar identidade e qualidade (o tipo já passou pela v2).
+1. **Portão de visão** nos 915 itens antigos marcados `precisa_visao`: o tipo já
+   passou pela v2, falta confirmar identidade e qualidade.
 2. **`/baixar`**: pacotes por estado e formato, `brasil-livre.zip` (só balde
    livre) e `danfse-192.zip`. É a última rota do plano que falta no site.
 3. **`/m/{cod}`** como redirect: `_redirects` do Pages aceita só 2.100 — precisa
@@ -67,10 +70,13 @@ compartilha 1.214, pendente 69.
 4. **Símbolos dos estados**: os 27 nunca entraram na coleta; a página do estado
    diz isso explicitamente.
 5. **`/transparencia`**: já existe número — domínio, ~2,7 GB de R2, egress zero,
-   e os 326 itens de risco alto (68 antigos + 258 importados).
+   e os 345 itens de risco alto.
 6. **Moderação dos relatos**: a fila é o GitHub; falta rotina para ler
    `aguardando-confirmacao`, aplicar e fechar citando o commit.
-7. **CI**: ligar o Pages ao GitHub exige gerar o índice no build (depende do
+7. **Lei no sistema da câmara**: o `leis` procura na prefeitura e achou 10 atos
+   em 1.218 municípios (0,8%). A câmara é onde a lei municipal costuma estar, e
+   o site da AAM dá a URL dela para os 62 do AM — piloto barato.
+8. **CI**: ligar o Pages ao GitHub exige gerar o índice no build (depende do
    catálogo e dos PNGs) — decisão à parte.
 
 ## Dívidas conhecidas
@@ -176,6 +182,17 @@ compartilha 1.214, pendente 69.
   para dados que mudam a cada publicação, deixar revalidar.
 - **`_headers` só vale na raiz do deployment**; o `empacotar_site.py` copia
   `portal/` para lá justamente por isso.
+- **Página de símbolo da prefeitura quase nunca cita a lei.** 1.218 municípios
+  processados → 10 atos (0,8%) e **0 PDF**. A norma mora no sistema da câmara,
+  não na página que mostra a bandeira; procurar ali é outra coleta.
+- **Site de associação de municípios não é acervo de símbolo.** A biblioteca da
+  AAM tem 126 documentos (95 notas técnicas, 27 FPM) e **nenhum** fala de
+  símbolo. O que a AAM tem de ouro é a página de cada município: imagem,
+  prefeitura, câmara, telefone, e-mail. O nome do menu não diz o conteúdo —
+  conferir antes de planejar coleta.
+- **Dado coletado e não exibido é dívida invisível.** O `ato` estava no
+  `leis.jsonl` desde o crawl, com trecho e página, e nunca chegou ao sidecar nem
+  ao card: existia e não servia para nada. Derivado que ninguém lê não é ativo.
 
 ## Questões abertas
 
