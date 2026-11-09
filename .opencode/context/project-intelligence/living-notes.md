@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.2 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.3 | Updated: 2026-11-08 -->
 
 # Living Notes — Símbolos BR
 
@@ -38,6 +38,7 @@ bucket dele, sem Worker. Configurável por `SITE_BASE` / `CDN_BASE` /
 | Sidecars no R2 | 8.379 regravados em 2026-11-08 com os campos de D21 (12,7 MB, 0 falhas) |
 | Fontes originais | 7.209 rasters em `data/fontes` (1,3 GB), 0 divergências, backup no bucket privado |
 | Procedência | **conferida**: 8.379 de 8.379 iguais por `sha1` no Commons, em 3 min e 168 requisições, sem baixar arquivo (D21) |
+| Crawl `.gov.br` | **concluído**: 1.218 municípios, 0 falha de LLM, 403 URLs únicas de símbolo em 368 municípios, US$ 0,20 (D24) |
 | Sidecars locais | em `data/meta/v1` (verdade versionável), com `sha1_origem`, `capturado_em`, `verificacao` e `guarda` |
 | Acervo versionado | 1.170 SVGs (287 MB) em `data/vetores` + livro-razão (3,3 MB) em `data/ledger` (D22) |
 | Guarda | 68 itens de risco alto (69 `pendente`, 1 vetorial), 8.311 baixos; vetor tem `espelhos: [commons, git]` |
@@ -56,11 +57,11 @@ compartilha 1.214, pendente 69.
 
 ## Próximo passo, em ordem
 
-1. **Crawl `.gov.br`** nos 1.218 municípios restantes: corrigido em D23
-   (robots, intervalo por host, UA real) e medido em AL — **34 municípios,
-   24 min, US$ 0,0019, 18 símbolos em 66 páginas** (9 municípios com símbolo,
-   26%), **0 atos e 0 PDFs**. Extrapolação: ~645 símbolos e ~US$ 0,07.
-   O crawl acha símbolo, não lei (ver Armadilhas).
+1. **Importar os 403 símbolos do crawl**: `simbolos importar` lê
+   `data/_coleta/leis.jsonl`, deduplica por URL (180 repetem), cria candidatos com
+   `balde: pendente` e `origem` do site municipal, e passa pelo portão de visão
+   para confirmar identidade **e** tipo (141 não têm pista no nome do arquivo).
+   Levaria a cobertura de 85,9% para **92,5%**.
 2. **Portão de visão** nos 915 itens que precisam (`simbolos visao`, motor
    `decisao`), e nos achados do crawl oficial.
 3. **`/baixar`**: pacotes por estado e formato, `brasil-livre.zip` (só balde
