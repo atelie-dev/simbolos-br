@@ -511,11 +511,16 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
   fieldset {
     overflow: hidden;
   }
-  fieldset > :not(legend) {
+  fieldset > :not(legend):not(button) {
     padding-inline: var(--step-4);
     /* O legend é flutuante e ocupa 100% da largura: sem clear, um filho que
        cria contexto próprio (flex/grid) fica com largura zero ao lado dele. */
     clear: both;
+  }
+  /* Button é inline-block: padding-inline nele é preenchimento interno, não
+     recuo. O recuo vem de margem. */
+  fieldset > button {
+    margin-inline: var(--step-4);
   }
   .campo {
     display: grid;
