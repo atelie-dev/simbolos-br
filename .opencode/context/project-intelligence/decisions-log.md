@@ -617,9 +617,10 @@ quem ninguém cadastrou. Em Alagoas, 21 de 33 lacunas estavam na categoria.
 
 **Incidente:** no meio da varredura, o `.env` (FIFO do 1Password) parou de servir
 e o portão passou a responder "chave ausente". O sintoma foi 100% de rejeição com
-custo US$ 0,0000 em oito UFs seguidas — 159 recusas falsas, todas refeitas uma a
-uma depois de recriar a FIFO. Lição registrada em `living-notes`: **nunca dois
-`uv run` ao mesmo tempo neste projeto**.
+custo US$ 0,0000 em oito UFs seguidas — 159 recusas falsas, refeitas depois.
+**A causa não é concorrência: o FIFO para de servir quando a máquina é
+bloqueada** (o mantenedor estava dormindo). A entrega de segredo para rodada
+longa e unattended fica pendente — o FIFO não serve para isso.
 
 **Rejeitado:** aceitar a categoria como verdade sem visão (o portão recusou 61,
 incluindo brasão no lugar de bandeira); importar as 40 bandeiras de AL que o

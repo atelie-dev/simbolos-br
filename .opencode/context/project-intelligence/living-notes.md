@@ -221,12 +221,13 @@ livre 7.557, compartilha 1.331, pendente 348.
   `simbolosmunicipais.com.br` mistura arquivos do Commons (um brasão era
   byte-idêntico) com prévias marcadas da Simbolopedia (MBI, mbi.com.br), que
   vende as versões limpas. Sem licença e sem autor declarado: nunca é fonte.
-- **O `.env` é um FIFO do 1Password: dois `uv run` ao mesmo tempo brigam por
-  ele.** Um dos processos lê vazio e a visão responde "NEURALWATT_API_KEY
-  ausente". O sintoma na saída é inconfundível: **100% de rejeição e custo
-  US$ 0,0000**. Rodar uma coleta por vez; se a FIFO parar de servir, recriar com
-  a ferramenta do 1Password (`create_local_env_file`) — aconteceu no meio da
-  varredura nacional e produziu 159 recusas falsas, todas refeitas.
+- **O `.env` é um FIFO do 1Password e para de servir quando a máquina é
+  bloqueada.** O sintoma na saída é inconfundível: **100% de rejeição e custo
+  US$ 0,0000**. Foi o que aconteceu no meio da varredura nacional, com o
+  mantenedor dormindo: 159 recusas falsas, todas refeitas. Rodada longa não pode
+  depender desse FIFO — a entrega de segredo para execução unattended está em
+  aberto (ver Questões abertas). Se a FIFO morrer no meio, recriar com a
+  ferramenta do 1Password (`create_local_env_file`) e refazer o que falhou.
 - **`imageinfo` às vezes vem sem `mime`**, e o original era gravado como `.bin`;
   o `publicar` então não sabia se validava SVG ou abria raster. O conteúdo é a
   verdade: farejar com PIL (`completar._mime_real`) e `simbolos reparar` para
@@ -242,6 +243,7 @@ livre 7.557, compartilha 1.331, pendente 348.
 | Remover o CEP (campo 61) do BR Code | opcional; menos dado pessoal no QR |
 | Nome no BR Code é "FABIO DBATISTA"; trocar por nome comercial | depende do PSP |
 | Rendition 192 px para DANFSE | desenhada, não implementada |
+| Segredo para rodada longa e unattended | **aberto**: o `.env` é FIFO do 1Password e morre com a máquina bloqueada. Candidato: ler a FIFO uma vez no início e exportar para o processo (a rodada inteira herda), ou `op run` com service account. Nunca gravar segredo no repositório |
 
 ## Registro de marcas/modelos (para não redescobrir)
 
