@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5219902",
+ "uf": "GO",
+ "municipio": "São Francisco de Goiás",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bandeira_de_S%C3%A3o_Francisco_de_Goi%C3%A1s.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São Francisco de Goiás",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "ab189210627a548a5cab36dd1435bd15901a3b61a1a8d77ca7e05c0d9d3aa6ec",
+ "sha1_origem": "a0be14c6f6ff5f72d13f644bc0fe42ef88f3c3ae",
+ "bytes_origem": 367397,
+ "capturado_em": "2026-11-09T07:48:10Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 52515,
+   "sha256": "94ae274335cd633a0980f758a88519e9a97de9c58511f1a705c87557376438e7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16442,
+   "sha256": "02e14424342264a457f9fce21d9fe232981a8d956bf50627f91941c4b231709b",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_São_Francisco_de_Goiás.png",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5219902.png",
+  "bytes": 367397,
+  "sha256": "ab189210627a548a5cab36dd1435bd15901a3b61a1a8d77ca7e05c0d9d3aa6ec",
+  "sha1": "a0be14c6f6ff5f72d13f644bc0fe42ef88f3c3ae"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5219902.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5219902.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5219902.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:10Z",
+  "estado": "igual",
+  "sha1_commons": "a0be14c6f6ff5f72d13f644bc0fe42ef88f3c3ae"
+ }
+}

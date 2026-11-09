@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.6 | Updated: 2026-11-09 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.7 | Updated: 2026-11-09 -->
 
 # Living Notes — Símbolos BR
 
@@ -34,19 +34,19 @@ bucket dele, sem Worker. Configurável por `SITE_BASE` / `CDN_BASE` /
 | Catálogo IBGE | pronto: 27 UFs, 5.571 municípios (`data/municipios.json`) |
 | Coleta Wikidata + Commons | pronta: 4.353 brasões, 4.037 bandeiras |
 | Triagem | pronta: `data/_catalogo/catalogo.json` (4.790 municípios com item) |
-| Publicação | **concluída**: 8.677 itens publicados, 0 falha nos novos |
-| Sidecars no R2 | 8.677 regravados, 12,9 MB, 0 falhas |
-| Fontes originais | 7.230 rasters em `data/fontes` (1,4 GB), backup no bucket privado |
-| Procedência | **conferida**: 8.677 de 8.677 itens com data de verificação; a última rodada pegou 21 e achou 21 iguais |
+| Publicação | **concluída**: 9.236 itens publicados, 12 sem embed por SVG recusado |
+| Sidecars no R2 | 9.236 regravados, 13,6 MB, 0 falhas |
+| Fontes originais | 1,6 GB em `data/fontes` (rasters + versões anteriores), backup no bucket privado |
+| Procedência | **conferida**: 9.236 de 9.236 itens com data de verificação |
 | Crawl `.gov.br` | **concluído**: 1.218 municípios, 0 falha de LLM, 403 URLs únicas de símbolo em 368 municípios, US$ 0,20 (D24) |
 | AAM (Amazonas) | **concluído**: 62 municípios, 15 símbolos novos, 2 rejeitados pela visão, US$ 0,009 (D28) |
 | SECULT-AL | **descartado**: as 102 páginas de município existem, mas todas as imagens apontam para o domínio morto `cultura.al.gov.br`; só sobreviveram miniaturas de 128 px no Wayback (D29) |
-| Commons por categoria | **novo**: `simbolos completar` preenche o tipo que falta pela categoria do estado; Alagoas rendeu 21 bandeiras (33 → 12 faltando) (D29) |
+| Commons por categoria | **varredura nacional**: 581 itens em 26 UFs (560 na varredura + 21 em AL), 61 recusados pela visão (D29, D31) |
 | Biblioteca da AAM | **descartada**: 126 documentos (95 notas técnicas, 27 FPM, 2 revistas, 2 cartilhas), zero sobre símbolo (D28) |
 | Atos oficiais | 11 itens em 8 municípios com lei confirmada e link da página; linha "Ato oficial" no card só quando existe (D28) |
 | Sidecars locais | em `data/meta/v1` (verdade versionável), com `sha1_origem`, `capturado_em`, `verificacao`, `ato` e `guarda` |
-| Acervo versionado | 1.171 SVGs (287 MB) em `data/vetores` + livro-razão (3,3 MB) em `data/ledger` (D22) |
-| Guarda | 345 itens de risco alto (346 `pendente`, 277 fora do Commons), 8.332 baixos; vetor tem `espelhos: [commons, git]` |
+| Acervo versionado | 1.209 SVGs (293 MB) em `data/vetores` + livro-razão (3,3 MB) em `data/ledger` (D22) |
+| Guarda | 347 itens de risco alto (348 `pendente`, 279 fora do Commons), 8.889 baixos; vetor tem `espelhos: [commons, git]` |
 | R2 | `simbolos-br-cdn` (público) + `simbolos-br-acervo` (**sem domínio**) = 2,62 GB, 26% do free tier |
 | Site | **no ar**: landing, `/consultar`, `/cobertura`, `/sobre`, `/contribuir`, 5.571 municípios, 27 estados, portal na raiz |
 | Relatos | `/simbolos/contribuir` → Worker + Turnstile + GitHub App: issue com `aguardando-confirmacao`, nada automático (D27) |
@@ -56,10 +56,20 @@ bucket dele, sem Worker. Configurável por `SITE_BASE` / `CDN_BASE` /
 | Apoio | GitHub Sponsors ativo; PIX com chave UUID e sem `txid` |
 | Pacotes npm/PyPI/Composer | não começaram |
 
-Números públicos: 8.677 itens, 4.974 municípios cobertos (89,3%), 4.578 com
-brasão, 4.099 com bandeira. Vetorial por tipo: 573 municípios com brasão em SVG,
-598 com bandeira em SVG, 1.171 itens vetoriais. Baldes (contados nos sidecars):
-livre 7.116, compartilha 1.215, pendente 346.
+Números públicos: 9.236 itens, 5.130 municípios cobertos (92,1%), 4.579 com
+brasão, 4.657 com bandeira. Vetorial por tipo: 573 municípios com brasão em SVG,
+636 com bandeira em SVG, 1.209 itens vetoriais. Baldes (contados nos sidecars):
+livre 7.557, compartilha 1.331, pendente 348.
+
+## Fontes avaliadas e o veredito
+
+| Fonte | O que é | Veredito |
+|---|---|---|
+| SECULT-AL | 102 páginas de município com brasão e bandeira | **morta**: todas as imagens apontam para `www.cultura.al.gov.br`, que redireciona para a home; só há miniaturas de 128 px no Wayback (D29) |
+| simbolosmunicipais.com.br | "acervo histórico" de uma empresa de Brasília | **cópia**: um brasão era byte-idêntico ao Commons, outro tinha marca d'água da Simbolopedia (MBI), que vende as versões limpas (D29) |
+| VDR Bandeiras | loja com 5.952 produtos, um por município | **não é fonte**: arte própria em ~1.302×836, sem licença; serve de mapa de existência |
+| Memorial dos Símbolos | site pessoal (webnode) com página por município | **esqueleto**: o Rio de Janeiro tem 92 entradas e só 6 imagens; o resto é `desconhecido.png` |
+| Câmara de São José do Hortêncio | símbolos oficiais da câmara | **melhor arte que o Commons**: 799×536 contra 317×302, mesma composição; motivou o `simbolos trocar` (D30) |
 
 ## Próximo passo, em ordem
 
@@ -211,6 +221,16 @@ livre 7.116, compartilha 1.215, pendente 346.
   `simbolosmunicipais.com.br` mistura arquivos do Commons (um brasão era
   byte-idêntico) com prévias marcadas da Simbolopedia (MBI, mbi.com.br), que
   vende as versões limpas. Sem licença e sem autor declarado: nunca é fonte.
+- **O `.env` é um FIFO do 1Password: dois `uv run` ao mesmo tempo brigam por
+  ele.** Um dos processos lê vazio e a visão responde "NEURALWATT_API_KEY
+  ausente". O sintoma na saída é inconfundível: **100% de rejeição e custo
+  US$ 0,0000**. Rodar uma coleta por vez; se a FIFO parar de servir, recriar com
+  a ferramenta do 1Password (`create_local_env_file`) — aconteceu no meio da
+  varredura nacional e produziu 159 recusas falsas, todas refeitas.
+- **`imageinfo` às vezes vem sem `mime`**, e o original era gravado como `.bin`;
+  o `publicar` então não sabia se validava SVG ou abria raster. O conteúdo é a
+  verdade: farejar com PIL (`completar._mime_real`) e `simbolos reparar` para
+  consertar o que já entrou.
 
 ## Questões abertas
 

@@ -39,6 +39,7 @@ from . import (
     publicacao,
     r2,
     triagem,
+    troca,
     visao,
     wikidata,
 )
@@ -717,6 +718,70 @@ def completar_cmd(
             )
     elif r["aceitos"]:
         console.print(f"-> {completar.CATALOGO} (rode `simbolos publicar` depois)")
+
+
+@app.command("reparar")
+def reparar_cmd() -> None:
+    """Conserta originais salvos como .bin por imageinfo sem mime."""
+    r = completar.reparar()
+    t = Table(title="reparar originais")
+    t.add_column("medida")
+    t.add_column("valor", justify="right")
+    for chave, rotulo in (
+        ("arquivos", "arquivos .bin encontrados"),
+        ("corrigidos", "corrigidos"),
+        ("sem_item", "renomeados sem item no catalogo"),
+        ("ignorados", "mime nao reconhecido"),
+    ):
+        t.add_row(rotulo, str(r[chave]))
+    console.print(t)
+
+
+@app.command("trocar")
+def trocar_cmd(
+    codigo: Annotated[str, typer.Option(help="codigo IBGE do municipio")],
+    tipo: Annotated[str, typer.Option(help="brasao | bandeira")],
+    url: Annotated[str, typer.Option(help="URL da nova origem, de fonte oficial")],
+    licenca: Annotated[str, typer.Option(help="SPDX declarado na origem")] = "NOASSERTION",
+    autor: Annotated[str | None, typer.Option(help="autoria declarada")] = None,
+    fonte: Annotated[str, typer.Option(help="rotulo da fonte no catalogo")] = "oficial",
+    seco: Annotated[bool, typer.Option("--seco", help="baixa e decide, sem gravar")] = False,
+) -> None:
+    """Substitui a origem de um item publicado por versao melhor.
+
+    O portao de visao confirma o tipo antes de trocar. O sidecar e as rendicoes
+    do item sao apagados: procedencia e verificacao descrevem um arquivo, e o
+    arquivo mudou. Depois rode `publicar`, `verificar-fonte` e `atos`.
+    """
+    r = troca.trocar(codigo, tipo, url, licenca=licenca, autor=autor, fonte=fonte, seco=seco)
+    if not r["troca"]:
+        erro.print(f"{codigo} {tipo}: nao trocou — {r['motivo']}")
+        raise typer.Exit(code=1)
+
+    t = Table(title=f"trocar · {r['municipio']} · {tipo}")
+    t.add_column("medida")
+    t.add_column("antes", justify="right")
+    t.add_column("depois", justify="right")
+    t.add_row(
+        "resolucao",
+        f"{r['de']['largura']}x{r['de']['altura']}",
+        f"{r['para']['largura']}x{r['para']['altura']}",
+    )
+    t.add_row(
+        "bytes",
+        str(r["de"]["bytes"]),
+        str(r["para"]["bytes"]),
+    )
+    t.add_row("licenca", str(r["de"]["licenca"]), str(r["para"]["licenca"]))
+    console.print(t)
+    console.print(f"confianca da visao: {r['confianca']}")
+    if seco:
+        console.print("seco: nada gravado")
+    else:
+        console.print(f"apagados: {len(r['apagados'])} arquivos (sidecar e rendicoes)")
+        if r.get("arquivado"):
+            console.print(f"versao anterior guardada: {r['arquivado']['arquivo']}")
+        console.print("-> rode `simbolos publicar`, `verificar-fonte` e `atos`")
 
 
 @app.command("triar")

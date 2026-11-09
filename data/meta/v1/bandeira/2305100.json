@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2305100",
+ "uf": "CE",
+ "municipio": "Guaramiranga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Guaramiranga_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f148e8f742e5cf3c5441c87ea05a788c2e0c9cea93320d96811643c5d19cec43",
+ "sha1_origem": "0a16948b4f48dc8fb5be36e19b03b9771a35971a",
+ "bytes_origem": 237242,
+ "capturado_em": "2026-11-09T07:46:35Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 95713,
+   "sha256": "311b32e33d836701838f18b61fd4d07543fd6527f755e1111d7f1e1f78da6273",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23191,
+   "sha256": "7a6c6ea8540ff715bfecc3e263e34884e2809fe3a9ccb427327f30c7a8cc70c5",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Flag_of_Guaramiranga_Municipality_in_the_State_of_Ceará_in_Brazil.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2305100.jpg",
+  "bytes": 237242,
+  "sha256": "f148e8f742e5cf3c5441c87ea05a788c2e0c9cea93320d96811643c5d19cec43",
+  "sha1": "0a16948b4f48dc8fb5be36e19b03b9771a35971a"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2305100.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2305100.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2305100.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:12Z",
+  "estado": "igual",
+  "sha1_commons": "0a16948b4f48dc8fb5be36e19b03b9771a35971a"
+ }
+}

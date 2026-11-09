@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3171600",
+ "uf": "MG",
+ "municipio": "Virgem da Lapa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bandeira_de_Virgem_da_Lapa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Virgem da Lapa",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "de0477d329b01f76fb669f23bda24191062933fcfa1f89bf210c4c5ffca5946e",
+ "sha1_origem": "19f1d41fe97823716c8fcbba7eccbd723e1e93bc",
+ "bytes_origem": 48801,
+ "capturado_em": "2026-11-09T07:51:17Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 80831,
+   "sha256": "3493a4d880e8e810afc92e77d36f1a939d08bd414b086771fb29008ec7fb5dd4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21903,
+   "sha256": "56fe0fa82d1e99d6287eabfb822871089a3d90d12bf37c43215750d8062025ca",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Virgem_da_Lapa.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3171600.jpg",
+  "bytes": 48801,
+  "sha256": "de0477d329b01f76fb669f23bda24191062933fcfa1f89bf210c4c5ffca5946e",
+  "sha1": "19f1d41fe97823716c8fcbba7eccbd723e1e93bc"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3171600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3171600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3171600.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:11Z",
+  "estado": "igual",
+  "sha1_commons": "19f1d41fe97823716c8fcbba7eccbd723e1e93bc"
+ }
+}

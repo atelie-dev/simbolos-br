@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2300150",
+ "uf": "CE",
+ "municipio": "Acarape",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Flag_of_Acarape_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "3f69a43ff3e55b51b6e29726c1ac5325eebcb26bc26716286f536ec00f14a75e",
+ "sha1_origem": "9105ec8c13e1644b4b31bbce6c0149954f38ccf9",
+ "bytes_origem": 99341,
+ "capturado_em": "2026-11-09T07:46:02Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 140142,
+   "sha256": "39e43db520d3f234d2621091b8a534c91d8a455011167d1e46ec9b09f5d3c648",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23205,
+   "sha256": "41e767e2b6cc631614ef94c4303e6dc3aa29ecd13a788dce447dbc557566522c",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Flag_of_Acarape_Municipality_in_the_State_of_Ceará_in_Brazil.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2300150.jpg",
+  "bytes": 99341,
+  "sha256": "3f69a43ff3e55b51b6e29726c1ac5325eebcb26bc26716286f536ec00f14a75e",
+  "sha1": "9105ec8c13e1644b4b31bbce6c0149954f38ccf9"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2300150.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2300150.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2300150.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:11Z",
+  "estado": "igual",
+  "sha1_commons": "9105ec8c13e1644b4b31bbce6c0149954f38ccf9"
+ }
+}

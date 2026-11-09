@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4220000",
+ "uf": "SC",
+ "municipio": "Balneário Rincão",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bandeira_de_Balne%C3%A1rio_Rinc%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Heitor Fonseca Amaro (Armação do Itapocorói)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "066590bb8909efb4908e72e8d5163fc632f612c3cf24ea49b205276e63d52d8a",
+ "sha1_origem": "32b4c95de5dd54cfb3681d9198eb1298356ba4e2",
+ "bytes_origem": 23367,
+ "capturado_em": "2026-11-09T14:29:11Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 95934,
+   "sha256": "263e89544d620773f77fe1bb595c943439b9a51a422d3c4000c1d5e86749b43d",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25979,
+   "sha256": "f569be53c63fd4c1fffab1644d69d05362d93ded382ba68d2aade91d1412d2a0",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Balneário_Rincão.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4220000.jpg",
+  "bytes": 23367,
+  "sha256": "066590bb8909efb4908e72e8d5163fc632f612c3cf24ea49b205276e63d52d8a",
+  "sha1": "32b4c95de5dd54cfb3681d9198eb1298356ba4e2"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4220000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4220000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4220000.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:05Z",
+  "estado": "igual",
+  "sha1_commons": "32b4c95de5dd54cfb3681d9198eb1298356ba4e2"
+ }
+}

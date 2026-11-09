@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1101500",
+ "uf": "RO",
+ "municipio": "Seringueiras",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bandeiraro_Seringueiras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Seringueiras",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "16b24a6c1ff9ad798eab3bb71adc8b32e39bab6b2e89d6e010082ebee6551272",
+ "sha1_origem": "727a9bbfb37be4af798e867ced38dd3570ba2144",
+ "bytes_origem": 2041606,
+ "capturado_em": "2026-11-09T13:16:55Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 270296,
+   "sha256": "94f9a1b2fbdffd69446d89a70c0ab0cd309dc1d4b73bbcb96bdec711068083ab",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33144,
+   "sha256": "42faddb63ee8b077b018b4c6b6d97d290c5070eb4e0c608f524282175d776adc",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeiraro_Seringueiras.png",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1101500.png",
+  "bytes": 2041606,
+  "sha256": "16b24a6c1ff9ad798eab3bb71adc8b32e39bab6b2e89d6e010082ebee6551272",
+  "sha1": "727a9bbfb37be4af798e867ced38dd3570ba2144"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1101500.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:11Z",
+  "estado": "igual",
+  "sha1_commons": "727a9bbfb37be4af798e867ced38dd3570ba2144"
+ }
+}

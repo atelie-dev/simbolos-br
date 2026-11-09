@@ -3,50 +3,64 @@
  "uf": "RS",
  "municipio": "São José do Hortêncio",
  "tipo": "bandeira",
- "origem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bandeira_de_S%C3%A3o_Jos%C3%A9_do_Hort%C3%AAncio_-_RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
- "licenca": "CC0-1.0",
- "balde": "livre",
- "autor": "Prefeitura de São José do Hortêncio",
+ "origem": "https://www.camarasaojosedohortencio.rs.gov.br/uploads/textos/bandeira-do-municipio-de-sao-jose-do-hortencio1661369939.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
  "estado": "publicado",
  "formato_origem": "image/jpeg",
- "sha256_origem": "ff481c43002c0be8ff6e0eeb87081d8b2e708c6c42b2482db9233e4d83e32e69",
+ "sha256_origem": "addf3eb4ac15a72607ea66464c3547c3f7bc524b3eec069ce7ab049fa9b97925",
+ "sha1_origem": "8cffb3d81447c3e15c6e332ff6c4aa99d4150d64",
+ "bytes_origem": 52203,
+ "capturado_em": "2026-11-09T14:36:48Z",
+ "captura_fonte": "arquivo",
  "rendicoes": {
   "png": {
-   "bytes": 78883,
-   "sha256": "ac869c63b3231a266b3b5886fa39599658dee67105e175c96c7a7e56eb2d1275",
+   "bytes": 118935,
+   "sha256": "b7e5a2875f22e6508090150f79772b84a9fa4fa59627f8dbb774f773eb4db26d",
    "lado": 512
   },
   "jpg": {
-   "bytes": 18742,
-   "sha256": "7faeb3f5efb8723e2faad0b277acb1eeae09da503d56e22f54cecab780970338",
+   "bytes": 18734,
+   "sha256": "88d1397392807e0ac7dd9aae82257afe3630ef23d8bf36d0ec6a4313fe2001c8",
    "lado": 512
   }
  },
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4318481.jpg",
+  "bytes": 52203,
+  "sha256": "addf3eb4ac15a72607ea66464c3547c3f7bc524b3eec069ce7ab049fa9b97925",
+  "sha1": "8cffb3d81447c3e15c6e332ff6c4aa99d4150d64"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente"
+  ]
+ },
+ "versoes": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bandeira_de_S%C3%A3o_Jos%C3%A9_do_Hort%C3%AAncio_-_RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "licenca": "CC0-1.0",
+   "fonte": "wikidata",
+   "largura": 500,
+   "altura": 316,
+   "bytes": 14490,
+   "sha256": "ff481c43002c0be8ff6e0eeb87081d8b2e708c6c42b2482db9233e4d83e32e69",
+   "arquivo": "fontes/_versoes/bandeira/4318481-ff481c43002c.jpg",
+   "tipo": "bandeira"
+  }
+ ],
  "urls": {
   "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318481.svg",
   "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318481.png",
   "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4318481.jpg"
  },
- "fonte": {
-  "arquivo": "fontes/v1/bandeira/4318481.jpg",
-  "bytes": 14490,
-  "sha256": "ff481c43002c0be8ff6e0eeb87081d8b2e708c6c42b2482db9233e4d83e32e69"
- },
- "sha1_origem": "08e3fc6e6b7e65cc887428227697238740fe1fea",
- "bytes_origem": 14490,
- "capturado_em": "2026-11-08T07:09:18Z",
- "captura_fonte": "mtime",
- "titulo_commons": "File:Bandeira_de_São_José_do_Hortêncio_-_RS.jpg",
- "guarda": {
-  "espelhos": [
-   "commons"
-  ],
-  "risco": "baixo",
-  "motivo": []
- },
  "verificacao": {
-  "em": "2026-11-08T16:06:13Z",
+  "em": "2026-11-09T14:38:25Z",
   "estado": "igual",
-  "sha1_commons": "08e3fc6e6b7e65cc887428227697238740fe1fea"
+  "http": 200
  }
 }

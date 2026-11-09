@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2111250",
+ "uf": "MA",
+ "municipio": "São José dos Basílios",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bandeira_de_S%C3%A3o_Jos%C3%A9_dos_Bas%C3%ADlios.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São José do Basílio",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "916d961eec25fcb095b00454130d30b3258a55476a6be9104202ec5c7e431b9d",
+ "sha1_origem": "09d4658de9ecae67c082a170b1a8578cce252504",
+ "bytes_origem": 31685,
+ "capturado_em": "2026-11-09T07:49:38Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 129173,
+   "sha256": "495dc79fad2e87f44cb38f9274fd7dfd674bd84d0584f72e52367ff898a1dae6",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29616,
+   "sha256": "9ad746b86e42a43525674a6ccbae28d940929602e9c13a1af89869445aad5d2b",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_São_José_dos_Basílios.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2111250.jpg",
+  "bytes": 31685,
+  "sha256": "916d961eec25fcb095b00454130d30b3258a55476a6be9104202ec5c7e431b9d",
+  "sha1": "09d4658de9ecae67c082a170b1a8578cce252504"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2111250.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2111250.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2111250.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:10Z",
+  "estado": "igual",
+  "sha1_commons": "09d4658de9ecae67c082a170b1a8578cce252504"
+ }
+}

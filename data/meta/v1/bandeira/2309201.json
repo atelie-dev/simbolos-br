@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2309201",
+ "uf": "CE",
+ "municipio": "Nova Olinda",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_Nova_Olinda_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "f363c5b3885516b1beefb0f42e9e17ec383ff25c2fb36c0433ca8b879dacead6",
+ "sha1_origem": "9ff80d205e07e0ab6e1f3c8c51ab37e7e60739a0",
+ "bytes_origem": 200957,
+ "capturado_em": "2026-11-09T07:46:56Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 117994,
+   "sha256": "71baefe5dcf1070c607e87efd290f0f3d2dcb1b81b3cc8937c3bf279a5cd35f7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27306,
+   "sha256": "075c9b630be31356a1e68fc942afaae931e36abef00749684c236e90f1fd8692",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Flag_of_Nova_Olinda_Municipality_in_the_State_of_Ceará_in_Brazil.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2309201.jpg",
+  "bytes": 200957,
+  "sha256": "f363c5b3885516b1beefb0f42e9e17ec383ff25c2fb36c0433ca8b879dacead6",
+  "sha1": "9ff80d205e07e0ab6e1f3c8c51ab37e7e60739a0"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2309201.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2309201.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2309201.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:12Z",
+  "estado": "igual",
+  "sha1_commons": "9ff80d205e07e0ab6e1f3c8c51ab37e7e60739a0"
+ }
+}

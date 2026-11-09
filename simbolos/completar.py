@@ -17,7 +17,10 @@ from __future__ import annotations
 import json
 import tempfile
 from collections import defaultdict
+from io import BytesIO
 from pathlib import Path
+
+from PIL import Image
 
 from . import DATA, NOMES_UF_COMMONS, catalogo, commons, nomes, publicacao, rede, triagem, visao
 from .modelos import Candidato
@@ -103,6 +106,29 @@ def candidatos(
     return por_chave, sem_casamento
 
 
+def _mime_real(conteudo: bytes, declarado: str | None) -> str:
+    """O mime que o arquivo é, não o que a API disse.
+
+    A API do Commons às vezes devolve `imageinfo` sem `mime`; sem isto o original
+    é guardado como `.bin` e o `publicar` não sabe se é SVG ou raster.
+    """
+    if b"<svg" in conteudo[:2000]:
+        return "image/svg+xml"
+    try:
+        with Image.open(BytesIO(conteudo)) as im:
+            formato = (im.format or "").upper()
+    except Exception:  # noqa: BLE001
+        return declarado or "application/octet-stream"
+    return {
+        "PNG": "image/png",
+        "JPEG": "image/jpeg",
+        "GIF": "image/gif",
+        "WEBP": "image/webp",
+        "TIFF": "image/tiff",
+        "BMP": "image/bmp",
+    }.get(formato, declarado or "application/octet-stream")
+
+
 def _decisao(conteudo: bytes, mime: str, contexto: str) -> dict:
     ext = publicacao.EXT_POR_MIME.get((mime or "").lower(), "bin")
     with tempfile.TemporaryDirectory(prefix="simbolos-completar-") as tmp:
@@ -161,9 +187,10 @@ def aplicar(
             resumo["detalhe"].append({"codigo": codigo, "erro": str(exc)[:120]})
             continue
 
+        mime = _mime_real(conteudo, melhor.mime)
         decisao = _decisao(
             conteudo,
-            melhor.mime or "",
+            mime,
             f"Candidato a {tipo} do município de {melhor.municipio}/{uf}, "
             "arquivo do Wikimedia Commons.",
         )
@@ -183,14 +210,14 @@ def aplicar(
             )
             continue
 
-        arquivo = publicacao.guardar_fonte(FONTES, codigo, tipo, melhor.mime or "", conteudo)
+        arquivo = publicacao.guardar_fonte(FONTES, codigo, tipo, mime, conteudo)
         item = cat.setdefault(
             codigo,
             {"codigo_ibge": codigo, "uf": uf, "municipio": melhor.municipio},
         )
         item[tipo] = {
             "url": melhor.url,
-            "mime": melhor.mime,
+            "mime": mime,
             "largura": melhor.largura,
             "altura": melhor.altura,
             "bytes": melhor.bytes,
@@ -223,4 +250,37 @@ def aplicar(
     resumo["por_tipo"] = dict(resumo["por_tipo"])
     resumo["no_catalogo"] = len(cat)
     resumo["sem_casamento_exemplos"] = sem_casamento[:8]
+    return resumo
+
+
+def reparar() -> dict:
+    """Renomeia originais salvos como `.bin` quando o imageinfo veio sem mime.
+
+    O conteúdo é a verdade: se abre como PNG, é PNG. Corrige o arquivo e o
+    catálogo juntos, para o `publicar` saber se valida SVG ou abre raster.
+    """
+    cat: dict = json.loads(CATALOGO.read_text())
+    resumo = {"arquivos": 0, "corrigidos": 0, "sem_item": 0, "ignorados": 0}
+    for tipo in TIPOS:
+        for arquivo in sorted((FONTES / tipo).glob("*.bin")):
+            resumo["arquivos"] += 1
+            codigo = arquivo.stem
+            conteudo = arquivo.read_bytes()
+            mime = _mime_real(conteudo, None)
+            if mime == "application/octet-stream":
+                resumo["ignorados"] += 1
+                continue
+            novo = publicacao.guardar_fonte(FONTES, codigo, tipo, mime, conteudo)
+            arquivo.unlink()
+            item = cat.get(codigo)
+            if item and tipo in item:
+                item[tipo]["mime"] = mime
+                item[tipo]["arquivo"] = publicacao._relativo(novo)
+                resumo["corrigidos"] += 1
+            else:
+                resumo["sem_item"] += 1
+    if resumo["corrigidos"]:
+        tmp = CATALOGO.with_suffix(".json.tmp")
+        tmp.write_text(json.dumps(cat, ensure_ascii=False, indent=1) + "\n")
+        tmp.replace(CATALOGO)
     return resumo

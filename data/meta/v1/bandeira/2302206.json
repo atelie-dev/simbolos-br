@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2302206",
+ "uf": "CE",
+ "municipio": "Beberibe",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Beberibe_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "7902650bcbbfa8c46ab9cdf9925244081d80f48c39931d283e73c70a21d5fd8b",
+ "sha1_origem": "de21a60828203db056dd4a5e8933e9ededc2f9f8",
+ "bytes_origem": 172353,
+ "capturado_em": "2026-11-09T07:46:16Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 110411,
+   "sha256": "3fb4aefa3403fc5c6b3fc1b0a707960aeca023dc4b772619872f46434a772926",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29046,
+   "sha256": "1cdf4eb948ecfdd664a5131b9f40ec0f074ee26a7f6481c109809db3fed436f7",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Flag_of_Beberibe_Municipality_in_the_State_of_Ceará_in_Brazil.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2302206.jpg",
+  "bytes": 172353,
+  "sha256": "7902650bcbbfa8c46ab9cdf9925244081d80f48c39931d283e73c70a21d5fd8b",
+  "sha1": "de21a60828203db056dd4a5e8933e9ededc2f9f8"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2302206.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2302206.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2302206.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:12Z",
+  "estado": "igual",
+  "sha1_commons": "de21a60828203db056dd4a5e8933e9ededc2f9f8"
+ }
+}

@@ -3,50 +3,64 @@
  "uf": "RS",
  "municipio": "São José do Hortêncio",
  "tipo": "brasao",
- "origem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sao_Jose_do_Hortencio_%28RS%29_-_Brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
- "licenca": "CC0-1.0",
- "balde": "livre",
- "autor": "Municipality of São José do Hortêncio.",
+ "origem": "https://www.camarasaojosedohortencio.rs.gov.br/uploads/textos/brasao-municipal-de-sao-jose-do-hortencio1661369939.jpg",
+ "licenca": "NOASSERTION",
+ "balde": "pendente",
+ "autor": null,
  "estado": "publicado",
- "formato_origem": "image/png",
- "sha256_origem": "81c90c5003e59f74849ff4ad2ae8e84553a07cb73d7a85b35bc9fbb537aa203e",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "5b013a1f7e5c0f735e44810fa8b64dede7f735cb36d2ab1c443b1c457ecb580b",
+ "sha1_origem": "37025a2384d91f8d61683ecfe0583a6a605f7c85",
+ "bytes_origem": 86066,
+ "capturado_em": "2026-11-09T14:36:46Z",
+ "captura_fonte": "arquivo",
  "rendicoes": {
   "png": {
-   "bytes": 95536,
-   "sha256": "0f6cf09e5a98a2f1a7782467359f3f6c64dec884f34b76e78f5e3a3bd65b8346",
+   "bytes": 142449,
+   "sha256": "e16ca70425005f43cdd0f16205a453ad12db9b3b50e4266c7132c2b36a7f44b1",
    "lado": 512
   },
   "jpg": {
-   "bytes": 36502,
-   "sha256": "c20d21eaed8d39b005092125436db298ce2b7293f6cbae60bc9b932677a870c8",
+   "bytes": 26688,
+   "sha256": "47ea80d0b398b8feee4a63efc1fee88693ae38cafb6dc0e77554dfc1a72435c6",
    "lado": 512
   }
  },
+ "fonte": {
+  "arquivo": "fontes/v1/brasao/4318481.jpg",
+  "bytes": 86066,
+  "sha256": "5b013a1f7e5c0f735e44810fa8b64dede7f735cb36d2ab1c443b1c457ecb580b",
+  "sha1": "37025a2384d91f8d61683ecfe0583a6a605f7c85"
+ },
+ "guarda": {
+  "espelhos": [],
+  "risco": "alto",
+  "motivo": [
+   "origem_fora_do_commons",
+   "licenca_pendente"
+  ]
+ },
+ "versoes": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sao_Jose_do_Hortencio_%28RS%29_-_Brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "licenca": "CC0-1.0",
+   "fonte": "wikidata",
+   "largura": 317,
+   "altura": 302,
+   "bytes": 31464,
+   "sha256": "81c90c5003e59f74849ff4ad2ae8e84553a07cb73d7a85b35bc9fbb537aa203e",
+   "arquivo": "fontes/_versoes/brasao/4318481-81c90c5003e5.png",
+   "tipo": "brasao"
+  }
+ ],
  "urls": {
   "svg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318481.svg",
   "png": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318481.png",
   "jpg": "https://simbolos.coletivo.dev.br/embed/v1/brasao/4318481.jpg"
  },
- "fonte": {
-  "arquivo": "fontes/v1/brasao/4318481.png",
-  "bytes": 31464,
-  "sha256": "81c90c5003e59f74849ff4ad2ae8e84553a07cb73d7a85b35bc9fbb537aa203e"
- },
- "sha1_origem": "5e09eec832777cc87123bc8001b497ca157d0e51",
- "bytes_origem": 31464,
- "capturado_em": "2026-11-08T07:09:19Z",
- "captura_fonte": "mtime",
- "titulo_commons": "File:Sao_Jose_do_Hortencio_(RS)_-_Brasao.png",
- "guarda": {
-  "espelhos": [
-   "commons"
-  ],
-  "risco": "baixo",
-  "motivo": []
- },
  "verificacao": {
-  "em": "2026-11-08T16:07:36Z",
+  "em": "2026-11-09T14:38:26Z",
   "estado": "igual",
-  "sha1_commons": "5e09eec832777cc87123bc8001b497ca157d0e51"
+  "http": 200
  }
 }

@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2305332",
+ "uf": "CE",
+ "municipio": "Ibicuitinga",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Flag_of_ibicuitinga_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "580bd85d727fb6d811099b8bd4c0f37c2f6ac54c4072ee44574c9dec3ac55ecf",
+ "sha1_origem": "08e27d1fc9df235cf43a00a9b4aaff67f6d1db0d",
+ "bytes_origem": 205713,
+ "capturado_em": "2026-11-09T07:46:40Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 141993,
+   "sha256": "97876c14f2eeedb83eaced62ecffa298b6ad42de796eb5b2b0ad8396cd8aa4ec",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 29598,
+   "sha256": "3291b763274b83072870db49c56c1930e71d7b7fa4a9be5fabf5d503162f98b9",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Flag_of_ibicuitinga_Municipality_in_the_State_of_Ceará_in_Brazil.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2305332.jpg",
+  "bytes": 205713,
+  "sha256": "580bd85d727fb6d811099b8bd4c0f37c2f6ac54c4072ee44574c9dec3ac55ecf",
+  "sha1": "08e27d1fc9df235cf43a00a9b4aaff67f6d1db0d"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2305332.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2305332.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2305332.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:12Z",
+  "estado": "igual",
+  "sha1_commons": "08e27d1fc9df235cf43a00a9b4aaff67f6d1db0d"
+ }
+}

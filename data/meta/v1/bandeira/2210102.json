@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2210102",
+ "uf": "PI",
+ "municipio": "São José do Peixe",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bandeira_de_S%C3%A3o_Jos%C3%A9_do_Peixe.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "babdcd572274407318932bcdcc58b3575278f04784d996da91b7768dd1b41727",
+ "sha1_origem": "acea4decdb201354fa743626cf746c4e6d03fe2f",
+ "bytes_origem": 153435,
+ "capturado_em": "2026-11-09T07:54:08Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 43863,
+   "sha256": "6b5aced66403cfbdf01ee24d6fea07a784c46466b47778d8cb04d2aa11882fb8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14996,
+   "sha256": "10ad40d81f8a6d5be52c7556e8cf54c57f9492355c4b8c57b7fcd0af36e83c9d",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_São_José_do_Peixe.png",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2210102.png",
+  "bytes": 153435,
+  "sha256": "babdcd572274407318932bcdcc58b3575278f04784d996da91b7768dd1b41727",
+  "sha1": "acea4decdb201354fa743626cf746c4e6d03fe2f"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2210102.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:10Z",
+  "estado": "igual",
+  "sha1_commons": "acea4decdb201354fa743626cf746c4e6d03fe2f"
+ }
+}

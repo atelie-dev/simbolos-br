@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2110500",
+ "uf": "MA",
+ "municipio": "São Bento",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bandeira_S%C3%A3o_Bento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de São Bento",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cb1d27be766947fa554a380103011be32033f2d97bb5b9cd0d47928d2c9fb3ba",
+ "sha1_origem": "093fc45a7bc13cd452f853151c5947dd6d5b9bc1",
+ "bytes_origem": 17503,
+ "capturado_em": "2026-11-09T07:49:36Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 29060,
+   "sha256": "4f1c252d6ac1d8b71d006b0a6c12a7f99dd6e1e9ba7df0b1f08e7fc57cd50a17",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 11397,
+   "sha256": "f47bfa48e402a2d16f24d873cc045d6df8a7f35e8fb50e823e645256174f9ad5",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_São_Bento.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2110500.jpg",
+  "bytes": 17503,
+  "sha256": "cb1d27be766947fa554a380103011be32033f2d97bb5b9cd0d47928d2c9fb3ba",
+  "sha1": "093fc45a7bc13cd452f853151c5947dd6d5b9bc1"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2110500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2110500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2110500.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:05Z",
+  "estado": "igual",
+  "sha1_commons": "093fc45a7bc13cd452f853151c5947dd6d5b9bc1"
+ }
+}

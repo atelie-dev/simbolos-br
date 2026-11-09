@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2303956",
+ "uf": "CE",
+ "municipio": "Chorozinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_Chorozinho_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "374b42daffb1addd52d5aba90481062432bcc68426abe1a3457b366d7c2d0ed3",
+ "sha1_origem": "6af9050ada1e0a3ecd2ad834805c9bb50f0bf39b",
+ "bytes_origem": 147791,
+ "capturado_em": "2026-11-09T07:46:27Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 142699,
+   "sha256": "a866ebb36ba556a151a893d3410116c7c5e242ca2072455b813fcbf1ee93165f",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25523,
+   "sha256": "d6edaea73b41c562da265e5dcd28a7e51fec936975632c86593fb0a9e499ea04",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Flag_of_Chorozinho_Municipality_in_the_State_of_Ceará_in_Brazil.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2303956.jpg",
+  "bytes": 147791,
+  "sha256": "374b42daffb1addd52d5aba90481062432bcc68426abe1a3457b366d7c2d0ed3",
+  "sha1": "6af9050ada1e0a3ecd2ad834805c9bb50f0bf39b"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303956.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303956.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2303956.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:12Z",
+  "estado": "igual",
+  "sha1_commons": "6af9050ada1e0a3ecd2ad834805c9bb50f0bf39b"
+ }
+}

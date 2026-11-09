@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2209609",
+ "uf": "PI",
+ "municipio": "São Félix do Piauí",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bandeira_de_S%C3%A3o_F%C3%A9lix_do_Piau%C3%AD.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "3670d284fa36880acb99c650cd39cde4231c204e691d3d3fce88b2ae2c81c8df",
+ "sha1_origem": "6b21651af1cc8a9364f5b5894558fb3833a4fb63",
+ "bytes_origem": 137785,
+ "capturado_em": "2026-11-09T07:54:02Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 42712,
+   "sha256": "ec1c5ca4c241bea474db10047bc322d7ce77642a08018d5a28d20e1a544e8d87",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14918,
+   "sha256": "d860a64b4cd09aa91daec6e01360dc1b4937bb1fc9ce73f151a1c3469af5f0c3",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_São_Félix_do_Piauí.png",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2209609.png",
+  "bytes": 137785,
+  "sha256": "3670d284fa36880acb99c650cd39cde4231c204e691d3d3fce88b2ae2c81c8df",
+  "sha1": "6b21651af1cc8a9364f5b5894558fb3833a4fb63"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2209609.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2209609.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2209609.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:10Z",
+  "estado": "igual",
+  "sha1_commons": "6b21651af1cc8a9364f5b5894558fb3833a4fb63"
+ }
+}

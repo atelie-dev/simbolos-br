@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2930303",
+ "uf": "BA",
+ "municipio": "Serra Dourada",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bandeira_de_Serra_Dourada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Serra Dourada",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "74582ac914ecf4a56cfa85d139b0a74df1840af24569465297b6b3c4be92260b",
+ "sha1_origem": "67a4713ecd886dede140bd66717d0882b13b837f",
+ "bytes_origem": 33315,
+ "capturado_em": "2026-11-09T07:45:14Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 85189,
+   "sha256": "e8fbfed6e312e7f4354bd15fde813645fbde0c9d8a26c73188a8ea9490dd18b7",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19300,
+   "sha256": "a860d61630a282971ac1f28f81dd9782d9ad81a35b305d33eb2c7bdec1ca2476",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Serra_Dourada.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2930303.jpg",
+  "bytes": 33315,
+  "sha256": "74582ac914ecf4a56cfa85d139b0a74df1840af24569465297b6b3c4be92260b",
+  "sha1": "67a4713ecd886dede140bd66717d0882b13b837f"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2930303.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2930303.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2930303.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:10Z",
+  "estado": "igual",
+  "sha1_commons": "67a4713ecd886dede140bd66717d0882b13b837f"
+ }
+}

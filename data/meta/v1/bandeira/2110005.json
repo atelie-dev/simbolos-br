@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2110005",
+ "uf": "MA",
+ "municipio": "Santa Luzia",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bandeira_de_Santa_Luzia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Santa Luzia",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8dbb1c4b7b27fbc4501ba2243ac25e3592bd32aece686361915e128a283ef53b",
+ "sha1_origem": "a5a1ab25a1fc4c3f4526ecb1c194ecd5bd2189c0",
+ "bytes_origem": 40012,
+ "capturado_em": "2026-11-09T07:49:34Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 136023,
+   "sha256": "2d348d14ed4ffd2db1b4bc4ce15945c4d28aa3b3dd13bd7729c0f08563efd0b4",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26610,
+   "sha256": "2bdd50052c37e416a6e8800caff8ece0e650f42490ab03e298e9131bc220c84a",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Santa_Luzia.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2110005.jpg",
+  "bytes": 40012,
+  "sha256": "8dbb1c4b7b27fbc4501ba2243ac25e3592bd32aece686361915e128a283ef53b",
+  "sha1": "a5a1ab25a1fc4c3f4526ecb1c194ecd5bd2189c0"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2110005.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2110005.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2110005.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:10Z",
+  "estado": "igual",
+  "sha1_commons": "a5a1ab25a1fc4c3f4526ecb1c194ecd5bd2189c0"
+ }
+}

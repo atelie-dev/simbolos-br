@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2922805",
+ "uf": "BA",
+ "municipio": "Nova Itarana",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bandeira_de_Nova_Itarana_BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de NI",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "668531cde4447817f04d8f40a38a50c549884a57316bf0ba58dd135ede722241",
+ "sha1_origem": "3027549b538337d7696f5f0701fc31e03b1da87c",
+ "bytes_origem": 23488,
+ "capturado_em": "2026-11-09T07:43:38Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 105562,
+   "sha256": "54571e5a79fb8295d1c8c666f5b4b1aabd327605259b6902aa569e6aa0d2b476",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22394,
+   "sha256": "f3005dd38a174cff4d350cfa3103240727ce801f81870cd0b8f34d9d7dd5a60a",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Nova_Itarana_BA.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2922805.jpg",
+  "bytes": 23488,
+  "sha256": "668531cde4447817f04d8f40a38a50c549884a57316bf0ba58dd135ede722241",
+  "sha1": "3027549b538337d7696f5f0701fc31e03b1da87c"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2922805.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2922805.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2922805.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:09Z",
+  "estado": "igual",
+  "sha1_commons": "3027549b538337d7696f5f0701fc31e03b1da87c"
+ }
+}

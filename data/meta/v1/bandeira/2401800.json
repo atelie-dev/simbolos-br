@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2401800",
+ "uf": "RN",
+ "municipio": "Brejinho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Bandeira_do_Munic%C3%ADpio_de_Brejinho-RN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "João Reis",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "c623896506014eb1652b43d1ea153650753040ee2824da5ce1e7d795cd8852e3",
+ "sha1_origem": "d79eea0cb97ccdb86216af0eb1da2fbcd2de3d86",
+ "bytes_origem": 1471861,
+ "capturado_em": "2026-11-09T13:16:00Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 127172,
+   "sha256": "e42ce07b0596989937a31c2b414c39a87973c7fa7020aa10964a1d3d27f933ce",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 27128,
+   "sha256": "0fc699d33208a604b6a31e121faee1330d2450017243b535b3ca725da291e31a",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_do_Município_de_Brejinho-RN.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2401800.jpg",
+  "bytes": 1471861,
+  "sha256": "c623896506014eb1652b43d1ea153650753040ee2824da5ce1e7d795cd8852e3",
+  "sha1": "d79eea0cb97ccdb86216af0eb1da2fbcd2de3d86"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2401800.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2401800.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2401800.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:11Z",
+  "estado": "igual",
+  "sha1_commons": "d79eea0cb97ccdb86216af0eb1da2fbcd2de3d86"
+ }
+}

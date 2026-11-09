@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2102200",
+ "uf": "MA",
+ "municipio": "Buriti",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bandeira_de_Buriti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Buriti",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "cdfb36d3d718e9f3a9b7608837fb50fb26bb3a28d48c0f9d4cb99022935f1a1b",
+ "sha1_origem": "0d8695455c596abee4d99e26ff5f35cc149c019d",
+ "bytes_origem": 10103,
+ "capturado_em": "2026-11-09T07:48:37Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 31719,
+   "sha256": "3e6ad6b3ae9d2b4ebd2523b4d321b741634fd19748ded2136e27bc35e27817d8",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10903,
+   "sha256": "bc214c1d9d8cf4cb194788890289548fd6eeb1c6e2c0e1da9c084bee28b0effd",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Buriti.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2102200.jpg",
+  "bytes": 10103,
+  "sha256": "cdfb36d3d718e9f3a9b7608837fb50fb26bb3a28d48c0f9d4cb99022935f1a1b",
+  "sha1": "0d8695455c596abee4d99e26ff5f35cc149c019d"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2102200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2102200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2102200.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:06Z",
+  "estado": "igual",
+  "sha1_commons": "0d8695455c596abee4d99e26ff5f35cc149c019d"
+ }
+}

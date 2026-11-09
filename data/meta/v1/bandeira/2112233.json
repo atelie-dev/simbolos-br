@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2112233",
+ "uf": "MA",
+ "municipio": "Trizidela do Vale",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bandeira_de_Trizidela_do_Vale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Trizidela do Vale",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "cd1303200207f6ab896ff6c30bf1c6ee2645590cfdfd0a1d8855a79700b902d2",
+ "sha1_origem": "fb9d4eea206907cc3add9161f18761af0b1e0feb",
+ "bytes_origem": 195353,
+ "capturado_em": "2026-11-09T07:49:45Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 34626,
+   "sha256": "92cbbd5d77128571977c914305bfea377cc0b626e0a17a847be443cc94557459",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 14306,
+   "sha256": "0ff01c039ae12f2b11fe717169cf02118cba619b821446fb7b8f0d51a464d5ea",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Trizidela_do_Vale.png",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2112233.png",
+  "bytes": 195353,
+  "sha256": "cd1303200207f6ab896ff6c30bf1c6ee2645590cfdfd0a1d8855a79700b902d2",
+  "sha1": "fb9d4eea206907cc3add9161f18761af0b1e0feb"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2112233.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2112233.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2112233.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:10Z",
+  "estado": "igual",
+  "sha1_commons": "fb9d4eea206907cc3add9161f18761af0b1e0feb"
+ }
+}

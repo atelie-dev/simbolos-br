@@ -298,6 +298,10 @@ def publicar_item(
             "sha1": hash1_origem,
         }
     registro["guarda"] = guarda.classificar(registro)
+    # Versões anteriores da origem: a troca guarda a cópia, o sidecar leva o
+    # registro para o dia em que o site oferecer mais de uma versão por item.
+    if dados.get("versoes"):
+        registro["versoes"] = dados["versoes"]
     return registro
 
 

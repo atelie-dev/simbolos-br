@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2503001",
+ "uf": "PB",
+ "municipio": "Caaporã",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_de_Caapor%C3%A3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Caaporã",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "0410beb584e995d34ac5b1a51390e0a0a3bf387b2ffa262051b62105be775011",
+ "sha1_origem": "5c1d2718354bc055d91de412d38766ae33074e14",
+ "bytes_origem": 87981,
+ "capturado_em": "2026-11-09T07:52:38Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 60333,
+   "sha256": "b082c365c5a5ebddc06dda50705c7b5554215145a2328256970d9276e3a57553",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19454,
+   "sha256": "43880d1f3481d7556830596d3b2354fcef12d588105e637e5ebd35bd74b130a0",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Caaporã.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2503001.jpg",
+  "bytes": 87981,
+  "sha256": "0410beb584e995d34ac5b1a51390e0a0a3bf387b2ffa262051b62105be775011",
+  "sha1": "5c1d2718354bc055d91de412d38766ae33074e14"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503001.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503001.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2503001.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:06Z",
+  "estado": "igual",
+  "sha1_commons": "5c1d2718354bc055d91de412d38766ae33074e14"
+ }
+}

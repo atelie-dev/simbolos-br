@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2910602",
+ "uf": "BA",
+ "municipio": "Esplanada",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bandeira_de_Esplanada_%28Melhor_qualidade%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Esplanada",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "a7e26b53c77b86fc174414c1e88b0f7fa190ea32ee78c1378a343f3f75d0b1f7",
+ "sha1_origem": "d30b0c7797fcc0486accb0385bc059a199dbdb60",
+ "bytes_origem": 164049,
+ "capturado_em": "2026-11-09T07:41:02Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 15336,
+   "sha256": "2327fba1acd40bae2ccd746ccaa965b5445be36d183f49dd9da6c2be7ce5f3b1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 10154,
+   "sha256": "0f4e07828e6a20de5d96362f54b29a29645775b91832db8ed2f164aa7d7bc771",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Esplanada_(Melhor_qualidade).jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2910602.jpg",
+  "bytes": 164049,
+  "sha256": "a7e26b53c77b86fc174414c1e88b0f7fa190ea32ee78c1378a343f3f75d0b1f7",
+  "sha1": "d30b0c7797fcc0486accb0385bc059a199dbdb60"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2910602.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2910602.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2910602.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:07Z",
+  "estado": "igual",
+  "sha1_commons": "d30b0c7797fcc0486accb0385bc059a199dbdb60"
+ }
+}

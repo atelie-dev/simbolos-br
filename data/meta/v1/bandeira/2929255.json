@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2929255",
+ "uf": "BA",
+ "municipio": "São Gabriel",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bandeira_de_S%C3%A3o_Gabriel_Bahia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de São Gabriel",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bf26ff8896c9b7ef48a92851b3a0ac6590f811b0ef7229b36125406c10f07928",
+ "sha1_origem": "765f3a8c61db10292c692c195019e49a3c04dd8b",
+ "bytes_origem": 119855,
+ "capturado_em": "2026-11-09T07:45:01Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 77222,
+   "sha256": "4891dbec7012ed31ee081d1241ae11be0c9626168036b8d808c2e328c338444e",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25150,
+   "sha256": "124182e0d67c83a4c7d7495f4317c3d0f466cc76a7063044e657d1b0e6895c10",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_São_Gabriel_Bahia.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2929255.jpg",
+  "bytes": 119855,
+  "sha256": "bf26ff8896c9b7ef48a92851b3a0ac6590f811b0ef7229b36125406c10f07928",
+  "sha1": "765f3a8c61db10292c692c195019e49a3c04dd8b"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2929255.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2929255.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2929255.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:10Z",
+  "estado": "igual",
+  "sha1_commons": "765f3a8c61db10292c692c195019e49a3c04dd8b"
+ }
+}

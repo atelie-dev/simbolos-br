@@ -1,18 +1,18 @@
 {
- "gerado_em": "2026-11-09T07:26:47Z",
+ "gerado_em": "2026-11-09T14:39:58Z",
  "premissas": [
   "vetor é sempre baixo por decisão (D21)",
   "o SVG publicado é a fonte, byte a byte, e vai versionado em data/vetores",
   "quando ele ainda não está lá, o motivo vetor_versionavel registra a dívida"
  ],
  "resumo": {
-  "itens": 8677,
-  "risco_alto": 345,
-  "risco_baixo": 8332,
+  "itens": 9236,
+  "risco_alto": 347,
+  "risco_baixo": 8889,
   "por_motivo": {
-   "licenca_pendente": 346,
-   "origem_fora_do_commons": 277,
-   "vetor_versionado": 1171
+   "licenca_pendente": 348,
+   "origem_fora_do_commons": 279,
+   "vetor_versionado": 1209
   }
  },
  "risco_alto": [
@@ -3478,6 +3478,30 @@
    "tipo": "brasao",
    "uf": "RS",
    "municipio": "Ponte Preta",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4318481",
+   "tipo": "bandeira",
+   "uf": "RS",
+   "municipio": "São José do Hortêncio",
+   "balde": "pendente",
+   "espelhos": [],
+   "motivo": [
+    "origem_fora_do_commons",
+    "licenca_pendente"
+   ]
+  },
+  {
+   "codigo_ibge": "4318481",
+   "tipo": "brasao",
+   "uf": "RS",
+   "municipio": "São José do Hortêncio",
    "balde": "pendente",
    "espelhos": [],
    "motivo": [

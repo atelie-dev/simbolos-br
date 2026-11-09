@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2101707",
+ "uf": "MA",
+ "municipio": "Barreirinhas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bandeira_de_Barreirinhas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de Barreirinhas",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "e9b30beb29543932c63c433ece954e9000b27d03041be264205063fb10f6400b",
+ "sha1_origem": "31ecda8e883c87ab14214632ff73c7235d9a0f5d",
+ "bytes_origem": 19611,
+ "capturado_em": "2026-11-09T07:48:32Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 71204,
+   "sha256": "1ed824c79f4ef148b67bda337d40f5ebf6ed2518b5c0f7f04f630a4a1019fc23",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 19000,
+   "sha256": "e8daf4f714321b82852775617f94e638da38b19a484227a965d1d1ef6fbce249",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Barreirinhas.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2101707.jpg",
+  "bytes": 19611,
+  "sha256": "e9b30beb29543932c63c433ece954e9000b27d03041be264205063fb10f6400b",
+  "sha1": "31ecda8e883c87ab14214632ff73c7235d9a0f5d"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2101707.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2101707.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2101707.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:06Z",
+  "estado": "igual",
+  "sha1_commons": "31ecda8e883c87ab14214632ff73c7235d9a0f5d"
+ }
+}

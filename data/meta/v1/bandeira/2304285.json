@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2304285",
+ "uf": "CE",
+ "municipio": "Eusébio",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Flag_of_Eus%C3%A9bio_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "ade00ca41e77f17c832e9f2b4f80bb5f947f0498c3f4ca67936a6c787afa8764",
+ "sha1_origem": "cc366dd7ca6a6eb8ee84c8178afe5acb3f1d6f53",
+ "bytes_origem": 349283,
+ "capturado_em": "2026-11-09T07:46:32Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 150526,
+   "sha256": "84dd0020dcc0b70fd8798a9a0944190e8918c1482392ccd1b676c08078fd8db1",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 33088,
+   "sha256": "cf7d3dcda1aa890397dc29881e0ae0d443a080b54389c83ddc064a446e6eea3c",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Flag_of_Eusébio_Municipality_in_the_State_of_Ceará_in_Brazil.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2304285.jpg",
+  "bytes": 349283,
+  "sha256": "ade00ca41e77f17c832e9f2b4f80bb5f947f0498c3f4ca67936a6c787afa8764",
+  "sha1": "cc366dd7ca6a6eb8ee84c8178afe5acb3f1d6f53"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304285.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304285.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2304285.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:12Z",
+  "estado": "igual",
+  "sha1_commons": "cc366dd7ca6a6eb8ee84c8178afe5acb3f1d6f53"
+ }
+}

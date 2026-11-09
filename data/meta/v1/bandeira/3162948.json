@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3162948",
+ "uf": "MG",
+ "municipio": "São José da Barra",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bandeira_de_S%C3%A3o_Jos%C3%A9_da_Barra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de São João da Barra",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "8d95829a441dea16a2acb4e29ae963b2a4c7282a67454ffc6496fd96479865fe",
+ "sha1_origem": "e745f0001d0400bbe5bffc8d3bb954a5354825ff",
+ "bytes_origem": 16135,
+ "capturado_em": "2026-11-09T07:51:02Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 52048,
+   "sha256": "021f0b88a900734e572758a1356325e763c4310df8149d500f73b76c25683b7a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16360,
+   "sha256": "6d1085475f502c7799101f0e9c0a1ea89d2453a6943c456ff18e5c201a285612",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_São_José_da_Barra.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3162948.jpg",
+  "bytes": 16135,
+  "sha256": "8d95829a441dea16a2acb4e29ae963b2a4c7282a67454ffc6496fd96479865fe",
+  "sha1": "e745f0001d0400bbe5bffc8d3bb954a5354825ff"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3162948.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3162948.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3162948.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:10Z",
+  "estado": "igual",
+  "sha1_commons": "e745f0001d0400bbe5bffc8d3bb954a5354825ff"
+ }
+}

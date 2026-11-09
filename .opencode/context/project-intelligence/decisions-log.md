@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.9 | Updated: 2026-11-09 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 3.0 | Updated: 2026-11-09 -->
 
 # Decisions Log — Símbolos BR
 
@@ -574,3 +574,58 @@ Simbolopedia (MBI), produto pago, sem licença nem autoria declarada.
 `--seco` para medir antes de baixar. O buraco real do acervo é a coleta por
 propriedade do Wikidata: categoria do Commons enxerga arquivo que P41 não vê.
 As 40 bandeiras de AL sem casamento por nome são a próxima fila.
+
+## D30 — Trocar origem melhora a arte e preserva a versão anterior (2026-11-09)
+
+**Decisão:** quando a fonte oficial publica uma versão melhor do mesmo símbolo,
+`simbolos trocar` substitui a origem do item. A versão que sai é **arquivada**
+em `data/fontes/_versoes/{tipo}/{codigo}-{sha}.ext` e registrada na lista
+`versoes` do item e do sidecar. A licença do item passa a ser a que a nova
+origem declara — no caso da câmara, `NOASSERTION`.
+
+**Por quê (medido):** São José do Hortêncio tinha o brasão do Commons em
+317×302 e a câmara publica a mesma composição em 799×536. O acervo não deve
+ficar preso à primeira cópia que apareceu — mas também não pode perder a
+anterior: o mantenedor quer poder oferecer várias versões no futuro.
+
+**Rejeitado:** manter `CC0-1.0` no arquivo novo (a licença descreve o arquivo,
+não a ideia do símbolo; quem declara é a origem); apagar a versão antiga
+(destruiria a única cópia livre do item, e o `brasil-livre.zip` ficaria sem
+alternativa); trocar sem portão de visão (a troca é o pior lugar para um erro
+de tipo: o item já estava certo).
+
+**Consequência:** a troca apaga sidecar e rendições do item, porque procedência
+e verificação descrevem um arquivo. Depois dela, `publicar`, `verificar-fonte` e
+`atos` reconstroem o que precisa. `versoes` já vai para o sidecar; expor no site
+é trabalho futuro. O padrão "câmara publica melhor que o Commons" deve render
+mais casos quando houver uma varredura de câmaras.
+
+## D31 — Varredura nacional por categoria: 560 bandeiras em 26 UFs (2026-11-09)
+
+**Decisão:** rodar `simbolos completar` em todas as UFs, depois do piloto de
+Alagoas, e publicar o que o portão de visão aceitasse.
+
+**Por quê (medido):** 578 pares em disputa, 560 aceitos, 61 recusados de verdade
+(7,3% de recusa), US$ 0,06 de visão e ~1,6 GB de fontes. Com Alagoas, 581 itens
+novos. A cobertura sai de 4.974 municípios (89,3%) para **5.130 (92,1%)**;
+bandeiras de 4.099 para 4.657; municípios sem nenhum símbolo de 609 para 468.
+A Bahia sozinha rendeu 188.
+
+**Achado:** o buraco não era Wikimedia, era a coleta por propriedade. P41
+declara a bandeira de quem a cadastrou; a categoria do Commons tem o arquivo de
+quem ninguém cadastrou. Em Alagoas, 21 de 33 lacunas estavam na categoria.
+
+**Incidente:** no meio da varredura, o `.env` (FIFO do 1Password) parou de servir
+e o portão passou a responder "chave ausente". O sintoma foi 100% de rejeição com
+custo US$ 0,0000 em oito UFs seguidas — 159 recusas falsas, todas refeitas uma a
+uma depois de recriar a FIFO. Lição registrada em `living-notes`: **nunca dois
+`uv run` ao mesmo tempo neste projeto**.
+
+**Rejeitado:** aceitar a categoria como verdade sem visão (o portão recusou 61,
+incluindo brasão no lugar de bandeira); importar as 40 bandeiras de AL que o
+casamento por nome não resolveu (nome de arquivo não é identidade).
+
+**Consequência:** restam 468 municípios sem nenhum símbolo, e 12 itens no
+catálogo não têm embed (SVG recusado por `svg_inseguro`/`svg_sem_raiz`) — dívida
+antiga, agora visível na mesma lista. O próximo ganho grande não está no
+Commons; está nas câmaras.

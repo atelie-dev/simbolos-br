@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2109007",
+ "uf": "MA",
+ "municipio": "Porto Franco",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bandeira_de_Porto_Franco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Porto Franco",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "80e0b5f1eec31ca5f467f5bbfb862b8aa55ce6426217015a3caac1b93a18dadc",
+ "sha1_origem": "df6bcc3eb7cc5243f6d7fe5afd138fb9e08eaecc",
+ "bytes_origem": 59212,
+ "capturado_em": "2026-11-09T07:49:28Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 105090,
+   "sha256": "2c8006d272b84c2a61f609f6b00426cb7a87200e23f9b68bfb03c385cd93203b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 26518,
+   "sha256": "4eac5b5b115c071054a15c9acc7077e30ed6791d07a27044d074dd66a70bc253",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Porto_Franco.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2109007.jpg",
+  "bytes": 59212,
+  "sha256": "80e0b5f1eec31ca5f467f5bbfb862b8aa55ce6426217015a3caac1b93a18dadc",
+  "sha1": "df6bcc3eb7cc5243f6d7fe5afd138fb9e08eaecc"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2109007.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2109007.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2109007.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:09Z",
+  "estado": "igual",
+  "sha1_commons": "df6bcc3eb7cc5243f6d7fe5afd138fb9e08eaecc"
+ }
+}

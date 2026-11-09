@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2929354",
+ "uf": "BA",
+ "municipio": "São José da Vitória",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/8/85/Bandeira_de_S%C3%A3o_Jos%C3%A9_da_Vit%C3%B3ria.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de São José da Vitória",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0bc7a32def9d6c0de1973558a3704a58772a1ff5446bb05bfc3b32d966843b58",
+ "sha1_origem": "edf0d5e313345c43117c2e9631b18e31a6a581c2",
+ "bytes_origem": 32366,
+ "capturado_em": "2026-11-09T07:45:04Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 37779,
+   "sha256": "6b42198c024149b5cecc73a8de38ad2916c3377be62f8474deb311857a28fdfd",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 16831,
+   "sha256": "e38053dc896334cb9744c51a79a8b32d509641a897f853e785d8be187aa7c06d",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_São_José_da_Vitória.png",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2929354.png",
+  "bytes": 32366,
+  "sha256": "0bc7a32def9d6c0de1973558a3704a58772a1ff5446bb05bfc3b32d966843b58",
+  "sha1": "edf0d5e313345c43117c2e9631b18e31a6a581c2"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2929354.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2929354.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2929354.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:10Z",
+  "estado": "igual",
+  "sha1_commons": "edf0d5e313345c43117c2e9631b18e31a6a581c2"
+ }
+}

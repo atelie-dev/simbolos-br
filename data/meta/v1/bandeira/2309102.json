@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2309102",
+ "uf": "CE",
+ "municipio": "Mulungu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_Mulungu_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b3ad5112bf6457318bda63fb0e32c78d24e7c67439a3ba5f7815f5f92bbe0e18",
+ "sha1_origem": "bd9b8221e0ef2a1f4c0c722361153748496d35cf",
+ "bytes_origem": 109902,
+ "capturado_em": "2026-11-09T07:46:55Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 71562,
+   "sha256": "cc89508a7c1af21d20142c17ad8c9485cc35f6d1726ccd7536e6e0b4d9820c13",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 17832,
+   "sha256": "63f49a1c9360d308ae692c207890409fb51f17d9a61ab0475dbcda938e2fba42",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Flag_of_Mulungu_Municipality_in_the_State_of_Ceará_in_Brazil.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2309102.jpg",
+  "bytes": 109902,
+  "sha256": "b3ad5112bf6457318bda63fb0e32c78d24e7c67439a3ba5f7815f5f92bbe0e18",
+  "sha1": "bd9b8221e0ef2a1f4c0c722361153748496d35cf"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2309102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2309102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2309102.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:12Z",
+  "estado": "igual",
+  "sha1_commons": "bd9b8221e0ef2a1f4c0c722361153748496d35cf"
+ }
+}

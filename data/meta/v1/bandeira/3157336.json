@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3157336",
+ "uf": "MG",
+ "municipio": "Santa Cruz de Minas",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bandeira_de_Santa_Cruz_de_Minas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b09466c195b4ee7238ae9ce52e318a8945f1b57fbacf5288526f07e11bfcde68",
+ "sha1_origem": "e6bfc610febf742985f037724413b65d1986e31c",
+ "bytes_origem": 102115,
+ "capturado_em": "2026-11-09T07:50:57Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 70382,
+   "sha256": "d05e92b194fe075464f9e6634712053a4fcb67384993591860c01740164baaec",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23166,
+   "sha256": "46e371fa4365d952dd10eac2ba4ea857bcc94ea4a43dc327fb8d2463ad6791ac",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Santa_Cruz_de_Minas.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3157336.jpg",
+  "bytes": 102115,
+  "sha256": "b09466c195b4ee7238ae9ce52e318a8945f1b57fbacf5288526f07e11bfcde68",
+  "sha1": "e6bfc610febf742985f037724413b65d1986e31c"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3157336.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3157336.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3157336.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:10Z",
+  "estado": "igual",
+  "sha1_commons": "e6bfc610febf742985f037724413b65d1986e31c"
+ }
+}

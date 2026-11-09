@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2903102",
+ "uf": "BA",
+ "municipio": "Barra do Rocha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bandeira_de_Barra_do_Rocha.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de BR",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "0b1a395b8e447f77a69cc42d75b055bd560225d874b8a93b92e6fa935fd1613d",
+ "sha1_origem": "4e5cfd512306d1f012cef8433cae961bd3508b8b",
+ "bytes_origem": 42687,
+ "capturado_em": "2026-11-09T07:39:39Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 50683,
+   "sha256": "5de4fec14baef849127a7b77516eaa6960aae653e3b84e8b712342974f220b6b",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 13895,
+   "sha256": "dd8959dc705953a526fb7b0a53c333b8d5313f1c16dea907d74163e7b3732bce",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Barra_do_Rocha.png",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2903102.png",
+  "bytes": 42687,
+  "sha256": "0b1a395b8e447f77a69cc42d75b055bd560225d874b8a93b92e6fa935fd1613d",
+  "sha1": "4e5cfd512306d1f012cef8433cae961bd3508b8b"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2903102.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2903102.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2903102.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:05Z",
+  "estado": "igual",
+  "sha1_commons": "4e5cfd512306d1f012cef8433cae961bd3508b8b"
+ }
+}

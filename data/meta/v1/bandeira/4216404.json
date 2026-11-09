@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "4216404",
+ "uf": "SC",
+ "municipio": "São João do Sul",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bandeira_de_S%C3%A3o_Jo%C3%A3o_do_Sul_-_SC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Heitor Fonseca Amaro (Armação do Itapocorói)",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "bb8be366d80961d4a949135edf07ea4b41d4191a5a50b6178f68679bbe610925",
+ "sha1_origem": "3729c410b661981c47992fc5ffd86141fcec3f1d",
+ "bytes_origem": 166543,
+ "capturado_em": "2026-11-09T14:29:07Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 84356,
+   "sha256": "d165df27c6fa30e7dcc7098717e16f64c6f94392d0a97abf43f51d5bb184e232",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23613,
+   "sha256": "20f3e8cb38bdd0ad97f42c1b83f97ae6b7bac74fcfee3aeb3833424fbdb0f5c8",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_São_João_do_Sul_-_SC.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/4216404.jpg",
+  "bytes": 166543,
+  "sha256": "bb8be366d80961d4a949135edf07ea4b41d4191a5a50b6178f68679bbe610925",
+  "sha1": "3729c410b661981c47992fc5ffd86141fcec3f1d"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216404.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216404.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4216404.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:10Z",
+  "estado": "igual",
+  "sha1_commons": "3729c410b661981c47992fc5ffd86141fcec3f1d"
+ }
+}

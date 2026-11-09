@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "5103601",
+ "uf": "MT",
+ "municipio": "Dom Aquino",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bandeira_Dom_Aquino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": null,
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "578b15cbd2d7cc1495fc0a51ab4a2a227cb2d5f62957704706fd6c31d0f15460",
+ "sha1_origem": "7226a6a326235beb5dec9f11fa75ce138d98aafc",
+ "bytes_origem": 14322,
+ "capturado_em": "2026-11-09T07:51:32Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 66189,
+   "sha256": "6eb207fd770d64d29a8f6d0b5cc9c958d4484b2d70ce3849541983b49022ae64",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21161,
+   "sha256": "03e7219807a3eef4d22bf100ddea759b742f4d5eff53e092e34b269ce19bd974",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_Dom_Aquino.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/5103601.jpg",
+  "bytes": 14322,
+  "sha256": "578b15cbd2d7cc1495fc0a51ab4a2a227cb2d5f62957704706fd6c31d0f15460",
+  "sha1": "7226a6a326235beb5dec9f11fa75ce138d98aafc"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5103601.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5103601.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/5103601.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:04Z",
+  "estado": "igual",
+  "sha1_commons": "7226a6a326235beb5dec9f11fa75ce138d98aafc"
+ }
+}

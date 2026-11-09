@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2209401",
+ "uf": "PI",
+ "municipio": "Santo Antônio de Lisboa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Bandeira_de_Santo_Ant%C3%B4nio_de_Lisboa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "https://www.santoantoniodelisboa.pi.gov.br/",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "6157a12530de6885ea8bc66ebb330115a83f7ce23fcf4094a03b5a00c0a11a5b",
+ "sha1_origem": "2a7282f3c6416c25a8cfbe52561f568dfc5216a3",
+ "bytes_origem": 440487,
+ "capturado_em": "2026-11-09T07:53:59Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 61627,
+   "sha256": "022f24b5a4c2cd1a3c1247c59bfa93c9fff6e89c58f41f30e86451a21f073eca",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18639,
+   "sha256": "1a111c910a115aa8ca01647c182b35b28a5714a8aff8acfb363e793b87322933",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Santo_Antônio_de_Lisboa.png",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2209401.png",
+  "bytes": 440487,
+  "sha256": "6157a12530de6885ea8bc66ebb330115a83f7ce23fcf4094a03b5a00c0a11a5b",
+  "sha1": "2a7282f3c6416c25a8cfbe52561f568dfc5216a3"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2209401.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2209401.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2209401.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:10Z",
+  "estado": "igual",
+  "sha1_commons": "2a7282f3c6416c25a8cfbe52561f568dfc5216a3"
+ }
+}

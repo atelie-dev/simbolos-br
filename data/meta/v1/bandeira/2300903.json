@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2300903",
+ "uf": "CE",
+ "municipio": "Apuiarés",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Apuiar%C3%A9s_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Municipal Prefecture",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "28eb1ec29526e73cac0b7a5751a23cd710cbdb6a90086bfe8d89cd84ff2a31c7",
+ "sha1_origem": "4d5102019299965cb5f558dd29fe7555b21b5e0a",
+ "bytes_origem": 92593,
+ "capturado_em": "2026-11-09T07:46:08Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 75769,
+   "sha256": "80a369271691824f6f27451635d152f86e4b9152edab257497ebf063334ac72a",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 22101,
+   "sha256": "fc9510d77ebd88f5cd4075d002930d9e4c045e8e8136ac483a031baabca337d5",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Flag_of_Apuiarés_Municipality_in_the_State_of_Ceará_in_Brazil.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2300903.jpg",
+  "bytes": 92593,
+  "sha256": "28eb1ec29526e73cac0b7a5751a23cd710cbdb6a90086bfe8d89cd84ff2a31c7",
+  "sha1": "4d5102019299965cb5f558dd29fe7555b21b5e0a"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2300903.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2300903.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2300903.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:11Z",
+  "estado": "igual",
+  "sha1_commons": "4d5102019299965cb5f558dd29fe7555b21b5e0a"
+ }
+}

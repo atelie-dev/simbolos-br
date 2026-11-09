@@ -1,0 +1,54 @@
+{
+ "codigo_ibge": "4307815",
+ "uf": "RS",
+ "municipio": "Estrela Velha",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bandeira_de_Estrela_Velha.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "0e0b383ca90497fdf7379447ed331b7f6750af2228ea797d276ee46c198f6f5b",
+ "sha1_origem": "d6f645b27f47d80781ae817d7d22166346874aa6",
+ "bytes_origem": 2981,
+ "capturado_em": "2026-11-09T14:32:28Z",
+ "captura_fonte": "relogio",
+ "rendicoes": {
+  "png": {
+   "bytes": 11937,
+   "sha256": "240eb96eecc535362595acc5bdc79515ea2c16f33c314e82a1d1e2245f2b50f0",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 12134,
+   "sha256": "b34b5dd31bbb1ed87706dbb9d0ecaec83dea072318374c0d68c5e0d928bcc80a",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 2981,
+   "sha256": "0e0b383ca90497fdf7379447ed331b7f6750af2228ea797d276ee46c198f6f5b"
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Estrela_Velha.svg",
+ "guarda": {
+  "espelhos": [
+   "commons",
+   "git"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307815.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307815.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/4307815.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:07Z",
+  "estado": "igual",
+  "sha1_commons": "d6f645b27f47d80781ae817d7d22166346874aa6"
+ }
+}

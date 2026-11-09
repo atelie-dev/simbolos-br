@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3529500",
+ "uf": "SP",
+ "municipio": "Mendonça",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bandeira_de_Mendon%C3%A7a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Mendonça",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "dfe4926be3ca92dd2cda5b92258345256f83c1aaa486453280765dd57bbb700a",
+ "sha1_origem": "ca091c5a0e87dfe06eded4fda10baec8ca85c02a",
+ "bytes_origem": 10048,
+ "capturado_em": "2026-11-09T14:30:18Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 25771,
+   "sha256": "d6bbf79a43ff76426330ec8f01944427272f6d16880520b2d7178ccb29455270",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 7868,
+   "sha256": "f8e6535764d5cf249b61ff4baa060d6d04a93cc4d30d59237ad662d9b3bfe21e",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Mendonça.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3529500.jpg",
+  "bytes": 10048,
+  "sha256": "dfe4926be3ca92dd2cda5b92258345256f83c1aaa486453280765dd57bbb700a",
+  "sha1": "ca091c5a0e87dfe06eded4fda10baec8ca85c02a"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3529500.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:08Z",
+  "estado": "igual",
+  "sha1_commons": "ca091c5a0e87dfe06eded4fda10baec8ca85c02a"
+ }
+}

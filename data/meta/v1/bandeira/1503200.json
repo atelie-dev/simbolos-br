@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "1503200",
+ "uf": "PA",
+ "municipio": "Igarapé-Açu",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bandeira_de_Igarap%C3%A9-A%C3%A7u.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC-BY-SA-4.0",
+ "balde": "compartilha",
+ "autor": "CNM",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f1f7ba63c7fe3a3e496048d6e97796da47eea005a0d5da816121533a2e8b0d06",
+ "sha1_origem": "f28a961dc2365b24495f4bd00d6a366f7d81d3e5",
+ "bytes_origem": 19867,
+ "capturado_em": "2026-11-09T07:52:03Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 58067,
+   "sha256": "e51d5b1a4b0b6d8cb5bfe2fb2e48830ac3549129df4a169e64c7545314e2cb70",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 23411,
+   "sha256": "4ae88186e8d12c702eb1c5a9444034b17dd0cf3170905fad726d3ac55d404d87",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Igarapé-Açu.png",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/1503200.png",
+  "bytes": 19867,
+  "sha256": "f1f7ba63c7fe3a3e496048d6e97796da47eea005a0d5da816121533a2e8b0d06",
+  "sha1": "f28a961dc2365b24495f4bd00d6a366f7d81d3e5"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1503200.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1503200.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/1503200.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:07Z",
+  "estado": "igual",
+  "sha1_commons": "f28a961dc2365b24495f4bd00d6a366f7d81d3e5"
+ }
+}

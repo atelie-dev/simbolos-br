@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "3200409",
+ "uf": "ES",
+ "municipio": "Anchieta",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/1/16/BandeiradoMunicipio_anchieta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Unknown authorUnknown author",
+ "estado": "publicado",
+ "formato_origem": "image/jpeg",
+ "sha256_origem": "b0e8d2965e1f2b45263ee02eedb1df34057546e485ccb96de0ae14027c20aecd",
+ "sha1_origem": "01f4ebbaf850efdb06f35dae27eb84427c4134d6",
+ "bytes_origem": 1880127,
+ "capturado_em": "2026-11-09T07:47:30Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 280282,
+   "sha256": "16365a270d289397a67f96043621710bd4ad74cfe61dc6d766063118c12d30ac",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 31884,
+   "sha256": "83d09b796f5079c8cbc12e3713ea27e84cf40b88e59b98eecd2506565b78dc95",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:BandeiradoMunicipio_anchieta.jpg",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/3200409.jpg",
+  "bytes": 1880127,
+  "sha256": "b0e8d2965e1f2b45263ee02eedb1df34057546e485ccb96de0ae14027c20aecd",
+  "sha1": "01f4ebbaf850efdb06f35dae27eb84427c4134d6"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200409.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200409.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/3200409.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:11Z",
+  "estado": "igual",
+  "sha1_commons": "01f4ebbaf850efdb06f35dae27eb84427c4134d6"
+ }
+}

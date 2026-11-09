@@ -1,0 +1,54 @@
+{
+ "codigo_ibge": "2510600",
+ "uf": "PB",
+ "municipio": "Ouro Velho",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bandeira_de_Ouro_Velho.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "UsuárioPar",
+ "estado": "publicado",
+ "formato_origem": "svg",
+ "sha256_origem": "a7f620971450716a61e6120eb731b1e0badc5252be5579279d1c2931f959adb3",
+ "sha1_origem": "3ebaac0e4eae1a8c39025333d6c6adef1c8b7cbe",
+ "bytes_origem": 5879,
+ "capturado_em": "2026-11-09T14:31:48Z",
+ "captura_fonte": "relogio",
+ "rendicoes": {
+  "png": {
+   "bytes": 30912,
+   "sha256": "e5ad081ac925c642bcd8dd0e1064e3eca32856bf720f1a8fe73ffe0a8f723efb",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 18120,
+   "sha256": "283d27f1385a65eac0dda11aab1a5e70f2ea7a91ddd3c8578d4a1547f6fa0010",
+   "lado": 512
+  },
+  "svg": {
+   "bytes": 5879,
+   "sha256": "a7f620971450716a61e6120eb731b1e0badc5252be5579279d1c2931f959adb3"
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Ouro_Velho.svg",
+ "guarda": {
+  "espelhos": [
+   "commons",
+   "git"
+  ],
+  "risco": "baixo",
+  "motivo": [
+   "vetor_versionado"
+  ]
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510600.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510600.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2510600.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:09Z",
+  "estado": "igual",
+  "sha1_commons": "3ebaac0e4eae1a8c39025333d6c6adef1c8b7cbe"
+ }
+}

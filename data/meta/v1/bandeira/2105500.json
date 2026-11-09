@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2105500",
+ "uf": "MA",
+ "municipio": "João Lisboa",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bandeira_de_Jo%C3%A3o_Lisboa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura de João Lisboa",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "f3c03b648a33179d3722fb107d4d68346b03b4b93b7bd8a5ce4c90199026ebe4",
+ "sha1_origem": "d6afc4d26f84020b1c607de6e107defaba5c3f6a",
+ "bytes_origem": 42803,
+ "capturado_em": "2026-11-09T07:49:02Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 55228,
+   "sha256": "5eca38ff83d510383b91234e6545f855d94f665f66a64680dadc55262ff52bba",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 25994,
+   "sha256": "9d197d8f6f7095adfceca19f1ab56a08a3326a013c96ec5b399aaf38ae84365a",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_João_Lisboa.png",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2105500.png",
+  "bytes": 42803,
+  "sha256": "f3c03b648a33179d3722fb107d4d68346b03b4b93b7bd8a5ce4c90199026ebe4",
+  "sha1": "d6afc4d26f84020b1c607de6e107defaba5c3f6a"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2105500.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2105500.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2105500.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T14:33:07Z",
+  "estado": "igual",
+  "sha1_commons": "d6afc4d26f84020b1c607de6e107defaba5c3f6a"
+ }
+}
