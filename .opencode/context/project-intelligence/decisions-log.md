@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.6 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.7 | Updated: 2026-11-08 -->
 
 # Decisions Log — Símbolos BR
 
@@ -485,3 +485,28 @@ tira nada do CDN; e o edge guarda png/jpg por 7 dias (`cf-cache-status: HIT` com
 `age` alto). Apagar do R2 sem **purge** deixa o arquivo servindo. A zona
 `coletivo.dev.br` está ativa agora e o purge responde 200 — o 403 antigo era de
 zona pendente, não de permissão.
+
+## D27 — Canal de relatos: máquina propõe, humano decide (2026-11-09)
+
+**Decisão:** formulário em `/simbolos/contribuir` (quatro passos, escolhas
+fechadas), Worker na rota `/simbolos/api/relatar`, Turnstile `managed`, KV para
+limite por IP e dedupe, e uma **GitHub App** (`simbolos-br-relatos`, Issues:
+write) abrindo issue com o rótulo `aguardando-confirmacao`.
+
+**Por quê:** a revisão manual achou 88 defeitos que o portão de visão não pega —
+o canal é o complemento humano. E o acervo tem 258 itens `pendente` sem licença
+e zero PDF de ato: o formulário pede **fonte oficial**, então é entrada de
+procedência, não só de reclamação.
+
+**Rejeitado:** PAT pessoal (autoria confusa — parece que a pessoa reportou —,
+credencial de até 1 ano e presa a uma conta); upload de arquivo (o Worker viraria
+armazém e superfície de abuso); item em texto livre (relato inaplicável).
+
+**Consequência:** nenhum comando lê issue e altera o acervo. Aplicar é manual:
+`simbolos rejeitar` ou `simbolos importar`, e fechar a issue citando o commit. O
+Worker só enfileira.
+
+**Armadilha registrada:** a chave privada da App **vazou no chat** durante a
+configuração. Precisa ser revogada na App e trocada com `wrangler secret put
+GITHUB_PRIVATE_KEY`. Turnstile: a sitekey é pública (página + var do Worker), o
+secret é secret do Worker.

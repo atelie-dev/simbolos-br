@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.3 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.4 | Updated: 2026-11-08 -->
 
 # Living Notes — Símbolos BR
 
@@ -43,7 +43,8 @@ bucket dele, sem Worker. Configurável por `SITE_BASE` / `CDN_BASE` /
 | Acervo versionado | 1.170 SVGs (287 MB) em `data/vetores` + livro-razão (3,3 MB) em `data/ledger` (D22) |
 | Guarda | 68 itens de risco alto (69 `pendente`, 1 vetorial), 8.311 baixos; vetor tem `espelhos: [commons, git]` |
 | R2 | `simbolos-br-cdn` 1,32 GB (público) + `simbolos-br-acervo` 1,30 GB (**sem domínio**) = 2,62 GB, 26% do free tier |
-| Site | **no ar**: landing, `/consultar`, `/cobertura`, `/sobre`, 5.571 municípios, 27 estados, portal na raiz |
+| Site | **no ar**: landing, `/consultar`, `/cobertura`, `/sobre`, `/contribuir`, 5.571 municípios, 27 estados, portal na raiz |
+| Relatos | `/simbolos/contribuir` → Worker + Turnstile + GitHub App: issue com `aguardando-confirmacao`, nada automático (D27) |
 | URLs | limpas, sem barra (`build.format: "file"`) e com `link rel=canonical` |
 | Deploy | Pages projeto `coletivo`, `coletivo.dev.br` + `www`, deploy manual |
 | Repositório | público em `github.com/atelie-dev/simbolos-br`, AGPL-3.0, `.git` de 96 MB (287 MB de SVG comprimem), FUNDING |
@@ -57,7 +58,10 @@ compartilha 1.214, pendente 69.
 
 ## Próximo passo, em ordem
 
-1. **Importar os 403 símbolos do crawl**: `simbolos importar` lê
+1. **Trocar a chave privada da GitHub App**: ela foi colada no chat durante a
+   configuração (D27). Revogar na App, gerar outra e rodar `wrangler secret put
+   GITHUB_PRIVATE_KEY` em `infra/relatos/`.
+2. **Importar os 403 símbolos do crawl**: `simbolos importar` lê
    `data/_coleta/leis.jsonl`, deduplica por URL (180 repetem), cria candidatos com
    `balde: pendente` e `origem` do site municipal, e passa pelo portão de visão
    para confirmar identidade **e** tipo (141 não têm pista no nome do arquivo).

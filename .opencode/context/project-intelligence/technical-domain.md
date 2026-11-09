@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.3 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.4 | Updated: 2026-11-08 -->
 
 # Technical Domain — Símbolos BR
 
@@ -96,6 +96,7 @@ site/                                Astro estático (base `/simbolos`)
   public/fonts/*.woff2               Bricolage Grotesque + Source Sans 3
 deploy/                              gerado por scripts/empacotar_site.py (gitignored)
 infra/r2-cdn-cors.json               CORS do bucket público (aplicado via wrangler)
+infra/relatos/                       Worker do canal de relatos (Turnstile + GitHub App + KV)
 .opencode/context/project-intelligence/  este pacote
 ```
 
@@ -114,6 +115,7 @@ GET https://simbolos.coletivo.dev.br/embed/v1/{brasao|bandeira}/{cod}.{svg|png|j
 GET https://simbolos.coletivo.dev.br/meta/v1/{brasao|bandeira}/{cod}.json
 GET https://coletivo.dev.br/simbolos/api/v1/{municipios|resumo|centros}.json
 GET https://coletivo.dev.br/simbolos/api/v1/malha/{lat}_{lon}.json
+POST https://coletivo.dev.br/simbolos/api/relatar   (Worker: relato ou contribuição)
 ```
 
 - `cod_ibge` = 7 dígitos (município) ou 2 (estado).
@@ -130,6 +132,8 @@ GET https://coletivo.dev.br/simbolos/api/v1/malha/{lat}_{lon}.json
   `_headers` na raiz do deployment.
 - Secrets nunca no repo: `.env` vem do 1Password (ambiente `simbolos-br`) e é
   carregado por `python-dotenv` em `simbolos/__init__.py`. Está no `.gitignore`.
+  O Worker tem secrets próprios (`GITHUB_PRIVATE_KEY`, `TURNSTILE_SECRET`),
+  definidos com `wrangler secret put` em `infra/relatos/`.
 
 ## Repositório
 
