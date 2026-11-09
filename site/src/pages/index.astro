@@ -2,6 +2,7 @@
 import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
 import Base from "../layouts/Base.astro";
+import Aleatorio from "../components/Aleatorio.astro";
 import Busca from "../components/Busca.astro";
 import Topo from "../components/Topo.astro";
 import Rodape from "../components/Rodape.astro";
@@ -66,6 +67,7 @@ const pix = JSON.parse(readFileSync(resolve(process.cwd(), "src/data/pix.json"),
             Cruza sua posição com a malha municipal do IBGE, dentro do navegador.
             Nada é enviado para servidor nosso.
           </p>
+          <Aleatorio rotulo="Surpreenda-me" />
           <dl class="numeros">
             <div>
               <dt>municípios</dt>

@@ -1,5 +1,6 @@
 ---
 import Base from "../../layouts/Base.astro";
+import Aleatorio from "../../components/Aleatorio.astro";
 import Topo from "../../components/Topo.astro";
 import Rodape from "../../components/Rodape.astro";
 import SimboloCard from "../../components/SimboloCard.astro";
@@ -68,6 +69,10 @@ const jsonLd = simbolos.map((item) => ({
         atribuição é bem-vinda — <a href={`${base}#contribuir`}>fale com o projeto</a>.
       </p>
     </section>
+
+    <p class="outro-municipio">
+      <Aleatorio rotulo="Ver outro município" excluir={entrada.c} />
+    </p>
   </main>
 
   <Rodape />
@@ -135,6 +140,12 @@ const jsonLd = simbolos.map((item) => ({
 
     .origem p {
       font-size: 0.9375rem;
+    }
+
+    /* O botão fica logo abaixo da seção: o margin-top do parágrafo somaria com
+       o do próprio botão e abriria um vão sem motivo. */
+    .outro-municipio {
+      margin: 0 0 3rem;
     }
 
 

@@ -9,11 +9,15 @@
  */
 interface Props {
   rotulo?: string;
+  /** Código a não sortear — usado na página do município, para não abrir o mesmo. */
+  excluir?: string;
 }
-const { rotulo = "Município aleatório" } = Astro.props;
+const { rotulo = "Município aleatório", excluir = "" } = Astro.props;
 ---
 
-<button type="button" class="btn btn--ghost aleatorio" data-aleatorio>{rotulo}</button>
+<button type="button" class="btn btn--ghost aleatorio" data-aleatorio data-excluir={excluir}>
+  {rotulo}
+</button>
 
 <script>
   import { BASE } from "../lib/urls";
@@ -34,10 +38,11 @@ const { rotulo = "Município aleatório" } = Astro.props;
 
   botao?.addEventListener("click", async () => {
     const original = botao.textContent;
+    const excluir = botao.dataset.excluir ?? "";
     botao.disabled = true;
     botao.textContent = "Sorteando…";
     try {
-      const lista = await rotas();
+      const lista = (await rotas()).filter((rota) => !excluir || !rota.startsWith(`${excluir}-`));
       const rota = lista[Math.floor(Math.random() * lista.length)];
       if (rota) location.assign(`${BASE}municipios/${rota}`);
     } catch {
