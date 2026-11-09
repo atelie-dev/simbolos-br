@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.4 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.5 | Updated: 2026-11-08 -->
 
 # Decisions Log — Símbolos BR
 
@@ -424,3 +424,30 @@ natural: AL rodou a 3 sem falha e todas as UFs a 24 falharam entre 35% e 51%.
 **Dívida registrada:** o `extrair` já devolvia `tipo` (brasao/bandeira) e o
 coletor descartava. Corrigido para as próximas safras; nesta, 141 das 403 URLs
 não têm pista de tipo nem no nome do arquivo e dependem do portão de visão.
+
+## D25 — O crawl não publica; o importador classifica (2026-11-08)
+
+**Decisão:** `simbolos importar` lê `data/_coleta/leis.jsonl`, deduplica por URL,
+baixa uma vez com a polidez de sempre, roda o portão de visão com o **município
+no `state`** (para decidir tipo *e* identidade, não só "é brasão"), guarda o
+original em `data/fontes` e escreve o candidato no catálogo com
+`balde: pendente` e `licenca: NOASSERTION`. Quem renderiza é `publicar`.
+
+**Por quê:** o crawl guarda URL, não arquivo, e não diz sob qual chave publicar.
+Sem o tipo, o catálogo não sabe se é `brasao` ou `bandeira`; sem o arquivo, a
+publicação teria que rebaixar tudo de novo. E afirmar `livre` em 403 arquivos de
+site de prefeitura é promessa que o projeto não pode sustentar — o `pendente` é o
+que permite publicar sem mentir.
+
+**Rejeitado:** publicar direto do crawl (sem arquivo, sem tipo, sem gate);
+inferir tipo só pelo nome do arquivo (65% de cobertura, e no teste de 5 itens a
+visão divergiu do palpite); marcar como livre por "símbolo oficial não é
+protegido" (é decisão jurídica, não de engenharia).
+
+**Consequência:** os importados entram com `guarda` alto e três motivos —
+`origem_fora_do_commons`, `licenca_pendente`, `nao_verificado` — e ficam fora dos
+pacotes livres. A visão custou US$ 0,0001 por imagem.
+
+**Armadilha registrada:** o mesmo arquivo aparece em várias páginas do mesmo
+município (719 ocorrências para 403 URLs). Deduplicar por URL antes de importar,
+senão o acervo ganha centenas de itens que são o mesmo arquivo.

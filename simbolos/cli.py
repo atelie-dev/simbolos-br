@@ -25,6 +25,7 @@ from . import (
     commons,
     config,
     guarda,
+    importar,
     indice,
     leis,
     lotes,
@@ -713,6 +714,40 @@ def publicar_cmd(
     if r["motivos"]:
         console.print(f"motivos de falha: {r['motivos']}")
     console.print(f"-> {raiz}/embed/v1/... e {raiz}/catalogo.json")
+
+
+@app.command("importar")
+def importar_cmd(
+    uf: Annotated[str | None, typer.Option(help="sigla da UF")] = None,
+    limite: Annotated[int, typer.Option(help="0 = todos")] = 0,
+    sem_visao: Annotated[
+        bool, typer.Option("--sem-visao", help="usa so o palpite do nome do arquivo")
+    ] = False,
+) -> None:
+    """Traz para o catalogo os simbolos achados no crawl oficial.
+
+    Baixa uma vez com polidez, deixa o portao de visao decidir o que e e de quem
+    e, e guarda o original em data/fontes. Nao publica: quem renderiza e
+    `publicar`. Todo item entra com balde `pendente` e sem licenca afirmada.
+    """
+    with console.status("importando os achados do crawl..."):
+        r = importar.importar(uf=uf, limite=limite, sem_visao=sem_visao)
+
+    t = Table(title="importados do crawl")
+    t.add_column("medida")
+    t.add_column("valor", justify="right")
+    t.add_row("achados", str(r["achados"]))
+    t.add_row("importados", str(r["importados"]))
+    t.add_row("rejeitados pela visao", str(r["rejeitados"]))
+    t.add_row("ja tinham fonte melhor", str(r["ja_tinha"]))
+    t.add_row("sem tipo", str(r["sem_tipo"]))
+    t.add_row("falhas de download", str(r["falhas"]))
+    t.add_row("tamanho", f"{r['bytes'] / 1024 / 1024:.1f} MB")
+    t.add_row("custo da visao", f"US$ {r['visao_usd']:.4f}")
+    console.print(t)
+    if r["motivos"]:
+        console.print(f"motivos: {r['motivos']}")
+    console.print(f"-> {importar.CATALOGO} (rode `simbolos publicar` depois)")
 
 
 @app.command("fontes")

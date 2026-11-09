@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.2 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.3 | Updated: 2026-11-08 -->
 
 # Technical Domain — Símbolos BR
 
@@ -28,6 +28,7 @@ uv run python -m simbolos spike            # rendimento na amostra estratificada
 uv run python -m simbolos triar            # um candidato por município -> catálogo
 uv run python -m simbolos publicar         # baixa + renderiza + dist/embed/v1
 uv run python -m simbolos fontes           # rebaixa e arquiva o original em data/fontes
+uv run python -m simbolos importar         # traz os símbolos do crawl .gov.br para o catálogo
 uv run python -m simbolos atestar          # sha1/bytes/data de captura nos sidecars (sem rede)
 uv run python -m simbolos verificar-fonte  # confere os 8.379 no Commons por sha1 (~3 min)
 uv run python -m simbolos risco            # data/risco.json: quem está só no R2

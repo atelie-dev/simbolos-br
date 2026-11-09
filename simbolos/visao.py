@@ -145,11 +145,13 @@ def verificar_decisao(
     modelo: str = MODELO_DECISAO,
     perguntas: dict | None = None,
     timeout: float = 120.0,
+    contexto: str | None = None,
 ) -> dict:
     """Classifica por modelo de decisão (System One): probabilidades, sem geração.
 
     `aceito` usa as mesmas regras do gate por chat: é brasão/bandeira, com
-    confiança razoável, e sem marca d'água.
+    confiança razoável, e sem marca d'água. `contexto` entra no `state` — é o
+    que permite perguntar "é o brasão DESTE município", e não só "é um brasão".
     """
     p = provedores.obter(provedor)
     chave = p.chave()
@@ -171,7 +173,8 @@ def verificar_decisao(
         timeout=timeout,
         json={
             "model": modelo,
-            "state": "Candidato a símbolo municipal brasileiro, extraído de site de prefeitura.",
+            "state": contexto
+            or "Candidato a símbolo municipal brasileiro, extraído de site de prefeitura.",
             "images": [data_url(conteudo, mime)],
             "questions": perguntas or PERGUNTAS,
         },
