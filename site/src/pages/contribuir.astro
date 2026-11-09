@@ -1,0 +1,387 @@
+---
+import Base from "../layouts/Base.astro";
+import Topo from "../components/Topo.astro";
+import Rodape from "../components/Rodape.astro";
+import { BASE as base } from "../lib/urls";
+
+const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
+---
+
+<Base
+  title="Relatar ou contribuir · Símbolos · coletivo.dev.br"
+  description="Aponte um erro ou envie a fonte oficial de um símbolo municipal. Cada envio vira uma issue pública, aguardando confirmação humana."
+>
+  <Topo />
+
+  <main id="conteudo" class="wrap">
+    <header class="cabeca">
+      <p class="eyebrow">Relatar ou contribuir</p>
+      <h1>O acervo melhora quando alguém aponta o que está errado.</h1>
+      <p class="linha-fina">
+        Nada é alterado automaticamente: cada envio vira uma issue pública e
+        espera a confirmação de quem mantém o acervo. O formulário não recebe
+        arquivo — recebe <strong>fonte</strong>, e o pipeline busca e confere.
+      </p>
+    </header>
+
+    <form id="relato" class="form" novalidate>
+      <fieldset>
+        <legend>1. O que você quer fazer?</legend>
+        <div class="opcoes">
+          <label class="opcao">
+            <input type="radio" name="fluxo" value="relato" checked />
+            <span><strong>Relatar uma falha</strong><br />a imagem está errada, suja ou quebrada</span>
+          </label>
+          <label class="opcao">
+            <input type="radio" name="fluxo" value="contribuicao" />
+            <span><strong>Contribuir</strong><br />símbolo, ato oficial, vetor ou correção de dado</span>
+          </label>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>2. Qual item?</legend>
+        <label class="campo">
+          Município
+          <input id="busca" list="lista-municipios" placeholder="Comece a digitar o nome" autocomplete="off" />
+        </label>
+        <datalist id="lista-municipios"></datalist>
+        <p class="ajuda" id="escolhido">Nenhum município escolhido.</p>
+        <label class="campo">
+          Tipo
+          <select name="tipo">
+            <option value="brasao">Brasão</option>
+            <option value="bandeira">Bandeira</option>
+          </select>
+        </label>
+      </fieldset>
+
+      <fieldset id="campo-relato">
+        <legend>3. O que está errado?</legend>
+        <div class="opcoes">
+          <label class="opcao"><input type="radio" name="motivo" value="nao_e_o_simbolo" checked /><span>Não é o símbolo deste município</span></label>
+          <label class="opcao"><input type="radio" name="motivo" value="tipo_trocado_brasao" /><span>Isto é uma bandeira, não um brasão</span></label>
+          <label class="opcao"><input type="radio" name="motivo" value="tipo_trocado_bandeira" /><span>Isto é um brasão, não uma bandeira</span></label>
+          <label class="opcao"><input type="radio" name="motivo" value="baixa_qualidade" /><span>Resolução baixa ou borrado</span></label>
+          <label class="opcao"><input type="radio" name="motivo" value="lixo_ou_marca" /><span>Tem selo, logo, texto ou marca</span></label>
+          <label class="opcao"><input type="radio" name="motivo" value="corrompido" /><span>Arquivo não abre ou está truncado</span></label>
+          <label class="opcao"><input type="radio" name="motivo" value="desatualizado" /><span>O símbolo mudou</span></label>
+          <label class="opcao"><input type="radio" name="motivo" value="licenca" /><span>Atribuição ou licença errada</span></label>
+          <label class="opcao"><input type="radio" name="motivo" value="outro" /><span>Outro (descreva abaixo)</span></label>
+        </div>
+        <label class="campo">
+          Detalhe (opcional, até 800 caracteres)
+          <textarea name="detalhe" rows="3" maxlength="800"></textarea>
+        </label>
+      </fieldset>
+
+      <fieldset id="campo-contribuicao" hidden>
+        <legend>3. O que você traz?</legend>
+        <div class="opcoes">
+          <label class="opcao"><input type="radio" name="contribuicao" value="simbolo" checked /><span>Uma imagem do símbolo</span></label>
+          <label class="opcao"><input type="radio" name="contribuicao" value="ato_oficial" /><span>A lei ou decreto que o instituiu</span></label>
+          <label class="opcao"><input type="radio" name="contribuicao" value="vetor" /><span>Versão vetorial (SVG ou PDF oficial)</span></label>
+          <label class="opcao"><input type="radio" name="contribuicao" value="correcao" /><span>Correção de dado (nome, código, atribuição)</span></label>
+        </div>
+        <label class="campo">
+          URL da fonte oficial
+          <input name="url_fonte" type="url" placeholder="https://prefeitura…" />
+          <span class="ajuda">Obrigatória. O pipeline baixa e confere; não aceitamos upload.</span>
+        </label>
+        <div class="dupla">
+          <label class="campo">Órgão <input name="orgao" placeholder="prefeitura, câmara…" /></label>
+          <label class="campo">Data de publicação <input name="data" placeholder="AAAA-MM-DD" /></label>
+        </div>
+        <label class="campo">Número do ato <input name="ato" placeholder="Lei 1.234/2020" /></label>
+        <div class="dupla">
+          <label class="campo">
+            Licença sugerida
+            <select name="licenca">
+              <option value="">não sei</option>
+              <option value="dominio-publico">domínio público</option>
+              <option value="cc-by">CC BY</option>
+              <option value="cc-by-sa">CC BY-SA</option>
+              <option value="uso-oficial">símbolo oficial</option>
+            </select>
+          </label>
+          <label class="campo">Atribuição <input name="atribuicao" placeholder="texto de crédito" /></label>
+        </div>
+        <label class="campo">
+          Detalhe (opcional, até 800 caracteres)
+          <textarea name="detalhe_contribuicao" rows="3" maxlength="800"></textarea>
+        </label>
+      </fieldset>
+
+      <fieldset>
+        <legend>4. Enviar</legend>
+        <label class="campo">
+          Contato (opcional)
+          <input name="contato" placeholder="como falar com você" maxlength="120" />
+          <span class="ajuda">A issue é pública. Não inclua dados pessoais de terceiros.</span>
+        </label>
+        <div class="cf-turnstile" data-sitekey={sitekey} data-theme="auto"></div>
+        <button type="submit" class="enviar">Enviar relato</button>
+        <p id="status" class="status" role="status"></p>
+      </fieldset>
+    </form>
+  </main>
+
+  <Rodape />
+</Base>
+
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer is:inline></script>
+<script>
+  const form = document.getElementById("relato") as HTMLFormElement;
+  const busca = document.getElementById("busca") as HTMLInputElement;
+  const lista = document.getElementById("lista-municipios") as HTMLDataListElement;
+  const escolhido = document.getElementById("escolhido") as HTMLParagraphElement;
+  const status = document.getElementById("status") as HTMLParagraphElement;
+  const botao = form.querySelector("button[type=submit]") as HTMLButtonElement;
+
+  let municipios: Array<{ c: string; n: string; u: string }> = [];
+  let carregado = false;
+  let selecionado: { c: string; n: string; u: string } | null = null;
+
+  async function carregar() {
+    if (carregado) return;
+    carregado = true;
+    const r = await fetch(`${import.meta.env.BASE_URL}/api/v1/municipios.json`);
+    const dados = await r.json();
+    municipios = dados.filter((m: { c: string }) => m.c.length === 7);
+    const frag = document.createDocumentFragment();
+    for (const m of municipios) {
+      const o = document.createElement("option");
+      o.value = `${m.n} (${m.u})`;
+      frag.append(o);
+    }
+    lista.append(frag);
+  }
+
+  busca?.addEventListener("focus", carregar);
+  busca?.addEventListener("input", () => {
+    const alvo = busca.value.trim().toLowerCase();
+    selecionado = municipios.find((m) => `${m.n} (${m.u})`.toLowerCase() === alvo) || null;
+    escolhido.textContent = selecionado
+      ? `${selecionado.n} (${selecionado.u}) — código ${selecionado.c}`
+      : "Nenhum município escolhido.";
+  });
+
+  const radiosFluxo = [...form.querySelectorAll<HTMLInputElement>("input[name=fluxo]")];
+  const campoRelato = document.getElementById("campo-relato") as HTMLFieldSetElement;
+  const campoContrib = document.getElementById("campo-contribuicao") as HTMLFieldSetElement;
+
+  function trocarFluxo() {
+    const relato = radiosFluxo.find((r) => r.checked)?.value === "relato";
+    campoRelato.hidden = !relato;
+    campoContrib.hidden = relato;
+    botao.textContent = relato ? "Enviar relato" : "Enviar contribuição";
+  }
+  radiosFluxo.forEach((r) => r.addEventListener("change", trocarFluxo));
+  trocarFluxo();
+
+  function dadosDoFormulario() {
+    const fd = new FormData(form);
+    const fluxo = String(fd.get("fluxo"));
+    const base: Record<string, unknown> = {
+      fluxo,
+      codigo: selecionado?.c || "",
+      uf: selecionado?.u || "",
+      municipio: selecionado?.n || "",
+      tipo: String(fd.get("tipo")),
+      contato: String(fd.get("contato") || ""),
+    };
+    if (fluxo === "relato") {
+      base.motivo = String(fd.get("motivo"));
+      base.detalhe = String(fd.get("detalhe") || "");
+    } else {
+      base.contribuicao = String(fd.get("contribuicao"));
+      base.url_fonte = String(fd.get("url_fonte") || "");
+      base.orgao = String(fd.get("orgao") || "");
+      base.data = String(fd.get("data") || "");
+      base.ato = String(fd.get("ato") || "");
+      base.licenca = String(fd.get("licenca") || "");
+      base.atribuicao = String(fd.get("atribuicao") || "");
+      base.detalhe = String(fd.get("detalhe_contribuicao") || "");
+    }
+    return base;
+  }
+
+  form.addEventListener("submit", async (evento) => {
+    evento.preventDefault();
+    status.className = "status";
+    if (!selecionado) {
+      status.textContent = "Escolha um município da lista.";
+      return;
+    }
+    const dados = dadosDoFormulario();
+    const fluxo = String(dados.fluxo);
+    if (fluxo === "contribuicao" && !/^https?:\/\//.test(String(dados.url_fonte))) {
+      status.textContent = "Informe a URL da fonte oficial.";
+      return;
+    }
+    if (fluxo === "relato" && dados.motivo === "outro" && String(dados.detalhe).trim().length < 10) {
+      status.textContent = "Para “outro”, descreva o problema.";
+      return;
+    }
+
+    const token = (window as unknown as { turnstile?: { getResponse: () => string } }).turnstile?.getResponse();
+    if (!token) {
+      status.textContent = "Aguarde a verificação anti-robo terminar.";
+      return;
+    }
+
+    botao.disabled = true;
+    status.textContent = "Enviando…";
+    try {
+      const r = await fetch(`${import.meta.env.BASE_URL}/api/relatar`, {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ ...dados, turnstile: token }),
+      });
+      const resposta = await r.json();
+      if (!r.ok) {
+        status.className = "status erro";
+        status.textContent = resposta.erro || "Não foi possível enviar agora.";
+        return;
+      }
+      status.className = "status ok";
+      status.innerHTML = resposta.duplicado
+        ? "Este relato já foi recebido nas últimas 24 horas."
+        : `Recebido. Acompanhe em <a href="${resposta.url}" rel="noopener">${resposta.url}</a> — nada é aplicado sem confirmação humana.`;
+      form.reset();
+      selecionado = null;
+      escolhido.textContent = "Nenhum município escolhido.";
+      trocarFluxo();
+    } catch {
+      status.className = "status erro";
+      status.textContent = "Falha de rede. Tente de novo.";
+    } finally {
+      botao.disabled = false;
+    }
+  });
+
+  // Pré-preenchimento vindo da página do município: ?cod=3550308&tipo=brasao
+  const params = new URLSearchParams(location.search);
+  const cod = params.get("cod");
+  const tipo = params.get("tipo");
+  if (cod) {
+    fetch(`${import.meta.env.BASE_URL}/api/v1/municipios.json`)
+      .then((r) => r.json())
+      .then((dados) => {
+        municipios = dados.filter((m: { c: string }) => m.c.length === 7);
+        carregado = true;
+        const m = municipios.find((x) => x.c === cod);
+        if (m) {
+          selecionado = m;
+          busca.value = `${m.n} (${m.u})`;
+          escolhido.textContent = `${m.n} (${m.u}) — código ${m.c}`;
+        }
+      })
+      .catch(() => {});
+  }
+  if (tipo === "bandeira") {
+    (form.querySelector("select[name=tipo]") as HTMLSelectElement).value = "bandeira";
+  }
+</script>
+
+<style>
+  .form {
+    display: grid;
+    gap: var(--step-4);
+    max-width: 46rem;
+    margin: 0 auto var(--step-6);
+  }
+  fieldset {
+    border: 1px solid var(--border);
+    border-radius: var(--r-card);
+    background: var(--surface);
+    padding: var(--step-4);
+    box-shadow: var(--shadow-card);
+  }
+  legend {
+    font-family: var(--font-display);
+    font-size: var(--step-4);
+    padding: 0 0.4rem;
+  }
+  .campo {
+    display: grid;
+    gap: 0.35rem;
+    margin-top: var(--step-3);
+    font-size: var(--step-2);
+    color: var(--muted);
+  }
+  .campo input,
+  .campo select,
+  .campo textarea {
+    font: inherit;
+    color: var(--ink);
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--r-input);
+    padding: 0.6rem 0.7rem;
+  }
+  .campo input:focus,
+  .campo select:focus,
+  .campo textarea:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+  .opcoes {
+    display: grid;
+    gap: 0.5rem;
+    margin-top: var(--step-2);
+  }
+  .opcao {
+    display: flex;
+    gap: 0.6rem;
+    align-items: flex-start;
+    padding: 0.55rem 0.7rem;
+    border: 1px solid var(--border);
+    border-radius: var(--r-input);
+    font-size: var(--step-2);
+    cursor: pointer;
+  }
+  .opcao:has(input:checked) {
+    border-color: var(--accent);
+    background: var(--accent-soft);
+  }
+  .dupla {
+    display: grid;
+    gap: var(--step-3);
+    grid-template-columns: 1fr 1fr;
+  }
+  @media (max-width: 34rem) {
+    .dupla {
+      grid-template-columns: 1fr;
+    }
+  }
+  .ajuda {
+    font-size: var(--step-1);
+    color: var(--muted);
+  }
+  .enviar {
+    margin-top: var(--step-3);
+    font: inherit;
+    font-weight: 600;
+    color: #fff;
+    background: var(--accent);
+    border: 0;
+    border-radius: var(--r-pill);
+    padding: 0.7rem 1.4rem;
+    cursor: pointer;
+  }
+  .enviar:disabled {
+    opacity: 0.6;
+    cursor: progress;
+  }
+  .status {
+    margin-top: var(--step-2);
+    font-size: var(--step-2);
+  }
+  .status.ok {
+    color: var(--ok);
+  }
+  .status.erro {
+    color: var(--stop);
+  }
+</style>

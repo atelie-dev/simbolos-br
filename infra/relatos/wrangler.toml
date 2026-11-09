@@ -1,0 +1,20 @@
+name = "simbolos-relatos"
+main = "src/index.js"
+compatibility_date = "2026-11-09"
+
+# Rota específica: não encosta em /simbolos/api/v1/*, que é estático do Pages.
+routes = [
+  { pattern = "coletivo.dev.br/simbolos/api/relatar*", zone_name = "coletivo.dev.br" }
+]
+
+[vars]
+GITHUB_APP_ID = "5675699"
+GITHUB_REPO = "atelie-dev/simbolos-br"
+TURNSTILE_SITEKEY = "0x4AAAAAAF5cVWD66VFXq6xW"
+
+[[kv_namespaces]]
+binding = "RELATOS"
+id = "a596f241c2f2480f93224f7e35ce1aed"
+
+[observability]
+enabled = true

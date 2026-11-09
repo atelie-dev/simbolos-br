@@ -43,3 +43,6 @@ data/fontes/
 .env
 .env.*
 !.env.example
+
+# wrangler dev (segredos locais do Worker)
+.dev.vars

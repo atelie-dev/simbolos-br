@@ -36,7 +36,7 @@ const snippet = `<img src="${alvo}" alt="${alt}" width="192" height="192">`;
       </p>
       <p class="nota">
         Símbolo ausente não é símbolo inexistente: pode estar publicado pela
-        prefeitura em PDF. <a href={`${base}#contribuir`}>Enviar o arquivo</a>.
+        prefeitura em PDF. <a href={`${base}contribuir?cod=${entrada.c}&tipo=${tipo}`}>Enviar o arquivo</a>.
       </p>
     </article>
   ) : (
@@ -110,6 +110,9 @@ const snippet = `<img src="${alvo}" alt="${alt}" width="192" height="192">`;
           </button>
           <a class="btn" href={alvo} target="_blank" rel="noopener">
             Baixar {principal.toUpperCase()}
+          </a>
+          <a class="btn btn--ghost" href={`${base}contribuir?cod=${entrada.c}&tipo=${tipo}`}>
+            Reportar problema
           </a>
         </div>
       </div>
