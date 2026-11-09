@@ -129,6 +129,10 @@ compartilha 1.214, pendente 69.
   `sha256` do sidecar** — o acervo diz "byte a byte" e não é. `data/vetores` está
   como `binary`; `data/meta` e `data/ledger` como `-text`. Conferir com
   `git cat-file blob :arquivo | sha256sum` contra `sha256sum arquivo`.
+- **`publicar` não carimba `urls`.** A ordem é `publicar` → `simbolos urls` →
+  `r2`. Pular o `urls` deixa o sidecar público sem as três URLs, e o consumidor
+  precisa baixar o catálogo inteiro para descobrir onde o arquivo está (aconteceu
+  com os 258 importados do crawl).
 - **`data/vetores` e `dist/embed` têm o mesmo conteúdo por construção.** Quem
   manda é `data/vetores`; `simbolos vetores` recusa sobrescrever sem `--forcar` e
   manda o divergente para `data/vetores/conflito/`.
