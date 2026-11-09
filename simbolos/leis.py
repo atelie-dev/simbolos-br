@@ -368,6 +368,10 @@ def coletar_municipio(
                         "url_pdf": ato.get("url_pdf"),
                         "simbolo": simbolo.get("url_ativo"),
                         "simbolo_aceito": simbolo.get("aceito"),
+                        # O modelo já responde brasao/bandeira: guardar é de graça,
+                        # e perder obriga a refazer a página inteira depois.
+                        "simbolo_tipo": simbolo.get("tipo"),
+                        "simbolo_confianca": simbolo.get("confianca"),
                     }
                 )
                 if ato.get("aceito") and registro["ato"] is None:

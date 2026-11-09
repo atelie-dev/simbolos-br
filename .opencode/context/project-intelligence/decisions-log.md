@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.3 | Updated: 2026-11-08 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.4 | Updated: 2026-11-08 -->
 
 # Decisions Log — Símbolos BR
 
@@ -399,3 +399,28 @@ lido e 1 página analisada.
 **Armadilha registrada:** `robots.txt` inacessível por **5xx** deve bloquear
 (RFC 9309); por **404**, liberar. Tratar os dois igual erra para um dos lados — e
 o lado errado é o que quebra a confiança.
+
+## D24 — Crawl oficial concluído: 403 símbolos, teto de 10 no LLM (2026-11-08)
+
+**Resultado medido:** 1.218 municípios sem cobertura Wikidata/Commons, 1.218
+processados, **zero falha de LLM** na última passada. 2.104 páginas analisadas,
+**719 ocorrências de símbolo → 403 URLs únicas** (180 repetem, no máximo 3×),
+**368 municípios com símbolo (30%)**. 10 atos de lei reconhecidos, **0 PDFs**.
+Custo total US$ 0,20 (duas passadas) e 5h de parede.
+
+**Desfecho dos municípios:** 988 com home lida, 106 barrados por `robots.txt`,
+97 com domínio não resolvido, 24 com erro de home, 3 com falha de DNS. Os 203
+que o crawl não visita são limite estrutural (robots e padrão de domínio), não
+retrabalho.
+
+**Teto do provedor:** a 24 chamadas simultâneas, 39% das páginas voltavam sem
+resposta; a 10, 0%. O número não vem de documentação — vem de um experimento
+natural: AL rodou a 3 sem falha e todas as UFs a 24 falharam entre 35% e 51%.
+
+**Consequência:** a cobertura do acervo sai de 4.788 para 5.156 municípios
+(92,5%), **se** os 403 forem importados. Eles entram como `balde: pendente` e
+`origem` fora do Commons, portanto `risco: alto` — a única cópia é o R2.
+
+**Dívida registrada:** o `extrair` já devolvia `tipo` (brasao/bandeira) e o
+coletor descartava. Corrigido para as próximas safras; nesta, 141 das 403 URLs
+não têm pista de tipo nem no nome do arquivo e dependem do portão de visão.
