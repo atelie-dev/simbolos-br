@@ -26,6 +26,8 @@ export type Item = {
   sha256_origem: string | null;
   rendicoes: Record<string, Rendicao>;
   arte?: { l: number; a: number } | null;
+  /** Última conferência contra a origem (D21). */
+  verificacao?: { estado?: string; em?: string; sha1_commons?: string } | null;
 };
 
 const ler = <T>(rel: string): T =>

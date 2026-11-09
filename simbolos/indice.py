@@ -218,6 +218,9 @@ def gerar(destino: Path = DESTINO) -> dict:
             "sha256_origem": r.get("sha256_origem"),
             "rendicoes": r.get("rendicoes") or {},
             "arte": artes.get((r["codigo_ibge"], r["tipo"])),
+            # Última conferência contra a origem (D21): a página usa para dizer
+            # "conferido" em vez de repetir "não revisado" para sempre.
+            "verificacao": r.get("verificacao"),
         }
         for r in sorted(itens.values(), key=lambda x: (x["codigo_ibge"], x["tipo"]))
     ]

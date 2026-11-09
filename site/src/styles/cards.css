@@ -118,6 +118,10 @@
   color: var(--muted);
 }
 
+.card .selo--pendente {
+  color: var(--muted);
+}
+
 /* Campo sem valor: a linha existe e diz que falta. */
 .card .ausente {
   color: var(--muted);

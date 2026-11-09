@@ -22,7 +22,36 @@ export type CardItem = {
   origem: string | null;
   rendicoes: Record<string, { bytes: number }>;
   arte?: { l: number; a: number } | null;
+  verificacao?: { estado?: string; em?: string } | null;
 };
+
+/**
+ * A linha "Revisão" diz o que a última conferência concluiu, não um selo fixo.
+ * `em` é ISO; o card mostra dia/mês — o ano está na versão do acervo.
+ */
+function revisao(verificacao?: { estado?: string; em?: string } | null): {
+  texto: string;
+  tom: string;
+} {
+  const estado = verificacao?.estado ?? "";
+  const em = verificacao?.em ?? "";
+  const quando = em.length >= 10 ? ` ${em.slice(8, 10)}/${em.slice(5, 7)}` : "";
+  switch (estado) {
+    case "igual":
+    case "renomeado":
+      return { texto: `conferido${quando}`, tom: "livre" };
+    case "link_vivo":
+      return { texto: `link vivo${quando}`, tom: "livre" };
+    case "divergente":
+      return { texto: "origem mudou", tom: "compartilha" };
+    case "sumiu":
+      return { texto: "origem sumiu", tom: "oficial" };
+    case "link_morto":
+      return { texto: "link morto", tom: "oficial" };
+    default:
+      return { texto: "não revisado", tom: "revisao" };
+  }
+}
 
 export type CardOpcoes = {
   base: string;
@@ -43,6 +72,7 @@ const BALDE: Record<string, string> = {
   livre: "livre",
   compartilha: "compartilha",
   oficial: "oficial",
+  pendente: "pendente",
 };
 
 /**
@@ -130,6 +160,7 @@ export function cardHtml(
     ? `<dd>${esc(item.autor)}</dd>`
     : `<dd class="ausente">não registrado</dd>`;
   const lic = LICENCAS[item.licenca ?? ""];
+  const rev = revisao(item.verificacao);
   const licencaTexto = item.licenca
     ? `<code>${esc(item.licenca)}</code>`
     : `<span class="ausente">não declarada</span>`;
@@ -163,7 +194,7 @@ export function cardHtml(
             )}</span></button>`,
         )
         .join(" ")}</dd></div>
-      <div><dt>Revisão</dt><dd><span class="selo selo--revisao">não revisado</span></dd></div>
+      <div><dt>Revisão</dt><dd><span class="selo selo--${rev.tom}">${esc(rev.texto)}</span></dd></div>
     </dl>
     ${acoes}
   </div>

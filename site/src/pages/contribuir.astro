@@ -232,6 +232,7 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
       origem: (d.origem as string) ?? null,
       rendicoes: (d.rendicoes as Record<string, { bytes: number }>) ?? {},
       arte: (d.arte as { l: number; a: number }) ?? null,
+      verificacao: (d.verificacao as { estado?: string; em?: string }) ?? null,
     };
   }
 
