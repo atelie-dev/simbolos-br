@@ -2,6 +2,10 @@
 
 Nada de backend: o site carrega um JSON e filtra no cliente. Chaves curtas porque
 o arquivo é baixado por todo visitante — 5.571 municípios com nomes longos.
+
+Fonte: os **sidecars** (`data/meta/v1`), não o catálogo agregado. O `dist/
+catalogo.json` é derivado e só é reescrito pelo `publicar`; ler dele fazia o
+índice depender de um passo anterior que o nome não anuncia.
 """
 
 from __future__ import annotations
@@ -12,9 +16,8 @@ from pathlib import Path
 
 from PIL import Image
 
-from . import DATA
+from . import DATA, publicacao
 
-CATALOGO = DATA.parent / "dist" / "catalogo.json"
 DESTINO = DATA.parent / "site" / "public" / "api" / "v1"
 DESTINO_BUILD = DATA.parent / "site" / "src" / "data"
 
@@ -98,8 +101,9 @@ def _tier(item: dict | None, arte: dict | None) -> int:
     return 2 if lado >= 400 else 1
 
 
-def _publicados(catalogo: list[dict]) -> dict[tuple[str, str], dict]:
-    return {(r["codigo_ibge"], r["tipo"]): r for r in catalogo if r.get("estado") == "publicado"}
+def _publicados() -> dict[tuple[str, str], dict]:
+    """Itens publicados, lidos dos sidecars — a verdade, não o agregado."""
+    return publicacao.indice_meta()
 
 
 def _linha(entrada: dict, itens: dict, tiers: dict[str, int], regiao: dict[str, str]) -> dict:
@@ -123,11 +127,10 @@ def _linha(entrada: dict, itens: dict, tiers: dict[str, int], regiao: dict[str, 
 
 
 def gerar(destino: Path = DESTINO) -> dict:
-    catalogo = json.loads(CATALOGO.read_text())
     municipios = json.loads((DATA / "municipios.json").read_text())
     estados = json.loads((DATA / "estados.json").read_text())
     regiao = {e["uf"]: e.get("regiao", "") for e in estados}
-    itens = _publicados(catalogo)
+    itens = _publicados()
 
     artes = {chave: _arte(chave[0], chave[1]) for chave in itens}
     tiers = {

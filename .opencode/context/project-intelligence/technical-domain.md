@@ -35,7 +35,7 @@ uv run python -m simbolos risco            # data/risco.json: quem está só no 
 uv run python -m simbolos urls             # carimba URLs públicas no catálogo
 uv run python -m simbolos r2               # sobe embed/ + meta/ para simbolos-br-cdn
 uv run python -m simbolos acervo           # backup privado em simbolos-br-acervo
-uv run python -m simbolos indice           # índice de busca + resumo do site
+uv run python -m simbolos indice           # índice + resumo, lendo os sidecars
 uv run python -m simbolos centros          # coordenada da sede de cada município (Wikidata)
 uv run python -m simbolos malha            # malha municipal do IBGE em células de 1°
 uv run python -m simbolos pix              # valida o BR Code e gera o QR do PIX
