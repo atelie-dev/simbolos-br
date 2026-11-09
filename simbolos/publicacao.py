@@ -26,7 +26,7 @@ from pathlib import Path
 
 from PIL import Image
 
-from . import DATA, META, VETORES, guarda, rede
+from . import DATA, META, VETORES, config, guarda, rede
 
 LADO = 512
 RESPIRO = 0.02
@@ -306,7 +306,7 @@ def _pasta_meta(tipo: str) -> Path:
 
 
 def gravar_meta(registro: dict) -> None:
-    """Sidecar por ativo: a verdade sobre um item, ao lado do catálogo agregado.
+    """Sidecar por ativo: a verdade sobre um item.
 
     O catálogo é derivado e escrito em lote; o sidecar é escrito assim que o
     item fica publicado. Se o processo morrer no meio, o próximo run reconstrói
@@ -317,6 +317,11 @@ def gravar_meta(registro: dict) -> None:
     """
     if registro.get("estado") != "publicado":
         return
+    # A URL é função do registro, não um passo separado: carimbar aqui evita que
+    # um sidecar publicado fique sem ela porque alguém esqueceu de rodar `urls`.
+    # Sobrescreve sempre — se o host do CDN mudar, a próxima gravação corrige.
+    if registro.get("codigo_ibge") and registro.get("tipo"):
+        registro["urls"] = config.urls_do_item(registro)
     pasta = _pasta_meta(registro["tipo"])
     pasta.mkdir(parents=True, exist_ok=True)
     destino = pasta / f"{registro['codigo_ibge']}.json"

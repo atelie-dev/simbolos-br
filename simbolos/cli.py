@@ -1104,29 +1104,22 @@ def indice_cmd(
 
 
 @app.command("urls")
-def urls_cmd(
-    arquivo: Annotated[Path, typer.Option(help="catalogo publicado")] = DATA.parent
-    / "dist"
-    / "catalogo.json",
-    raiz: Annotated[Path, typer.Option(help="arvore de embed")] = DATA.parent / "dist",
-) -> None:
-    """Preenche as URLs publicas de cada item, no catalogo e no sidecar."""
-    if not arquivo.exists():
-        raise typer.BadParameter("nada publicado ainda: rode simbolos publicar")
-    registros = json.loads(arquivo.read_text())
+def urls_cmd() -> None:
+    """Regrava as URLs publicas nos sidecars (backfill e troca de host).
+
+    A URL e derivada do registro: `gravar_meta` ja a carimba em toda gravacao.
+    Este comando existe para reescrever os sidecars de uma vez — depois de mudar
+    `CDN_BASE`, por exemplo, ou para consertar sidecar antigo sem URL.
+    """
+    registros = list(publicacao.indice_meta().values())
     for reg in registros:
-        if reg.get("estado") == "publicado":
-            reg["urls"] = config.urls_do_item(reg)
-            # O sidecar e a verdade do item: se ele nao tem a URL, o consumidor
-            # precisa baixar o catalogo inteiro para descobrir onde o arquivo esta.
-            publicacao.gravar_meta(reg)
-    arquivo.write_text(json.dumps(registros, ensure_ascii=False, indent=1) + "\n")
-    console.print(f"{sum(1 for r in registros if r.get('urls'))} itens com URL")
+        publicacao.gravar_meta(reg)
+    console.print(f"{len(registros)} sidecars com URL")
     console.print(f"site: {config.SITE_BASE}")
     console.print(f"cdn:  {config.CDN_BASE}")
-    exemplo = next((r for r in registros if r.get("urls")), None)
+    exemplo = registros[0].get("urls", {}).get("png") if registros else None
     if exemplo:
-        console.print(f"exemplo: {exemplo['urls']['png']}")
+        console.print(f"exemplo: {exemplo}")
 
 
 def main() -> None:

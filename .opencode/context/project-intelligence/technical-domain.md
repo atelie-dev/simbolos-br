@@ -32,7 +32,7 @@ uv run python -m simbolos importar         # traz os símbolos do crawl .gov.br 
 uv run python -m simbolos atestar          # sha1/bytes/data de captura nos sidecars (sem rede)
 uv run python -m simbolos verificar-fonte  # confere os 8.379 no Commons por sha1 (~3 min)
 uv run python -m simbolos risco            # data/risco.json: quem está só no R2
-uv run python -m simbolos urls             # carimba URLs públicas no catálogo
+uv run python -m simbolos urls             # regrava as URLs nos sidecars (backfill)
 uv run python -m simbolos r2               # sobe embed/ + meta/ para simbolos-br-cdn
 uv run python -m simbolos acervo           # backup privado em simbolos-br-acervo
 uv run python -m simbolos indice           # índice + resumo, lendo os sidecars
