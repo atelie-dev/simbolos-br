@@ -1,0 +1,56 @@
+---
+/**
+ * Botão que abre um município sorteado.
+ *
+ * Não carrega o índice no build: 5.571 rotas em toda página seria peso morto
+ * para quem nunca clica. O índice vem quando o botão é acionado, e fica em
+ * sessionStorage como uma lista de rotas (código-slug), bem menor que o JSON
+ * completo.
+ */
+interface Props {
+  rotulo?: string;
+}
+const { rotulo = "Município aleatório" } = Astro.props;
+---
+
+<button type="button" class="btn btn--ghost aleatorio" data-aleatorio>{rotulo}</button>
+
+<script>
+  import { BASE } from "../lib/urls";
+
+  const CHAVE = "indice:rotas";
+  const botao = document.querySelector<HTMLButtonElement>("[data-aleatorio]");
+
+  async function rotas(): Promise<string[]> {
+    const guardado = sessionStorage.getItem(CHAVE);
+    if (guardado) return JSON.parse(guardado);
+
+    const resposta = await fetch(`${BASE}api/v1/municipios.json`);
+    const dados = (await resposta.json()) as { c: string; s: string }[];
+    const lista = dados.filter((m) => m.c.length === 7).map((m) => `${m.c}-${m.s}`);
+    sessionStorage.setItem(CHAVE, JSON.stringify(lista));
+    return lista;
+  }
+
+  botao?.addEventListener("click", async () => {
+    const original = botao.textContent;
+    botao.disabled = true;
+    botao.textContent = "Sorteando…";
+    try {
+      const lista = await rotas();
+      const rota = lista[Math.floor(Math.random() * lista.length)];
+      if (rota) location.assign(`${BASE}municipios/${rota}`);
+    } catch {
+      botao.textContent = "Não foi possível agora";
+    } finally {
+      botao.disabled = false;
+      botao.textContent = original;
+    }
+  });
+</script>
+
+<style>
+  .aleatorio {
+    margin-top: 1rem;
+  }
+</style>

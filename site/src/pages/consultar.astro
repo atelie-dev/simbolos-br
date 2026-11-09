@@ -1,5 +1,6 @@
 ---
 import Base from "../layouts/Base.astro";
+import Aleatorio from "../components/Aleatorio.astro";
 import Busca from "../components/Busca.astro";
 import Topo from "../components/Topo.astro";
 import { BASE as base } from "../lib/urls";
@@ -19,6 +20,7 @@ const consulta = Astro.url.searchParams.get("q") ?? "";
         {` 5.571 `}municípios e as 27 unidades da federação.
       </p>
       <Busca variante="pagina" valor={consulta} id="q-consulta" />
+      <Aleatorio />
       <ul class="dicas">
         <li><code>sao paulo</code> encontra <strong>São Paulo</strong> sem acento.</li>
         <li><code>3550308</code> abre pelo código IBGE.</li>
