@@ -12,6 +12,10 @@
   place-items: center;
   padding: 1.5rem;
   min-height: 280px;
+  /* A prévia absorve a altura extra da linha: quando o card vizinho é mais
+     alto, cresce a arte — em vez de abrir um vão entre os metadados e os
+     botões. */
+  flex: 1;
   background-image: conic-gradient(
     var(--border) 25%,
     var(--surface) 0 50%,
@@ -25,7 +29,11 @@
 .card.simbolo .xadrez img {
   width: 100%;
   max-width: 240px;
+  /* SVG mantém a proporção original: sem teto, um brasão retrato deixa a
+     prévia mais alta que o raster de 512×512. */
+  max-height: 300px;
   height: auto;
+  object-fit: contain;
   display: block;
 }
 
@@ -34,7 +42,6 @@
   display: flex;
   flex-direction: column;
   gap: 0.875rem;
-  flex: 1;
 }
 
 .card.simbolo .info-topo {
@@ -115,7 +122,6 @@
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
-  margin-top: auto;
   padding-top: 0.5rem;
 }
 
