@@ -99,9 +99,9 @@ export function cardHtml(
     opcoes.acoes === false
       ? ""
       : `<div class="acoes">
-          <button type="button" class="btn btn--ghost" data-copiar="${esc(alvo)}">Copiar URL</button>
-          <button type="button" class="btn btn--ghost" data-copiar="${esc(snippet)}">Copiar &lt;img&gt;</button>
-          <a class="btn" href="${esc(alvo)}" target="_blank" rel="noopener">Baixar ${principal.toUpperCase()}</a>
+          <button type="button" class="btn btn--ghost" data-papel="url" data-copiar="${esc(alvo)}">Copiar URL</button>
+          <button type="button" class="btn btn--ghost" data-papel="snippet" data-copiar="${esc(snippet)}">Copiar &lt;img&gt;</button>
+          <a class="btn" data-baixar href="${esc(alvo)}" target="_blank" rel="noopener">Baixar ${principal.toUpperCase()}</a>
           <a class="btn btn--ghost" href="${linkContribuir}">Reportar problema</a>
         </div>`;
 
@@ -118,7 +118,7 @@ export function cardHtml(
 
   return `<article class="card simbolo">
   <div class="xadrez">
-    <img src="${esc(embedUrl(entrada.c, tipo, "png"))}" alt="${esc(alt)}" width="320" height="320" decoding="async" />
+    <img data-previa src="${esc(embedUrl(entrada.c, tipo, principal))}" alt="${esc(alt)}" width="320" height="320" decoding="async" />
   </div>
   <div class="info">
     <div class="info-topo">
@@ -129,9 +129,16 @@ export function cardHtml(
       <div><dt>Licença</dt><dd class="licenca"><span class="selo selo--${esc(item.balde ?? "")}">${esc(BALDE[item.balde ?? ""] ?? "?")}</span> <code>${esc(item.licenca)}</code> ${seloLic}</dd></div>
       ${autor}
       <div><dt>Origem</dt><dd>${origem}</dd></div>
-      <div><dt>Formatos</dt><dd class="num">${formatos
-        .map((f) => `${f.toUpperCase()} ${kb(item.rendicoes[f].bytes)}`)
-        .join(" · ")}</dd></div>
+      <div><dt>Formatos</dt><dd class="num formatos">${formatos
+        .map(
+          (f) =>
+            `<button type="button" class="fmt" data-fmt data-ext="${f}" data-url="${esc(
+              embedUrl(entrada.c, tipo, f),
+            )}" aria-pressed="${f === principal}">${f.toUpperCase()} <span>${kb(
+              item.rendicoes[f].bytes,
+            )}</span></button>`,
+        )
+        .join("")}</dd></div>
       <div><dt>Revisão</dt><dd><span class="selo selo--revisao">não revisado</span></dd></div>
     </dl>
     ${acoes}

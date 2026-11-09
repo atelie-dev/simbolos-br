@@ -55,5 +55,40 @@ const canonica = new URL(caminho, Astro.site).href;
   <body>
     <a class="sr-only" href="#conteudo">Pular para o conteúdo</a>
     <slot />
+
+    <script>
+      // Troca de formato dentro do card. O botão carrega a URL de destino, então
+      // o cliente não precisa saber o host do CDN para montar o caminho.
+      document.addEventListener("click", (evento) => {
+        const botao = (evento.target as HTMLElement).closest<HTMLButtonElement>("[data-fmt]");
+        if (!botao) return;
+        const card = botao.closest(".card.simbolo");
+        const url = botao.dataset.url;
+        const ext = botao.dataset.ext;
+        if (!card || !url || !ext) return;
+
+        const previa = card.querySelector<HTMLImageElement>("[data-previa]");
+        if (previa) previa.src = url;
+
+        card.querySelectorAll<HTMLButtonElement>("[data-fmt]").forEach((outro) => {
+          outro.setAttribute("aria-pressed", String(outro === botao));
+        });
+
+        const baixar = card.querySelector<HTMLAnchorElement>("[data-baixar]");
+        if (baixar) {
+          baixar.href = url;
+          baixar.textContent = `Baixar ${ext.toUpperCase()}`;
+        }
+
+        const copiarUrl = card.querySelector<HTMLButtonElement>('[data-papel="url"]');
+        if (copiarUrl) copiarUrl.dataset.copiar = url;
+
+        const copiarSnippet = card.querySelector<HTMLButtonElement>('[data-papel="snippet"]');
+        if (copiarSnippet) {
+          const alt = previa?.alt ?? "";
+          copiarSnippet.dataset.copiar = `<img src="${url}" alt="${alt}" width="192" height="192">`;
+        }
+      });
+    </script>
   </body>
 </html>
