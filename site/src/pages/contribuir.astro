@@ -129,6 +129,20 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
       <fieldset>
         <legend>4. Enviar</legend>
         <label class="campo">
+          Quem é você? (opcional)
+          <select name="papel">
+            <option value="">prefiro não dizer</option>
+            <option value="historiador">historiador(a)</option>
+            <option value="servidor_municipal">servidor(a) municipal</option>
+            <option value="morador">morador(a) do município</option>
+            <option value="hobbista">hobbista de heráldica</option>
+            <option value="curioso">curioso(a)</option>
+            <option value="desenvolvedor">desenvolvedor(a)</option>
+            <option value="outro">outro</option>
+          </select>
+          <span class="ajuda">Ajuda a pesar o relato. Não é obrigatório.</span>
+        </label>
+        <label class="campo">
           Contato (opcional)
           <input name="contato" placeholder="como falar com você" maxlength="120" />
           <span class="ajuda">O envio fica público. Não escreva dados de outras pessoas.</span>
@@ -370,6 +384,7 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
       uf: selecionado?.u || "",
       municipio: selecionado?.n || "",
       tipo: String(fd.get("tipo")),
+      papel: String(fd.get("papel") || ""),
       contato: String(fd.get("contato") || ""),
     };
     if (fluxo === "relato") {
@@ -428,10 +443,12 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
       }
       const duplicado = Boolean(resposta.duplicado);
       const url = String(resposta.url || "");
-      limpar();
+      // Duplicado não é sucesso: manter o formulário para a pessoa ajustar o
+      // motivo, em vez de apagar o que ela escreveu.
+      if (!duplicado) limpar();
       status.className = "status ok";
       status.innerHTML = duplicado
-        ? "Este relato já foi recebido nas últimas 24 horas."
+        ? "Este relato já foi recebido nas últimas 24 horas. Se o problema for outro, ajuste o motivo e envie de novo."
         : `Recebido. Acompanhe em <a href="${url}" rel="noopener">${url}</a>. Nada muda no acervo sem alguém confirmar.`;
     } catch {
       status.className = "status erro";

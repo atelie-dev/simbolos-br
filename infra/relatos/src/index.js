@@ -29,6 +29,17 @@ const MOTIVOS = new Set([
 
 const CONTRIBUICOES = new Set(["simbolo", "ato_oficial", "vetor", "correcao"]);
 
+/** Quem relata. Opcional, mas fechado: a triagem usa isso para pesar o relato. */
+const PAPEIS = {
+  historiador: "historiador(a)",
+  servidor_municipal: "servidor(a) municipal",
+  morador: "morador(a) do município",
+  hobbista: "hobbista de heráldica",
+  curioso: "curioso(a)",
+  desenvolvedor: "desenvolvedor(a)",
+  outro: "outro",
+};
+
 const LIMITE_POR_HORA = 5;
 const TEXTO_MAX = 800;
 const CORPO_MAX = 8000;
@@ -72,12 +83,16 @@ function validar(d) {
   const tipo = texto(d.tipo, 10);
   if (!TIPOS.has(tipo)) return { erro: "tipo invalido" };
 
+  const papel = texto(d.papel, 30);
+  if (papel && !(papel in PAPEIS)) return { erro: "papel invalido" };
+
   const base = {
     fluxo,
     codigo,
     tipo,
     uf: texto(d.uf, 2).toUpperCase(),
     municipio: texto(d.municipio, 80),
+    papel,
     contato: texto(d.contato, 120),
   };
 
@@ -236,6 +251,7 @@ function corpoIssue(d) {
     if (d.atribuicao) linhas.push(`**Atribuição:** ${d.atribuicao}`);
     if (d.detalhe) linhas.push(`**Detalhe:** ${d.detalhe}`);
   }
+  if (d.papel) linhas.push(`**Quem relata:** ${PAPEIS[d.papel]}`);
   if (d.contato) linhas.push(`**Contato:** ${d.contato}`);
 
   linhas.push(
