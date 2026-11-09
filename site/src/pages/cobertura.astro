@@ -108,10 +108,10 @@ const ufs = [...resumo.por_uf].sort((a, b) => a.uf.localeCompare(b.uf));
                 <button type="button" data-tipo="numero">Brasão<span class="seta" aria-hidden="true"></span></button>
               </th>
               <th scope="col" class="dir">
-                <button type="button" data-tipo="numero">Bandeira<span class="seta" aria-hidden="true"></span></button>
+                <button type="button" data-tipo="numero">Brasão vet.<span class="seta" aria-hidden="true"></span></button>
               </th>
               <th scope="col" class="dir">
-                <button type="button" data-tipo="numero">Brasão vet.<span class="seta" aria-hidden="true"></span></button>
+                <button type="button" data-tipo="numero">Bandeira<span class="seta" aria-hidden="true"></span></button>
               </th>
               <th scope="col" class="dir">
                 <button type="button" data-tipo="numero">Bandeira vet.<span class="seta" aria-hidden="true"></span></button>
@@ -133,8 +133,8 @@ const ufs = [...resumo.por_uf].sort((a, b) => a.uf.localeCompare(b.uf));
                   <td class="estado" data-v={u.nome}>{u.nome}</td>
                   <td class="dir num" data-v={u.total}>{num(u.total)}</td>
                   <td class="dir num" data-v={pct(u.brasao, u.total)}>{pct(u.brasao, u.total)}%</td>
-                  <td class="dir num" data-v={pct(u.bandeira, u.total)}>{pct(u.bandeira, u.total)}%</td>
                   <td class="dir num" data-v={pct(u.brasao_vetorial, u.total)}>{pct(u.brasao_vetorial, u.total)}%</td>
+                  <td class="dir num" data-v={pct(u.bandeira, u.total)}>{pct(u.bandeira, u.total)}%</td>
                   <td class="dir num" data-v={pct(u.bandeira_vetorial, u.total)}>{pct(u.bandeira_vetorial, u.total)}%</td>
                   <td class="dir num sem" data-v={u.sem}>{num(u.sem)}</td>
                   <td class="barra-col" data-v={cobertura}>
