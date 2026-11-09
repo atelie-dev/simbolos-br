@@ -95,15 +95,33 @@ const ufs = [...resumo.por_uf].sort((a, b) => a.uf.localeCompare(b.uf));
         <table>
           <thead>
             <tr>
-              <th scope="col">UF</th>
-              <th scope="col">Estado</th>
-              <th scope="col" class="dir">Municípios</th>
-              <th scope="col" class="dir">Brasão</th>
-              <th scope="col" class="dir">Bandeira</th>
-              <th scope="col" class="dir">Brasão vet.</th>
-              <th scope="col" class="dir">Bandeira vet.</th>
-              <th scope="col" class="dir">Sem</th>
-              <th scope="col" class="barra-col">Cobertura</th>
+              <th scope="col" aria-sort="ascending">
+                <button type="button" data-tipo="texto">UF<span class="seta" aria-hidden="true"></span></button>
+              </th>
+              <th scope="col">
+                <button type="button" data-tipo="texto">Estado<span class="seta" aria-hidden="true"></span></button>
+              </th>
+              <th scope="col" class="dir">
+                <button type="button" data-tipo="numero">Municípios<span class="seta" aria-hidden="true"></span></button>
+              </th>
+              <th scope="col" class="dir">
+                <button type="button" data-tipo="numero">Brasão<span class="seta" aria-hidden="true"></span></button>
+              </th>
+              <th scope="col" class="dir">
+                <button type="button" data-tipo="numero">Bandeira<span class="seta" aria-hidden="true"></span></button>
+              </th>
+              <th scope="col" class="dir">
+                <button type="button" data-tipo="numero">Brasão vet.<span class="seta" aria-hidden="true"></span></button>
+              </th>
+              <th scope="col" class="dir">
+                <button type="button" data-tipo="numero">Bandeira vet.<span class="seta" aria-hidden="true"></span></button>
+              </th>
+              <th scope="col" class="dir">
+                <button type="button" data-tipo="numero">Sem<span class="seta" aria-hidden="true"></span></button>
+              </th>
+              <th scope="col" class="barra-col">
+                <button type="button" data-tipo="numero">Cobertura<span class="seta" aria-hidden="true"></span></button>
+              </th>
             </tr>
           </thead>
           <tbody>
@@ -111,15 +129,15 @@ const ufs = [...resumo.por_uf].sort((a, b) => a.uf.localeCompare(b.uf));
               const cobertura = pct(u.total - u.sem, u.total);
               return (
                 <tr>
-                  <th scope="row" class="uf">{u.uf}</th>
-                  <td class="estado">{u.nome}</td>
-                  <td class="dir num">{num(u.total)}</td>
-                  <td class="dir num">{pct(u.brasao, u.total)}%</td>
-                  <td class="dir num">{pct(u.bandeira, u.total)}%</td>
-                  <td class="dir num">{pct(u.brasao_vetorial, u.total)}%</td>
-                  <td class="dir num">{pct(u.bandeira_vetorial, u.total)}%</td>
-                  <td class="dir num sem">{num(u.sem)}</td>
-                  <td class="barra-col">
+                  <th scope="row" class="uf" data-v={u.uf}>{u.uf}</th>
+                  <td class="estado" data-v={u.nome}>{u.nome}</td>
+                  <td class="dir num" data-v={u.total}>{num(u.total)}</td>
+                  <td class="dir num" data-v={pct(u.brasao, u.total)}>{pct(u.brasao, u.total)}%</td>
+                  <td class="dir num" data-v={pct(u.bandeira, u.total)}>{pct(u.bandeira, u.total)}%</td>
+                  <td class="dir num" data-v={pct(u.brasao_vetorial, u.total)}>{pct(u.brasao_vetorial, u.total)}%</td>
+                  <td class="dir num" data-v={pct(u.bandeira_vetorial, u.total)}>{pct(u.bandeira_vetorial, u.total)}%</td>
+                  <td class="dir num sem" data-v={u.sem}>{num(u.sem)}</td>
+                  <td class="barra-col" data-v={cobertura}>
                     <span class="barra" aria-hidden="true">
                       <span style={`width:${cobertura}%`} />
                     </span>
@@ -171,6 +189,59 @@ const ufs = [...resumo.por_uf].sort((a, b) => a.uf.localeCompare(b.uf));
   </main>
 
   <Rodape />
+
+  <script>
+    // Ordenação por coluna, no cliente. As células carregam o valor bruto em
+    // data-v: sem isso, "%" e separador de milhar seriam ordenados como texto.
+    const tabela = document.querySelector<HTMLTableElement>(".matriz table");
+    if (tabela) {
+      const corpo = tabela.tBodies[0];
+      const ths = [...tabela.querySelectorAll<HTMLTableCellElement>("thead th")];
+      const linhas = [...corpo.rows];
+      let coluna = 0;
+      let direcao = 1;
+
+      const bruto = (linha: HTMLTableRowElement, i: number): string | number => {
+        const valor = linha.cells[i]?.dataset.v ?? "";
+        const n = Number(valor);
+        return valor !== "" && Number.isFinite(n) ? n : valor;
+      };
+
+      const ordenar = (indice: number, tipo: string) => {
+        const ordem = [...linhas].sort((a, b) => {
+          const va = bruto(a, indice);
+          const vb = bruto(b, indice);
+          const r =
+            tipo === "texto"
+              ? String(va).localeCompare(String(vb), "pt-BR")
+              : Number(va) - Number(vb);
+          // Empate resolve pela UF, sempre ascendente: inverter junto com a
+          // coluna deixaria os empates em ordem alfabética ao contrário.
+          if (r !== 0) return r * direcao;
+          return String(bruto(a, 0)).localeCompare(String(bruto(b, 0)), "pt-BR");
+        });
+        corpo.replaceChildren(...ordem);
+      };
+
+      ths.forEach((th, i) => {
+        const botao = th.querySelector<HTMLButtonElement>("button");
+        if (!botao) return;
+        botao.addEventListener("click", () => {
+          const tipo = botao.dataset.tipo ?? "numero";
+          if (coluna === i) {
+            direcao = -direcao;
+          } else {
+            coluna = i;
+            // Número começa do maior (o que interessa); texto, de A.
+            direcao = tipo === "texto" ? 1 : -1;
+          }
+          ths.forEach((outro) => outro.setAttribute("aria-sort", "none"));
+          th.setAttribute("aria-sort", direcao === 1 ? "ascending" : "descending");
+          ordenar(i, tipo);
+        });
+      });
+    }
+  </script>
 
   <style>
     .cabeca {
@@ -346,6 +417,45 @@ const ufs = [...resumo.por_uf].sort((a, b) => a.uf.localeCompare(b.uf));
       margin: 0;
       font-size: 0.9375rem;
       color: var(--muted);
+    }
+
+    /* Cabeçalho ordenável: o botão herda a tipografia do th. */
+    thead button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+      font: inherit;
+      color: inherit;
+      letter-spacing: inherit;
+      text-transform: inherit;
+      background: none;
+      border: 0;
+      padding: 0;
+      cursor: pointer;
+    }
+
+    thead button:hover {
+      color: var(--accent);
+    }
+
+    thead button:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+
+    .seta {
+      display: inline-block;
+      width: 0.8em;
+      color: var(--accent);
+      text-align: center;
+    }
+
+    th[aria-sort="ascending"] .seta::before {
+      content: "↑";
+    }
+
+    th[aria-sort="descending"] .seta::before {
+      content: "↓";
     }
 
 
