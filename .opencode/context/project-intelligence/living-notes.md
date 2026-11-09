@@ -58,22 +58,19 @@ compartilha 1.214, pendente 69.
 
 ## Próximo passo, em ordem
 
-1. **Trocar a chave privada da GitHub App**: ela foi colada no chat durante a
-   configuração (D27). Revogar na App, gerar outra e rodar `wrangler secret put
-   GITHUB_PRIVATE_KEY` em `infra/relatos/`.
-2. **Portão de visão** nos 915 itens antigos e nos 267 importados do crawl:
+1. **Portão de visão** nos 915 itens antigos e nos 267 importados do crawl:
    confirmar identidade e qualidade (o tipo já passou pela v2).
-3. **`/baixar`**: pacotes por estado e formato, `brasil-livre.zip` (só balde
+2. **`/baixar`**: pacotes por estado e formato, `brasil-livre.zip` (só balde
    livre) e `danfse-192.zip`. É a última rota do plano que falta no site.
-4. **`/m/{cod}`** como redirect: `_redirects` do Pages aceita só 2.100 — precisa
+3. **`/m/{cod}`** como redirect: `_redirects` do Pages aceita só 2.100 — precisa
    Bulk Redirects na zona ou Worker.
-5. **Símbolos dos estados**: os 27 nunca entraram na coleta; a página do estado
+4. **Símbolos dos estados**: os 27 nunca entraram na coleta; a página do estado
    diz isso explicitamente.
-6. **`/transparencia`**: já existe número — domínio, ~2,7 GB de R2, egress zero,
+5. **`/transparencia`**: já existe número — domínio, ~2,7 GB de R2, egress zero,
    e os 326 itens de risco alto (68 antigos + 258 importados).
-7. **Moderação dos relatos**: a fila é o GitHub; falta rotina para ler
+6. **Moderação dos relatos**: a fila é o GitHub; falta rotina para ler
    `aguardando-confirmacao`, aplicar e fechar citando o commit.
-8. **CI**: ligar o Pages ao GitHub exige gerar o índice no build (depende do
+7. **CI**: ligar o Pages ao GitHub exige gerar o índice no build (depende do
    catálogo e dos PNGs) — decisão à parte.
 
 ## Dívidas conhecidas

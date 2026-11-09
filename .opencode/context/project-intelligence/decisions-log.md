@@ -506,7 +506,8 @@ armazém e superfície de abuso); item em texto livre (relato inaplicável).
 `simbolos rejeitar` ou `simbolos importar`, e fechar a issue citando o commit. O
 Worker só enfileira.
 
-**Armadilha registrada:** a chave privada da App **vazou no chat** durante a
-configuração. Precisa ser revogada na App e trocada com `wrangler secret put
-GITHUB_PRIVATE_KEY`. Turnstile: a sitekey é pública (página + var do Worker), o
-secret é secret do Worker.
+**Sobre a chave privada:** ela foi colada no chat durante a configuração. O
+mantenedor decidiu **não rotacionar**, porque este canal é ZDR (sem retenção) —
+a chave segue em uso, e o registro fica aqui para quem discordar do critério.
+Turnstile: a sitekey é pública (página + var do Worker), o secret é secret do
+Worker.
