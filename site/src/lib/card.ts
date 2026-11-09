@@ -76,10 +76,28 @@ export function cardHtml(
   const linkContribuir = `${esc(opcoes.base)}contribuir?cod=${esc(entrada.c)}&amp;tipo=${tipo}`;
 
   if (!item) {
+    // O vazio tem a mesma anatomia do card cheio (prévia + info): assim os dois
+    // lados ficam alinhados, em vez de um bloco de texto solto ao lado de um
+    // card. A CTA só aparece fora do formulário de relato — lá ela apontaria
+    // para a própria página em que a pessoa está.
+    const cta =
+      opcoes.acoes === false
+        ? ""
+        : `<div class="acoes"><a class="btn" href="${linkContribuir}">Indicar a fonte oficial</a></div>`;
     return `<article class="card vazio">
-  <h2>${rotulo}</h2>
-  <p class="muted">Ainda não temos ${artigo} ${rotulo.toLowerCase()} de ${esc(entrada.n)}.</p>
-  <p class="nota">Símbolo ausente não é símbolo inexistente: pode estar publicado pela prefeitura em PDF. <a href="${linkContribuir}">Enviar o arquivo</a>.</p>
+  <div class="xadrez" aria-hidden="true">
+    <svg viewBox="0 0 24 28" width="104" height="120" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 1.6 22 5.2v8.6c0 6.6-4.2 10.9-10 12.6C6.2 24.7 2 20.4 2 13.8V5.2L12 1.6Z" />
+      <path d="M12 9.6v6.8" />
+      <path d="M8.6 13h6.8" />
+    </svg>
+  </div>
+  <div class="info">
+    <h2>${rotulo}</h2>
+    <p class="muted">Ainda não temos ${artigo} ${rotulo.toLowerCase()} de ${esc(entrada.n)}.</p>
+    <p class="nota">Ausente não quer dizer inexistente: muitas prefeituras publicam ${artigo} ${rotulo.toLowerCase()} só em PDF, num decreto ou no site antigo.</p>
+    ${cta}
+  </div>
 </article>`;
   }
 

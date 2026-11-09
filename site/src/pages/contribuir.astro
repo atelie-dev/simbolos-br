@@ -296,7 +296,8 @@ const sitekey = "0x4AAAAAAF5cVWD66VFXq6xW";
       return;
     }
     // Não há o que relatar num item que não existe: isso é contribuição.
-    notaEl.textContent = `Ainda não temos ${artigo(tipo)} ${rotulo(tipo).toLowerCase()} de ${selecionado.n}. Se você tem a fonte oficial, use Contribuir.`;
+    // O card já diz que o símbolo não existe; aqui só se orienta o próximo passo.
+    notaEl.textContent = "Informe a fonte oficial abaixo, se você tiver.";
     const fluxoContrib = form.querySelector<HTMLInputElement>("input[name=fluxo][value=contribuicao]");
     const tipoSimbolo = form.querySelector<HTMLInputElement>("input[name=contribuicao][value=simbolo]");
     if (fluxoContrib) fluxoContrib.checked = true;

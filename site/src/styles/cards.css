@@ -136,15 +136,42 @@
 }
 
 .card.vazio {
-  padding: 1.5rem;
   border-style: dashed;
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
+}
+
+/* Mesma anatomia do card cheio: área de arte + bloco de informação. */
+.card.vazio .xadrez {
+  display: grid;
+  place-items: center;
+  flex: 1;
+  min-height: 240px;
+  padding: 1.5rem;
+  color: var(--muted);
+  background-image: conic-gradient(
+    var(--border) 25%,
+    var(--surface) 0 50%,
+    var(--border) 0 75%,
+    var(--surface) 0
+  );
+  background-size: 16px 16px;
+  border-bottom: 1px dashed var(--border);
+}
+
+.card.vazio .xadrez svg {
+  opacity: 0.4;
+}
+
+.card.vazio .info {
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
 }
 
 .card.vazio h2 {
-  font-size: 1.125rem;
+  font-size: 1.25rem;
 }
 
 .card.vazio p {
@@ -155,6 +182,10 @@
 .card.vazio .nota {
   color: var(--muted);
   font-size: 0.875rem;
+}
+
+.card.vazio .acoes {
+  padding-top: 0.35rem;
 }
 
 /* Selo oficial da licença, ao lado do código SPDX. O link leva à escritura. */
