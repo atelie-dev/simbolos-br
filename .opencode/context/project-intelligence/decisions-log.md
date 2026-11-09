@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.8 | Updated: 2026-11-09 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.9 | Updated: 2026-11-09 -->
 
 # Decisions Log — Símbolos BR
 
@@ -543,3 +543,34 @@ rejeitado fica de fora. A linha do card linka a página onde a lei foi lida
 `verificar-fonte` e voltaram **iguais por sha256**, não por link: 8.656 de 8.656
 itens têm data de verificação. O próximo salto da lei não é a prefeitura, é o
 sistema da câmara — e a AAM entrega a URL da câmara dos 62 do AM de graça.
+
+## D29 — A fonte estadual morreu; a categoria do Commons preenche (2026-11-09)
+
+**Decisão:** tentar Alagoas pela SECULT (secretaria estadual de cultura, que
+lista brasão e bandeira de cada município) e, ao encontrar a fonte morta,
+preencher a lacuna por **categoria do Commons** com um comando novo,
+`simbolos completar`, aditivo.
+
+**Por quê (medido):** a SECULT-AL tem 102 páginas de município, uma por
+município, cada uma com as duas imagens — mas todas apontam para
+`www.cultura.al.gov.br`, domínio que responde 301 para a home da SECULT. O
+Wayback só guardou as miniaturas de 128 px; o arquivo grande nunca foi
+arquivado. Já as categorias `Flags of municipalities of Alagoas` (112 arquivos)
+e `SVG flags...` (13) tinham 21 bandeiras nossas que a coleta por Wikidata
+(P41) não pegou: prefeitura que não declarou P41 fica sem bandeira mesmo com o
+arquivo publicado. Resultado: 21 aceitas pela visão (1 SVG incluído), 15,8 MB,
+US$ 0,008; AL sai de 33 para 12 municípios sem bandeira, e 13 municípios
+ganham o primeiro símbolo.
+
+**Rejeitado:** `simbolos commons` + `triar` para isso — o `triar` reconstrói o
+catálogo do zero e apagaria os 262 imports do crawl e os 15 da AAM, que não
+estão em jsonl nenhum; aceitar vetor sem visão só porque o nome diz "bandeira"
+— o portão agora rasteriza o SVG e decide (era o único formato que ele recusava,
+e é o melhor do acervo); usar o acervo de `simbolosmunicipais.com.br` como
+fonte ou como referência — ele mistura Commons com prévias marcadas da
+Simbolopedia (MBI), produto pago, sem licença nem autoria declarada.
+
+**Consequência:** `completar --uf {UF}` é o caminho para as outras 26 UFs, com
+`--seco` para medir antes de baixar. O buraco real do acervo é a coleta por
+propriedade do Wikidata: categoria do Commons enxerga arquivo que P41 não vê.
+As 40 bandeiras de AL sem casamento por nome são a próxima fila.

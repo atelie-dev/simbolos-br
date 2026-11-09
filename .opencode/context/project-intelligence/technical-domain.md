@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.5 | Updated: 2026-11-09 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.6 | Updated: 2026-11-09 -->
 
 # Technical Domain — Símbolos BR
 
@@ -24,8 +24,9 @@ devenv shell                  # resvg, poppler, python, node estão aqui dentro
 uv run python -m simbolos catalogo         # 5.571 municípios + 27 UFs
 uv run python -m simbolos wikidata         # P1585 -> P94/P41 + imageinfo
 uv run python -m simbolos commons          # categorias do Commons (todas as UFs)
+uv run python -m simbolos completar --uf AL # preenche tipo que falta, aditivo (não refaz o catálogo)
 uv run python -m simbolos spike            # rendimento na amostra estratificada
-uv run python -m simbolos triar            # um candidato por município -> catálogo
+uv run python -m simbolos triar            # um candidato por município -> catálogo (RECONSTRÓI)
 uv run python -m simbolos publicar         # baixa + renderiza + dist/embed/v1
 uv run python -m simbolos fontes           # rebaixa e arquiva o original em data/fontes
 uv run python -m simbolos importar         # traz os símbolos do crawl .gov.br para o catálogo

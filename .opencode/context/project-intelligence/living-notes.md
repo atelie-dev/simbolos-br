@@ -1,4 +1,4 @@
-<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.5 | Updated: 2026-11-09 -->
+<!-- Context: project-intelligence | Project: simbolos-br | Version: 2.6 | Updated: 2026-11-09 -->
 
 # Living Notes — Símbolos BR
 
@@ -34,17 +34,19 @@ bucket dele, sem Worker. Configurável por `SITE_BASE` / `CDN_BASE` /
 | Catálogo IBGE | pronto: 27 UFs, 5.571 municípios (`data/municipios.json`) |
 | Coleta Wikidata + Commons | pronta: 4.353 brasões, 4.037 bandeiras |
 | Triagem | pronta: `data/_catalogo/catalogo.json` (4.790 municípios com item) |
-| Publicação | **concluída**: 8.656 itens publicados, 0 falha na última passada |
-| Sidecars no R2 | 8.656 regravados, 12,7 MB, 0 falhas |
-| Fontes originais | 7.209 rasters em `data/fontes` (1,3 GB), 0 divergências, backup no bucket privado |
-| Procedência | **conferida**: 8.656 de 8.656 itens com data de verificação; a última rodada pegou 15 (AAM) e achou 15 iguais |
+| Publicação | **concluída**: 8.677 itens publicados, 0 falha nos novos |
+| Sidecars no R2 | 8.677 regravados, 12,9 MB, 0 falhas |
+| Fontes originais | 7.230 rasters em `data/fontes` (1,4 GB), backup no bucket privado |
+| Procedência | **conferida**: 8.677 de 8.677 itens com data de verificação; a última rodada pegou 21 e achou 21 iguais |
 | Crawl `.gov.br` | **concluído**: 1.218 municípios, 0 falha de LLM, 403 URLs únicas de símbolo em 368 municípios, US$ 0,20 (D24) |
 | AAM (Amazonas) | **concluído**: 62 municípios, 15 símbolos novos, 2 rejeitados pela visão, US$ 0,009 (D28) |
+| SECULT-AL | **descartado**: as 102 páginas de município existem, mas todas as imagens apontam para o domínio morto `cultura.al.gov.br`; só sobreviveram miniaturas de 128 px no Wayback (D29) |
+| Commons por categoria | **novo**: `simbolos completar` preenche o tipo que falta pela categoria do estado; Alagoas rendeu 21 bandeiras (33 → 12 faltando) (D29) |
 | Biblioteca da AAM | **descartada**: 126 documentos (95 notas técnicas, 27 FPM, 2 revistas, 2 cartilhas), zero sobre símbolo (D28) |
 | Atos oficiais | 11 itens em 8 municípios com lei confirmada e link da página; linha "Ato oficial" no card só quando existe (D28) |
 | Sidecars locais | em `data/meta/v1` (verdade versionável), com `sha1_origem`, `capturado_em`, `verificacao`, `ato` e `guarda` |
-| Acervo versionado | 1.170 SVGs (287 MB) em `data/vetores` + livro-razão (3,3 MB) em `data/ledger` (D22) |
-| Guarda | 345 itens de risco alto (346 `pendente`, 277 fora do Commons), 8.311 baixos; vetor tem `espelhos: [commons, git]` |
+| Acervo versionado | 1.171 SVGs (287 MB) em `data/vetores` + livro-razão (3,3 MB) em `data/ledger` (D22) |
+| Guarda | 345 itens de risco alto (346 `pendente`, 277 fora do Commons), 8.332 baixos; vetor tem `espelhos: [commons, git]` |
 | R2 | `simbolos-br-cdn` (público) + `simbolos-br-acervo` (**sem domínio**) = 2,62 GB, 26% do free tier |
 | Site | **no ar**: landing, `/consultar`, `/cobertura`, `/sobre`, `/contribuir`, 5.571 municípios, 27 estados, portal na raiz |
 | Relatos | `/simbolos/contribuir` → Worker + Turnstile + GitHub App: issue com `aguardando-confirmacao`, nada automático (D27) |
@@ -54,10 +56,10 @@ bucket dele, sem Worker. Configurável por `SITE_BASE` / `CDN_BASE` /
 | Apoio | GitHub Sponsors ativo; PIX com chave UUID e sem `txid` |
 | Pacotes npm/PyPI/Composer | não começaram |
 
-Números públicos: 8.656 itens, 4.962 municípios cobertos (89,1%), 4.578 com
-brasão, 4.078 com bandeira. Vetorial por tipo: 573 municípios com brasão em SVG,
-597 com bandeira em SVG, 1.170 itens vetoriais. Baldes (contados nos sidecars):
-livre 7.096, compartilha 1.214, pendente 346.
+Números públicos: 8.677 itens, 4.974 municípios cobertos (89,3%), 4.578 com
+brasão, 4.099 com bandeira. Vetorial por tipo: 573 municípios com brasão em SVG,
+598 com bandeira em SVG, 1.171 itens vetoriais. Baldes (contados nos sidecars):
+livre 7.116, compartilha 1.215, pendente 346.
 
 ## Próximo passo, em ordem
 
@@ -193,6 +195,22 @@ livre 7.096, compartilha 1.214, pendente 346.
 - **Dado coletado e não exibido é dívida invisível.** O `ato` estava no
   `leis.jsonl` desde o crawl, com trecho e página, e nunca chegou ao sidecar nem
   ao card: existia e não servia para nada. Derivado que ninguém lê não é ativo.
+- **`triar` reconstrói o catálogo do zero** a partir dos jsonl de candidatos.
+  Rodar depois de `importar` ou `aam` **apaga** esses itens, que não estão em
+  jsonl nenhum. Para preencher lacuna sem perder nada, use `completar`
+  (aditivo): ele só toca no tipo que falta.
+- **O portão de visão não lia SVG.** `visao.carregar` mandava `image/svg+xml`
+  para o modelo, que devolvia `tipo: None` e recusava todo vetor — o melhor
+  formato do acervo era o único que o gate nunca aprovava. Agora rasteriza com
+  `resvg` antes de perguntar (`visao._rasterizar`).
+- **Página de secretaria estadual pode estar viva com imagem morta.** A SECULT-AL
+  tem 102 páginas de município, cada uma com `<img>` apontando para
+  `www.cultura.al.gov.br`, domínio que hoje redireciona para a home. Conferir o
+  `src`, não só o HTML: o texto existe, o arquivo não.
+- **Acervo de terceiro pode ser cópia de catálogo pago.** O
+  `simbolosmunicipais.com.br` mistura arquivos do Commons (um brasão era
+  byte-idêntico) com prévias marcadas da Simbolopedia (MBI, mbi.com.br), que
+  vende as versões limpas. Sem licença e sem autor declarado: nunca é fonte.
 
 ## Questões abertas
 

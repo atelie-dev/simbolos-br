@@ -112,6 +112,21 @@ def sinais(conteudo: bytes) -> dict:
     }
 
 
+def _rasterizar(conteudo: bytes) -> bytes | None:
+    """SVG não entra em modelo de imagem: renderiza antes de perguntar.
+
+    Vetor é o melhor formato do acervo, e o portão recusava todos por não
+    conseguir abrir o arquivo. `resvg` só existe dentro do `devenv`; se faltar,
+    devolve None e o erro aparece na decisão.
+    """
+    try:
+        from .publicacao import svg_para_png
+
+        return svg_para_png(conteudo)
+    except Exception:  # noqa: BLE001
+        return None
+
+
 def carregar(origem: str) -> tuple[bytes, str]:
     """Aceita URL ou caminho local; devolve (bytes, mime)."""
     if origem.startswith(("http://", "https://")):
@@ -120,10 +135,18 @@ def carregar(origem: str) -> tuple[bytes, str]:
         )
         r.raise_for_status()
         mime = (r.headers.get("content-type") or "image/jpeg").split(";")[0]
-        return r.content, mime
-    caminho = Path(origem)
-    ext = caminho.suffix.lower().lstrip(".")
-    return caminho.read_bytes(), _MIME.get(ext, "image/jpeg")
+        conteudo = r.content
+    else:
+        caminho = Path(origem)
+        ext = caminho.suffix.lower().lstrip(".")
+        conteudo = caminho.read_bytes()
+        mime = _MIME.get(ext, "image/jpeg")
+
+    if mime == "image/svg+xml" or b"<svg" in conteudo[:1000]:
+        png = _rasterizar(conteudo)
+        if png:
+            return png, "image/png"
+    return conteudo, mime
 
 
 def _payload(modelo: str, url_dados: str, max_tokens: int = 800) -> dict:

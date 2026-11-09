@@ -1,0 +1,53 @@
+{
+ "codigo_ibge": "2706000",
+ "uf": "AL",
+ "municipio": "Olivença",
+ "tipo": "bandeira",
+ "origem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bandeira_de_Oliven%C3%A7a_ALAGOAS.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "licenca": "CC0-1.0",
+ "balde": "livre",
+ "autor": "Prefeitura Municipal de Olivença",
+ "estado": "publicado",
+ "formato_origem": "image/png",
+ "sha256_origem": "33469ed48b8969440e02d87af6050f588a1f86657a852081841402b3a0b056f8",
+ "sha1_origem": "11f879ae78ae7e4837d987fbdc81183eebaad241",
+ "bytes_origem": 671565,
+ "capturado_em": "2026-11-09T07:20:32Z",
+ "captura_fonte": "arquivo",
+ "rendicoes": {
+  "png": {
+   "bytes": 76660,
+   "sha256": "a90e616976f3ccd0a453941a2e99c278b752d954df6bd849dededa117edf37c3",
+   "lado": 512
+  },
+  "jpg": {
+   "bytes": 21751,
+   "sha256": "7656586e5e0684029e919c9c2e4a042905a4ac0efc5b80a23ba3ea17337d38ef",
+   "lado": 512
+  }
+ },
+ "titulo_commons": "File:Bandeira_de_Olivença_ALAGOAS.png",
+ "fonte": {
+  "arquivo": "fontes/v1/bandeira/2706000.png",
+  "bytes": 671565,
+  "sha256": "33469ed48b8969440e02d87af6050f588a1f86657a852081841402b3a0b056f8",
+  "sha1": "11f879ae78ae7e4837d987fbdc81183eebaad241"
+ },
+ "guarda": {
+  "espelhos": [
+   "commons"
+  ],
+  "risco": "baixo",
+  "motivo": []
+ },
+ "urls": {
+  "svg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2706000.svg",
+  "png": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2706000.png",
+  "jpg": "https://simbolos.coletivo.dev.br/embed/v1/bandeira/2706000.jpg"
+ },
+ "verificacao": {
+  "em": "2026-11-09T07:24:37Z",
+  "estado": "igual",
+  "sha1_commons": "11f879ae78ae7e4837d987fbdc81183eebaad241"
+ }
+}

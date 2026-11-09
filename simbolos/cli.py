@@ -24,6 +24,7 @@ from . import (
     catalogo,
     centros,
     commons,
+    completar,
     config,
     guarda,
     importar,
@@ -665,6 +666,57 @@ def maritaca_batch(
     for item in res.get("resultados", []):
         console.print(f"  {item.get('url')} -> {'OK' if item.get('aceito') else 'nao'}")
     console.print(f"-> {saida}")
+
+
+@app.command("completar")
+def completar_cmd(
+    uf: Annotated[str, typer.Option("--uf", help="sigla da UF")],
+    tipo: Annotated[
+        list[str] | None,
+        typer.Option("--tipo", help="brasao/bandeira (repetivel); padrao os dois"),
+    ] = None,
+    seco: Annotated[
+        bool, typer.Option("--seco", help="lista o que entraria, sem baixar nem gravar")
+    ] = False,
+    forcar: Annotated[
+        bool, typer.Option("--forcar", help="substitui tipo que o catalogo ja tem")
+    ] = False,
+    limite: Annotated[int, typer.Option(help="0 = todos")] = 0,
+) -> None:
+    """Completa tipo que falta usando a categoria do Commons da UF.
+
+    Diferente do `commons` + `triar`, que reconstroem o catalogo e apagariam os
+    imports do crawl e da AAM: aqui a escrita e aditiva e so toca no tipo que
+    falta. O portao de visao decide cada candidato antes de entrar.
+    """
+    tipos = tuple(tipo or completar.TIPOS)
+    with console.status(f"varrendo categorias de {uf}..."):
+        r = completar.aplicar(uf, tipos=tipos, forcar=forcar, seco=seco, limite=limite)
+
+    t = Table(title=f"completar · {uf}")
+    t.add_column("medida")
+    t.add_column("valor", justify="right")
+    t.add_row("tipos procurados", ", ".join(tipos))
+    t.add_row("itens em disputa", str(r["categorias"]))
+    t.add_row("municipios", str(r["municipios"]))
+    if not seco:
+        t.add_row("aceitos pela visao", str(r["aceitos"]))
+        t.add_row("rejeitados pela visao", str(r["rejeitados"]))
+        t.add_row("falhas de download", str(r["falhas"]))
+        t.add_row("tamanho", f"{r['bytes'] / 1024 / 1024:.1f} MB")
+        t.add_row("custo da visao", f"US$ {r['visao_usd']:.4f}")
+        t.add_row("por tipo", json.dumps(r["por_tipo"], ensure_ascii=False))
+    t.add_row("arquivos sem casamento", str(r["sem_casamento"]))
+    console.print(t)
+
+    if seco:
+        for d in r["detalhe"]:
+            console.print(
+                f"  {d['codigo']} {d['municipio']} | {d['tipo']} | "
+                f"{d['largura']}x{d['altura']} | {d['url'][:70]}"
+            )
+    elif r["aceitos"]:
+        console.print(f"-> {completar.CATALOGO} (rode `simbolos publicar` depois)")
 
 
 @app.command("triar")
