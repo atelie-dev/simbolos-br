@@ -105,10 +105,16 @@ export function cardHtml(
           <a class="btn btn--ghost" href="${linkContribuir}">Reportar problema</a>
         </div>`;
 
+  // Toda linha aparece sempre: quando o valor falta, o card diz que falta, em
+  // vez de encolher. Sem isso, dois cards lado a lado têm áreas brancas com
+  // alturas diferentes.
   const autor = item.autor
-    ? `<div><dt>Autor</dt><dd>${esc(item.autor)}</dd></div>`
-    : "";
+    ? `<dd>${esc(item.autor)}</dd>`
+    : `<dd class="ausente">não registrado</dd>`;
   const lic = LICENCAS[item.licenca ?? ""];
+  const licencaTexto = item.licenca
+    ? `<code>${esc(item.licenca)}</code>`
+    : `<span class="ausente">não declarada</span>`;
   const seloLic = lic
     ? `<a class="lic-badge" href="${esc(lic.deed)}" rel="license noopener"><img src="${esc(opcoes.base)}${lic.arquivo}" alt="${esc(lic.nome)}" width="88" height="31" loading="lazy" /></a>`
     : "";
@@ -126,8 +132,8 @@ export function cardHtml(
       ${selo}
     </div>
     <dl class="detalhes">
-      <div><dt>Licença</dt><dd class="licenca"><span class="selo selo--${esc(item.balde ?? "")}">${esc(BALDE[item.balde ?? ""] ?? "?")}</span> <code>${esc(item.licenca)}</code> ${seloLic}</dd></div>
-      ${autor}
+      <div><dt>Licença</dt><dd class="licenca"><span class="selo selo--${esc(item.balde ?? "")}">${esc(BALDE[item.balde ?? ""] ?? "?")}</span> ${licencaTexto} ${seloLic}</dd></div>
+      <div><dt>Autor</dt>${autor}</div>
       <div><dt>Origem</dt><dd>${origem}</dd></div>
       <div><dt>Formatos</dt><dd class="num formatos">${formatos
         .map(
@@ -138,7 +144,7 @@ export function cardHtml(
               item.rendicoes[f].bytes,
             )}</span></button>`,
         )
-        .join("")}</dd></div>
+        .join(" ")}</dd></div>
       <div><dt>Revisão</dt><dd><span class="selo selo--revisao">não revisado</span></dd></div>
     </dl>
     ${acoes}

@@ -118,6 +118,11 @@
   color: var(--muted);
 }
 
+/* Campo sem valor: a linha existe e diz que falta. */
+.card .ausente {
+  color: var(--muted);
+}
+
 .card.simbolo .acoes {
   display: flex;
   flex-wrap: wrap;
