@@ -318,7 +318,9 @@ const ufs = [...resumo.por_uf].sort((a, b) => a.uf.localeCompare(b.uf));
       width: 100%;
       border-collapse: collapse;
       font-size: 0.9375rem;
-      min-width: 720px;
+      /* Piso para as larguras das colunas numéricas valerem: abaixo disso a
+         tabela rola na horizontal, em vez de espremer os números. */
+      min-width: 1000px;
     }
 
     thead th {
@@ -348,8 +350,19 @@ const ufs = [...resumo.por_uf].sort((a, b) => a.uf.localeCompare(b.uf));
       border-bottom: 0;
     }
 
-    .dir {
-      text-align: right;
+    /* Colunas numéricas com a mesma largura e o valor no centro: assim o
+       título e o dado ficam no mesmo eixo, e a comparação entre linhas não
+       depende de o número ter 2 ou 4 dígitos. */
+    thead th.dir,
+    tbody td.dir {
+      width: 7rem;
+      min-width: 7rem;
+      text-align: center;
+    }
+
+    thead th.dir button {
+      width: 100%;
+      justify-content: center;
     }
 
     .uf {
